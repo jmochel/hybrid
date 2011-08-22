@@ -1,0 +1,3 @@
+\\chapter{*}=<sect1><title>$1</title>
+\\section{*}=<sect2><title>$1</title><para>
+\\subsection{*}=<sect3><title>$1</title><para>

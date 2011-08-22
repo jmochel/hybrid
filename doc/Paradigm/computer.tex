@@ -1,0 +1,170 @@
+\chapter{Computers}
+
+\section{Outline}
+\section{Description}
+
+Computers are a bitch to model and require some care. In general computers
+are modeled in the following manner. There are a number of assumptions made
+including: Ram is cheap. Software and algorithms become fast enogh to make
+multi gigabyte searches manageable. Storage Space is cheap . Software is not
+cheap.
+
+\section{Computer Description}
+
+
+\begin{figure}[htb]
+\caption{Computer Description Format}
+	\begin{description}
+		\item[Name]
+		\item[Interface Type] (Visual-Mental-Aural-Tactile)
+		\item[Interface Ability]
+        \item[Interface Rank]
+		\item[Processes]
+		\item[IO]
+		\item[Retrieval]
+		\item[Storage]
+	\end{description}
+\end{figure}
+
+\section{Computer Description Format Explanation}
+
+\begin{description}
+	\item[Name]
+	Usually the most common name and the model specification.
+	\item[Interface Type]
+	(Visual|Mental|Aural|Tactile)
+	\begin{description}
+		\item[Visual]
+		Light Board, Tele\-type, CRT, Holog\-ra\-phy, Kini\-esthi\-olotic Scanner
+		\item[Mental]
+		Droud Plug, Induction Helmet, Empathy Board, Psicoder
+		\item[Aural]
+		Vocoder, Sonic Interference Induction.,
+		\item[Tactile]
+		Feelie Board, Nerve Induction Board
+	\end{description}
+	\item[Interface Ability]
+	\begin{description}
+		\item[Abstract Language]
+		\item[Native Language]
+		\item[Direct Connect]
+	\end{description}
+    \item[Interface Rank]
+    The effective rank that the interface maintains as a "Hardware 
+	Filter Skill" . Basically a measure of how much of a characters 
+	skills may be effectively transferred to the computer environment.
+        This rating operates as an additive modifier to the character's 
+        Comp Ops skill.
+	\item[Processes (PRC)]
+	The combined "pool" denoting the number and complexity of the processes
+	that can be performed by the CPU.  Usually expressed in terms of the DF
+	* Number of processes. Such that a 10 Processes * 6 DF/Process => PRC =
+	60. Thus someone asks a EF 4 question. This is a DF = 6 so the computers
+	rating is now 54.
+	\item[IO]
+	The rating denoting the combined number and size of information
+	transfers that ca be performeds. Usually not of consequence except when
+	dealing with large data transfers. If it does become of consequence , it simply subtracts from the EF of
+	the process involved.
+	\item[Retrieval]
+	Discusses the DF * Number of Retrivals that the CPU can handle easily.
+	DFs of retrievals are based on the query and the size of the Database
+	being searched.
+	\item[Storage]
+	Discusses the Permanant storage area. Usually rated in terms of gigabytes.
+\end{description}
+
+
+\section{Artificial Intelligence}
+
+A form of software that allows the CPU to partially interpret what the
+user has asked. In effect, the CPU learns something about the user and
+adds in various additional parameters to the query as needed. As a
+result AI is a direct aid in the Formulation Of Questions and Queries.
+
+\section{Asking Questions of a computer}
+
+The types of queries that are used are the same as for the chapter on 
+Research.
+
+\subsection{Retrieval Queries}
+
+Directly get some information. The easiest type of Question. EF = 10.
+
+\subsection{Calculational Queries}
+
+Given information, perform numeric manipulations on them.
+
+\subsection{Inference Queries}
+
+Given information, infer something from them. This is difficult but
+fairly straight forward.
+
+\subsection{Formulate Queries}
+
+Given the following information what questions do I need to ask to get
+the following. Rarely done and somewhat complex.
+
+There are three steps to asking a detailed question
+
+\subsection{Formulate}
+
+In most situations this is done by the PC on an ad hoc basis and
+treated on the fly by the GM. Usually the query is formulated as a
+request to retrieve data. Only in special circumstances should the GM
+require the character to roll in order to Formulate the query.
+
+
+\subsection{Retrieve}
+
+Retrieval is a direct search in the appropriate database of
+information or related DB's.
+
+\subsection{Calculate}
+\subsection{Correlate}
+
+\subsection{Examples}
+
+The PC asks the question. If the interface is natural language the
+character simply asks a question. This is a base EF of 5. For each
+complexity, subtract from the EF until we have the chance of asking the
+question appropriately. AI software will add to the EF and a complex
+interface will subtract from this. The final roll ius made , taking into
+account the rank in using the computer and the SN is determined. The S
+of this roll is added to the SN of the actual query result.
+
+The EF is purely the result of the combined EFs involved in the query.
+
+\begin{table}[htb]
+\caption{Typical EFS involved}
+	\begin{tabular}{||l|l||} \hline
+	Simple Database search      & 5 \\
+	Simple Calculation          & 5 \\
+	Simple Inference            & 4 \\
+	Simple Formulation          & 3 \\ \hline
+
+	Additional Factor Same type & -1 \\
+	Additional Factor Different Type & -2 \\
+	Database is larger than retrieval rating  & (-1/Magnitude) \\
+	Database is smaller than retrieval rating & (+1/magnitude) \\
+	Software is specific to problem           & (EF +3) \\
+	Software is specific to type of problem   & (EF +2) \\
+	IO is greater than IO rating              & (-1/Magnitude) \\ \hline
+
+	AI Interface software                     & EF +1-+4 to formulation \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsection{Query 1}
+The query involves a Database search (EF = 5). It is a small
+database ( 7 Megabytes ). It is well below the retrieval rating of
+the system. So that adds 2 to the EF. The database is specific to
+what is being looked for ( EF + 2) .The end result is a EF 9 skill
+roll. Most high tech level pocket calculators can handle this one.
+Database search (EF = 5). A small database ( EF + 2). Add in a
+simple calculation (EF -2), add in a correalation (EF -2) and add in
+an inference (EF -2).
+
+Again, these rules should rarely be needed
+
+

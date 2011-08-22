@@ -1,0 +1,100 @@
+.Career			Pick Pocket
+.BaseSkill		4
+.BaseFinancial	4,000
+.StatDF			5
+.SkillDF		6
+.WealthDF		4
+.StatusDF		6
+.BeginDetail	
+.EndDetail
+
+.Career			Smuggler
+.BaseSkill		5
+.BaseFinancial	10,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		5
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Terran Space Navy
+.BaseSkill		6
+.BaseFinancial	14,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		3
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Grunt Mercenary	  
+.BaseSkill		4
+.BaseFinancial	7,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		3
+.StatusDF		5
+.BeginDetail	
+.EndDetail
+
+.Career			Terran Scouts
+.BaseSkill		6
+.BaseFinancial		14,000
+.StatDF			3
+.SkillDF		8
+.WealthDF		4
+.StatusDF		5
+.BeginDetail	
+.EndDetail
+
+.Career			Nurse
+.BaseSkill		8
+.BaseFinancial		12,000
+.StatDF			6
+.SkillDF		7
+.WealthDF		5
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Traffic Controller
+.BaseSkill		6
+.BaseFinancial		25,000
+.StatDF			3
+.SkillDF		6
+.WealthDF		3
+.StatusDF		2
+.BeginDetail	
+.EndDetail
+
+.Career			Advanced Education
+.BaseSkill		8
+.BaseFinancial		2,000
+.StatDF			6
+.SkillDF		7
+.WealthDF		3
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career	Corporate Attorney
+.BaseSkill
+.BaseFinancial
+.StatDF
+.SkillDF
+.WealthDF
+.StatusDF
+.BeginDetail
+.EndDetail
+
+.Career	Terran Military
+.BaseSkill
+.BaseFinancial
+.StatDF
+.SkillDF
+.WealthDF
+.StatusDF
+.BeginDetail
+.EndDetail
+

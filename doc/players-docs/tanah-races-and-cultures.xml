@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//W3C//DTD MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/mathml2.dtd">
+<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<article xmlns="http://docbook.org/ns/docbook">
+    <title>Races and Cultures of Tanah</title>
+    <info>
+        <author>
+            <personname>Jim Mochel</personname>
+        </author>
+        <copyright>
+            <year>1987</year>
+            <year>2011</year>
+        </copyright>
+    </info>
+    <sect1>
+        <title>Human Races</title>
+        <para/>
+        <sect2>
+            <title>Sarsin</title>
+            <para>
+                <simplelist>
+                    <member>Avg. Height - 5'4"/5'2"</member>
+                    <member>Avg. Weight - 125/110</member>
+                    <member>Skin Color - Dark brown</member>
+                    <member>Hair Color - Black hair</member>
+                    <member>Eye Color - Brown</member>
+                </simplelist>
+            </para>
+        </sect2>
+        <sect2>
+            <title>Thenaen</title>
+            <para>
+                <simplelist>
+                    <member>Avg. Height - 6'1"/5'11" </member>
+                    <member>Avg. Weight - 175/150 </member>
+                    <member>Skin Color - Fair skin </member>
+                    <member>Hair Color - Red </member>
+                    <member>Eye Color - Grey or Green </member>
+                    <member>Inherent Skills - ME(Mana) R0</member>
+                </simplelist>
+            </para>
+        </sect2>
+        <sect2>
+            <title>Merovan</title>
+            <para>
+                <simplelist>
+                    <member>Avg. Height - 5'9"/5'6" </member>
+                    <member>Avg. Weight - 150/130 </member>
+                    <member>Skin Color - Light </member>
+                    <member>Hair Color - Full range </member>
+                    <member>Eye Color - Full range </member>
+                </simplelist>
+            </para>
+        </sect2>
+        <sect2>
+            <title>Kothan</title>
+            <simplelist>
+                <member>Avg. Height - 5'11"/5'10" </member>
+                <member>Avg. Weight - 165/145 </member>
+                <member>Skin Color - Fair </member>
+                <member>Hair Color - Light wavy or curly </member>
+                <member>Eye Color - blue and green </member>
+            </simplelist>
+        </sect2>
+        <sect2>
+            <title>Kalifate</title>
+            <simplelist>
+                <member>Avg. Height - 5'8"/5'4" </member>
+                <member>Avg. Weight - 155/120 </member>
+                <member>Skin Color - Swarthy </member>
+                <member>Hair Color - Dark, straight </member>
+                <member>Eye Color - Dark Brown to Black </member>
+            </simplelist>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Non Human Races</title>
+        <para/>
+        <sect2>
+            <title>Hairochon</title>
+            <para>
+                <simplelist>
+                    <member>Avg. Height - 6'4"/6'4"</member>
+                    <member>Avg. Weight 240/210</member>
+                    <member>Skin Color - Brown</member>
+                    <member>Hair Color - Ash Blond</member>
+                    <member>Eye Color - Hazel</member>
+                    <member>Stat Mods - PST +1 PEN +1 PSI -2</member>
+                </simplelist>
+            </para>
+            <para> </para>
+        </sect2>
+        <sect2>
+            <title>Bitadari</title>
+            <para>
+                <simplelist>
+                    <member>Culture Name - Bitadari </member>
+                    <member>Avg. Height - 5'2"/5'0" </member>
+                    <member>Avg. Weight - 114/104 </member>
+                    <member>Skin Color - NA </member>
+                    <member>Hair Color - NA </member>
+                    <member>Eye Color - Depends on Life Cycle </member>
+                    <member>Stat Mods - PST -1,PEN -1,PSI +1,MVMMOD 1.2</member>
+                </simplelist>
+            </para>
+            <para> The Bitadari are not your typical elves. They are a race with a lifestyles and
+                cultures based on the fact that they go through different life cycles and forms. </para>
+            <para> Bitadari speak of distinct "Life Ages" or K\={i}. These are distinct forms. These
+                forms have some basis in how old the elf is\footnote{There is almost no correlation
+                to the chronological ages of the entity.} They are in name : Chawara (Infancy),
+                Iquira (\={E}-kwer-a) (Childhood), Anatathan (An-a-ta-than) (Young Adult), Laenya
+                (L\={a}-\={e}-nya) (Time of Passing), Sheerahnen (She-\={e}-rah-n\={e}n) (Fullness),
+                Eya (\={E}-ya) (Inward Turning). </para>
+            <para> As a race the population of elves is driven by the environment. If Anatathan are
+                needed than more Iquira become Anatathan and less Anatathan become Laenya. In times
+                of war there will be more Anatathan than Iquira. </para>
+            <sect3>
+                <title>Chawara (Infancy)</title>
+                <para> A path is decided by the first step, and no sooner. - Elven Proverb. </para>
+                <para> An elven child is born without hair or nails. Almost no real vision is
+                    developed until a month after birth. Empathy, for many, is at the strongest it
+                    will be ever be. The environment empathically influences the future forms of the
+                    Elf. It is conceivable that the first hint of mage talents could be seen here.
+                    For non-mage children this empathy will diminish as the entity enters Iquira.
+                    Mesaah (M\={E}-SA-AH) or mage children, will retain much of their empathy. (2-3
+                    years) . Twins are almost unheard of and triplets are truly unknown. Eyes are
+                    often pale and almost clear. </para>
+            </sect3>
+            <sect3>
+                <title>Iquira (Childhood)</title>
+                <para> Empathy tends to drop to its lowest point. Much of the energies turn toward
+                    care of almost all domestic activities. Farming is more common than hunting and
+                    meat eating is rare. Most of the farming is small lot based. As the elf matures
+                    ( 20-200 years) In times of large population growth a small percentage of Iquira
+                    never go on to the state of Anatathan. The gradually diminishing empathy comes
+                    to be superseded by a mild form of telepathy. Iquira have crystalline colors in
+                    their eyes. </para>
+            </sect3>
+            <sect3>
+                <title>Anatathan (Young Adult)</title>
+                <para> The anatathan are the warriors, the fighters. As they get older , they gain
+                    in natural speed and perception. It is here that most elves can become fertile
+                    though only during periods of stress for the race do many anatathan have
+                    children. And , when they do, these same children tend to be quick to become
+                    Anatathan. It is often that during these periods of stress that Anatathan never
+                    become Laenya. It is said to be a sacrifice that the elf's spirit made for the
+                    race. For this reason it is appropriate to mourn the passing of an Anatathan
+                    where one would not mourn a Laenya ( who did, after all, lived out a full life
+                    ). Typically lasts between 20 - 300 years. Anatathan eyes are usually brighter
+                    colored , hovering between translucent and transparent. </para>
+            </sect3>
+            <sect3>
+                <title>Laenya (Fullness)</title>
+                <para> Those that live on to become Laenya gain in empathy again and tend to pursue
+                    their final goals. They become leaders and mages , craftsman and artists. More
+                    live to become Laenya during the peaceful times. The natural magics intensify
+                    and become very noticeable. The reflexes do not slow but the combat perceptions
+                    gradually fade. The elf's knowledge of his body becomes nearly complete.
+                    Poisoning and disease becomes rarer. The Laenya eyes tend to be darker and
+                    definitely opaque. The period lasts between 900 and 1000 years. </para>
+            </sect3>
+            <sect3>
+                <title>Ea (Inward Turning)</title>
+                <para> Those who live to this most venerated state are rare. The elves' empathy
+                    becomes almost as great as when they were Chawara. Their empathy gradually
+                    extends to all life within their perception. The eyes darken to nearly black and
+                    their sight loses all IR and Visible acuity. Only the UV and shorter wavelengths
+                    are used. The greatest philosophies and thoughts of the elven culture come from
+                    those who have achieved this state. </para>
+            </sect3>
+            <sect3>
+                <title>Abilities of Bitadaran</title>
+                <para> In general the elves have a variety of talents. They have a greater than
+                    average PSI and are comfortable with basic sorceries. Most forms have a DF +1
+                    when doing minor magics or sorceries. Anatathan have a DF-1 to minor magery.
+                    Anatathan often produce unpredictable results with those magics they do use. </para>
+                <para> Most elves are less physically enduring and less strong then their human
+                    counterparts. </para>
+                <sect4>
+                    <title>Faen</title>
+                    <para> Faen is the proximity sense that is first developed by the Iquira and is
+                        most visible in the Anatathan. At any point that an entity enters within an
+                        Anatathan's perception (GAW in feet) their perception increases briefly (As
+                        per setup). </para>
+                    <para> All perception rolls are made based on this increased perception. This
+                        perception comes to the elf during times of stress and is often visible to
+                        others as a drastic change in the reflective patterns of the eyes. Also, any
+                        agility or strengthed based feat is a little easier (DF +1). </para>
+                </sect4>
+                <sect4>
+                    <title>Alitharinaa(Sense of self)</title>
+                    <para> At a time of injury, infection, or poisoning. The Bitadara often will go
+                        into a kind of "Healing Shock". This state is seen as a complete darkening
+                        of the entire eye of the Elf. This state allows for the regrowth of
+                        endurance as if it were fatigue. (Excludes cold Iron damage) </para>
+                </sect4>
+                <sect4>
+                    <title>Kiilan(Mind Seeing)</title>
+                    <para> During Early stages this shows itself as empathy and then telepathy and
+                        finally, both. </para>
+                </sect4>
+                <sect4>
+                    <title>Cold Iron(Irinal)</title>
+                    <para> Iron (not steel) is the true bane of Bitadaran life. All Iron wounds
+                        (Fatigue or endurance) are burns as well as the normal damage. Any such
+                        injury requires a MST s.t. to prevent being stunned. Such wounds require $ 2
+                        \times $ the normal time to heal. </para>
+                </sect4>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Duwan</title>
+            <para>
+                <simplelist>
+                    <member>Culture Name - Duwan, Half-things, Halflings </member>
+                    <member>Avg. Height - 3'5"/3'4" </member>
+                    <member>Avg. Weight - 50/55 </member>
+                    <member>Skin Color - Full Range </member>
+                    <member>Hair Color - Full Range </member>
+                    <member>Eye Color - Full Range </member>
+                    <member>Stat Mods - PST -2 PAG +1 DEX +1 </member>
+                    <member>Inherent Skills - Duwan have full control over the type of light that
+                        their eyes are responsive to. Duwan have rank 0 in several stealth magics
+                        (Avert Sight, Walk Unheard, Blend)</member>
+                </simplelist>
+            </para>
+            <para> Lithe and fast as a weasal is a typical description of the Duwan. They are small
+                hard muscled people with (typically) long hair and saintly faces. </para>
+            <para> In general they are a rarely understood or trusted race. They are thought to be
+                thieves and murderers as well as smugglers, bringers of disease and general agents
+                of chaos. </para>
+        </sect2>
+        <sect2>
+            <title>Rupa Kechil</title>
+            <para> Rupa Kechil is a catch phrase that simply means ``skin-turner''. Most people
+                assume that all skin-turners are all one species. There are more variations of
+                skin-turners than can easily be listed. Simply take these notes as providing the
+                average view of all the different subspecies. </para>
+            <para>
+                <simplelist>
+                    <member>Culture Name - Rupa Kechil </member>
+                    <member>Avg. Height - NA </member>
+                    <member>Avg. Weight - NA </member>
+                    <member>Skin Color - NA </member>
+                    <member>Hair Color - NA </member>
+                    <member>Eye Color - NA </member>
+                    <member>Stat Mods - NA </member>
+                    <member>Inherent Skills - Shapeshifting </member>
+                </simplelist>
+            </para>
+            <sect3>
+                <title>Description</title>
+                <para> The names, the history, and the cultures of the shapeshifters are a mystery.
+                    What little is known indicates that some skin turners organise themselves along
+                    clan or totem lines. There are several animals known to be associated with the
+                    changers. </para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Tiger Harimau</para>
+                    </listitem>
+                    <listitem>
+                        <para>Bear Bidok</para>
+                    </listitem>
+                    <listitem>
+                        <para>Boar Jantan</para>
+                    </listitem>
+                    <listitem>
+                        <para>Wolf Anjing</para>
+                    </listitem>
+                    <listitem>
+                        <para>Cheetah Mallini</para>
+                    </listitem>
+                    <listitem>
+                        <para>Eagle Akila</para>
+                    </listitem>
+                </itemizedlist>
+                <para> For as long as Tanah has had a history shapeshifters have been a part of it.
+                    In the myths and histories they generally show up as evil mages or children
+                    stealers. Only rarely is a shapeshifter portrayed in a positive light. </para>
+                <para> It is believed that the shapeshifters hide within whatever culture they are
+                    born into. It is said that there is a greater form of shapeshifter which acts as
+                    a governer in each loosely knit clan. These are given the title Rajah. It is
+                    written that the Rupa-Kechil have a sign language called Sift-Rak and that there
+                    is no written language per se but many changers use pictographs of the sift-rak
+                    in order to convey a message. </para>
+                <para> Some of the following are the typical variations in shapeshifter sub-species: </para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Lunar Linked This is your typical run of the mill shapeshifter. They
+                            are able to shapechange with variable success dependent on the phase of
+                            the moon. They are most easily damaged with Silver and Magic.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Totem Aware This subspecies is capable of controlled shape change into
+                            a normal ({\it i.e.} Non-Magical) version of some totem animal. The
+                            changer can shapechange into, communicate with, and sometimes summon the
+                            totem species. The term ``totem'' does not mean that the changer
+                            worships the species in question. </para>
+                    </listitem>
+                    <listitem>
+                        <para>Totem Linked This sub-species is linked to their totem animal. In
+                            other words, all changers of this race have a ``familiar'' of the same
+                            species as their totem. The gift of changing is conferred by the
+                            presence of the link between familiar and changer. Totem-linked changers
+                            are faster at their changing but the loss of the familiar can have very
+                            bad effects on the changer's personality and skills for some time
+                            afterward. </para>
+                    </listitem>
+                    <listitem>
+                        <para>Dream Dancers Dream dancing involves trancing in order to project a
+                            dream self that shapechanges as necessary. The dream self has physical
+                            existence and it's physical statistics are derived from the mental
+                            statitistics of the changer. </para>
+                    </listitem>
+                </itemizedlist>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Kurrock</title>
+            <para>
+                <simplelist>
+                    <member>Avg. Height - 4'6"/4'6" </member>
+                    <member>Avg. Weight - 140/135 </member>
+                    <member>Skin Color - Chalky white </member>
+                    <member>Hair Color - Usually dark brown to black. </member>
+                    <member>Eye Color - Black. </member>
+                    <member>Stat Mods - PST +2; PAG -2; PEN +1; PSI -4; </member>
+                    <member>Inherent Skills - Kurrock are naturals at feats involving physical
+                        strength (DF +2). In addition they are able to directly able to convert
+                        mental fatigue into physical fatigue. </member>
+                </simplelist>
+            </para>
+            <para> Kurrock are truly the most frightening fighters and drinkers around. They tend to
+                get a reputation for just those things as a result but in reality, Kurrock are also
+                skilled artisans, mechanicians, and miners. </para>
+            <para> They are intense and focused , which makes them a subject of unease for most
+                humans. They rarely get distracted and have a strong scorn for those that do. </para>
+            <para> Despite their low PSI they seem to excel in producing weapons and tools that are
+                almost magical in quality. </para>
+        </sect2>
+        <sect2>
+            <title>Tairganik</title>
+            <simplelist>
+                <member>Race Name - </member>
+                <member>Avg. Height - 6'1"/5'11" </member>
+                <member>Avg. Weight - 200/170 </member>
+                <member>Skin Color - Olive </member>
+                <member>Hair Color - Black to Dark Brown </member>
+                <member>Eye Color - Light colors </member>
+                <member>Stat Mods - PST +1, PEN +1, PAG +1, PSI -4, MST +1, MAG +1 </member>
+                <member>Inherent Skills - Their sight extends somewhat into the IR range which
+                    allows them to differentiate between reds much more than most. </member>
+            </simplelist>
+            <para> In general Torgans are a tall ( 6'1" Male and 5'11' Female) race of olive skinned
+                individuals. Dark of hair (Black to dark brown with rare auburn ) with light eyes
+                and Pronounced jawbones and Bicuspids. Eyebrows tend to arch toward the edges of the
+                face. Ears are usually elongated and lobeless. </para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Erlani Culture</title>
+        <sect2>
+            <title>Pocket Personality Sketch</title>
+            <para>The typical Erlani is independent, practical, and polite but earthy. Not polished
+                or likely to give anything other than well earned praise. They love good
+                craftmanship, especially in wood. They tend to be hedonistic and ascetic as the
+                situation demands. </para>
+            <para>They rarely work in groups of more than two and they never, ever appreciate being
+                told what to do by someone other than a priest or holy man. They can cooperate on
+                the big tasks but not the small. A Erlani may agree to aid in a major group effort
+                but each party will work on their piece of it and expect no unwanted offers of
+                help.</para>
+        </sect2>
+
+        <sect2>
+            <title>Resources</title>
+            <para> The Erlani have few of the more common metal ores. The island is volcanic and has
+                some very interesting mineral and gem deposits. Spinels and Tourmalines being
+                common. There are some good orchards and the land is fairly fertile even for a
+                volcanic region. Pearls, Coral, and Shell are common adornments. </para>
+
+            <para> Some of the Island corals also have multiple uses in magic castings. Few metals
+                are available. Obsidian and Onderine are notable structural materials. Some small
+                amount of Targs metal is available. <itemizedlist>
+                    <listitem>
+                        <para>Onderine is the fibrous exudate of the Erlan dragons. It is fire and
+                            stain resistant and as resistant to damage as studded leather except
+                            that it provides no protection against crushing. It is nearly
+                            trunslucent so it is often worn as overclothing. It is often used in
+                            making rope or twine.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Targ's Metal is a amalgam derived from dragons eggs exposed to heat
+                            for long periods of time.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Sisal Fiber A simple fiber derived from the Conbine plant. It is used
+                            in making rope and a heavily narcotic pipeweed.</para>
+                    </listitem>
+
+                    <listitem>
+                        <para>Tiger's eye Coral A green and yellow coral used in divination spells
+                            and sorceries..</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </sect2>
+
+        <sect2>
+            <title>Technology</title>
+            <para>The technological levels are very mixed. The Erlani are limited to stone age
+                materials but with many skilled mages. The craft of construction is very advanced.
+                Building is typically done with obsidian, flint and basalt.</para>
+            <para> Optics are well developed. Many colored glasses and some magically active glasses
+                have been derived. Knives and other edged implements of glass are actually fairly
+                common. </para>
+
+            <para>Weapons technology is limited to some basic staves and hand to hand combat. Though
+                they do have ship based ballista and are very familiar with its use. Throwing sticks
+                are in common use for hunting.</para>
+            <para>Medical technology is very heavily dependent on magery.</para>
+        </sect2>
+
+        <sect2>
+            <title>Magic</title>
+            <para>The Erlani magic is a very educated version of shamanistic wizardry. They have
+                only had natural materials to work with yet most magic using Erlani have a very
+                clear concept of magic theory (Thenaen based)</para>
+            <para> An Erlani views the world as a series of conflicts that combine to form balances.
+                They actually understand equilibria of elemental forces. Thus a storm is merely a
+                necessary ``ripple'' in the balance.</para>
+            <para>Interesting enough they view their shapechanging as a attempt to alter a balance
+                and reach a different state. Man is human only so long as his elemental and other
+                forces are in balance. When he drives himself man can achieve a different state such
+                as cat. Of course, manipulating this balance can be dangerous since the changed
+                individual may lack the discipline to alter the balance again.</para>
+        </sect2>
+
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para>Hunting and fishing are very common. Gardening tends to be very simple (Sow and
+                Come back later). The island, while hazardous, does support its population well.
+                There are many stands of wild Breadfruit, Papaya, Coconut, and Redfruit. Wine made
+                of Papaya and Redfruit are common.</para>
+        </sect2>
+
+        <sect2>
+            <title>Clothing</title>
+            <para>The clothing of the Erlani tends to be a simple vest of leather or ondurine, short
+                trousers with a tie up front, a pair of sandals, and a sash belt to cover the top
+                edge of the pants. Cloaks are often worn against the rain. Knotted rope shoulder
+                sashes are much prized for the skill in knotwork they represent.</para>
+        </sect2>
+
+        <sect2>
+            <title>Values and Kinship</title>
+            <para>The Erlani are a very open people among themselves. In order to survive they have
+                had to overcome almost every predjudice they have held. As a result, they tend to
+                honor idependence above most other things. At least when they can be independent
+                they make the most of it. Teamwork is never discussed, just done as quickly as
+                possible to get it over and done with. This does not mean that they dislike groups
+                of people, they just prefer not share tasks.</para>
+
+            <para>They also understand and encourage curiousity. Nothing strange is to be ridiculed.
+                If someone asks a question it is answered. Some believe that the curiousity is
+                inherited from the cat based changers.</para>
+            <para>They have no nudity or sexual taboos. In addition their understanding of money is
+                limited to a knowledge that it is useful and was very important to their
+                ancestors.</para>
+            <para>They have few formalisms for weddings or divorce. Polygamy is practised in both
+                male and female centric forms. Divorce is often a matter of simply leaving the
+                unwanted individual's goods out on the stoop.</para>
+        </sect2>
+
+        <sect2>
+            <title>Language</title>
+            <para> A very bizarre blend of idiomatic Kaliphan, Family Thenaen, and Siftrak hand
+                gestures. The written form of the language is mostly written Thenaen with some of
+                the Siftrak glyphs for animal related concepts</para>
+            <para>Literacy is common though the Craft-men of the monastery do the most reading and
+                writing. Writing is kept up as a religious duty more than out of any great secular
+                need.</para>
+            <para> The language uses many a or aa sounds. With some flowing ae or aea combinations
+                from Thenaen. A player attempting an Australian accent will probably get pretty
+                close.</para>
+        </sect2>
+
+        <sect2>
+            <title>Vocabulary and Grammar</title>
+            <para>
+                <simplelist>
+                    <member>Crafter - Shipsman,Sailor, Leader or learned man. </member>
+                    <member>Lubber - Disbeliever, ungodly </member>
+                    <member>Dragon Eyed - Crazy, Holy </member>
+                    <member>Jailbird - Oldtimer of the first ship, Incredibly independent of thought </member>
+                    <member>Jailhead - Too independent of thought, stubborn. </member>
+                    <member>Mate - A man </member>
+                    <member>Sheel - A women </member>
+                    <member>Fairsail - Pretty good, Excellent </member>
+                    <member>Dragon Taken - Stuck in animal form </member>
+                </simplelist>
+            </para>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para> The religion is very independent. There are many totems that may be appealed to.
+                Each of the Erlani tends to worship a specific one because they feel that that totem
+                more closely expresses their nature than any other. This may be more than wishful
+                thinking, many tend to send their respect to the totem they find simplest to
+                shapechange to</para>
+
+            <para>Individuals who are known to have a specific favoured form and worship that forms
+                totem are known as having a "True Totem".</para>
+            <para>The totems are all related to the god of the corresponding shapechanger
+                clan.</para>
+            <para>
+                <simplelist>
+                    <member>Harimau - Tiger </member>
+                    <member>Bidok - Bear </member>
+                    <member>Jantan - Boar </member>
+                    <member>Anjing - Wolf </member>
+                    <member>Mallini - Cheetah </member>
+                    <member>Akila - Eagle </member>
+                    <member>Nijaka - Osprey </member>
+                    <member>Varahawn - Dragon </member>
+                    <member>Thisin - Dolphin </member>
+                    <member>Dravanor - Dragon </member>
+                </simplelist>
+            </para>
+            <para>In addition they have deified their sailor ancestors. The holy books are the logs
+                of the three ships that brought them to the island. Priests, also called Captains,
+                are trained in all of the sailing and leading arts. No Erlani would call himself
+                captain until he had been acknowledged a skilled sailor and, as described in fist
+                diary of Captain Yolanna, ``a just and fair judge as well as a true spiritual
+                guide''. The priests together constitute the Council of Captains, a body that has
+                some limited ability to ensure their wishes are carried out. Mostly with the older
+                Erlnai, the youths can't sit still long enough to hear pronouncements.</para>
+        </sect2>
+        <sect2>
+            <title>Myths</title>
+            <para>There are many myths and tales centering around the wreck of the ships and the
+                subsequent taking of the island</para>
+        </sect2>
+        <sect2>
+            <title>History</title>
+            <para> The first ancestors settled the island some 200 years ago when a set of three
+                ships carrying a mixture of Thenaen mages and merchants, some 600 slaves captured by
+                the Kalifate during a revolt, and some settlers (mostly Rupa Kechil) ran aground on
+                the barrier reef surrounding the Island.</para>
+            <para>Due to a few small problems (slave revolt, lizard attacks, storms, eruptions,
+                etc..) the initial repair of the craft was delayed. Many of the shipbuilding skills
+                existed but no organized shipbuilding began until the council of Captain's decreed
+                that some effort should be made to keep the sailing skills alive. </para>
+            <para>Some 4 other ships were wrecked on the Reefs in the next two decades after the
+                first landing. After that, changing shipping patterns and war left the Isle
+                isolated. </para>
+            <para>They have gradually developed into a broadly spread collection of diffuse
+                communities. </para>
+            <para>15 years after the settling of the isle a mage/changer named Targ discovered that
+                the eggs of the dragonets could be comverted into a tough, springy metal via a
+                simple but lengthy process. This metal, caled Targ's metal, is a standard building
+                material for those items that must be built of metal (ships tools, and the
+                like).</para>
+            <para>13 Years later Ondur the Gray discovered the cloth that can be woven from the
+                fibrous exudate in the dragon's lair.</para>
+        </sect2>
+
+        <sect2>
+            <title>Tradition</title>
+            <para>The most important traditions focus on the recognition of a child and their
+                totems. While their are no sexual taboos, heredity is very important and a great
+                deal of work goes into dealing with the child's shapechanging or magery skills and
+                whatever Craft skills they may have.</para>
+            <para> A parent may state that a child is theirs to raise but if the child gifted in
+                such a way that only one of the parents will be able to train them then that parent
+                will have to train them. </para>
+        </sect2>
+
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para>Animal motifs are the most important imagery followed by sailing. These two motifs
+                make up better than 95% of the art on the Isle.</para>
+            <para>Especially favoured are songs/pictures dealing with deliverence from sea hazards.
+                Also well liked are themes involving clever solutions to situations that threaten an
+                individual's indepedence</para>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para> The class structure is complex and yet fairly sparse. Their are the many
+                different individuals with their crafts (including Magery), Sailor-Priests, Weather
+                Crafters, and the Council of Captains. Sailor Priests have overriding authority on
+                their ship and some importance as holy men on land. Weather Crafters are important
+                for the knowledge they hold. The Council of Captains is important because the
+                Sailor-Priests that make up its membership are more enlightened than the
+                run-of-the-mill Sailor-Priest.</para>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure/Legal code</title>
+            <para>Usually the law is enforced by group consensus.</para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Kalifate Culture</title>
+        <para/>
+        <sect2>
+            <title>Pocket Personality Sketch</title>
+            <para>Your typical Kalifate is flamboyant in play and taciturn in work. They are
+                typically considered hot blooded, quick to anger, and quick to cool down. A murder
+                of passion is far more likely for a Kalifate then one that is calculated. They enjoy
+                beautiful music with a strong rhythm and tragic love stories.</para>
+        </sect2>
+        <sect2>
+            <title>Locale</title>
+            <para>The Kalifate culture spans from the northernmost seacoast of the Maldevar coast
+                all the way down to the edge of the Tarmanian plains. It is an area similiar in
+                climate and terrain to the southern coast of Spain.</para>
+        </sect2>
+        <sect2>
+            <title>Resources</title>
+            <para>The Kalifate have a great bounty in both ocean based goods and fruit of the land.
+                They have ships and good wood for ship building. There are figs, olives, grapes,
+                fish, lotus, myrrh, and hemp.</para>
+            <para>There is cinnabar, amber, coal, limestone, marble, and basalt. There is ample iron
+                ore. Horses seem to thrive.</para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para>Steel and Bronze, simple dome ovens, heated baths, simple oil lamps, basic carts ,
+                wagons, and buggys. Horseshoes, stirrups, simple looms.</para>
+            <para>Medical technology is straight forward. A knowledge of bleeding, bandaging,
+                cautery, and stitching is well spread but there is no knowledge of hygiene.</para>
+            <para>The weapon technology is advanced with breakfront crossbows, spears, rapiers,
+                daggers, capes, and light lance.</para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para>The high magics of wizardry are known as well as sorceries. Mages are tolerated
+                but often viewed with suspicion. Priestly magic is trusted and encouraged. There are
+                several magic cults based on the worship of the Lady in her maiden or hag modes.
+                These are viewed with some suspision.</para>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para>The Kalifate as a group are accustomed used to living in a fairly sparse
+                environment. They tend to live in large estates called {\it Estanzia}. Each estanzia
+                has its own fields, gardens and its own stock. Some estanzia, notably those near the
+                ocean, have so called fish pens that are fed by the tides. Hunting is common,
+                especially for birds.</para>
+            <para>Children often do trapping and simple hunting. Fields tend to grow corn, grapes,
+                and cotton. Most Estanzia have 100-200 adults and some outlying homes. Most have
+                some woods within an hours ride for hunting. Many Estanzisa have trees planted in
+                the center as well as a family "oasis".</para>
+            <para>Trade tends to travel in large gypsy and trader caravans.</para>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para>Personal bravery is valued as is good horsemanship. Killing an equal opponent is
+                considered a brave act, killing a lesser opponent is diminishing of the winners
+                skill. Dueling is rarely to the death unless the opponent is equally skilled and
+                there is no other recourse. More often a fight is to the humiliation, not death.
+                Recklessness and Style are very important. A truly brave and able opponent may be
+                awarded with the table de' muerte. Don't say "Su Madre". A noble woman is valued for
+                her skill in riding, it is part of her dowry.</para>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <sect3>
+                <title>Language Tree</title>
+                <para>The kalifate language is very similiar to spanish in flow and rythm.</para>
+            </sect3>
+            <sect3>
+                <title>Literacy</title>
+                <para> Literacy is limited to priests, accountants, and the nobility. All woman know
+                    how to read dance and musical notations. Priests keep track of the
+                    history.</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para>The Kalifate religion seems to be based on the Lord and the Lady but with strong
+                cult leanings for each. There are many little signs that show the Kalifates leaning
+                away from worship of the Lord and the Lady and more toward a cult of worship of the
+                Lady.</para>
+            <para>Religous observances are split among men and women. Usually men go to temple early
+                in the morning and women go later in the day.</para>
+            <para> Worship of the Lord refers to him as our Lord patron in addition there is a
+                strong following for one of the fourteen caldes who meet with the Lord who brought
+                with them promises of land and saftey to the people.</para>
+            <para>--Names of the Caldes</para>
+            <para>--there should be a name for the Estanzia owned by descendants of the
+                Caldes</para>
+            <para> There is also a third form of worship for the Steeds of the Lord and the Lady who
+                are known as Rolan and Aphrodie.</para>
+            <para> There are a series of strictures layed down to the fourteen Caldes. No blood
+                should be spilled on a holy day, no set of single lovers shall be kept
+                apart....</para>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <para>All women must be trained to ride and to shoot crossbows.</para>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para>Two thirds of Kalifate society is involved directly or indirectly with some sort
+                of cult. The cult may be something as innocous as a religous meeting group or as
+                sinister as the El Tigre hunting club.</para>
+            <para>Several other cults: there are two women only religous cults of which very little
+                is known, one is known as the moon maidens and the other is called the Lady's
+                Hand's.</para>
+            <para>Descent is reckoned through the female line. So the children of the noble mothers
+                and common fathers are born noble. Childern of noble fathers and commoner women are
+                born one grade below that of the father</para>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para>The titles of Priests and Priestess are typically variations on the theme
+                "reflected lights".</para>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Tairganik</title>
+        <sect2>
+            <title>Resources</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para> Probably one of the most sophisticated races technologically, the Torgans have
+                the beginings of a true steel based economy. THey have many skilled mechanicians and
+                and understand much of basic physics. Simple steam engines, Lanterns, Screws and
+                levers are quite common. Metal springs are known as are simple mechanical dart guns.
+                The use of a simple smoke powder is well known and so is the use of Naptha. Water
+                clocks and a standard set of weights and measures. Surveying and road building are
+                well honed skills. Plumbing is a known quantity as is composting sewage. </para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Both hunters and farmers. Their hunts tend to be of a communal type. Well
+                advanced in farming and erosion theory. Generally comfortable with grains and root
+                crops as well as fruit orchards. Vine crops are also very common - Especially wine
+                grapes and climbing melon. </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para> Torgans value bravery, skill and beauty. They are much given to song and music.
+                Generally they will hold a singer or harper inviolate unless the harper blasphemes.
+                They particularly honor bravery evidenced by self sacrifice and favor tragic and
+                loving songs. Kinships are reckoned by descent through the female and are very
+                important to Torgans. </para>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <sect3>
+                <title>Language Tree</title>
+                <para> The Torgan language is not Orcish as would be expected from their appearance.
+                    It is a fairly formal latinesque language. It shares some common roots with the
+                    elven tounge spoken today. In particular it uses the older elven phrases for
+                    special names and formal phrases. </para>
+            </sect3>
+            <sect3>
+                <title>Literacy</title>
+                <para> Literacy is restricted to Women, Seers, Mages and scribes. Fairly widepread
+                    but with definitive degrees of literacy between various classes. Military
+                    leaders often learn a basic battle language called Habaksa. A mixture of old
+                    Sift-Rak and written symbols derived from hand motions. </para>
+            </sect3>
+            <sect3>
+                <title>Writing Forms</title>
+                <para> They use a stilted and formal runic language. Shares some traits with written
+                    Bitadari and Dwarven. </para>
+            </sect3>
+            <sect3>
+                <title>Vocabulary and Grammar</title>
+                <para>
+                    <simplelist>
+                        <member>ambassador Legatus </member>
+                        <member>Yes Sertae </member>
+                        <member>No Non </member>
+                        <member>Hand Manus</member>
+                        <member> Scout Konsilum</member>
+                        <member>Trooper Katern</member>
+                        <member>Hand Leader(Ldr of 5) Praetor</member>
+                        <member>Lance(Ldr of 50) Sarisanar</member>
+                        <member>Ldr of 100 Centurion</member>
+                    </simplelist>
+                </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para> The Torgans believe in the Nadir or fates, and a pantheon of gods reminescent of
+                Roman and Syria. They are fairly pious and hold most reverence for the father and
+                mother of the gods. </para>
+            <para> Each household rests their fortunes with a founding spirit and each legion
+                believes themselves to be the incarnation of their totem. </para>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <para> Names and Naming traditions are a major part of Torgan life. There is a use name,
+                a true name, a house name, and a fame name. </para>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military</title>
+            <para/>
+            <sect3>
+                <title>Command</title>
+                <para> The command structure of the Torgan legions is fairly complex. The complexity
+                    is not due to their chain of command this is actually fairly simple, it is due
+                    to the additional layer of cultural interaction and training. </para>
+                <para> The Chain of command goes in the following order: </para>
+                <programlisting>
+<![CDATA[
+                    The Senate Council
+                    |
+                    |
+                    V
+                    The 13 Legions ---> The High Battle Masters
+                    |
+                    |
+                    V
+                    Kinturions ( Leader of 1000 )
+                    |
+                    |
+                    V
+                    Centurions ( Leader of 100 )
+                    |
+                    |
+                    V
+                    Sarisani ( Leader of 50 )
+                    (Lance Leader)
+                    |
+                    |
+                    V
+                    Praetor ( Leader of 5 (hand) )
+
+]]>
+
+</programlisting>
+                <para> Each of the 13 legions actually varies in number between one thousand and six
+                    thousand troopers or Katern. Each of the legions is noted for a particular
+                    specialty , usually related in someway to the legion totem. </para>
+                <para> The 13 legions are : \begin{itemize} \item [The Auric Dragon] The Very Best
+                    \item [The Crystal Pheonix] Strategists and Tacticians \item [The White Wolf]
+                    Scouts and Hunters \item [The Black Courser] Mounted Lance \item [The Red Bear]
+                    Shock Troops \item [The Scarlet Hynd] Runners and Mappers and Signalers \item
+                    [The Argent Pard] Acrobatics and Climbing \item [The Shadowed Falcon] \item [The
+                    Wolverine Bronze] Engineering \item [The Verdant Griffon] \item [The Nameless]
+                    \end{itemize} </para>
+            </sect3>
+            <sect3>
+                <title>Routine</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Arms</title>
+                <para/>
+
+                <sect4>
+                    <title>Trooper</title>
+                    <para> \begin{verbatim} Full Leather Cuirass, Bracers, Large Shield Short Sword
+                        R2 Running R2 Javelin R2 Dagger R1 Hvy Crossbow R2 Large Shield R2 Armoured
+                        Move R1 \end{verbatim} </para>
+                    <para> \subsubsection{Squad Leader} \begin{verbatim} Chain and Leather, Bracers,
+                        Large Sheild Short Sword R3 Running R2 Javelin R2 Dagger R1 Hvy Crossbow R2
+                        Large Shield R2 Armoured Move R2 Mil Sci R1 Horsemanship R1 Signaling R1
+                        \end{verbatim} </para>
+                </sect4>
+
+                <sect4>
+                    <title>Scout</title>
+                    <para> \begin{verbatim} Light Leather, Bracers, Small Sheild Short Sword R2
+                        Running R3 Swimming R1 Tracking R1 Small Shield R2 Javelin R2 Dagger R1
+                        Armoured Move R3 Signaling R1 \end{verbatim} </para>
+                </sect4>
+
+                <sect4>
+                    <title>Century Leader</title>
+                    <para> \begin{verbatim} Improved Plate(+8), Bracers, Large Sheild Short Sword R3
+                        Running R2 Javelin R2 Dagger R1 Hvy Crossbow R2 Large Shield R2 Armoured
+                        Move R4 Mil Sci R5 Horsemanship R3 Signaling R1 \end{verbatim} </para>
+                </sect4>
+            </sect3>
+            <sect3>
+                <title>Outfitting</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Theory</title>
+                <para/>
+            </sect3>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Thenaen Culture</title>
+        <sect2>
+            <title>Resources</title>
+            <para> The Thenaen culture is limited to a fertile but small set of islands called,
+                appropriately enough, the Thenaen Islands. The area is rich in good soil, jewels,
+                gems, and the bounty of the sea. </para>
+            <para> The trade currents of both the south and north lead to Thenae, though the
+                northerly current subsides to deep water before reaching the islands. The trade
+                currents, combined with the volcanic nature of the region, provide for a great
+                variety in the flora and fauna of the ocean. </para>
+            <para> There is little in the way of iron ore. The Thenaens depend on two very light
+                metals called {\it Limena } and {\it Taen}. Both are ill suited for sword blades but
+                useful for structural tasks. </para>
+            <para> Most of the islands are high mana areas. Almost all of the major clans have a
+                meeting house or demense in a high mana area. </para>
+            <para> The Thenaens depend on wind power to provide them with much of their basic energy
+                needs. Windmills and windturbines as well as water turbines are common. </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para> A strange combination of magic and mechanics the Thenaens have a good knowledge
+                of leverage and simple engines such as windmills. They have almost no knowledge od
+                the use of beasts of burden and thus lack much of the attendant skills. Little or no
+                leather craft. No ability to make steel. </para>
+            <para> \begin{itemize} \item[General] \item[Medical] \item[Weapon] \end{itemize} </para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para> \begin{itemize} \item[General] \item[Medical] \item[Weapon] \end{itemize} </para>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para/>
+        </sect2>
+
+        <sect2>
+            <title>Values and Kinship</title>
+            <para/>
+        </sect2>
+
+        <sect2>
+            <title>Language</title>
+            <para/>
+            <sect3>
+                <title>Language Tree</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Mapping</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Dialects</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Literacy</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Writing Forms</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Sounds</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Vocabulary and Grammar</title>
+                <para/>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para/>
+            <sect3>
+                <title>Religion</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Cosmology</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Deities</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Myths</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>History</title>
+                <para/>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Tradition</title>
+            <para/>
+            <sect3>
+                <title>Wedding</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Bedding</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Birthing</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Battle</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Other</title>
+                <para/>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Institutions</title>
+            <para/>
+        </sect2>
+
+        <sect2>
+            <title>Clergy</title>
+            <para/>
+            <sect3>
+                <title>Rites and Rituals</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Religious Norms</title>
+                <para/>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+            <sect3>
+                <title>Symbolism</title>
+                <para/>
+                <sect4>
+                    <title>Common Motifs</title>
+                    <para/>
+                </sect4>
+                <sect4>
+                    <title>Significant Numbers</title>
+                    <para/>
+                </sect4>
+            </sect3>
+            <sect3>
+                <title>Art</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Architecture</title>
+                <para/>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Politics</title>
+            <para/>
+            <sect3>
+                <title>Leadership</title>
+                <para/>
+                <sect4>
+                    <title>Stated</title>
+                    <para/>
+                </sect4>
+                <sect4>
+                    <title>Actual</title>
+                    <para/>
+                </sect4>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+            <sect3>
+                <title>Making the Laws</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Enforcing the Laws</title>
+                <para/>
+            </sect3>
+        </sect2>
+
+        <sect2>
+            <title>Legal Code</title>
+            <sect3>
+                <title>Ownership of Goods</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Land</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Male and Female Roles</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Church and State</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Death by Suicide</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Death by Anothers Hand</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Death in Self Defense</title>
+                <para/>
+            </sect3>
+            <sect3>
+                <title>Outfitting</title>
+                <para/>
+            </sect3>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Shan Culture</title>
+
+        <sect2>
+            <title>Resources</title>
+            <para>Ponies, Iron, Glass </para>
+        </sect2>
+
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Generally there is a strict division of labor: The women gather vegetables and
+                grains, handling the normal moving chores and directing the times and methods for
+                the worship of the Sun. </para>
+            <para> Men are active hunters and fishers, building stone weirs that bring in a good
+                amount of fish. </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para/>
+            <sect3>
+                <title>The "Great Game"</title>
+                <para> Among the Shan there is one theme that is found throughout the culture: The
+                    believe that they have been put on the land as a test and a game. Each Shan,
+                    woman or man, has their own "Magic". For each, this resides in both the person
+                    and the tools they use. </para>
+                <para> The great game demonstrates to all this magic and keeps one prepared for
+                    "what comes after". A typical part of play is to count coup by attacking another
+                    in such a way as to demonstrate the attacker's skills while making the defender
+                    look foolish. </para>
+            </sect3>
+            <sect3>
+                <title>Kinship</title>
+                <para> All of the same generation are brother and sister. If they are actually
+                    siblings of your own parents, they are referred to by their ages. If they are to
+                    young to have gone through the comng of age ceremony then they are all just
+                    "timsa" or younglings. </para>
+                <para> Parents are referred to by father and mother but all others are simply "kiha"
+                    or older relatives. </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <sect3>
+                <title>Near History</title>
+                <para> The Shan were originally nomadic wanderers. Dependent upon their ponies and
+                    their skills as hunter - gatherers. Approximately twelve generations ago the
+                    Shan settled on a sheltered and almost inaccessable set of plateaus. Until
+                    recently these plateaus provided for their daily needs. Around four years ago,
+                    as a result of an earthquake, several ares of the lowland gained access to the
+                    plateau. Among them were the lands of the Kargans, known to the Shan as "Ugly
+                    Talkers". </para>
+                <para> The councils of each lodge have decided to send out many scouts to determine
+                    the best path to use in order to escape from the Kargan. </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics and Warfare</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military Structure</title>
+            <para> Structure, what structure ? This is a purely cooperative society. </para>
+
+            <sect3>
+                <title>Command</title>
+                <para> Usually given, at the appropriate time, to the person best able to handle the
+                    situation. In enemy territory he who knows the land best is often it. Of course,
+                    they can always ask for advice from a more experienced warrior. </para>
+            </sect3>
+            <sect3>
+                <title>Arms</title>
+                <para> General weapons among the Shan are simple. Steel daggers, Horse Bow, Bolas,
+                    Whip, Net, and Javeins, and Spears. </para>
+            </sect3>
+        </sect2>
+    </sect1>
+
+    <sect1>
+        <title>Kurrock Culture</title>
+        <para> Kurrock are very hard to figure as a culture simply because they are so directed
+            towards creation and artisanry that the have little time for politics. Skill in ones
+            chosen field is what rules. Such are the tastes of Kurrock that all will agree who does
+            what better than whom. If you ask in a village, who is your best warleader they will all
+            agree. If you ask them who is the best smith they will agree. </para>
+        <para> They spend much of their time improving themselves. They practice continually and
+            contests of a monthly nature are not unheard of. All Kurrock want to be known as being
+            the very best at something. </para>
+        <sect2>
+            <title>Resources</title>
+            <para> Kurrock tend to settle into regions of rich mineral deposits and care less for
+                the aboveground fertility of the land than most races. Iron and coal as well as the
+                precious metals tend to be their favorite materials. </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Kurrock tend to farm both below and above ground.</para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military</title>
+            <para/>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Duwan Culture</title>
+        <para> The Duwan are a very small group and fairly little is known about them. They
+            generally have roundish and clear bright eyes, Furry feet , and a good appetite. There
+            is a tendency towards good lying/ storytelling in the culture. </para>
+        <para> One of the strangest things about Duwan is that some goodly number of their
+            population often go on walkabouts. The walkabouts are rarely short. An interesting
+            sidenote is that because Duwan seem to be rather careless of most others' property
+            rights other than their own their need to collect mementos of their travels has
+            contributed to their reputation as thieves. </para>
+        <sect2>
+            <title>Resources</title>
+            <para> Usually they settle in areas that have enough farming land and some iron ore.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para> Most Duwan settlemnents are fairly low on the technical end, but they need
+                little. If they do set out to get tools they are often attracted to the intriguing
+                rather than the useful. </para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para/> 
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> They tend to have a fairly sophisticated farming setup. Most food is grains and
+                rootstocks with some of the simpler meats such as fish </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para> Duwan value thrift and cunning. Orderliness is a desireable trait and well
+                thought of. Courtesy and style are foremost in most duwan minds. They care well for
+                their own and care little for the tall folk. Not disdain, just disinterest. </para>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <para> Duwan speak Duwan. They rarely use trade talk. Most can read and write in Duwan.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para> </para>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <para> Duwan traditions and rituals very from village to village and hutch to hutch. In
+                most cases , holidays are caused by events of local noteriety and little else.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para> Most actual ruling is that of self rule combined with detailed traditions.
+                Usually there is a judge or elder to interpret the laws as necessary. The Duwan
+                truly believe that "There taint na sech ting as a fraa lunch", with the corallary
+                "'Cept dat which ya borra for y'self". </para>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military</title>
+            <para/>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Dalesmen</title>
+        <sect2>
+            <title>Resources</title>
+            <para> Fertile lands, good clays, coal and oil. Copper, Iron. Aliantha plants. </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Grain and fruit growing as well as trade. </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para> Patriarchal with a strong male rule. They value practicality, thrift and caution.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <para> A very broadly spoken slow and low tongue similiar to welsh. All males are taught
+                to read to rank 4 or more. No woman is taught to read beyond rank 3. They share a
+                written runic form with the Vairmen. H\={o}tman means Headman. </para>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para> Like many of the cultures of the region the men of the dale worship the Lord and
+                the Lady. The dalesmen view the Lord as the master and the Lady as the subservient
+                adjunct to the Lord. The Lord appears as a tall bald man with a hammer and an Axe in
+                hand. </para>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <para> The bride generally marries into an already established family and becomes the
+                ``Least Wife''. She is called this until a newer wife comes into the family. </para>
+            <para> Heavy incest taboos, no particular age taboos. It is a punishable offence if a
+                woman expresses interest in a man. As a esult of their culture there are a large
+                number of lesbian relationships. </para>
+            <para> There are many traditions regarding the planting of crops and such. </para>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para> Priests of the Dalesmen are bald and each carries and Adax (Hammer and Axe combo)
+                They are each assigned two wives at their ordination. This is based on the belief
+                that no man can comptemplate the Lord's will when burdened with wordly problems.
+                They often act as judges for the whole community. </para>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military</title>
+            <para> </para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Arsa'e</title>
+
+        <sect2>
+            <title>Locale</title>
+            <para> The Arsa'e are found in the desert bowl surrounded by the Blood Mountains. It is
+                a fairly ``wet'' desert in that there are a number of water sources flowing through
+                or around it. Perhaps the closest thing in our world would be the Arizona or
+                Colorado regions near the Colorado river. </para>
+        </sect2>
+        <sect2>
+            <title>Resources</title>
+            <para> The Arsa'e are blessed with many riches of the earth. There is abundant amounts
+                of many different clays, suitable for pottery. There are opal,turquiose,and pyrites
+                easily available. There is sand and Soda lime suitable for glass. </para>
+            <para> In addition there are a wide range of grains and fruits that grow wild, among
+                them are peaches, apples, melons, wheat, corn, tobacco, sunflowers and wildrice. </para>
+            <para> \begin{quote} There is plenty of gold and silver ores though they are not mined
+                often. In addition there is a good quality iron available as the result of a large
+                number of meteor strikes in the deep desert. \end{quote} </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para> The level of Arsa'e technology is impressive and unevenly spread. Glassblowing
+                has been taken to a high art. Glass suitable for sophisticated bottles is routinely
+                produced. Simple magnifying glasses have been seen in the hands of the Arsa'e but
+                none have ever been taken from one. </para>
+            <para> \begin{quote} Magnifying glasses are called ``Goddess Eyes'' or ``Gods Eyes''
+                depending on the gender of the shaman blessing it. There are also powerful
+                telescopes that are never shown to outsiders. \end{quote} </para>
+            <para> Arsa'e builders have mastered the production of structural clay to act as
+                structural beams such as ladder crossbars. The clay is also useful for producing
+                millstones. </para>
+            <para> The potters of the Arsa'e rival the finest of the potters of China. They are able
+                to produce a wide range of fine pottery that graces almost every home. The kilns
+                seem to be made of another type of clay. </para>
+            <para> Weaving is well advanced. Both broadlooms and knitting are known. Cotton and wool
+                are the most common materials. Dyes are brilliant and basic hues such as red, brown,
+                black, yellow, purple, and a light blue. </para>
+            <para> Leather working is usually only used to produce saddlery for the ponies they
+                raise. </para>
+            <para> Medically they are skilled at basic wound treatment, repairing cavities with gold
+                and silver, supportive treatment and basic hygiene. </para>
+            <para> \begin{quote} Light for nighttime is raised from another type of clay pottery
+                that glows when warmed \end{quote} </para>
+            <para> The Arsa'e have a sophisticated method of irrigation and terrace farming. </para>
+            <para> Cooking is done in domed ovens (for bread), open fires (especially for ceremonial
+                meals or celebration), solar reflectors (for every day dry cooking), and
+                solar-follow crock pots (for everyday meals). </para>
+            <para> Beds are typically hammocks. </para>
+            <para> Steel is exclusively used for weapons or religious artifacts. </para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para> Magic is a part of every Arsa'e life. But they do not consider it magic. There
+                are prayers for almost every major event in Arsa'e culture and each one is a small
+                spell. The prayer for the rising of the bread actually helps the bread rise, the
+                prayer for the granting of a boy child or a female child does influence the gender
+                of the child to be born. </para>
+            <para> What an Arsa'e considers to be magic are the Shaman great songs and dances: the
+                summonings of the {\it Blessing Way} and the {\it Ghost Way}, the banishings of the
+                {\it Dying Way}. All of these are the great magics and only a shaman can attempt
+                such. </para>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Arsa'e are farmers and hunters. The farming is dependent on the irrigation and
+                terrace-culture techniques. The hunting mostly consists of the six-legged lizard
+                called the {\it tyrik} or ``Little Dragon'' and mountain pronghorns. There are many
+                smaller species that provide eggs and meat at various times. Fish are a rare
+                delicacy. </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para> The Arsa'e value harmony above all else. Outbursts of emotion in public are not
+                considered part of the {\it Way}. A true Arsa'e accepts all that occurs with a quiet
+                face. Anyone who displays anger in public is tainted by some spirit and must go to a
+                shaman for a blessing or exorcism. </para>
+            <para> As part of their desire for harmony they do not rush anything they do not have
+                to. Conversations start with a long discussion of the weather and relatives before
+                it ever gets to the actual topic to be discussed. </para>
+            <para> Extra Notes to be dealt with </para>
+            <para> Towns are designated as for war or for alliance clan groups and moieties
+                (botherhoods) in pueblo acoomadtion units pit dwellings as comtemplation chambers
+                semi-circular town regions farmers,weavers,potters,builders drummers,singers,dancers
+                jewelry - Carnelian, Pyrite, turquiose Great craters throughout the region. Slave
+                warriors ! Janizeros Domed or wall ovens Sacred Birds, raised for the royal religion
+                permeates all aspects of life. Each peublo is a self contained religious as well as
+                political unit. Snake dances and other hazardous dancers foot racing bullroarers
+                head tattoos group expression of religion should be the opposite of the normal
+                demeanor killing, even in self defense, causes one to become a member of the
+                brotherhoods </para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Vairman</title>
+        <sect2>
+            <title>Resources</title>
+            <para> Tough, not plentiful woods. Tourmaline, opal, and sapphires. Silver, Mercury,
+                Tin, and Lead. Wyvern, Beast hounds, Pards, Lerna. </para>
+            <para> Aliantha plants (Heal-All). Grapes and a large apple like fruit that ferments up
+                quite handily to form a nasty brew. </para>
+        </sect2>
+        <sect2>
+            <title>Technology</title>
+            <para> Good steel working is fairly common. Mostly used for crossbows and large curved
+                throwing and fighting knives. </para>
+            <para> Wood working, basic oil lamps, some simple chemistry, very good dyes. </para>
+            <para> Tin, Bronze, Brass and other small metal work is very good. </para>
+        </sect2>
+        <sect2>
+            <title>Magic</title>
+            <para> They have several monasteries that provide the Star Mages and Shadow Mages used
+                as judges for both the Dalesman and Vairman cultures. </para>
+        </sect2>
+        <sect2>
+            <title>Subsistence Patterns</title>
+            <para> Raising sheep and lerna. Some trade. </para>
+        </sect2>
+        <sect2>
+            <title>Values and Kinship</title>
+            <para> Equipartioned between male and female. Child is given the name of the parent it
+                chooses on its 3rd birthday. </para>
+            <para> Bravery and honesty are foremost amiong the virtues. To be graceful is the
+                highest aesthetic virtue. </para>
+        </sect2>
+        <sect2>
+            <title>Language</title>
+            <para> The vairman language is a broad mixture of a sharply spoken hispanic tongue and
+                of a gaelic tongue. Tends to be very sing song or ``chanty''. Most vairman are
+                literate in the basic symbols and handtalk. Only mages or totem holders are taught
+                to read. The written alphabet is the same as that of the Dalesmen. The sounds tend
+                towards k\={e}, s\={e}, la, t\={a}. \begin{tabbing} {\it Meaning} \= {\it Word} \\
+                Tasela \> light woman \\ Tasel \> Pleasure Love \\ Melante \> Measure of Honor or
+                interest \\ Hotman \> Headman \\ Chelket \> Sister \\ Maske \> rabble rouser \\
+                Tolla \> Balance (revenge) \\ Berma \> Sick with hunting after pleasure \\ Kushla \>
+                Brother or Sister in arms \\ \end{tabbing} </para>
+        </sect2>
+        <sect2>
+            <title>Religion,Myths,and History</title>
+            <para> The people of the Eyrie worship the Lord and the Lady. The Lord and Lady are a
+                brother/sister/ fighter/hunter/lover combination. They are always potrayed as twin
+                vairman dressed in the simplest of clothes . Both have long black hair of equal
+                length. </para>
+        </sect2>
+        <sect2>
+            <title>Tradition</title>
+            <sect3>
+                <title>Wedding</title>
+                <para> When a couple decides to become lifemates there are several events including
+                    a house raising and a land gifting. It is not unheard of for a vairman to marry
+                    two women or vice-a-versa. Usually these double pairings involve two of the same
+                    sex from the same family. </para>
+            </sect3>
+            <sect3>
+                <title>Bedding</title>
+                <para> \begin{quote} Start young, start well \end{quote} It is believed that the
+                    best lovers one can have when young is a cousin or closer sibling. Few unwanted
+                    pregnancies occur. </para>
+            </sect3>
+            <sect3>
+                <title>Other</title>
+                <para> The concept of revenge or Balanace is well developed. It is rare that the
+                    balance due any group or individual ends up requiring a life. </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Institutions</title>
+            <para> A great deal of importance is attached to the exchange of knives or bracelets.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Clergy</title>
+            <para> Priest and Priestesses are always ordained in pairs. Usually a brother/sister or
+                cousin/cousin pair are ``called'' together. </para>
+        </sect2>
+        <sect2>
+            <title>Art, Architecture, and Symbolism</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Politics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Class Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Judicial Structure</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Legal Code</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Military</title>
+            <para/>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Section1 Title</title>
+        <para>An equation: <equation>
+                <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
+                    <mml:semantics>
+                        <mml:mrow>
+                            <mml:mrow>
+                                <mml:mi mathvariant="bold">a</mml:mi>
+                                <mml:mo>=</mml:mo>
+                                <mml:mfrac>
+                                    <mml:mrow>
+                                        <mml:mi mathvariant="bold">F</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mi>m</mml:mi>
+                                </mml:mfrac>
+                                <mml:mo>=</mml:mo>
+                                <mml:mfrac>
+                                    <mml:mrow>
+                                        <mml:mi>q</mml:mi>
+                                        <mml:mo>[</mml:mo>
+                                        <mml:mi mathvariant="bold">E</mml:mi>
+                                        <mml:mo>+</mml:mo>
+                                        <mml:mfenced>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="bold">v</mml:mi>
+                                                <mml:mi>X</mml:mi>
+                                                <mml:mi mathvariant="bold">B</mml:mi>
+                                            </mml:mrow>
+                                        </mml:mfenced>
+                                        <mml:mo>]</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mi>m</mml:mi>
+                                </mml:mfrac>
+                            </mml:mrow>
+                        </mml:mrow>
+                    </mml:semantics>
+                </mml:math>
+            </equation></para>
+        <para>An inline SVG graphic: <inlinemediaobject>
+                <imageobject>
+                    <imagedata>
+                        <svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="3cm" height="3cm"
+                            viewBox="0 0 400 400">
+                            <svg:g style="fill-opacity:0.7; stroke:black; stroke-width:0.1cm;">
+                                <svg:circle cx="6cm" cy="2cm" r="100" style="fill:red;"
+                                    transform="translate(0,50)"/>
+                                <svg:circle cx="6cm" cy="2cm" r="100" style="fill:blue;"
+                                    transform="translate(70,150)"/>
+                                <svg:circle cx="6cm" cy="2cm" r="100" style="fill:green;"
+                                    transform="translate(-70,150)"/>
+                            </svg:g>
+                        </svg:svg>
+                    </imagedata>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+    </sect1>
+    <index/>
+</article>

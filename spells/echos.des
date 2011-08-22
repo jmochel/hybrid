@@ -1,0 +1,24 @@
+.Name EchosDeepEchosLong
+.NRG Stream
+.NRG Fabric
+.NRG Belief
+
+.ACT Summon
+.ACT Transport
+.ACT AntiDivine
+
+.TARGET AOE
+.TCOMP Perception
+ 
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 40
+.CDF 0
+.CTSCALE .5Min
+.RNG 20
+.RNGSCALE 1km
+.QE 20
+.LINKQE 1
+
+

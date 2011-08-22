@@ -1,0 +1,17 @@
+.Name
+.Usage (CR,PRC,CT)
+.Type (Stick, Blade, HaftedBlade, Flexible)
+.Length
+.Mass
+.Symmetry
+.Hands
+.Acc   // Accuracy
+.DM    // Damage Multiplier
+.TI
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn

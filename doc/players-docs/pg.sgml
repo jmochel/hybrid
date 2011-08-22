@@ -1,0 +1,37 @@
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [
+<!--ArborText, Inc., 1988-1995, v.4001-->
+<!NOTATION drw SYSTEM "DRW">
+<!ENTITY www "World Wide Web">
+]>
+
+<book>
+    <title>Space Hybrid Character Generation</title>
+\title{Hybrid\thanks{Copyright 1988,1989,1990,1991,1992,1993} : Players Guide }
+\author{Jim Mochel}
+\date{12.20.93}
+    <chapter>
+        <title>Brief Description</title>
+        <para>
+        The Confederation of Systems, more commonly known as the 
+        Confederation or Confed, is a collection of solar systems and colonies banded 
+        together for both defense and trade. There has been a concerted 
+        effort by the Confed to limit interference in the internal workings of the 
+        actual systems.
+        </para>
+        <para>
+        The Confed emcompasses a number of major racial groups. The Terrans 
+        and the various derivative races of <emphasis> Homo Terra Prime</emphasis>  
+        constitute a major portion of the current population.
+        The Proxima Centaurans and the derivative races of <emphasis> Homo Proxima Centauran Prime </emphasis>
+        make up the next largest population foloowed closely by the 
+        Alpha Centaurans and the derivative races of <emphasis> Homo Alpha Centauran Prime</emphasis> 
+        There are no other known races currently members of the Confed.
+        </para>
+        <para>
+        The duties of the Confederation as a governing body are quite simple: 
+        keep the peace <emphasis> between member systems </emphasis> To this end each system 
+        donates a portion of its military services to the Confed as well as some monetary support.
+        </para>
+    </chapter>
+
+

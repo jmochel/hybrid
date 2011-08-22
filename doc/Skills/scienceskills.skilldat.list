@@ -1,0 +1,67 @@
+============================================
+ Science Skills
+============================================
+
+	Accounting Science                                SB:FCS        Cost:9    DF:-2   
+	Archeology                                        SB:FCS        Cost:7    DF:0    
+	Astro Physics                                     SB:FCS        Cost:8    DF:-1   
+	Biochemistry                                      SB:FCS        Cost:7    DF:0    
+	Biology                                           SB:FCS        Cost:7    DF:0    
+	Botany			                                         SB:FCS        Cost:7    DF:0    
+	Chemistry                                         SB:FCS        Cost:7    DF:0    
+	Classical Physics			                              SB:FCS        Cost:7    DF:0    
+	Cognoscology                                      SB:FCS        Cost:7    DF:0    
+	Computer Sci		                                    SB:FCS        Cost:7    DF:0    
+	Cultural Anthropology                             SB:FCS        Cost:7    DF:0    
+	Electrical and Magnetic Field Physics			          SB:FCS        Cost:7    DF:0    
+	Eco Engineering			                                SB:FCS        Cost:6    DF:-1   
+	Ecology			                                        SB:FCS        Cost:7    DF:0    
+	Electrical Engineering		                          SB:FCS        Cost:6    DF:-1   
+	Electrical Operations                             SB:FCS        Cost:5    DF:-1   
+	Electrical Tech                                   SB:FCS        Cost:5    DF:-1   
+	Field Physics                                     SB:FCS        Cost:7    DF:0    
+	Forensic Engineering                              SB:FCS        Cost:6    DF:-1   
+	Forensic Tech                                     SB:FCS        Cost:5    DF:-1   
+	Forensics                                         SB:FCS        Cost:7    DF:0    
+	Genetic Engineering			                            SB:FCS        Cost:6    DF:-1   
+	Genetic Tech                                      SB:FCS        Cost:5    DF:-1   
+	Genetics		                                        SB:FCS        Cost:7    DF:0    
+	Geology                                           SB:FCS        Cost:7    DF:0    
+	History                                           SB:FCS        Cost:7    DF:0    
+	Hydroponics Tech                                  SB:FCS        Cost:5    DF:-1   
+	Hyper Atomics	                                    SB:FCS        Cost:7    DF:0    
+	Linguistics Tech                                  SB:MCA        Cost:5    DF:-1   
+	Linguistics	                                      SB:FCS        Cost:7    DF:0    
+	Math Analyst                                      SB:FCS        Cost:5    DF:-1   
+	Mathematics				                                   SB:FCS        Cost:7    DF:0    
+	Mechanical Engineering		                          SB:FCS        Cost:6    DF:-1   
+	Mechanical Ops                                    SB:FCS        Cost:5    DF:-1   
+	Mechanical Tech                                   SB:FCS        Cost:5    DF:-1   
+	Medicine		                                        SB:FCS        Cost:6    DF:-1   
+	Medical Ops                                       SB:FCS        Cost:5    DF:-1   
+	Medical Tech                                      SB:FCS        Cost:5    DF:-1   
+	Metallurgy		                                      SB:FCS        Cost:7    DF:0    
+	Mining Engineering		                              SB:FCS        Cost:6    DF:-1   
+	Mining Ops                                        SB:FCS        Cost:5    DF:-1   
+	Mining Tech                                       SB:FCS        Cost:5    DF:-1   
+	Modeling Engineering	                             SB:FCS        Cost:6    DF:-1   
+	Navigation:(Interstellar)                         SB:FCS        Cost:5    DF:-1   
+	Navigation:(Intrastellar)                         SB:FCS        Cost:5    DF:-1   
+	Nexialism		                                       SB:FCS        Cost:7    DF:0    
+	Optical Engineering                               SB:FCS        Cost:6    DF:-1   
+	Optical Tech                                      SB:FCS        Cost:5    DF:-1   
+	Pharmacognosy	                                    SB:FCS        Cost:4    DF:0    
+	Pharmacology                                      SB:FCS        Cost:7    DF:0    
+	Physical Anthropology                             SB:FCS        Cost:7    DF:0    
+	Planetology	                                      SB:FCS        Cost:7    DF:0    
+	Power Engineering		                               SB:FCS        Cost:6    DF:-1   
+	Power Operations                                  SB:FCS        Cost:6    DF:-2   
+	Power Tech                                        SB:FCS        Cost:5    DF:-1   
+	Psi Engineering			                                SB:FCS        Cost:6    DF:-1   
+	Psi Tech                                          SB:FCS        Cost:5    DF:-1   
+	Psychiatry		                                      SB:FCS        Cost:7    DF:0    
+	Psychology                                        SB:FCS        Cost:7    DF:0    
+	Robotics		                                        SB:FCS        Cost:7    DF:0    
+	Robotics Tech                                     SB:FCS        Cost:5    DF:-1   
+	Terraforming		                                    SB:FCS        Cost:6    DF:-1   
+	Zoology                                           SB:FCS        Cost:7    DF:0    

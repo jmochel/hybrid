@@ -1,0 +1,19 @@
+.Name VoiceOfTheForeBearer
+.NRG Stream
+.ACT Summon
+.ACT Divine
+
+.TARGET Single
+.TCOMP Perception
+
+.CCOMP Verbal
+
+.EC 20
+.CDF 0
+.RES 7
+
+.CTSCALE .5Min
+.RNG Touch
+.QE 30
+.LINKQE 2
+
