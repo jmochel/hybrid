@@ -1,0 +1,1414 @@
+<para>
+  {Character Generation}The player starts with points for buying
+  statistics and several other pools of points for the rest of
+  charcter development. The three pools are Personal Development,
+  Status, and Wealth. The player starts with 125 points for
+  statistics and 10 points in the Personal Development Pool.
+</para>
+<para>
+  With these points the player buys what is needed for the initial
+  character development. This includes the Race, Special Abilities,
+  and Culture of the character.
+</para>
+<para>
+  Then the player generates the history of the character. The player
+  picks the career path the character will follow and uses the
+  results of that career to put points into the other pools.
+</para>
+<itemizedlist>
+  <listitem>
+    <para>
+      Initial Point Allocation
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Pick Primary Statistics
+        </para>
+      </listitem>
+    </itemizedlist>
+  </listitem>
+  <listitem>
+    <para>
+      Buy Limitations and Enhancements
+    </para>
+  </listitem>
+  <listitem>
+    <para>
+      Buy Racial Template
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Pick a race
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Pick a gender (if applicable)
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Apply modifiers from the racial description
+        </para>
+      </listitem>
+    </itemizedlist>
+  </listitem>
+  <listitem>
+    <para>
+      Calculate remaining statistics
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Calculate Statistics
+        </para>
+      </listitem>
+    </itemizedlist>
+  </listitem>
+  <listitem>
+    <para>
+      Buy Culture Template
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Pick a culture
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Apply modifiers from the cultural description
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Pick base skills from the cultural description
+        </para>
+      </listitem>
+    </itemizedlist>
+  </listitem>
+  <listitem>
+    <para>
+      Career and History generation
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Pick a career or a set of careers
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Roll out the history
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Rearrange Point Pool Gains
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Pick the skills gained from those careers
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Pick any Limitations or Enhancements gained from those careers
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Pick any Status or Wealth gains from the careers
+        </para>
+      </listitem>
+    </itemizedlist>
+  </listitem>
+</itemizedlist>
+<section id="primary-statistics">
+  <title>Primary Statistics</title>
+  <para>
+    In generating the statistics of the character the player
+    distributes 125 points among the 10 primary statistics. The minimum
+    number of points that may be put into a statistic is 5. The maximum
+    amount that may be placed into a statistic is 25.
+  </para>
+  <para>
+    The following gives the name and abbreviation of each primary
+    statistic and describes what the statistic represents.
+    (Desc:PrimaryStats)
+  </para>
+  <variablelist>
+    <varlistentry>
+      <term>
+        Physical Strength (PST)
+      </term>
+      <listitem>
+        <para>
+          Physical Strength is the overall power of body. This represents the
+          character's raw muscle power and is not tied to some particular set
+          of limbs. Actions such as lifting are based on PST.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Endurance (PEN)
+      </term>
+      <listitem>
+        <para>
+          Physical Endurance is the physical resilience and stamina of body.
+          This is a measure of the character's overall endurance and ability
+          to resist hardship as well as the ability to bounce back from
+          hardship.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Dexterity (DEX)
+      </term>
+      <listitem>
+        <para>
+          Dexterity is the eye and hand coordination and speed of hand
+          movement. This is specifically tied to the character's hands (or
+          any alien equivalent).
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Agility (PAG)
+      </term>
+      <listitem>
+        <para>
+          Physical Agility is the overall flexibity and responsiveness of
+          body. This affects the whole body actions of the character. Dodging
+          is an action based on PAG.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Awareness (PAW)
+      </term>
+      <listitem>
+        <para>
+          Physical Awareness is how sensitive the character is to the
+          physical part of the environment. If you are using any of your
+          physical senses, you are using PAW.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Strength (MST)
+      </term>
+      <listitem>
+        <para>
+          Mental Strength is raw mental power. It is a measure of the
+          characters overall computational and reasoning strength. It is also
+          associated with the character's strength of will. Using memory is
+          an action based on MST.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Endurance (MEN)
+      </term>
+      <listitem>
+        <para>
+          Mental Endurance is resilience and stamina of mind. It is a measure
+          of the mind's ability to recover from shock or disorientation.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Agility (MAG)
+      </term>
+      <listitem>
+        <para>
+          Mental Agility is the overall flexibility and responsiveness of
+          mind. In another day and age this might be called
+          <quote>Cunning</quote>, <quote>Canniness</quote>, or
+          <quote>Shrewdness</quote>.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Psi Potential (PSI)
+      </term>
+      <listitem>
+        <para>
+          Psi Potential is a measure of how easily a character can gain
+          access to their <quote>supernatural</quote> or psychic abilities.
+          In fantasy campaigns this also governs the use of magery.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Awareness (MAW)
+      </term>
+      <listitem>
+        <para>
+          Mental Awareness is how sensitive the character is to the
+          non-physical part of the environment.
+        </para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>
+    The typical non-player character average and the ranges of the
+    primary statistics are given in the table below.
+  </para>
+  <blockquote>
+    <blockquote>
+      <para>
+        Stat &amp; Human &amp; Human <literallayout></literallayout> &amp;
+        Range &amp; Average <literallayout></literallayout> PST &amp; 1-30
+        &amp; 12 <literallayout></literallayout> PEN &amp; 1-30 &amp; 12
+        <literallayout></literallayout> DEX &amp; 1-30 &amp; 12
+        <literallayout></literallayout> PAG &amp; 1-30 &amp; 12
+        <literallayout></literallayout> PAW &amp; 1-30 &amp; 12
+        <literallayout></literallayout> MST &amp; 1-30 &amp; 12
+        <literallayout></literallayout> MEN &amp; 1-30 &amp; 12
+        <literallayout></literallayout> MAG &amp; 1-30 &amp; 12
+        <literallayout></literallayout> PSI &amp; 1-30 &amp; 12
+        <literallayout></literallayout> MAW &amp; 1-30 &amp; 12
+        <literallayout></literallayout>
+      </para>
+    </blockquote>
+    <para>
+      {Primary Statistics}
+    </para>
+  </blockquote>
+</section>
+<section id="race">
+  <title>Race</title>
+  <para>
+    Once the primary statistics have been chosen the race of the
+    character must be selected. The racial template includes modifiers
+    for primary statistics and other statistics as well as any special
+    abilities of the race. The racial template includes Stat modifiers,
+    Special Abilities and Limitations. Some races will have a cost that
+    must be paid from the Personal Development pool.
+  </para>
+  <para>
+    See your obliging GamesMaster for a list of racial descriptions.
+  </para>
+  <section id="statistic-modifiers">
+    <title>Statistic Modifiers</title>
+    <para>
+      The racial description may include modifiers to the character's
+      statistics. Primary Statistic modifiers are applied right away.
+      Modifiers to calculated stats are applied after generating the
+      background of the character.
+    </para>
+  </section>
+  <section id="enhancementslimitations">
+    <title>Enhancements/Limitations</title>
+    <para>
+      If there are any Enhancements or Limitations due to race then they
+      should be applied at this time.
+    </para>
+  </section>
+  <section id="gender">
+    <title>Gender</title>
+    <para>
+      The player should note whether the character is male or female (if
+      the character's race supports multiple genders). If there are any
+      modifiers to statistics for a specific gender they should be
+      applied. These modifiers will be listed in the racial description.
+    </para>
+  </section>
+</section>
+<section id="calculated-statistics">
+  <title>Calculated Statistics</title>
+  <para>
+    With the race and gender selected all of the primary statistics are
+    modified and the secondary statistics are determined. Secondary
+    statistics are determined from the primary stats. Like the primary
+    statistics they break down evenly into mental and physical
+    categories.
+  </para>
+  <para>
+    Their description follows.
+  </para>
+  <para>
+    See the description in section Desc:PrimaryStats on page
+    {Desc:PrimaryStats}.
+  </para>
+  <variablelist>
+    <varlistentry>
+      <term>
+        Physical Body (PBD)
+      </term>
+      <listitem>
+        <para>
+          The amount of physical damage a character can absorb. Derived from
+          PST and PEN.
+          (<emphasis>PST</emphasis>+<emphasis>PEN</emphasis>) × {<emphasis>Racial</emphasis>\<emphasis>Modifier</emphasis>}
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Fatigue (PFT)
+      </term>
+      <listitem>
+        <para>
+          The amount of energy a character can expend, either in combat or in
+          work. Derived from PEN and PAG.
+          (2 × <emphasis>PEN</emphasis>)+<emphasis>PAG</emphasis>
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Exhaustion (PEX)
+      </term>
+      <listitem>
+        <para>
+          The amount of energy reserve a character can expend as the result
+          of damage or from work. Derived from PEN and PAG.
+          (4 × <emphasis>PEN</emphasis>)+<emphasis>PAG</emphasis>
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Movement (PMV)
+      </term>
+      <listitem>
+        <para>
+          A measure of the character's movement rate. Derived from PST and
+          PEN and racial modifiers.
+          ((<emphasis>PST</emphasis>+<emphasis>PAG</emphasis>)/5) × {<emphasis>Racial</emphasis>\<emphasis>Modifier</emphasis>}
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Body (MBD)
+      </term>
+      <listitem>
+        <para>
+          The amount of mental damage a character can absorb. Derived from
+          MEN and MST.
+          (<emphasis>MST</emphasis>+<emphasis>MEN</emphasis>) × {<emphasis>Racial</emphasis>\<emphasis>Modifier</emphasis>}
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Fatigue (MFT)
+      </term>
+      <listitem>
+        <para>
+          The amount of mental energy a character can expend, either in
+          damage or in work. Derived from MEN and MAG.
+          (2 × <emphasis>MEN</emphasis>)+<emphasis>MAG</emphasis>
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Exhaustion (MEX)
+      </term>
+      <listitem>
+        <para>
+          The amount of mental reserve energy a character can expend, either
+          in combat or in work. Derived from MEN and MAG.
+          (4 × <emphasis>MEN</emphasis>)+<emphasis>MAG</emphasis>
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Movement (MMV)
+      </term>
+      <listitem>
+        <para>
+          A measure of the characters rate of movement in the purely mental
+          realms of psionics, magery, and computer interfaces.
+          (<emphasis>MST</emphasis>+<emphasis>MAG</emphasis>)/5) × {<emphasis>Racial</emphasis>\<emphasis>Modifier</emphasis>}
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Accuracy (ACC)
+      </term>
+      <listitem>
+        <para>
+          A measure of the character's effectiveness with projectile or
+          missile weapons. Derived from PST and DEX. Could also be called
+          Physical Accuracy.
+          (<emphasis>PST</emphasis>+<emphasis>DEX</emphasis>)/2
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Combat Ability (PCA)
+      </term>
+      <listitem>
+        <para>
+          A measure of a character's ability to in-flict dam-age in
+          hand-to-hand and melee combat. Derived from PST, PAG, DEX.
+          (<emphasis>PST</emphasis>+<emphasis>DEX</emphasis>+<emphasis>PAG</emphasis>)/3
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Physical Defense (PDF)
+      </term>
+      <listitem>
+        <para>
+          A measure of a character's ability to dodge or evade to avoid
+          taking damage in hand-to-hand or melee combat. Derived from PAG,
+          DEX. (<emphasis>PAG</emphasis>+<emphasis>DEX</emphasis>)/2
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Focus (FCS)
+      </term>
+      <listitem>
+        <para>
+          A measure of the character's effectiveness with focused mental
+          actions. Derived from MST and MAG. could also be called Mental
+          Accuracy. (<emphasis>MST</emphasis>+<emphasis>MAG</emphasis>)/2
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Combat Ability (MCA)
+      </term>
+      <listitem>
+        <para>
+          A measure of a character's ability to inflict damage in Mind to
+          Mind combat. Derived from MST, MAG, PSI
+          (<emphasis>MST</emphasis>+<emphasis>PSI</emphasis>+<emphasis>MAG</emphasis>)/3
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mental Defense (MDF)
+      </term>
+      <listitem>
+        <para>
+          A measure of a character's ability to avoid taking damage in mental
+          combat or highly stressful situations. Derived from MAG.
+          (<emphasis>MAG</emphasis>+<emphasis>PSI</emphasis>)/2
+        </para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>
+    {tcgen2.tex}
+  </para>
+</section>
+<section id="other-statistics">
+  <title>Other Statistics</title>
+  <section id="height-ht">
+    <title>Height (HT)</title>
+    <para>
+      Expressed in Centimeters. If the creature being described is
+      quadrapedal, the height given is the height to the shoulder.
+    </para>
+    <para>
+      If the player has no preference regarding the height of the
+      character the height may be randomly generated using the following
+      formula.
+    </para>
+    <para>
+      <emphasis>Height</emphasis>={<emphasis>Average</emphasis><emphasis>Height</emphasis>}+({{2<emphasis>d</emphasis>10-11}\over{10}} × {<emphasis>Height</emphasis><emphasis>Variation</emphasis>})
+    </para>
+    <para>
+      The Average Height and Height Variation is given in the racial
+      template.
+    </para>
+  </section>
+  <section id="weight-wt">
+    <title>Weight (WT)</title>
+    <para>
+      Expressed in Kilograms. If the player has no preference regarding
+      the weight of the character the weight may be randomly generated
+      using the following formula.
+    </para>
+    <para>
+      <emphasis>Weight</emphasis>={<emphasis>Average</emphasis><emphasis>Weight</emphasis>}+({{2<emphasis>d</emphasis>10-11}\over{10}} × {<emphasis>Weight</emphasis><emphasis>Variation</emphasis>})
+    </para>
+    <para>
+      The Average Weight and Weight Variation is given in the racial
+      description.
+    </para>
+  </section>
+  <section id="appearence-app">
+    <title>Appearence (APP)</title>
+    <para>
+      A measure of how physically attractive a character is to others of
+      their race. It ranges (typically) from +5 to -5 and has a default
+      of 0. Characters that wish to be more or less attractive can buy
+      appearance as an enhancement or limitation. See section
+      Sec:Enhancements.
+    </para>
+  </section>
+  <section id="mental-speed">
+    <title>Mental Speed</title>
+    <para>
+      Speed of reaction in mental actions is given by Mental Speed. It is
+      derived from the Mental Awareness stat using table  Table:Speed on
+      page {Table:Speed}. An average Mental Speed is 4.
+    </para>
+  </section>
+  <section id="physical-speed">
+    <title>Physical Speed</title>
+    <para>
+      Speed of reaction in mental actions is given by Physical Speed. It
+      is derived from the Physical Awareness stat using table
+       Table:Speed on page {Table:Speed}. An average Physical Speed is 4.
+    </para>
+    <para>
+      {tcgen5.tex}
+    </para>
+  </section>
+</section>
+<section id="cultural-modifiers">
+  <title>Cultural Modifiers</title>
+  <para>
+    The player should determine the culture and the home environment
+    the character is raised in. Both of these will have a major effect
+    on the numbers and types of skills that a player character starts
+    out with. Some cultural templates may have a cost that must be paid
+    from the Personal Development pool.
+  </para>
+  <para>
+    As a result of growing up in a given environment the character
+    gains skill in how to maneuver in that environment. i.e. A
+    character born and raised in an zero-gravity environment will have
+    high skills in {Movement:0-g } and little or no skills in
+    {Movement:1-g }.
+  </para>
+  <para>
+    The character will start out with a knowledge of how to use the
+    technology common to their culture and what the social dos and and
+    donts are.
+  </para>
+  <para>
+    These types of skills are listed in the table below.along with some
+    specific examples.
+  </para>
+  <orderedlist>
+    <listitem>
+      <para>
+        20 points of education skills.
+      </para>
+      <orderedlist>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+      </orderedlist>
+    </listitem>
+    <listitem>
+      <para>
+        20 points of skills in written and spoken language.
+      </para>
+      <orderedlist>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+      </orderedlist>
+    </listitem>
+    <listitem>
+      <para>
+        20 points of skill in Cultural Lore. Both local and larger scale.
+      </para>
+      <orderedlist>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+      </orderedlist>
+    </listitem>
+    <listitem>
+      <para>
+        20 points of skill in Lore:[Tech Index] of Culture.
+      </para>
+      <orderedlist>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+      </orderedlist>
+    </listitem>
+    <listitem>
+      <para>
+        15 points of manuevering skills for the native environment
+      </para>
+      <orderedlist>
+        <listitem>
+        </listitem>
+        <listitem>
+        </listitem>
+      </orderedlist>
+    </listitem>
+  </orderedlist>
+</section>
+<section id="careers">
+  <title>Careers</title>
+  <para>
+    The next step is determining the career path the character took up
+    until the start of play. This is where a majority of a character's
+    skills and history will be developed. The process is fairly simple:
+    the player selects the career they wish to enter and then they roll
+    for the character to gain skills, wealth, and status during each
+    year they are in that career. This means three rolls. One for
+    Personal Development, one for Wealth, and one for status. These
+    three pools : Personal Development, Wealth, and Status are the
+    basis of the final resolution of the character's skills, history,
+    and station.
+  </para>
+  <para>
+    Each of the available paths has its own advantages and
+    disadvantages. Educational careers give one little chance to injure
+    one's self but the possible monetary gains are low. Military
+    careers are dangerous, but the skills gained there may not be
+    available elsewhere.
+  </para>
+  <para>
+    The three pools each have a different basic function. The Personal
+    Development pool serves as the point pool for increasing a PC
+    statistics, skills, or creating special abilities. The Wealth pool
+    contains points to be spent in establishing the character's basic
+    financial state. The Status pool contains points to be spent in
+    gaining all the possible trappings of status: reputation,
+    syncophants, or other recognition.
+  </para>
+  <para>
+    Players do have a limited amount of lateral movement for these
+    points. Each career is delineated by a simple set of numbers
+    combined with a simple description. It has the following format:
+  </para>
+  <variablelist>
+    <varlistentry>
+      <term>
+      </term>
+      <listitem>
+        <para>
+          [Name] Self explanatory
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Personal Development
+      </term>
+      <listitem>
+        <para>
+          How many PD points are normally recieved during a one year period
+          in that career.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Financial Gain
+      </term>
+      <listitem>
+        <para>
+          The base amount of stads(standards) gained in a one year period of
+          a career. A stad can be replaced with the name of the standard unit
+          of currency.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        DF (Personal|Wealth|Status)
+      </term>
+      <listitem>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Personal
+      </term>
+      <listitem>
+        <para>
+          The DF for a MAW or PAW roll to determine the number of personal
+          points the character gained in a roll. A successful roll adds
+          points into the Personal Stat Pool. A failed roll adds nothing and
+          a critical failure usually involves the loss of points from the
+          personal pool.
+          <footnote>
+            <para>
+              !!!! Add a description in the beginning of the PG for DF and rolls
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Wealth
+      </term>
+      <listitem>
+        <para>
+          The DF for a MAW or PAW roll to determine whether or not the
+          character gained in the material or financial area. A successful
+          roll adds Base Financial Gain to the Wealth Pool. This represents
+          the character's gain in free wealth beyond their means of support.
+          i.e. their savings.
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Status
+      </term>
+      <listitem>
+        <para>
+          The DF for a MAW or PAW roll to determine whether or not the
+          character gained in Status. A succesful roll adds 1 to the Status
+          Pool. Status is a rather subjective thing but typically, a military
+          career leads to increases in rank and possible minor fame. A
+          increase in status in a shadowy career would lead to the
+          development of a &quot;Rep&quot;. Most careers will have a status
+          table that describes the cost of a specific rank or status gain.
+          <footnote>
+            <para>
+              !!!! Add a reputation table
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>
+    For example, here is a description of a Terran Law Enforcement
+    Officer
+  </para>
+  <variablelist>
+    <varlistentry>
+      <term>
+      </term>
+      <listitem>
+        <para>
+          [Name] Terran Law Enforcement Officer
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Personal Development
+      </term>
+      <listitem>
+        <para>
+          8 points per year
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Financial Gain
+      </term>
+      <listitem>
+        <para>
+          3,000 UN Dollars
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        DF (Personal|Wealth|Status)
+      </term>
+      <listitem>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Personal
+      </term>
+      <listitem>
+        <para>
+          DF -2
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Wealth
+      </term>
+      <listitem>
+        <para>
+          DF 0
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Status
+      </term>
+      <listitem>
+        <para>
+          DF -3
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Status Table
+      </term>
+      <listitem>
+        <variablelist>
+          <varlistentry>
+            <term>
+              3
+            </term>
+            <listitem>
+              <para>
+                Sargent
+              </para>
+            </listitem>
+          </varlistentry>
+          <varlistentry>
+            <term>
+              5
+            </term>
+            <listitem>
+              <para>
+                Lieutenant
+              </para>
+            </listitem>
+          </varlistentry>
+          <varlistentry>
+            <term>
+              8
+            </term>
+            <listitem>
+              <para>
+                Captain
+              </para>
+            </listitem>
+          </varlistentry>
+          <varlistentry>
+            <term>
+              12
+            </term>
+            <listitem>
+              <para>
+                Chief
+              </para>
+            </listitem>
+          </varlistentry>
+        </variablelist>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>
+    {Typical Careers (in short form)}
+  </para>
+  <variablelist>
+    <varlistentry>
+      <term>
+        Theif
+      </term>
+      <listitem>
+        <para>
+          12:4,000 stads : (5/4/6)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Fighter
+      </term>
+      <listitem>
+        <para>
+          15:7,000 stads : (7/3/2)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mage
+      </term>
+      <listitem>
+        <para>
+          20:2,000 stads : (7/3/1)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Smuggler
+      </term>
+      <listitem>
+        <para>
+          20:10,000 stads:(7/5/3)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Terran Space Navy
+      </term>
+      <listitem>
+        <para>
+          18:14,000stads:(7/3/3)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Healer
+      </term>
+      <listitem>
+        <para>
+          25:1,000stads:(7/1/3)
+        </para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>
+        Mechanized Infantry
+      </term>
+      <listitem>
+        <para>
+          25:1,000stads:(7/1/3)
+        </para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>
+    The example careers listed above would usually be fleshed out with
+    additional detail such as a description of rank and status,
+    etc<footnote>
+         <para>
+           An important question is that of when a character is allowed to
+           drop out of military and so on careers.
+         </para>
+       </footnote>
+  </para>
+</section>
+<section id="buying-skills-and-enhancements">
+  <title>Buying Skills and Enhancements</title>
+  <para>
+    In the previous portion of the character generation process we
+    added and subtracted points to three <quote>pools</quote>. These
+    three pools : Personal, , Wealth, and Status are the basis of the
+    final resolution of the character's skills, history, etc The three
+    pools each have a different basic function.
+  </para>
+  <para>
+    The Personal pool serves as the point pool for increasing a PC
+    statistics, Skills, or creating special abilities. The Wealth pool
+    contains points to be spent in gaining an idea of basic financial
+    state. The Status pool contains points to be spent in gaining all
+    the possible trappings of status. Reputation, syncophants.
+  </para>
+  <para>
+    Players do have a limited amount of lateral movement for these
+    points.
+    <footnote>
+      <para>
+        The Wealth and Status pool can exchange to a maximum of 10
+      </para>
+    </footnote>
+    <footnote>
+      <para>
+        The Wealth and Skill pools can exchange a maximum of 15 points.
+      </para>
+    </footnote>
+  </para>
+  <para>
+    In addition a player can add and subtract to/from the pools by the
+    usage of Enhancements and Limitations. See section
+    Sec:Enhancements.
+  </para>
+</section>
+<section id="skill-costs">
+  <title>Skill Costs</title>
+  <para>
+    When characters are first generated they can buy single skills
+    using points from the personal pool. During character generation
+    all skills cost 1 point per rank to purchase. So rank 0 costs 1
+    point, rank 1 costs 2 points , and so on. After characters have
+    been generated they advance in their skills according to rules
+    described in the Players Guide.
+  </para>
+  <para>
+    In summary single skills cost 1+<emphasis>Rank</emphasis> in
+    personal development points.
+  </para>
+</section>
+<section id="skill-ranks">
+  <title>Skill Ranks</title>
+  <para>
+    The meaning of skill ranks varies somewhat based on the rarity of
+    the skill and so on but, in general, the skill ranks map to
+    expertise according to table  Table:SkillRanks on
+    page {Table:SkillRanks}.
+  </para>
+  <para>
+    {tskill9}Someone is familiar with the skill if they have tried it
+    enough that the tools and techniques are known even if the
+    character has no real practice with them.
+  </para>
+  <para>
+    A character is at a begginer level of skill if they have used the
+    skills enough to be comfortable with all the basic techniques
+    needed even though they may not be consistent in their execution.
+  </para>
+  <para>
+    A character is at a dedicated amateur level of skill if they are
+    consistent in executing all the basic skills even though they have
+    no real comfort with any of the advanced techniques.
+  </para>
+  <para>
+    A solid workaday craftsman is consistent and accomplished in
+    executing all the basic skills and are familiar with the advanced
+    techniques and tools.
+  </para>
+  <para>
+    A professional is consistent and accomplished in te full range of
+    basic and advanced techniques used in routine application of the
+    skill.
+  </para>
+  <para>
+    An expert is consistent and accomplished in all the basic and
+    advanced techniques used in routine application of the skill as
+    well as being familiar with techniques and tools needed for less
+    common usage of the skill.
+  </para>
+  <para>
+    An master is consistent and accomplished in all the techniques used
+    in most applications of the skill. In addition they are familiar
+    with some esoteric techniques needed for bizarre and unusual
+    applications of a skill.
+  </para>
+  <para>
+    An character at a mystical mastery level accomplished in all the
+    techniques used in almost all known applications of the skill. In
+    addition they have a whole series of special techniques and tools
+    they have developed for themselves.
+  </para>
+</section>
+<section id="statistic-costs">
+  <title>Statistic Costs</title>
+  <para>
+    When characters are first generated they can buy statistics using
+    points from the personal pool. During character generation all
+    stats are raised using the costs from the table  Table:StatCosts on
+    page {Table:StatCosts}. So adding 1 point of PST costs 4 points,
+    adding 2 costs 8 points, and so on. After characters have been
+    generated they advance in their stats according to rules described
+    in the Players Guide.
+  </para>
+  <para>
+    {tcgen4.tex}
+  </para>
+</section>
+<section id="skill-packages">
+  <title>Skill Packages</title>
+  <para>
+    What we have discussed up till now has been single skills. Quite
+    often the character will be using a skill package. A skill package
+    is a collection of related skills that have a bundled at a bargain
+    cost.
+  </para>
+  <para>
+    A typical skill package would be :
+  </para>
+  <screen>
+Terran Law Enforcement Officer Package
+    Lore: Terran Law
+    Culture Lore: Terran LEO
+    Weapon: Pistol 
+    Weapon: Tonfa
+    Weapon: Taser
+    Streetwise
+    Interrogation
+    Data Analysis
+    Computer Ops
+    Cost: 5
+</screen>
+  <para>
+    This package would cost 5 points to get rank 0 in all the listed
+    skills, 10 points to get rank 1 and so on. This compares well to 9
+    points to get rank 0 in all the skills and 18 points to get rank 1
+    and so on. After character generation, these skills are raised
+    individually just like any other skill according to rules described
+    in the Players Guide.
+  </para>
+</section>
+<section id="enhancements-and-limitations">
+  <title>Enhancements and Limitations</title>
+  <para>
+    (Sec:Enhancements) (Sec:Limitations) After a character has some
+    points in the three pools associated with character creation (
+    personal, wealth, status) they may choose to use them to buy
+    Enhancements that will add flavour to the character.
+  </para>
+  <para>
+    There are always the base enhancements allowed to the character.
+    The points in the personal pool can be used to buy skills at the
+    generation cost. The points in the personal pool can be used to buy
+    stats at the costs listed in the stat cost tables.
+  </para>
+  <para>
+    Enhancements are gains in either background or special abilities
+    that can be paid for with points from one of the pools. There are
+    two main types. There are Character Enhancements and there are
+    Environmental Enhancements.
+  </para>
+  <para>
+    Character Enhancements are natural aptitudes that are typically
+    permanent and inherent to the character's makeup. Enhanced hearing
+    or eidetic memory are examples of Character Enhancements.
+  </para>
+  <para>
+    Environmental Enhancements are typically advantages that depend on
+    the character to maintain them. Such as inherited wealth and
+    various components of status.
+  </para>
+</section>
+<section id="character-enhancements">
+  <title>Character Enhancements</title>
+  <para>
+    Character Enhancements have both Depth and Scope to help govern
+    their cost. Depth refers to the numeric advantage given by the
+    enhancemnet in a given area. The scope denotes the number of
+    different areas that the spab may be applicable to. In the case of
+    raising a character statistic the scope refers to the number of
+    other stats affected.
+  </para>
+  <para>
+    A character enhancement that involves enhancing a statistic is
+    different from raising the statistic. A raised statistic ends up
+    increasing the SB of the character in that stat. The enhanced stat
+    increases the Rank of the character for any direct rolls against
+    that stat. Thus an Enhanced Stat affects Saving Throws and
+    Concentration Checks.
+  </para>
+  <section id="ambidexterity">
+    <title>Ambidexterity</title>
+    <para>
+      Ambidexterity allows the character to use either hand when
+      performing actions. The character takes no off-hand penalties.
+      Costs 10 Personal Development Points
+    </para>
+  </section>
+  <section id="eidectic-memory">
+    <title>Eidectic Memory</title>
+    <para>
+      Exact recall (given successful roll against MST) of events. Adds DF
+      2 to any memory roll. Costs 12 Personal Development points
+    </para>
+  </section>
+  <section id="photographic-memory">
+    <title>Photographic Memory</title>
+    <para>
+      Exact recall of (given successful roll against MST) any image or
+      visual happening. Costs 12 Personal Development points
+    </para>
+  </section>
+  <section id="lightning-calculator">
+    <title>Lightning Calculator</title>
+    <para>
+      Ability to instantly execute complex arithmetic and mathematical
+      calculations. Costs 5 Personal Development points
+    </para>
+  </section>
+  <section id="active-psi">
+    <title>Active PSI</title>
+    <para>
+      Character has concious knowledge and use (though no training) of
+      their psionic abilities. Costs 20 Personal Development Points
+    </para>
+  </section>
+  <section id="mage-ability">
+    <title>Mage Ability</title>
+    <para>
+      Character has concious knowledge and use (though no training) of
+      their magical abilities. Costs 20 Personal Development Points
+    </para>
+  </section>
+  <section id="enhanced-statistics">
+    <title>Enhanced Statistics</title>
+    <para>
+      Most of the enhancements that involve heightened stats in
+      specialised areas have a simple cost equal to 1/2 the purchase cost
+      of the stats. So someone with a heightened sense of smell would pay
+      one half the cost of Physical Awareness (PAW) or 1/2 × 4=2 for each
+      additional point of increase. So someone with a 12 PAW could pay 8
+      points of ersonal Development and get a PAW (for smells) of 16.
+    </para>
+  </section>
+  <section id="psi-gift">
+    <title>PSI Gift</title>
+    <para>
+      The heightening of PSI for broad categories of PSI skills such as
+      Temporokinetics has a cost equal to 3/4 of the PSI stat or 8
+      points. So someone with a gift for Temporokinetics would pay 8
+      points per point of heightened PSI in that area.
+    </para>
+    <para>
+      The heightening of PSI for specific PSI skills such as
+      Teleportation has a cost equal to 1/2 of the PSI stat or 5 points.
+      So someone with a gift for Teleportation would pay 5 points per
+      point of heightened PSI in that area.
+    </para>
+  </section>
+  <section id="presence">
+    <title>Presence</title>
+    <para>
+      This enhancement reflects other people's innate awareness of the
+      character in a given area. A person with a high presence is hard to
+      ignore.
+    </para>
+    <para>
+      It is calculated in just the same way as other enhanced stats. So
+      Enhanced Physical Presence is 2 points per additional effect.
+      Decreased Physical Presence is 2 points per subtracted effect.
+      Enhanced Mental Presence is 2 points per additional effect.
+      Decreased Mental Presence is 2 points per subtracted effect.
+    </para>
+    <para>
+      The decreased presence enhancements are, in effect, stealth
+      enhancements.
+    </para>
+  </section>
+</section>
+<section id="environmental-enhancements">
+  <title>Environmental Enhancements</title>
+  <para>
+    Environmental Enhancements have both Depth and Scope to help govern
+    their cost. Scope is the number of people affected by the
+    enhancement.
+  </para>
+  <blockquote>
+    <blockquote>
+      <para>
+        Scope &amp; Number of People &amp; Cost
+        <literallayout></literallayout> 10<superscript>0</superscript>
+        &amp; 1 &amp; 1 <literallayout></literallayout>
+        10<superscript>1</superscript> &amp; 2-10 &amp; 2
+        <literallayout></literallayout> 10<superscript>2</superscript>
+        &amp; 11-100 &amp; 4 <literallayout></literallayout>
+        10<superscript>3</superscript> &amp; 101-1000 &amp; 8
+        <literallayout></literallayout> 10<superscript>4</superscript>
+        &amp; 1001-10000 &amp; 16 <literallayout></literallayout>
+        10<superscript>5</superscript> &amp; 10001-100000 &amp; 32
+        <literallayout></literallayout> 10<superscript>6</superscript>
+        &amp; 100001-1000000 &amp; 64 <literallayout></literallayout>
+      </para>
+    </blockquote>
+    <para>
+      {Cost of Environmental Enhancement Scope}(Table:EnvironmentalEnhancementScopeCosts)
+    </para>
+  </blockquote>
+  <para>
+    Depth is how deeply they are affected by the enhancement.
+  </para>
+  <blockquote>
+    <blockquote>
+      <para>
+        Depth &amp; DF &amp; Cost <literallayout></literallayout> Low &amp;
+        1 &amp; 1 <literallayout></literallayout> Medium Low &amp; 2 &amp;
+        2 <literallayout></literallayout> Medium &amp; 4 &amp; 4
+        <literallayout></literallayout> Medium High &amp; 6 &amp; 8
+        <literallayout></literallayout> High &amp; 8 &amp; 10
+        <literallayout></literallayout> Very High &amp; 12 &amp; 20
+        <literallayout></literallayout>
+      </para>
+    </blockquote>
+    <para>
+      {Cost of Environmental Enhancement Depth}(Table:EnvironmentalEnhancementDepthCosts)
+    </para>
+  </blockquote>
+  <para>
+    So for determining the cost of a single ( Scope =
+    10<superscript>0</superscript> ) friend willing to help you all
+    (Depth = Very High ) the time is simply 1+20. The DF describes how
+    willing the person is to help you. So in the example DF = 12
+    implies +60
+  </para>
+  <para>
+    that person.
+  </para>
+  <section id="wealth">
+    <title>Wealth</title>
+    <para>
+      The first and most commonly used is the wealth advantage. This
+      differs from the basic wealth that can be gained by spending the
+      points from the wealth pool in that the gain is approximately one
+      third that of a pure monetary spend, but the gain so obtained is
+      income that will continue to be generated for as long as the PC
+      pays attention to the interests that generate the funds. The larger
+      the income the more work involved in maintaining it.
+    </para>
+    <para>
+      The scale of the income is derived from table
+       Table:EnvironmentalEnhancementScopeCosts. The amount of freedom
+      from managing that income is given by the table
+       Table:EnvironmentalEnhancementDepthCosts.
+    </para>
+  </section>
+  <section id="friendsallies-and-contacts">
+    <title>Friends,Allies, and Contacts</title>
+    <para>
+      Another important Environmental Enhancement is that of Friends.
+      Number of friends is derived from table
+       Table:EnvironmentalEnhancementScopeCosts. The willingness to help
+      is given by the table  Table:EnvironmentalEnhancementDepthCosts.
+    </para>
+  </section>
+  <section id="reputation">
+    <title>Reputation</title>
+    <para>
+      The scale of the reputation is derived from table
+       Table:EnvironmentalEnhancementScopeCosts. The amount of
+      recognition is given by the table
+       Table:EnvironmentalEnhancementDepthCosts.
+    </para>
+  </section>
+  <section id="continued-careers">
+    <title>Continued Careers</title>
+    <para>
+      A continued career as a Law Enforcement Officer or soldier is a
+      balanced ad and disad situation. Yes, the character has enemies,
+      but the backing of the organization offsets this.
+    </para>
+  </section>
+  <section id="variations">
+    <title>Variations</title>
+    <para>
+      [OPTION1] Shortform generation [OPTION2] Allow moving points
+      between pools [OPTION3] Allow moving DF between pools [OPTION4]
+      Wealth as a function of status
+    </para>
+  </section>
+</section>

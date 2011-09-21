@@ -1,3 +1,10 @@
-\\chapter{*}=<sect1><title>$1</title>
-\\section{*}=<sect2><title>$1</title><para>
-\\subsection{*}=<sect3><title>$1</title><para>
+\B=<?xml version="1.0" encoding="UTF-8"?><\!DOCTYPE article PUBLIC "-//W3C//DTD MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/mathml2.dtd"><?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><article xmlns="http://docbook.org/ns/docbook"><title></title><info><author><personname>Jim Mochel</personname></author><copyright><year>1987</year><year>2011</year></copyright></info>
+
+\\label{*}=
+
+\\chapter{*}=</para><sect1><title>$1</title>
+\\section{*}=</para><sect2><title>$1</title><para>
+\\subsection{*}=</para><sect3><title>$1</title><para>
+
+\\begin{description}=</para><variablelist>
+\\end{description}=</para></variablelist>
