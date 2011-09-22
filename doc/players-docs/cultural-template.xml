@@ -794,7 +794,7 @@
         </simplelist>
     </sect1>
     <sect1>
-        <title>Art, Architecture, and Symbolism</title>
+        <title>Art,  and Symbolism</title>
         <para/>
         <simplelist>
             <member>What are the standards of beauty for people?</member>
@@ -817,6 +817,41 @@
             <member>Can magic be used in the arts, and if so, how — paint that glows, pictures that move, flutes that play themselves, etc.?</member>
             <member>How do “normal” artists feel about this?</member>
             <member>Is there a separate branch of purely magical art, such as illusion?</member>
+            
+            <member>Have paper-making and the printing press been invented, or are books and scrolls rare, expensive, handwritten items?</member>
+            
+            <member>What things are considered appropriate subjects for representational arts such as painting and sculpture?</member>
+            <member>Which are not?</member>
+            <member>(Examples: some cultures/religions forbid the painting or sculpture of the human figure, and have abstract art; some have limited painters to doing only “uplifting” religious works, etc.)</member>
+            <member>Are there non-human races who tend to be naturally talented painters, dancers, etc.?</member>
+            <member>How does this affect human practitioners of these arts?</member>
+            
+            <member>Are certain races/cultures considered better at some arts than other races/cultures?</member>
+            <member>Where do the best dancers, painters, musicians, actors, etc. come from?</member>
+            
+            <member>What are the standards of beauty for people?</member>
+            <member>Paintings and sculpture?</member>
+            <member>Clothes and furniture?</member>
+            <member>How do they differ from the standards in your culture (example: a country which considers fatness a highly desirable beauty trait)?</member>
+            <member>How do standard of beauty reflect the physical traits of the various races (examples: dwarves might consider excessive height unattractive; werewolves might be attracted by long teeth or a particular scent)?</member>
+            
+            <member>Have paper-making and the printing press been invented, or are books and scrolls rare, expensive, handwritten items?</member>
+            
+            <member>What things are considered appropriate subjects for representational arts such as painting and sculpture?</member>
+            <member>Which are not?</member>
+            <member>(Examples: some cultures/religions forbid the painting or sculpture of the human figure, and have abstract art; some have limited painters to doing only “uplifting” religious works, etc.)</member>
+            <member>Are there non-human races who tend to be naturally talented painters, dancers, etc.?</member>
+            <member>How does this affect human practitioners of these arts?</member>
+            
+            <member>Are certain races/cultures considered better at some arts than other races/cultures?</member>
+            <member>Where do the best dancers, painters, musicians, actors, etc. come from?</member>
+            
+            <member>What are the standards of beauty for people?</member>
+            <member>Paintings and sculpture?</member>
+            <member>Clothes and furniture?</member>
+            <member>How do they differ from the standards in your culture (example: a country which considers fatness a highly desirable beauty trait)?</member>
+            <member>How do standard of beauty reflect the physical traits of the various races (examples: dwarves might consider excessive height unattractive; werewolves might be attracted by long teeth or a particular scent)?</member>
+            
         </simplelist>
         <sect2>
             <title>Symbolism</title>
@@ -858,6 +893,39 @@
             <para/>
         </sect2>
     </sect1>
+    <sect1>
+        <title>Architecture</title>
+        <para/>
+        <simplelist>
+            <member>What is the most common building material?</member>
+            <member>Why is it used (availability, cheapness, legal requirement)?</member>
+            <member>Does it have any major drawbacks (e.g., the Great Fire of London)?</member>
+            <member></member>
+            <member>How tall a building can be constructed at a reasonable cost and in a reasonable time?</member>
+            <member></member>
+            <member>What are typical floor plans like — can people afford to waste space on hallways, or do they just have a series of rooms opening into other rooms?</member>
+            <member>Are buildings normally built square, triangular, domed, what?</member>
+            <member></member>
+            <member>How many people usually live in a typical house?</member>
+            <member>How large is a typical house?</member>
+            <member></member>
+            <member>What are the differences in materials and appearance between a lower-class, middle-class, and upper-class type house?</member>
+            <member>How do people decorate buildings (e.g., carvings vs. paint vs. patterns resulting from the use of different building materials)?</member>
+            <member>Are there differences in ornamentation depending on the purpose of the building (e.g., gargoyles and carvings of saints used mainly on cathedrals)?</member>
+            <member></member>
+            <member>Has technology or magic progressed to the point of making window-glass?</member>
+            <member>If so, how expensive is it?</member>
+            <member>If not, what do people use to cover windows necessary for ventilation and light?</member>
+            <member></member>
+            <member>How are living quarters arranged?</member>
+            <member>Are bedrooms on the top floors for privacy or on the ground floor for convenience?</member>
+            <member>Are parlors or libraries common?</member>
+            <member>How are houses heated/cooled?</member>
+            <member></member>
+            <member>Are wars and insurrections common enough that castles and cities are built with an eye to military defense first and appearance later, or are palaces and wall-less towns the rule?</member>
+            <member></member>
+        </simplelist>
+        </sect1>
     <sect1>
         <title>Power and Authority Structures</title>
         <para/>
