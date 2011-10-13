@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Magic</title>
+        <author>
+            <personname>Jim Mochel</personname>
+            <email>jim.mochel.per@gmail.com</email>
+        </author>
+    </info>
+    <sect1>
+        <title>Overview</title>
+        <subtitle>Section1 What it looks like</subtitle>
+        <para>We start with the existence of mana, also called power. Spell casters use their own
+            internal energies to manipulate Mana. It is not known where Mana comes from.</para>
+        <para>The caster uses their own energy to raise, focus, and apply mana.  The combined acts
+            of raising, focusing and applying energy is called spell casting. And it goes from the
+            very unstructured up to the very structured. In many respects it is like composing
+            communications out of words. If it is a very short simple sentence like "Go away" such
+            as bringing forth a simple flame, It is called a cantrip.  If it is a more complete
+            communication with a solid basic structure  such as "Gather up all the elemental fire in
+            the immediate area and transfer it over to there" Those are called sorceries. When it is
+            more complicated and requires more than the words to get the point across (Almost like a
+            business presentation), then we are talking Wizardries.</para>
+        <para>Only certain types of mana can be manipulated by spell casters. Each type has a
+        characteristic set of properties and certain ways it interacts with other types of mana. </para>
+
+        <para/>
+    </sect1>
+</article>
