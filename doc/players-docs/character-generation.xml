@@ -280,7 +280,7 @@
                 <varlistentry>
                     <term>Physical Fatigue (PFT)</term>
                     <listitem>
-                        <para>Physical Critique is the amount of energy a character can expand,
+                        <para>Physical Fatigue is the amount of energy a character can expand,
                             either in combat or in work. When the characters in combat and is taking
                             damage it will have an impact either on the Physical Fatigue or the
                             Physical Body. Derived from PEN and PAG. <equation>
@@ -704,33 +704,48 @@
             </para>
         </sect2>
 
-
         <sect2>
             <title>Community, Skill, and Wealth points</title>
-            <para>Each character gets 10 Points of Wealth, 10 points of Community, And 10 points of
-                Skill. As the character is designed you can add or subtract from these points. The
-                points of wealth are used to pick the amount of money or the amount and quality of
-                materials the character starts with. How much actual money or material goods those
-                points of wealth buy you is completely dependent upon the culture you're coming
-                from. The Points of community are used to purchase status or reputation within the
-                community. For the most part the effect that the points of Community have is
-                dependent on the culture but can also be impacted by the community chosen. For
-                example a character may choose to buy a higher reputation among mages rather than
-                having a general reputation. The skill points are used to purchase skills or bundles
-                of skills. We will deal with these pools more later and how they can be added to and
-                used. </para>
+            <para>Each character gets gets a set of points in several groupings that they can use to
+                "purchase" Wealth, Community and Skills.</para>
+            <formalpara>
+                <title>Wealth points</title>
+                <para>Each character gets 10 points that they can use to pick the amount of money or
+                    the amount and quality of materials that the character starts with. How much
+                    actual money or material goods those points of wealth by you is dependent upon
+                    the culture you're coming from. In some cultures the characters may not be able
+                    to get a lot of free cash they may have easy access to Well-crafted goods. You
+                    can add to your wealth points as a result of your career (TBD XREF) or by
+                    specific Trade-offs (TBD XREF) </para>
+            </formalpara>
+            <formalpara>
+                <title>Community points</title>
+                <para>Each character gets 10 Community points. The Community points I used to
+                    purchase status or reputation within one or more communities. The impact of the
+                    status or reputation and the size of the community all factor into the cost of
+                    that status or reputation. The effect of that status or reputation is dependent
+                    on the culture but it may also be dependent on the community chosen. For example
+                    a character may choose to buy a higher reputation among mages rather than having
+                    a general reputation. You can add to your Community points as a result of your
+                    career (TBD XREF) or by specific Trade-offs (TBD XREF) </para>
+            </formalpara>
+            <formalpara>
+                <title>Skill points</title>
+                <para>Each character starts with 10 points that they can use to purchase skills or
+                    bundles of skills. You can add to your Skill points as a result of your career
+                    (TBD XREF) or by specific Trade-offs (TBD XREF) </para>
+            </formalpara>
         </sect2>
         <sect2>
             <title>Selecting a Race</title>
-            <para> Once you pick the primary statistics you then choose the race of the character.
-                There are often modifiers for the primary statistics (As well as the other
+            <para>There are often modifiers for the primary statistics (As well as the other
                 statistics) for a given race. Some races have gifts or abilities as well as other
                 trade-offs. For the most part the human races have no modifiers to their statistics.
                 Once you've picked a race just ask your friendly neighborhood games master for the
-                description of the race and the racial modifiers. Any of the racial modifiers for
-                primary statistics are applied immediately, any racial modifiers for secondary
-                statistics are applied after those secondary statistics have been calculated.
-            </para>
+                description of the race and the racial modifiers. (TBD XREF) Any of the racial
+                modifiers for primary statistics are applied immediately, any racial modifiers for
+                secondary statistics are applied after those secondary statistics have been
+                calculated. </para>
         </sect2>
         <sect2>
             <title>Selecting a culture.</title>
@@ -742,7 +757,7 @@
                 these templates. These templates are detailed in the cultural description. In
                 addition, each culture may have special gifts, particular advantages or
                 disadvantages as well as particular additions to the Skill, Wealth, and Community
-                pools. </para>
+                pools.</para>
         </sect2>
         <sect2>
             <title>Gifts, Advantages, Limitations, and Trade-offs</title>
@@ -1143,6 +1158,54 @@ Depth is how deeply they are affected by the enhancement.
                 <para> [OPTION1] Shortform generation [OPTION2] Allow moving points between pools
                     [OPTION3] Allow moving DF between pools [OPTION4] Wealth as a function of status
                 </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Racial Modifiers and Cultural Skill Packages</title>
+            <sect3>
+                <title>Racial Modifiers</title>
+                <para>Unless otherwise specifically mentioned most races have racial modifiers for PBD,PMV,MBD,MMV of 1.0</para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Most Humans</term><listitem><para>Most human races do not have any racial modifiers. Any exceptions in the list below.</para></listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kothans</term>
+                        <listitem><para>Kothans in general have a PBD +1, MAG -1. Kothan males have a +2 modifier to appearance and Kothan women have PCA +1, ACC +1. </para></listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Theneans</term>
+                        <listitem><para>Theneans have FCS +2, MEN +1, and PBD -2</para></listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Hairochan</term><listitem><para>Hairochan have PBD +1, MST +1, FCS +1, PMV Modifier of 0.8</para></listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term/>
+                        <listitem/>
+                    </varlistentry>
+                    <varlistentry>
+                        <term/>
+                        <listitem/>
+                    </varlistentry>
+                    <varlistentry>
+                        <term/>
+                        <listitem/>
+                    </varlistentry>
+                    <varlistentry>
+                        <term/>
+                        <listitem/>
+                    </varlistentry>
+                </variablelist>
+            </sect3>
+            <sect3>
+                <title>Cultural Skill Packages</title>
+                <variablelist>
+                    <varlistentry>
+                        <term/>
+                        <listitem/>
+                    </varlistentry>
+                </variablelist>
             </sect3>
         </sect2>
     </sect1>
