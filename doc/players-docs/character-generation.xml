@@ -99,18 +99,6 @@
                     <listitem>
                         <para> TBD XREF</para>
                     </listitem>
-                    <listitem>
-                        <para> TBD XREF</para>
-                    </listitem>
-                    <listitem>
-                        <para> TBD XREF</para>
-                    </listitem>
-                    <listitem>
-                        <para> TBD XREF</para>
-                    </listitem>
-                    <listitem>
-                        <para> TBD XREF</para>
-                    </listitem>
                 </itemizedlist>
             </para>
         </formalpara>
@@ -255,14 +243,12 @@
 
         <sect2>
             <title>Calculated Statistics</title>
-            <para> With the race, gender, and culture selected all of the primary statistics are
-                modified and the calculated statistics can be determined. Like the primary
-                statistics, the calculated statistics are evenly broken up into sets of physical and
-                mental statistics. The list below describes the statistics and how they are
-                calculated. Wherever you see the phrase Racial Modifier, there is probably a mention
-                of the racial modifier in the racial description that you would apply here. For most
-                of you the easiest thing to do is to use one of the supplied spreadsheets and let it
-                do the work.</para>
+            <para>Like the primary statistics, the calculated statistics are evenly broken up into
+                sets of physical and mental statistics. The list below describes the statistics and
+                how they are calculated. Each of these calculated statistics can be modified either
+                by the race that you have chosen or special abilities or just plain purchasing an
+                increase in that stat. For most of you the easiest thing to do is to use one of the
+                supplied spreadsheets and let it do the work.</para>
             <variablelist>
                 <title>Calculated Statistics</title>
                 <varlistentry>
@@ -271,7 +257,7 @@
                         <para>Physical Body is the amount of physical damage a character can absorb.
                             Derived from PST and PEN. When a character is injured it has an impact
                             on either the Physical Fatigue or the Physical Body.<equation>
-                                <mathphrase>PST+PEN x {Racial Modifier}</mathphrase>
+                                <mathphrase>PST+PEN</mathphrase>
                             </equation>
                         </para>
                     </listitem>
@@ -313,7 +299,7 @@
                         <para>Mental Body is the amount of mental damage character can absorb. It is
                             treated almost identically to Physical Body. It is derived from MEN and
                             MST. <equation>
-                                <mathphrase>((MST+MEN) x {Racial Modifier}</mathphrase>
+                                <mathphrase>((MST+MEN)</mathphrase>
                             </equation></para>
                     </listitem>
                 </varlistentry>
@@ -810,28 +796,28 @@
 
         </sect2>
         <sect2>
-            <title>Cultural Modifiers</title>
-            <para> The player should determine the culture and the home environment the character is
-                raised in. Both of these will have a major effect on the numbers and types of skills
-                that a player character starts out with. Some cultural templates may have a cost
-                that must be paid from the Personal Development pool. As a result of growing up in a
-                given environment the character gains skill in how to maneuver in that environment.
-                i.e. A character born and raised in an zero-gravity environment will have high
-                skills in {\em Movement:0-g } and little or no skills in {\em Movement:1-g }. The
-                character will start out with a knowledge of how to use the technology common to
-                their culture and what the social dos and and donts are. These types of skills are
-                listed in the table below.along with some specific examples. \begin{enumerate} \item
-                20 points of education skills. \begin{enumerate} \item{Mathematics} \item{History}
-                \item{Economics} \item{Ciphering/Counting} \item{Computer Operations}
-                \end{enumerate} \item 20 points of skills in written and spoken language.
-                \begin{enumerate} \item{Written Language: English} \item{Spoken Language: English}
-                \end{enumerate} \item 20 points of skill in Cultural Lore. Both local and larger
-                scale. \begin{enumerate} \item{Culture Lore: World} \item{Culture Lore: United
-                States} \item{Culture Lore: Massachusetts} \end{enumerate} \item 20 points of skill
-                in Lore:[Tech Index] of Culture. \begin{enumerate} \item{Lore: Tech Index
-                Terra-1997} \item{Lore: Tech Index Terra-1066} \end{enumerate} \item 15 points of
-                manuevering skills for the native environment \begin{enumerate} \item{Maneuver: 1-G
-                Environment} \item{Maneuver: 0-G Environment} \end{enumerate} \end{enumerate}
+            <title>Cultural Packages</title>
+            <para>Once you have chosen the culture you get a certain set of skills automatically.
+            The following skills are skills that everyone gets for their culture.</para>
+            <itemizedlist>
+                    <listitem>
+                        <para>Culture Lore: (Culture Name) at Rank 20</para>
+                    </listitem>
+                    <listitem>
+                        <para>Spoken Language: (Language of the Culture) at rank 10</para>
+                    </listitem>
+            </itemizedlist> 
+            <para>
+                In addition, Each culture has its own package of skills particular to it. Each character gets 40 points to spend on purchasing that set of skills. 
+                For example, the Thenean cultural skill package looks like this:
+                <simplelist>
+                    <member>Lore:Ships and Sailing</member>
+                    <member>Lore:Weather</member>
+                    <member>Lore:Magic</member>
+                    <member>Tying Knots</member>
+                    <member>Haggling</member>
+                </simplelist>
+                With a cost of  points. 
             </para>
         </sect2>
         <sect2>
@@ -1164,33 +1150,56 @@ Depth is how deeply they are affected by the enhancement.
             <title>Racial Modifiers and Cultural Skill Packages</title>
             <sect3>
                 <title>Racial Modifiers</title>
-                <para>Unless otherwise specifically mentioned most races have racial modifiers for PBD,PMV,MBD,MMV of 1.0</para>
+                <para>Unless otherwise specifically mentioned most races have racial modifiers for
+                    PBD,PMV,MBD,MMV of 1.0</para>
                 <variablelist>
                     <varlistentry>
-                        <term>Most Humans</term><listitem><para>Most human races do not have any racial modifiers. Any exceptions in the list below.</para></listitem>
+                        <term>Most Humans</term>
+                        <listitem>
+                            <para>Most human races do not have any racial modifiers. Any exceptions
+                                in the list below.</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Kothans</term>
-                        <listitem><para>Kothans in general have a PBD +1, MAG -1. Kothan males have a +2 modifier to appearance and Kothan women have PCA +1, ACC +1. </para></listitem>
+                        <listitem>
+                            <para>Kothans in general have a PBD +1, MAG -1. Kothan males have a +2
+                                modifier to appearance and Kothan women have PCA +1, ACC +1. </para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Theneans</term>
-                        <listitem><para>Theneans have FCS +2, MEN +1, and PBD -2</para></listitem>
+                        <listitem>
+                            <para>Theneans have FCS +2, MEN +1, and PBD -2</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
-                        <term>Hairochan</term><listitem><para>Hairochan have PBD +1, MST +1, FCS +1, PMV Modifier of 0.8</para></listitem>
+                        <term>Hairochan</term>
+                        <listitem>
+                            <para>Hairochan have PBD +1, MST +1, FCS +1, PMV Modifier of 0.8</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
-                        <term/>
-                        <listitem/>
+                        <term>Bitadar(Elves)</term>
+                        <listitem>
+                            <para>There are several forms of elves and each of the forms has
+                                different modifiers. Talk to your GM.</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
-                        <term/>
-                        <listitem/>
+                        <term>Kurrock/Dwarves</term>
+                        <listitem>
+                            <para>Kurrock have a PST +3, MST +1, PEN +3, PBD +2, PMV 0.4, MMV 0.6,
+                                NRG -2</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
-                        <term/>
-                        <listitem/>
+                        <term>Rupa Kechil</term>
+                        <listitem>
+                            <para>All Rupa Kechil have an NRG -3, All the other modifiers are
+                                dependent on the particular creature that the Rupa Kechil changes
+                                into</para>
+                        </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term/>
