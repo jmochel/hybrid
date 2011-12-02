@@ -14,14 +14,149 @@
     </info>
     <sect1>
         <title>Character Generation</title>
-        <para>The fun of the character generation process is designing the story that describes how
-            the character got to be the way they are. Along the way you choose the statistics and
-            skills consistent with that story. I would suggest starting by picking the race and the
-            culture and going from there. Once the race and culture are picked, then you select
-            history that leads you towards the skills that you want. Along the way you determine
-            what skills particular to the culture you picked up as well as whatever gifts the
-            character was born with and Any advantages or disadvantages they picked up along the
-            way.</para>
+        <para>There are several ways to generate characters with no one specific way being better
+            than the other. It comes down to how you like to approach creating something. All of
+            them start with a mental picture of the character or the characters history. That
+            picture can vary from very vague to very specific and detailed. </para>
+        <formalpara>
+            <title>The start with the basic idea and see what happens approach.</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the basic picture of who the character is. It may be
+                            General as a "Big strong fighter" or as specific as "A wizard of the
+                            fire school who uses daggers and is the bastard son of a
+                            noble...".</para>
+                    </listitem>
+                    <listitem>
+                        <para>From that basic idea pick the attributes of the character that you
+                            want to be notable such as strength, wit.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with a statement of the kind of roles they have ( Healer,
+                            Fighter, Wizard, Merchant, Priest, Shaman, Thief, Swindler, Scholar,
+                            Etc.). You're not limited in what you come up with here.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing what kind of communities they
+                            are related to (Comes from a wealthy family, comes from the streets,
+                            Member of a merchant guild , Etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing any special abilities (
+                            Ambidextrous, Picture-perfect memory, perfect pitch, Etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing any notable pieces of their
+                            history (Orphaned, noble born, rebelled against their parents, </para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick a race and a culture.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick Any special skills you want character at</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick a physical description and any notable physical characteristics
+                            (bright red hair, violet days, mismatched eyes etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>You can then take that summary to your nearest gaming geek along with
+                            this manual and say "create what I want" or you can call the game master
+                            and say the same thing to them or you can use the section below (TBD) to
+                            map your description into a character</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
+        <formalpara>
+            <title>The methodical vision approach</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the picture of who the character is.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick the primary statistics that match that vision TBD XREF And put
+                            them into your character sheet. I would recommend using the spreadsheet
+                            provided.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Write down your starting points for Community, Skill, Wealth, Cultural
+                            pools TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a race TBD XREF. Note any racial modifiers to statistics</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a culture TBD XREF. Note whatever the cultural skill
+                            packages.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select the various gifts, advantages, limitations, and trade-offs TBD
+                            XREF. Note the point costs and/or benefits.</para>
+                    </listitem>
+                    <listitem>
+                        <para> TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para> TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para> TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para> TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para> TBD XREF</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
+        <formalpara>
+            <title>The highly optimized rules lawyer approach</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the picture of who the character is.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick all of the major specific roles/class of the character (Fire
+                            Mage, Seer, Fighter, Etc.) TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para>Look at the skills associated with those roles and note what primary
+                            and secondary statistics the skills are based on. TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick the primary statistics that produce the maximum primary and
+                            secondary statistics for that set of skills.TBD XREF And put them into
+                            your character sheet. I would recommend using the spreadsheet
+                            provided.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a race that gives you a boost on those primary and secondary
+                            statistics TBD XREF. Note any racial modifiers to statistics</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a culture to give you a jumpstart on the set of skills you want
+                            as well as giving you skills that are related to the skills you need for
+                            those roles. Having a number of related skills will increase your chance
+                            with whatever skill you're using at the moment.TBD XREF. Note whatever
+                            the cultural skill packages.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select the various gifts, advantages, limitations, and trade-offs TBD
+                            XREF. Note the point costs and/or benefits.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Go back and fill in on the various statistics, skills etc. TBD
+                            XREF</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
         <sect2>
             <title>Primary Statistics</title>
             <para> In generating the statistics of the character the player distributes 125 points
@@ -391,71 +526,153 @@
                 </varlistentry>
                 <varlistentry>
                     <term>Mental Speed</term>
-                    <listitem><para>Speed of reaction in mental actions is given by Mental Speed. It is derived
-                        from the Mental Awareness stat using the following table. An average Mental Speed is 4. 
-                    <table>
-                        <title>Mental Speed Table</title>
-                        <tgroup cols="2">
-                            <thead>
-                                <row><entry>Mental Awareness</entry><entry> Speed </entry></row>
-                            </thead>
-                            <tbody>
-                                <row><entry>	1--2	</entry><entry> 0		   </entry></row>
-                                <row><entry>	3--3	</entry><entry> 1		   </entry></row>
-                                <row><entry>	4--5	</entry><entry> 1		   </entry></row>
-                                <row><entry>	6--8	</entry><entry> 2		   </entry></row>
-                                <row><entry>	9--11	</entry><entry> 3		   </entry></row>
-                                <row><entry>	12--15  </entry><entry> 4		   </entry></row>
-                                <row><entry>	16--19  </entry><entry> 5		   </entry></row>
-                                <row><entry>	20--24  </entry><entry> 6		   </entry></row>
-                                <row><entry>	25--29  </entry><entry> 7		   </entry></row>
-                                <row><entry>	30--34  </entry><entry> 8		   </entry></row>
-                                <row><entry>	35--35  </entry><entry> 9		   </entry></row>
-                                <row><entry>	36--39  </entry><entry> 9		   </entry></row> 
-                                <row><entry>	40--45  </entry><entry> 10	   </entry></row>
-                            </tbody>
-                        </tgroup>
-                    </table>
-                    
-                    
-                    </para></listitem>
+                    <listitem>
+                        <para>Speed of reaction in mental actions is given by Mental Speed. It is
+                            derived from the Mental Awareness stat using the following table. An
+                            average Mental Speed is 4. <table>
+                                <title>Mental Speed Table</title>
+                                <tgroup cols="2">
+                                    <thead>
+                                        <row>
+                                            <entry>Mental Awareness</entry>
+                                            <entry> Speed </entry>
+                                        </row>
+                                    </thead>
+                                    <tbody>
+                                        <row>
+                                            <entry> 1--2 </entry>
+                                            <entry> 0 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 3--3 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 4--5 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 6--8 </entry>
+                                            <entry> 2 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 9--11 </entry>
+                                            <entry> 3 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 12--15 </entry>
+                                            <entry> 4 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 16--19 </entry>
+                                            <entry> 5 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 20--24 </entry>
+                                            <entry> 6 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 25--29 </entry>
+                                            <entry> 7 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 30--34 </entry>
+                                            <entry> 8 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 35--35 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 36--39 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 40--45 </entry>
+                                            <entry> 10 </entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </para>
+                    </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Physical Speed</term>
                     <listitem>
-                    <para> Speed of reaction in physical actions is given by Physical Speed. It is derived
-                        from the Physical Awareness stat using The table given below. An average physical speed is 4.
-                        
-                        <table>
-                            <title>Physical Speed Table</title>
-                            <tgroup cols="2">
-                                <thead>
-                                    <row><entry>Physical Awareness</entry><entry> Speed </entry></row>
-                                </thead>
-                                <tbody>
-                                    <row><entry>	1--2	</entry><entry> 0		   </entry></row>
-                                    <row><entry>	3--3	</entry><entry> 1		   </entry></row>
-                                    <row><entry>	4--5	</entry><entry> 1		   </entry></row>
-                                    <row><entry>	6--8	</entry><entry> 2		   </entry></row>
-                                    <row><entry>	9--11	</entry><entry> 3		   </entry></row>
-                                    <row><entry>	12--15  </entry><entry> 4		   </entry></row>
-                                    <row><entry>	16--19  </entry><entry> 5		   </entry></row>
-                                    <row><entry>	20--24  </entry><entry> 6		   </entry></row>
-                                    <row><entry>	25--29  </entry><entry> 7		   </entry></row>
-                                    <row><entry>	30--34  </entry><entry> 8		   </entry></row>
-                                    <row><entry>	35--35  </entry><entry> 9		   </entry></row>
-                                    <row><entry>	36--39  </entry><entry> 9		   </entry></row> 
-                                    <row><entry>	40--45  </entry><entry> 10	   </entry></row>
-                                </tbody>
-                            </tgroup>
-                        </table>
-                    </para>
-                        </listitem>
+                        <para> Speed of reaction in physical actions is given by Physical Speed. It
+                            is derived from the Physical Awareness stat using The table given below.
+                            An average physical speed is 4. <table>
+                                <title>Physical Speed Table</title>
+                                <tgroup cols="2">
+                                    <thead>
+                                        <row>
+                                            <entry>Physical Awareness</entry>
+                                            <entry> Speed </entry>
+                                        </row>
+                                    </thead>
+                                    <tbody>
+                                        <row>
+                                            <entry> 1--2 </entry>
+                                            <entry> 0 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 3--3 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 4--5 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 6--8 </entry>
+                                            <entry> 2 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 9--11 </entry>
+                                            <entry> 3 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 12--15 </entry>
+                                            <entry> 4 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 16--19 </entry>
+                                            <entry> 5 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 20--24 </entry>
+                                            <entry> 6 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 25--29 </entry>
+                                            <entry> 7 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 30--34 </entry>
+                                            <entry> 8 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 35--35 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 36--39 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 40--45 </entry>
+                                            <entry> 10 </entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </para>
+                    </listitem>
                 </varlistentry>
             </variablelist>
-            <para>
-            The following table is for reference only. Is expected that most everyone will simply use a supplied spreadsheet.    
-                <table>
+            <para> The following table is for reference only. Is expected that most everyone will
+                simply use a supplied spreadsheet. <table>
                     <title>Summary of Calculated Statistics </title>
                     <tgroup cols="4">
                         <thead>
@@ -611,23 +828,28 @@
                 <para> Expressed in Centimeters. If the creature being described is quadrapedal, the
                     height given is the height to the shoulder. If the player has no preference
                     regarding the height of the character the height may be randomly generated using
-                    the following formula.<equation><mathphrase>Height = {Average Height} + ( {{2d10 - 11} / {10}}
-                        x {Height Variation})</mathphrase></equation> The Average Height and Height Variation is given
-                    in the racial template. </para>
+                    the following formula.<equation>
+                        <mathphrase>Height = {Average Height} + ( {{2d10 - 11} / {10}} x {Height
+                            Variation})</mathphrase>
+                    </equation> The Average Height and Height Variation is given in the racial
+                    template. </para>
             </sect3>
             <sect3>
                 <title>Weight (WT)</title>
                 <para> Expressed in Kilograms. If the player has no preference regarding the weight
                     of the character the weight may be randomly generated using the following
-                    formula. <equation><mathphrase>Weight = {Average Weight} + ( {{2d10 - 11} / {10}} x
-                    {Weight Variation}</mathphrase></equation>The Average Weight and Weight Variation is given in the
-                    racial description. </para>
+                    formula. <equation>
+                        <mathphrase>Weight = {Average Weight} + ( {{2d10 - 11} / {10}} x {Weight
+                            Variation}</mathphrase>
+                    </equation>The Average Weight and Weight Variation is given in the racial
+                    description. </para>
             </sect3>
             <sect3>
                 <title>Appearence (APP)</title>
                 <para> A measure of how physically attractive a character is to others of their
                     race. It ranges (typically) from +5 to -5 and has a default of 0. Characters
-                    that wish to be more or less attractive can buy appearance as an trade off</para>
+                    that wish to be more or less attractive can buy appearance as an trade
+                    off</para>
             </sect3>
 
         </sect2>
