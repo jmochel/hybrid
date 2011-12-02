@@ -159,16 +159,15 @@
         </formalpara>
         <sect2>
             <title>Primary Statistics</title>
-            <para> In generating the statistics of the character the player distributes 125 points
-                among the 10 primary statistics. The minimum number of points that may be put into a
-                statistic is 5. The maximum amount that may be placed into a statistic is 25. </para>
-            <para> The following gives the name and abbreviation of each primary statistic and
-                describes what the statistic represents. </para>
+            <para>The primary statistics are the basic attributes of the character. The following
+                List names the statistics and gives you a description of what each statistic
+                represents. It also gives you the abbreviation That will be used for the statistic
+                in the rest of the documentation.</para>
             <variablelist>
                 <varlistentry>
                     <term>Physical Strength (PST)</term>
                     <listitem>
-                        <para>Physical Strength is the overall power of body. This represents the
+                        <para>Physical Strength is the overall power of body. This is the
                             character's raw muscle power and is not tied to some particular set of
                             limbs. Actions such as lifting are based on Physical Strength.</para>
                     </listitem>
@@ -177,24 +176,25 @@
                     <term>Physical Endurance (PEN)</term>
                     <listitem>
                         <para>Physical Endurance is the physical resilience and stamina of body.
-                            This is a measure of the character's overall endurance and ability to
-                            resist hardship as well as the ability to bounce back from
-                            hardship.</para>
+                            This is the character's overall endurance and ability to resist hardship
+                            as well as the ability to bounce back from hardship. Actions such as
+                            recovering from being sick are based on Physical Endurance.</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Dexterity (DEX)</term>
                     <listitem>
                         <para>Dexterity is the eye and hand coordination and speed of hand
-                            movement.This is specifically tied to the character's hands.</para>
+                            movement.This is specific to the character's hands actions. Actions such
+                            as catching and throwing are based on Dexterity</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Physical Agility (PAG)</term>
                     <listitem>
                         <para>Physical Agility is the overall flexibity and responsiveness of
-                            body.This affects the whole body actions of the character. Dodging is an
-                            action based on Physical Agility.</para>
+                            body.This affects the whole body actions of the character. Actions like
+                            Dodging are based on Physical Agility.</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
@@ -202,23 +202,26 @@
                     <listitem>
                         <para>Physical Awareness is how sensitive the character is to the physical
                             part of the environment. If you are using any of your physical senses,
-                            you are using Physical Awareness.</para>
+                            you are using Physical Awareness. Actions like watching for a sneak
+                            attack are based on Physical Awareness</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Mental Strength (MST)</term>
                     <listitem>
-                        <para>Mental Strength is raw mental power. It is a measure of the characters
-                            overall computational and reasoning strength. It is also A measure of
-                            the character's strength of will. Using memory is an action based on
-                            Mental Strength.</para>
+                        <para>Mental Strength is raw mental power. It is the characters overall
+                            computational and reasoning strength. It is also a measure of the
+                            character's strength of will. Using memory is an action based on Mental
+                            Strength.</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Mental Endurance (MEN)</term>
                     <listitem>
                         <para>Mental Endurance is resilience and stamina of mind. It is a measure of
-                            the mind's ability to recover from shock or disorientation.</para>
+                            the mind's ability to recover from shock or disorientation. Actions like
+                            recovering from some magical or mental attacks are based on Mental
+                            Endurance</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
@@ -226,150 +229,30 @@
                     <listitem>
                         <para>Mental Agility is the overall flexibility and responsiveness of
                             mind.In another day and age this might be called ``Cunning'',
-                            ``Canniness'', or ``Shrewdness''.</para>
+                            ``Canniness'', or ``Shrewdness''. Solving puzzles are typical actions
+                            based on Mental Agility</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
-                    <term>Energy Potential(NRG)</term>
+                    <term>Energy Access (NRG)</term>
                     <listitem>
-                        <para>Energy Potential is a measure of how easily a character can gain
-                            access to their ``supernatural'' abilities</para>
+                        <para>Energy Access is a measure of how easily a character can gain access
+                            to their ``supernatural'' abilities. Action such as casting spells or
+                            using psychic gifts are based on Energy Access.</para>
                     </listitem>
                 </varlistentry>
                 <varlistentry>
                     <term>Mental Awareness (MAW)</term>
                     <listitem>
                         <para>Mental Awareness is how sensitive the character is to the non-physical
-                            part of the environment. </para>
+                            part of the environment.</para>
                     </listitem>
                 </varlistentry>
             </variablelist>
-            <para> The typical Human character average and the ranges of the primary statistics are
-                given in the table below. There is actually no upper limit on statistics. These are
-                just the typical averages and ranges. </para>
-            <para>
-                <table>
-                    <title>Human range and average of primary statistics</title>
-                    <tgroup cols="3">
-                        <thead>
-                            <row>
-                                <entry> Stat </entry>
-                                <entry> Human Range </entry>
-                                <entry> Human Average </entry>
-                            </row>
-                        </thead>
-                        <tbody>
-                            <row>
-                                <entry> PST </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> PEN </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> DEX </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> PAG </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> PAW </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> MST </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> MEN </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> MAG </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> NRG </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                            <row>
-                                <entry> MAW </entry>
-                                <entry> 1-30 </entry>
-                                <entry> 12 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </para>
+            <para> The typical Human has primary statistics that range from 1 to 30 character With
+                an average of 12. There is no upper limit on statistics.</para>
         </sect2>
-        <sect2>
-            <title>Community, Skill, and Wealth points</title>
-            <para> Each character gets 10 Points of Wealth, 10 points of Community, And 10 points of
-                Skill. As the character is designed you can add or subtract from these points. The
-                points of wealth are used to pick the amount of money or the amount and quality of
-                materials the character starts with. How much actual money or material goods those
-                points of wealth buy you is completely dependent upon the culture you're coming
-                from. The Points of community are used to purchase status or reputation within the
-                community. For the most part the effect that the points of Community have is
-                dependent on the culture but can also be impacted by the community chosen. For
-                example a character may choose to buy a higher reputation among mages rather than
-                having a general reputation. The skill points are used to purchase skills or bundles
-                of skills. We will deal with these pools more later and how they can be added to and
-                used. </para>
-        </sect2>
-        <sect2>
-            <title>Selecting a Race</title>
-            <para> Once you pick the primary statistics you then choose the race of the character.
-                There are often modifiers for the primary statistics (As well as the other
-                statistics) for a given race. Some races have gifts or abilities as well as other
-                trade-offs. For the most part the human races have no modifiers to their statistics.
-                Once you've picked a race just ask your friendly neighborhood games master for the
-                description of the race and the racial modifiers. Any of the racial modifiers for
-                primary statistics are applied immediately, any racial modifiers for secondary
-                statistics are applied after those aecondary statistics have been calculated.
-            </para>
-        </sect2>
-        <sect2>
-            <title>Selecting a culture.</title>
-            <para> Once you have decided on the race, picking the culture is the next logical step.
-                Each culture comes with a standard set of skills that can be bought as a bundle. For
-                example thw character knowns the native language of the culture as well as the
-                common history and lore of the culture. The character knows how to behave
-                appropriate to their social class in the culture. Each culture has standard sets of
-                these templates. These templates are detailed in the cultural description. In
-                addition, each culture may have special gifts, particular advantages or
-                disadvantages as well as particular additions to the Skill, Wealth, and Community
-                pools. </para>
-        </sect2>
-        <sect2>
-            <title>Gifts, Advantages, Limitations, and Trade-offs</title>
-            <para> These are all terms for the various quirks of genetics and experience that give
-                the characters a distinct flavor to match the history of the character. For example
-                a character may have a gift that allows them to use magic or a disadvantage such as
-                they are albino. Each trade-off that gives or costs a certain number of points from
-                each of the pools. For example, a character that is Albino gets 15 additional points
-                that they can apply to the Wealth, Community, or Skill pools In exchange for the
-                disadvantage while playing of being sensitive to light. </para>
-        </sect2>
-        <sect2>
-            <title>Gender</title>
-            <para> The player should note whether the character is male or female (if the
-                character's race supports multiple genders). If there are any modifiers to
-                statistics for a specific gender they should be applied. These modifiers will be
-                listed in the racial description. </para>
-        </sect2>
+
         <sect2>
             <title>Calculated Statistics</title>
             <para> With the race, gender, and culture selected all of the primary statistics are
@@ -819,6 +702,64 @@
                     </tgroup>
                 </table>
             </para>
+        </sect2>
+
+
+        <sect2>
+            <title>Community, Skill, and Wealth points</title>
+            <para>Each character gets 10 Points of Wealth, 10 points of Community, And 10 points of
+                Skill. As the character is designed you can add or subtract from these points. The
+                points of wealth are used to pick the amount of money or the amount and quality of
+                materials the character starts with. How much actual money or material goods those
+                points of wealth buy you is completely dependent upon the culture you're coming
+                from. The Points of community are used to purchase status or reputation within the
+                community. For the most part the effect that the points of Community have is
+                dependent on the culture but can also be impacted by the community chosen. For
+                example a character may choose to buy a higher reputation among mages rather than
+                having a general reputation. The skill points are used to purchase skills or bundles
+                of skills. We will deal with these pools more later and how they can be added to and
+                used. </para>
+        </sect2>
+        <sect2>
+            <title>Selecting a Race</title>
+            <para> Once you pick the primary statistics you then choose the race of the character.
+                There are often modifiers for the primary statistics (As well as the other
+                statistics) for a given race. Some races have gifts or abilities as well as other
+                trade-offs. For the most part the human races have no modifiers to their statistics.
+                Once you've picked a race just ask your friendly neighborhood games master for the
+                description of the race and the racial modifiers. Any of the racial modifiers for
+                primary statistics are applied immediately, any racial modifiers for secondary
+                statistics are applied after those secondary statistics have been calculated.
+            </para>
+        </sect2>
+        <sect2>
+            <title>Selecting a culture.</title>
+            <para> Once you have decided on the race, picking the culture is the next logical step.
+                Each culture comes with a standard set of skills that can be bought as a bundle. For
+                example thw character knowns the native language of the culture as well as the
+                common history and lore of the culture. The character knows how to behave
+                appropriate to their social class in the culture. Each culture has standard sets of
+                these templates. These templates are detailed in the cultural description. In
+                addition, each culture may have special gifts, particular advantages or
+                disadvantages as well as particular additions to the Skill, Wealth, and Community
+                pools. </para>
+        </sect2>
+        <sect2>
+            <title>Gifts, Advantages, Limitations, and Trade-offs</title>
+            <para> These are all terms for the various quirks of genetics and experience that give
+                the characters a distinct flavor to match the history of the character. For example
+                a character may have a gift that allows them to use magic or a disadvantage such as
+                they are albino. Each trade-off that gives or costs a certain number of points from
+                each of the pools. For example, a character that is Albino gets 15 additional points
+                that they can apply to the Wealth, Community, or Skill pools In exchange for the
+                disadvantage while playing of being sensitive to light. </para>
+        </sect2>
+        <sect2>
+            <title>Gender</title>
+            <para> The player should note whether the character is male or female (if the
+                character's race supports multiple genders). If there are any modifiers to
+                statistics for a specific gender they should be applied. These modifiers will be
+                listed in the racial description. </para>
         </sect2>
         <sect2>
             <title>Other Statistics</title>
