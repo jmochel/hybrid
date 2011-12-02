@@ -63,8 +63,8 @@
                     <listitem>
                         <para>You can then take that summary to your nearest gaming geek along with
                             this manual and say "create what I want" or you can call the game master
-                            and say the same thing to them or you can use the section below (TBD) to
-                            map your description into a character</para>
+                            and say the same thing to them or you can use the sections below to map
+                            your description into a character</para>
                     </listitem>
                 </itemizedlist>
             </para>
@@ -77,27 +77,26 @@
                         <para>Start with the picture of who the character is.</para>
                     </listitem>
                     <listitem>
-                        <para>Pick the primary statistics that match that vision TBD XREF And put
-                            them into your character sheet. I would recommend using the spreadsheet
-                            provided.</para>
+                        <para>Pick the primary statistics that match that vision And put them into
+                            your character sheet. See <xref linkend="primary-statistics"/>. I would
+                            recommend using the spreadsheet provided.</para>
                     </listitem>
                     <listitem>
-                        <para>Write down your starting points for Community, Skill, Wealth, Cultural
-                            pools TBD XREF</para>
+                        <para>Write down your starting points for Community, Skill, Wealth points
+                            (10 points for each)</para>
                     </listitem>
                     <listitem>
-                        <para>Select a race TBD XREF. Note any racial modifiers to statistics</para>
+                        <para>Select a race <xref linkend="racial-modifiers"/>. Note any racial
+                            modifiers to statistics</para>
                     </listitem>
                     <listitem>
-                        <para>Select a culture TBD XREF. Note whatever the cultural skill
-                            packages.</para>
+                        <para>Select a culture. Note whatever the cultural skill packages. See <xref
+                                linkend="cultural-packages"/></para>
                     </listitem>
                     <listitem>
-                        <para>Select the various gifts, advantages, limitations, and trade-offs TBD
-                            XREF. Note the point costs and/or benefits.</para>
-                    </listitem>
-                    <listitem>
-                        <para> TBD XREF</para>
+                        <para>Select the various gifts, advantages, limitations, and trade-offs
+                                <xref linkend="tradeoffs"/> Note the point costs and/or
+                            benefits.</para>
                     </listitem>
                 </itemizedlist>
             </para>
@@ -115,42 +114,45 @@
                     </listitem>
                     <listitem>
                         <para>Look at the skills associated with those roles and note what primary
-                            and secondary statistics the skills are based on. TBD XREF</para>
+                            and secondary statistics the skills are based on. See <xref
+                                linkend="primary-statistics"/> and <xref
+                                linkend="calculated-statistics"/>.</para>
                     </listitem>
                     <listitem>
                         <para>Pick the primary statistics that produce the maximum primary and
-                            secondary statistics for that set of skills.TBD XREF And put them into
-                            your character sheet. I would recommend using the spreadsheet
-                            provided.</para>
+                            secondary statistics for that set of skills. See <xref
+                                linkend="primary-statistics"/> And put them into your character
+                            sheet. I would recommend using the spreadsheet. provided.</para>
                     </listitem>
                     <listitem>
                         <para>Select a race that gives you a boost on those primary and secondary
-                            statistics TBD XREF. Note any racial modifiers to statistics</para>
+                            statistics <xref linkend="racial-modifiers"/> Note any racial modifiers
+                            to statistics</para>
                     </listitem>
                     <listitem>
                         <para>Select a culture to give you a jumpstart on the set of skills you want
                             as well as giving you skills that are related to the skills you need for
                             those roles. Having a number of related skills will increase your chance
-                            with whatever skill you're using at the moment.TBD XREF. Note whatever
-                            the cultural skill packages.</para>
+                            with whatever skill you're using at the moment. Note whatever the
+                            cultural skill packages are <xref linkend="cultural-packages"/>.</para>
                     </listitem>
                     <listitem>
-                        <para>Select the various gifts, advantages, limitations, and trade-offs TBD
-                            XREF. Note the point costs and/or benefits.</para>
+                        <para>Select the trade-offs <xref linkend="tradeoffs"/>. Note the point
+                            costs and/or benefits.</para>
                     </listitem>
                     <listitem>
-                        <para>Go back and fill in on the various statistics, skills etc. TBD
-                            XREF</para>
+                        <para>Go back and fill in on the various statistics, skills etc. </para>
                     </listitem>
                 </itemizedlist>
             </para>
         </formalpara>
-        <sect2>
+        <sect2 xml:id="primary-statistics">
             <title>Primary Statistics</title>
-            <para>The primary statistics are the basic attributes of the character. The following
-                List names the statistics and gives you a description of what each statistic
-                represents. It also gives you the abbreviation That will be used for the statistic
-                in the rest of the documentation.</para>
+            <para>Each player has 125 points to distribute among the primary statistics of the
+                player. The primary statistics are the basic attributes of the character. The
+                following List names the statistics and gives you a description of what each
+                statistic represents. It also gives you the abbreviation That will be used for the
+                statistic in the rest of the documentation.</para>
             <variablelist>
                 <varlistentry>
                     <term>Physical Strength (PST)</term>
@@ -241,13 +243,13 @@
                 an average of 12. There is no upper limit on statistics.</para>
         </sect2>
 
-        <sect2>
+        <sect2 xml:id="calculated-statistics">
             <title>Calculated Statistics</title>
             <para>Like the primary statistics, the calculated statistics are evenly broken up into
                 sets of physical and mental statistics. The list below describes the statistics and
                 how they are calculated. Each of these calculated statistics can be modified either
                 by the race that you have chosen or special abilities or just plain purchasing an
-                increase in that stat. For most of you the easiest thing to do is to use one of the
+                increase in that stat. For most people the easiest thing to do is to use one of the
                 supplied spreadsheets and let it do the work.</para>
             <variablelist>
                 <title>Calculated Statistics</title>
@@ -398,7 +400,7 @@
                     <listitem>
                         <para>Speed of reaction in mental actions is given by Mental Speed. It is
                             derived from the Mental Awareness stat using the following table. An
-                            average Mental Speed is 4. <table>
+                            average Mental Speed is 4. <table xml:id="mental-speed-table">
                                 <title>Mental Speed Table</title>
                                 <tgroup cols="2">
                                     <thead>
@@ -471,7 +473,7 @@
                     <listitem>
                         <para> Speed of reaction in physical actions is given by Physical Speed. It
                             is derived from the Physical Awareness stat using The table given below.
-                            An average physical speed is 4. <table>
+                            An average physical speed is 4. <table xml:id="physical-speed-table">
                                 <title>Physical Speed Table</title>
                                 <tgroup cols="2">
                                     <thead>
@@ -558,7 +560,7 @@
                                 <entry> PBD </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>(PST+PEN) x {Racial Modifier}</mathphrase>
+                                        <mathphrase>(PST+PEN)</mathphrase>
                                     </equation>
                                 </entry>
                                 <entry> 02-60 </entry>
@@ -568,7 +570,7 @@
                                 <entry> PEX </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>(4 x PEN) + PAG \)</mathphrase>
+                                        <mathphrase>(4 x PEN) + PAG</mathphrase>
                                     </equation>
                                 </entry>
                                 <entry> 15-150 </entry>
@@ -578,7 +580,7 @@
                                 <entry> PFT </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>(2 x PEN) +PAG\) </mathphrase>
+                                        <mathphrase>(2 x PEN)+PAG</mathphrase>
                                     </equation></entry>
                                 <entry> 09-90 </entry>
                                 <entry> 45 </entry>
@@ -587,7 +589,7 @@
                                 <entry> PMV </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>(PAG+PST)/5) x {Racial Modifier}</mathphrase>
+                                        <mathphrase>(PAG+PST)/5)</mathphrase>
                                     </equation></entry>
                                 <entry> 0.4-12 </entry>
                                 <entry> 6 </entry>
@@ -596,7 +598,7 @@
                                 <entry> MBD </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>(MST+MEN) x {Racial Modifier}</mathphrase>
+                                        <mathphrase>(MST+MEN)</mathphrase>
                                     </equation>
                                 </entry>
                                 <entry> 02-60 </entry>
@@ -624,7 +626,7 @@
                                 <entry> MMV </entry>
                                 <entry>
                                     <equation>
-                                        <mathphrase>((MAG+MST)/5) x {Racial Modifier}</mathphrase>
+                                        <mathphrase>(MAG+MST)/5</mathphrase>
                                     </equation>
                                 </entry>
                                 <entry> 0.4-12 </entry>
@@ -690,7 +692,7 @@
             </para>
         </sect2>
 
-        <sect2>
+        <sect2 xml:id="community-skill-wealth-points">
             <title>Community, Skill, and Wealth points</title>
             <para>Each character gets gets a set of points in several groupings that they can use to
                 "purchase" Wealth, Community and Skills.</para>
@@ -701,25 +703,24 @@
                     actual money or material goods those points of wealth by you is dependent upon
                     the culture you're coming from. In some cultures the characters may not be able
                     to get a lot of free cash they may have easy access to Well-crafted goods. You
-                    can add to your wealth points as a result of your career (TBD XREF) or by
-                    specific Trade-offs (TBD XREF) </para>
+                    can add to your wealth points by specific Trade-offs See <xref
+                        linkend="tradeoffs"/></para>
             </formalpara>
             <formalpara>
                 <title>Community points</title>
-                <para>Each character gets 10 Community points. The Community points I used to
+                <para>Each character gets 10 Community points. The Community points are used to
                     purchase status or reputation within one or more communities. The impact of the
                     status or reputation and the size of the community all factor into the cost of
                     that status or reputation. The effect of that status or reputation is dependent
                     on the culture but it may also be dependent on the community chosen. For example
                     a character may choose to buy a higher reputation among mages rather than having
-                    a general reputation. You can add to your Community points as a result of your
-                    career (TBD XREF) or by specific Trade-offs (TBD XREF) </para>
+                    a general reputation. You can add to your Community points as a by specific
+                    Trade-offs ( See <xref linkend="tradeoffs"/>) </para>
             </formalpara>
             <formalpara>
                 <title>Skill points</title>
-                <para>Each character starts with 10 points that they can use to purchase skills or
-                    bundles of skills. You can add to your Skill points as a result of your career
-                    (TBD XREF) or by specific Trade-offs (TBD XREF) </para>
+                <para>Each character starts with 100 points that they can use to purchase skills or
+                    bundles of skills.</para>
             </formalpara>
         </sect2>
         <sect2>
@@ -728,16 +729,16 @@
                 statistics) for a given race. Some races have gifts or abilities as well as other
                 trade-offs. For the most part the human races have no modifiers to their statistics.
                 Once you've picked a race just ask your friendly neighborhood games master for the
-                description of the race and the racial modifiers. (TBD XREF) Any of the racial
-                modifiers for primary statistics are applied immediately, any racial modifiers for
-                secondary statistics are applied after those secondary statistics have been
-                calculated. </para>
+                description of the race and the racial modifiers. <xref linkend="racial-modifiers"/>
+                Any of the racial modifiers for primary statistics are applied immediately, any
+                racial modifiers for secondary statistics are applied after those secondary
+                statistics have been calculated. </para>
         </sect2>
         <sect2>
             <title>Selecting a culture.</title>
             <para> Once you have decided on the race, picking the culture is the next logical step.
                 Each culture comes with a standard set of skills that can be bought as a bundle. For
-                example thw character knowns the native language of the culture as well as the
+                example the character knowns the native language of the culture as well as the
                 common history and lore of the culture. The character knows how to behave
                 appropriate to their social class in the culture. Each culture has standard sets of
                 these templates. These templates are detailed in the cultural description. In
@@ -746,10 +747,10 @@
                 pools.</para>
         </sect2>
         <sect2>
-            <title>Gifts, Advantages, Limitations, and Trade-offs</title>
-            <para> These are all terms for the various quirks of genetics and experience that give
-                the characters a distinct flavor to match the history of the character. For example
-                a character may have a gift that allows them to use magic or a disadvantage such as
+            <title>Trade-offs</title>
+            <para> This a term for the various quirks of genetics and experience that give the
+                characters a distinct flavor to match the history of the character. For example a
+                character may have a gift that allows them to use magic or a disadvantage such as
                 they are albino. Each trade-off that gives or costs a certain number of points from
                 each of the pools. For example, a character that is Albino gets 15 additional points
                 that they can apply to the Wealth, Community, or Skill pools In exchange for the
@@ -766,18 +767,16 @@
             <title>Other Statistics</title>
             <para> </para>
             <sect3>
-                <title>Height (HT)</title>
-                <para> Expressed in Centimeters. If the creature being described is quadrapedal, the
-                    height given is the height to the shoulder. If the player has no preference
-                    regarding the height of the character the height may be randomly generated using
-                    the following formula.<equation>
+                <title>Height (HGT)</title>
+                <para> If the player has no preference regarding the height of the character the
+                    height may be randomly generated using the following formula.<equation>
                         <mathphrase>Height = {Average Height} + ( {{2d10 - 11} / {10}} x {Height
                             Variation})</mathphrase>
                     </equation> The Average Height and Height Variation is given in the racial
                     template. </para>
             </sect3>
             <sect3>
-                <title>Weight (WT)</title>
+                <title>Weight (WGT)</title>
                 <para> Expressed in Kilograms. If the player has no preference regarding the weight
                     of the character the weight may be randomly generated using the following
                     formula. <equation>
@@ -795,229 +794,144 @@
             </sect3>
 
         </sect2>
-        <sect2>
-            <title>Cultural Packages</title>
+        <sect2 xml:id="cultural-base-packages">
+            <title>What Every Culture has</title>
             <para>Once you have chosen the culture you get a certain set of skills automatically.
-            The following skills are skills that everyone gets for their culture.</para>
+                The following skills are skills that everyone gets for their culture.</para>
             <itemizedlist>
-                    <listitem>
-                        <para>Culture Lore: (Culture Name) at Rank 20</para>
-                    </listitem>
-                    <listitem>
-                        <para>Spoken Language: (Language of the Culture) at rank 10</para>
-                    </listitem>
-            </itemizedlist> 
-            <para>
-                In addition, Each culture has its own package of skills particular to it. Each character gets 40 points to spend on purchasing that set of skills. 
-                For example, the Thenean cultural skill package looks like this:
-                <simplelist>
+                <listitem>
+                    <para>Culture Lore: (Culture Name) at Rank 20</para>
+                </listitem>
+                <listitem>
+                    <para>Spoken Language: (Language of the Culture) at rank 10</para>
+                </listitem>
+            </itemizedlist>
+            <para> In addition, Each culture has its own package of skills particular to it. Each
+                character gets rank 7 In each of those skills. For example, the Thenean cultural
+                skill package looks like this: <simplelist>
                     <member>Lore:Ships and Sailing</member>
                     <member>Lore:Weather</member>
                     <member>Lore:Magic</member>
                     <member>Tying Knots</member>
                     <member>Haggling</member>
-                </simplelist>
-                With a cost of  points. 
+                </simplelist> And every Thenean starts out with the rank 7 in each of those skills
             </para>
-        </sect2>
-        <sect2>
-            <title>Careers</title>
-            <para> The next step is determining the career path the character took up until the
-                start of play. This is where a majority of a character's skills and history will be
-                developed. The process is fairly simple: the player selects the career they wish to
-                enter and then they roll for the character to gain skills, wealth, and status during
-                each year they are in that career. This means three rolls. One for Personal
-                Development, one for Wealth, and one for status. These three pools : Personal
-                Development, Wealth, and Status are the basis of the final resolution of the
-                character's skills, history, and station. Each of the available paths has its own
-                advantages and disadvantages. Educational careers give one little chance to injure
-                one's self but the possible monetary gains are low. Military careers are dangerous,
-                but the skills gained there may not be available elsewhere. The three pools each
-                have a different basic function. The Personal Development pool serves as the point
-                pool for increasing a PC statistics, skills, or creating special abilities. The
-                Wealth pool contains points to be spent in establishing the character's basic
-                financial state. The Status pool contains points to be spent in gaining all the
-                possible trappings of status: reputation, syncophants, or other recognition. Players
-                do have a limited amount of lateral movement for these points. Each career is
-                delineated by a simple set of numbers combined with a simple description. It has the
-                following format: </para>
-            <!-- 
-    <variablelist>
-	\item [Name]
-	Self explanatory
-    <varlistentry><term>Personal Development</term><listitem><para></para></listitem></varlistentry>
-	How many PD points are normally
-	recieved during a one year period in that career.
-	<varlistentry><term>Financial Gain</term><listitem><para></para></listitem></varlistentry>
-	The base amount of stads(standards) gained in a one year period of 
-	a career. A stad can be replaced with the name of the standard 
-	unit of currency.
-    <varlistentry><term>DF (Personal|Wealth|Status)</term><listitem><para></para></listitem></varlistentry>
-        <varlistentry><term>Personal</term><listitem><para></para></listitem></varlistentry>
-		The DF for a MAW or PAW roll to determine the number of personal points
-		the character gained in a roll. A successful roll adds points into the 
-		Personal Stat Pool. A failed roll adds nothing and a critical failure 
-        usually involves the loss of points from the personal pool.  
-        \footnote{!!!! Add a description in the beginning of the PG for DF and rolls}
-        <varlistentry><term>Wealth</term><listitem><para> The DF for a MAW or PAW</para></listitem></varlistentry>
-        roll to determine whether or not the character gained in the material 
-        or financial area. A successful roll adds Base Financial Gain 
-		to the Wealth Pool. This represents the character's gain in free 
-		wealth beyond their means of support. i.e. their savings.
-        <varlistentry><term>Status</term><listitem><para> The DF for a MAW or PAW</para></listitem></varlistentry>
-        roll to determine whether or not the character gained in  
-        Status. A succesful roll adds 1 to the Status Pool.
-		Status is a rather subjective thing but typically, a 
-        military career leads to increases in rank and possible minor fame. A 
-        increase in status in a shadowy career would lead to the development 
-        of a "Rep".  Most careers will have a status table that describes 
-        the cost of a specific rank or status gain. 
-		\footnote{!!!! Add a reputation table}
-</para></variablelist>
-    -->
-            <para> For example, here is a description of a Terran Law Enforcement Officer </para>
-            <!--
-    
-    <variablelist>
-	\item [Name]
-	Terran Law Enforcement Officer
-    <varlistentry><term>Personal Development</term><listitem><para></para></listitem></varlistentry>
-	8 points per year
-	<varlistentry><term>Financial Gain</term><listitem><para></para></listitem></varlistentry>
-    3,000 UN Dollars
-    <varlistentry><term>DF (Personal|Wealth|Status)</term><listitem><para></para></listitem></varlistentry>
-        <varlistentry><term>Personal</term><listitem><para></para></listitem></varlistentry>
-		DF -2 
-        <varlistentry><term>Wealth</term><listitem><para></para></listitem></varlistentry>
-        DF 0 
-        <varlistentry><term>Status</term><listitem><para></para></listitem></varlistentry>
-        DF -3
-    <varlistentry><term>Status Table</term><listitem><para></para></listitem></varlistentry>
-    </para><variablelist>
-        <varlistentry><term>3</term><listitem><para> Sargent</para></listitem></varlistentry>
-        <varlistentry><term>5</term><listitem><para> Lieutenant</para></listitem></varlistentry>
-        <varlistentry><term>8</term><listitem><para> Captain</para></listitem></varlistentry>
-        <varlistentry><term>12</term><listitem><para> Chief</para></listitem></varlistentry>
-    </para></variablelist>
-</para></variablelist>
-
-{\bf Typical Careers (in short form)}
-	</para><variablelist>
-		<varlistentry><term>Theif</term><listitem><para></para></listitem></varlistentry>
-		        12:4,000 stads : (5/4/6)
-		<varlistentry><term>Fighter</term><listitem><para></para></listitem></varlistentry>
-		        15:7,000 stads : (7/3/2)
-		<varlistentry><term>Mage</term><listitem><para></para></listitem></varlistentry>
-		        20:2,000 stads : (7/3/1)
-		<varlistentry><term>Smuggler</term><listitem><para></para></listitem></varlistentry>
-		       20:10,000 stads:(7/5/3)
-		<varlistentry><term>Terran Space Navy</term><listitem><para></para></listitem></varlistentry>
-		       18:14,000stads:(7/3/3)
-		<varlistentry><term>Healer</term><listitem><para></para></listitem></varlistentry>
-		       25:1,000stads:(7/1/3)
-		<varlistentry><term>Mechanized Infantry</term><listitem><para></para></listitem></varlistentry>
-		       25:1,000stads:(7/1/3)
-	</para></variablelist>
-    -->
-            <para> The example careers listed above would usually be fleshed out with additional
-                detail such as a description of rank and status, etc\dots \footnote{An important
-                question is that of when a character is allowed to drop out of military and so on
-                careers.} Buying Skills and Enhancements</para>
         </sect2>
         <sect2>
             <title>Skill Costs</title>
             <para> When characters are first generated they can buy single skills using points from
-                the personal pool. During character generation all skills cost 1 point per rank to
-                purchase. So rank 0 costs 1 point, rank 1 costs 2 points , and so on. After
-                characters have been generated they advance in their skills according to rules
-                described in the Players Guide. In summary single skills cost $ 1 + Rank $ in
-                personal development points. </para>
+                the Skill pool. During character generation all skills cost 1 point per rank to
+                purchase. So rank 0 costs 1 point, rank 1 costs 2 points , and so on. In summary
+                single skills cost 1 + Rank in Skill points. </para>
         </sect2>
         <sect2>
             <title>Skill Ranks</title>
-            <para> The meaning of skill ranks varies somewhat based on the rarity of the skill and
-                so on but, in general, the skill ranks map to expertise according to table
-                ~\ref{Table:SkillRanks} on page~\pageref{Table:SkillRanks}. \include{tskill9}
-                Someone is familiar with the skill if they have tried it enough that the tools and
-                techniques are known even if the character has no real practice with them. A
-                character is at a begginer level of skill if they have used the skills enough to be
-                comfortable with all the basic techniques needed even though they may not be
-                consistent in their execution. A character is at a dedicated amateur level of skill
-                if they are consistent in executing all the basic skills even though they have no
-                real comfort with any of the advanced techniques. A solid workaday craftsman is
-                consistent and accomplished in executing all the basic skills and are familiar with
-                the advanced techniques and tools. A professional is consistent and accomplished in
-                te full range of basic and advanced techniques used in routine application of the
-                skill. An expert is consistent and accomplished in all the basic and advanced
-                techniques used in routine application of the skill as well as being familiar with
-                techniques and tools needed for less common usage of the skill. An master is
-                consistent and accomplished in all the techniques used in most applications of the
-                skill. In addition they are familiar with some esoteric techniques needed for
-                bizarre and unusual applications of a skill. An character at a mystical mastery
-                level accomplished in all the techniques used in almost all known applications of
-                the skill. In addition they have a whole series of special techniques and tools they
-                have developed for themselves. </para>
+            <para>To get a sense of what the skill ranks Are equivalent to I have a quick and dirty
+                chart. <simplelist>
+                    <member>Rank 0 is familiar with the skill</member>
+                    <member>Rank 1-3 is a Beginner</member>
+                    <member>Rank 4-6 Is an Amateur</member>
+                    <member>Rank 7-10 is a Solid Apprentice</member>
+                    <member>Rank 11-14 is a Journeyman</member>
+                    <member>Rank 15-18 is a Professional or Guild Master</member>
+                    <member>Rank 19-25 is a Expert</member>
+                    <member>Rank 25-23 is a True Master</member>
+                    <member>Rank 26+ is a Mystical Master</member>
+                </simplelist>
+                </para>
+                <para>Someone is familiar with the skill if they have tried it enough that
+                the tools and techniques are known even if the character has no real practice with
+                them. A character is at a Beginner level of skill if they have used the skills
+                enough to be comfortable with all the basic techniques needed even though they may
+                not be consistent in their execution. A character is at an amateur level of skill if
+                they are consistent in executing all the basic skills even though they have no real
+                comfort with any of the advanced techniques. 
+                </para>
+                <para>An apprentice is consistent and  accomplished in executing all the basic skills and is familiar with the advanced
+                techniques and tools. A journeyman is consistent Though not accomplished with the
+                full range of basic and most advanced techniques. A professional is consistent and
+                accomplished in the full range of basic Techniques and advanced techniques used in
+                routine application of the skill. An expert is consistent and accomplished in all
+                the basic and advanced techniques used in routine application of the skill as well
+                as being familiar with techniques and tools needed for less common usage of the
+                skill. 
+                </para>
+                <para>A master is consistent and accomplished in all the techniques used in most
+                applications of the skill. In addition they are familiar with some esoteric
+                techniques needed for bizarre and unusual applications of a skill. An character at a
+                mystical mastery level accomplished in all the techniques used in almost all known
+                applications of the skill. In addition they have a whole series of special
+                techniques and tools they have developed for themselves.</para>
         </sect2>
-        <sect2>
+        <sect2 xml:id="statistics-costs">
             <title>Statistic Costs</title>
-            <para> When characters are first generated they can buy statistics using points from the
-                personal pool. During character generation all stats are raised using the costs from
-                the table ~\ref{Table:StatCosts} on page~\pageref{Table:StatCosts}. So adding 1
-                point of PST costs 4 points, adding 2 costs 8 points, and so on. After characters
-                have been generated they advance in their stats according to rules described in the
-                Players Guide. \input{tcgen4.tex} </para>
+            <para> When characters are being generated you can use points from the skill poll to buy
+                increases in stats. The cost is listed below. <simplelist>
+                    <member>PST 4 </member>
+                    <member>PBD 2 </member>
+                    <member>ACC 2 </member>
+                    <member>PEN 3 </member>
+                    <member>PSE 5 </member>
+                    <member>PCA 3 </member>
+                    <member>DEX 3 </member>
+                    <member>PFT 1 </member>
+                    <member>PDF 2 </member>
+                    <member>PAG 5 </member>
+                    <member>PAW 4</member>
+                    <member>PMV 4 </member>
+                    <member>MST 8 </member>
+                    <member>MBD 2 </member>
+                    <member>FCS 2 </member>
+                    <member>MEN 6 </member>
+                    <member>MSE 5 </member>
+                    <member>MCA 3 </member>
+                    <member>MAG 12</member>
+                    <member>MFT 2 </member>
+                    <member>MDF 2 </member>
+                    <member>PSI 10</member>
+                    <member>MMV 4 </member>
+                    <member>MAW 4</member>
+                    <member>APP 2 </member>
+                </simplelist> During character generation all stats are raised using the costs from
+                list above. So adding 1 point of PST costs 4 points, adding 2 costs 8 points, and so
+                on.</para>
         </sect2>
-        <sect2>
+        <sect2 xml:id="skill-packages">
             <title>Skill Packages</title>
             <para> What we have discussed up till now has been single skills. Quite often the
                 character will be using a skill package. A skill package is a collection of related
-                skills that have a bundled at a bargain cost. A typical skill package would be :
-                \begin{verbatim} Terran Law Enforcement Officer Package Lore: Terran Law Culture
-                Lore: Terran LEO Weapon: Pistol Weapon: Tonfa Weapon: Taser Streetwise Interrogation
-                Data Analysis Computer Ops Cost: 5 \end{verbatim} This package would cost 5 points
-                to get rank 0 in all the listed skills, 10 points to get rank 1 and so on. This
-                compares well to 9 points to get rank 0 in all the skills and 18 points to get rank
-                1 and so on. After character generation, these skills are raised individually just
-                like any other skill according to rules described in the Players Guide. </para>
+                skills that have a bundled at a bargain cost. A typical skill package would be : <simplelist>
+                    <member>Evasion</member>
+                    <member>Dodge</member>
+                    <member>Unarmed combat</member>
+                    <member>Stealth</member>
+                    <member>Dagger</member>
+                    <member>Sword</member>
+                </simplelist> And would have a cost such as 4 Skill points. So to get rank 0 in all
+                of the skills in the package would require 4 points. To get rank 1 in all of the
+                skills in the package would require 8 skill points </para>
         </sect2>
-        <sect2>
-            <title>Enhancements and Limitations</title>
+        <sect2 xml:id="tradeoffs">
+            <title>Tradeoffs</title>
             <para> After a character has some points in the three pools associated with character
-                creation ( personal, wealth, status) they may choose to use them to buy Enhancements
-                that will add flavour to the character. There are always the base enhancements
-                allowed to the character. The points in the personal pool can be used to buy skills
-                at the generation cost. The points in the personal pool can be used to buy stats at
-                the costs listed in the stat cost tables. Enhancements are gains in either
-                background or special abilities that can be paid for with points from one of the
-                pools. There are two main types. There are Character Enhancements and there are
-                Environmental Enhancements. Character Enhancements are natural aptitudes that are
-                typically permanent and inherent to the character's makeup. Enhanced hearing or
-                eidetic memory are examples of Character Enhancements. Environmental Enhancements
-                are typically advantages that depend on the character to maintain them. Such as
-                inherited wealth and various components of status. </para>
-        </sect2>
-        <sect2>
-            <title>Character Enhancements</title>
-            <para> Character Enhancements have both Depth and Scope to help govern their cost. Depth
-                refers to the numeric advantage given by the enhancemnet in a given area. The scope
-                denotes the number of different areas that the spab may be applicable to. In the
-                case of raising a character statistic the scope refers to the number of other stats
-                affected. A character enhancement that involves enhancing a statistic is different
-                from raising the statistic. A raised statistic ends up increasing the SB of the
-                character in that stat. The enhanced stat increases the Rank of the character for
-                any direct rolls against that stat. Thus an Enhanced Stat affects Saving Throws and
-                Concentration Checks. </para>
-            <sect3>
+                creation ( personal, wealth, status) they may choose to use Tradeoffs that will add
+                flavour to the character. There are some Tradeoffs that cost points to buy (Which
+                can come out of any of the pools) that give the character an Advantage of some sort.
+                There are also Tradeoffs that are disadvantages but by taking on that disadvantage
+                you get more points to use for those pools. Some Advantages are built into the
+                character and others require the character to maintain them in some way. For example
+                enhanced hearing or eidetic memory are Built in while something like inherited
+                wealth or reputation may depend on the character to maintain them</para>
+            <formalpara>
                 <title>Ambidexterity</title>
                 <para> Ambidexterity allows the character to use either hand when performing
-                    actions. The character takes no off-hand penalties. Costs 10 Personal
-                    Development Points </para>
-            </sect3>
-            <sect3>
+                    actions. The character takes no off-hand penalties. Costs 10 Points</para>
+            </formalpara>
+            <formalpara>
                 <title>Eidectic Memory</title>
-                <para> Exact recall (given successful roll against MST) of events. Adds DF 2 to any
-                    memory roll. Costs 12 Personal Development points </para>
-            </sect3>
+                <para> Exact recall (given successful roll against MST) of events. Adds DF +3 to any
+                    memory roll. Costs 12 points</para>
+            </formalpara>
             <sect3>
                 <title>Photographic Memory</title>
                 <para> Exact recall of (given successful roll against MST) any image or visual
@@ -1025,13 +939,13 @@
             </sect3>
             <sect3>
                 <title>Lightning Calculator</title>
-                <para> Ability to instantly execute complex arithmetic and mathematical
-                    calculations. Costs 5 Personal Development points </para>
+                <para>Ability to instantly execute complex arithmetic and mathematical calculations.
+                    Costs 5 points </para>
             </sect3>
             <sect3>
                 <title>Active PSI</title>
-                <para> Character has concious knowledge and use (though no training) of their
-                    psionic abilities. Costs 20 Personal Development Points </para>
+                <para>Character has concious knowledge and use (though no training) of their psionic
+                    abilities. Costs 20 Personal Development Points </para>
             </sect3>
             <sect3>
                 <title>Mage Ability</title>
@@ -1039,23 +953,37 @@
                     magical abilities. Costs 20 Personal Development Points </para>
             </sect3>
             <sect3>
+                <title>Ley Walker</title>
+                <para>Character has the ability (though no training) In using Ley lines to travel.
+                    Costs 10 Personal Development Points </para>
+            </sect3>
+            <sect3>
                 <title>Enhanced Statistics</title>
-                <para> Most of the enhancements that involve heightened stats in specialised areas
-                    have a simple cost equal to $ 1/2 $ the purchase cost of the stats. So someone
-                    with a heightened sense of smell would pay one half the cost of Physical
-                    Awareness (PAW) or $ 1/2 \times 4 = 2$ for each additional point of increase. So
-                    someone with a 12 PAW could pay 8 points of ersonal Development and get a PAW
-                    (for smells) of 16. </para>
+                <para>An enhance statistic is the idea that the Character Has a enhanced statistic
+                    in some specialized area such as an enhanced sense of smell or Heightened
+                    awareness of demons.. Most of the enhancements that involve heightened stats in
+                    specialised areas have a simple cost equal to 1/2 the purchase cost of the
+                    stats. So someone with a heightened sense of smell would pay one half the cost
+                    of Physical Awareness (PAW) or 1/2 * 4 = 2$ for each additional point of
+                    increase. So someone with a 12 PAW could pay 8 points of ersonal Development and
+                    get a PAW (for smells) of 16. </para>
             </sect3>
             <sect3>
                 <title>PSI Gift</title>
-                <para> The heightening of PSI for broad categories of PSI skills such as
-                    Temporokinetics has a cost equal to $ 3/4 $ of the PSI stat or 8 points. So
-                    someone with a gift for Temporokinetics would pay 8 points per point of
-                    heightened PSI in that area. The heightening of PSI for specific PSI skills such
-                    as Teleportation has a cost equal to $ 1/2 $ of the PSI stat or 5 points. So
+                <para> The heightening of NRG for broad categories of PSI skills such as
+                    Temporokinetics has a cost equal to 3/4 of the NRG stat or 8 points. So someone
+                    with a gift for Temporokinetics would pay 8 points per point of heightened NRG
+                    in that area. The heightening of NRG for specific PSI skills such as
+                    Teleportation has a cost equal to $ 1/2 $ of the NRG stat or 5 points. So
                     someone with a gift for Teleportation would pay 5 points per point of heightened
-                    PSI in that area. </para>
+                    NRG in that area. </para>
+            </sect3>
+            <sect3>
+                <title>Mage Gift</title>
+                <para> The heightening of NRG for Some specialized area of spell casting such as
+                    warding. Broad categories of Made skills such as Warding has a cost equal to 3/4
+                    of the NRG stat or 8 points. So someone with a gift for Warding would pay 8
+                    points per point of heightened NRG in that area.</para>
             </sect3>
             <sect3>
                 <title>Presence</title>
@@ -1069,45 +997,110 @@
             </sect3>
         </sect2>
         <sect2>
-            <title>Environmental Enhancements</title>
-            <para> Environmental Enhancements have both Depth and Scope to help govern their cost.
-                Scope is the number of people affected by the enhancement.
-                <!--
-\begin{table}
-	\begin{tabular}{lll}
-<row><entry>    Scope </entry><entry> Number of People & Cost </entry></row>
-\hline
-<row><entry>	$ 10^0 $ </entry><entry> 1            & 1 </entry></row>
-<row><entry>	$ 10^1 $ </entry><entry> 2-10         & 2 </entry></row>
-<row><entry>	$ 10^2 $ </entry><entry> 11-100       & 4 </entry></row>
-<row><entry>	$ 10^3 $ </entry><entry> 101-1000     & 8 </entry></row>
-<row><entry>	$ 10^4 $ </entry><entry> 1001-10000   & 16 </entry></row>
-<row><entry>	$ 10^5 $ </entry><entry> 10001-100000 & 32 </entry></row>
-<row><entry>	$ 10^6 $ </entry><entry> 100001-1000000 & 64 </entry></row>	
-	\end{tabular}
-    \caption{Cost of Environmental Enhancement Scope}
-\end{table}
+            <title>Enhancements that affects groups of people </title>
+            <para>These Enhancements have Have costs that are based both on the number of
+                individuals that are affected as well as how intensely they are affected. Scope is
+                the number of people affected by the enhancement.</para>
+            <table xml:id="scope-table">
+                <title>Number of people affected by enhancements</title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Magnitude</entry>
+                            <entry>Range</entry>
+                            <entry>Cost</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry> 10^0 </entry>
+                            <entry> 1 </entry>
+                            <entry> 1 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^1 </entry>
+                            <entry> 2-10 </entry>
+                            <entry> 2 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^2 </entry>
+                            <entry> 11-100 </entry>
+                            <entry> 4 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^3 </entry>
+                            <entry> 101-1000 </entry>
+                            <entry> 8 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^4 </entry>
+                            <entry> 1001-10000 </entry>
+                            <entry> 16 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^5 </entry>
+                            <entry> 10001-100000 </entry>
+                            <entry> 32 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^6 </entry>
+                            <entry> 100001-1000000 </entry>
+                            <entry> 64 </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <para>Depth is how deeply they are affected by the enhancement.</para>
 
-Depth is how deeply they are affected by the enhancement.
+            <table xml:id="depth-table">
+                <title>How deeply people are affected by enhancements </title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Depth</entry>
+                            <entry>DF</entry>
+                            <entry>Cost</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry> Low </entry>
+                            <entry> 1 </entry>
+                            <entry> 1 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium Low </entry>
+                            <entry> 2 </entry>
+                            <entry> 2 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium </entry>
+                            <entry> 4 </entry>
+                            <entry> 4 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium High </entry>
+                            <entry> 6 </entry>
+                            <entry> 8 </entry>
+                        </row>
+                        <row>
+                            <entry> High </entry>
+                            <entry> 8 </entry>
+                            <entry> 10 </entry>
+                        </row>
+                        <row>
+                            <entry> Very High </entry>
+                            <entry> 12 </entry>
+                            <entry> 20 </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
 
-\begin{table}
-	\begin{tabular}{lll}
-<row><entry>    Depth </entry><entry> DF & Cost </entry></row>
-\hline
-<row><entry>	Low         </entry><entry> 1 & 1 </entry></row>
-<row><entry>	Medium Low  </entry><entry> 2 & 2 </entry></row>
-<row><entry>	Medium      </entry><entry> 4 & 4 </entry></row>
-<row><entry>	Medium High </entry><entry> 6 & 8 </entry></row>
-<row><entry>	High        </entry><entry> 8 & 10 </entry></row>
-<row><entry>	Very High   </entry><entry> 12 & 20 </entry></row>
-	\end{tabular}
-    \caption{Cost of Environmental Enhancement Depth}
-\end{table}
--->
-                So for determining the cost of a single ( Scope = $ 10^0$ ) friend willing to help
-                you all (Depth = Very High ) the time is simply $ 1 + 20 $. The DF describes how
-                willing the person is to help you. So in the example DF = 12 implies +60% to the
-                chance for aid from that person. </para>
+            <para>So for determining the cost of a single friend willing to help you all (Depth =
+                Very High ) the time is simply 1 + 20. The DF describes how willing the person is to
+                help you. So in the example DF = 12 implies +60% to the chance for aid from that
+                person. </para>
             <sect3>
                 <title>Wealth</title>
                 <para> The first and most commonly used is the wealth advantage. This differs from
@@ -1116,42 +1109,27 @@ Depth is how deeply they are affected by the enhancement.
                     the gain so obtained is income that will continue to be generated for as long as
                     the PC pays attention to the interests that generate the funds. The larger the
                     income the more work involved in maintaining it. The scale of the income is
-                    derived from table ~\ref{Table:EnvironmentalEnhancementScopeCosts}. The amount
-                    of freedom from managing that income is given by the table
-                    ~\ref{Table:EnvironmentalEnhancementDepthCosts}. </para>
+                    derived from scope table. The amount of freedom from managing that income is
+                    given by the depth table </para>
             </sect3>
             <sect3>
                 <title>Friends,Allies, and Contacts</title>
-                <para> Another important Environmental Enhancement is that of Friends. Number of
-                    friends is derived from table ~\ref{Table:EnvironmentalEnhancementScopeCosts}.
-                    The willingness to help is given by the table
-                    ~\ref{Table:EnvironmentalEnhancementDepthCosts}. </para>
+                <para> Another important Enhancement is that of Friends. Number of friends is
+                    derived from scope table. The willingness to help is given by the depth table
+                </para>
             </sect3>
             <sect3>
                 <title>Reputation</title>
-                <para> The scale of the reputation is derived from table
-                    ~\ref{Table:EnvironmentalEnhancementScopeCosts}. The amount of recognition is
-                    given by the table ~\ref{Table:EnvironmentalEnhancementDepthCosts}. </para>
-            </sect3>
-            <sect3>
-                <title>Continued Careers</title>
-                <para> A continued career as a Law Enforcement Officer or soldier is a balanced ad
-                    and disad situation. Yes, the character has enemies, but the backing of the
-                    organization offsets this. </para>
-            </sect3>
-            <sect3>
-                <title>Variations</title>
-                <para> [OPTION1] Shortform generation [OPTION2] Allow moving points between pools
-                    [OPTION3] Allow moving DF between pools [OPTION4] Wealth as a function of status
-                </para>
+                <para> The scale of the reputation is derived from scope table. The amount of
+                    recognition is given by the depth table. </para>
             </sect3>
         </sect2>
         <sect2>
             <title>Racial Modifiers and Cultural Skill Packages</title>
-            <sect3>
+            <sect3 xml:id="racial-modifiers">
                 <title>Racial Modifiers</title>
                 <para>Unless otherwise specifically mentioned most races have racial modifiers for
-                    PBD,PMV,MBD,MMV of 1.0</para>
+                    PMV,MMV of 1.0</para>
                 <variablelist>
                     <varlistentry>
                         <term>Most Humans</term>
@@ -1201,18 +1179,110 @@ Depth is how deeply they are affected by the enhancement.
                                 into</para>
                         </listitem>
                     </varlistentry>
-                    <varlistentry>
-                        <term/>
-                        <listitem/>
-                    </varlistentry>
                 </variablelist>
             </sect3>
-            <sect3>
+            <sect3 xml:id="cultural-packages">
                 <title>Cultural Skill Packages</title>
                 <variablelist>
                     <varlistentry>
-                        <term/>
-                        <listitem/>
+                        <term>Merovan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Heraldry</member>
+                                    <member>Lore:Chivalry</member>
+                                    <member>Lore:Lord and the Lady</member>
+                                    <member>Haggling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kothans</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Herbs</member>
+                                    <member>Lore:Megafauna</member>
+                                    <member>Lore:TDor and Sif</member>
+                                    <member>Tracking</member>
+                                    <member>Melee:Spear</member>
+                                    <member>First Aid</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Theneans</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Ships and Sailing</member>
+                                    <member>Lore:Weather</member>
+                                    <member>Lore:Magic</member>
+                                    <member>Tying Knots</member>
+                                    <member>Haggling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Hairochan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Meditation</member>
+                                    <member>Lore:Source of All</member>
+                                    <member>Lore:Herbs</member>
+                                    <member>Melee:Staff</member>
+                                    <member>Grounding</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Vairan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Tracking</member>
+                                    <member>Lore:Megafauna</member>
+                                    <member>Climbing</member>
+                                    <member>Melee:Staff</member>
+                                    <member>Missle:Sling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kalifane</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Horses</member>
+                                    <member>Lore:Lord and Lady</member>
+                                    <member>Melee:Dagger</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Bitadar(Elves)</term>
+                        <listitem>
+                            <para>Talk with the GM</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kurrock/Dwarves</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Stone</member>
+                                    <member>Lore:Mikan</member>
+                                    <member>Lore:Forge</member>
+                                    <member>Lore:Mining</member>
+                                    <member>Melee:Hammer</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Rupa Kechil</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Woods</member>
+                                    <member>Lore:Herbs</member>
+                                    <member>Stealth</member>
+                                    <member>Running</member>
+                                    <member>Tracking</member>
+                                </simplelist></para>
+                        </listitem>
                     </varlistentry>
                 </variablelist>
             </sect3>
