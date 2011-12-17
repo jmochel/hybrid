@@ -34,5 +34,5 @@
 }    
 
 /^.EndSkill/ {
-	printf("%s,%s,%s,%s,,%s,,\n",Name,Type,Inter,Imp, StatBasis);
+	printf("%-50s,%-10s,%-10s,%-10s,,%-10s,,\n",Name,Type,Inter,Imp, StatBasis);
 }
