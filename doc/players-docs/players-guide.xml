@@ -31,29 +31,31 @@
         <para>I hope that Hybrid will bring you hours of enjoyment and diversion.</para>
     </preface>
     <part>
-        <title>Concepts</title>
+        <title>Concepts to basic mechanics</title>
+        <subtitle>Going from the basic idea (Concept) to the basic mechanics (Dice Rolls)</subtitle>
         <chapter>
             <title>General Concepts</title>
-            <para>This is about story telling....And the parts of the story that dice are used for
-                are What happens and who went when...Perception, Initiative, and Success Chance</para>
+            <para>This is about story telling....and story telling is ..             
+            <blockquote>
+                <attribution>Lewis Carroll, Alice's Adventures in Wonderland and Through the Looking-Glass</attribution>
+                <para>No, no! The adventures first, explanations take such a dreadful time.</para>
+            </blockquote>
+
+                And the parts of the story that dice are used for
+                are What happens and who went when...Perception, Initiative, and Success Chance
+            </para>
             <formalpara>
                 <title>Time Scale<indexterm><primary>Time Scale</primary></indexterm></title>
                 <para>We mostly work in "Mythic" or "Storytelling" Time. Time is referred to by the units we are used to, Hours, minutes, and
-                    seconds. The GamesMaster (GM) typically tells the players how much time has passed. Sometimes, when the players want or need a more finely grained time keeping (like Life or Death battles or activities that are
-                    expeced to make good theater) we will divide each second up into 10 counts. <indexterm><primary>Counts</primary></indexterm><note><para>A count is 1/10th of a
-                        second.</para></note>
+                    seconds. The GamesMaster (GM) typically tells the players how much time has passed and handles the sequencing and general "fairness". Sometimes, the story being told requires more detailed time keeping, we will slice time up into 
+                    finer pieces. 
                       </para>
             </formalpara>
             <formalpara>
                 <title>Skill Check or Skill Roll</title>
                 <para>All tasks that are undertaken in Hybrid are done by performing a Skill Check. A Skill Check is done by figuring out the chance of succeeding at a task (called the "Success Chance"
-                    <indexterm><primary>Success Chance</primary></indexterm>) as a
-                    percentage (such as 86%) and rolling percentile dice (1-100) against that
-                    chance. <mediaobject xml:id="PercentileDice">
-                        <imageobject>
-                            <imagedata format="SVG" fileref="images/percentile-dice.svg"/>
-                        </imageobject>
-                    </mediaobject> If the die roll is under the "Success Chance" then the
+                    as a percentage (such as 86%) and rolling percentile dice (1-100) against that
+                    chance. If the die roll is under the "Success Chance" then the
                     character succeeded at what they are attempting. If not, they failed. There
                     are degrees of success that range from "Oh Wow!" (Critical Success
                     <indexterm><primary>Critical Success</primary></indexterm>) to "Oh
@@ -73,10 +75,172 @@
                 </mediaobject> 
                     <note><para>Initiative Rolls are done using two six sided dice (more on that later).</para></note>
                 </para>
-            </formalpara>             
-        </chapter>            
+            </formalpara>  
+            <para>In the next chapters we will go through more details.</para>
+        </chapter>
+        <chapter>
+            <title>Basic Mechanics</title>
+            <subtitle>The minimum necessary to know when to roll dice and what to roll.</subtitle>
+            <para>his chaper takes the chapers described previuously and gives you the <emphasis>basic</emphasis> mechanics.</para>
+            <section>
+                <title>Time Scale, Perception, and Initiative</title>
+                <para>When the players want or need a more finely grained time keeping (like Life or Death battles or activities that are
+                    expected to make good theater) we will start keeping track of time using "counts". A count is <emphasis>roughly </emphasis> one tenth of a second.<indexterm><primary>Counts</primary></indexterm><note><para>A count is <emphasis>roughly</emphasis> 1/10th of a
+                        second but is primary purpose is to keep things from colliding.                <blockquote>
+                            <attribution>Susan Sontag, At the Same Time: Essays and Speeches</attribution>
+                            <para>Time exists in order that everything doesn’t happen all at once…and space exists so that it doesn’t all happen to you.</para>
+                        </blockquote></para></note></para>
+                <para>Most of the time a situation is self evident to a character. A character automatically
+                    knows that there is a bar in the room and how many people are in it. 
+                    In order to determine how much the character has "taken in" their environment the GamesMaster may ask the player to roll a Skill Check called the Perception Roll. 
+                    It is just a standard percentile dice roll. As a result of the roll the GamesMaster will tell you how much the character takes in and understands. Typically , a character 
+                    intentionally paying attention to the environment takes about a second to take it in. Players may also ask to make "Passive Perception" rolls to determine what their character
+                    is able to take in "in passing" rather then paying attention with intent.
+                </para>
+                <para>To determine how quickly the character reacts or takes action there is an Initiative Roll. Initiative is rolled on two six sided dice (2d6) and the roll is modified up or down 
+                    for the situation and the characters go in order of the roll (2 comes before 3, etc). </para>                
+            </section>
+            <section>
+                <title>Actions</title>
+                <section>
+                    <title>Skill Checks or Skill Rolls</title>
+                    <para>Skill Checks are the fundamental concept in Hybrid. Because they are used or referred to by almost all the other  
+                        
+                        All tasks that are undertaken in Hybrid are done by performing a Skill Check. A Skill Check is done by figuring out the chance of succeeding at a task (called the "Success Chance"
+                        <indexterm><primary>Success Chance</primary></indexterm>) as a
+                        percentage (such as 86%) and rolling percentile dice (1-100) against that
+                        chance. <mediaobject xml:id="PercentileDice">
+                            <imageobject>
+                                <imagedata format="SVG" fileref="images/percentile-dice.svg"/>
+                            </imageobject>
+                        </mediaobject> If the die roll is under the "Success Chance" then the
+                        character succeeded at what they are attempting. If not, they failed. There
+                        are degrees of success that range from "Oh Wow!" (Critical Success
+                        <indexterm><primary>Critical Success</primary></indexterm>) to "Oh
+                        No!" (Critical Failure <indexterm><primary>Critical
+                            Failure</primary></indexterm>)<note><para>Skill Checks or Skill Rolls are done using percentile dice.</para></note></para>
+                </section>
+                <section>
+                    <title>Good Success and Bad Failures</title>
+                    <subtitle>Rules governing how well you suceed or failure.</subtitle>
+                    <para>As we said before if the die roll is under the "Success Chance" then the
+                        character succeeded at what they are attempting. If not, they failed. There
+                        are degrees of success that range from "Oh Wow!" (Critical Success) to "Oh
+                        No!" (Critical Failure)</para>
+                    <table xml:id="TableOfSuccessAndFailure">
+                        <title>Success and Failure</title>
+                        <tgroup cols="3">
+                            <thead>
+                                <row><entry>How you rolled</entry><entry>Effectiveness</entry><entry>Subjective Name</entry></row>
+                            </thead>
+                            <tbody>
+                                <row><entry>Under 1/100 of what was needed</entry><entry><informalequation><mathphrase>3 x the effect</mathphrase></informalequation></entry><entry>Amazing Success</entry></row>
+                                <row><entry>Under 1/10 of what was needed</entry><entry><informalequation><mathphrase>2 x  the effect</mathphrase></informalequation></entry><entry>Very Notable Success</entry></row>
+                                <row><entry>Under 1/4 of what was needed</entry><entry><informalequation><mathphrase>1.5 x  the effect</mathphrase></informalequation></entry><entry>Notable Success</entry></row>
+                                <row><entry>Under 1/2 of what was needed</entry><entry><informalequation><mathphrase>1.25 x the effect</mathphrase></informalequation></entry><entry>Solid Success</entry></row>
+                                <row><entry>Under what was needed</entry><entry><informalequation><mathphrase>1 x the effect</mathphrase></informalequation></entry><entry>Success</entry></row>
+                                <row><entry>Over what was needed</entry><entry><informalequation><mathphrase>0 x the effect</mathphrase></informalequation></entry><entry>Failure</entry></row>
+                                <row><entry>Over 1.5 times what was needed</entry><entry><informalequation><mathphrase>-0.25 x the effect</mathphrase></informalequation></entry><entry>Solid Failure</entry></row>
+                                <row><entry>Over 2 times  what was needed</entry><entry><informalequation><mathphrase>-0.75 x the effect</mathphrase></informalequation></entry><entry>Notable Failure</entry></row>
+                                <row><entry>Over 2.5 times what was needed</entry><entry><informalequation><mathphrase>-1.0 x the effect</mathphrase></informalequation></entry><entry>Very Notable Failure</entry></row>
+                                <row><entry>Over 3 times what was needed</entry><entry><informalequation><mathphrase>-2.0 x the effect</mathphrase></informalequation></entry><entry>Amazing Failure</entry></row>
+                            </tbody>
+                        </tgroup>                        
+                    </table>
+                    <para>
+                        Particular tasks may have specific results associated with the the different levels of success and those specific results will be documented in tables with the tasks.   
+                    </para>
+                </section>
+            </section>            
+        </chapter>
+        <chapter>
+            <title>Detailed rules about Time Scale, Perception and Initiative</title>
+            <section>
+                <title>Perception</title>
+                <para>If something could go unnoticed by the character, such as a suprise attack or
+                    something hidden, the player should make a Perception Roll. A
+                    perception roll is typically SB = PAW, DF=0, with modifiers for how alert
+                    the character is trying to be. A perception roll takes 8 counts. A
+                    \ndx{Passive Perception Roll} can be made \index{Perception!Passive} during
+                    any action at 1/4 the success chance of a normal perception roll. A passive
+                    perception roll takes no time and takes no modifiers for simultaneous
+                    actions.</para>
+                <para>The critical success and failure effects are fairly straight forward</para>
+                <variablelist>
+                    <title/>
+                    <varlistentry>
+                        <term> Amazing Success </term>
+                        <listitem>
+                            <para>Total Understanding, 300% Detail, +-0% Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Very Notable Success </term>
+                        <listitem>
+                            <para>Total Identification, 200% Detail, +-5% Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Notable Success </term>
+                        <listitem>
+                            <para>Total Identification, 150% Detail, +-10% Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Solid Success </term>
+                        <listitem>
+                            <para>Able to Identify exactly what is happening, 125% Detail, +-25%
+                                Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Success </term>
+                        <listitem>
+                            <para>Basic Identification, 100% Detail, +-50% timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Failure </term>
+                        <listitem>
+                            <para>Vague Identification, 25% Detail, +-75% timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Solid Failure </term>
+                        <listitem>
+                            <para>No real clue, 0 Detail, 0 Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Notable Failure </term>
+                        <listitem>
+                            <para>Inaccurate Identification, +-125% Detail, +-175% Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Very Notable Failure </term>
+                        <listitem>
+                            <para>Inaccurate Identification, +-150% Detail, +-200% Timing</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term> Amazing Failure </term>
+                        <listitem>
+                            <para>Wildly Inaccurate Identification, +-250% Detail, +-300%
+                                Timing</para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para>T\begin{verbatim} Task: Active Physical Perception DF: 0 Time: 8 cts. Skills:
+                    General Perception, Combat Perception Notes: \end{verbatim}s</para>
+                <para> \begin{verbatim} Task: Passive Physical Perception DF: 0 Time: 0 cts. Skills:
+                    General Perception, Combat Perception Notes: Done at 1/4 the normal chance
+                    \end{verbatim}</para>
+            </section>
+            
+        </chapter>
         <chapter>   
-            <title>Test</title>
+            <title>Skill Checks or Skill Rolls</title>
             <section>
                 <title>General Play</title>
                 <formalpara>
@@ -278,93 +442,6 @@
                     success {\em rushing an action}. Actions can be performed simultaneously {\em
                     floretine}. There are additional modifiers for doing something while moving or
                     while tired and so on\dots</para>
-            </section>
-            <section>
-                <title>Perception and initiative</title>
-                <formalpara>
-                    <title>Perception</title>
-                    <para>Most of the time a situation is self evident. A character automatically
-                        knows that there is a bar in the room and how many people are in it. But if
-                        something could go unnoticed by the character, such as a suprise attack or
-                        something hidden, the player should make a \ndx{perception roll}. A
-                        perception roll is typically SB = PAW, DF=0, with modifiers for how alert
-                        the character is trying to be. A perception roll takes 8 counts. A
-                        \ndx{Passive Perception Roll} can be made \index{Perception!Passive} during
-                        any action at 1/4 the success chance of a normal perception roll. A passive
-                        perception roll takes no time and takes no modifiers for simultaneous
-                        actions.</para>
-                </formalpara>
-                <para>The critical success and failure effects are fairly straight forward</para>
-                <variablelist>
-                    <title/>
-                    <varlistentry>
-                        <term> Amazing Success </term>
-                        <listitem>
-                            <para>Total Understanding, 300% Detail, +-0% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Very Notable Success </term>
-                        <listitem>
-                            <para>Total Identification, 200% Detail, +-5% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Notable Success </term>
-                        <listitem>
-                            <para>Total Identification, 150% Detail, +-10% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Solid Success </term>
-                        <listitem>
-                            <para>Able to Identify exactly what is happening, 125% Detail, +-25%
-                                Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Success </term>
-                        <listitem>
-                            <para>Basic Identification, 100% Detail, +-50% timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Failure </term>
-                        <listitem>
-                            <para>Vague Identification, 25% Detail, +-75% timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Solid Failure </term>
-                        <listitem>
-                            <para>No real clue, 0 Detail, 0 Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Notable Failure </term>
-                        <listitem>
-                            <para>Inaccurate Identification, +-125% Detail, +-175% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Very Notable Failure </term>
-                        <listitem>
-                            <para>Inaccurate Identification, +-150% Detail, +-200% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Amazing Failure </term>
-                        <listitem>
-                            <para>Wildly Inaccurate Identification, +-250% Detail, +-300%
-                                Timing</para>
-                        </listitem>
-                    </varlistentry>
-                </variablelist>
-                <para>T\begin{verbatim} Task: Active Physical Perception DF: 0 Time: 8 cts. Skills:
-                    General Perception, Combat Perception Notes: \end{verbatim}s</para>
-                <para> \begin{verbatim} Task: Passive Physical Perception DF: 0 Time: 0 cts. Skills:
-                    General Perception, Combat Perception Notes: Done at 1/4 the normal chance
-                    \end{verbatim}</para>
             </section>
             <section>
                 <title>Actions/Reactions</title>
