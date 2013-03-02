@@ -1,0 +1,203 @@
+
+To be modeled
+
+Community
+	Could be tied to location
+	Could be tied to transportation
+	Could have an itinerary
+	Members could inherit an itinerary or have their own overwriting+
+	Families
+	Clans
+			
+Hierarchical organization as a specialization of community
+Guilds
+
+Calendar - some sort of calendar tracking will need to be in place so that travel itineraries and other things it followed
+
+
+Land
+    Duchies -> government community tied to location? 
+    		City 
+    		Town
+    		Hamlet 
+    		etc.
+    		
+    				Schools
+    				Businesses
+    				Manors
+    				
+Person
+
+		Race
+		
+		PsychologicalProfile
+		
+		
+							Commitment  (Experience to Avoid)
+					Act:
+					Winning Formulas:
+					
+					PRIMARY MOTIVATOR
+					From Commitmen
+					Sense of Humor
+					Cynical
+					Emotional Disposition
+					Contemptuous
+					SEXUALITY
+					Moodiness
+					Labile
+					Sexual Orientation
+					Hetero
+					CORE TRAITS
+					Libido
+					Lascivious
+					Outlook
+					Pessimistic
+					Sexual Expressiveness
+					Flirtatious
+					Integrity
+					High
+					Sexual Expressive Style
+					Seductive
+					Impulsiveness
+					Low
+					Openness to sexual experience
+					Narrow
+					Boldness
+					Medium
+					Promiscuousness
+					High
+					Flexibility
+					Low
+					RELIGION & SPIRITUALITY
+					Affinity
+					High
+					Adherence
+					Agnostic
+					Comportment
+					Discordant
+					Tolerance
+					Intolerant
+					Interactivity
+					Reserved
+					Expression of beliefs
+					Occasional
+					Disclosure
+					Secretive
+					Converting others
+					Never
+					Conformity
+					Conventional
+					Attitude
+					Irreverent
+					 
+					Commitments
+					
+					Quirks, Habits, & Oddities
+					Eavesdropping, pacing, constant grooming
+					Hobbies & Enjoyments
+					Gardening, woodworking
+					
+
+		
+		
+		
+		
+		PhysicalProfile
+		Birthdate, age
+		Stats
+		
+		Gifts
+		
+		Material goods
+		
+		Skill pools
+			Skills (primary, secondary, tertiary, filter)
+			
+		Weapons
+		
+		Spells
+		
+		Notes
+		
+		History
+		
+		Itinerary
+		
+		Abode
+		
+		Relationships
+		
+		Race
+		
+		Culture
+		
+		Height 
+		
+		Weight
+		
+		Gender
+		
+		Appearence
+
+Stats
+	
+	Physical Strength
+	Physical Endurance
+	Dexterity
+	Physical Agility
+	Physical Awareness
+	
+	Mental Strength
+	Mental Endurance
+	Mental Agility
+	Energy Access
+	Mental Awareness
+
+	Physical Body
+	Physical Fatigue
+	Physical Exhaustion
+	Physical Movement
+
+	Mental Body
+	Mental Fatigue
+	Mental Exhaustion
+	Mental Movement
+
+	Accuracy
+
+	Physical Combat Ability
+	Physical Defense
+	Physical Speed
+	
+	Focus
+	Accuracy
+
+	Mental Combat Ability
+	Mental Defense
+	Mental Speed
+
+
+Skill packages
+
+Archetypes 
+
+Trade/economy
+
+Ley lines
+	
+Road network
+
+Government-layers/levels
+
+Creatures,
+
+Weather
+
+Initial population 
+
+Pull weather information from the same time period and location in the real world 5 or 10 years delayed.					
+		    				
+    				
+
+
