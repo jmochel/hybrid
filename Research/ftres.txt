@@ -1,0 +1,1285 @@
+TI: Multi-character tries for text searching.
+AU: Cooper,-L.K.D.; Tharp,-A.L.
+CS: North Carolina State Univ., Raleigh, NC
+AC: United-States
+SO: Information-Processing-and-Management Vol. 29, Issue 2, p. 197-208,
+Mar-Apr 1993, 25
+PY: 1993
+LA: English
+DT: Journal-Article
+AB: Full-text searching is likely to become an even more important activity
+in the future as the amount of information in computer-readable form
+increases and the demand for information grows. The CD-ROM provides a
+cost-effective medium for storing large quantities of information.
+Unfortunately, its physical characteristics limit its retrieval
+effectiveness. As a result, new storage structures, especially those
+uniquely suited to the CD-ROM, need to be considered for improving
+retrieval times. This paper introduces the multi-character trie as an index
+structure for full-text retrieval on CD-ROMs. The structure offers several
+advantages when compared to other structures currently in use. Experimental
+results provide several comparisons with the widely used  B sup P tree.
+Comparisons are also made with other structures used for full-text
+retrieval.
+DE: CD-ROM-COMPACT-DISK-READ-ONLY-MEMORY; FULL-TEXT-RETRIEVAL;
+INDEXING-; SEARCHING-; TEXT-RETRIEVAL; TREES-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9304409
+
+TI: Information seeking in full-text end-user-oriented search systems:
+the roles of domain and search expertise.
+AU: Marchioni,-G.; Dwiggins,-S.; Katz,-A.; Lin,-X.
+CS: Univ. of Maryland, College Park, MD
+AC: United-States
+SO: Library-and-Information-Science-Research Vol. 15, Issue 1, p. 35-70,
+Win 1993, 15
+PY: 1993
+LA: English
+DT: Journal-Article
+AB: This article reports on studies which identify and examine the roles
+that information-seeking expertise and domain expertise play in information
+seeking in full-text, end-user search systems. The studies attempt to
+characterize information seeking and determine how  information seeking is
+affected by highly interactive, electronic access to primary information.
+Expertise is found to be only one interacting factor influencing
+performance of information seeking. Business, economics, and law domain
+studies are presented.
+DE: ELECTRONIC-INFORMATION-SYSTEMS; END-USERS; FULL-TEXT-SYSTEMS;
+INFORMATION-NEEDS; INFORMATION-RETRIEVAL; PERFORMANCE-; SEARCHING-
+SC: 05.07
+SH: Information-Processing-and-Control-Storage
+AN: 9303656
+
+TI: Literature searching with unclear objectives: a new approach using
+argumentation.
+AU: Sillince,-J.A.A.
+CS: Sheffield Univ. Management School, Sheffield, England
+AC: United-Kingdom
+SO: Online-Review Vol. 16, Issue 6, p. 391-410, Dec 1992, 25
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: The current method of information retrieval used for bibliographic and
+full-text databases of journal articles assumes a semantic representation
+together with stemming, Boolean connectives, etc. This  requires searchers
+to have a well-defined idea of what it is that they are searching for. This
+is unhelpful for many categories of searcher, in particular expert browsers
+and non-expert searchers. An alternative method is developed in this paper,
+based on the idea that  articles advance an argument and that this
+argumentation can be represented in a manner which enables flexible and
+robust searching to be carried out.
+DE: BIBLIOGRAPHIC-DATABASES; FULL-TEXT-RETRIEVAL; INFORMATION-RETRIEVAL;
+SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9301390
+
+TI: Full text database searching.
+AU: NERAC,-Inc.,-Tolland,-CT
+AC: United-States
+SO: Sep 1992, Pub. No: PB92 860469
+PY: 1992
+LA: English
+DT: Report
+AB: This bibliography contains citations concerning methods, evaluations, 
+and techniques for full-text database searching. The citations include
+studies that examine the retrieval rate and precision of full-text database
+searching versus searching with value added terms such as index words.
+Specific software packages that enable users to create full-text searchable
+files are presented. (Contains a minimum of 136 citations and includes a
+subject term index and title list.)
+Abstract Source: NTIS
+DE: BIBLIOGRAPHIES-; DATABASES-; FULL-TEXT-SYSTEMS;
+INFORMATION-RETRIEVAL; SEARCHING-; SOFTWARE-
+SC: 05.07
+SH: Information-Processing-and-Control-Storage
+AN: 9301353
+
+TI: Access to full-text journal articles: some practical considerations.
+AU: Racine,-D.
+SO: Library-Administration-and-Management Vol. 6, Issue 2, p. 100-104,
+Spr 1992, 5
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: The promise of increasing availability of electronic full-text journal
+articles is gradually becoming reality, according to Racine, who summarizes
+Tenopir's factors leading to adoption of full text and  Basch's conditions
+that must exist before full text can be provided successfully. Focusing on
+issues, Racine addresses the format (ASCII vs. bit-mapped), the mailability
+of journals in full text, time coverage of full-text titles, promoting the
+service, providing appropriate hardware and software for access,
+encouraging end-user accessibility, and costs.
+DE: ACCESS-; COST-; DOCUMENT-DELIVERY; END-USERS; FULL-TEXT-SYSTEMS;
+HARDWARE-; JOURNALS-; SOFTWARE-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9208727
+
+TI: Retrieval from full-text medical literature: the dream & the reality.
+AU: Sievert,-M.; McKinin,-E.J.; Johnson,-E.D.; Mitchell,-J.A.
+CS: Univ. of Missouri, Columbia, MO
+AC: United-States
+SO: In Assessing the Value of Medical Informatics, Proceedings,
+Fifteenth Annual Symposium on Computer Applications in Medical Care, A
+Conference of the American Medical Informatics Association, Washington
+DC, November 1991, p. 348-352, 1992, McGraw-Hill Health Professions
+Division, New York, NY, 20
+CP: United-States
+PY: 1992
+LA: English
+DT: Monographic-Chapter
+AB: While the retrieval of the full-text of a document might seem to end
+all the hassle of using traditional retrieval systems, the results of  the
+MEDLINE/Full-Text Project indicate that retrieval from the current
+full-text databases of biomedical journal literature does not  match the
+dream. During the first phase of the project the researchers learned that
+searching the full-text databases resulted in the retrieval of a
+significantly larger number of relevant documents than MEDLINE. However,
+the full-text databases also resulted in a large number of non-relevant
+documents. Currently the researchers are focusing on how to search these
+databases to continue  retrieving the large number of relevant documents
+but without so many non-relevant items.
+DE: BIOMEDICINE-; DATABASES-; FULL-TEXT-RETRIEVAL;
+INFORMATION-RETRIEVAL; MEDICAL-INFORMATICS
+SC: 06.06
+SH: Information-Systems-and-Applications-Life-Sciences-and-Biomedicine-
+AN: 9206674
+
+TI: Purposes and practices of text retrieval.
+AU: Meadows,-J.
+CS: Loughborough Univ., Loughborough
+AC: United-Kingdom
+SO: Journal-of-Information-Science Vol. 18, Issue 2, p. 83-87, 1992, 4
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: This article examines ways in which former limitations on information 
+retrieval--use of keywords, Boolean combinations, concentration on
+documents--are being transcended. The author argues that full-text
+retrieval should be viewed as an expansion of traditional retrieval
+interests. Full-text retrieval is elaborated on, as well as graphics
+retrieval, the full-text environment, the end-user, and biological
+parallels.
+DE: FULL-TEXT-RETRIEVAL; TEXT-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9204775
+
+TI: Computer, system, and subject knowledge in novice searching of a
+full-text, multifile database.
+AU: Jacobson,-T.; Fusani,-D.
+CS: State Univ. of New York at Buffalo, Buffalo, NY
+AC: United-States
+SO: Library-and-Information-Science-Research Vol. 14, Issue 1, p.
+97-106, Jan 1992, 25
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: General computer experience and knowledge of a specific system being
+used at any one time are often assumed to be important predictors of
+successful information retrieval sessions. Individual differences such as
+cognitive and learning styles may also play some role. Both sets of
+variables have been studied in recent information retrieval research.
+However, thus far, subject knowledge in the area being searched has
+generally been overlooked as a key factor. This study examines the
+experiences of novice end users with a multi-file, full-text information
+retrieval system. A regression model is developed of the relative
+contributions of computer, system, and subject area knowledge to search
+success. Success is operationalized as user judgments of the relevance of
+retrieved documents. Results indicate that all three variables play a role
+in search success as defined.
+DE: COMPUTER-LITERACY; DATABASES-; FULL-TEXT-RETRIEVAL;
+FULL-TEXT-SYSTEMS; INFORMATION-RETRIEVAL; KNOWLEDGE-; SEARCHING-; USERS-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9204765
+
+TI: Smart document retrieval.
+AU: Appleton,-E.
+SO: Datamation Vol. 38, Issue 2, p. 20-23, Jan 15, 1992
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: This article discusses the collaboration last year between the
+pharmaceuticals maker Syntex Corp. and Verity, Inc., a California software
+company, to make medical information available in the right form for
+Syntex's needs. Syntex employs Verity's TOPIC full-text retrieval software
+to filter through its papers, articles, and studies by searching for ideas
+rather than keywords. This system is described and analyzed. Benefits and
+drawbacks of TOPIC are considered. Distribution of the system is also
+covered.
+DE: DOCUMENTS-; FULL-TEXT-RETRIEVAL; MEDICAL-INFORMATION; PHARMACY-;
+SEARCH-SYSTEMS; TEXT-RETRIEVAL
+SC: 06.06
+SH: Information-Systems-and-Applications-Life-Sciences-and-Biomedicine-
+AN: 9203525
+
+TI: Information access in the humanities: perils and pitfalls.
+AU: Walker,-G.; Atkinson,-S.D.
+CS: State Univ. of New York, Albany, NY
+AC: United-States
+SO: Library-Hi-Tech Vol. 9, Issue 1, p. 23-34, 1991, 30
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: Subject relationships between the different disciplines within the
+field of the humanities are clearly more diverse and subtle than the
+behavior of information seekers might lead one to expect. These results
+emphasize the importance of multi-file searching and the need  to use both
+natural language and controlled vocabulary terms. Further investigation of
+search vocabulary is particularly important with current developments in
+full-text searching and end-user access to databases. The authors discuss
+what their research findings imply for the future of online information
+retrieval in an environment where (relatively) untrained users will be
+needing to access a whole range of online search systems.
+DE: ACCESS-; BEHAVIOR-; HUMANITIES-; INFORMATION-RETRIEVAL; PROFESSIONALS-
+SC: 06.07
+SH: Information-Systems-and-Applications-Social-Sciences-and-Humanities-
+AN: 9202800
+
+TI: Teaching full-text database searching to off-campus students.
+AU: Marshall,-J.
+CS: Northwestern Univ., Evanston, IL
+AC: United-States
+SO: In Proceedings of the Fifth Off-Campus Library Services Conference,
+Albuquerque, New Mexico, October 30-November 1, 1991, p. 165-170, 1991,
+Central Michigan University, Mount Pleasant, MI, 1
+CP: United-States
+PY: 1991
+LA: English
+DT: Monographic-Chapter
+AB: This paper describes the first year of a program to develop the use of
+the LEXIS/NEXIS online system in an off-campus environment. Two instruction
+methods are described that have been used to further the program: classroom
+presentations/workshops and one-to-one instruction  in the library. The
+most successful strategies for instruction are identified, as are future
+directions in the program. Instruction models for journalism students,
+management students, and continuing education students are differentiated.
+DE: BIBLIOGRAPHIC-INSTRUCTION; DISTANCE-LEARNING; FULL-TEXT-RETRIEVAL; FULL-TEXT-SYSTEMS; LIBRARY-INSTRUCTION; OFF-CAMPUS-LIBRARY-SERVICES; ONLINE-RETRIEVAL; ONLINE-SYSTEMS; SEARCHING-; STUDENTS-
+SC: 07.07
+SH: Libraries-and-Information-Services-User-Services,-Assistance,-and-Orientation
+AN: 9201656
+
+TI: The human-computer interface for information retrieval.
+AU: Shaw,-D.
+CS: Indiana Univ., Bloomington, IN
+AC: United-States
+SO: Annual-Review-of-Information-Science-and-Technology Vol. 26, p.
+155-196, 1991, 375
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: The human-computer interface for information retrieval is discussed.
+Research on display features such as highlighting, color, icons, and
+windows, as well as on how the user interacts with the system, by
+commands, menus, or direct manipulation, are reviewed. CD-ROM and
+optical media are shown to be characterized by interface diversity, and
+online catalogs and full-text databases are compared in terms of modes
+of interaction as well. The author also discussed standards and 
+guidelines for information system interfaces, and concludes by itemizing
+a set of resources for keeping up in the field.
+DE: CD-ROM-COMPACT-DISK-READ-ONLY-MEMORY; COLOR-; COMPUTER-INTERFACES; DATABASES-; DISPLAYS-; FULL-TEXT-SYSTEMS; INFORMATION-RETRIEVAL; INTERFACING-; MAN-MACHINE-INTERFACING; ONLINE-CATALOGS; OPTICAL-MEDIA; PSYCHOLOGICAL-ASPECTS; WINDOW-SYSTEMS
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9201551
+
+TI: Using nearest-neighbor searching techniques to access full-text documents.
+AU: Al-Hawamdeh,-S.; de-Vere,-R.; Smith,-G.; Willett,-P.
+CS: Univ. of Sheffield, Sheffield, England
+AC: United-Kingdom
+SO: Online-Review Vol. 15, Issue 3/4, p. 173-192, Jun-Aug 1991, 50
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: Full-text documents are usually searched by means of a Boolean
+retrieval algorithm that requires the user to specify the logical
+relationships between the terms of a query. This paper summarizes the 
+results to date of a continuing program of research at the University of
+Sheffield to investigate the use of nearest-neighbor retrieval
+algorithms for full-text searching. Given a natural-language query
+statement, such methods result in a ranking of  the paragraphs
+comprising a full-text document in order of decreasing similarity with
+the query, where the similarity for each paragraph is determined by the
+number of keyword stems that it has in  common with the query. A
+full-text document test collection has been  created to allow systematic
+tests of retrieval effectiveness to be carried out. Experiments with
+this collection demonstrate that nearest-neighbour searching provides a
+means for paragraph-based access to full-text documents that is of
+comparable effectiveness to both Boolean and hypertext searching and
+that index term weighting schemes which have been developed for the
+searching of bibliographical databases can also be used to improve the
+effectiveness of retrieval from full-text databases. A current project
+is investigating the extent to which a paragraph-based full-text
+retrieval system can be used to augment the explication facilities of an
+expert system on welding.
+DE: ALGORITHMS-; BOOLEAN-FUNCTIONS; DOCUMENTS-; FULL-TEXT-RETRIEVAL;
+INFORMATION-RETRIEVAL; QUERY-PROCESSING; SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9201531
+
+TI: A study of user interaction with information retrieval interfaces:
+progress report. Une etude sur les interfaces de la recherche
+documentaire et l'interaction des usagers: un compte rendu
+AU: Marchionini,-G.; Meadow,-C.T.; Dwiggins,-S.; Lin,-X.; Wang,-J.; Yuan,-W.
+CS: Univ. of Maryland College of Library and Information  Services, College Park, MD
+AC: United-States
+SO: Canadian-Journal-of-Information-Science Vol. 16, Issue 1, p. 42-59,
+Dec 1991, 8
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: This paper reports progress to date and future plans for a project
+whose major objective is to study the interactions of users with
+information retrieval interfaces. Tests are being run with professional
+database searchers and with end users who are members of  a profession
+but have little or no searching experience. Interfaces tested include a
+command language search system used to search DIALOG  bibliographic
+databases, a non-procedural system that produces DIALOG commands, and
+several full-text systems, including one using hypertext. The intent is
+to determine which kinds of users perform best with each type of
+interface. The project is being conducted jointly by the University of
+Toronto and the University of Maryland.
+DE: BIBLIOGRAPHIC-DATABASES; DATABASES-; DIALOG-; FULL-TEXT-SYSTEMS;
+HYPERTEXT-; INFORMATION-RETRIEVAL-SYSTEMS; MAN-MACHINE-INTERFACING;
+SEARCHERS-; USER-STUDIES
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9201545
+
+TI: Searching full-text sci-tech databases.
+AU: Holland,-M.P.
+CS: Univ. of Michigan, Ann Arbor, MI
+AC: United-States
+SO: In Online '88 Conference Proceedings, p. 66-70, 1988, Online, Inc.,
+Weston, CT
+CP: United-States
+PY: 1988
+LA: English
+DT: Monographic-Chapter
+AB: This article addresses the questions of what full-text, sci-tech
+files are available and what considerations might be given to their use.
+It also discusses the information needs of scientists and engineers for
+whom such files are marked. Sources and use experience are then reviewed
+with a view toward how sci-tech information can be conveyed in the
+future.
+DE: FULL-TEXT-RETRIEVAL; SCIENTIFIC-INFORMATION; SEARCHING-;
+TECHNICAL-INFORMATION
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9200739
+
+TI: Full-text searching: the seven deadly sins and how to avoid them.
+AU: Basch,-R.
+CS: Aubergine Information Services, Berkeley, CA
+AC: United-States
+SO: In Online '89 Conference Proceedings, p. 26-31, 1989, Online, Inc.,
+Weston, CT
+CP: United-States
+PY: 1989
+LA: English
+DT: Monographic-Chapter
+AB: In this article the author discusses what she considers to be the
+main problems of full-text searching. They are: duplicity, obfuscation,
+sloppiness, irrelevance, hyperbole, wimpiness, and verbosity. Each
+problem is described, its symptoms noted, and ways to  avoid it are
+presented.
+DE: FULL-TEXT-RETRIEVAL; SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9200733
+
+TI: Effects of linguistic functions on information retrieval in a
+German-language full-text database: comparison between retrieval in
+abstract and full text.
+AU: Tauchert,-W.; Hospodarsky,-J.; Krause,-J.; Schneider,-C.;
+Womser-Hacker,-C.
+CS: Univ. Regensberg, Regensberg
+AC: West-Germany
+SO: Online-Review Vol. 15, Issue 2, p. 77-87, Apr 1991, 4
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: This paper reports the results of the information retrieval project
+PADOK-II, carried out by the University of Regensberg, with the
+intention of integrating artificial intelligence into information
+retrieval research without neglecting traditional information retrieval
+methodology. The results of a large scale retrieval test are presented
+and used to answer the question: How do the linguistically-based
+functions of an indexing system contribute to its performance? The
+influence of document size and structure is also  studied, with a view
+to identifying the most reasonable basic content for a German Patent
+Information System.
+DE: GERMAN-LANGUAGE; ARTIFICIAL-INTELLIGENCE; DATABASES-; EVALUATION-;
+FULL-TEXT-RETRIEVAL; INDEXING-; INFORMATION-RETRIEVAL; LINGUISTICS-;
+PERFORMANCE-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9107582
+
+TI: Information-seeking strategies of novices using a full-text
+electronic encyclopedia.
+AU: Marchionini,-G.
+CS: Univ. of Maryland, College Park, MD
+AC: United-States
+SO: Journal-of-the-Association-for-Computer-Machinery Vol. 40, Issue 1, p. 54-66, Jan 1989, 39
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: An exploratory study was conducted of elementary school children
+searching a full-text electronic encyclopedia on CD-ROM. Twenty-eight 
+third and fourth graders and 24 sixth graders conducted two assigned 
+searches, one open-ended, the other one closed, after two demonstration
+sessions. Keystrokes captured by the computer and observer notes were
+used to examine user information-seeking strategies from a mental model
+perspective. Older searchers were more  successful in finding required
+information, and took less time than younger searchers. No differences
+in total number of moves were found. Analysis of search patterns showed
+that novices used a heuristic, highly interactive search strategy.
+Searchers used sentence and phrase queries, indicating unique mental
+models for this  search system. Most searchers accepted system defaults
+and used the AND connective in formulating queries. Transition matrix
+analyses showed that younger searchers generally favored query refining
+moves and older searchers favored examining title and text moves.
+Suggestions for system designers were made and future research questions
+were identified.
+DE: CD-ROM-COMPACT-DISK-READ-ONLY-MEMORY;
+ELECTRONIC-INFORMATION-SYSTEMS; ELEMENTARY-SCHOOLS; ENCYCLOPEDIAS-;
+FULL-TEXT-RETRIEVAL; SEARCHING-; STUDENTS-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9106783
+
+TI: The Medline/full-text research project.
+AU: McKinin,-E.J.; Sievert,-M.E.; Johnson,-E.D.; Mitchell,-J.A.
+CS: Univ. of Missouri, Columbia, MO
+AC: United-States
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 42,
+Issue 4, p. 297-307, May 1991, 31
+PY: 1991
+LA: English
+DT: Journal-Article
+AB: This project was designed to test the relative efficacy of index
+terms and full-text for the retrieval of documents in those MEDLINE
+journals for which full-text searching was also available. The full-text
+files used were MEDIS from Mead Data Central and CCML from BRS
+Information Technologies. One hundred clinical medical topics were
+searched in these two files as well as the MEDLINE file to accumulate
+the necessary data. It was found that full-text identified 
+significantly more relevant articles than did the indexed file, MEDLINE.
+The full-text searches, however, lacked the precision of searches done
+in the indexed file. Most relevant items missed in the full-text files,
+but identified in MEDLINE, were missed because the searcher failed to
+account for some aspect of natural language, used a logical or
+positional operator that was too restrictive, or included a concept
+which was implied, but not expressed in the natural language. Very few
+of the unique relevant full-text citations  would have been retrieved by
+title or abstract alone. Finally, as of  July, 1990 the more current
+issue of a journal was just as likely to  appear in MEDLINE as in one of
+the full-text files.
+DE: FULL-TEXT-SYSTEMS; INFORMATION-RETRIEVAL; MEDLINE-; STUDIES-
+SC: 06.06
+SH: Information-Systems-and-Applications-Life-Sciences-and-Biomedicine-
+AN: 9105423
+
+TI: Making the transition from print to electronic encyclopedias.
+Adaptation of mental models.
+AU: Marchionini,-G.
+CS: University of Maryland
+AC: United-States
+SO: International-Journal-of-Man-Machine-Studies Vol. 30, Issue 6, p. 591-618, Jun 1989, 26
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: A study of how high school students use an encyclopedia in both
+print  and electronic form is discussed. Over three sessions and
+prompted by a set of protocols administered by a participant observer,
+16 subjects each conducted three searches, one a verbal simulation, and
+one each with the print and electronic versions of a general purpose
+encyclopedia. Observer notes, audio tapes of all sessions, captured
+keystrokes of the electronic searches, and responses to a final
+interview were used to compare print and electronic versions, analyse 
+subjects' development of mental models for the electronic system, and
+evaluate the human-computer interface effects. Encyclopedias seemed to
+be default sources of information for these subjects. Subjects
+demonstrated satisfactory use of them by sequentially reading articles
+rather than scanning and without using the index. Some subjects simply
+applied print models to their electronic searches, not taking advantage
+of full-text searching or hypertext capabilities. Most were able to use
+some of the electronic system's features and a few took good advantage
+of these features and thus appeared to develop distinct mental models
+for the electronic encyclopedia by adapting their existing mental
+models. Subjects took almost twice as much time, posed more queries, and
+examined more articles in the electronic searches. Designers and
+instructors are encouraged to guide adaptive transitions by focusing
+attention on the  interactive features of electronic systems and the
+unique features for browsing, querying and filtering information.
+Recommendations about display effects, navigational aids, and query
+formulation aids are also made.
+DE: ELECTRONIC-INFORMATION-SYSTEMS; ENCYCLOPEDIAS-;
+MAN-MACHINE-INTERFACING; MODELS-; NONPRINT-MEDIA; STUDENTS-; USERS-
+SC: 06.04
+SH: Information-Systems-and-Applications-Audio-Visual-and-Non-Print-Media-
+AN: 9105455
+
+TI: Full-text and bibliographic database searching in the health
+sciences: an exploratory study comparing CCML and MEDLINE.
+AU: Gallagher,-K.E.; Hulbert,-L.A.; Sullivan,-C.P.
+CS: St Louis Univ Medical Center., St Louis, MO
+AC: United-States
+SO: Medical-Reference-Services-Quarterly Vol. 9, Issue 4, p. 17-26, Win 1990, 17
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: This paper presents an exploratory study that investigates perceived
+differences between searching full-text databases and searching
+bibliographic databases. The databases compared are: BRS's full-text
+database, Comprehensive Core Medical Library, and BRS's current MEDLINE.
+Results are presented regarding currency of search results, success in
+answering specific questions, uniqueness of information retrieved, and
+relevancy of retrieval. Connect time and costs are also noted in
+determining the feasibility of offering full-text database searching.
+DE: BIBLIOGRAPHIC-DATABASES; BIOMEDICINE-; BRS-; FULL-TEXT-SYSTEMS;
+HEALTH-SCIENCES; INFORMATION-RETRIEVAL; MEDLINE-; SEARCHING-
+SC: 06.06
+SH: Information-Systems-and-Applications-Life-Sciences-and-Biomedicine-
+AN: 9104395
+
+TI: Full text retrieval from structure text.
+AU: Goldstein,-C.M.
+CS: National Library of Medicine, Bethesda, MD
+AC: United-States
+SO: Bulletin-of-the-American-Society-for-Information-Science Vol. 15,
+Issue 6, p. 11, Aug-Sep 1989
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: This is a description of the IRx system supporting the retrieval of
+full-text information within the ORW (Online Reference Works in
+Medicine) program. This system accepts natural language queries and
+Boolean strategies. Retrieval of a reference work using a linear
+structure has been successful. Work is now progressing on a revised
+system, IRx.2, for retrieval from hierarchically structured texts with
+many different elements such as tables, footnotes, figures, etc.  These
+special objects are tagged. The use of structure and object-oriented
+approaches to retrieval requires an encoding of the source text to
+identify both objects and structures. Many publishers now use a Standard
+Generalized Markup Language (SGML) for documents. This development
+enables text to be published online as easily as in hard copy.
+DE: FULL-TEXT-RETRIEVAL; MEDICAL-INFORMATION; ONLINE-RETRIEVAL;
+TEXT-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9103156
+
+TI: Retrieval from internal and external information sources.
+AU: Stokes,-C.Z.; Evans,-N.H.; Kosman,-J.E.; Levy,-L.R.; Zelasko,-W.P.
+CS: 3M, St. Paul, MN
+AC: United-States
+SO: In Managing Information and Technology, Proceedings of the 52nd
+Annual  Meeting of the American Society for Information Science,
+Washington,  DC, November 1989, p. 247-248, 1989, Learned Information,
+Medford, NJ
+CP: United-States
+PY: 1989
+LA: English
+DT: Monographic-Chapter
+AB: These papers examine retrieval systems within office settings and
+settings other than libraries and information centers. In this context,
+specific topics are: applying library principles to the office
+environment; designing corporate full-text databases and involving the
+users in the process; applications of a campus information system; and
+electronic windows--issues for corporate information centers.
+DE: CORPORATIONS-; INFORMATION-RETRIEVAL-SYSTEMS; INFORMATION-SOURCES; OFFICES-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9103188
+
+TI: Why full-text misses some relevant documents: an analysis of
+documents not retrieved by CCML or MEDIS.
+AU: Sievert,-M.; McKinin,-E.J.
+CS: Univ. of Missouri, Columbia, MO
+AC: United-States
+SO: In Managing Information and Technology, Proceedings of the 52nd
+Annual  Meeting of the American Society for Information Science,
+Washington,  DC, November 1989, p. 34-39, 1989, Learned Information,
+Medford, NJ, 16
+CP: United-States
+PY: 1989
+LA: English
+DT: Monographic-Chapter
+AB: This report discusses the two reasons revealed by the
+MEDLINE/Full-Text Research Project for insufficient document retrieval
+by CCML and MEDIS: (1) the strategy used in the full-text databases was
+too restrictive; (2) the natural language strategy for the concepts may
+have been inadequate. Project methods and results are reviewed.
+DE: DATABASES-; FULL-TEXT-RETRIEVAL; INFORMATION-RETRIEVAL; MEDLINE-;
+SEARCHING-; STUDIES-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9103186
+
+TI: Automatic syntactic analysis of free text.
+AU: Schwarz,-C.
+CS: Siemens AG, Munich
+AC: West-Germany
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 41,
+Issue 6, p. 408-417, Sep 1990, 60
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: Problems encountered under the syntactic analysis of free text
+documents are discussed. As these problems are of general interest in 
+nonautomatic or automatic syntactic indexing or search systems, these
+problems are presented. The system called COPSY (context op erator sy
+ntax), which uses natural language processing techniques during fully
+automatic syntactic analysis (indexing and search) of free text
+documents is described. Applications under real world conditions are
+mentioned as well as evaluation and technical aspects.  Further
+developments in the field of thesaurus building and full-text analysis
+using the linguistic algorithms of the syntactic retrieval system are
+outlined. COPSY was developed as part of a text processing project at
+Siemens, called TINA (Text-In halts-A nalyse: text content analysis).
+Software from TINA is actually being tested by the U.S. Department of
+Commerce for patent search and indexing.
+DE: AUTOMATION-; FREE-TEXT-RETRIEVAL; INDEXING-; INFORMATION-RETRIEVAL;
+SEARCH-SYSTEMS; SEARCHING-; SEMANTICS-; TEXT-PROCESSING
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,
+-Indexing,-and-Thesauri
+AN: 9102978
+
+TI: Measures of success in searching a full-text fact base.
+AU: Wildemuth,-B.M.
+CS: Univ. of North Carolina, Chapel Hill, NC
+AC: United-States
+SO: In Information in the Year 2000: from Research to Cooperation,
+Proceedings of the 53rd ASIS Annual Meeting, Toronto, Ontario, November
+4-8, 1990, p. 104-109, 1990, Learned Information, Inc., Medford, NJ,
+ISBN: 0-938734-48-2, 15
+CP: United-States
+PY: 1990
+LA: English
+DT: Monographic-Chapter
+AB: This paper reports on a pilot study undertaken to evaluate five
+measures of overall success in searching a fact base. The five measures
+were success/failure, precision, search term overlap, number  of search
+cycles, and time per search. A prelimiary evaluation of the validity of
+each measure was also undertaken by examination of respective
+psychometric properties and the relationship between an individual
+student's score for each measure and that student's score for the
+composite of all five measures. The measures are shown to hold promise
+for evaluating searches of fact bases.
+DE: DATABASES-; EVALUATION-; FULL-TEXT-RETRIEVAL; INFORMATION-RETRIEVAL;
+MEASUREMENT-; PERFORMANCE-; SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9102385
+
+TI: Content-enriched access to electronic information: summaries of
+selected research.
+AU: Van-Orden,-R.
+CS: OCLC, Inc., Dublin, OH
+AC: United-States
+SO: Library-Hi-Tech Vol. 8, Issue 3, p. 27-32, 1990, 15
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: This paper describes experiments which address the value of
+content-enriched access to processing and storage facilities, and
+discusses whether content enriched access itself is important to
+continued progress in information retrieval. The author argues that
+well-selected content and full-text materials must be linked to improved
+search technologies. Greater understanding of the structure and use of
+knowledge is also called for. It is also shown how content-enriched
+records will enhance the probability of users identifying the
+information they require.
+DE: ACCESS-; ELECTRONIC-INFORMATION-SYSTEMS; FULL-TEXT-RETRIEVAL;
+INFORMATION-RETRIEVAL; INFORMATION-STORAGE; RESEARCH-; SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9100788
+
+TI: The seven deadly sins of full-text searching.
+AU: Basch,-R.
+CS: Aubergine Information Services, Berkeley, CA
+AC: United-States
+SO: Database Vol. 12, Issue 4, p. 15-23, Aug 1989, 6
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: The pitfalls of full-text searching are illustrated. The lack of
+detailed indexing and hierarchical classification systems is discussed.
+Proximity operators are explored.
+DE: CLASSIFICATION-; DATABASES-; FULL-TEXT-RETRIEVAL; INDEXING-;
+INFORMATION-RETRIEVAL; SEARCHING-
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9009172
+
+TI: Online fulltext article retrieval.
+AU: Kaag,-C.S.; Croft,-V.F.
+CS: Washington State Univ., Pullman, WA
+AC: United-States
+SO: Technical-Services-Quarterly Vol. 7, Issue 2, p. 29-41, 1989, 13
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: A pilot project offering online fulltext article retrieval is
+described. Preparation, problems, and costs are discussed.
+DE: FULL-TEXT-RETRIEVAL; INFORMATION-RETRIEVAL; ONLINE-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9007581
+
+TI: Topic parsing: accounting for text macro structures in full-text analysis.
+AU: Hahn,-U.
+CS: Univ. Passau, Passau
+AC: West-Germany
+SO: Information-Processing-and-Management Vol. 26, Issue 1, p. 135-170, 1990, 87
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: The rapid proliferation of full-text databases poses serious
+problems  to the natural language processing components of information
+retrieval systems. Not taking text-level phenomena of written natural 
+language discourse into account causes a marked decrease of performance
+for many text information system applications. Consequently, appropriate
+text parsing facilities must be capable of recognizing the rich internal
+structure of full-texts on lower levels  of text connectivity as well as
+on the global organizational level of text coherence. This paper
+introduces such a parser which is based  on the conceptual knowledge of
+its domain and is organized as a collection of distributed lexicalized
+grammar modules (word experts) which communicate through
+message-passing. Emphasis is placed on text  grammatical specifications
+which state formal conditions for recognizing higher-order text
+constituents and their coherent configuration on the global level of
+textual macro organization.
+DE: ALGORITHMS-; FULL-TEXT-SYSTEMS; INFORMATION-RETRIEVAL-SYSTEMS;
+NATURAL-LANGUAGE; PARSING-; PROGRAMMING-; TEXT-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9006764
+
+TI: Document delivery from full-text online files: a pilot project.
+AU: Gillikin,-D.P.
+CS: Martin Marietta Energy Systems, Inc., Oak Ridge, TN
+AC: United-States
+SO: Online Vol. 14, Issue 3, p. 27-30,32, May 1990, 3
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: A pilot project for an electronic journal retrieval program is
+described. Implications for library services, interlibrary loans, and 
+collection development are discussed. Suggestions for full text
+searching and document retrieval are offered.
+DE: DOCUMENT-DELIVERY; ELECTRONIC-INFORMATION-SYSTEMS;
+FULL-TEXT-SYSTEMS; INFORMATION-RETRIEVAL; INTERLIBRARY-LOANS;
+LIBRARY-AUTOMATION; LIBRARY-SERVICES; ONLINE-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9006763
+
+TI: Reference use of electronic and optical full-text databases.
+AU: Peters,-C.M.
+CS: Univ. of Arizona, Tucson, AZ
+AC: United-States
+SO: Reference-Librarian Issue 27/28, p. 269-280, 1990, 8
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: The author presents a summary of several systems which would expand
+on reference librarians' uses of electronic and optical full-text
+databases, and enhance users' ease of a variety of information products
+available only online, allow bibliographic instruction in the use of
+databases, and faciliate acceptance in reference areas of libraries. The
+systems which are examined include systems with the availability of
+searching using free-text in addition to a controlled  vocabulary,
+systems with tutorials within the database available during a search,
+touch screens, menu-based instructions, and optically published
+products. Standards for publication in electronic  format are also
+discussed. Gateways (Tele-base and an OCLC system) are related to the
+Reference Librarian's responsibilities.
+DE: DATABASES-; ELECTRONIC-INFORMATION-SYSTEMS; FULL-TEXT-SYSTEMS;
+OPTICAL-DISKS; REFERENCE-SERVICES; SEARCH-SYSTEMS
+SC: 06.02
+SH:
+Information-Systems-and-Applications-Bibliographic-Search-Services,-Databases
+
+AN: 9006181
+
+TI: A comparison of full-text and abstracts for information retrieval in
+clinical medicine. AU: McKinin,-E.J.; Sievert,-M. S: Univ. of Missouri,
+Columbia, MO AC: United-States 
+SO: In Proceedings , National Online
+Meeting, New York, NY, May 9-11, 1989, p. 295-301, 1989, Learned
+Information, Inc., Medford, NJ, 11
+CP: United-States
+PY: 1989
+LA: English
+DT: Monographic-Chapter
+AB: This paper discusses a study comparing the retrieval of full text
+and  abstract only databases. The methodology, results, and analysis of
+the findings are presented. Tables are included.
+DE: FULL-TEXT-RETRIEVAL; DATABASES-; INFORMATION-RETRIEVAL;
+MEDICAL-INFORMATICS; STUDIES-; TEXT-RETRIEVAL
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9000746
+
+TI: Information-seeking strategies of novices using a full-text
+electronic encyclopedia.
+AU: Marchionini,-G.
+CS: Univ. of Maryland, College Park, MD
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 40,
+Issue 1, p. 54-66, Jan 1989, 39
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: This paper discusses an exploratory study of elementary school
+children searching a full-text electronic encyclopedia on CD-ROM.
+Twenty-eight third and fourth graders and 24 sixth graders conducted two
+assigned searches, one open-ended, the other one closed, after two
+demonstration sessions. Keystrokes captured by the computer and observer
+notes were used to examine user information-seeking strategies from a
+mental model perspective. Older searchers were more  successful in
+finding required information, and took less time than younger searchers.
+No differences in total number of moves were found. Analysis of search
+patterns showed that novices used a heuristic, highly interactive search
+strategy. Searchers used sentence and phrase queries, indicating unique
+mental models for this  search system. Most searchers accepted system
+defaults and used the AND connective in formulating queries. Transition
+matrix analyses showed that younger searchers generally favored query
+refining moves and older searchers favored examining title and text
+moves. Suggestions for system designers were made and future research
+questions were identified.
+DE: BEHAVIOR-; CHILDREN-; ELECTRONIC-INFORMATION-SYSTEMS;
+ENCYCLOPEDIAS-; PSYCHOLOGICAL-ASPECTS; SEARCHERS-; STUDENTS-;
+USAGE-STUDIES
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 8902716
+
+TI: Improving retrieval performance by relevance feedback.
+AU: Salton,-G.; Buckley,-C.
+CS: Cornell Univ., Ithaca, NY
+AC: United-States
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 41,
+Issue 4, p. 288-297, Jun 1990, 23
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: Relevance feedback is an automatic process, introduced over 20 years
+ago, designed to produce improved query formulations following an
+initial retrieval operation. The principal relevance feedback methods 
+described over the years are examined and evaluation data are included
+to demonstrate the effectiveness of the various methods. Prescriptions
+are given for conducting text retrieval operations iteratively using
+relevance feedback.
+DE: AUTOMATION-; INFORMATION-RETRIEVAL; PERFORMANCE-; QUERY-PROCESSING
+SC: 05.11
+SH: Information-Processing-and-Control-Searching-and-Retrieval
+AN: 9103183
+
+TI: Approaches to global text analysis.
+AU: Salton,-G.; Buckley,-C.
+CS: Cornell Univ., Ithaca, NY
+AC: United-States
+SO: In Information in the Year 2000: From Research to Applications, ASIS
+'90: Proceedings of the 53rd ASIS Annual Meeting, Toronto, Ontario,
+November 4-8, 1990, p. 228-233, 1990, Learned Information, Inc.,
+Medford,  NJ, ISBN: 0-938734-48-2, 13
+CP: United-States
+PY: 1990
+LA: English
+DT: Monographic-Chapter
+AB: The current approaches to the analysis of natural language text are
+not viable for documents of unrestricted scope. A global text analysis
+system is proposed designed to identify homogeneous text environments in
+which the meaning of text words and phrases remains unambiguous, and
+useful term relationships may be automatically determined. The proposed
+methods include document clustering methods,  as well as comparisons of
+local document excerpts in specified global contexts, leading to
+structured text representations in which similar texts, or text
+excerpts, are appropriately linked.
+DE: CLUSTER-ANALYSIS; DATA-ANALYSIS; DOCUMENTS-; NATURAL-LANGUAGE;
+TEXT-EDITORS; TEXT-PROCESSING; TEXT-RETRIEVAL
+SC: 03.00
+SH: Information-Generation-and-Promulgation-General-Aspects
+AN: 9101827
+
+TI: An automatic indexing method for medical documents.
+AU: Wagner,-M.M.
+CS: Univ. of Pittsburgh School of Medicine, Pittsburgh, PA
+AC: United-States
+SO: In Assessing the Value of Medical Informatics, Proceedings,
+Fifteenth Annual Symposium on Computer Applications in Medical Care, A
+Conference of the American Medical Informatics Association, Washington,
+DC, November 1991, p. 1011-1017, 1992, McGraw-Hill Health Professions
+Division, New York, NY, 25
+CP: United-States
+PY: 1992
+LA: English
+DT: Monographic-Chapter
+AB: This paper describes MetaIndex, an automatic indexing program that
+creates symbolic representations of documents for the purpose of
+document retrieval. MetaIndex uses a simple transition network parser 
+to recognize a language that is derived from the set of main concepts in
+the Unified Medical Language System Metathesaurus (Meta-1). MetaIndex
+uses a hierarchy of medical concepts, also derived from Meta-1, to
+represent the content of documents. The goal of this approach is to
+improve document retrieval performance by better representation of
+documents. An evaluation method is described, and the performance of
+MetaIndex on the task of indexing the Slice of Life medical image
+collection is reported.
+DE: AUTOMATION-; BIOMEDICINE-; DOCUMENTS-; HEALTH-SCIENCES; INDEXING-;
+INFORMATION-RETRIEVAL; MEDICAL-INFORMATICS; MEDICAL-TERMS; METHODOLOGY-
+SC: 04.07
+SH:Information-Recognition-and-Description-Classification,
+-Indexing,-and-Thesauri
+AN: 9207705
+
+TI: Indexing and Abstracting in Theory and Practice.
+SO: 352 pp., 1991, Library Association Publishers Ltd., London, England,
+ISBN: 0-85604-004-6, $75.00
+CP: United-Kingdom
+PY: 1991
+LA: English
+DT: Monographic
+AB: Indexing and abstracting are compared in this book, with
+similarities  emphasized. Information is provided on pre-coordinate
+indexes, consistency of indexing, quality of indexing, abstracts, types
+and functions, writing abstracts natural language in information
+retrieval, and automatic indexing. Exercises in both indexing and
+abstracting procedures are included.
+DE: ABSTRACTING-; INDEXING-
+SC: 04.07
+SH:Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9205327
+
+TI: Methodologies for subject analysis in bibliographic databases.
+AU: Milstead,-J.L.
+CS: JELEM Co., Brookfield, CT
+AC: United-States
+SO: IEE-Proceedings.-Part-A-(GB) Vol. 28, Issue 3, p. 407-432, 1992, 55
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: This paper reports on a subject analysis review undertaken to aid
+managers of databases in determining if new and little-known
+capabilities would improve the cost-effectiveness of subject analysis 
+operations. Operational machine-aided and automatic indexing systems 
+were found to form a continuum. Commercial automatic indexing packages
+were also reviewed. The primary obstacle to development of automatic
+indexing is the lack of machine understanding of natural language.
+Recommendations for action include: increasing the power of  the indexer
+interface, studying indexing policies, enrichment of thesauri, and
+considering the development of machine-aided indexing.
+DE: AUTOMATION-; BIBLIOGRAPHIC-DATABASES; INDEXING-; METHODOLOGY-;
+NATURAL-LANGUAGE; SUBJECT-ANALYSIS
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9205339
+
+                                                           Marked in Search: #21
+TI: The concept of subject in information science.
+AU: Hjorland,-B.
+CS: Danmarks Biblioteksskole, Copenhagen
+AC: Denmark
+SO: Journal-of-Documentation Vol. 48, Issue 2, p. 172-200, Jun 1992, 39
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: This article presents an investigation of the concept of subject matter in library and information science. The implicit concepts of subject matter contained in various indexing and classification theories, including automatic indexing and citation indexing, are studied. The different concepts of subject matter are classified as epistemiological positions, such as subjective idealism, objective realism, pragmatism, and materialism/realism. A new theory of subject  matter based on an explicit theory of knowledge is proposed, from the point of view of a realistic/materialistic epistemology.
+DE: CLASSIFICATION-; INDEXING-; INFORMATION-SCIENCE; INFORMATION-THEORY; LIBRARY-SCIENCE; SUBJECT-ANALYSIS
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9205334
+
+                                                                        7 of 24  
+                                                           Marked in Search: #21
+TI: Design and implementation of an experimental cataloging advisor-Mapper.
+AU: Ercegovac,-Z.; Borko,-H.
+CS: Univ. of California, Los Angeles, CA
+AC: United-States
+SO: Information-Processing-and-Management Vol. 28, Issue 2, p. 241-258, 1992, 25
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: The main objective of this study is to understand how an experimental, semi-automatic cataloging adviser (Mapper) could be designed to assist the intermittent user in the descriptive cataloging of certain US-produced, single-sheet maps. The study is concerned with formalizing experts' judgment into a set of rules, which are then used to design Mapper's knowledge base. The questions of user modeling and human-computer compatibility are examined in order to propose a set of user interface characteristics related to Mapper's design. Mapper is implemented using the Apple HyperCard system.
+DE: APPLE-; AUTOMATION-; CATALOGING-; DESIGN-; EXPERIMENTS-; EXPERT-SYSTEMS; HYPERCARD-; KNOWLEDGE-BASED-SYSTEMS; MAN-MACHINE-INTERFACING; MAPS-; RULE-BASED-SYSTEMS
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9203755
+
+                                                                        8 of 24  
+                                                           Marked in Search: #21
+TI: Experiments in automatic Library of Congress classification.
+AU: Larson,-R.R.
+CS: Univ. of California, Berkeley, CA
+AC: United-States
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 43, Issue 2, p. 130-148, Mar 1992, 40
+PY: 1992
+LA: English
+DT: Journal-Article
+AB: This article presents the results of research into the automatic selection of Library of Congress Classification numbers based on the titles and subject headings in MARC records. The method used in this study was based on partial match retrieval techniques using various elements of new records (i.e., those to be classified) as "queries," and a test database of classification clusters generated from previously classified MARC records. Sixty individual methods for automatic classification were tested on a set of 283 new records, using all combinations of four different partial match methods, five query types, and three representations of search terms. The results indicate that if the best method for a particular case can be determined, then up to 86% of the new records may be correctly classified. The single method with the best accuracy was able to select the correct classification for about 46% of the new records.
+DE: AUTOMATION-; CLASSIFICATION-; EXPERIMENTS-; LIBRARY-OF-CONGRESS; RESEARCH-; SUBJECT-HEADINGS
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9202137
+
+                                                                        9 of 24  
+                                                           Marked in Search: #21
+TI: Subject analysis.
+AU: Lancaster,-F.W.; Elliker,-C.; Connell,-T.H.
+CS: Univ. of Illinois, Urbana-Champaign, IL
+AC: United-States
+SO: Annual-Review-of-Information-Science-and-Technology Vol. 24, p. 35-84, 1989, 475
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: This chapter presents a literature review of subject analysis, under six broad categories: indexing theory and practice, controlled vocabularies (including classification and subject headings), search strategies and searching methods, natural-language searching, automatic indexing and related procedures, and the use of citation relationships in information retrieval.
+DE: AUTOMATION-; CITATIONS-; CLASSIFICATION-; INDEXING-; INFORMATION-RETRIEVAL; NATURAL-LANGUAGE; SEARCHING-; SUBJECT-ANALYSIS; SUBJECT-HEADINGS; VOCABULARIES-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9201359
+
+                                                                       10 of 24  
+                                                           Marked in Search: #21
+TI: INDEX: the statistical basis for an automated conceptual phrase-indexing system.
+AU: Jones,-L.P.; Gassie,-E.W.; Radhakrishnan,-S.
+CS: Louisiana State Univ.
+AC: United-States
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 41, Issue 2, p. 87-97, Mar 1990, 35
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: In recent years researchers have become increasingly convinced that the performance of information retrieval systems can be greatly enhanced by the use of key phrases for automatic conceptual document indexing and retrieval. In this article the authors describe two programs, INDEX and INDEXD, which locate repeated phrases in a document, gather statistical information about them, and rank them according to their value as index phrases. The programs show promise as the basis for a sophisticated conceptual indexing system. The simpler program, INDEX, ranks phrases in such a way that frequently occurring phrases which contain several frequently occurring words are given a high ranking. INDEXD is an extension of INDEX which incorporates a dictionary for stemming, weighting of words and validation of syntax of output phrases. Sample output of both programs is included, and we discuss plans to combine INDEXD with linguistic and artificial intelligence techniques to provide a general conceptual phrase-indexing system that can incorporate expert  knowledge about a given application area.
+DE: ARTIFICIAL-INTELLIGENCE; AUTOMATION-; COMPUTER-PROGRAMS; EXPERT-SYSTEMS; INDEXING-; INFORMATION-RETRIEVAL-SYSTEMS; SOFTWARE-; STATISTICS-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9102968
+
+                                                                       11 of 24  
+                                                           Marked in Search: #21
+TI: Automatic syntactic analysis of free text.
+AU: Schwarz,-C.
+CS: Siemens AG, Munich
+AC: West-Germany
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 41, Issue 6, p. 408-417, Sep 1990, 60
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: Problems encountered under the syntactic analysis of free text documents are discussed. As these problems are of general interest in  nonautomatic or automatic syntactic indexing or search systems, these problems are presented. The system called COPSY (context op erator sy ntax), which uses natural language processing techniques during fully automatic syntactic analysis (indexing and search) of free text documents is described. Applications under real world conditions are mentioned as well as evaluation and technical aspects.  Further developments in the field of thesaurus building and full-text analysis using the linguistic algorithms of the syntactic retrieval system are outlined. COPSY was developed as part of a text processing project at Siemens, called TINA (Text-In halts-A nalyse: text content analysis). Software from TINA is actually being tested by the U.S. Department of Commerce for patent search and indexing.
+DE: AUTOMATION-; FREE-TEXT-RETRIEVAL; INDEXING-; INFORMATION-RETRIEVAL; SEARCH-SYSTEMS; SEARCHING-; SEMANTICS-; TEXT-PROCESSING
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9102978
+
+                                                                       12 of 24  
+                                                           Marked in Search: #21
+TI: On generalizing the Two-Poisson model.
+AU: Srinivasan,-P.
+CS: Univ. of Iowa, Iowa City, IA
+AC: United-States
+SO: Journal-of-the-American-Society-for-Information-Science Vol. 41, Issue 1, p. 61-66, Jan 1990, 25
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: It is well recognized that automatic indexing is one of the important  functions of a modern Document Retrieval System. Numerous techniques  for this function have been proposed in the literature ranging from purely statistical to linguistically complex mechanisms. Most of these techniques result from examining properties of terms. In this article term distribution is examined within the framework of the Poisson Models. Specifically the effectiveness of the Two-Poisson and  the Three-Poisson Models are examined. The more general Three-Poisson model is examined to see if generalization results in increased effectiveness. The results show that the Two-Poisson model is only moderately effective in identifying index terms. In addition,  generalization to the Three-Poisson does not give any additional power. The only model within the framework of Poisson models which consistently works well is the basic One-Poisson model. The article concludes with a discussion on term distribution information.
+DE: AUTOMATION-; INDEXING-; INFORMATION-RETRIEVAL-SYSTEMS; MODELS-; POISSON-DISTRIBUTION
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9102982
+
+                                                                       13 of 24  
+                                                           Marked in Search: #21
+TI: Issues in art information: iamge-text integration.
+AU: Bush,-J.; Ciampa,-J.; Peterson,-T.; Rorvig,-M.E.; Stam,-D.
+CS: Getty Trust, Santa Monica, CA
+AC: United-States
+SO: In Information and Technology: Planning for the Second Fifty Years, Proceedings of the 51st Annual Meeting of the American Society for Information Science, Atlanta, GA, October 1988, p. 243, 1988, Learned Information, Medford, NJ, ISBN: 0-938734-29-6
+CP: United-States
+PY: 1988
+LA: English
+DT: Monographic-Chapter
+AB: Contributors to this session examine integrated access to art objects  and art information by focusing on two domains: the users' and the documentalist's viewpoint. Both visual and text interfaces are explored alongside the intellectual problems of mapping and retrieving different files. Three experimental projects are described  in the following papers: The Art and Architecture Thesaurus as a Front End for Subject Retrieval in Multiple Art Databases, Automatic Image Classification by Psychometric Mapping, and Using Video for Documenting Art: Exploratory Work at the American Video Institute, Rochester Institute of Technology.
+DE: ART-; DATABASES-; IMAGE-INFORMATION; INFORMATION-RETRIEVAL; INTEGRATION-; MAPPING-; VISUAL-RESOURCES
+SC: 07.04
+SH: Libraries-and-Information-Services-Collection-Management-and-Preservation
+AN: 9102540
+
+                                                                       14 of 24  
+                                                           Marked in Search: #21
+TI: An approach to the automatic construction of global thesauri.
+AU: Crouch,-C.J.
+CS: Univ. of Minnesota, Duluth, MN
+AC: United-States
+SO: Information-Processing-and-Management Vol. 26, Issue 5, p. 629-640, 1990, 46
+PY: 1990
+LA: English
+DT: Journal-Article
+AB: The benefits of a well constructed thesaurus to an information retrieval system have long been recognized by both researchers and practitioners in the field. Previous experiments have investigated the construction of thesauri by manual, semiautomatic, and automatic means. Automatic thesaurus generation in particular has proven to be an especially difficult problem. This paper examines both early and current approaches to automatic thesaurus construction and describes an approach to the automatic generation of global thesauri based on the term discrimination value model of Salton, Yang, and Yu and on an  appropriate clustering algorithm. This method has been implemented and applied to two document collections. Preliminary results indicate  that this method, which produces improvements in retrieval performance in excess of 10 and 15 percent in the test collections, is viable and worthy of continued investigation.
+DE: AUTOMATION-; DESCRIPTORS-; INFORMATION-RETRIEVAL; SUBJECT-HEADINGS; TERMINOLOGY-; THESAURI-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9101329
+
+                                                                       15 of 24  
+                                                           Marked in Search: #21
+TI: One-eyed king: automated indexing.
+AU: Oliver,-C.T.
+SO: Canadian-Library-Journal Vol. 46, Issue 5, p. 312-316, Oct 1989, 28
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: Describes the mechanistic model of language on which automatic indexing is based, and examines the underlying assumptions of the model to demonstrate the ineffectiveness of this indexing. It is argued that theoretical research from the fields of linguistics, psychology, and philosophy need to be incorporated into automatic indexing to overcome these inadequacies.
+Abstract Source: ERIC
+DE: AUTOMATION-; EVALUATION-; INDEXING-; LANGUAGES-; MODELS-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9004679
+
+                                                                       16 of 24  
+                                                           Marked in Search: #21
+TI: Subject access in a bilingual online catalog.
+AU: Rolland-Thomas,-P.; Mercure,-G.
+CS: Univ. of Montreal, Montreal, Quebec
+AC: Canada
+SO: Cataloging-and-Classification-Quarterly Vol. 10, Issue 1/2, p. 141-164, 1989, 17
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: This paper describes how Canadian library records are created in some  OPAC's by using an alphabetical index as entering key. The online binlingual thesaurus developed by the Canadian Workplace Automation Research Center is studied. The DOBIS bilingual system providing automatic linkage between records and authority files developed by the National Library of Canada is detailed.
+DE: BILINGUAL-; ACCESS-; CANADA-; INDEXING-; ONLINE-CATALOGS; SUBJECT-HEADINGS; THESAURI-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9003714
+
+                                                                       17 of 24  
+                                                           Marked in Search: #21
+TI: A syntactic approach to automatic book indexing.
+AU: Salton,-G.
+CS: Cornell Univ., Ithaca, NY
+AC: United-States
+SO: In Annual Review of OCLC Research, July 1988-June 1989, p. 39, 1989, OCLC Online Computer Library Center, Inc., Dublin, OH
+CP: United-States
+PY: 1989
+LA: English
+DT: Monographic-Chapter
+AB: Automatic publishing systems are now widely used to produce books and  documents of many types, and the text of these materials, available in machine-readable form, can be used for automatic processing. This study describes automatic methods to generate back-of-the-book indexes based on a syntactic analysis of the text and a phrase-generation system that identifies meaningful index entries.
+DE: AUTOMATION-; ELECTRONIC-PUBLISHING; INDEXING-; MACHINE-READABLE
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 9002929
+
+                                                                       18 of 24  
+                                                           Marked in Search: #21
+TI: Automatic thesaurus construction by machine learning from retrieval sessions.
+AU: Guntzer,-U.; Juttner,-G.; Saare,-F.; Seegmuller,-G.
+CS: Technical Univ. of Munich, Munich
+AC: West-Germany
+SO: Information-Processing-and-Management Vol. 25, Issue 3, p. 265-273, 1989, 8
+PY: 1989
+LA: English
+DT: Journal-Article
+AB: This paper presents an information retrieval systems component called  TEGEN which taps expertise by automatically drawing conclusions from  actual search behavior about possible thesaurus entries. An iterative knowledge acquisition process involved is examined. TEGEN is described; it is written in PASCAL using a knowledge-based programming method, using a relational database system IMF2, and has been implemented at the University of Munich.
+DE: ARTIFICIAL-INTELLIGENCE; AUTOMATION-; INFORMATION-RETRIEVAL; PRODUCTION-; THESAURI-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8907141
+
+                                                                       19 of 24  
+                                                           Marked in Search: #21
+TI: An investigation into the Two-Poisson model of automatic indexing.
+AU: Das-Gupta,-P.
+CS: Syracuse Univ., Syracuse, NY
+AC: United-States
+SO: Dissertation-Abstracts-International Vol. 46, Issue 9, p. 2471-A, Mar 1986
+PY: 1986
+LA: English
+DT: Journal-Article
+AB: The author discusses the design of document retrieval systems (DRS), which aid in the retrieval of citations to documents which have potential reference to the user. The author examines the representation of documents or document indexing as a function within  the framework of the Two-Poisson model of automatic indexing. The model is examined with two objectives: 1) to improve the model; 2) to  compare this model to other statistical models for automatic indexing. The distribution of an index's term's within document frequencies is the underlying concept which is addressed.
+DE: DESIGN-; DISSERTATIONS-; DOCUMENT-DELIVERY; INDEXING-; LIBRARY-AUTOMATION; MODELS-; ONLINE-RETRIEVAL; POISSON-DISTRIBUTION
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8806106
+
+                                                                       20 of 24  
+                                                           Marked in Search: #21
+TI: Improvement of automatic indexing through recognition of semantically  equivalent syntactically different phases.
+AU: Aladesulu,-O.S.
+CS: Ohio State Univ., Columbus, OH
+AC: United-States
+SO: Dissertation-Abstracts-International Vol. 46, Issue 9, p. 3120-B, Mar 1986
+PY: 1986
+LA: English
+DT: Journal-Article
+AB: This paper deals with methods of improving automated document indexing operations to make them more closely approach the intellectual level of human indexing. A semantic recognition algorithm is described and implemented. An evaluation method based on  a comparative measure of confidence function is also described. Suggestions for further improvement of SRA are also presented.
+DE: AUTOMATION-; DISSERTATIONS-; INDEXING-; SEMANTICS-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8805211
+
+                                                                       21 of 24  
+                                                           Marked in Search: #21
+TI: Connecting and evaluating thesauri: issues and cases.
+AU: Rada,-R.
+CS: National Library of Medicine, Bethesda, MD
+AC: United-States
+SO: International-Classification-(DE) Vol. 14, Issue 2, p. 63-69, 1987, 36
+PY: 1987
+LA: English
+DT: Journal-Article
+AB: Connecting and evaluating thesauri is an important task for the systematic development of better information retrieval systems. Connecting thesauri includes not only determining when terms in different thesauri are the same but also determining what kinds of relationships can be transferred from one thesaurus to another. This paper first presents issues in connecting and evaluating thesauri. Various experiments in connecting a particular thesaurus, the Medical  Subject Headings, with other medical thesauri are described. In these experiments, similar terms in two thesauri are recognized and then differences in two thesauri are exploited to create more powerful thesauri. Part of the evaluation requires the thesaurus to support automatic indexing and retrieving of documents.
+DE: MEDICAL-SUBJECT-HEADINGS-MESH; MESH-MEDICAL-SUBJECT-HEADINGS; EVALUATION-; HEALTH-SCIENCES; INDEXING-; INFORMATION-RETRIEVAL; MEDICAL-INFORMATION; PERFORMANCE-; SUBJECT-HEADINGS; THESAURI-
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8707217
+
+                                                                       22 of 24  
+                                                           Marked in Search: #21
+TI: Indexing aid project. Research on knowledge-based indexing of the medical literature.
+AU: Humphrey,-S.; Dorsey,-M.; Kapoor,-A.; Mendez,-D.
+CS: National Library of Medicine, Bethesda, MD
+AC: United-States
+SO: 119 pp., Mar 1987, Pub. No: PB87-175790/HCW
+PY: 1987
+LA: English
+DT: Report
+AB: Research is being conducted in the Indexing Aid Project, Automated Classification and Retrieval Program, Lister Hill National Center for  Biomedical Communications, on the development of interactive knowledge-based systems for computer-assisted indexing of the periodical medical literature. The principal areas of research are knowledge representation and indexing for document retrieval. The report describes the project and the prototype indexing Aid System. The system uses an experimental framebased knowledge representation language, FrameKit, implemented in Franz Lisp, and is designed to interact with trained MEDLINE indexers who will be prompted to enter subject terms as slot values in filling in document-specific frame data structures that are derived from the knowledge base frames. In addition, the automatic application of rules associated with the knowledge base frames produces a set of MeSH keyword indices to the document. The Indexing Aid System exhibits important features which are characteristic of frame systems; representation of explicit relationships through slots which express the relations; slot values,  restrictions on slot values, and rules attached to slots (procedural  attachments) made available by inheritance through inherits-from hierarchies; and slot values made available by retrieval from other slots (internal retrieval). The report is in three parts: Overview of  the Indexing Aid Project and System. Indexing Aid System Design Document, and Indexing Aid System User Manual.
+DE: INDEXING-; KNOWLEDGE-; MEDICAL-INFORMATION
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8705297
+
+                                                                       23 of 24  
+                                                           Marked in Search: #21
+TI: Feature selection for automatic classification of non-Gaussian data.
+AU: Foroutan,-I.; Sklansky,-J.
+CS: Univ. of California, Irvine, CA
+AC: United-States
+SO: IEEE-Transactions-on-Systems,-Man-and-Cybernetics-(US) Vol. SMC-17, Issue 2, p. 187-198, Mar 1987, 39
+PY: 1987
+LA: English
+DT: Journal-Article
+AB: A computer-based technique for automatic selection of features for the classification of non-Gaussian data is presented. The selection technique exploits interactive cluster finding and a modified branch and bound optimization of piecewise linear classifiers. The technique  first finds an efficient set of pairs of oppositely classified clusters to represent the data. Then a zero-one implicit enumeration implements a branch and bound search for a good subset of features. A  test of the feature selection technique on multidimensional synthetic and real data yielded close-to-optimum, and in many cases optimum, subsets of features. The real data consisted of a) 1284 12-dimensional feature vectors representing normal and abnormal breast tissue, extracted from X-ray mammograms, and b) 1060 30-dimensional feature vectors representing tanks and clutter in infrared video images.
+DE: AUTOMATION-; CLASSIFICATION-; DATA-ANALYSIS; MEDICAL-INFORMATICS
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8703283
+
+                                                                       24 of 24  
+                                                           Marked in Search: #21
+TI: Applying the method of successive computations to automatic classification.
+AU: Rybin,-I.A.
+SO: Automation-and-Remote-Control Vol. 47, Issue 1, p. 114-120, Jan 1986
+PY: 1986
+LA: English
+DT: Journal-Article
+AB: A new classification functional is proposed which makes it possible to solve the automatic classification problem by the method of successive computations. The application of this functional to problems with unconstrained or partially constrained number and cardinality of classes is considered.
+DE: AUTOMATION-; CLASSIFICATION-; COMPUTING-; PROBLEM-SOLVING
+SC: 04.07
+SH: Information-Recognition-and-Description-Classification,-Indexing,-and-Thesauri
+AN: 8603753

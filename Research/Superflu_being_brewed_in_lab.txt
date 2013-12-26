@@ -1,0 +1,74 @@
+]
+17:42 26 February 2004 
+Exclusive from New Scientist Print Edition 
+Rachel Nowak, Melbourne 
+Related Articles
+SARS special report: Too soon to celebrate
+6 July 2003
+US develops lethal new viruses
+29 October 2003
+Killer flu can result from a single mutation
+25 August 2002
+Search New Scientist
+Contact us
+Web Links
+Center for Deterrence of Biowarfare and Bioterrorism, University of Louisville
+US Centers for Disease Control
+Erasmus University
+University of Reading
+ 
+
+After the worldwide alarm triggered by 2003's SARS outbreak, it might seem reckless to set about creating a potentially far more devastating virus in the lab. But that is what is being attempted by some researchers, who argue that the dangers of doing nothing are even greater.
+
+We already know that the H5N1 bird flu virus ravaging poultry farms in Asia can be lethal on the rare occasions when it infects people. Now a team is tinkering with its genes to see if it can turn into a strain capable of spreading from human to human. If they manage this, they will have created a virus that could kill tens of millions if it got out of the lab.
+
+Many researchers say experiments like this are needed to answer crucial questions. Why can a few animal flu viruses infect humans? What makes the viruses deadly? And what changes, if any, would enable them to spread from person to person and cause pandemics that might prove far worse than that of 1918? Once we know this, they argue, we will be better prepared for whatever nature throws at us.
+
+Others disagree. It is not clear how much we can learn from such work, they argue. And they point out that it is already possible to create a vaccine by other means. The work is simply too dangerous, they say.
+
+"I'm getting bombarded from both sides," says Ronald Atlas, head of the Center for Deterrence of Biowarfare and Bioterrorism at the University of Louisville in Kentucky. "Some say that this sort of research is dangerous because of the risk of the virus escaping or being using in bioterrorism, and others that it's good science."
+Rodents and monkeys
+
+Some researchers refuse to discuss their plans. But Jacqueline Katz at the US Centers for Disease Control (CDC) in Atlanta, Georgia, told New Scientist her team is already tweaking the genes of the H5N1 bird flu virus that killed several people in Hong Kong in 1997, and those of the human flu virus H3N2.
+
+She is testing the ability of the new viruses to spread by air and cause disease in ferrets, whose susceptibility to flu appears to be remarkably similar to ours.
+
+Albert Osterhaus of Erasmus University in Rotterdam in the Netherlands plans to test altered viruses on rodents and macaque monkeys. Other groups are also considering similar experiments, he says.
+
+If such work were to show that H5N1 could cause a human pandemic, everything that is happening in Asia would be even more alarming, Osterhaus argues. If, on the other hand, it failed to transform H5N1 into a highly contagious human virus, we could relax. "It becomes a veterinary health problem, not a public health problem. That would be an enormous relief."
+Cell cultures
+
+But Wendy Barclay of the University of Reading in the UK, who "thought long and hard" about trying to create a pandemic flu virus before abandoning the idea, disagrees. "If you get a negative, how can you be sure that you have tested every option?" she says. Health authorities would still have to take the precaution of creating H5N1 vaccines.
+
+Barclay concedes, however, that creating a virus that spreads in people might tell us how real the threat is. For instance, do you need one mutation for H5N1 to adapt to humans, or dozens?
+
+Osterhaus is more optimistic. "Within the next decade, the whole thing will be solved," he says. "We will know the rules." In other words, once experts understand what the genetic sequence of any flu virus means, they could predict which animals it can infect, how severe it will be, and how easily it will spread.
+
+Yet any new viruses could only be tested in human cell cultures or in animals, not on people. None of these methods exactly reflects how flu behaves in humans. This has led some flu experts to argue that attempts to create a pandemic virus should be put on hold until there is agreement on the best way of testing it.
+Mix flu genes
+
+And there is an even more fundamental objection to such experiments: the processes used to create the viruses may be too artificial. Researchers who want to see if H5N1 can be pandemic can take two approaches.
+
+One is to tinker with the genome of the bird flu virus to mimic mutations that might occur naturally. This can be done precisely using a technique called reverse genetics. The other approach is to mix bird flu genes with those of human flu viruses, either using reverse genetics or through random re-assortment in cells infected with both types.
+
+Although re-assortment sounds more natural, there is a problem. "Re-assortments can be made very easily in the lab using cells or animals," says flu expert Graeme Laver, formerly at the Australian National University in Canberra. "But one of the big mysteries is that [human] viruses that appear by reassortment are extremely rare in nature. There is something else involved that we don't understand."
+
+Then there is the question of safety. The worst-case scenario is that researchers might end up engineering extremely dangerous viruses that would never have evolved naturally.
+Masks or hoods
+
+In 2001, for instance, Australian researchers created a mousepox virus far more virulent than any wild strains. This scenario is unlikely, but not impossible, says virologist Earl Brown of the University of Ottawa, Canada. "You could create something that is right out of whack, but I'd be surprised."
+
+For those reasons, several prominent flu researchers told New Scientist that the H5N1 experiments must be done at the highest level of containment: Biosafety Level 4, or BSL-4. But the CDC work is being done at BSL-3Ag, an intermediate level between BSL-3 and BSL-4. Workers wear half-suits with masks or hoods to prevent infection, for instance, rather than full-body suits as in BSL-4.
+
+"US Department of Agriculture guidelines specify that work with highly pathogenic avian strains be done in BSL-3+ (also known as BSL-3Ag) laboratories," a CDC spokeswomen says.
+
+One of the reasons is that the H5N1 virus is regarded as a non-contagious, treatable disease in humans. But this is not necessarily true of all of the genetically engineered strains that might be created. And drug supplies would quickly run out if an escaped virus triggered a major epidemic.
+New variants
+
+A recent report by the US National Academy of Sciences recommends a series of checks be put in place to control such research. It says a panel of leading scientists and security experts should be set up to regulate it.
+
+"Some public representation is another option," says Atlas, who helped draw up the report. At the moment, however, such experiments can be carried out without any special consultation.
+
+Methods like reverse genetics might also be used to create new variants of other diseases. "You can make some pretty unusual things new viruses that would never have existed in nature," says Barclay. "It's not just an issue for flu."
+
+With additional reporting by Michael Le Page

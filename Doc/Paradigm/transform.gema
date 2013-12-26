@@ -1,0 +1,12 @@
+\\chapter\{*\}=<chapter>\n\t<title>$1</title>\n
+\\section\{*\}=\t<sect1>\n\t\t<title>$1</title>\n
+\\subsection\{*\}=\t<sect2>\n\t\t<title>$1</title>\n
+\\subsubsection\{*\}=\t<sect3>\n\t\t<title>$1</title>\n
+\\clearpage=
+centering=
+begin\{description\}=\t<variablelist>\n
+end\{description\}=\t</variablelist>\n
+item\[*\]#\\=\t<varlistentry>\n\t\t\t<term>$1</term>\n\t\t\t<listitem><para>#</para></listitem></varlistentry>\n
+\\=
+\E=</sect1>\n</chapter>
+

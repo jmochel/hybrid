@@ -1,0 +1,61 @@
+Cloned-human-embryos-are-stem-cell-breakthrough
+11:35 12 February 2004 
+NewScientist.com news service 
+Sylvia Pagán Westphal 
+Related Articles
+'Humanised' organs can be grown in animals
+17 December 2003
+Europe backs embryonic stem cell research
+19 November 2003
+UN postpones global human cloning ban
+7 November 2003
+Search New Scientist
+Contact us
+Web Links
+Seoul National University
+Jose Cibelli, Michigan State University
+Advanced Cell Technology
+Cloning, New Scientist
+Science
+ 
+
+Scientists have demonstrated for the first time that therapeutic cloning in humans can be achieved.
+
+The researchers in South Korea created 30 cloned embryos that grew to about 100 cells in size - further than any verified experiment so far. This meant they were able to harvest embryonic stem cells from one of the embryos. They further showed that the ESCs could develop into a variety of tissue types.
+
+Their long-term hope is that such a procedure would provide a source of perfectly matched transplant tissue for the treatment of diseases such as diabetes and Parkinson's.
+
+"In this precise moment there is a person in South Korea walking around with [embryonic] stem cells tailor-made for her," says Jose Cibelli from Michigan State University. He is the only US researcher involved with the work, although not the cloning experiments themselves.
+
+"It is a great piece of work," Cibelli says. All the experts contacted by New Scientist agreed, praising the experiments as remarkable. Cloning in primates has been regarded as especially challenging and perhaps even impossible.
+Proof of principle
+
+However, several scientists expressed concern that the proof of principle now published by the Koreans might assist maverick scientists in attempting to clone a baby. The scientific consensus is that this would be far too risky. 
+
+"Now that the methodology is publicly available it's time to enact a ban on cloning for reproductive purposes," says Robert Lanza from Advanced Cell Technology in Massachusetts, the company that published the first account of a cloned human embryo in 2001. 
+
+The vast majority of nations support a global ban on cloning babies, but attempts at the United Nations to implement one have stalled. This is because some countries, including the US, want therapeutic cloning banned too, as it involves the destruction of embryos.
+Chemical key
+
+The key difficulty researchers had anticipated in cloning humans or other primates relates to chemical factors that assist cell division. 
+
+Unlike eggs from other species, primate eggs have cell division factors that are lost when the nucleus is removed from the egg - the first step of cloning. Some scientists argued that this would doom any chance of yielding healthy embryos.
+
+But now Woo Suk Hwang, from Seoul National University, and his colleagues have shown for the first time that, even though the process remains inefficient, cloning in humans can in fact be attained.
+
+"This is a spectacular discovery. This group deserves tremendous credit for this heroic achievement," says Gerald Schatten, director of the Pittsburgh Development Center at the Magee-Womens Research Institute. His team had published a widely cited article arguing that primates would be extremely hard to clone.
+Double donor
+
+For their experiments, the Korean scientists used 242 eggs donated from 16 healthy women. Each woman was the donor of both the egg and the cell from which the nucleus was taken, before being placed into the egg. 
+
+About a quarter of the treated eggs developed into blastocysts, the stage from which ESCs can be harvested. According to the authors, the rates compare well with those in cow and pig cloning.
+
+However, of the 30 blastocysts cultured, only one yielded a cell line of ESCs. The team cannot explain this low efficiency, though they speculate that perhaps many of the failed embryos had chromosomal abnormalities. 
+
+The stem cell line derived from the cloned embryo had many of the characteristics of ESCs, including an ability to divide indefinitely. When injected into mice, they formed several tissue types including cartilage, muscle and bone.
+
+So why did cloning work for the South Koreans? Nobody knows the answer yet, but techniques such as using a much gentler method to extract the cells' nuclei may have helped.
+
+At this early stage, and with unanswered questions about the safety of using ESCs for therapy, Cibelli warns that it will be many years before medical treatments are developed: "We have so much to do before putting this into patients."
+
+Journal reference: Science (DOI 10.1126/science.1094515)
