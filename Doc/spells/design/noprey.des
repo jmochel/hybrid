@@ -1,0 +1,19 @@
+.Name SongOfNoPrey
+.NRG Starlight
+.ACT Summon
+.ACT Bind
+.ACT Conceal
+
+.TARGET AOE
+.TCOMP Perception
+
+.CCOMP Verbal
+
+.EC 20
+.CDF 0
+.RES 10
+
+.CTSCALE Pulse
+.QE 20
+.LINKQE 2
+

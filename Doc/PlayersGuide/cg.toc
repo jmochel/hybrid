@@ -1,0 +1,42 @@
+\contentsline {chapter}{\numberline {1}Quick and Dirty Intro to the mechanics}{3}
+\contentsline {section}{\numberline {1.1}Rolling dice}{3}
+\contentsline {subsection}{\numberline {1.1.1}Open-ended Rolls}{3}
+\contentsline {subsection}{\numberline {1.1.2}Evaluating Success and Failure}{3}
+\contentsline {chapter}{\numberline {2}Character Generation}{5}
+\contentsline {section}{\numberline {2.1}Primary Statistics}{6}
+\contentsline {section}{\numberline {2.2}Race}{7}
+\contentsline {subsection}{\numberline {2.2.1}Statistic Modifiers}{7}
+\contentsline {subsection}{\numberline {2.2.2}Enhancements/Limitations}{8}
+\contentsline {subsection}{\numberline {2.2.3}Gender}{8}
+\contentsline {section}{\numberline {2.3}Calculated Statistics}{8}
+\contentsline {section}{\numberline {2.4}Other Statistics}{10}
+\contentsline {subsection}{\numberline {2.4.1}Height (HT)}{10}
+\contentsline {subsection}{\numberline {2.4.2}Weight (WT)}{10}
+\contentsline {subsection}{\numberline {2.4.3}Appearence (APP)}{10}
+\contentsline {subsection}{\numberline {2.4.4}Mental Speed}{11}
+\contentsline {subsection}{\numberline {2.4.5}Physical Speed}{11}
+\contentsline {section}{\numberline {2.5}Cultural Modifiers}{11}
+\contentsline {section}{\numberline {2.6}Careers}{12}
+\contentsline {section}{\numberline {2.7}Buying Skills and Enhancements}{14}
+\contentsline {section}{\numberline {2.8}Skill Costs}{15}
+\contentsline {section}{\numberline {2.9}Skill Ranks}{15}
+\contentsline {section}{\numberline {2.10}Statistic Costs}{17}
+\contentsline {section}{\numberline {2.11}Statistics Costs}{17}
+\contentsline {section}{\numberline {2.12}Skill Packages}{17}
+\contentsline {section}{\numberline {2.13}Enhancements and Limitations}{18}
+\contentsline {section}{\numberline {2.14}Character Enhancements}{19}
+\contentsline {subsection}{\numberline {2.14.1}Ambidexterity}{19}
+\contentsline {subsection}{\numberline {2.14.2}Eidectic Memory}{19}
+\contentsline {subsection}{\numberline {2.14.3}Photographic Memory}{19}
+\contentsline {subsection}{\numberline {2.14.4}Lightning Calculator}{19}
+\contentsline {subsection}{\numberline {2.14.5}Active PSI}{19}
+\contentsline {subsection}{\numberline {2.14.6}Mage Ability}{19}
+\contentsline {subsection}{\numberline {2.14.7}Enhanced Statistics}{20}
+\contentsline {subsection}{\numberline {2.14.8}PSI Gift}{20}
+\contentsline {subsection}{\numberline {2.14.9}Presence}{20}
+\contentsline {section}{\numberline {2.15}Environmental Enhancements}{20}
+\contentsline {subsection}{\numberline {2.15.1}Wealth}{21}
+\contentsline {subsection}{\numberline {2.15.2}Friends,Allies, and Contacts}{21}
+\contentsline {subsection}{\numberline {2.15.3}Reputation}{21}
+\contentsline {subsection}{\numberline {2.15.4}Continued Careers}{21}
+\contentsline {subsection}{\numberline {2.15.5}Variations}{22}

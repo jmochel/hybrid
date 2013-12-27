@@ -1,0 +1,48 @@
+Virulent 1918 flu genes resurrected
+18:00 06 October 2004 
+NewScientist.com news service 
+Debora MacKenzie 
+Related Articles
+Lack of vaccine raises fears of flu pandemic
+23 September 2004
+Superflu is being brewed in the lab
+26 February 2004
+1918 "Spanish" influenza pandemic down to pig flu RNA
+07 September 2001
+Search New Scientist
+Contact us
+Web Links
+Yoshihiro Kawaoka, University of Wisconsin-Madison
+Spanish Flu, Wikipedia
+Nature
+ 
+
+Deadly genes from the human influenza virus which caused the 1918 pandemic have been resurrected by scientists in an attempt to understand what made the strain so virulent.
+
+The “Spanish flu” - which may have killed as many as 50 million people in the great pandemic - owed its deadliness largely to one of its surface proteins, say the researchers.
+
+They have tested reconstructed viruses equipped with the protein and warn that it might one day return. If it does, anyone born after 1918 will have virtually no immunity.
+
+Yoshihiro Kawaoka of the University of Wisconsin in Madison, US, and colleagues have reconstructed five of the eight genes of the 1918 virus, from fragments in victims buried in permafrost, and from clinical samples. 
+
+They reconstructed the two surface proteins - haemagglutinin (H) and neuraminidase (N) - from the 1918 flu strain, and substituted them for the H and N of current flu strains from mice and humans.
+Mouse-killers
+
+Previous experiments elsewhere found that equipping viruses that already caused flu symptoms in mice with the 1918 H resulted in a flu hybrid which made mice sick, even though the H from a human virus should not have been able to do this.
+
+Kawaoka’s team went one step further by putting the 1918 H into human flu viruses that do not normally affect mice. This turned the viruses into mouse-killers.
+
+The 1918 H even made a virus that normally kills mice even more lethal. In every case, the 1918 hybrid replicated more, invaded the deeper tissues of the mouse lungs, and caused nastier lesions. Similar experiments with the N protein from the 1918 flu human strain showed no such effect. 
+
+Experiments with the more virulent strains were conducted at the highest possible level of containment, at Canada’s National Microbiology Laboratory in Winnipeg.
+Immune response
+
+The key to the 1918 strain’s deadliness seems to be the effect of its H protein on molecules that are part of the host’s immune response, called pro-inflammatory cytokines. The severity of many viral diseases results from over-induction of this immune response (New Scientist print edition, 6 September, 2003). 
+
+Kawaoka’s team found that hybrid viruses carrying 1918 H induced cytokines that activated a class of white blood cells called macrophages. It also attracted white blood cells called neutrophils into the alveoli, or air sacs, of the lungs. There, instead of just fighting infected cells, they caused runaway damage to lung tissue.
+
+The team warns that viruses equipped with a similar H could still be circulating among wild birds. And there may be little protection if it ever invades humans again. Kawaoka’s team found that, while people who experienced the 1918 flu have antibodies that neutralise the reconstructed 1918 H, people immune to currently-circulating flu viruses - even of the same family as the 1918 strain - have almost no protection.
+
+Meanwhile, the shut-down of a vaccine plant in Liverpool, UK, belonging to Chiron Vaccines, which manufactures the flu vaccine, may result in vaccine supply problems in the US and the UK. The plant, closed amid fears that production had become contaminated, makes half of the flu vaccine for the US market.
+
+Journal reference: Nature (vol 431, p 703)

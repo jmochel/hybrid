@@ -1,0 +1,174 @@
+ 	
+
+
+
+	
+
+
+	
+	
+ 	
+
+TERMINAL VELOCITY
+This orbiting platform would rely on kinetic energy alone. Tungsten rods dropped on buildings or underground bunkers would strike at hypersonic velocities, vaporizing targets instantly. 
+
+Illustration by John MacNeill 
+	
+	
+		
+	
+ 
+		
+	
+	
+
+Even as the Pentagon struggles with the low-tech reality of war in Iraq, it looks to increasingly bizarre-sounding technology for next-gen fighting systems. On the following pages, five chapters from the Pentagon's sci-fi future.
+
+
+by Eric Adams
+June 2004
+
+	
+	
+	
+	
+
+If U.S. military weapons planners have learned anything from the varied conflicts of the past quarter century, it is that the challenges are not getting any more predictable. With the nature and capabilities of U.S. opponents changing on practically an engagement-by-engagement basis, deciding which new weapon technologies will best serve soldiers in the battle theaters of the future remains a high-stakes guessing game. 
+
+The enemy is no longer necessarily a nation; it can be a terrorist cell. The enemy may not possess high-tech weaponry yet still pose a threat--by exploding truck bombs on suicide missions or by firing hand-launched missiles against F/A-22 fighter jets. Nor, despite the absolute technological supremacy of the U.S. military today, can strategists afford to ignore the possibility that a nation that has developed advanced weaponry might come to pose a threat in a nightmare future. 
+
+The Joint Chiefs of Staff, which mulls responses to future conflict scenarios, is preparing for everything from ground invasions of North Korea to air strikes against terrorist camps. "The process is complicated by the fact that you are less certain than ever who you will be fighting and the circumstances under which you will be fighting them," says John Pike, a senior military analyst at GlobalSecurity.org, a think tank that specializes in evaluations of military technology and strategy. "When you don't know what problem you're trying to solve, it's hard to come to a solution." 
+
+Efficiency is also a factor to a military that finds itself stretched from old bases in Europe to wars in Iraq and Afghanistan to calls for intervention in Africa, Haiti and other hotspots. The scores of potential combat scenarios sketched out by the Joint Chiefs, as well as individual branches of the U.S. military, have convinced the Department of Defense that a fast-track modernization program is critical to national security. Many current weapons systems are fast becoming out-of-date, from aging attack helicopter fleets to the early-'60s-designed rifles troops carry on the ground. Key trends will be automation--unmanned land, air and underwater vehicles; communication networks that connect all the players in a battle theater, so that information flows freely between pilots, foot soldiers and commanders; and finding new ways to solve old problems--such as firing ballistics electrically rather than with explosives. 
+
+But perhaps more in need of overhaul than the weapons systems themselves is the process that produces them. New weapons typically start out as ideas developed in one of the R&D labs belonging to the U.S. military or to private defense contractors such as Raytheon, Lockheed Martin or hundreds of smaller companies around the country. As it progresses, though, a new technology may get bogged down by Byzantine red tape and excessive everything-but-the-kitchen-sink tinkering. Years may elapse--5, 10, 15 or more--while proposals and demonstrations are requested, Congressional approvals secured, contractors chosen, and the technology tested and fielded--and by then the weapon that emerges may be technologically obsolete, or designed for threats that no longer exist. The Defense Department has a history of continuing to fund needless programs because of political pressures and sheer momentum. A prime example: the Army's Comanche attack helicopter, which was canceled in February after a 21-year, $6.9 billion development program. One of its key missions, battlefield reconnaissance, is quickly being usurped by far less expensive unmanned aerial vehicles. 
+
+Weapons procurement is also plagued by redundancy: More than one branch of the armed services may develop different systems that accomplish the same goal. This could range from small-caliber bullets being developed for each branch up to entire weapons platforms. 
+
+Then there's the chicken-and-egg problem. New weapons usually address specific needs, but the reverse can occur. Military leaders can simply be dazzled by new technologies, and develop weapons to exploit them. "These are often solutions in search of problems," cautions analyst Loren Thompson of the Arlington, Virginia-based Lexington Institute, a Department of Defense watchdog organization. Meanwhile, U.S. military supremacy has made certain weapons systems seem like overkill--the submarine fleet, for example. In the case of the supercavitating torpedo described in this article, skeptics ask where the need is. "If we ever face a hostile navy again 
+
+I'd like to take a look at it," says Thompson. "Obviously it's an improvement over what we have, but what's the enemy? It's not enough to have a weapon that can use new technology creatively. It needs to answer a valid military need or threat." It's also wise to recognize that the technological supremacy that drove U.S. forces into the heart of Baghdad in record time won't necessarily forestall the low-tech agony of the fight that has followed. 
+
+To streamline weapons development, in the mid-1990s the Department of Defense implemented its advanced concept technology demonstration program, a sort of try-before-you-buy setup that helps bypass usual R&D hurdles. One result: In 1997 the Air Force, after only two-and-a-half years of development, put the Predator unmanned aerial vehicle into service. Then, in 2002, with only minimal testing, they equipped several of the drones with Hellfire missiles and used one to attack an al Qaeda vehicle in Yemen. "Someone came up with the idea and just did it," says Patrick Garrett, an associate analyst at GlobalSecurity.org. "It harkens back to the good old days of WWII." 
+
+Another example of DoD-backed corner-cutting: the littoral combat ship, a versatile vessel with interchangeable modules that can be a minesweeper one day and a special forces troop lander the next. "It normally takes a decade or so for a new ship class to be decided," says Garrett, "but the Navy put out the bid in 2002, had five or six shipbuilders come up with designs, and they're hoping to start construction in 2005. That's a major feat." 
+
+Officials hope new technologies will shorten combat, minimize casualties, and enable attacks to be carried out with greater precision. 
+
+Many weapons in the pipeline, such as the space-launched darts and electromagnetic railgun, will use no explosives at all, relying instead on kinetic energy to destroy targets. Some, like Metal Storm, will use electricity rather than mechanical firing mechanisms. Laser weapons will disable enemy gear with heat rather than force, providing pinpoint accuracy and speed-of-light delivery. 
+
+
+A KINETIC MISSILE THAT FLIES AT MACH 7 
+
+Picture this: A massive destroyer receives the location coordinates of an enemy headquarters more than 200 miles away. Instead of launching a million-dollar Tomahawk cruise missile, it points a gun barrel in the direction of the target, diverts electric power from the ship's engine to the gun turret, and launches a 3-foot-long, 40-pound projectile up a set of superconducting rails. The projectile leaves the barrel at hypersonic velocity--Mach 7-plus--exits the Earth's atmosphere, re-enters under satellite guidance, and lands on the building less than six minutes later; its incredible velocity vaporizes the target with kinetic energy alone. 
+
+The U.S. Navy is developing an electromagnetic railgun that will turn destroyers into super-long-range machine guns--able to fire up to a dozen relatively inexpensive projectiles every minute. The Navy is collaborating with the British Ministry of Defence, which has a similar effort under way. In 2003, its facility in Kirkcudbright, Scotland, hosted a 1/8-scale test of an electromagnetic railgun that produced stable flight in a projectile fired out of the barrel at Mach 6. But Capt. Roger McGinnis, program manager for directed energy weapons at Naval Sea Systems Command in Washington, D.C., estimates the U.S. version won't be "deliverable" until 2015 at the earliest. 
+
+The technology behind the electromagnetic railgun has been around for more than 20 years, but early efforts wilted because of the huge power requirements: No ship could generate or store enough electricity to fire the gun. The concept was revived a few years ago when the Navy announced plans for its next-generation battleship, the all-electric DD(X). "In the past, destroyers had 90 percent of their power tied to propulsion," explains McGinnis. "But with DD(X), you can divert the power to whatever you need. We can stop the ship and fire the railgun as many times as we need, then divert the power back to the screws." 
+
+The barrel of the electromagnetic railgun will contain two parallel conducting rails about 20 feet long, bridged by a sliding armature. In the current design, electric current travels up one rail, crosses the armature, and heads down the second rail. The loop induces a magnetic field that pushes the armature, and the projectile aboard it, up the rails. 
+
+The challenges that remain include ensuring that the gun can target enemy sites with precision, and creating equipment that can withstand the gargantuan pressures the gun will create. "Right now, guns are only as accurate as the targeting of the bore, and now we're talking about 200-plus-mile ranges, so there has to be aerodynamic correction," says Fred Beach, the assistant program manager for the electromagnetic railgun at Naval Sea Systems Command. The projectile, he says, will receive course correction information from satellites and will steer itself with movable control surfaces. And because the projectile will be subjected to up to 45,000 Gs during firing, the onboard electronics must be strengthened to withstand the acceleration. Forces inside the gun itself--particularly getting the armature to move easily within the system--are also challenging the designers. "Getting two pieces of metal to slide past each other is pretty hard--we're getting a lot of damage to the rails," Beach says. 
+
+The electromagnetic railgun's projectiles will cover 290 miles in six minutes--initially traveling 8,200 feet per second and hitting their target at 5,000 feet per second. Current Navy guns, which shoot powder-ignited explosive shells, have a maximum range of 12 miles and, because they are unguided, are difficult to aim. Though guided missiles, the current long-range alternative for destroyers, can achieve ranges comparable to that of the electromagnetic railgun, their cost and storage problems are what's driving the efforts to find an alternative. Ships can only carry up to 70 guided missiles and must return to port to restock because the missiles cannot be loaded at sea, whereas railgun projectiles can easily be loaded at sea, and by the hundreds. Also appealing is that the electromagnetic railgun's missiles do not contain volatile explosives; the weapon does its work with kinetic energy. a rocket torpedo that swims in an air bubble 
+
+Submarines peaked in power and relevance during the Cold War; there has since been a shift in focus to aircraft-based combat, and subs have become budget-cut victims. But subs are still prized for their ability to sneak about global waters undetected and to defend surface ships from attack. Many U.S. subs are being converted from missile launchers into delivery vehicles for special operations troops. 
+
+But the supercavitating torpedo--a rocket-propelled weapon that speeds through the water enveloped in a nearly frictionless air bubble--may render obsolete the old submarine strategy of sly maneuvering and silent running to evade the enemy. The superfast torpedo could be outfitted with conventional explosive warheads, nuclear tips or nothing at all--a 5,000-pound, 230-mph missile could do enough damage on its own. The Russians invented the concept during the Cold War, and their version of this underwater killer--dubbed the Shkval ("Squall")--has recently been made available on the international weapons market; the United States, of course, wants a new, improved version of the original. 
+
+The hard part about building a rocket-propelled torpedo isn't so much the propulsion as clearing a path through the ocean. Water creates speed-sapping drag; the best way to overcome that drag is to create a bubble that envelops the torpedo--a supercavity. A gas ejected uniformly and with enough force through a cavitator in the nose of the torpedo will provide such a bubble, permitting speeds of more than 200 mph and a range of up to 5 miles (traditional torpedoes have slightly longer ranges, but lumber at only 30 to 40 mph). 
+
+Though submerged, the torpedo remains essentially dry, with a frictionless surface. "That sounds easy, but doing it is extremely difficult, especially if you're trying to steer," says Kam Ng, program manager for the torpedo at the Office of Naval Research, which has been developing the weapon since 1997. "If your torpedo moves in a straight line, you just aim and shoot," says Ng. "That capability already exists with Shkval. But the U.S. vehicle will be more capable--it will turn, identify objects, and home in on the target." (Improvements to the torpedo to make it steerable likely froze when the Soviet Union collapsed, says GlobalSecurity.org's Pike.) 
+
+Among the greatest challenges for U.S. torpedo researchers is developing detection and homing technology that will enable the torpedo to distinguish an enemy sub from, say, a rock formation, says Ng. Also tricky is finding a way to control the gas bubble to permit those course changes. "When you turn, the bubble distorts because it is no longer symmetrical," he says. "So you have to compensate for that by putting more bubble to one side." This is done, Ng explains, by ejecting more gas toward the outside of the turn. 
+
+Naval officials say the high-speed torpedo will enable submarines to attack enemy subs and surface ships without giving them time to respond. The U.S. military has tested a prototype, but combat-ready versions are not expected for at least 15 years. 
+
+
+A LASER CANNON THAT BLASTS FROM THE AIR 
+
+Directed-energy weapon specialists at the Air Force Research Laboratory are close to overcoming the two main hurdles that have confined laser weapons to science fiction for the last half-century. Tests by lead contractor Boeing have demonstrated that the laser has enough power to function as a weapon, and that the chemical exhaust, which could pose a considerable threat to the weapon's operators and individuals on the ground, can be safely contained in a sealed system. If all goes according to the U.S. Special Operations Command's plan, within a decade or so the Advanced Tactical Laser may introduce a new class of weaponry to the battlefield. 
+
+The weapon's first incarnation, expected by 2010 at the earliest, will be a megawatt-class chemical oxygen-iodine laser (COIL) fired from a rotating turret beneath the nose of a C-130 gunship. The beam could be up to 4 inches in diameter and have a 20-mile range--enabling it to burn through vehicles and machinery with a precision and millisecond timing that missiles and cannons can't achieve. (Cannons, in particular--now centuries old in concept--are tricky to aim. These "indirect fire" weapons must be pointed far from the target to factor in wind speed, humidity, firing force--even the rotation of the Earth.) 
+
+Next on the agenda: developing targeting, tracking and firing hardware. Among the questions researchers must answer: how long must the beam linger on a target to have the desired effect. "There are some interesting things with the directed energy technologies that we just don't know about," says Lt. Col. Joseph Panetta Jr., program manager for the Advanced Tactical Laser at the U.S. Special Operations Command headquarters at MacDill Air Force Base in Florida. "We need to determine exactly how it will perform on the battlefield." 
+
+Laser weapons are a relative bargain compared with existing long-range weapons: They're expected to cost $8,000 per shot versus up to hundreds of thousands for missiles. Lasers are also tunable, which adds versatility: When less-than-lethal force is required, such as in urban areas or when hostages are present, the beam's duration can be reduced so that it disables technology but only injures people. "We want a system that can generate a variety of effects on the battlefield, from damaging something to totally destroying it, to just kind of harassing with it," Panetta says. "This seems to offer us that." 
+
+Next-gen tactical lasers will likely be electrically-powered and diode-pumped, since chemical lasers require storage and transport of heavy ingredients. The greatest challenge with electric lasers, says Lt. Col. JoAnn Erno, head of the power division at the Air Force Research Laboratory at Wright-Patterson Air Force Base in Ohio, is managing the heat that's generated--lasers are only 10 percent efficient, so 90 percent of the power is lost in heat. "Controlling the heat will require active cooling," she says, "such as spraying the laser's diodes to keep them from overheating." Solid-state lasers will be smaller than chemical ones, permitting their use on fighter jets and ground vehicles. The Joint Strike Fighter, due to enter service in 2009, is a well-suited potential platform, says Erno, because its engine includes a metal shaft that spins fast enough to easily power a laser. 
+
+Lasers are an example of a weapon that should be developed for multiple uses, says Garrett. "If you can get several (military) branches to use it instead of four different devices that do the same thing, you can make it cheaper by cutting down logistics problems and easing training." 
+
+
+SPACE-LAUNCHED DARTS THAT STRIKE LIKE METEORS 
+
+This technology is very far out--in miles and years. A pair of satellites orbiting several hundred miles above the Earth would serve as a weapons system. One functions as the targeting and communications platform while the other carries numerous tungsten rods--up to 20 feet in length and a foot in diameter--that it can drop on targets with less than 15 minutes' notice. When instructed from the ground, the targeting satellite commands its partner to drop one of its darts. The guided rods enter the atmosphere, protected by a thermal coating, traveling at 36,000 feet per second--comparable to the speed of a meteor. The result: complete devastation of the target, even if it's buried deep underground. (The two-platform configuration permits the weapon to be "reloaded" by just launching a new set of rods, rather than replacing the entire system.) 
+
+The concept of kinetic-energy weapons has been around ever since the RAND Corporation proposed placing rods on the tips of ICBMs in the 1950s; the satellite twist was popularized by sci-fi writer Jerry Pournelle. Though the Pentagon won't say how far along the research is, or even confirm that any efforts are underway, the concept persists. The "U.S. Air Force Transformation Flight Plan," published by the Air Force in November 2003, references "hypervelocity rod bundles" in its outline of future space-based weapons, and in 2002, another report from RAND, "Space Weapons, Earth Wars," dedicated entire sections to the technology's usefulness. 
+
+If so-called "Rods from God"--an informal nickname of untraceable origin--ever do materialize, it won't be for at least 15 years. Launching heavy tungsten rods into space will require substantially cheaper rocket technology than we have today. But there are numerous other obstacles to making such a system work. Pike, of GlobalSecurity.org, argues that the rods' speed would be so high that they would vaporize on impact, before the rods could penetrate the surface. Furthermore, the "absentee ratio"--the fact that orbiting satellites circle the Earth every 100 minutes and so at any given time might be far from the desired target--would be prohibitive. A better solution, Pike argues, is to pursue the original concept: Place the rods atop intercontinental ballistic missiles, which would slow down enough during the downward part of their trajectory to avoid vaporizing on impact. ICBMs would also be less expensive and, since they're stationed on Earth, would take less time to reach their targets. "The space-basing people seem to understand the downside of space weapons," Pike says--among them, high costs and the difficulty of maintaining weapon platforms in orbit. "But I'll still bet you there's a lot of classified work on this going on right now." 
+
+
+A GUN THAT FIRES A MILLION ROUNDS A MINUTE 
+
+Firing a gun has always been an intensely mechanical process: Pull the trigger and a hammer strikes the back of a bullet--usually inserted into the chamber by a spring mechanism--causing explosive powder in the bullet to shoot out a slug. The slug exits the front of the barrel and another spring ejects the empty shell from the side of the gun. 
+
+For centuries, gun manufacturers have only been able to finesse the firing process, and guns remain prone to jamming, misfiring due to deterioration of moving parts, and occasional explosive failure that can kill or severely injure the soldier firing the weapon. The Australian company Metal Storm has an answer: Bring digital technology to what has been one of the battlefield's last holdouts from the electronics revolution. Metal Storm's solution--now being examined by the Department of Defense--is to remove virtually every moving part from modern guns and replace them with electronic ballistic technology and computerized controls. Bullets stacked in the barrel fire at rates of up to 60,000 rounds per minute, even a million in certain multi-barrel configurations. Coded electric signals ignite propellant embedded within each specially designed bullet. The pressure created by the small explosion pushes out the bullet while at the same time enlarging the bullet behind it, sealing the barrel and preventing the other charges from igniting until commanded to do so. 
+
+Though hand-carried versions won't fire at a million rounds per minute--no soldier would want to reload every three milliseconds--vehicle-mounted systems could. Art Schatz, the senior vice president of operations in Washington, D.C., says that if larger barrels were clustered on the back of a Humvee or in a helicopter, the result would be a powerful "area-denial" weapon. The system can be adjusted to meet various needs. "We're not talking about always firing at a million rounds per minute," Schatz says. "But if you've got one of these mounted in an aircraft and have a rocket-propelled grenade coming at you, you can in an instant have 200 little bullets intercepting it." Moreover, Metal Storm could fire nonlethal rounds such as rubber bullets--for, say, crowd dispersal. The system's key drawback: The guns require electrical power, making them yet another gadget soldiers will need to keep supplied with batteries. 
+
+The Metal Storm system has been tested on rounds ranging from 9mm to 60mm, and in a variety of weapons, including the O'Dwyer VLe (a "smart gun" with electronic safety controls, named after company founder Mike O'Dwyer), and clustered pods of barrels that achieve the million-round-per-minute numbers. The U.S. military is helping fund Metal Storm. If the Pentagon decides to adopt the weapon, it will probably enter use in 5 to 10 years--that's how long it will take for the military to design new weapons around the system, test them, and distribute them to soldiers. n 
+
+
+Eric Adams is PopSci's aviation and automotive editor.
+
+
+
+	
+	
+			
+	
+
+
+Try 2 issues of Popular Science FREE!
+
+	
+
+
+Copyright © 2004 Popular Science. A Time4 Media Company. All rights reserved. Reproduction in whole or in part without permission is prohibited. Read our Privacy Policy. 
+	
+			
+	
+ 
+ 		
+
+
+ 	
+	
+
+
+
+Watch Metal Storm in action (requires current version of RealPlayer)
+
+
+	
+
+	
+	
+
+
+
+
+Comments? Questions? Write to us.
+
+Try 2 issues 
+of Popular Science 
+FREE! 
+
+FREE weekly PopSci email newsletters 
+	
+
+	
+	
+
+

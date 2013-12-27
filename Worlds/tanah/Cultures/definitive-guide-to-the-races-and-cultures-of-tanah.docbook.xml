@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Definitive Guide to the Races and Cultures of Tanah</title>
+        <author>
+            <orgname>Organization Name</orgname>
+            <address>
+                <city>City</city>
+                <street>Street</street>
+                <postcode>000000</postcode>
+                <country>Country</country>
+            </address>
+            <email>user@example.com</email>
+        </author>
+    </info>
+    <sect1>
+        <title>Culture/Race</title>
+        <sect2 role="gm">
+            <title>External Influences </title>
+            
+            <sect3><title>Geography</title>
+                <formalpara><title>What is the climate?</title><para></para></formalpara>
+                <formalpara><title>What of this suit resources for survival?</title><para></para></formalpara>
+                <formalpara><title>What kind of clothes and shelter are needed</title><para></para></formalpara>
+                <formalpara><title>what kind of food can be so grown, hunted, caught? </title><para></para></formalpara>
+                <formalpara><title>What kinds of natural phenomenon might influence beliefs?</title><para></para></formalpara>
+                <formalpara><title>Does the climate allow only survival activities or is there for leisure developments such as art philosophy etc.?</title><para></para></formalpara>
+            </sect3>
+            <sect3><title>History</title>
+                   <formalpara><title>Events in History</title><para></para></formalpara>
+            </sect3>
+            <sect3><title>Static Forces</title>
+                <formalpara><title>Static Force</title><para></para></formalpara>
+            </sect3>
+            <sect3><title>Dynamic Forces</title>
+                <formalpara><title>Dynamic Force</title><para></para></formalpara>
+            </sect3>           
+            <sect3><title>Interactions with other cultures</title>
+                <formalpara><title>Events in History</title><para></para></formalpara>
+            </sect3>
+        </sect2>
+        <sect2 role="gm">
+            <title>Internal Influences </title>
+            <sect3><title>Economics</title></sect3>
+            <sect3><title>Social</title></sect3>
+            <sect3><title>Belief</title></sect3>
+            <sect3><title>Political</title></sect3>
+            <sect3><title>Aesthetic</title></sect3>
+        </sect2>
+        
+    </sect1>
+    <sect1>
+        <title>Native Born</title>
+        <subtitle>They are the undercurrents or the undertow.</subtitle>
+        <para>Skilled craftsman and magic workers. All close to the land but not shamanistic. In a
+            way they are a race of craftpeople</para>
+        <para>Small and dark like mexican peasants. Resistant to the cold. </para>
+        <para>Spears and Staves and Xbows.</para>
+        <para/>
+        <para/>
+    </sect1>
+    <sect1><title>Merovan</title><subtitle>Camelot with a dark twist</subtitle>
+        <para>Merova lies on the northeastern edge of the continent. Merovans are built like the
+            Norman French with many brunettes and ash blondes. Merova is the King Arthur’s court of
+            the world. Merova looks like the traditional fantasy version of feudal society composed
+            of Knights, Nobles and Ladies. Is a single kingdom with 36 strong dukes newly united
+            under one king. It has high wizards and sorcerers as well as priests and priestesses. If
+            you want to play a traditional men at arms or a knight, this is the culture to be from.
+            Women’s roles are more limited, with only priestesses easily being able to travel and
+            adventure. Typical Merovan characters would be Knights or men at arms. Priests or
+            priestesses. Thieves. Wizards and sorcerers of various types. </para><para>Norman Knights and men at Arms (Chain, Plate and Leather, Long Swords and Bastard Swords,
+        Spears and Pole Arms, Xbows rather then Self Bows) French speaking. with a large native
+        born population slowly melding in. </para>
+        <para>Ducal fiefdoms with bordering Marchers. The Arch Dukes have the population and the
+            wealth while the Marches have the arms and the pride. Their only real common ground is
+            the king. The king is from a small neglected branch of one of the Ducal families (Almost
+            Native is the phrase....). Hairochan advised and trained and guarded. Unerneath it all
+            is the Native Born.</para>
+        <para>Wizard Guilds</para>
+        <para>Temples to the Lord and Lady. Adsum Domine . Adsum Maria</para>
+        <para>Fuedalism</para>
+        <para/>
+        <para/>
+        <para/></sect1>
+    <sect1><title>Kothan</title><subtitle>Where all the women are strong and the men are good looking.</subtitle>
+        <para>The Merovan southern neighbors. The Kothan Kingdoms are a collection of clans gathered
+            under strong chiefs. Your typical Kothan is taller than average and both men and women
+            fight. The men generally tend to be large Viking types with long blonde hair and beards.
+            The women have an equal say in day-to-day life and government as well as partaking in
+            the common defense. The Kothan ability to hold off Merovan expansion is due in great
+            part to the Kothan Maiden Archers and their longbows. Typical Kothan characters would be
+            male or female warriors, oracles, healers, shamans or priests/priestesses.</para><para>Norse and Angle with Saxon common law. </para>
+        <para>Axe Thanes, Spear Maidens, Bow Maidens</para>
+        <para>Headmen, Headwomen </para>
+        <para> Shamans  ( The forest spirits and the dead asmong of, and the creatures).</para>
+        <para>Thanest - Leader of the Thanes and War Maidens (Could be male or female)</para>
+        <para>Crone /Wiseman  for Lord/Lady</para>
+        <para/>
+        <table frame="all">
+            <title>Lord and Lady</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry>Lord</entry>
+                        <entry>Lady</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Tor (Warrior, Young Buck) </entry>
+                        <entry>Sif ( Warrior and Maiden)</entry>
+                    </row>
+                    <row>
+                        <entry>... (Craftsman, Father, Provider) </entry>
+                        <entry>Freya (Hunter and Mother)</entry>
+                    </row>
+                    <row>
+                        <entry>Otin (Wiseman, Judge, Player of the Great Games)</entry>
+                        <entry>.... (Crone)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table></sect1>
+    <sect1><title>Vairman</title><subtitle/><para>Text</para></sect1>
+    <sect1><title>Dalesman</title><subtitle>Mormoms gone wild.</subtitle><para>Text</para></sect1>
+    <sect1><title>Hairochan</title><subtitle>Will given word.<abbrev/></subtitle><para/></sect1>
+    <sect1><title>Thenean</title><subtitle>Venetian trader houses "its a Clan eat Clan world"</subtitle><para>Text</para></sect1>
+    <sect1><title>Arsae</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Amaran</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Bitadari</title><subtitle>The Bitadar are bright and terrifying, dark and terrifying, or just terrifying</subtitle><para>Text</para></sect1>
+    <sect1><title>Duwan/Halfling **Analog**</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Kurrock/Dwarve</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Erlani Islanders ?</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Uru</title><subtitle>Hard partying Rastarafarian earth mages. They are lovers , not fighters. " <emphasis
+        role="italic">The Canon is my word, the order is my deed, and the single intent is
+        my state</emphasis> "</subtitle><para>Text</para></sect1>
+    <sect1><title>Winged Folk</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1><title>Tor</title><subtitle>Section1 Subtitle</subtitle><para>Text</para></sect1>
+    <sect1>
+        <title>Takeda </title><subtitle>No mind, No sword. Know mind, No-Sword</subtitle><para>Text</para>
+    </sect1>    
+    
+    <sect1>
+        <title>Section1 Title</title>
+        <subtitle>Section1 Subtitle</subtitle>
+        <para>Text</para>
+    </sect1>
+</article>

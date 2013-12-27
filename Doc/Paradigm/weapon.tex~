@@ -1,0 +1,106 @@
+\chapter{Weapons}
+
+\section{Melee Weapons}
+
+\begin{description}
+	\item[Name] Self Explanatory
+	\item[Type (T)] Whether the weapon does (most commonly) Crushing, Slicing, or Piercing
+	\item[Length (L)] The overall size in centimeters of a weapon.
+	\item[Mass (M)]	The mass of the unit in kilograms
+	\item[Speed (S)] The time it takes, in pulses, to use the weapon in a combat action.
+	\item[Accuracy (A)] Any additional bonus the weapon gets to hit for its workmanship or materials. This is usually very small.
+	\item[Damage Multiplier (DM)] The multiple times the users base that is used to produce a characters damage.
+	\item[Technological Index (TI)] The tech level in which the weapon made its 1st appearance.
+	\item[Tech Level Breakpoints:] (MASS-LENGTH-ACC-DM)
+\end{description}
+
+\clearpage
+\section{Hand to Hand Techniques}
+
+\begin{description}
+	\item[Name] Self Explanatory
+	\item[Type (T)] 	Whether the weapon does (most commonly) Crushing, Cutting, or Piercing
+	\item[Speed (S)] 	The time it takes, in pulses, to use the technique in a combat action.
+	\item[Damage Multiplier (DM)] 	The multiple times the users base that is used to produce a characters
+	damage.
+\end{description}
+
+\clearpage
+\section{Missile and Projectile Weapons}
+
+\begin{description}
+	\item[Name] The most common and correct names are given. In the cases of weapons that are very common in ther effects, only the most notable will be described.
+	\item[Configuration (Cfg)] The physical form the weapon has. Typically : Heavy Rifle, Rifle, Carbine, Pistol 
+	\item[Action (Act)] 	The type of trigger pull vs firing mechanism. Typically Single Shot, Auto Burst,	Auto, Semi Auto, Revolver.
+	\item[Type (T)]	Chemical Propellant, CW Laser, Pulse Laser, Focused Sonic, Rocket, Gauss
+	\item[Caliber (Cal)] 	The Apeture of the weapon
+	\item[Energy (NRG)]	The amount of energy the weapon delivers.
+	\item[Length (L)]	The overall size in centimeters of a weapon.
+	\item[Mass (M)]	The mass of the unit in kilograms
+	\item[Speed (S)] The time in which the weapon can be brought to bear on a target. This is the normal time involved in bring a weapon to bear on a target and needs	to be doubled if the weapon is being brought to bear on any target for the first time ( ie brought to the aiming position ) and needs to be tripled when the weapon is being drawn from a holster.
+	\item[Accuracy (A)] Any additional bonus to the chance to hit the weapon may have as a result of its design.
+	\item[Accuracy Decrement (AD)]	A measurement of how much the to hit chance of the weapon is lowered for a given amount of distance.
+	\item[Damage (D)] The base amount of dam\-age done by a given weapon
+	\item[Damage Decrement  (DD)] How much the damage of a given weapon is lowered for a given amount of distance.
+	\item[Technological Index (TI)]	The Technological Index in which the weapon made first 1st appearance.
+	\item[Tech Level Breakpoints]	(MASS-LENGTH-WA/WAD-WD/WDD)
+\end{description}
+
+\clearpage
+\section{Thrown Weapons}
+
+\begin{description}pa
+	\item[Name]
+	Self Explanatory
+	\item[Length (L)]
+	The overall size in centimeters of a weapon.
+	\item[Mass (M)]
+	The mass of the unit in kilograms
+	\item[Accuracy (A)]
+	The additional bonus the weapon gets to hit for its workmanship or
+	materials. This is usually very small.
+	\item[Accuracy Decrement (AD)]
+	The decrement per a given portion of the range that the weapon travels through
+	\item[Damage Multiplier (DM)]
+	The multiple times the entitie's PSE base that is used to produce a characters
+	damage.
+	\item[Damage Decrement (DD)]
+	\item[Technological Index (TI)]
+	The Technological Index in which the weapon made its 1st appearance.
+	\item[Tech Level Breakpoints:]
+	(MASS-LENGTH-WA/WAD-WDM/WDD)
+\end{description}
+
+\clearpage
+\section{Explosives}
+
+These are specific to blocks of explosive and weapons whose main 
+function is as an explosive device. Shrapnel is treated as a
+projectile weapon.
+
+\begin{description}
+	\item[Name]
+	Usually self explanatory
+	\item[Type ]
+	The type of process that causes its explosion. There are a wide 
+	variety : Propellant, Brisant, Gas, Electrochem, Fission, Fusion.
+	\item[Damage (DM)]
+	Each package has a base damage In the case of bulk explosive the value
+	will be given in damage / unit mass. 
+	\item[Damage Decrement (DD)]
+	The decrease in damage per unit distance. This measure is based on 
+	a situation with no atmosphere. Double the damage decrement for an 
+	Earth normal atmosphere. 
+\end{description}
+
+\begin{table}[h]
+\centering
+\caption{Explosive Affect Modifiers}
+	\begin{tabular}{ll} \hline
+		Placed Charge  & DAM = 2.5* \\
+		Shaped Charge  & DAM = 3.5* \\ \hline
+	\end{tabular}
+\end{table}
+
+
+

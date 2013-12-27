@@ -1,0 +1,2172 @@
+Sociology Home
+
+ 
+
+ 
+
+Militarist, Marxian, and Non-Marxian Materialist Theories of Gender Inequality 
+
+ 
+
+A Cross-Cultural Test
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stephen K. Sanderson
+
+Indiana University of Pennsylvania 
+
+ 
+
+ 
+
+D. Alex Heckert
+
+Indiana University of Pennsylvania 
+
+ 
+
+ 
+
+Joshua K. Dubrow
+
+Ohio State University 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Submitted to Social Forces, Sept. 10, 2003
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Abstract
+
+ 
+This study tested three types of theories of gender inequality in preindustrial societies by using half of the societies in Murdock and White’s (1969) Standard Cross-Cultural Sample: militarist, Marxian, and non-Marxian materialist theories.  The first phase of the research used simple cross-tabulations with chi-square as a test of significance and gamma as a measure of association.  The results from this phase showed no support for militarist theories, some support for Marxian theories, and substantial support for non-Marxian materialist theories.  Since the first phase involved no control variables, a second phase was conducted using multivariate analyses.  These analyses confirmed that militarist theories must be emphatically rejected, and that both Marxian and non-Marxian materialist variables help determine gender inequality.  However, non-Marxian materialist variables explain much more of the variance in gender inequality than Marxian variables. Issues with collinearity among the independent variables make it difficult to determine exactly which non-Marxian materialist variables are the strongest determinants of gender inequality. Future research should be directed at building and testing competing materialist causal models.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+Militarist, Marxian, and Non-Marxian Materialist Theories 
+of Gender Inequality: A Cross-Cultural Test
+
+ 
+
+ 
+
+Gender inequality has been a pervasive feature of human social life for millennia.  Sociologists, anthropologists, political scientists and others have wondered why the unequal access to status, power, and resources along gender lines has persisted for over 10,000 years of human history.  Many who have studied this phenomenon have aligned themselves with one or more theoretical perspectives that attempt to explain gender inequality across time and space.  Although numerous theories have been proposed, these theories have been insufficiently tested empirically, especially with quantitative data and cross-cultural.  Moreover, we have been unable to find a single study that pits competing theories against each other in a rigorous quantitative test.  This paper seeks to fill this void in the existing literature with a single study that will empirically evaluate three competing theories of gender inequality with the use of cross-cultural data on preindustrial societies: militarist, Marxian, and non-Marxian materialist theories.  
+
+ 
+
+MILITARIST THEORIES
+
+William Divale and Marvin Harris (1976) assert that warfare and militarism are the keys to understanding gender inequality.  They contend that preindustrial societies that have a high degree of warfare will also have a high degree of male bias.  When preindustrial societies must engage in warfare, those societies with the fiercest and most aggressive warriors will win most of the time.  Due to the height and weight advantages of males over females, any society that made females into warriors would have been strongly selected against in social evolution.  Therefore, any preexisting societies of female warriors have disappeared and males have evolved to monopolize warfare in all preindustrial societies.  Since societies regularly engaged in warfare want to win wars, males are trained to be fierce and aggressive.  Masculine qualities are exaggerated and feminine qualities are denigrated, out of which develops a culture of male supremacist institutions.  Just as these institutions emphasize male aggression and domination, women are “reared to be passive and to submit to the decisions concerning the allocation of their sexual, productive, and reproductive services” (Divale and Harris, 1976:526).
+
+Randall Collins (1975, 1985) also argues that theories of gender inequality need to focus on a society’s emphasis on warfare and fighting.  Collins argues that warfare and fighting are cultural universals.  Societies differ, however, in their level of military technology and the degree of military threat from inside and outside their borders.  The degree of gender inequality is related to the level of military technology and degree of internal and external military threat.  Like Divale and Harris (1976), Collins contends that males tend to monopolize activities that require physical strength.  In societies where there are low levels of military technology, such as the prevalence of hand-to-hand, sword, or other forms of close-quarter combat, men tend to dominate combat.  With few exceptions, men monopolize military technology.  Moreover, if a society’s political structure is closely associated with organizing military activities and is constantly threatened with warfare from neighboring societies, then males will tend to dominate the political structure.  With a monopoly on the political structure centered on organizing the military and a control over the weapons used in combat, men also tend to be unequally favored in the gender stratification system.  In societies where there are high levels of military action and low levels of technology, men will tend to have greater access to status, wealth, and prestige. While Collins intended his theory to pertain to a wide range of societies, it was especially developed to explain the very low status of women in agrarian societies, where militarism and war are usually rife.
+
+            Tests of the militarist hypothesis have been rare.  Divale and Harris attempted to provide evidence for their claims through the analysis of sex ratios, but this was at best an indirect test and fell far short of what was needed.  Collins has offered no systematic data to support his claims.  Instead, he has relied mostly on a qualitative review of historical literature and has produced mostly impressionistic evidence.  Neither Divale and Harris nor Collins has provided a strong empirical basis for their arguments.  
+
+            Martin King Whyte (1978) did a cursory empirical analysis of the militarist theory and other hypotheses of gender inequality.  Whyte selected a subsample of Murdock and White’s (1969) Standard Cross Cultural Sample (SCCS) and created a set of 10 dependent variable scales to test various hypotheses pertaining to gender inequality.  For brevity’s sake, we will focus on three of Whyte’s  scales: the “domestic authority of women,” which is a measure of the scope of influence women have in the domestic sphere; “male control of female sexuality,” which is a measure of the level of control men exert over women’s sexual and marital lives; and “ritualized female solidarity,” which is a measure of the ability of women to form solidarity groups.  
+
+            The only measure of warfare used by Whyte was “frequency of intercommunity warfare.” This measure of warfare was moderately associated with the domestic authority of women (gamma = .44) and male control over female sexuality (gamma = .36,) and weakly associated with female solidarity (gamma = .14).  However, although two of the relationships are substantial, they are in the opposite direction from that predicted.  The theory predicts that as warfare increases, women’s status should decline rather than improve.  Yet the empirical associations are positive: as the frequency of intercommunity warfare increased, the status of women also increased. Thus the militarist hypothesis is strongly overturned by Whyte’s data.  
+
+ 
+
+MARXIAN THEORIES
+
+Karl Marx himself never fully addressed the status of women in his writings (Vogel, 1983).  Contemporary Marxists, seeking to explain gender inequality and gender stratification, look to Friedrich Engels’s 1884 book The Origin of the Family, Private Property, and the State.  Like his intellectual partner, Engels believed that one must look to the economic structure of a society in order to understand sociocultural phenomena. Social equality comes with the communal ownership of the means and products of labor.  Social status is tethered to a person’s relationship to the means of production.  Specifically, those who own and control the means of production are afforded the highest levels of prestige and power.  Gender inequality, then, is rooted in the lack of ownership and control of the means and products of labor by women.       
+
+            True to Marx’s conception of historical materialism, Engels saw social evolution as a path from communal to capitalist.  Under primitive communism, according to Engels, ownership and control of the products of labor were enjoyed equally by both sexes.  In communal “production for use” societies, the contributions that each sex made were to subsistence only.  This type of economy produced no surplus and lacked private ownership of property.  For women, this meant joint ownership and control of the means and products of their own labor.  Engels noted that women had political power and greater chances for female solidarity in these types of societies (Engels 1970[1884]). 
+
+            As the material conditions of society changed, so too did the status of women.  Over time the communal economy changed to one based on private property.  The mode of production changed from a subsistence economy to an exchange economy whereby members of a family would go outside the home to sell surplus goods and resources.  It became the job of men to perform the exchange.  This left women to become domestic servants, tending to house cleaning and child rearing. As the economy changed, so too did women’s relationship to the means of production as women were slowly divorced from ownership and control.  In the new exchange economy, women worked for their husbands, and their domestic duties, although defined as important, were not considered as socially important as the jobs performed by men.  Women’s new domesticated status became less socially visible, and women themselves had fewer chances for group solidarity.  Women’s status plummeted.
+
+            Two fundamental problems with Engels’s theory can be identified.  First, since Engels had little anthropological literature to draw upon, he was not aware that the primitive communal societies he thought were havens of gender equality were in fact male dominated, and sometimes intensely so.  Second, Engels never explained why men should have taken control of the means of production once private property arose.  Despite these difficulties, however, it is still possible that a suitably revised version of Engels’s theory could be correct.  Even though all societies have been to some extent male dominated, the status of women could have declined throughout social evolution.  This is a testable proposition. 
+
+            Karen Sacks (1975) has built and elaborated on Engels’s work.  According to Sacks, as societies moved from a communal mode to an incipient class mode, perceptions of women’s kinship roles changed.  Social adulthood began with ownership and control over the means of production.  Starting out as “sisters,” and as adult members of society on par with men in the communal hunter-gatherer society, women were perceived as integral to the mode of production.  Sacks states that “women are social adults where they work collectively as part of a productive group larger than or separate from their domestic establishment” (1975:228).  As society moved towards the exchange economy, women were gradually perceived as “wives,” and less as social adults.  These “wives” largely performed domestic tasks in the home.  As women were perceived more and more as wives and the property of husbands, women became only indirectly related to the means of production.  The means of production became the domain of men.  This gradual diminution of their importance to the means of production meant a gradual dimininution of the economic power that women held in society, and hence a declining status. 
+
+                There have been several attempts to test Engels’s theory.  Overall, Whyte (1978) did not find much empirical support for his argument.  In his data set, Whyte used the variable “existence of significant private property rights,” which yielded gammas of -.17, .00, and -.51, respectively, when it was correlated with the dependent variables domestic authority, female solidarity, and male control of female sexuality. Only one of these is of an interesting magnitude. Whyte also used the independent variables “inheritance rights,” “women’s subsistence contribution,” “control over the fruits of female labor,” “control over the fruits of joint labor,” and “control over the fruits of male labor.”  When correlated with the three dependent variables, inheritance rights yielded low gammas of .27, .27, and -.15, the last of which is pointing in the wrong direction.  Women’s subsistence contribution generated very low gammas of .00, -.01, and .13. Control over the fruits of joint labor produced gammas of .54, -.24, and -.01.  This apparently means that when both men and women jointly control the fruits of their combined labor, women have high domestic authority, but have a slightly lowered ability to form female solidarity groups.  Control over the fruits of male labor yielded gammas of .39, .08, and .05, and control over the fruits of female labor yielded gammas of .54, -.01, and -.24.  Apparently as women control the fruits of their own labor, they have relatively high domestic authority; but controlling these fruits has no relationship to ritualized female solidarity and actually increases men’s control of their sexuality.  These results are weak support at best for Engels’s theory.  
+
+            Unfortunately, Whyte relegated his test of Engels’s argument to a footnote, and he made two errors in operationalizing the necessary concepts.  First, his use of the independent variable “women’s subsistence contribution” is inappropriate as a Marxian concept.  It is better suited for a non-Marxian materialist argument because women’s subsistence contribution does not necessarily involve the relationship of the sexes to ownership or control of the means of production.  Second, in testing Engels’s theory Whyte did not include the variable “social stratification,” which is a measure of the existence of wealth distinctions within a society.  It can be argued, and Marxists have, that the institutionalization of wealth distinctions is the hallmark of the change in the mode of production.  In fact, Engels specifically mentions the growth of class distinctions as contributing to the fall of women’s status.  Elsewhere Whyte examined the relationship between social stratification and gender inequality, and he found moderate gammas of -.36, -.33, and -.28, meaning that when societies become stratified and/or increase in stratification women have less domestic authority, are less able to form solidarity groups, and suffer stricter controls over their sexuality.  These are consistent with Engels’s argument.
+
+            Lewellyn Hendrix and Zakir Hossain (1988) also used Whyte’s subsample to test the Marxian theory.  Hendrix and Hossain operationalized Sacks’s conception of gender inequality along with the other variables needed to test her theory.  There were two independent variables used.  One independent variable, “mode of production,” was operationalized in a twofold way: type of descent pattern prevalent in a society and the level of social stratification.  In the communal mode neither stratification nor unilineal descent groups are usually found; in the kin corporate mode there is more likely to be both stratification and unilineal descent; and in the incipient class mode there is a high level of stratification with class distinctions, but unilineal descent may or may not be present.  The second independent variable was “women’s property control,” which was modified from Whyte’s work and is a combination of women’s inheritance rights, dwelling ownership, and control of the fruits of women’s, men’s, and joint labors. Hendrix and Hossain used eight of Whyte’s variables to measure the status of women: female leadership in non-kin contexts, female kin-group or extended family leadership, women’s domestic authority, presence or absence of wife beating, control of women’s marital and sex lives, individual marital freedom, machismo concerns, and belief in female inferiority.
+
+            After operationalizing the variables, Hendrix and Hossain computed statistical associations to test Sacks’s argument.  The gammas that the authors obtained generally did not support Sacks’s theory, as only three of the eight dependent variables correlated above .20 with the mode of production variable.  Two of those that did correlate above .20 were low to moderate.  Female leadership in non-kin contexts had a gamma of .21, wife beating .34. Only one, belief in female inferiority, had a gamma that was relatively strong (.51). The gammas between the dependent variables and women’s property control were similar to the gammas between the dependent variables and mode of production, with only female kin group or extended family leadership (.42), women’s domestic authority (.35), and control of women’s marital and sex lives (.27) above the .20 mark. 
+
+ 
+NON-MARXIAN MATERIALIST THEORIES
+
+According to materialist theories, ecological, technological and economic factors are the most important determinants of women’s status.  The rubric “non-Marxian materialist theories” is a convenient categorization that can be used to highlight the major differences between Marxian and other materialist theories that explain gender stratification (Sanderson, 1999). 
+
+            Martin and Voorhies (1975), working within the broad framework of Marvin Harris’s (1979) cultural materialist perspective, see gender roles as adaptive results of economic, technological, and economic arrangements.  A society’s division of labor by gender will be a reflection of the suitability of each sex to particular kinds of economic tasks.  For example, in hunter-gatherer societies men specialize in hunting and women in gathering.  This is because women are the primary child care providers and gathering is much easier for women to perform because of its compatibility with child care.  This leaves the hunting role for men, whose child care responsibilities are minimal.  In large-scale agricultural societies, the heavy time, energy, and strength requirements of most agricultural work make men more suitable for it, and they dominate economic production in these societies.  Once the sexual division of labor is set, the extent to which men control production will determine their degree of power and dominance.  Women seem to do best in hunter-gatherer societies, where they play a very important role as gatherers, and worst in agrarian societies, where men dominate agricultural production and women are heavily burdened with child care responsibilities.  The modes of descent and postmarital residence also help to determine women’s status, and they are intertwined with other material conditions. Women do better in matrilocal and matrilineal societies than in those that are patrilocal and patrilineal.  
+
+            Janet Saltzman Chafetz (1984) also links material conditions to women’s status in preindustrial societies.  According to Chafetz, “the degree of sex stratification is a direct function of the extent to which the organization of production permits women to contribute to the production of valued resources and to control the output of such production” (1984:21).  Arguing that technological, ecological, and demographic variables are the primary factors influencing sex stratification, Chafetz aligns herself closely with thinkers like Martin and Voorhies.  She also views economic power, however, as an important component of the status of women. 
+
+            Like Chafetz, Rae Lesser Blumberg (1984, 1991) argues that women’s level of economic power is an important factor.  Blumberg conceptualizes economic power “as relative control of the means of production and allocation of surplus” (1984:25).  As for the conditions that determine women’s level of economic power, Blumberg identifies three.  First, there is the strategic indispensability of women’s labor (Blumberg 1984, 1991).  Women’s value in the labor force is measured by how much they contribute to the diet of the society, to what extent they hold technical expertise in the means of production, and to what extent they are free from male supervision.  Also, a surplus in the labor market causes the value of women’s labor to drop.  Where women’s labor is in demand, the status of women rises.  Second, a society’s modes of descent and postmarital residence will affect female economic power.  Blumberg argues that when inheritance lines are matrilineal, women have more say concerning the allocation of family resources and are therefore placed in a more central position.  Matrilocal societies tend to produce more female solidarity, since mothers, daughters, and sisters are living together in the same family compounds and bringing in their husbands to live with them. Finally, the stratification system has an impact on female economic power.  The more stratified the society, the less economic power women tend to have. (This last determinant of women’s economic power actually gives Blumberg a connection with the Marxian theory of gender.) 
+
+            A number of Whyte’s hypotheses and independent variables fall within the non-Marxian materialist category.  Whyte found that the use of the plow correlated (gamma) -.55, -.65, and -.65 with the domestic authority of women, female solidarity, and male control over female sexuality, respectively.  The importance of animal herding yielded gammas of -.40, -.29, and -.14, respectively.  Women’s overall subsistence contribution yielded extremely low gammas of .00, -.01, and .13.  Whyte’s analyses therefore provide mixed empirical support for a non-Marxian materialist perspective.
+
+ 
+AN INTEGRATED THEORY
+
+Collins, Chafetz, Blumberg, Coltrane, and Turner (1993) have attempted to draw many of the kinds of factors discussed so far into a much more comprehensive, synthesized theory of gender inequality.  They also invoke some additional factors, especially those involving sexual politics and the gender organization of reproduction.  This is a very noteworthy and laudable attempt.  However, what they end up with is an extremely complex set of flow diagrams and models that would likely prove extraordinarily difficult it not impossible to test, especially given the kinds of data that are available.  Indeed, they provide no empirical tests of their models at all, although they do suggest that it is important to do so in the future.  Suffice it to say that many of the variables they emphasize are being considered here; it is mainly the lack of sufficient data that has caused us to exclude others. 
+
+ 
+HYPOTHESES AND METHODS
+
+Hypotheses
+
+On the basis of these three major theories, we formulate three major hypotheses. 
+
+Hypothesis 1: The greater the prevalence of warfare, the lower the status of women.
+
+Hypothesis 2a: The greater the control women have over the products of their own 
+
+labor, the higher their status.
+
+Hypothesis 2b: The greater the level of stratification, the lower the status of 
+
+women.
+
+Hypothesis 3a: The greater the contribution of gathering to the total food supply, the 
+
+higher the status of women. 
+
+Hypothesis 3b: The greater the contribution of women to overall subsistence, the 
+
+higher their status.
+
+Hypothesis 3c:  In agricultural societies, the greater the contribution of women to
+
+agricultural labor, the higher their status.
+
+Hypothesis 3d: In agricultural societies, the greater the intensity cultivation the   
+
+lower the status of women.                      
+
+Hypothesis 3e:  In patrilineal societies the status of women will be lower than in
+
+nonpatrilineal societies.  
+
+Hypothesis 3f:  In patrilocal or virilocal societies the status of women will be 
+
+lower than in nonpatrilocal or nonvirilocal societies. 
+
+ 
+Data
+
+The data set used to test these hypotheses is Murdock and White’s (1969) Standard Cross-Cultural Sample (SCCS), which contains 186 preindustrial societies.  To make the SCCS a representative sample, Murdock and White divided the world into 186 regions and then selected one society from each of the regions.  Region selection was intended to solve “Galton’s problem” of cultural diffusion.  Assuming that diffusion can and will occur when two cultures are in contact with each other, Galton’s problem suggests that any sample could be potentially biased by cultural diffusion.  Murdock and White solved the problem by selecting regions that were separated by one or more significant geographical boundaries, boundaries that would limit or eliminate contact between neighboring societies.  Within each region, the society that was selected was the best documented society. This means that the SCCS is, strictly speaking, a nonrandom (but nonetheless highly representative) sample.
+
+            Anthropologists, missionaries, and others have recorded the information about the societies of the SCCS.  All ethnographies were gathered prior to 1950 and in most cases before significant impact was made by industrial societies.  For example, information on the Nama Hottentot was collected “for 1860, just prior to their decimation and loss of independence in the Herero war” (Murdock and White 1969:354), and data on the Thonga were collected “in 1895, at the beginning of Junod’s missionary field work” (1969:354).
+
+In 1978, Whyte created gender status variables for the SCCS.  In the interest of saving an enormous amount of time and effort, Whyte coded every other society starting with Nama Hottentot and concluding with Tehuelche until he had 93 with which to work.  Whyte then created a set of 52 dependent variables.  For purposes of simplification, Whyte reduced the number of dependent variables by using cluster analysis.  This yielded 10 dependent variable scales.  The dependent variable scales are the ones Whyte used in his own research on women’s status.  
+
+ 
+Dependent Variables
+
+We used three of Whyte’s dependent variable indices as measures of the status of women in preindustrial societies.  These scales were chosen over Whyte’s other scales for two reasons.  First, they had the strongest correlations with the independent variables in Whyte’s own empirical analyses, which suggests that they are the three best measures of women’s status.  Second, they most clearly operationalize the concepts in the theoretical categories that we test.  We also summed
+the three measures to create a composite measure of gender inequality.  The dependent variable indices are:
+
+1.      Domestic authority of women, which is a cluster of  three dependent variables:  final authority over infants, final authority over children, and lack of male dominance over wives.  This scale has an average interitem correlation of .375. It is coded low, medium, and high, where the higher the score the more domestic authority women have.
+
+2.      Ritualized female solidarity, which is a cluster of five dependent variables: exclusively male work organizations, exclusively female work organizations, menstrual cycle taboo, female initiation ceremonies, and lack of a belief in female inferiority.  This scale has an average interitem correlation of .247. It ranges from low to medium to high, where the higher the score the greater the ritualized separation between men and women.
+
+3.      Control over women’s marital and sexual lives (referred to in this paper as “male control over female sexuality”), which is a cluster of four dependent variables: lack of a premarital double standard, lack of an extramarital double standard, remarriage ease, and relative age at first marriage. This index of male control over female sexuality  hassexuality has an average interitem correlation of .242 and is dichotomized into more strict and less strict levels of control.
+
+4.       Composite gender inequality variable, which is a summed index of the other three independent variables (Cronbach’s alpha = .41).  We created this variable to strengthen the measurement of gender inequality by creating a more sensitive measure of gender status across societies. 
+
+ 
+Independent Variables
+
+ 
+
+Three variables from the SCCS data bank were used to measure warfare:
+
+ 
+
+Internal warfare: Warfare fought in and around a society’s own territories (trichomized 
+
+into infrequent, frequent, and continual).
+
+External warfare: Warfare fought at considerable distances from a society’s own 
+
+territories (very low, low, moderate, high, very high).
+
+Overall warfare: Operationalized as the average of internal and external warfare (very 
+
+low, low, moderate, high, very high).
+The Marxian hypothesis was measured by two independent variables:
+
+Female economic control of the products of their own labor (absent, present).
+
+Class stratification (egalitarian, wealth distinctions only, elite or dual, complex).
+
+The non-Marxian materialist hypothesis and its subtypes were measured by the following independent variables:
+
+Percent contribution of gathering to the food supply (none, less than 10%, less than 50% 
+
+and less than any other, less than 50% but more than any other, more than 50%).
+
+Subsistence type (foraging, shifting cultivation with digging sticks, shifting cultivation 
+
+with metal hoes, intensive agriculture without the plow, intensive agriculture with 
+
+the plow).
+
+Percent contribution of women to overall subsistence (low, moderate, high).
+
+Percent female contribution to agriculture (0-10%, 20%-40%, 50%-60%, 70% or more).
+
+Intensity of cultivation (no agriculture or casual agriculture, extensive cultivation or 
+
+horticulture, intensive agriculture with or without irrigation).
+
+Use of the plow (absent, present).
+
+Patrilineality (yes, no)
+
+Patrilocal or virilocal residence (yes, no).
+
+ 
+Data Analysis
+
+The data analyses were performed in two stages.  First, we used ordinary chi-square tests as a test of statistical significance, and gamma as a measure of association for bivariate analyses.  Thirty-nine bivariate cross-tabulations were conducted to test the hypotheses, one for each combination of an independent and a dependent variable and each hypothesis.  To control for potential spuriousness, in the second stage of the analysis we conducted a series of multivariate analyses, one for each of the original dependent variables.  For the two dependent variables that were ordinal, domestic authority of women and ritualized female solidarity, we used ordered (proportional odds or cumulative) logistic regression.  We also computed unordered multinomial logistic regression equations for comparison.  For all models, significance tests suggested that the unordered multinomial logistic regression equations were unnecessary, so results are shown for the ordered logistic regression models.  For the dichotomous dependent variable, male control over female sexuality, we used binary logistic regression.  For the composite gender inequality variable, which ranged in value from 3 to 9, we used ordinary least squares regression.
+
+ 
+Building the Models
+
+For all four dependent variables, we ran a series of ordered, hierarchical models, with the warfare variables entered first into the model, followed by the Marxian variables, and then the non-Marxian variables.  Because of the small sample size, to preserve degrees of freedom, and to minimize problems with multicollinearity, we used a stepwise approach by testing the effect of each independent variable in each block one at a time.  Because of the small sample size and low power, we retained any independent variable that achieved a one-tailed significance level of p < .10 (see Hosmer and Lemeshow, 1989). Variables not achieving a significance level of .10 for entry were not included in the final models.  Because the bivariate analyses gave no support for the warfare hypotheses, we entered warfare variables into the models first to give them the greatest opportunity to be included in the final models.  We entered the Marxian variables next, because we wanted to give credit for any mutually (with other materialist variables) explained variance to the Marxian variables, rather than the non-Marxian materialist variables.  This strategy provided the most conservative test of the non-Marxian materialist theories.  We felt our ordered strategy was the most effective way to “pit” the three theories against one another.  In a sense, non-Marxian materialist theories are not contradictory to Marxian explanations; they build upon Marxist explanations.  Therefore, if non-Marxian materialist variables were not predictive above and beyond Marxian variables, then this would provide greater support for Marxian models and suggest other materialist variables are not necessary to understanding gender inequality.  However, if non-Marxian materialist variables were significant determinants of gender inequality after controlling for significant Marxian variables, we could conclude that Marxian theory by itself is inadequate to explain gender inequality.
+
+ 
+RESULTS
+
+Phase 1: Bivariate Results
+Warfare Hypothesis
+
+Table 1 shows the bivariate results that test the hypotheses discussed earlier.  The results of the nine tests of the warfare hypothesis show that the warfare hypotheses must be emphatically rejected.  All but one of the associations between warfare and gender inequality are not significant, and the one association that is significant is positive (gamma = .54; p < .01, between internal warfare and male control of female sexuality), which is in the opposite direction predicted by the warfare theory.  In fact, five of the nine associations are in the opposite direction from that which was predicted.  The assertion by Divale and Harris and by Collins that the greater the level of warfare, the lower the status of women, has no empirical support.  It is true that men dominate the means of warfare, but this does not necessarily prevent women from having a relatively high degree of domestic authority, less strict controls on their sexuality by men, or the ability to form solidarity groups.
+
+            Divale and Harris’s version of the warfare hypothesis focuses on band and tribal societies, whereas Collins is concerned mainly with militarism and warfare in large-scale agrarian societies.  Therefore, we computed separate correlations for three different types of societies (results not shown).  For hunter-gatherer societies, overall warfare was moderately correlated with female domestic authority (r = -.32), but this was the only correlation that supported the warfare hypothesis.  Overall warfare correlated .24 with female solidarity and .25 with male control of female sexuality; and even more strikingly, external warfare correlated .49 with female solidarity and .52 with male control of female sexuality.  These correlations are in the opposite direction from that predicted by the theory.  
+
+            For horticultural societies, female domestic authority and male control of female sexuality were uncorrelated with warfare, but ritualized female solidarity correlated .45 with overall warfare.  Finally, for agrarian or intensive agricultural societies, female domestic authority and female solidarity were not correlated with warfare, but male control of female sexuality correlated .38 with overall warfare and .55 with external warfare.  Once again, however, all of these correlations were in the opposite direction from that predicted by the theory.  Thus, there does not appear to be an interaction effect between type of society and warfare, driving yet another nail into the warfare theory’s coffin.
+
+ 
+Marxian Hypotheses
+
+Table 1 shows six tests of the Marxian hypotheses.  The first three tests used the independent variable, “female economic control of products of their own labor.”  Of these tests, only the one using female solidarity as the dependent variable was statistically significant and in the direction predicted by the theory (gamma = .53; p < .01).  The next three tests used class stratification as the independent variable.  Although the relationships are in the predicted direction, only one (involving domestic authority of women) was statistically significant and of moderate strength (gamma = -.41; p < .01).  In sum, the Marxian hypotheses are only partially supported since only two of the six statistical tests were significant.  Even if we ignore the statistical tests of significance and focus on the effect sizes (because of the non-probability sample), only two of the relationships were of moderate size.
+
+ 
+Non-Marxian Materialist Hypotheses
+
+The 21 tests of the non-Marxian materialist hypotheses are shown in Table 1.  Slightly over half of these tests were statistically significant and had moderate to strong gammas.  The variables that were most highly correlated with the dependent variables were use of the plow, subsistence type, female contribution to agriculture, patrilocality/virilocality, and intensity of cultivation.  Across all three dependent variables, the average correlation for each of these independent variables was, respectively, .57, .43, .38, .38, and .36.  The only non-Marxian materialist variable that was clearly not associated with gender inequality was women’s contribution to subsistence (average r = .06).  
+
+ 
+Summary of Bivariate Results
+
+In this preliminary segment of the research, there were 39 total tests of 3 sets of hypotheses (13 independent variables each being associated with 3 dependent variables).  The warfare hypothesis received no support at all, failing to achieve statistical significance in any of its statistical tests.  The Marxian hypothesis had some support, with 33 percent of the 6 statistical relationships being significant.  The non-Marxian materialist hypothesis clearly achieved the best support, with 58 percent of the 21 statistical tests being significant.  We can also look at the results in terms of which independent variables were significantly associated with at least 2 of the dependent variables.  None of the independent variables that were part of the warfare or Marxian hypotheses were significantly associated with at least 2 of the dependent variables, but 4 of the 7 non-Marxian materialist independent variables were significantly associated with at least 2 of the 3 dependent variables.
+
+ 
+
+Phase 2: Multivariate Results
+
+Male Control of Female Sexuality
+
+The multivariate results for the male control of female sexuality are presented in Table 2, along with the zero-order logistic regression results.  As the results show, only four independent variables were significant at the bivariate level.  Only one independent variable, intensity of cultivation, was significant net of the other variables in the model.  Societies with a lower intensity of cultivation are more likely to give higher status to women, which is supportive of a non-Marxian materialist explanation.  None of the warfare variables and Marxian variables was an important determinant of male control of sexuality.  The pseudo R square was low (4%), and the model accurately classified only 64 percent of the cases, suggesting that the ability of the independent variables to explain male control of female sexuality was quite modest.
+
+ 
+
+Domestic Authority of Women
+
+The multivariate results for domestic authority of women are shown in Table 3.  Results from the ordinary least squares regression are shown because the results are quite similar (and conclusions the same) to the ordered logistic regression. Although 8 independent variables were significant at the bivariate level, only 3 variables were significant in the multivariate model.  Societies with greater class stratification, intensive agriculture, and patrilocal or virilocal residence were more likely to have lower levels of domestic authority for women.  None of the warfare variables was a significant determinant of domestic authority.  The one significant Marxist variable, class stratification, explained 14 percent of the variance, while the 2 significant non-Marxian materialist variables, subsistence type and locality of residence, explained an additional 11 percent of the variance.  Thus, the overall model explained a rather robust 25 percent of the variance.
+
+ 
+
+Female Solidarity
+
+Multivariate results for female solidarity from the ordinary least squares regression are shown in Table 4 because they were quite similar to the ordered logistic regression models.  Although 11 independent variables were significant at the bivariate level, only 4 were statistically significant in the multivariate models.  Societies with greater female economic control, lower levels of class stratification, greater female contribution to agriculture, and nonpatrilineal descent were more likely to have higher levels of female solidarity.  None of the warfare variables was a significant determinant of female solidarity.  The 2 Marxian variables, female economic control and class stratification, were significant determinants of female solidarity, and together they explained a robust 29 percent of the variance.  Two non-Marxian materialist, female contribution to agriculture and patrilineality, were significant determinants of female solidarity.  Together, they increased the explained variance in female solidarity by 11 percent to a very robust 40 percent for the overall model. 
+
+ 
+
+Composite Gender Inequality Variable
+
+Multivariate results from ordinary least squares regression equations for the composite gender inequality variable are shown in Table 5.  Although 9 independent variables were significant at the bivariate level, only 2 were significant in the final multivariate model.  Societies with intensive agriculture and in which females made a lesser contribution to agriculture had higher levels of gender inequality.  Societies which had a higher level of class stratification also had higher levels of gender inequality, although that Marxian variable was not statistically significant in the final model, once non-Marxian materialist variables were allowed to enter.  None of the warfare variables was a significant determinant of gender inequality.  A Marxian variable, class stratification, explained 21 percent of the variation in the composite measure of gender inequality.  The non-Marxian materialist variables increased the explained variance by 17 percentage points to a very robust 38 percent in the final model.
+
+            When pairwise deletion of data was used (results not shown), the results were very similar, although use of the plow and intensity of cultivation were also statistically significant and the total  explained variance was 52 percent.  
+
+ 
+
+Summary of the Multivariate Results
+
+The multivariate results support the conclusion that warfare variables do not determine dimensions and levels of gender inequality.  Marxian variables, on the other hand, do explain modest amounts of the variance in gender inequality.  Non-Marxian materialist variables consistently contribute significant and substantial amounts to the explanation of gender inequality.
+
+            To provide a more definitive test of the relative effects of the Marxian vs. the non-Marxian materialist variables, an additional set of multivariate analyses was performed.  In this case the non-Marxian materialist variables were entered first, the Marxian variables second, and the militarist variables at the end.  With respect to women’s domestic authority, the non-Marxian materialist variables accounted for 11 percent of unique variance, the Marxian variables for 3 percent of unique variance, and the two sets of variables mutually explained 11 percent of the variance.  In looking at the female solidarity variable, the non-Marxian materialist variables accounted for 11 percent of unique variance, Marxian variables accounted for 12 percent, and they mutually explained 17 percent of the variance.  Finally, in looking at the composite gender variable, the non-Marxian materialist variables accounted for 17 percent of unique variance and the two sets of variables mutually explained 20 percent of the variance.  The Marxian variable class stratification explained only 1 percent of unique variance, and this was not statistically significant. When the militarist variables were entered at the very end, they failed to explain any of the variance in the gender variables.
+
+            The results thus suggest that, although the Marxian variable class stratification has explanatory importance, overall the non-Marxian materialist variables are clearly substantially more powerful in explaining variations in gender status in our sample of societies. The average unique variance explained by the non-Marxian materialist variables across all dependent variables (excluding control of female sexuality) was 13 percent, whereas the average unique variance explained by the Marxian variables was only slightly more than 5 percent. The mutual explained variance across the same dependent variables averaged 16 percent.  This gives us a total variance explained of 34 percent, which is quite robust, especially when considering the weak measurement of the dependent variables. 
+
+ 
+CONCLUSIONS
+
+This study empirically tested three major types of theories of gender inequality in preindustrial societies.  Militarist theories received no support at all.  We found no evidence that warfare lowers the status of women, as these theories suggest.  Marxian theories receive some support, with class stratification being a consistent determinant of the status of women.  It is non-Marxian materialist variables, however, that consistently receive the most support across all of the bivariate and multivariate analyses. Women tend to do best in societies with modes of production that are relatively unintensive.  When the mode of production is more intensive, women do better if they make an important contribution to agricultural production.  Women do worse when the residence system is patrilocal and the descent system patrilineal.  
+
+Issues with collinearity among the independent variables make it difficult to determine exactly which specific non-Marxian materialist variables are the strongest determinants of gender inequality. We argue, therefore, that scholars should concentrate on developing materialist causal explanations of gender inequality that include class stratification and various non-Marxian materialist factors.  Future research should be directed at building and testing competing materialist causal models.  To the extent that suitable data can be found, additional materialist factors, especially those involving sexual politics and the gender organization of reproduction, should be included in the models, as suggested by Collins et al. (1993).   
+
+            Perhaps the most significant limitation of this study is the weak level of measurement of the explanandum.  We used three measures of the status of women in addition to a composite measure, but these were not ideal measures of gender inequality.  The interitem correlations within each measure were relatively low, and the measures correlated only weakly among themselves.  Nonetheless, the SCCS is the only cross-cultural sample that we know of that includes gender status variables of any type.  Moreover, random measurement error reduces the size of statistical relationships.  With more reliable measures, the relationships we observed would very likely be stronger.
+
+            Another limitation of the present study is that it focused only on preindustrial societies, the majority of which were preliterate bands and tribes.  There were a small number of large-scale agrarian societies in the sample, and no industrial societies at all in the strict sense (although a few rural villages within industrial societies were included).  Can our findings for preindustrial societies be extended to modern industrial settings?  We think they can.  In most agrarian societies of the past, women have been largely excluded from the extradomestic productive realm, and the majority of their labor has been devoted to domestic and child rearing activities (Martin and Voorhies, 1975).  But advanced industrial capitalism has been responsible for bringing women back into the productive realm outside the home.  Just after World War II only about 11 percent of married women with small children were in the paid labor force, but this number had skyrocketed to 45 percent by 1980 and had increased to almost 64 percent by the mid-1990s (U.S. Department of Commerce, 1975; U.S. Bureau of the Census, 1996).  Harris (1981) has argued that the women’s movement and the transformation of gender roles that has occurred in the second half of the twentieth century were both closely linked to this movement of married women into the economy.  In Blumberg’s terms, this increased their level of economic power and autonomy by giving them a paid wage or a salary, resources they could use to negotiate with men (in friendly or unfriendly ways) for an enhanced social status.  A definitive statistical analysis is lacking, but the data are suggestive nonetheless.  This should be an important future project for sociologists of gender. 
+
+ 
+
+ 
+REFERENCES
+
+ 
+Blumberg, Rae Lesser.  1984.  “A general theory of gender stratification.” In Randall Collins (ed.), 
+
+            Sociological Theory 1984.  San Francisco: Jossey-Bass.
+
+_____.  1991.  “Income under female versus male control:  Hypotheses from a theory of gender 
+
+            stratification and data from the Third World.” In R. L. Blumberg (ed.), Gender,Family, and 
+
+            Economy.  Newbury Park, CA: Sage.
+
+Chafetz, Janet Saltzman.  1984.  Sex and Advantage.  Totowa, NJ: Rowman & Allanheld.
+
+Collins, Randall.  1975.  Conflict Sociology: Toward an Explanatory Science.  New York: Academic 
+
+            Press.
+
+_____.  1985.  Sociology of Marriage and the Family: Gender, Love, and Property. Chicago: Nelson-Hall.
+
+Collins, Randall, Janet Saltzman Chafetz, Rae Lesser Blumberg, Scott Coltrane, and Jonathan H. Turner. 
+
+1993. “Toward an integrated theory of gender stratification.” Sociological Perspectives 36:185-216.
+
+Divale, William Tulio, and Marvin Harris.  1976.  “Population, warfare, and the male supremacist
+
+            complex.”  American Anthropologist 78:521-538.
+
+Engels, Frederick.  1970.  The Origin of the Family, Private Property, and the State.  Ed. Eleanor
+
+             Burke Leacock.  New York: International Publishers. (Originally published 1884).
+
+Harris, Marvin.  1979.  Cultural Materialism: The Struggle for a Science of Culture. New York:
+
+             Random House.
+
+_____. 1981. America Now: The Anthropology of a Changing Culture. New York: Simon & Schuster. 
+
+Hendrix, Lewellyn, and Zakir Hossain.  1988.  “Women’s status and mode of production: A cross-
+
+            cultural test.”  Signs: Journal of Women in Culture and Society 13:437-453.
+
+Hosmer, D. and S. Lemeshow. 1989. Applied Logistic Regression. New York: Wiley.
+
+Martin, M. Kay, and Barbara Voorhies.  1975.  Female of the Species.  New York: Columbia 
+
+            University Press.
+
+Murdock, George P., and Douglas R. White.  1969.  “Standard Cross-Cultural Sample.”  Ethnology
+
+              8:329-369. 
+
+Sacks, Karen.  1975.  “Engels revisited:  Women, the organization of production, and private 
+
+            property.”  In Rayna R. Reiter (ed.), Toward an Anthropology of Women.  New York:
+
+             Monthly Review Press.
+
+Sanderson, Stephen K.  1999.  Macrosociology: An Introduction to Human Societies.  4th edition.
+
+             New York: Longman.
+
+U.S. Bureau of the Census. 1996. Statistical Abstract of the United States. Washington, DC: U.S. Government Printing Office. 
+
+U.S. Department of Commerce. 1975. Historical Statistics of the United States. Washington, DC: U.S. Government Printing Office. 
+
+Vogel, Lise.  1983.  Marxism and the Oppression of Women.  New Brunswick, NJ: Rutgers 
+
+            University Press.
+
+Whyte, Martin King.  1978.  The Status of Women in Preindustrial Societies.  Princeton, NJ:
+
+            Princeton University Press.
+
+ 
+
+ 
+
+. Because of my small sample size, I have chosen to use an alpha level of .10 to increase the power of my statistical tests and minimize the likelihood of making a Type II error (i.e., failing to reject a false null hypothesis). However, because I have three dependent variables for each hypothesis, I will use Holm’s sequential Bonferroni method for each hypothesis to adjust the alpha level to reduce the risk of making a Type I error (i.e., rejecting a true null hypothesis). [Josh, I’ll explain how to adjust the alpha level using this technique in an e-mail next week. It doesn’t affect the output needed]APPENDIX
+
+THE STANDARD CROSS-CULTURAL SAMPLE
+
+(Societies Coded by Whyte, 1978)
+
+1.                   Nama Hottentot:  The Geillkhauan tribe reconstructed for 1860
+
+2.                   Thonga:  The Ronga subtribe around Lourenço Marques in 1895
+
+3.                   Mbundu:  The Bailundo subtribe in 1890
+
+4.                   Bemba of Zambia in 1897
+
+5.                   Hadza in 1930
+
+6.                   Kikuyu of Metume or Fort Mall district in 1920
+
+7.                   Mbuti:  The epulu net-hunters of the Ituri forest in 1950
+
+8.                   Banen:  The Ndiki subtribe in 1935
+
+9.                   Ibo of the Isu-Ama division in 1935
+
+10.               Ashanti of Kumasi state in 1895
+
+11.               Wolof of Upper and Lower Salum in Gambia in 1950
+
+12.               Tallensi in 1934
+
+13.               Wodaabe Fulani of Niger in 1951
+
+14.               Massa of Cameroon in 1910
+
+15.               Fur around Jebel Marra in 1880
+
+16.               Shilluk in 1910
+
+17.               Kaffa in 1905
+
+18.               Konso in the vicinity of Busc in 1935
+
+19.               Amhara of the Gondar district in 1953
+
+20.               Kenuzi Nubians in 1900
+
+21.               Tuareg of Abaggar in 1900
+
+22.               Egyptians of the town and environs of Silwa in 1950
+
+23.               Babylonians of the city and environs of Babylon in 1750 B.C.
+
+24.               Turks of the Anatolian plateau in 1950
+
+25.               Romans of the city and environs of Rome in A.D. 110 
+
+26.               Irish of the Kinvarra parish in 1955
+
+27.               Yurak Samoyed in 1894
+
+28.               Abkhaz in 1880
+
+29.               Kurds in and near the town of Rowanduz in 1951
+
+30.               West Punjabi of the village of Mohla in 1950
+
+31.               Toda of the Nilgiri hills in 1900
+
+32.               Uttar Pradesh in and near Senapur village in 1945
+
+33.               Kazak of the Great Horde in 1885
+
+34.               Lolo of Taliang Shan mountains in 1910
+
+35.               Garo of Rengsanggri and neighboring villages in 1955
+
+36.               Burmese of Nondwin village in 1960
+
+37.               North Vietnamese of the Red River delta in 1930
+
+38.               Khmer Cambodians circa 1860
+
+39.               Semang of the Jahi subtribe in 1925
+
+40.               Andamanese of the Aka Bea tribe in 1860
+
+41.               Tanala of the Menabe subtribe in 1925
+
+42.               Javanese in the vicinity of Pare in 1955
+
+43.               Iban of the Uli Ai group in 1950
+
+44.               Toradja of the Bar’e subgroup in 1910
+
+45.               Alorese of Atimelang in 1938
+
+46.               Aranda of Alice Springs in 1896
+
+47.               Kimam of the village of Bamol in 1960
+
+48.               Kwoma of the Hongwam subtribe in 1937
+
+49.               New Irelanders of Lesu village in 1930
+
+50.               Siuai of the northeastern group in 1939
+
+51.               Pentecost Islanders of the Bunlap village in 1953
+
+52.               Ajie of Neje chiefdom in 1845
+
+53.               Marquesans circa 1860
+
+54.               Gilbertese of Makin Island in 1890
+
+55.               Trukese of Romonum Island in 1947
+
+56.               Paulauans of Koror Island in 1873
+
+57.               Atayal in 1930
+
+58.               Manchu of the Aigun district in 1915
+
+59.               Japanese of southern Okayama prefecture in 1950
+
+60.               Gilyak in 1880
+
+61.               Chukchee of the Reindeer group in 1900
+
+62.               Aleut of the Unalaska branch in 1778
+
+63.               Montagnais of the Lake St. John and Mistassini bands in 1910
+
+64.               Salteaux of the Berens River, Little Grand Rapids, and Pekangekum Bands in 1930
+
+65.               Kaska of the Upper Liard River in 1900
+
+66.               Haida of the village of Masset in 1875
+
+67.               Twana in 1860
+
+68.               Eastern Pomo of Clear Lake in 1850
+
+69.               Wadadika Paitute of Harney Valley in 1870
+
+70.               Kutenai of the Lower or Eastern branch in 1890
+
+71.               Hidatsa of Hidatsa village in 1836
+
+72.               Omaha in 1860
+
+73.               Creek of the Upper Creek division in 1800
+
+74.               Comanche in 1970
+
+75.               Zuni in 1880
+
+76.               Papago of the Archie division in 1910
+
+77.               Aztec of the city and environs of Tenochtitlan in 1520
+
+78.               Quiche of the town of Chichicastenango in 1930
+
+79.               Bribri tribe of Talamanca in 1917
+
+80.               Goajiro in 1947
+
+81.               Callinago of Dominica in 1650
+
+82.               Yanomamo of the Shamatari tribe in 1965
+
+83.               Saramacca of the upper Suriname River in 1928
+
+84.               Cubeo of the Caduiaria River in 1939
+
+85.               Jivaro in 1920
+
+86.               Inca in the vicinity of Cuzco in 1530
+
+87.               Siriono near the Rio Blanco in 1942
+
+88.               Trumai in 1938
+
+89.               Tupinamba in the vicinity of Rio de Janiero in 1550
+
+90.               Shavante in the vicinity of São Domingo in 1958
+
+91.               Cayua of southern Mato Grosso in 1890
+
+92.               Abipon in 1750
+
+93.               Tehuelche in 1870
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Table 1.  Bivariate Tests of the Militarist, Marxian, and Non-Marxian Materialist
+
+                Hypotheses.
+
+ 
+
+Theory/Hypothesis
+
+Domestic Authority
+
+Control of Sexuality
+
+Female Solidarity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Militarist
+
+ 
+
+ 
+
+ 
+
+Internal Warfare
+
+.07
+
+.54**
+
+.16
+
+External Warfare
+
+-.02
+
+-.22
+
+.11
+
+Overall Warfare
+
+-.10
+
+-.16
+
+.17
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marxian
+
+ 
+
+ 
+
+ 
+
+Female Econ. Control
+
+.11
+
+-.31
+
+.53**
+
+Class Stratification
+
+-.41***
+
+-.21
+
+-.32**
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Marxian Materialist
+
+ 
+
+ 
+
+ 
+
+Cont. of Gathering
+
+.23
+
+.38*
+
+.45***
+
+Subsistence Type
+
+-.33***
+
+-.42**
+
+-.54***
+
+Female Cont. Subs.
+
+.05
+
+.13
+
+-.01
+
+Female Cont. Agri.
+
+.46***
+
+.12
+
+.57***
+
+Intensity of Cultivation
+
+-.29*
+
+-.39*
+
+-.40**
+
+Use of the Plow
+
+-.51**
+
+-.63**
+
+-.58***
+
+Patrilineality
+
+-.22
+
+.05
+
+-.52***
+
+Patrilocal/Virilocal Res.
+
+-.44**
+
+-.27
+
+-.43**
+
+ 
+
+Numbers in the table are gammas. N’s range from 67 to 93. 
+
+*p. < .05; **p. < .01; ***p. < .001
+
+ 
+
+
+Table 2: Logistic Regression Results for Male Control of Female Sexuality (n = 72)
+
+ 
+
+                                                                  Zero-order                    Final Model
+
+Independent Variables                             (B)          O.R.            (B)           O.R.
+
+ 
+
+Warfare Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Frequency of war
+
+  -.14    
+
+  .87
+
+  ----
+
+  ----
+
+    Internal warfare
+
+   .01
+
+1.01
+
+  ---- 
+
+  ----
+
+    External warfare
+
+  -.19
+
+  .83
+
+  ----
+
+  ----
+
+          Pseudo R-Square
+
+ 
+
+ 
+
+       ----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marxian Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Female economic control
+
+  -.65
+
+  .52
+
+ 
+
+ 
+
+    Social stratification
+
+  -.18
+
+  .84
+
+  ----
+
+  ----
+
+    Class stratification
+
+  -.14
+
+  .87
+
+  ----
+
+  ----
+
+          Pseudo R-Square
+
+ 
+
+ 
+
+       ----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Marxian Materialist Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Percent contrib. to gathering
+
+   .59*
+
+ 1.81
+
+  ----
+
+  ----
+
+    Subsistence type
+
+  -.40*
+
+   .67
+
+  ----
+
+  ----
+
+    Female contrib. to subsistence
+
+   .23
+
+ 1.26
+
+  ----
+
+  ----
+
+    Female contrib. to agriculture
+
+   .19
+
+ 1.21
+
+  ----
+
+  ----
+
+    Intensity of cultivation 
+
+  -.25*
+
+   .78
+
+  -.33*
+
+   .72
+
+    Use of plow
+
+  -.15*
+
+   .23
+
+  ----
+
+  ----
+
+    Patrilineality
+
+   .09
+
+ 1.09
+
+  ----
+
+  ----
+
+    Patrilocality/virilocality
+
+  -.56
+
+   .57
+
+  ----
+
+  ----
+
+          Pseudo R-Square
+
+ 
+
+ 
+
+       .04
+
+ 
+
+          Overall Correct Classification
+
+ 
+
+ 
+
+     64%
+
+ 
+
+           
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Model Chi Square (df)
+
+ 
+
+ 
+
+ 
+
+5.47** (1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTE: B = Unstandardized logistic regression coefficient; OR = Odds Ratio
+
+*p < .10 (one-tailed); **p < .05 (one-tailed); ***p < .01 (one-tailed)
+
+
+Table 3: Zero-order (Ordered) Logistic Regression Coefficients and OLS Regression Results for Domestic Authority of Women (n = 71)
+
+ 
+
+                                                                                             Model 1                    Model 2 
+
+Independent Variables                       Zero-order           b          Beta          b        Beta
+
+ 
+
+Warfare Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Frequency of war
+
+  -.09    
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Internal warfare
+
+  -.16
+
+ 
+
+  ----
+
+  ----
+
+  ---- 
+
+  ----
+
+    External warfare
+
+  -.02
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+                    R-Square
+
+ 
+
+ 
+
+     ----
+
+ 
+
+      ----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marxian Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Female economic control
+
+   .25
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Social stratification
+
+  -.41**
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Class stratification
+
+  -.42***
+
+ 
+
+-.18***
+
+ -.38 
+
+ -.11**
+
+ -.22
+
+                    R-Square
+
+ 
+
+ 
+
+       .14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Marxian Materialist Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Percent contrib. to gathering
+
+   .40*
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Subsistence type
+
+  -.50***
+
+ 
+
+ 
+
+ 
+
+ -.10*
+
+ -.19
+
+    Female contrib. to subsistence
+
+   .12
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Female contrib. to agriculture
+
+   .71**
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Intensity of cultivation 
+
+  -.26*
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Use of plow
+
+ -1.22**
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Patrilineality
+
+   -.52
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Patrilocality/virilocality
+
+ -1.05*
+
+ 
+
+ 
+
+ 
+
+-.43***
+
+  -.26
+
+                     R-Square
+
+ 
+
+ 
+
+ 
+
+ 
+
+         .25
+
+ 
+
+           
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTE: b = Unstandardized regression coefficient; Beta = standardized regression coefficient
+
+     *p < .10 (one-tailed); **p < .05 (one-tailed); ***p < .01 (one-tailed)
+
+
+Table 4: Zero-order (Ordered) Logistic Regression Coefficients and OLS Regression Results for Female Solidarity (n = 54)
+
+ 
+
+                                                                                           Model 1                    Model 2 
+
+Independent Variables                       Zero-order           b          Beta          b        Beta
+
+ 
+
+Warfare Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Frequency of war
+
+   .17    
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Internal warfare
+
+   .06
+
+ 
+
+  ----
+
+  ----
+
+  ---- 
+
+  ----
+
+    External warfare
+
+   .12
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+                    R-Square
+
+ 
+
+ 
+
+     ----
+
+ 
+
+      ----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marxian Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Female economic control
+
+ 1.37***
+
+ 
+
+  .43**
+
+  .27
+
+  .31*
+
+  .20
+
+    Social stratification
+
+ -.39***
+
+ 
+
+ -.22***
+
+ -.47
+
+ -.17***
+
+ -.35
+
+    Class stratification
+
+ -.31***
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+                    R-Square
+
+ 
+
+ 
+
+       .29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Marxian Materialist Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Percent contrib. to gathering
+
+   .75***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Subsistence type
+
+  -.66***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Female contrib. to subsistence
+
+  -.01
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Female contrib. to agriculture
+
+   .37***
+
+ 
+
+ 
+
+ 
+
+  .06*
+
+  .21
+
+    Intensity of cultivation 
+
+  -.36***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Use of plow
+
+-1.47***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Patrilineality
+
+-1.28***
+
+ 
+
+ 
+
+ 
+
+ -.41**
+
+ -.26
+
+    Patrilocality/virilocality
+
+-1.02***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+                     R-Square
+
+ 
+
+ 
+
+ 
+
+ 
+
+         .40
+
+ 
+
+           
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTE: b = Unstandardized regression coefficient; Beta = standardized regression coefficient
+
+     *p < .10 (one-tailed); **p < .05 (one-tailed); ***p < .01 (one-tailed)
+
+
+ 
+
+Table 5: Zero-order Correlation Coefficients and OLS Regression Results for Composite Gender Inequality Variable (n = 53)
+
+ 
+
+                                                                                           Model 1                    Model 2 
+
+Independent Variables                       Zero-order           b          Beta          b        Beta
+
+ 
+
+Warfare Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Frequency of war
+
+  -.002    
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Internal warfare
+
+    .05
+
+ 
+
+  ----
+
+  ----
+
+  ---- 
+
+  ----
+
+    External warfare
+
+   .003
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+                    R-Square
+
+ 
+
+ 
+
+     ----
+
+ 
+
+      ----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marxian Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Female economic control
+
+  -.17
+
+ 
+
+  ----
+
+  ----
+
+  ----
+
+  ----
+
+    Social stratification
+
+   .38**
+
+ 
+
+ .38***
+
+ .46
+
+   .09
+
+  .11
+
+    Class stratification
+
+   .36***
+
+ 
+
+  ----
+
+  ---- 
+
+  ----
+
+  ----
+
+                    R-Square
+
+ 
+
+ 
+
+       .21
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Marxian Materialist Variables
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Percent contrib. to gathering
+
+  -.36***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Subsistence type
+
+   .56***
+
+ 
+
+ 
+
+ 
+
+ .39***
+
+ -.38
+
+    Female contrib. to subsistence
+
+  -.03
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Female contrib. to agriculture
+
+  -.46***
+
+ 
+
+ 
+
+ 
+
+-.13**
+
+   .24
+
+    Intensity of cultivation 
+
+   .37***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Use of plow
+
+   .44***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Patrilineality
+
+   .25***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+    Patrilocality/virilocality
+
+   .35***
+
+ 
+
+ 
+
+ 
+
+  ----
+
+  ----
+
+                     R-Square
+
+ 
+
+ 
+
+ 
+
+ 
+
+         .38
+
+ 
+
+           
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTE: b = Unstandardized regression coefficient; Beta = standardized regression coefficient
+
+     *p < .10 (one-tailed); **p < .05 (one-tailed); ***p < .01 (one-tailed)
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Editor,
+
+Social Forces
+
+Department of Sociology
+
+Hamilton Hall
+
+Chapel Hill, NC  27599
+
+ 
+
+Dear Editor:
+
+ 
+
+We are submitting five copies of our article, “Militarist, Marxian, and non-Marxian Materialist Theories of Gender Inequality: A Cross-Cultural Test,” for consideration by your journal.  Would you please acknowledge receipt by sending an email to sksander@iup.edu. 
+
+ 
+
+Thanks.
+
+ 
+
+ 
+
+ 
+
+Stephen K. Sanderson
+
+Professor 
+
+ 
+
+ 
