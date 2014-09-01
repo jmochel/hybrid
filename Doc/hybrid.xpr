@@ -310,5 +310,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="hybrid.xpr"/>
+    <projectTree name="hybrid.xpr">
+        <file name="Manuals/players-docs/players-guide.xml"/>
+    </projectTree>
 </project>
