@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Character-Generation.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - FRP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Paradigm/Paradigm.docbook.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -311,6 +326,7 @@
         </options>
     </meta>
     <projectTree name="hybrid.xpr">
-        <file name="Manuals/players-docs/players-guide.xml"/>
+        <file name="Character-Generation.xml"/>
+        <file name="Players-Guide.xml"/>
     </projectTree>
 </project>
