@@ -310,8 +310,5 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="hybrid.xpr">
-        <file name="SpellSystem/Arcanus.xml"/>
-        <file name="Paradigm/Paradigm.docbook.xml"/>
-    </projectTree>
+    <projectTree name="hybrid.xpr"/>
 </project>
