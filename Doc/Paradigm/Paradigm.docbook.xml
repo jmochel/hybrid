@@ -15,12 +15,11 @@
                 <postcode>000000</postcode>
                 <country>Country</country>
             </address>
-            <email>user@example.com</email>
+            <email>jmochel@saltations.org</email>
         </author>
     </info>
     <part>
         <title>First Part</title>
-        <subtitle>Subtitle of First Part</subtitle>
         <chapter>
             <title>Guiding Principles</title>
             <para>\begin{enumerate} \item[Unification] Statistics and rules should be applied

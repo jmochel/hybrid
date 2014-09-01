@@ -1,3 +1,0 @@
-BEGIN { FS = "," }
-/^chapter/ { print "<chapter><title>" $2  "<title>"; } 
-
