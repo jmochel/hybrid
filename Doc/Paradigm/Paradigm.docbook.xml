@@ -22,18 +22,94 @@
         <title>First Part</title>
         <chapter>
             <title>Guiding Principles</title>
-            <para>\begin{enumerate} \item[Unification] Statistics and rules should be applied
-                equally to PCs, NPCs, etc \dots \item[Skill Based] \item[Modularity]
-                \item[Scalability] The game system should be able to handle increasing/decreasing
-                levels of complexity without breaking down as well as handling multiple genres
-                cleanly. \item[Clarity] \end{enumerate} 1. Unification: Stats should apply equally
-                to PCs, NPCs, Vehicles, Monsters, etc... 2. Skill based: Allow characters to be
-                created through a choice of skills amnd knowledge. 3. Modularity: The individual
-                systems within the RPG should be modular 4. Scalability: The GM and players should
-                be able to tailor the scale of the game to fit. GM should have control over the
-                speed of combat, rate of play etc.. The rules should supply the fundemental detail
-                and offer scalability rules... The rules aren't optional- they simply expand... 5,
-                Clarity </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para><emphasis>Unification</emphasis>Statistics and rules should be applied
+                            equally to PCs, NPCs, etc</para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Unification</emphasis> Statistics and rules should be applied
+                            equally to PCs, NPCs, etc </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Skill Based</emphasis> Allow characters to be created through
+                            a choice of skills and knowledge. </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Modularity</emphasis> The individual systems within the RPG
+                            should be modular </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Scalability</emphasis> The game system should be able to
+                            handle increasing/decreasing levels of complexity without breaking down
+                            as well as handling multiple genres cleanly. </para>
+                        <para> The GM and players should be able to tailor the scale of the game to
+                            fit. GM should have control over the speed of combat, rate of play etc..
+                            The rules should supply the fundemental detail and offer scalability
+                            rules... The rules aren't optional- they simply expand... </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Clarity</emphasis>
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis/>
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis/>
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis/>
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis/>
+                        </para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </chapter>
+        <chapter>
+            <title>DRF</title>
+            <para> For a DRF (Difficulty Reduction Function) we have the stat plus skill plus
+                environment minus mods. <informalequation>
+                    <mathphrase>Stat + Skill</mathphrase>
+                </informalequation>
+                <informalequation>
+                    <mathphrase>Stat + Skill + Environment + Other Mods</mathphrase>
+                </informalequation> A filter skill eliminates the "Unfamiliar Environment"
+                difficulty and puts an upper limit on how much of the (Stat + Skill) can be applied. <informalequation>
+                    <mathphrase>Stat + Skill + Environment + Other Mods</mathphrase>
+                </informalequation> The filter skill governs expression of stat + skill (how often
+                is applied? What happens if someone can't make his filter roll?) </para>
+            <para> The DRF goes up beyond 100% at 50+ or greater. Note that dragons have an ability
+                to adapt to environment i.e. they have no need for separate filter skills) </para>
+            <para>Create a table with discrete sections for each difficulty factor that has an
+                impact.</para>
+            <simplelist>
+                <member>50-98%</member>
+                <member>49-97%</member>
+                <member>48-96%</member>
+                <member>46-47 95%</member>
+            </simplelist>
+            <para>If we remove initiative on a roll by role basis and simply add successive mods for
+                general combat and we keep initiative for detailed combat it would kick butt.</para>
+            <para>DRF take two note that the DRF of alternatives is a good start but 99% is still
+                too low for a certain part of the time. Each successive action cuts the base chance?
+                Or simply subtracts from the DF?</para>
+            <para> BC + mods implies SC </para>
         </chapter>
         <chapter>
             <title>Weapons</title>
@@ -287,8 +363,7 @@
                     <varlistentry>
                         <term>Damage Decrement (DD)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
@@ -378,8 +453,7 @@
                     <varlistentry>
                         <term>Physical Agility Modifier (PAM)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
@@ -421,22 +495,19 @@
                     <varlistentry>
                         <term>Dexterity Modifier (DXM)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Parry (PAR)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Block (BLK)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
@@ -664,22 +735,19 @@
                     <varlistentry>
                         <term>Telekinetics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Telekinetic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Telekinesis</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -688,8 +756,7 @@
                     <varlistentry>
                         <term>Discipline:Levitate</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -698,22 +765,19 @@
                     <varlistentry>
                         <term>Biokinetics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Biokinetic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Biokinesis</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -739,22 +803,19 @@
                     <varlistentry>
                         <term>Temporokinetics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Temporokinetic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Temporokinesis</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -763,15 +824,13 @@
                     <varlistentry>
                         <term>Discipline:Teleportation</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Memorize Location</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -780,22 +839,19 @@
                     <varlistentry>
                         <term>Energetics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Energetic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Energetics (Transform Energy )</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -804,15 +860,13 @@
                     <varlistentry>
                         <term>Knowledge of Energy:Heat or</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Physics EM</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
@@ -828,22 +882,19 @@
                     <varlistentry>
                         <term>Telepathics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Telepathic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Telepathy</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>
@@ -907,22 +958,19 @@
                     <varlistentry>
                         <term>Mystokinetics(Filter)</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Mystokinetic Perception</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                     <varlistentry>
                         <term>Mystokinetics</term>
                         <listitem>
-                            <para>
-                            </para>
+                            <para> </para>
                         </listitem>
                     </varlistentry>
                 </variablelist>

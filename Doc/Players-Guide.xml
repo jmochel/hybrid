@@ -8,288 +8,280 @@
                 <firstname>Jim</firstname>
                 <surname>Mochel</surname>
             </personname>
-            <email>jim.mochel.per@gmail.com</email>
+            <email>jmochel@saltations.org</email>
         </author>
-    </info>
-    <toc> </toc>
-    <preface>
-        <title>Why</title>
-        <para>There were a number of reasons for the creation of Hybrid. The first and foremost was
-            the need, as I saw it, for a Role Playing Game that could comfortably model a wide range
-            of the science fiction and fanasy works available. Whether attempting to run a campaign
-            like that of E.E. Doc Smith's Lensman Series or the swashbuckling Star Wars movies the
-            need for a consistent role playing system for all ...</para>
-        <para>The second was to produce a game system in which the consistency and clarity of the
-            rules would allow the Games Master to react flexibly and smoothly to the ever changing
-            requirements of the players without having to lay down abitrary barriers. As part of
-            this process the discussion of the rules comes complete with designer's notes. These
-            notes discuss why a specific rule has been enacted and what the rationale behind what
-            they model.</para>
-        <para>The third goal was to produce rules that helped to cut bookkeeping down to reasonable
-            levels. There is no way to avoid bookkeeping in a Role Playing Game but I have done my
-            best to minimize the amount of bookkeeping necessary.</para>
-        <para>I hope that Hybrid will bring you hours of enjoyment and diversion.</para>
-    </preface>
-    <part>
-        <title>Concepts to basic mechanics</title>
-        <subtitle>Going from the basic idea (Concept) to the basic mechanics (Dice Rolls)</subtitle>
-        <chapter>
-            <title>General Concepts</title>
-            <para>This is about story telling....and story telling is ..             
-            <blockquote>
-                <attribution>Lewis Carroll, Alice's Adventures in Wonderland and Through the Looking-Glass</attribution>
-                <para>No, no! The adventures first, explanations take such a dreadful time.</para>
-            </blockquote>
-
-                And the parts of the story that dice are used for
-                are What happens and who went when...Perception, Initiative, and Success Chance
+        <abstract>
+            <para>
+                <blockquote>
+                    <attribution>Lewis Carroll, Alice's Adventures in Wonderland and Through the
+                        Looking-Glass</attribution>
+                    <para>No, no! The adventures first, explanations take such a dreadful
+                        time.</para>
+                </blockquote>
             </para>
-            <formalpara>
-                <title>Time Scale<indexterm><primary>Time Scale</primary></indexterm></title>
-                <para>We mostly work in "Mythic" or "Storytelling" Time. Time is referred to by the units we are used to, Hours, minutes, and
-                    seconds. The GamesMaster (GM) typically tells the players how much time has passed and handles the sequencing and general "fairness". Sometimes, the story being told requires more detailed time keeping, we will slice time up into 
-                    finer pieces. 
-                      </para>
-            </formalpara>
-            <formalpara>
-                <title>Skill Check or Skill Roll</title>
-                <para>All tasks that are undertaken in Hybrid are done by performing a Skill Check. A Skill Check is done by figuring out the chance of succeeding at a task (called the "Success Chance"
-                    as a percentage (such as 86%) and rolling percentile dice (1-100) against that
-                    chance. If the die roll is under the "Success Chance" then the
-                    character succeeded at what they are attempting. If not, they failed. There
-                    are degrees of success that range from "Oh Wow!" (Critical Success
-                    <indexterm><primary>Critical Success</primary></indexterm>) to "Oh
-                    No!" (Critical Failure <indexterm><primary>Critical
-                        Failure</primary></indexterm>)<note><para>Skill Checks or Skill Rolls are done using percentile dice.</para></note></para>
-            </formalpara>
-            <formalpara>
-                <title>Perception</title>
-                <para>One Skill Check done by every character is a Perception Roll. How well a character does on a Perception Roll determines how alert a character is and how well they can react to a combat or non-combat situation. <note><para>A Perception Roll is a Skill Check and is done using percentile dice.</para></note></para>
-            </formalpara>            
-            <formalpara>
-                <title>Initiative</title>
-                <para>When timing gets critical and characters beed to determine the order in which actions occur we will use a different kind of die roll called an Initiative Roll. <mediaobject xml:id="Two6SidedDice">
-                    <imageobject>
-                        <imagedata format="SVG" fileref="images/2d6.svg"/>
-                    </imageobject>
-                </mediaobject> 
-                    <note><para>Initiative Rolls are done using two six sided dice (more on that later).</para></note>
-                </para>
-            </formalpara>  
-            <para>In the next chapters we will go through more details.</para>
-        </chapter>
+        </abstract>
+    </info>
+    <toc/>
+    <part>
+        <title>Concepts and basic mechanics</title>
         <chapter>
             <title>Basic Mechanics</title>
-            <subtitle>The minimum necessary to know when to roll dice and what to roll.</subtitle>
-            <para>his chaper takes the chapers described previuously and gives you the <emphasis>basic</emphasis> mechanics.</para>
+            <subtitle>When to roll dice and what to roll.</subtitle>
+            <blockquote>
+                <attribution>Susan Sontag, At the Same Time: Essays and Speeches</attribution>
+                <para>Time exists in order that everything doesn’t happen all at once…and space
+                    exists so that it doesn’t all happen to you.</para>
+            </blockquote>
             <section>
                 <title>Time Scale, Perception, and Initiative</title>
-                <para>When the players want or need a more finely grained time keeping (like Life or Death battles or activities that are
-                    expected to make good theater) we will start keeping track of time using "counts". A count is <emphasis>roughly </emphasis> one tenth of a second.<indexterm><primary>Counts</primary></indexterm><note><para>A count is <emphasis>roughly</emphasis> 1/10th of a
-                        second but is primary purpose is to keep things from colliding.                <blockquote>
-                            <attribution>Susan Sontag, At the Same Time: Essays and Speeches</attribution>
-                            <para>Time exists in order that everything doesn’t happen all at once…and space exists so that it doesn’t all happen to you.</para>
-                        </blockquote></para></note></para>
-                <para>Most of the time a situation is self evident to a character. A character automatically
-                    knows that there is a bar in the room and how many people are in it. 
-                    In order to determine how much the character has "taken in" their environment the GamesMaster may ask the player to roll a Skill Check called the Perception Roll. 
-                    It is just a standard percentile dice roll. As a result of the roll the GamesMaster will tell you how much the character takes in and understands. Typically , a character 
-                    intentionally paying attention to the environment takes about a second to take it in. Players may also ask to make "Passive Perception" rolls to determine what their character
-                    is able to take in "in passing" rather then paying attention with intent.
-                </para>
-                <para>To determine how quickly the character reacts or takes action there is an Initiative Roll. Initiative is rolled on two six sided dice (2d6) and the roll is modified up or down 
-                    for the situation and the characters go in order of the roll (2 comes before 3, etc). </para>                
-            </section>
-            <section>
-                <title>Actions</title>
                 <section>
-                    <title>Skill Checks or Skill Rolls</title>
-                    <para>Skill Checks are the fundamental concept in Hybrid. Because they are used or referred to by almost all the other  
-                        
-                        All tasks that are undertaken in Hybrid are done by performing a Skill Check. A Skill Check is done by figuring out the chance of succeeding at a task (called the "Success Chance"
-                        <indexterm><primary>Success Chance</primary></indexterm>) as a
-                        percentage (such as 86%) and rolling percentile dice (1-100) against that
-                        chance. <mediaobject xml:id="PercentileDice">
-                            <imageobject>
-                                <imagedata format="SVG" fileref="images/percentile-dice.svg"/>
-                            </imageobject>
-                        </mediaobject> If the die roll is under the "Success Chance" then the
-                        character succeeded at what they are attempting. If not, they failed. There
-                        are degrees of success that range from "Oh Wow!" (Critical Success
-                        <indexterm><primary>Critical Success</primary></indexterm>) to "Oh
-                        No!" (Critical Failure <indexterm><primary>Critical
-                            Failure</primary></indexterm>)<note><para>Skill Checks or Skill Rolls are done using percentile dice.</para></note></para>
+                    <title>Time Scale<indexterm><primary>Time Scale</primary></indexterm></title>
+                    <para>We mostly work in "Mythic" or "Storytelling" Time. Time is referred to by
+                        the units we are used to, Hours, minutes, and seconds. The GamesMaster (GM)
+                        typically tells the players how much time has passed and handles the
+                        sequencing and general "fairness". Sometimes, the story being told requires
+                        more detailed time keeping, we will slice time up into finer pieces. </para>
                 </section>
                 <section>
-                    <title>Good Success and Bad Failures</title>
-                    <subtitle>Rules governing how well you suceed or failure.</subtitle>
-                    <para>As we said before if the die roll is under the "Success Chance" then the
-                        character succeeded at what they are attempting. If not, they failed. There
-                        are degrees of success that range from "Oh Wow!" (Critical Success) to "Oh
-                        No!" (Critical Failure)</para>
-                    <table xml:id="TableOfSuccessAndFailure">
-                        <title>Success and Failure</title>
-                        <tgroup cols="3">
-                            <thead>
-                                <row><entry>How you rolled</entry><entry>Effectiveness</entry><entry>Subjective Name</entry></row>
-                            </thead>
-                            <tbody>
-                                <row><entry>Under 1/100 of what was needed</entry><entry><informalequation><mathphrase>3 x the effect</mathphrase></informalequation></entry><entry>Amazing Success</entry></row>
-                                <row><entry>Under 1/10 of what was needed</entry><entry><informalequation><mathphrase>2 x  the effect</mathphrase></informalequation></entry><entry>Very Notable Success</entry></row>
-                                <row><entry>Under 1/4 of what was needed</entry><entry><informalequation><mathphrase>1.5 x  the effect</mathphrase></informalequation></entry><entry>Notable Success</entry></row>
-                                <row><entry>Under 1/2 of what was needed</entry><entry><informalequation><mathphrase>1.25 x the effect</mathphrase></informalequation></entry><entry>Solid Success</entry></row>
-                                <row><entry>Under what was needed</entry><entry><informalequation><mathphrase>1 x the effect</mathphrase></informalequation></entry><entry>Success</entry></row>
-                                <row><entry>Over what was needed</entry><entry><informalequation><mathphrase>0 x the effect</mathphrase></informalequation></entry><entry>Failure</entry></row>
-                                <row><entry>Over 1.5 times what was needed</entry><entry><informalequation><mathphrase>-0.25 x the effect</mathphrase></informalequation></entry><entry>Solid Failure</entry></row>
-                                <row><entry>Over 2 times  what was needed</entry><entry><informalequation><mathphrase>-0.75 x the effect</mathphrase></informalequation></entry><entry>Notable Failure</entry></row>
-                                <row><entry>Over 2.5 times what was needed</entry><entry><informalequation><mathphrase>-1.0 x the effect</mathphrase></informalequation></entry><entry>Very Notable Failure</entry></row>
-                                <row><entry>Over 3 times what was needed</entry><entry><informalequation><mathphrase>-2.0 x the effect</mathphrase></informalequation></entry><entry>Amazing Failure</entry></row>
-                            </tbody>
-                        </tgroup>                        
-                    </table>
+                    <title>Skill Check <emphasis>(d100)</emphasis><indexterm><primary>Skill
+                                Check</primary><secondary>Skill Roll</secondary></indexterm></title>
+                    <para>All tasks that are undertaken in Hybrid are done by performing a Skill
+                        Check. A Skill Check is done by figuring out the chance of succeeding at a
+                        task (called the "Success Chance" as a percentage (such as 86%) and rolling
+                        percentile dice (1-100) against that chance. If the die roll is under the
+                        "Success Chance" then the character succeeded at what they are attempting.
+                        If not, they failed. There are degrees of success that range from "Oh Wow!"
+                        (Critical Success) <indexterm><primary>Critical
+                            Success</primary></indexterm> to "Oh No!" (Critical
+                                Failure)<indexterm><primary>Critical Failure</primary></indexterm>
+                    </para>
+                    <para>See <xref linkend="SkillChecksAndActions"/> for a detailed discussion of
+                        Skill Checks.</para>
+                </section>
+                <section>
+                    <title>Perception Roll <emphasis>(d100)</emphasis><indexterm><primary>Perception
+                                Roll</primary></indexterm></title>
+                    <para>One Skill Check done by every character is a Perception Roll. How well a
+                        character does on a Perception Roll determines how alert a character is and
+                        how well they can react to a combat or non-combat situation. </para>
+                    <para>Most of the time a situation is self evident to a character. A character
+                        automatically knows that there is a bar in the room and how many people are
+                        in it. In order to determine how much the character has "taken in" their
+                        environment the GamesMaster may ask the player to roll a Skill Check called
+                        the Perception Roll. It is just a standard percentile dice roll. As a result
+                        of the roll the GamesMaster will tell you how much the character takes in
+                        and understands. Typically , a character intentionally paying attention to
+                        the environment takes about a second to take it in. Players may also ask to
+                        make "Passive Perception" rolls to determine what their character is able to
+                        take in "in passing" rather then paying attention with intent. </para>
+                    <para> See <xref linkend="PerceptionAndInitiative"/> for a detailed discussion
+                        of Perception and Initiative. </para>
+                </section>
+                <section>
+                    <title>Initiative Roll <emphasis>(2d6)</emphasis><indexterm><primary>Initiative
+                                Roll</primary></indexterm></title>
+                    <para> When the players want or need a more finely grained time keeping (like
+                        Life or Death battles or activities that are expected to make good theater)
+                        we will start keeping track of time using "counts". A count is
+                            <emphasis>roughly </emphasis> one tenth of a
+                                second.<indexterm><primary>Counts</primary></indexterm>
+                    </para>
+                    <para>While a count is <emphasis>roughly</emphasis> 1/10th of a second its
+                        primary purpose is to keep things from colliding. So while 30 counts may
+                        have passed, the GM may ajudge that it was only two seconds in "real" time. </para>
+                    <para>To determine how quickly the character reacts or takes action there is an
+                        Initiative Roll. Initiative is rolled on two six sided dice (2d6) and the
+                        roll is modified up or down for the situation and the characters go in order
+                        of the roll (2 comes before 3, etc). </para>
+                    <para> See <xref linkend="PerceptionAndInitiative"/> for a detailed discussion
+                        of Perception and Initiative. </para>
+                </section>
+            </section>
+        </chapter>
+        <chapter xml:id="SkillChecksAndActions">
+            <title>Skill Checks and actions</title>
+            <para>Skill Checks are the fundamental concept in Hybrid. Because they are used or
+                referred to by almost all the other All tasks that are undertaken in Hybrid are done
+                by performing a Skill Check. A Skill Check is done by figuring out the chance of
+                succeeding at a task (called the "Success Chance" <indexterm><primary>Success
+                        Chance</primary></indexterm>) as a percentage (such as 86%) and rolling
+                percentile dice <emphasis>(d100)</emphasis> against that chance. If the die roll is
+                under the "Success Chance" then the character succeeded at what they are attempting.
+                If not, they failed. There are degrees of success that range from "Oh Wow!"
+                (Critical Success <indexterm><primary>Critical Success</primary></indexterm>) to "Oh
+                No!" (Critical Failure <indexterm><primary>Critical Failure</primary></indexterm>) </para>
+            <section>
+                <title>Success Chance<indexterm><primary>Success
+                    Chance</primary><secondary>calculating</secondary></indexterm></title>
+                <section>
+                    <title>When the character has a skill that applies to the task</title>
                     <para>
-                        Particular tasks may have specific results associated with the the different levels of success and those specific results will be documented in tables with the tasks.   
+                        If your character has a skill that applies to the task at hand then their Success Chance is 
+                        based on 
+                        <itemizedlist>
+                            <listitem><para>How difficult the action is. See <xref linkend="DifficultyFactorDef"></xref></para></listitem>
+                            <listitem><para>How skilled they are. See <xref linkend="SkillChanceDef"/></para></listitem>
+                        </itemizedlist>
+                        <equation xml:id="SkilledSuccessChanceEq">
+                            <title>Success chance when skilled</title>
+                            <mathphrase>Success Chance = Skill Chance - (Difficulty Factor<subscript>Task</subscript> x 5) </mathphrase>
+                        </equation>                        
                     </para>
                 </section>
-            </section>            
-        </chapter>
-        <chapter>
-            <title>Detailed rules about Time Scale, Perception and Initiative</title>
-            <section>
-                <title>Perception</title>
-                <para>If something could go unnoticed by the character, such as a suprise attack or
-                    something hidden, the player should make a Perception Roll. A
-                    perception roll is typically SB = PAW, DF=0, with modifiers for how alert
-                    the character is trying to be. A perception roll takes 8 counts. A
-                    \ndx{Passive Perception Roll} can be made \index{Perception!Passive} during
-                    any action at 1/4 the success chance of a normal perception roll. A passive
-                    perception roll takes no time and takes no modifiers for simultaneous
-                    actions.</para>
-                <para>The critical success and failure effects are fairly straight forward</para>
-                <variablelist>
-                    <title/>
-                    <varlistentry>
-                        <term> Amazing Success </term>
-                        <listitem>
-                            <para>Total Understanding, 300% Detail, +-0% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Very Notable Success </term>
-                        <listitem>
-                            <para>Total Identification, 200% Detail, +-5% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Notable Success </term>
-                        <listitem>
-                            <para>Total Identification, 150% Detail, +-10% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Solid Success </term>
-                        <listitem>
-                            <para>Able to Identify exactly what is happening, 125% Detail, +-25%
-                                Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Success </term>
-                        <listitem>
-                            <para>Basic Identification, 100% Detail, +-50% timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Failure </term>
-                        <listitem>
-                            <para>Vague Identification, 25% Detail, +-75% timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Solid Failure </term>
-                        <listitem>
-                            <para>No real clue, 0 Detail, 0 Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Notable Failure </term>
-                        <listitem>
-                            <para>Inaccurate Identification, +-125% Detail, +-175% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Very Notable Failure </term>
-                        <listitem>
-                            <para>Inaccurate Identification, +-150% Detail, +-200% Timing</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term> Amazing Failure </term>
-                        <listitem>
-                            <para>Wildly Inaccurate Identification, +-250% Detail, +-300%
-                                Timing</para>
-                        </listitem>
-                    </varlistentry>
-                </variablelist>
-                <para>T\begin{verbatim} Task: Active Physical Perception DF: 0 Time: 8 cts. Skills:
-                    General Perception, Combat Perception Notes: \end{verbatim}s</para>
-                <para> \begin{verbatim} Task: Passive Physical Perception DF: 0 Time: 0 cts. Skills:
-                    General Perception, Combat Perception Notes: Done at 1/4 the normal chance
-                    \end{verbatim}</para>
-            </section>
+                <section>
+                    <title>When the character is unskilled</title>
+                    <para>
+                    In situations where the character has no skill that applies to the given task, then their Success Chance is 
+                    based on
+                    <itemizedlist>
+                        <listitem><para>How difficult the action is. See <xref linkend="DifficultyFactorDef"></xref></para></listitem>
+                        <listitem><para>What stats they have that apply. See <xref linkend="StatBasisDef"/></para></listitem>
+                    </itemizedlist>
+                    Formally the equation to calculate success chance when unskilled in an area is
+                    <equation xml:id="UnskilledSuccessChanceEq">
+                        <title>Success chance when unskilled</title>
+                        <mathphrase>Success Chance = (1/2 x Stat Basis<subscript>Task</subscript>) - (Difficulty Factor<subscript>Task</subscript> x 5) </mathphrase>
+                    </equation>
+
+<!--                    
+                    <informalequation>
+                        <mathphrase>Success Chance = Base Chance - (Difficulty Factor <subscript>Action</subscript> x 5) </mathphrase>
+                        <mathphrase>SC = BC<subscript>Skill</subscript> - (DF<subscript>Action</subscript> x 5) </mathphrase>
+                    </informalequation>-->
+                </para>
+                <para>Keep in mind that rolling the dice is straight forward and so is
+                            the storytelling. Most of the rules and tables in this system deal
+                            with how to calculate the Success Chance</para>
+             </section>
             
-        </chapter>
-        <chapter>   
-            <title>Skill Checks or Skill Rolls</title>
+            
+            <section xml:id="SuccessAndFailure">
+                <title>Success and Failures</title>
+                <subtitle>Rules governing how well you suceed or fail.</subtitle>
+                <para>As we said before if the die roll is under the "Success Chance" then the
+                    character succeeded at what they are attempting. If not, they failed. There are
+                    degrees of success that range from "Oh Wow!" (Critical Success) to "Oh No!"
+                    (Critical Failure)</para>
+                <table xml:id="SuccessAndFailureTable">
+                    <title>Success and Failure</title>
+                    <tgroup cols="3">
+                        <thead>
+                            <row>
+                                <entry>How you rolled</entry>
+                                <entry>Effectiveness</entry>
+                                <entry>Subjective Name</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Under 1/100 of what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>3 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Amazing Success</entry>
+                            </row>
+                            <row>
+                                <entry>Under 1/10 of what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>2 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Very Notable Success</entry>
+                            </row>
+                            <row>
+                                <entry>Under 1/4 of what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>1.5 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Notable Success</entry>
+                            </row>
+                            <row>
+                                <entry>Under 1/2 of what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>1.25 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Solid Success</entry>
+                            </row>
+                            <row>
+                                <entry>Under what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>1 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Success</entry>
+                            </row>
+                            <row>
+                                <entry>Over what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>0 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Failure</entry>
+                            </row>
+                            <row>
+                                <entry>Over 1.5 times what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>-0.25 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Solid Failure</entry>
+                            </row>
+                            <row>
+                                <entry>Over 2 times what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>-0.75 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Notable Failure</entry>
+                            </row>
+                            <row>
+                                <entry>Over 2.5 times what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>-1.0 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Very Notable Failure</entry>
+                            </row>
+                            <row>
+                                <entry>Over 3 times what was needed</entry>
+                                <entry><informalequation>
+                                        <mathphrase>-2.0 x the effect</mathphrase>
+                                    </informalequation></entry>
+                                <entry>Amazing Failure</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+                <para> Particular tasks may have specific results associated with the the different
+                    levels of success and those specific results will be documented in tables with
+                    the tasks. Those tables will have the name of the success type combined with
+                    what is needed to be rolled. For example "Amazing Success" will be listed as
+                    "Amazing Success[1/100]"</para>
+            </section>
             <section>
                 <title>General Play</title>
-                <formalpara>
-                    <title>Success Chance <indexterm><primary>Success
-                                Chance</primary><secondary>calculating</secondary></indexterm></title>
-                    <para>Your character's chance to succeed is based on how difficult the action is
-                        combined with how good the character is at the skill being used to do the
-                        action. The more skilled the character is at the skill the better their
-                        chance to perform. The more difficult the action the worse the chance they
-                        have to perform the action. <informalequation>
-                            <mathphrase>Success Chance = Base Chance <subscript>Skill</subscript> +
-                                (Difficulty Factor <subscript>Action</subscript> x 5) </mathphrase>
-                            <mathphrase>SC = BC<subscript>Skill</subscript> + (DF
-                                    <subscript>Action</subscript> x 5) </mathphrase>
-                        </informalequation>
-                        <note>
-                            <para>Keep in mind that rolling the dice is straight forward and so is
-                                the storytelling. Most of the rules and tables in this system deal
-                                with how to calculate the Success Chance</para>
-                        </note>
-                    </para>
-                </formalpara>
-                <formalpara>
+
+                <section>
                     <title>Base Chance <indexterm><primary>Base
-                                Chance</primary><secondary>calculating</secondary></indexterm></title>
+                        Chance</primary><secondary>calculating</secondary></indexterm></title>
                     <para> The Base Chance for a skill comes from how good the character is at a
                         skill combined with their native statistics used by the skill. <informalequation>
                             <mathphrase>Base Chance <subscript>Skill</subscript> = (3 x Stat Basis )
                                 + (Rank <subscript>Skill</subscript> x 4)</mathphrase>
                             <mathphrase>BC<subscript>Skill</subscript> = (3 x SB) + (Rank
-                                    <subscript>Skill</subscript> x 4)</mathphrase>
+                                <subscript>Skill</subscript> x 4)</mathphrase>
                         </informalequation>
                     </para>
-                </formalpara>
-                <formalpara>
+                </section>
+                <section>
                     <title>Difficulty
-                                Factor<subscript>Action</subscript><indexterm><primary>Difficulty
-                                    Factor<subscript>Action</subscript></primary><secondary>calculating</secondary></indexterm></title>
+                        Factor<subscript>Action</subscript><indexterm><primary>Difficulty
+                            Factor<subscript>Action</subscript></primary><secondary>calculating</secondary></indexterm></title>
                     <para> The Difficulty Factor for an action is determined by using a table.
                         Typically a Difficulty Factor<subscript>Action</subscript> goes from -20 to
                         +20 </para>
-                </formalpara>
-                <formalpara>
+                </section>
+                <section>
                     <title>Stat Basis<subscript>Skill</subscript><indexterm><primary>Stat
-                                    Basis<subscript>Skill</subscript></primary><secondary>calculating</secondary></indexterm></title>
+                        Basis<subscript>Skill</subscript></primary><secondary>calculating</secondary></indexterm></title>
                     <para> The Stat Basis for a skill is usually given by the table of skills. The
                         Stat Basis<subscript>Skill</subscript> typical ranges from 1 to 30. </para>
-                </formalpara>
-                <formalpara>
+                </section>
+                <section>
                     <title>Examples of calculating Base Chances</title>
                     <para>
                         <example>
@@ -306,7 +298,7 @@
                             </para>
                         </example>
                     </para>
-                </formalpara>
+                </section>
             </section>
             <section>
                 <title>Difficulty of Actions</title>
@@ -314,7 +306,7 @@
                     expressed as a positive or negative modifier. For example DF 0 is the typical
                     average dificulty of an action. DF -5 is a more difficult action and DF +5 is an
                     easier action</para>
-                <table>
+                <table xml:id="ActionDifficultyTable">
                     <title>Subjective Difficulty of Actions</title>
                     <tgroup cols="2">
                         <tbody>
@@ -356,7 +348,7 @@
                 <para> There are many circumstances or conditions that can affect how difficult
                     something is. But the following table should give you an idea of what the
                     baselines are:</para>
-                <table>
+                <table xml:id="ActionDifficultyPerceptionTable">
                     <title>How to figure out how difficult an action should be</title>
                     <tgroup cols="2">
                         <tbody>
@@ -381,7 +373,7 @@
                         </tbody>
                     </tgroup>
                 </table>
-                <table>
+                <table xml:id="GeneralSkillDifficultyTable">
                     <title>General Skill Difficulties</title>
                     <tgroup cols="3">
                         <tbody>
@@ -393,9 +385,10 @@
                             <row>
                                 <entry> No rank in skill </entry>
                                 <entry> </entry>
-                                <entry> <informalequation>
-                                    <mathphrase>= 1/2 BC</mathphrase>
-                                </informalequation></entry>
+                                <entry>
+                                    <informalequation>
+                                        <mathphrase>= 1/2 BC</mathphrase>
+                                    </informalequation></entry>
                             </row>
                             <row>
                                 <entry> Mental Mental </entry>
@@ -418,8 +411,8 @@
             </section>
             <section>
                 <title>Rolling Dice</title>
-                <para> The range of die rolls is 1-100. If you roll 00 (a 100) you roll again add
-                    the second roll to the first to get our total. </para>
+                <para> The range of die rolls is 1-100. If you roll 00 (a 100) you roll again and
+                    add the second roll to the first to get our total. </para>
                 <para> When percentile dice are rolled and the result is under the success chance,
                     that is a normal success. When the rolled number is significantly lower than the
                     needed roll there is a chance the action may have a greater than normal success.
@@ -427,7 +420,7 @@
                     on \index{Critical Success} page~\pageref{Table:CriticalSuccess} describes the
                     rolls needed. </para>
                 <para> As an example. If a character needed to roll a 40 or under to hit a target
-                    with a rock and they rolled under 1/2  of 40 then they will do 1.25 times the
+                    with a rock and they rolled under 1/2 of 40 then they will do 1.25 times the
                     damage they would normally do. </para>
                 <para> In the case of very poor rolls there is a chance that the roll may be a
                     critical failure This is caused by rolling 50 above your success chance or
@@ -443,17 +436,101 @@
                     increase their chances. The action can be sped up by decreasing the chance of
                     success {\em rushing an action}. Actions can be performed simultaneously {\em
                     floretine}. There are additional modifiers for doing something while moving or
-                    while tired and so on\dots</para>
+                    while tired and so on...</para>
             </section>
+            
+        </chapter>
+        <chapter xml:id="PerceptionAndInitiative">
+            <title>Perception and Initiative</title>
             <section>
+                <title>Perception</title>
+                <para>If something could go unnoticed by the character, such as a suprise attack or
+                    something hidden, the player should make a Perception Roll. A perception roll is
+                    typically SB = PAW, DF=0, with modifiers for how alert the character is trying
+                    to be. A perception roll takes 8 counts. A \ndx{Passive Perception Roll} can be
+                    made \index{Perception!Passive} during any action at 1/4 the success chance of a
+                    normal perception roll. A passive perception roll takes no time and takes no
+                    modifiers for simultaneous actions.</para>
+                <para>The critical success and failure effects are fairly straight forward</para>
+                <table>
+                    <title>Success and Failure</title>
+                    <tgroup cols="2">
+                        <thead>
+                            <row>
+                                <entry>Type</entry>
+                                <entry>Effect</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Amazing Success</entry>
+                                <entry>Total Understanding, 300% Detail, +-0% Timing</entry>
+                            </row>
+                            <row>
+                                <entry>Very Notable Success</entry>
+                                <entry>Total Identification, 200% Detail, +-5% Timing</entry>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry> Notable Success </entry>
+                                <entry> Total Identification, 150% Detail, +-10% Timing </entry>
+                            </row>
+                            <row>
+                                <entry> Solid Success </entry>
+                                <entry> Able to Identify exactly what is happening, 125% Detail,
+                                    +-25% Timing </entry>
+                            </row>
+                            <row>
+                                <entry> Success </entry>
+                                <entry> Basic Identification, 100% Detail, +-50% timing </entry>
+                            </row>
+                            <row>
+                                <entry> Failure </entry>
+                                <entry> Vague Identification, 25% Detail, +-75% timing </entry>
+                            </row>
+                            <row>
+                                <entry> Solid Failure </entry>
+                                <entry> No real clue, 0 Detail, 0 Timing </entry>
+                            </row>
+                            <row>
+                                <entry> Notable Failure </entry>
+                                <entry> Inaccurate Identification, +-125% Detail, +-175% Timing
+                                </entry>
+                            </row>
+                            <row>
+                                <entry> Very Notable Failure </entry>
+                                <entry> Inaccurate Identification, +-150% Detail, +-200% Timing
+                                </entry>
+                            </row>
+                            <row>
+                                <entry> Amazing Failure </entry>
+                                <entry> Wildly Inaccurate Identification, +-250% Detail, +-300%
+                                    Timing </entry>
+                            </row>
+
+                        </tbody>
+                    </tgroup>
+                </table>
+                <para>Task: Active Physical Perception DF: 0 Time: 8 cts. Skills: General
+                    Perception, Combat Perception Notes: </para>
+                <para>Task: Passive Physical Perception DF: 0 Time: 0 cts. Skills: General
+                    Perception, Combat Perception Notes: Done at 1/4 the normal chance </para>
+            </section>
+        </chapter>
+        <chapter>
+            <title>Skill Checks or Skill Rolls</title>
+                      <section>
                 <title>Actions/Reactions</title>
                 <para>The model of tasks and actions in SH is based on a series of reactions and
                     actions. When a character first enters a scene they determine how much they see
-                    and understand of the situation perception roll. Then they determine
-                    how quickly they can react initiative roll. The character will react
-                    faster when they know what is going on and slower when they
-                    don't. If a character is expecting something to happen they can prepare for that
-                    occurrence preset reactions and speed up their response</para>
+                    and understand of the situation perception roll. Then they determine how quickly
+                    they can react initiative roll. The character will react faster when they know
+                    what is going on and slower when they don't. If a character is expecting
+                    something to happen they can prepare for that occurrence preset reactions and
+                    speed up their response</para>
                 <para>Once the character has reacted they determine what they will do and then do
                     the action. </para>
             </section>
@@ -462,19 +539,28 @@
                 <para> When a character first enters a situation where action may be required they
                     must determine how much they know and how quickly they react. </para>
                 <para> When a character first becomes involved in a conflict they roll a perception
-                    roll. Then the PC rolls an initiative roll. The Initiative roll is simply 
-                    <informalequation><mathphrase>2d6 + 8 - Speed<subscript>Reaction</subscript></mathphrase></informalequation>
-                     added together. There are modifiers </para>
-                <para> 
-                    <informalequation><mathphrase>Speed<subscript>Reaction</subscript> = 1/2 Character's Speed</mathphrase></informalequation>
-                 </para>
-                <para> 
-                    <informalequation><mathphrase>Initiative = 2d6 + 8 - Speed<subscript>Reaction</subscript></mathphrase></informalequation>
-                     </para>
+                    roll. Then the PC rolls an initiative roll. The Initiative roll is simply <informalequation>
+                        <mathphrase>2d6 + 8 - Speed<subscript>Reaction</subscript></mathphrase>
+                    </informalequation> added together. There are modifiers </para>
+                <para>
+                    <informalequation>
+                        <mathphrase>Speed<subscript>Reaction</subscript> = 1/2 Character's
+                            Speed</mathphrase>
+                    </informalequation>
+                </para>
+                <para>
+                    <informalequation>
+                        <mathphrase>Initiative = 2d6 + 8 -
+                            Speed<subscript>Reaction</subscript></mathphrase>
+                    </informalequation>
+                </para>
                 <para> If the perception roll is unsuccessful, the character adds a modifier to the
                     roll. </para>
-                <para> 
-                    <informalequation><mathphrase>Initiative = 2d6 + 8 - Speed<subscript>Reaction</subscript>  + 5</mathphrase></informalequation>
+                <para>
+                    <informalequation>
+                        <mathphrase>Initiative = 2d6 + 8 - Speed<subscript>Reaction</subscript> +
+                            5</mathphrase>
+                    </informalequation>
                 </para>
                 <para> There are, of course, modifiers to the perception roll as detailed in table
                     ~\ref{Table:PerceptionModifiers} </para>
@@ -482,10 +568,9 @@
                     points and can be applied to a number of seperate tasks. </para>
                 <section>
                     <title>Speed Gains Due to Rank in a Skill</title>
-                    <para> 
-                        The character may add Rank/2 points to their speed points when
-                        using a skill. This may only be done once the character has decided to use a
-                        given skill. </para>
+                    <para> The character may add Rank/2 points to their speed points when using a
+                        skill. This may only be done once the character has decided to use a given
+                        skill. </para>
                 </section>
                 <section>
                     <title>How to avoid the math</title>
@@ -516,8 +601,8 @@
             </section>
             <section>
                 <title>Speeds of Actions</title>
-                <para> Most actions have a speed associated with them. All simple actions, unless otherwise noted, have a standard speed of 10
-                    count. </para>
+                <para> Most actions have a speed associated with them. All simple actions, unless
+                    otherwise noted, have a standard speed of 10 count. </para>
                 <para>% Speeds of Basic Actions \input{tgpm7}</para>
                 <para>Actions can be performed faster. Speeding up an action lowers the chance of
                     success. Generally half the time to act means you have half the chance to
@@ -531,15 +616,16 @@
                 <title>Drawing a Tool or Weapon</title>
                 <para>This most often applies to drawing a weapon but can also apply to other tools.
                     In general, when a weapon is in hand, all normal weapon speeds apply. In order
-                    to get a weapon into ones hand it takes 
-                    <informalequation><mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase></informalequation>
-                    in counts.</para>
-                <para> In order to get a weapon in hand faster than 
-                    <informalequation><mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase></informalequation>
-                    requires a fast draw roll against the weapon's skill. A successful ready roll
-                    brings the tool or weapon to bear at 
-                    <informalequation><mathphrase>Speed<subscript>weapon</subscript></mathphrase></informalequation>
-                    </para>
+                    to get a weapon into ones hand it takes <informalequation>
+                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation> in counts.</para>
+                <para> In order to get a weapon in hand faster than <informalequation>
+                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation> requires a fast draw roll against the weapon's skill. A
+                    successful ready roll brings the tool or weapon to bear at <informalequation>
+                        <mathphrase>Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation>
+                </para>
             </section>
             <section>
                 <title>Unranked in the Skill</title>
@@ -554,14 +640,17 @@
                     generally increase the chance to do something at a cost of increased time to get
                     it done.</para>
                 <para>Setting Up for an action takes as long as it takes to perform the action. The
-                    end effect is a bonus to the Success Chance of 
-                    <informalequation><mathphrase>20% + 2%/rank</mathphrase></informalequation>
+                    end effect is a bonus to the Success Chance of <informalequation>
+                        <mathphrase>20% + 2%/rank</mathphrase>
+                    </informalequation>
                 </para>
                 <para>To set-up an action with a time scale of counts or seconds (and sometime
-                    minutes) the total time taken is 
-                    <informalequation><mathphrase>1 x Speed<subscript>Action</subscript></mathphrase></informalequation>
-                    To set-up an action with a time scale of many minutes, hours, days, or weeks the total time
-                    taken is <informalequation><mathphrase>1/4 x Speed<subscript>Action</subscript></mathphrase></informalequation></para>
+                    minutes) the total time taken is <informalequation>
+                        <mathphrase>1 x Speed<subscript>Action</subscript></mathphrase>
+                    </informalequation> To set-up an action with a time scale of many minutes,
+                    hours, days, or weeks the total time taken is <informalequation>
+                        <mathphrase>1/4 x Speed<subscript>Action</subscript></mathphrase>
+                    </informalequation></para>
             </section>
             <section>
                 <title>Doing two things simultaneously, Florentine</title>
@@ -573,9 +662,9 @@
             </section>
             <section>
                 <title>Physically Injured or Tired</title>
-                <para>A character that is injured or fatigued has DF modifiers to
-                    their actions. Physical fatigue has the greatest effect on physical actions and
-                    Mental fatigue has the greatest effect on Mental actions.</para>
+                <para>A character that is injured or fatigued has DF modifiers to their actions.
+                    Physical fatigue has the greatest effect on physical actions and Mental fatigue
+                    has the greatest effect on Mental actions.</para>
                 <table>
                     <title>Difficulty of Actions while Physically Exhausted or Injured</title>
                     <tgroup cols="2">
@@ -957,10 +1046,10 @@
                     </section>
                     <section>
                         <title>Advance</title>
-                        <para>A character may choose to press in on an opponent. In doing so
-                            they gain DF +4 to all offensive actions and DF -4 to all defensive actions. This is only
-                            possible if the attacker has a weapon of greater or equal length to the
-                            defender.</para>
+                        <para>A character may choose to press in on an opponent. In doing so they
+                            gain DF +4 to all offensive actions and DF -4 to all defensive actions.
+                            This is only possible if the attacker has a weapon of greater or equal
+                            length to the defender.</para>
                     </section>
                     <section>
                         <title>Indirect Fire</title>
@@ -970,8 +1059,8 @@
                     <section>
                         <title>Called Shots</title>
                         <para>In any physical targeted action there is the potential to specify the
-                            location of the strike. That of course entails DF modifiers to the action.
-                        </para>
+                            location of the strike. That of course entails DF modifiers to the
+                            action. </para>
                         <table>
                             <title/>
                             <tgroup cols="3">
@@ -1018,17 +1107,18 @@
                     <section>
                         <title>Spinning</title>
                         <subtitle/>
-                        <para>Any action performed while spinning has a DF -2, a damage modifier of
-                            <informalequation><mathphrase>1.5 x Normal<subscript>Damage </subscript></mathphrase></informalequation>
-                            , and is 1.5 times slower than a normal
+                        <para>Any action performed while spinning has a DF -2, a damage modifier of <informalequation>
+                                <mathphrase>1.5 x Normal<subscript>Damage </subscript></mathphrase>
+                            </informalequation> , and is 1.5 times slower than a normal
                             attack.</para>
                     </section>
                     <section>
                         <title>Jumping</title>
                         <subtitle/>
-                        <para>Any action performed while Jumping has a DF -4, a damage modifier of
-                            <informalequation><mathphrase>1.5 x Normal<subscript>Damage </subscript></mathphrase></informalequation>
-                            , and is 1.5 times slower than a normal attack.</para>
+                        <para>Any action performed while Jumping has a DF -4, a damage modifier of <informalequation>
+                                <mathphrase>1.5 x Normal<subscript>Damage </subscript></mathphrase>
+                            </informalequation> , and is 1.5 times slower than a normal
+                            attack.</para>
                     </section>
                     <section>
                         <title>Feint</title>
@@ -1066,15 +1156,15 @@
                             making a normal attack using SB=PCA. Like any other attack it may be
                             repulsed or actively countered.</para>
                         <para>The gain for such an attack is to have the opponent on the ground.
-                            Damage for a throw attack is simply equal to the attackers 
-                            <informalequation><mathphrase>PSE x 2</mathphrase></informalequation>
-                             DF -5.</para>
+                            Damage for a throw attack is simply equal to the attackers <informalequation>
+                                <mathphrase>PSE x 2</mathphrase>
+                            </informalequation> DF -5.</para>
                     </section>
                     <section>
                         <title>Grapple</title>
                         <subtitle/>
-                        <para>A grapple is simply an attempt to get a hand hold on the opponent. It is like any other attack in that
-                            it may be countered normally</para>
+                        <para>A grapple is simply an attempt to get a hand hold on the opponent. It
+                            is like any other attack in that it may be countered normally</para>
                         <para>A successful grapple gives a DF +5 modifier to any other close combat
                             attack such as throw, overbear, and any attempts to increase the
                             hold.</para>
@@ -1224,13 +1314,13 @@
                     <section>
                         <title>Knockback</title>
                         <para>When a character has been hit by a something with large amount of
-                            kinetic energy they can fall down or lose their
-                            balance. This is called Knock-Back. It happens when more than 1/2 of the
-                            entities PFT or 1/4 of their PBD is taken away in a single crushing or
-                            projectile strike. It can also happen with any explosive attack.
-                            The Knockback resistance roll is DF -2. If successful the character is
-                            unaffected. If failed the entity has fallen to the ground. The stat
-                            basis is typically PST or PAG whichever is greater.</para>
+                            kinetic energy they can fall down or lose their balance. This is called
+                            Knock-Back. It happens when more than 1/2 of the entities PFT or 1/4 of
+                            their PBD is taken away in a single crushing or projectile strike. It
+                            can also happen with any explosive attack. The Knockback resistance roll
+                            is DF -2. If successful the character is unaffected. If failed the
+                            entity has fallen to the ground. The stat basis is typically PST or PAG
+                            whichever is greater.</para>
                     </section>
                     <section>
                         <title>Bleeding</title>
@@ -1289,13 +1379,13 @@
                     <section>
                         <title>Normal Defense</title>
                         <subtitle/>
-                        <para>There are a number of forms of active defense.
-                            All entities, if they are aware of an attack, may apply their normal
-                            defense against that attack. This does not count as an action !</para>
+                        <para>There are a number of forms of active defense. All entities, if they
+                            are aware of an attack, may apply their normal defense against that
+                            attack. This does not count as an action !</para>
                     </section>
                     <section>
                         <title>Retreating</title>
-                        <subtitle>AKA Runaway</subtitle>
+                        <subtitle>AKA Run away</subtitle>
                         <para>A character may choose to retreat any time they have the initiative to
                             do so. A retreat may be performed simultaneously with any other action
                             at no mods. Retreat will add DF +6 to any defensive action and DF -6 to
@@ -1305,78 +1395,78 @@
                         <title>Evasion</title>
                         <subtitle/>
                         <para>Weaving back and forth and trying to actively avoid attacks is called
-                            evading. For as long as a PC is evading an
-                            attack or series of attacks their defense is 
-                            <informalequation><mathphrase>2 x PDF or MDF</mathphrase></informalequation>
-                            The character need only declare that they are evading and it takes
-                            effect at their first action point. Of course the character can perform
-                            other actions at the same time but they will be considered as florentine
-                            actions. The character is at a DF +3 when performing a dodge from an
-                            evading state.</para>
+                            evading. For as long as a PC is evading an attack or series of attacks
+                            their defense is <informalequation>
+                                <mathphrase>2 x PDF or MDF</mathphrase>
+                            </informalequation> The character need only declare that they are
+                            evading and it takes effect at their first action point. Of course the
+                            character can perform other actions at the same time but they will be
+                            considered as florentine actions. The character is at a DF +3 when
+                            performing a dodge from an evading state.</para>
                     </section>
                     <section>
                         <title>Dodging</title>
                         <subtitle/>
-                        <para>OK, just moving out of the way is not enough,
-                            you want to be out of the area ! Dodging is one way to achieve that. It
-                            gives you a better defense then evading but it does require you to pick
-                            yourself up afterwards.</para>
+                        <para>OK, just moving out of the way is not enough, you want to be out of
+                            the area ! Dodging is one way to achieve that. It gives you a better
+                            defense then evading but it does require you to pick yourself up
+                            afterwards.</para>
                         <para>Dodging is an extension of the normal defensive technique of getting
                             out of the way. Dodging implies that the PC is actively throwing himself
                             out of the path of an attack. Dodging takes 5 pulses to start, 10 pulses
                             of movement, and 5 pulses of deceleration. A Dodge leaves the character
                             in the act of a controlled fall. A skilled individual may roll to
-                            acrobatically recover. A dodging character has 
-                            <informalequation><mathphrase>2 x PDF</mathphrase></informalequation>
-                            during
-                            the first part of the dodge, 
-                            <informalequation><mathphrase>3 x PDF</mathphrase></informalequation>
-                            during the second part
-                            of the dodge and normal PDF for the recovery portion of the dodg</para>
+                            acrobatically recover. A dodging character has <informalequation>
+                                <mathphrase>2 x PDF</mathphrase>
+                            </informalequation> during the first part of the dodge, <informalequation>
+                                <mathphrase>3 x PDF</mathphrase>
+                            </informalequation> during the second part of the dodge and normal PDF
+                            for the recovery portion of the dodg</para>
                     </section>
                     <section>
                         <title>Dropping Prone</title>
                         <subtitle/>
                         <para>A specialized form of Dodge that only works within a strong gravity
                             field. It is a 5 pulse action that leaves the character in a prone
-                            position. During the action the character has a defense of <informalequation><mathphrase>3 x PDF</mathphrase></informalequation>
-                            Once down the character has 1/2 the normal PDF. 30 pulses are
-                            required to get back up.</para>
+                            position. During the action the character has a defense of <informalequation>
+                                <mathphrase>3 x PDF</mathphrase>
+                            </informalequation> Once down the character has 1/2 the normal PDF. 30
+                            pulses are required to get back up.</para>
                     </section>
                     <section>
                         <title>Crouching</title>
                         <subtitle/>
                         <para>\index{Defense!Crouching Down} Crouching down can be used as a one
                             time evasive maneuver against an incoming attack. It is a five pulse
-                            action that gives 
-                            <informalequation><mathphrase>2 x PDF</mathphrase></informalequation>
-                            against the attack. This is in lieu of full evasion.</para>
+                            action that gives <informalequation>
+                                <mathphrase>2 x PDF</mathphrase>
+                            </informalequation> against the attack. This is in lieu of full
+                            evasion.</para>
                     </section>
                     <section>
                         <title>Parrying</title>
                         <subtitle/>
-                        <para>Parrying an attack involves redirecting an
-                            attacker's weapon with the character's own. A parry is done with a
-                            shield or weapon. DF -3, SB = Wpn SB, Speed as per 1/2 weapon speed. DF
-                            -5 against Thrown, DF -30 against Projectile, DF -40 against NRG. This
-                            is simply a skill opposition roll.</para>
+                        <para>Parrying an attack involves redirecting an attacker's weapon with the
+                            character's own. A parry is done with a shield or weapon. DF -3, SB =
+                            Wpn SB, Speed as per 1/2 weapon speed. DF -5 against Thrown, DF -30
+                            against Projectile, DF -40 against NRG. This is simply a skill
+                            opposition roll.</para>
                         <para>Side effects of parrying:</para>
-                        <para>If a defender succeeds in a parry by less than
-                            5% the two weapons are assumed to have become ``Bound'' and the
-                            attacker has advanced on the defender. See rules on advance. The
-                            defender may roll at their next initiative to release the weapon. This
-                            is a skill opposition roll</para>
-                        <para>If the attacker fails to avoid a parry by
-                            more than 25% then the attacker is effectively off balance and is
-                            subject to DFs just as if they had failed a system shock roll.</para>
+                        <para>If a defender succeeds in a parry by less than 5% the two weapons are
+                            assumed to have become ``Bound'' and the attacker has advanced on the
+                            defender. See rules on advance. The defender may roll at their next
+                            initiative to release the weapon. This is a skill opposition roll</para>
+                        <para>If the attacker fails to avoid a parry by more than 25% then the
+                            attacker is effectively off balance and is subject to DFs just as if
+                            they had failed a system shock roll.</para>
                     </section>
                     <section>
                         <title>Block</title>
                         <subtitle/>
-                        <para>A block is an attempt to use a weapon or a
-                            shield to provide addition armor against damage. DF -2. If the block is
-                            successful the defender rolls damage with the weapon and can apply that
-                            damage as armor. Speed as per 1/2 weapon speed.</para>
+                        <para>A block is an attempt to use a weapon or a shield to provide addition
+                            armor against damage. DF -2. If the block is successful the defender
+                            rolls damage with the weapon and can apply that damage as armor. Speed
+                            as per 1/2 weapon speed.</para>
                     </section>
                     <section>
                         <title>Rolling with the blow</title>
@@ -1407,12 +1497,13 @@
             <title>Skills and Tasks</title>
             <section>
                 <title>Tasks</title>
-                <para>A task is an action or a group of actions to be performed. Each task has
-                    a difficulty associated with it. That combined with the knowledge of the
+                <para>A task is an action or a group of actions to be performed. Each task has a
+                    difficulty associated with it. That combined with the knowledge of the
                     character's rank in the skill and their stats allows us to determine the
                     percentile roll needed to succeed.</para>
-                <para>To do a task the character determines the Difficulty Factor DF of
-                    the task and what skill(s) may be used to do the task. A base chance to BC is determined and modified by the difficulty factor of the task. </para>
+                <para>To do a task the character determines the Difficulty Factor DF of the task and
+                    what skill(s) may be used to do the task. A base chance to BC is determined and
+                    modified by the difficulty factor of the task. </para>
                 <para>Forcing a locked door is a task that has some difficulty. If the character has
                     no skill in forcing doors then they are forcing the door based on using just
                     physical strength. Their chance to force the door is based on their physical
@@ -1461,11 +1552,12 @@
                     <title>Difficulty Factors</title>
                     <para> The difficulty of a task is described by a number referred to as an
                         ``Difficulty Factor'' or DF. Difficulty Factors for tasks typically range
-                        from -10 to +4. Throughout SH it is assumed that the base DF of an action
-                        is 0 unless otherwise stated.</para>
-                    <para> The modifier for a task is simply 5% times the Difficulty Factor or: 
-                        <informalequation><mathphrase>Modifier = 5 x Difficulty Factor</mathphrase></informalequation>
-                        </para>
+                        from -10 to +4. Throughout SH it is assumed that the base DF of an action is
+                        0 unless otherwise stated.</para>
+                    <para> The modifier for a task is simply 5% times the Difficulty Factor or: <informalequation>
+                            <mathphrase>Modifier = 5 x Difficulty Factor</mathphrase>
+                        </informalequation>
+                    </para>
                     <para> If there are a series of actions that can be lumped together in a single
                         task the DF for the task is the average of the DFs for all the tasks. </para>
                     <para> Jogging across the street and leaping a small fence are actions that are
@@ -1481,9 +1573,10 @@
                     <para>The task has a \ndx{stat basis} that describes what stat or combination of
                         stats can be used to do the task. This is only used if the character has
                         none of the skills in the Applicable Skills entry.</para>
-                    <para>The Base Chance for someone who has no skill is 
-                        <informalequation><mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase></informalequation>
-                     </para>
+                    <para>The Base Chance for someone who has no skill is <informalequation>
+                            <mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase>
+                        </informalequation>
+                    </para>
                 </section>
                 <section>
                     <title>Time</title>
@@ -1542,40 +1635,42 @@
                 </section>
                 <section>
                     <title>Ranking</title>
-                    <para>Proficiency in a skill is described by a number with a range of 0-30.
-                        The higher the number, the greater the character's
-                        expertise. Someone is completely unfamiliar with a skill is considered to be
-                        unranked. Someone who is familiar with the basics of the skill is rank
-                        0. Other rankings are described in table \ref{Table:SkillRanks}.</para>
+                    <para>Proficiency in a skill is described by a number with a range of 0-30. The
+                        higher the number, the greater the character's expertise. Someone is
+                        completely unfamiliar with a skill is considered to be unranked. Someone who
+                        is familiar with the basics of the skill is rank 0. Other rankings are
+                        described in table \ref{Table:SkillRanks}.</para>
                 </section>
                 <section>
                     <title>Stat Basis</title>
-                    <para>Each skill has a stat or a combination of stats that is called the
-                        stat basis and is used to calculate the base
-                        chance of using the skill. </para>
+                    <para>Each skill has a stat or a combination of stats that is called the stat
+                        basis and is used to calculate the base chance of using the skill. </para>
                     <para>To use a skill the GM determines what the Base Chance of the skill is and
                         adds in the modifiers for the task being performed. The Base Chance of using
-                        a skill is three times the Stat Basis of the skill or 
-                        <informalequation><mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase></informalequation>
-                        For each rank the character has in the skill add 4%. The modifiers for the task vary for each situation.</para>
+                        a skill is three times the Stat Basis of the skill or <informalequation>
+                            <mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase>
+                        </informalequation> For each rank the character has in the skill add 4%. The
+                        modifiers for the task vary for each situation.</para>
                 </section>
                 <section>
                     <title>Types of skills</title>
                     <simplelist>
-                        <member>Art -An activity that has as its aim an affect upon the aesthetic senses of its
-                            audience.</member>
-                        <member>Craft -An activity that is intended to mix Art with the production of some
-                            utilitarian object or effect.</member>
-                        <member>Science -A series of disciplines intended to increase a codified body of
-                            knowledge.</member>
-                        <member>Engineering -Any area of endeavour that attempts to apply a codified body of
-                            knowledge to the production of a desired physical effect.</member>
-                        <member>Technical Study -An area of endeavour that is focused upon creating and maintaining the
-                            end result of the corresponding engineering discipline</member>
-                        <member>Physical Discipline -Any area of endeavour based on muscle memory training.
-                        </member>
-                        <member>Mental Discipline -Any area of endeavour based on purely mental manipulations without
-                            reference </member>
+                        <member>Art -An activity that has as its aim an affect upon the aesthetic
+                            senses of its audience.</member>
+                        <member>Craft -An activity that is intended to mix Art with the production
+                            of some utilitarian object or effect.</member>
+                        <member>Science -A series of disciplines intended to increase a codified
+                            body of knowledge.</member>
+                        <member>Engineering -Any area of endeavour that attempts to apply a codified
+                            body of knowledge to the production of a desired physical
+                            effect.</member>
+                        <member>Technical Study -An area of endeavour that is focused upon creating
+                            and maintaining the end result of the corresponding engineering
+                            discipline</member>
+                        <member>Physical Discipline -Any area of endeavour based on muscle memory
+                            training. </member>
+                        <member>Mental Discipline -Any area of endeavour based on purely mental
+                            manipulations without reference </member>
                     </simplelist>
                 </section>
             </section>
@@ -1586,8 +1681,9 @@
                     <para>A character can gain experience points for roleplaying and use those
                         experience points to buy that skill.</para>
                     <para>Each skill has a base cost associated with it. This base cost is listed
-                        with the skill or it can be gotten from table \ref{Table:SkillComponentCosts} Included below is a
-                        list of some typical types of skills and their costs.</para>
+                        with the skill or it can be gotten from table
+                        \ref{Table:SkillComponentCosts} Included below is a list of some typical
+                        types of skills and their costs.</para>
                     <table>
                         <title>Costs of Skill Components</title>
                         <tgroup cols="3">
@@ -1734,8 +1830,8 @@
                     <title>Training</title>
                     <para>For each 10 hours of training with a teacher the character gets 1 EEP. For
                         each 20 hours of training with a partner the character gets 1 EEP. For each
-                        30 hours of self-training with a the character gets 1 EEP.
-                        There are all sorts of modifiers so ask....</para>
+                        30 hours of self-training with a the character gets 1 EEP. There are all
+                        sorts of modifiers so ask....</para>
                 </section>
                 <section>
                     <title>Costs of unlisted skills</title>
@@ -1745,9 +1841,9 @@
                 </section>
                 <section>
                     <title>Relations Among Skills</title>
-                    <para>In situations where the character does not have a skill that
-                        is directly applicable to the task being performed
-                        the character may choose to use a related skill. </para>
+                    <para>In situations where the character does not have a skill that is directly
+                        applicable to the task being performed the character may choose to use a
+                        related skill. </para>
                     <para>A typical example would be in using two different types of handguns. The
                         character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun
                         weapon is fairly different from the Slug Pistol so the character can only
@@ -1815,23 +1911,22 @@
                 <section>
                     <title>Unfamiliar Tools</title>
                     <para>If the skill requires the use of tools and the tool that the character is
-                        utilizing is unfamiliar, then the action
-                        occurs at a DF -2. This usually only happens if the differences between the
-                        version of the tool the character normally uses and the current one actual
-                        effect how it is used. A gun with a different mass than the entity is used
-                        to is unfamiliar, whereas a gun of the same model and same manufacturer is
-                        not. To eliminate this unfamiliarity modifier requires that the entity
-                        familiarize himself with the tool with a DF -3 roll against the SB of the
-                        skill with a gain of 1 DF per roll..</para>
+                        utilizing is unfamiliar, then the action occurs at a DF -2. This usually
+                        only happens if the differences between the version of the tool the
+                        character normally uses and the current one actual effect how it is used. A
+                        gun with a different mass than the entity is used to is unfamiliar, whereas
+                        a gun of the same model and same manufacturer is not. To eliminate this
+                        unfamiliarity modifier requires that the entity familiarize himself with the
+                        tool with a DF -3 roll against the SB of the skill with a gain of 1 DF per
+                        roll..</para>
                 </section>
                 <section>
                     <title>General Skills</title>
-                    <para>Skills that are described as general skills cover a wide range of
-                        tasks with very little depth.
-                        A person who has learned a general skill such as Throw Object is able to
-                        throw just about anything they can get their hands on ( knives, spoons,
-                        rocks, chairs) with a lesser success chance than someone who has a specific
-                        skill in throwing a particular object</para>
+                    <para>Skills that are described as general skills cover a wide range of tasks
+                        with very little depth. A person who has learned a general skill such as
+                        Throw Object is able to throw just about anything they can get their hands
+                        on ( knives, spoons, rocks, chairs) with a lesser success chance than
+                        someone who has a specific skill in throwing a particular object</para>
                     <para>In addition, there are skills known as support skills that are solely
                         \index{Skills!Support} designed to increase the success chance when doing
                         one type of action with a skill. Someone who uses their sword to parry
@@ -1839,24 +1934,23 @@
                         they would have a ``Long Sword' skill and a ``Long Sword : Parry''
                         skill.</para>
                     <para>General skills only give 1%/rank to the success chance. Specific skills
-                        (the SH norm), give 4%/rank. Support Skills add 2%/rank. There is no
-                        limit on the number of support skills that may be applied to a single
-                        task.</para>
+                        (the SH norm), give 4%/rank. Support Skills add 2%/rank. There is no limit
+                        on the number of support skills that may be applied to a single task.</para>
                 </section>
                 <section>
                     <title>Filter Skills</title>
                     <para>SThere is a category of skills which affects the use of other skills in an
                         environment different from the one they were learned in. These skills are
-                        called filter skills. A Filter skill is any skill that can allow
-                        for the full expression of other skills in an
-                        environment other than that for which those skills were designed for.</para>
+                        called filter skills. A Filter skill is any skill that can allow for the
+                        full expression of other skills in an environment other than that for which
+                        those skills were designed for.</para>
                     <para>Typical filter skills include the following: 0-g maneuver, Tech Level
                         Lore, Culture Lore, Mounted Combat, Vehicular Combat skills, Armor Wearing,
                         and Computer operations.</para>
                     <para>For situations in which the character is attempting to apply a skill in a
-                        environment he is not familiar with and that skill must interact with
-                        that environment, then the rank in the filter skill becomes the upper limit
-                        on the effective rank of the skill being used.</para>
+                        environment he is not familiar with and that skill must interact with that
+                        environment, then the rank in the filter skill becomes the upper limit on
+                        the effective rank of the skill being used.</para>
                     <para>As an example, if someone has a mounted combat skill at rank 5, he or she
                         may use their archery skill up to rank 5 without making any rolls against
                         their mounted combat. If the character has a higher archery skill and wants
@@ -1866,14 +1960,17 @@
                 <section>
                     <title>Skill Pools</title>
                     <para>
-                        <informalequation><mathphrase>
-                        {Pool\, Bonus} = Rank_{Highest\,Skill}/2 + \sum {Rank_{All\, Other\, Skills}}/10$ with a maximum of 
-                        Rank_{Highest\, Rank} \cdot 2$  Pools may be grouped
-                        according to training style, SB, or character preference. 
-                        </mathphrase></informalequation></para>
+                        <informalequation>
+                            <mathphrase> {Pool\, Bonus} = Rank_{Highest\,Skill}/2 + \sum
+                                {Rank_{All\, Other\, Skills}}/10$ with a maximum of Rank_{Highest\,
+                                Rank} \cdot 2$ Pools may be grouped according to training style, SB,
+                                or character preference. </mathphrase>
+                        </informalequation></para>
                 </section>
             </section>
         </chapter>
         <index> </index>
     </part>
+
+
 </book>
