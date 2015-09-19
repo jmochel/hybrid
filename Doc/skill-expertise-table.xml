@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<table xml:id="ExpertiseTable">
+    <title>Ranks and Expertise</title>
+    <tgroup cols="2">
+        <thead>
+            <row><entry>Rank</entry><entry>Expertise</entry></row>
+        </thead>
+        <tbody>
+            <row><entry>0     </entry><entry>Familiar with the skill </entry></row>
+            <row><entry>1-3   </entry><entry>Beginner </entry></row>
+            <row><entry>4-6   </entry><entry>Dedicated Amateur </entry></row>
+            <row><entry>7-10  </entry><entry>Solid Workaday Craftsman </entry></row>
+            <row><entry>11-14 </entry><entry>Professional </entry></row>
+            <row><entry>15-18 </entry><entry>Expert </entry></row>
+            <row><entry>19-25 </entry><entry>Mastery </entry></row>
+            <row><entry>25+   </entry><entry>Mystical Mastery </entry></row>
+        </tbody>
+    </tgroup>
+</table>
+

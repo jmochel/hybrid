@@ -113,48 +113,546 @@
             <section>
                 <title>Success Chance<indexterm><primary>Success
                     Chance</primary><secondary>calculating</secondary></indexterm></title>
+                <para>
+                    The success chance is calculated very simply by adding and subtracting some numbers to create the <termdef>Difficulty Factor</termdef> and checking the DRF table.
+                </para>
+                <para>
+                <table xml:id="SuccessTable">
+                    <title>Success Chance</title>
+                    <tgroup cols="12">
+                        <thead>
+                            <row>
+                                <?dbfo bgcolor="teal" ?>
+                                <entry><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Difficulty</entry>
+                                <entry><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>% Chance</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Amazing Success</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Very Notable Success</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Notable Success</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Solid Success</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Success</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Failure</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Solid Failure</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Notable Failure</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Very Notable Failure</entry>
+                                <entry rotate="1"><?dbfo orientation="90"?>
+                                    <?dbfo rotated-width="1.4in"?>Amazing Failure</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row><entry>-1</entry><entry>1</entry><entry>0</entry><entry>0</entry><entry>0</entry><entry>1</entry><entry>1</entry><entry>2</entry><entry>2</entry><entry>2</entry><entry>3</entry><entry>4</entry></row>
+                            <row><entry>0</entry><entry>6</entry><entry>0</entry><entry>1</entry><entry>2</entry><entry>3</entry><entry>6</entry><entry>7</entry><entry>9</entry><entry>12</entry><entry>15</entry><entry>18</entry></row>
+                            <row><entry>1</entry><entry>11</entry><entry>0</entry><entry>1</entry><entry>3</entry><entry>5</entry><entry>11</entry><entry>12</entry><entry>16</entry><entry>22</entry><entry>27</entry><entry>32</entry></row>
+                            <row><entry>2</entry><entry>16</entry><entry>0</entry><entry>2</entry><entry>4</entry><entry>8</entry><entry>16</entry><entry>17</entry><entry>23</entry><entry>31</entry><entry>39</entry><entry>47</entry></row>
+                            <row><entry>3</entry><entry>20</entry><entry>0</entry><entry>2</entry><entry>5</entry><entry>10</entry><entry>20</entry><entry>21</entry><entry>30</entry><entry>40</entry><entry>50</entry><entry>60</entry></row>
+                            <row><entry>4</entry><entry>25</entry><entry>0</entry><entry>2</entry><entry>6</entry><entry>12</entry><entry>25</entry><entry>26</entry><entry>37</entry><entry>49</entry><entry>61</entry><entry>74</entry></row>
+                            <row><entry>5</entry><entry>29</entry><entry>0</entry><entry>3</entry><entry>7</entry><entry>14</entry><entry>29</entry><entry>30</entry><entry>43</entry><entry>58</entry><entry>72</entry><entry>86</entry></row>
+                            <row><entry>6</entry><entry>33</entry><entry>0</entry><entry>3</entry><entry>8</entry><entry>16</entry><entry>33</entry><entry>34</entry><entry>49</entry><entry>66</entry><entry>82</entry><entry>99</entry></row>
+                            <row><entry>7</entry><entry>37</entry><entry>0</entry><entry>4</entry><entry>9</entry><entry>18</entry><entry>37</entry><entry>38</entry><entry>55</entry><entry>73</entry><entry>92</entry><entry>110</entry></row>
+                            <row><entry>8</entry><entry>40</entry><entry>0</entry><entry>4</entry><entry>10</entry><entry>20</entry><entry>40</entry><entry>41</entry><entry>60</entry><entry>80</entry><entry>100</entry><entry>120</entry></row>
+                            <row><entry>9</entry><entry>43</entry><entry>0</entry><entry>4</entry><entry>11</entry><entry>22</entry><entry>43</entry><entry>44</entry><entry>65</entry><entry>87</entry><entry>109</entry><entry>130</entry></row>
+                            <row><entry>10</entry><entry>46</entry><entry>0</entry><entry>5</entry><entry>12</entry><entry>23</entry><entry>46</entry><entry>47</entry><entry>70</entry><entry>93</entry><entry>116</entry><entry>139</entry></row>
+                            <row><entry>11</entry><entry>49</entry><entry>0</entry><entry>5</entry><entry>12</entry><entry>25</entry><entry>49</entry><entry>50</entry><entry>74</entry><entry>99</entry><entry>123</entry><entry>148</entry></row>
+                            <row><entry>12</entry><entry>52</entry><entry>1</entry><entry>5</entry><entry>13</entry><entry>26</entry><entry>52</entry><entry>53</entry><entry>78</entry><entry>104</entry><entry>130</entry><entry>156</entry></row>
+                            <row><entry>13</entry><entry>54</entry><entry>1</entry><entry>5</entry><entry>14</entry><entry>27</entry><entry>54</entry><entry>55</entry><entry>81</entry><entry>109</entry><entry>136</entry><entry>163</entry></row>
+                            <row><entry>14</entry><entry>57</entry><entry>1</entry><entry>6</entry><entry>14</entry><entry>28</entry><entry>57</entry><entry>58</entry><entry>85</entry><entry>113</entry><entry>141</entry><entry>170</entry></row>
+                            <row><entry>15</entry><entry>59</entry><entry>1</entry><entry>6</entry><entry>15</entry><entry>29</entry><entry>59</entry><entry>60</entry><entry>88</entry><entry>117</entry><entry>146</entry><entry>176</entry></row>
+                            <row><entry>16</entry><entry>60</entry><entry>1</entry><entry>6</entry><entry>15</entry><entry>30</entry><entry>60</entry><entry>61</entry><entry>91</entry><entry>121</entry><entry>151</entry><entry>181</entry></row>
+                            <row><entry>17</entry><entry>62</entry><entry>1</entry><entry>6</entry><entry>16</entry><entry>31</entry><entry>62</entry><entry>63</entry><entry>93</entry><entry>124</entry><entry>156</entry><entry>187</entry></row>
+                            <row><entry>18</entry><entry>64</entry><entry>1</entry><entry>6</entry><entry>16</entry><entry>32</entry><entry>64</entry><entry>65</entry><entry>96</entry><entry>128</entry><entry>160</entry><entry>191</entry></row>
+                            <row><entry>19</entry><entry>65</entry><entry>1</entry><entry>7</entry><entry>16</entry><entry>33</entry><entry>65</entry><entry>66</entry><entry>98</entry><entry>131</entry><entry>163</entry><entry>196</entry></row>
+                            <row><entry>20</entry><entry>67</entry><entry>1</entry><entry>7</entry><entry>17</entry><entry>33</entry><entry>67</entry><entry>68</entry><entry>100</entry><entry>133</entry><entry>167</entry><entry>200</entry></row>
+                            <row><entry>21</entry><entry>68</entry><entry>1</entry><entry>7</entry><entry>17</entry><entry>34</entry><entry>68</entry><entry>69</entry><entry>102</entry><entry>136</entry><entry>170</entry><entry>204</entry></row>
+                            <row><entry>22</entry><entry>69</entry><entry>1</entry><entry>7</entry><entry>17</entry><entry>35</entry><entry>69</entry><entry>70</entry><entry>104</entry><entry>138</entry><entry>173</entry><entry>208</entry></row>
+                            <row><entry>23</entry><entry>70</entry><entry>1</entry><entry>7</entry><entry>18</entry><entry>35</entry><entry>70</entry><entry>71</entry><entry>106</entry><entry>141</entry><entry>176</entry><entry>211</entry></row>
+                            <row><entry>24</entry><entry>71</entry><entry>1</entry><entry>7</entry><entry>18</entry><entry>36</entry><entry>71</entry><entry>72</entry><entry>107</entry><entry>143</entry><entry>179</entry><entry>214</entry></row>
+                            <row><entry>25</entry><entry>72</entry><entry>1</entry><entry>7</entry><entry>18</entry><entry>36</entry><entry>72</entry><entry>73</entry><entry>109</entry><entry>145</entry><entry>181</entry><entry>217</entry></row>
+                            <row><entry>26</entry><entry>73</entry><entry>1</entry><entry>7</entry><entry>18</entry><entry>37</entry><entry>73</entry><entry>74</entry><entry>110</entry><entry>147</entry><entry>183</entry><entry>220</entry></row>
+                            <row><entry>27</entry><entry>74</entry><entry>1</entry><entry>7</entry><entry>19</entry><entry>37</entry><entry>74</entry><entry>75</entry><entry>111</entry><entry>148</entry><entry>186</entry><entry>223</entry></row>
+                            <row><entry>28</entry><entry>75</entry><entry>1</entry><entry>8</entry><entry>19</entry><entry>38</entry><entry>75</entry><entry>76</entry><entry>113</entry><entry>150</entry><entry>188</entry><entry>225</entry></row>
+                            <row><entry>29</entry><entry>76</entry><entry>1</entry><entry>8</entry><entry>19</entry><entry>38</entry><entry>76</entry><entry>77</entry><entry>114</entry><entry>152</entry><entry>190</entry><entry>227</entry></row>
+                            <row><entry>30</entry><entry>77</entry><entry>1</entry><entry>8</entry><entry>19</entry><entry>38</entry><entry>77</entry><entry>78</entry><entry>115</entry><entry>153</entry><entry>191</entry><entry>230</entry></row>
+                            <row><entry>32</entry><entry>78</entry><entry>1</entry><entry>8</entry><entry>19</entry><entry>39</entry><entry>78</entry><entry>79</entry><entry>117</entry><entry>156</entry><entry>195</entry><entry>234</entry></row>
+                            <row><entry>33</entry><entry>79</entry><entry>1</entry><entry>8</entry><entry>20</entry><entry>39</entry><entry>79</entry><entry>80</entry><entry>118</entry><entry>157</entry><entry>196</entry><entry>236</entry></row>
+                            <row><entry>35</entry><entry>80</entry><entry>1</entry><entry>8</entry><entry>20</entry><entry>40</entry><entry>80</entry><entry>81</entry><entry>119</entry><entry>159</entry><entry>199</entry><entry>239</entry></row>
+                            <row><entry>37</entry><entry>81</entry><entry>1</entry><entry>8</entry><entry>20</entry><entry>40</entry><entry>81</entry><entry>82</entry><entry>121</entry><entry>161</entry><entry>202</entry><entry>242</entry></row>
+                            <row><entry>39</entry><entry>82</entry><entry>1</entry><entry>8</entry><entry>20</entry><entry>41</entry><entry>82</entry><entry>83</entry><entry>122</entry><entry>163</entry><entry>204</entry><entry>245</entry></row>
+                            <row><entry>42</entry><entry>83</entry><entry>1</entry><entry>8</entry><entry>21</entry><entry>41</entry><entry>83</entry><entry>84</entry><entry>124</entry><entry>166</entry><entry>207</entry><entry>249</entry></row>
+                            <row><entry>44</entry><entry>84</entry><entry>1</entry><entry>8</entry><entry>21</entry><entry>42</entry><entry>84</entry><entry>85</entry><entry>125</entry><entry>167</entry><entry>209</entry><entry>251</entry></row>
+                            <row><entry>47</entry><entry>85</entry><entry>1</entry><entry>8</entry><entry>21</entry><entry>42</entry><entry>85</entry><entry>86</entry><entry>127</entry><entry>169</entry><entry>212</entry><entry>254</entry></row>
+                            <row><entry>50</entry><entry>86</entry><entry>1</entry><entry>9</entry><entry>21</entry><entry>43</entry><entry>86</entry><entry>87</entry><entry>128</entry><entry>171</entry><entry>214</entry><entry>257</entry></row>
+                            <row><entry>54</entry><entry>87</entry><entry>1</entry><entry>9</entry><entry>22</entry><entry>43</entry><entry>87</entry><entry>88</entry><entry>130</entry><entry>173</entry><entry>216</entry><entry>260</entry></row>
+                            <row><entry>58</entry><entry>88</entry><entry>1</entry><entry>9</entry><entry>22</entry><entry>44</entry><entry>88</entry><entry>89</entry><entry>131</entry><entry>175</entry><entry>219</entry><entry>263</entry></row>
+                            <row><entry>64</entry><entry>89</entry><entry>1</entry><entry>9</entry><entry>22</entry><entry>44</entry><entry>89</entry><entry>90</entry><entry>133</entry><entry>177</entry><entry>222</entry><entry>266</entry></row>
+                            <row><entry>70</entry><entry>90</entry><entry>1</entry><entry>9</entry><entry>22</entry><entry>45</entry><entry>90</entry><entry>91</entry><entry>134</entry><entry>179</entry><entry>224</entry><entry>269</entry></row>
+                            <row><entry>77</entry><entry>91</entry><entry>1</entry><entry>9</entry><entry>23</entry><entry>45</entry><entry>91</entry><entry>92</entry><entry>136</entry><entry>181</entry><entry>226</entry><entry>272</entry></row>
+                            
+                            <!--<row><entry>86</entry><entry>92</entry><entry>1</entry><entry>9</entry><entry>23</entry><entry>46</entry><entry>92</entry><entry>93</entry><entry>137</entry><entry>183</entry><entry>229</entry><entry>275</entry></row>
+                            <row><entry>97</entry><entry>93</entry><entry>1</entry><entry>9</entry><entry>23</entry><entry>46</entry><entry>93</entry><entry>94</entry><entry>139</entry><entry>185</entry><entry>231</entry><entry>278</entry></row>
+                            <row><entry>111</entry><entry>94</entry><entry>1</entry><entry>9</entry><entry>23</entry><entry>47</entry><entry>94</entry><entry>95</entry><entry>140</entry><entry>187</entry><entry>234</entry><entry>281</entry></row>
+                            <row><entry>131</entry><entry>95</entry><entry>1</entry><entry>9</entry><entry>24</entry><entry>47</entry><entry>95</entry><entry>96</entry><entry>142</entry><entry>189</entry><entry>236</entry><entry>284</entry></row>
+                            <row><entry>158</entry><entry>96</entry><entry>1</entry><entry>10</entry><entry>24</entry><entry>48</entry><entry>96</entry><entry>97</entry><entry>144</entry><entry>192</entry><entry>240</entry><entry>288</entry></row>
+                            <row><entry>200</entry><entry>97</entry><entry>1</entry><entry>10</entry><entry>24</entry><entry>49</entry><entry>97</entry><entry>98</entry><entry>146</entry><entry>194</entry><entry>243</entry><entry>291</entry></row>
+                            <row><entry>273</entry><entry>98</entry><entry>1</entry><entry>10</entry><entry>25</entry><entry>49</entry><entry>98</entry><entry>99</entry><entry>147</entry><entry>196</entry><entry>245</entry><entry>294</entry></row>
+                            -->
+                        </tbody>
+                    </tgroup>
+                </table>
+                </para>
+                <para>
+                The basic equation to determine the difficulty factor is the following:
+                <equation xml:id="DifficultyFactorEq">
+                    <title>Figuring out the Difficulty Factor</title>
+                    <mathphrase>Difficulty Factor = Stat<subscript>Task</subscript> + Rank<subscript>Skill</subscript> + Difficulty<subscript>Task</subscript> +/- Mods<subscript>Other</subscript></mathphrase>
+                </equation>
+                </para>
+                <para>Keep in mind that rolling the dice is straight forward and so is
+                    the storytelling. Most of the rules and tables in this system deal
+                    with how to calculate the Difficulty Factor</para>
+                <itemizedlist>
+                    <title>Sequence for figuring out the Difficulty Factor</title>
+                    <listitem><para>Figure out what the task is</para></listitem>
+                    <listitem><para>Figure out what the Stat Basis of the task is from the task description.</para></listitem>
+                    <listitem><para>Figure out what the Difficulty of the task is from the task description.</para></listitem>
+                    <listitem><para>Get Add the rank in your applicable skill.</para></listitem>
+                    <listitem><para>Figure out any applicable modifiers for the environment, gifts, etc...</para></listitem>
+                </itemizedlist>
                 <section>
-                    <title>When the character has a skill that applies to the task</title>
+                    <title>Task Descriptions</title>
+                    <para>A task is an action or a set of actions to be performed. Each task has a
+                        difficulty associated with it. </para>
+                    <variablelist>
+                        <title>Elements of a Task</title>
+                        <varlistentry>
+                            <term>Name</term>
+                            <listitem>
+                                <para>Self Explanatory</para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Stat Base</term>
+                            <term>SB</term>
+                            <listitem>
+                                <para>The stat or combination of stats the tasks is based on. </para>
+                            </listitem>
+                        </varlistentry>                        
+                        <varlistentry>
+                            <term>Difficulty</term>
+                            <listitem>
+                                <para>The difficulty of the task. Typically expressed as a number in a range from -30 to +30 </para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Time</term>
+                            <listitem>
+                                <para>The task will have time associated with it. This is the average time the
+                                    task typically takes to perform.</para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Description</term>
+                            <listitem>
+                                <para>An optional description of the task if the name is insufficient.</para>
+                            </listitem>
+                        </varlistentry>                        
+                        <varlistentry>
+                            <term>Skills</term>
+                            <listitem>
+                                <para>This is a list of suggested skills that could be used to do the task. It
+                                    is not exhaustive.</para>
+                            </listitem>
+                        </varlistentry>
+                    </variablelist>
+                </section>
+                <section>
+                    <title>Multiple Tasks</title>
+                    <para> If there are a series of actions that can be lumped together in a single
+                        task the DF for the task is the average of the DFs for all the tasks. </para>
+                    <para> Jogging across the street and leaping a small fence are actions that are
+                        best lumped together into one task. There is no reason to ask the character
+                        to roll a task roll for each action. But if the character stands the chance
+                        of being exposed to someone looking for him then a roll should be made for
+                        the entire set of actions.</para>
+                    <para> There are some common tasks and ways of describing actions that have
+                        standard DFs. </para>
+                </section>
+                <section>
+                    <title>Subjective Difficulty</title>
                     <para>
-                        If your character has a skill that applies to the task at hand then their Success Chance is 
-                        based on 
-                        <itemizedlist>
-                            <listitem><para>How difficult the action is. See <xref linkend="DifficultyFactorDef"></xref></para></listitem>
-                            <listitem><para>How skilled they are. See <xref linkend="SkillChanceDef"/></para></listitem>
-                        </itemizedlist>
-                        <equation xml:id="SkilledSuccessChanceEq">
-                            <title>Success chance when skilled</title>
-                            <mathphrase>Success Chance = Skill Chance - (Difficulty Factor<subscript>Task</subscript> x 5) </mathphrase>
-                        </equation>                        
+                        Since this is all made up anyway we often need to be able to map subjective descriptions of how difficult something to a numeric difficulty for the task. 
+                        <table xml:id="SubjectiveDifficultyTable">
+                            <title>Subjective Difficulty</title>
+                            <tgroup cols="2">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry> Subjective </entry>
+                                        <entry> DF </entry>
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry> Trivial </entry>
+                                        <entry> +2 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Simple </entry>
+                                        <entry> 0 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Non-Trivial </entry>
+                                        <entry> -2 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Difficult </entry>
+                                        <entry> -5 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Very Difficult </entry>
+                                        <entry> -7 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Damned Difficult </entry>
+                                        <entry> -10 </entry>
+                                    </row>
+                                    <row>
+                                        <entry> Nearly Impossible </entry>
+                                        <entry> -20 </entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>   
+                     </para>
+                </section>
+                <section>
+                    <title>Common Tasks</title>
+                    <para>
+                        <table xml:id="CommonTasksTable">
+                            <title>Common Tasks</title>
+                            <tgroup cols="7">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Name</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Difficulty</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Stat Base</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Time</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Description</entry>                                        
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Skills</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Side Effects</entry>                                        
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Judgement of Quality</entry>
+                                        <entry>+2</entry>
+                                        <entry>Stat Base of the appropriate perception or skill</entry>
+                                        <entry>30 secs</entry>
+                                        <entry></entry>
+                                        <entry>Perception, Evaluate Worth</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Common Action</entry>
+                                        <entry>0</entry>
+                                        <entry>Stat Base of the appropriate skill</entry>
+                                        <entry></entry>
+                                        <entry>Makes up 60\% or more of the actions made by
+                                            someone using a given skill. Anyone of basic competence in a skill would know
+                                            this action well.</entry>
+                                        <entry></entry>
+                                        <entry></entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>        
                     </para>
                 </section>
                 <section>
-                    <title>When the character is unskilled</title>
-                    <para>
-                    In situations where the character has no skill that applies to the given task, then their Success Chance is 
-                    based on
-                    <itemizedlist>
-                        <listitem><para>How difficult the action is. See <xref linkend="DifficultyFactorDef"></xref></para></listitem>
-                        <listitem><para>What stats they have that apply. See <xref linkend="StatBasisDef"/></para></listitem>
-                    </itemizedlist>
-                    Formally the equation to calculate success chance when unskilled in an area is
-                    <equation xml:id="UnskilledSuccessChanceEq">
-                        <title>Success chance when unskilled</title>
-                        <mathphrase>Success Chance = (1/2 x Stat Basis<subscript>Task</subscript>) - (Difficulty Factor<subscript>Task</subscript> x 5) </mathphrase>
-                    </equation>
-
-<!--                    
-                    <informalequation>
-                        <mathphrase>Success Chance = Base Chance - (Difficulty Factor <subscript>Action</subscript> x 5) </mathphrase>
-                        <mathphrase>SC = BC<subscript>Skill</subscript> - (DF<subscript>Action</subscript> x 5) </mathphrase>
-                    </informalequation>-->
-                </para>
-                <para>Keep in mind that rolling the dice is straight forward and so is
-                            the storytelling. Most of the rules and tables in this system deal
-                            with how to calculate the Success Chance</para>
-             </section>
-            
-            
+                    <title>Common Modifiers</title>
+                    <section>
+                        <title>Unranked in the skill</title>
+                         <para>Any character untranked in the skill has a DF -15, ad Initiative -2</para>
+                    </section>
+                    <section>
+                        <title>Doing Multiple Things at the same time</title>
+                        <subtitle>AKA Florentine actions</subtitle>
+                        <table xml:id="FlorentineModifiersTable">
+                            <title>Common Modifiers</title>
+                            <tgroup cols="5">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Name</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Description</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Physical DF</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Mental DF</entry>                                    
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Side Effects</entry>                                        
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Mental Mental Florentine</entry>                                    
+                                        <entry>Performing two mental actions at once.</entry>
+                                        <entry></entry>
+                                        <entry>DF -8/ DF -10 </entry>
+                                        <entry>DF -2 Awareness </entry>
+                                    </row>
+                                    <row>
+                                        <entry>Physical Physical Florentine</entry>
+                                        <entry>Performing two physical actions at once.</entry>
+                                        <entry>DF -4/DF -6 </entry>
+                                        <entry></entry>
+                                        <entry>DF -2 Awareness</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Mental Physical Florentine</entry>
+                                        <entry>Performing a mental and physical actions at once.</entry>
+                                        <entry>DF -2</entry>
+                                        <entry>DF -4</entry>
+                                        <entry>DF -2 Awareness</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </section>
+                    <section>
+                        <title>Well Being, Injury and Exhaustion</title>
+                        <para>A character that is injured or fatigued has DF modifiers to their actions.
+                            Physical fatigue has the greatest effect on physical actions and Mental fatigue
+                            has the greatest effect on Mental actions.</para>
+                        <table xml:id="CharacterConditionModifiersTable">
+                            <title>Character Condition Modifiers</title>
+                            <tgroup cols="5">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Name</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Description</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Physical DF</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Mental DF</entry>                                    
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Side Effects</entry>                                        
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Physically Exhausted</entry>
+                                        <entry>PEX = 0</entry>
+                                        <entry>DF -6</entry>
+                                        <entry>DF -3</entry>
+                                        <entry>DF -4 Awareness</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Slightly Physically Wounded</entry>
+                                        <entry>25% wounded in PBD </entry>
+                                        <entry>DF -2</entry>
+                                        <entry>DF -1</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Significantly Physically Wounded</entry>
+                                        <entry>50% Wounded in PBD </entry>
+                                        <entry>DF -4</entry>
+                                        <entry>DF -2</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Majorly Physically Wounded</entry>
+                                        <entry> 75% Wounded in PBD </entry>
+                                        <entry>DF -8</entry>
+                                        <entry>DF -4</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Critically Physically Wounded</entry>
+                                        <entry>90% Wounded in PBD </entry>
+                                        <entry>DF -20</entry>
+                                        <entry>DF -20</entry>
+                                        <entry></entry>
+                                    </row>                                
+                                    <row>
+                                        <entry>Mentally Exhausted</entry>
+                                        <entry>MEX = 0</entry>
+                                        <entry>DF -3</entry>
+                                        <entry>DF -6</entry>
+                                        <entry>DF -4 Awareness </entry>
+                                    </row>
+                                    <row>
+                                        <entry>Slightly Mentally Wounded</entry>
+                                        <entry>25% wounded in MBD </entry>
+                                        <entry>DF -1</entry>
+                                        <entry>DF -2</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Significantly Mentally Wounded</entry>
+                                        <entry>50% Wounded in MBD </entry>
+                                        <entry>DF -2</entry>
+                                        <entry>DF -4</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Majorly Mentally Wounded</entry>
+                                        <entry>75% Wounded in MBD </entry>
+                                        <entry>DF -4</entry>
+                                        <entry>DF -8</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Critically Mentally Wounded</entry>
+                                        <entry>90% Wounded in MBD </entry>
+                                        <entry>DF -20</entry>
+                                        <entry>DF -30</entry>
+                                        <entry></entry>
+                                    </row>                                
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </section>
+                    <section>
+                        <title>Movement</title>
+                        <para>When performing an action the character may be affected by his rate of
+                            movement. If the character is moving faster than a walk the DF due to movement
+                            applys to any physical action they are attempting. ANy mental action they
+                            perform is subject to 1/2 the listed DFs.</para>
+                        <table xml:id="MovementModifiersTable">
+                            <title>Common Modifiers </title>
+                            <tgroup cols="5">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Name</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Description</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Physical DF</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Mental DF</entry>                                    
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Side Effects</entry>                                        
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Physical Movement at a Jog </entry>
+                                        <entry></entry>
+                                        <entry>DF -3</entry>
+                                        <entry>DF -1 </entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry> Physical Movement at a Run </entry>
+                                        <entry></entry>
+                                        <entry>DF -5</entry>
+                                        <entry>DF -2</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Physical Movement at a Dash </entry>
+                                        <entry></entry>
+                                        <entry>DF -7</entry>
+                                        <entry>DF -4</entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry> Vehicular Movement </entry>
+                                        <entry></entry>
+                                        <entry>DF -10</entry>
+                                        <entry>DF -3</entry>
+                                        <entry></entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </section>
+                    <section>
+                        <title>Environmental Conditions</title>
+                        <para>This is a catchall area. Characters generally are at their best performance in
+                            conditions similiar to the environment in which they were raised. Any drastic
+                            modifications from that environment in terms of light, gravity, humidity,
+                            etc\dots can lower the character's performance.</para>
+                        <table xml:id="EnvironmentalModifiersTable">
+                            <title>Common Modifiers </title>
+                            <tgroup cols="5">
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="teal" ?>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Name</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Description</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Physical DF</entry>
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Mental DF</entry>                                    
+                                        <entry rotate="1"><?dbfo orientation="90"?>
+                                            <?dbfo rotated-width="1.4in"?>Side Effects</entry>                                        
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Visibility reduced 50%</entry>
+                                        <entry></entry>
+                                        <entry>-3</entry>
+                                        <entry></entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Visibility reduced 75%</entry>
+                                        <entry></entry>
+                                        <entry> -4 </entry>
+                                        <entry></entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry>Gravity 50\% off </entry>
+                                        <entry></entry>
+                                        <entry> -3 </entry>
+                                        <entry></entry>
+                                        <entry></entry>
+                                    </row>
+                                    <row>
+                                        <entry> Gravity 100\% off </entry>
+                                        <entry></entry>
+                                        <entry> -4 </entry>
+                                        <entry></entry>
+                                        <entry></entry>
+                                    </row>
+                                    
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </section>
+                </section>
+           </section>
             <section xml:id="SuccessAndFailure">
                 <title>Success and Failures</title>
                 <subtitle>Rules governing how well you suceed or fail.</subtitle>
@@ -167,6 +665,7 @@
                     <tgroup cols="3">
                         <thead>
                             <row>
+                                <?dbfo bgcolor="teal" ?>
                                 <entry>How you rolled</entry>
                                 <entry>Effectiveness</entry>
                                 <entry>Subjective Name</entry>
@@ -247,198 +746,387 @@
                     </tgroup>
                 </table>
                 <para> Particular tasks may have specific results associated with the the different
-                    levels of success and those specific results will be documented in tables with
+                    levels of success and those tasks will have tables with
                     the tasks. Those tables will have the name of the success type combined with
-                    what is needed to be rolled. For example "Amazing Success" will be listed as
-                    "Amazing Success[1/100]"</para>
+                    what is needed to be rolled.</para>
             </section>
             <section>
-                <title>General Play</title>
-
+                <title>Competing</title>
+                <para>When the character is testing skill versus skill the chatacter makes an
+                    Opposing Skill Roll. An opposing skill roll in a roll in which the character
+                    attempts to undo an action done previously by another character. Typically the
+                    SN of the original action is taken as a negative modifier to the current skill
+                    roll.</para>
+                <para>Attempting to conceal yourself when others are looking for you is an
+                    example.</para>
+            </section>
+        </chapter>
+        <chapter xml:id="Skills">
+            <title>Skills</title>
+            <section>
+                <title>Descriptions</title>
+                <variablelist>
+                    <title>Elements of a Skill</title>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para>Self Explanatory</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Difficulty Factor</term>
+                        <listitem>
+                            <para>The difficulty of associated with the skill</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Stat Base</term>
+                        <listitem>
+                            <para>The statistic or combination of statistics the skill is based on</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Gen Cost</term>
+                        <listitem>
+                            <para>The character generation cost of a skill or skill package.</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>EP Cost</term>
+                        <listitem>
+                            <para>The experience point cost is the amount of experience points
+                                it takes to buy a roll in a skill.</para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
                 <section>
-                    <title>Base Chance <indexterm><primary>Base
-                        Chance</primary><secondary>calculating</secondary></indexterm></title>
-                    <para> The Base Chance for a skill comes from how good the character is at a
-                        skill combined with their native statistics used by the skill. <informalequation>
-                            <mathphrase>Base Chance <subscript>Skill</subscript> = (3 x Stat Basis )
-                                + (Rank <subscript>Skill</subscript> x 4)</mathphrase>
-                            <mathphrase>BC<subscript>Skill</subscript> = (3 x SB) + (Rank
-                                <subscript>Skill</subscript> x 4)</mathphrase>
-                        </informalequation>
+                    <title>Ranking</title>
+                    <para>Proficiency in a skill is described by a number with a range of 0-30. The
+                        higher the number, the greater the character's expertise. Someone is
+                        completely unfamiliar with a skill is considered to be unranked. Someone who
+                        is familiar with the basics of the skill is rank 0. Other rankings are
+                        described in table <xref linkend="ExpertiseTable"/></para>
+                    <table xml:id="ExpertiseTable">
+                        <title>Ranks and Expertise</title>
+                        <tgroup cols="2">
+                            <thead>
+                                <row>
+                                    <?dbfo bgcolor="teal" ?>
+                                    <entry>Rank</entry><entry>Expertise</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row><entry>0</entry><entry>Familiar with the skill</entry></row>
+                                <row><entry>1-3</entry><entry>Beginner</entry></row>
+                                <row><entry>4-6</entry><entry>Dedicated Amateur</entry></row>
+                                <row><entry>7-10</entry><entry>Solid Workaday Craftsman</entry></row>
+                                <row><entry>11-14</entry><entry>Professional</entry></row>
+                                <row><entry>15-18</entry><entry>Expert</entry></row>
+                                <row><entry>19-25</entry><entry>Mastery</entry></row>
+                                <row><entry>25+</entry><entry>Mystical Mastery</entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </section>
+                <section>
+                    <title>Types of Skills</title>
+                    <simplelist>
+                        <member>Art -An activity that has as its aim an affect upon the aesthetic
+                            senses of its audience.</member>
+                        <member>Craft -An activity that is intended to mix Art with the production
+                            of some utilitarian object or effect.</member>
+                        <member>Science -A series of disciplines intended to increase a codified
+                            body of knowledge.</member>
+                        <member>Engineering -Any area of endeavour that attempts to apply a codified
+                            body of knowledge to the production of a desired physical
+                            effect.</member>
+                        <member>Technical Study -An area of endeavour that is focused upon creating
+                            and maintaining the end result of the corresponding engineering
+                            discipline</member>
+                        <member>Physical Discipline -Any area of endeavour based on muscle memory
+                            training. </member>
+                        <member>Mental Discipline -Any area of endeavour based on purely mental
+                            manipulations without reference </member>
+                    </simplelist>
+                </section>
+            </section>
+            <section>
+                <title>Working with Skills</title>
+                <section>
+                    <title>Figuring out the cost of new Skills</title>
+                    <tip><para>Not neeeded by most programmers.</para></tip>
+                    <para>Each skill has a cost that is based on the components of the skill.</para>
+                    <table>
+                        <title>Costs of Skill Components</title>
+                        <tgroup cols="3">
+                            <thead>
+                                <row>
+                                    <?dbfo bgcolor="teal" ?>
+                                    <entry>BasicType</entry>
+                                    <entry>Cost</entry>
+                                    <entry>DF</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry> Mental Disciplines </entry>
+                                    <entry> 3 </entry>
+                                    <entry> -4 </entry>
+                                </row>
+                                <row>
+                                    <entry> Art </entry>
+                                    <entry> 3 </entry>
+                                    <entry> -2 </entry>
+                                </row>
+                                <row>
+                                    <entry> Science </entry>
+                                    <entry> 7 </entry>
+                                    <entry> 0 </entry>
+                                </row>
+                                <row>
+                                    <entry> Engineering </entry>
+                                    <entry> 5 </entry>
+                                    <entry> 0 </entry>
+                                </row>
+                                <row>
+                                    <entry> Crafts </entry>
+                                    <entry> 4 </entry>
+                                    <entry> -1 </entry>
+                                </row>
+                                <row>
+                                    <entry> Technical Study </entry>
+                                    <entry> 4 </entry>
+                                    <entry> 0 </entry>
+                                </row>
+                                <row>
+                                    <entry> Physical Disciplines </entry>
+                                    <entry> 2 </entry>
+                                    <entry> 0 </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                        <tgroup cols="3">
+                            <thead>
+                                <row>
+                                    <?dbfo bgcolor="teal" ?>                                    
+                                    <entry>BasicType</entry>
+                                    <entry>Cost</entry>
+                                    <entry>DF</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Interaction Type</entry>
+                                    <entry>Cost</entry>
+                                    <entry>DF</entry>
+                                </row>
+                                <row>
+                                    <entry>Unassisted</entry>
+                                    <entry>0</entry>
+                                    <entry>0</entry>
+                                </row>
+                                <row>
+                                    <entry>Single Assisted</entry>
+                                    <entry>1</entry>
+                                    <entry>-1</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                        <tgroup cols="3">
+                            <thead>
+                                <row>
+                                    <?dbfo bgcolor="teal" ?>
+                                    <entry>Tool Use</entry>
+                                    <entry>Cost</entry>
+                                    <entry>DF</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry> Non-Tool Based </entry>
+                                    <entry> 0 </entry>
+                                    <entry> 0 </entry>
+                                </row>
+                                <row>
+                                    <entry> Simple Tool Based </entry>
+                                    <entry> 1 </entry>
+                                    <entry> -1 </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <table>
+                        <title>Common Skill types and their costs</title>
+                        <tgroup cols="3">
+                            <thead>
+                                <row>
+                                    <?dbfo bgcolor="teal" ?>
+                                    <entry>Name</entry>
+                                    <entry>Type</entry>
+                                    <entry>Interaction</entry>
+                                    <entry>Tool Use</entry>
+                                    <entry>Cost</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Lore Skills</entry>
+                                    <entry>Mental Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>No Tools</entry>
+                                    <entry>3</entry>
+                                </row>
+                                <row>
+                                    <entry>Spoken Language Skills</entry>
+                                    <entry>Mental Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>No Tools</entry>
+                                    <entry>3</entry>
+                                </row>
+                                <row>
+                                    <entry>Written Language Skills</entry>
+                                    <entry>Mental Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>Simple Tools</entry> 
+                                    <entry>4</entry>
+                                </row>
+                                <row>
+                                    <entry>Unarmed Weapon Skills </entry>
+                                    <entry>Physical Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>No Tools</entry>
+                                    <entry>2</entry>
+                                </row>
+                                <row>
+                                    <entry>Primitive Weapon Skills </entry>
+                                    <entry>Physical Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>Simple Tools</entry>
+                                    <entry>3</entry>
+                                </row>
+                                <row>
+                                    <entry>Complex Weapon Skills</entry>
+                                    <entry>Physical Discipline</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>Complex Tools</entry>
+                                    <entry>4</entry>
+                                </row>
+                                <row>
+                                    <entry>Basic Science Skills </entry>
+                                    <entry>Science</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>No Tools</entry> 
+                                    <entry>7</entry>
+                                </row>
+                                <row>
+                                    <entry>Basic Engineering Skills</entry>
+                                    <entry>Engineering</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>Complex Tools</entry>
+                                    <entry>Cost is 7</entry>
+                                </row>
+                                <row>
+                                    <entry>Basic Technical Skills </entry>
+                                    <entry>Technical</entry>
+                                    <entry>No Assist</entry>
+                                    <entry>Complex Tools</entry>
+                                    <entry>Cost is 6</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <para>To determine the cost of raising a skill from one rank to the next rank up
+                        find the row in table that has the base cost of the
+                        skill. Find the column with your current rank in that skill. The cost in
+                        each column to the right is the cost it takes to raise a skill from the
+                        current rank. To go up in Weapon:Fist (base cost 2) from rank 0 to rank 1
+                        costs 4 EEPs. To go from rank 1 to rank 2 is another 4 EEPs and so on.
                     </para>
                 </section>
                 <section>
-                    <title>Difficulty
-                        Factor<subscript>Action</subscript><indexterm><primary>Difficulty
-                            Factor<subscript>Action</subscript></primary><secondary>calculating</secondary></indexterm></title>
-                    <para> The Difficulty Factor for an action is determined by using a table.
-                        Typically a Difficulty Factor<subscript>Action</subscript> goes from -20 to
-                        +20 </para>
+                    <title>Training</title>
+                    <para>For each 10 hours of training with a teacher the character gets 1 EEP. For
+                        each 20 hours of training with a partner the character gets 1 EEP. For each
+                        30 hours of self-training with a the character gets 1 EEP. There are all
+                        sorts of modifiers so ask....</para>
                 </section>
                 <section>
-                    <title>Stat Basis<subscript>Skill</subscript><indexterm><primary>Stat
-                        Basis<subscript>Skill</subscript></primary><secondary>calculating</secondary></indexterm></title>
-                    <para> The Stat Basis for a skill is usually given by the table of skills. The
-                        Stat Basis<subscript>Skill</subscript> typical ranges from 1 to 30. </para>
+                    <title>Costs of unlisted skills</title>
+                    <para>When figuring out the cost of previously unlisted skill use table
+                        \ref{Table:SkillComponentCosts simply add together all of the costs that
+                        appear to apply.</para>
                 </section>
                 <section>
-                    <title>Examples of calculating Base Chances</title>
+                    <title>Relations Among Skills</title>
+                    <para>In situations where the character does not have a skill that is directly
+                        applicable to the task being performed the character may choose to use a
+                        related skill. </para>
+                    <para>A typical example would be in using two different types of handguns. The
+                        character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun
+                        weapon is fairly different from the Slug Pistol so the character can only
+                        apply 1/5 of his expertise in Slug Pistol to using this pistol. So he has an
+                        effective rank 2 in the weapon. </para>
+                </section>
+                <section>
+                    <title>Unfamiliar Tools</title>
+                    <para>If the skill requires the use of tools and the tool that the character is
+                        utilizing is unfamiliar, then the action occurs at a DF -2. This usually
+                        only happens if the differences between the version of the tool the
+                        character normally uses and the current one actual effect how it is used. A
+                        gun with a different mass than the entity is used to is unfamiliar, whereas
+                        a gun of the same model and same manufacturer is not. To eliminate this
+                        unfamiliarity modifier requires that the entity familiarize himself with the
+                        tool with a DF -3 roll against the SB of the skill with a gain of 1 DF per
+                        roll..</para>
+                </section>
+                <section>
+                    <title>General Skills</title>
+                    <para>Skills that are described as general skills cover a wide range of tasks
+                        with very little depth. A person who has learned a general skill such as
+                        Throw Object is able to throw just about anything they can get their hands
+                        on ( knives, spoons, rocks, chairs) with a lesser success chance than
+                        someone who has a specific skill in throwing a particular object</para>
+                    <para>In addition, there are skills known as support skills that are solely
+                        Skills!Support designed to increase the success chance when doing
+                        one type of action with a skill. Someone who uses their sword to parry
+                        weapon attacks may wish to train specifically in parrying with a sword. So
+                        they would have a ``Long Sword' skill and a ``Long Sword : Parry''
+                        skill.</para>
+                    <para>General skills only give 1%/rank to the success chance. Specific skills
+                        (the SH norm), give 4%/rank. Support Skills add 2%/rank. There is no limit
+                        on the number of support skills that may be applied to a single task.</para>
+                </section>
+                <section>
+                    <title>Filter Skills</title>
+                    <para>SThere is a category of skills which affects the use of other skills in an
+                        environment different from the one they were learned in. These skills are
+                        called filter skills. A Filter skill is any skill that can allow for the
+                        full expression of other skills in an environment other than that for which
+                        those skills were designed for.</para>
+                    <para>Typical filter skills include the following: 0-g maneuver, Tech Level
+                        Lore, Culture Lore, Mounted Combat, Vehicular Combat skills, Armor Wearing,
+                        and Computer operations.</para>
+                    <para>For situations in which the character is attempting to apply a skill in a
+                        environment he is not familiar with and that skill must interact with that
+                        environment, then the rank in the filter skill becomes the upper limit on
+                        the effective rank of the skill being used.</para>
+                    <para>As an example, if someone has a mounted combat skill at rank 5, he or she
+                        may use their archery skill up to rank 5 without making any rolls against
+                        their mounted combat. If the character has a higher archery skill and wants
+                        to bring it all to bear on a shot, they must roll against their mounted
+                        combat first in order to get the full use of the archery skill.</para>
+                </section>
+                <section>
+                    <title>Skill Pools</title>
                     <para>
-                        <example>
-                            <title>Lifting something with pure strength and a basic skill in Weight
-                                Lifting</title>
-                            <para>The character has a Physical Strength (PST) of 15, a rank in
-                                weight lifting of 4 and is trying to lift half his weight in mass (
-                                a Difficulty Factor or DF of -5). This means the Success Chance (SC)
-                                is <informalequation>
-                                    <mathphrase>SC = 3 x PST + Rank x 4 + DF x 5</mathphrase>
-                                </informalequation> In this case it means <informalequation>
-                                    <mathphrase>SC = 3 x 15 + 4 x 4 + -5 x 5 = 36% </mathphrase>
-                                </informalequation>
-                            </para>
-                        </example>
+                        <informalequation>
+                            <mathphrase> Pool Bonus = Rank<subscript>Highest Skill</subscript>/2 + sum ( Rank <subscript>All Other Skills</subscript>/10 )</mathphrase>
+                        </informalequation>
+                        with a maximum of Highest Rank. Pools may be grouped according to training style, SB,
+                        or character preference. 
                     </para>
                 </section>
             </section>
-            <section>
-                <title>Difficulty of Actions</title>
-                <para> Most actions have a difficulty associated with them. The Difficulty Factor is
-                    expressed as a positive or negative modifier. For example DF 0 is the typical
-                    average dificulty of an action. DF -5 is a more difficult action and DF +5 is an
-                    easier action</para>
-                <table xml:id="ActionDifficultyTable">
-                    <title>Subjective Difficulty of Actions</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Subjective </entry>
-                                <entry> DF </entry>
-                            </row>
-                            <row>
-                                <entry> Trivial </entry>
-                                <entry> +2 </entry>
-                            </row>
-                            <row>
-                                <entry> Simple </entry>
-                                <entry> 0 </entry>
-                            </row>
-                            <row>
-                                <entry> Non-Trivial </entry>
-                                <entry> -2 </entry>
-                            </row>
-                            <row>
-                                <entry> Difficult </entry>
-                                <entry> -5 </entry>
-                            </row>
-                            <row>
-                                <entry> Very Difficult </entry>
-                                <entry> -7 </entry>
-                            </row>
-                            <row>
-                                <entry> Damned Difficult </entry>
-                                <entry> -10 </entry>
-                            </row>
-                            <row>
-                                <entry> Nearly Impossible </entry>
-                                <entry> -20 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-                <para> There are many circumstances or conditions that can affect how difficult
-                    something is. But the following table should give you an idea of what the
-                    baselines are:</para>
-                <table xml:id="ActionDifficultyPerceptionTable">
-                    <title>How to figure out how difficult an action should be</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Basic Identification of Actions Needed for a task </entry>
-                                <entry> +3 </entry>
-                            </row>
-                            <row>
-                                <entry> Judgement of Quality </entry>
-                                <entry> +2 </entry>
-                            </row>
-                            <row>
-                                <entry> Basic Perception Roll w/in area of Skill </entry>
-                                <entry> +1 </entry>
-                            </row>
-                            <row>
-                                <entry> Basic Action ( makes up 60\% or more of the actions made by
-                                    someone using this skill) Anyone of basic competence would know
-                                    this action well. </entry>
-                                <entry>0</entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-                <table xml:id="GeneralSkillDifficultyTable">
-                    <title>General Skill Difficulties</title>
-                    <tgroup cols="3">
-                        <tbody>
-                            <row>
-                                <entry> Situation </entry>
-                                <entry> DF Modifier </entry>
-                                <entry> Other Modifier </entry>
-                            </row>
-                            <row>
-                                <entry> No rank in skill </entry>
-                                <entry> </entry>
-                                <entry>
-                                    <informalequation>
-                                        <mathphrase>= 1/2 BC</mathphrase>
-                                    </informalequation></entry>
-                            </row>
-                            <row>
-                                <entry> Mental Mental </entry>
-                                <entry> -4/-6 </entry>
-                                <entry> DF -2 Awareness </entry>
-                            </row>
-                            <row>
-                                <entry> Physical Physical </entry>
-                                <entry> -4/-6 </entry>
-                                <entry> DF -2 Awareness </entry>
-                            </row>
-                            <row>
-                                <entry> Mental Physical </entry>
-                                <entry> -2/-4 </entry>
-                                <entry> DF -2 Awareness </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
-            <section>
-                <title>Rolling Dice</title>
-                <para> The range of die rolls is 1-100. If you roll 00 (a 100) you roll again and
-                    add the second roll to the first to get our total. </para>
-                <para> When percentile dice are rolled and the result is under the success chance,
-                    that is a normal success. When the rolled number is significantly lower than the
-                    needed roll there is a chance the action may have a greater than normal success.
-                    This is called a ``Critical'' success. Table \ref{Table:CriticalSuccess} on page
-                    on \index{Critical Success} page~\pageref{Table:CriticalSuccess} describes the
-                    rolls needed. </para>
-                <para> As an example. If a character needed to roll a 40 or under to hit a target
-                    with a rock and they rolled under 1/2 of 40 then they will do 1.25 times the
-                    damage they would normally do. </para>
-                <para> In the case of very poor rolls there is a chance that the roll may be a
-                    critical failure This is caused by rolling 50 above your success chance or
-                    rolling above by 1/2 the success chance of the action, whichever is greater. </para>
-                <para> So someone with a success chance of 90 needs to roll a 140 or higher to
-                    critically miss while someone with a success chance of 120 needs to roll a 180
-                    or higher to critically miss. </para>
-                <para> To determine the severity of the critical failure roll against the amount
-                    missed by as a success chance and compare the result to table \index{Critical
-                    Failure} \ref{Table:CriticalFailure} on page~\pageref{Table:CriticalFailure}. </para>
-                <para> There are a variety of things that can modify the chance of doing an action
-                    successfully. The character can mentally prepare for the action {\em set-up} to
-                    increase their chances. The action can be sped up by decreasing the chance of
-                    success {\em rushing an action}. Actions can be performed simultaneously {\em
-                    floretine}. There are additional modifiers for doing something while moving or
-                    while tired and so on...</para>
-            </section>
-            
         </chapter>
         <chapter xml:id="PerceptionAndInitiative">
             <title>Perception and Initiative</title>
@@ -447,8 +1135,8 @@
                 <para>If something could go unnoticed by the character, such as a suprise attack or
                     something hidden, the player should make a Perception Roll. A perception roll is
                     typically SB = PAW, DF=0, with modifiers for how alert the character is trying
-                    to be. A perception roll takes 8 counts. A \ndx{Passive Perception Roll} can be
-                    made \index{Perception!Passive} during any action at 1/4 the success chance of a
+                    to be. A perception roll takes 8 counts. A \ndx{Passive Perception Roll can be
+                    made Perception!Passive during any action at 1/4 the success chance of a
                     normal perception roll. A passive perception roll takes no time and takes no
                     modifiers for simultaneous actions.</para>
                 <para>The critical success and failure effects are fairly straight forward</para>
@@ -457,6 +1145,7 @@
                     <tgroup cols="2">
                         <thead>
                             <row>
+                                <?dbfo bgcolor="teal" ?>
                                 <entry>Type</entry>
                                 <entry>Effect</entry>
                             </row>
@@ -475,39 +1164,39 @@
                                 <entry/>
                             </row>
                             <row>
-                                <entry> Notable Success </entry>
-                                <entry> Total Identification, 150% Detail, +-10% Timing </entry>
+                                <entry>Notable Success </entry>
+                                <entry>Total Identification, 150% Detail, +-10% Timing </entry>
                             </row>
                             <row>
-                                <entry> Solid Success </entry>
-                                <entry> Able to Identify exactly what is happening, 125% Detail,
+                                <entry>Solid Success </entry>
+                                <entry>Able to Identify exactly what is happening, 125% Detail,
                                     +-25% Timing </entry>
                             </row>
                             <row>
-                                <entry> Success </entry>
-                                <entry> Basic Identification, 100% Detail, +-50% timing </entry>
+                                <entry>Success </entry>
+                                <entry>Basic Identification, 100% Detail, +-50% timing </entry>
                             </row>
                             <row>
-                                <entry> Failure </entry>
-                                <entry> Vague Identification, 25% Detail, +-75% timing </entry>
+                                <entry>Failure </entry>
+                                <entry>Vague Identification, 25% Detail, +-75% timing </entry>
                             </row>
                             <row>
-                                <entry> Solid Failure </entry>
-                                <entry> No real clue, 0 Detail, 0 Timing </entry>
+                                <entry>Solid Failure </entry>
+                                <entry>No real clue, 0 Detail, 0 Timing </entry>
                             </row>
                             <row>
-                                <entry> Notable Failure </entry>
-                                <entry> Inaccurate Identification, +-125% Detail, +-175% Timing
+                                <entry>Notable Failure </entry>
+                                <entry>Inaccurate Identification, +-125% Detail, +-175% Timing
                                 </entry>
                             </row>
                             <row>
-                                <entry> Very Notable Failure </entry>
-                                <entry> Inaccurate Identification, +-150% Detail, +-200% Timing
+                                <entry>Very Notable Failure </entry>
+                                <entry>Inaccurate Identification, +-150% Detail, +-200% Timing
                                 </entry>
                             </row>
                             <row>
-                                <entry> Amazing Failure </entry>
-                                <entry> Wildly Inaccurate Identification, +-250% Detail, +-300%
+                                <entry>Amazing Failure </entry>
+                                <entry>Wildly Inaccurate Identification, +-250% Detail, +-300%
                                     Timing </entry>
                             </row>
 
@@ -520,387 +1209,139 @@
                     Perception, Combat Perception Notes: Done at 1/4 the normal chance </para>
             </section>
         </chapter>
+       <chapter>
+           <title>Using and Restoring Energy</title>
+           <section>
+               <title>Using Energy: Fatigue and Exhaustion</title>
+               <para>A character using energy to perform actions draws from two different types of
+                   reservoirs: Fatigue and Exhaustion. For physical actions the stats are Physical
+                   Fatigue and Physical Exhaustion (PFT and PEX). For mental actions the stats are
+                   Mental Fatigue and Mental Exhaustion (MFT and MEX).</para>
+               <para>Fatigue is the quick access pool of energy a character can use. Exhaustion is
+                   the reserve pool of energy a character can use. </para>
+               <para>A character loses fatigue as the result of physical activity or combat. A
+                   character that has lost all their fatigue has no modifiers to their actions.
+                   Fatigue will come back quickly. For each 10 points of fatigue used the character
+                   also loses 1 point of exhaustion.</para>
+               <para>A character loses Exhaustion by performing strenous activity or by losing
+                   fatigue. There are modifiers for being low in Exhaustion.</para>
+               <table>
+                   <title>Energy Used at different activities</title>
+                   <tgroup cols="3">
+                       <thead>
+                           <row>
+                               <?dbfo bgcolor="teal" ?>
+                               <entry> Activity </entry>
+                               <entry> PFT </entry>
+                               <entry> PEX </entry>
+                           </row>
+                       </thead>
+                       <tbody>
+                           <row>
+                               <entry> Crawling </entry>
+                               <entry> </entry>
+                               <entry> </entry>
+                           </row>
+                           <row>
+                               <entry> Walking </entry>
+                               <entry> 1/min </entry>
+                               <entry> 6/hr </entry>
+                           </row>
+                           <row>
+                               <entry> Jogging </entry>
+                               <entry> </entry>
+                               <entry> 1/min </entry>
+                           </row>
+                           <row>
+                               <entry> Running </entry>
+                               <entry> </entry>
+                               <entry> 6/min </entry>
+                           </row>
+                           <row>
+                               <entry> Dash </entry>
+                               <entry> </entry>
+                               <entry> 2/sec </entry>
+                           </row>
+                           <row>
+                               <entry> Chopping Wood </entry>
+                               <entry> 3/min </entry>
+                               <entry> 18/hr </entry>
+                           </row>
+                       </tbody>
+                   </tgroup>
+               </table>
+               <para>Characters lose MFT and MEX in the same manner.</para>
+               <table>
+                   <title>Energy used in Mental Activities</title>
+                   <tgroup cols="3">
+                       <thead>
+                           <row>
+                               <?dbfo bgcolor="teal" ?>
+                               <entry> Activity </entry>
+                               <entry> MFT </entry>
+                               <entry> MEX </entry>
+                           </row>                            
+                       </thead>
+                       <tbody>
+                           <row>
+                               <entry> Studying </entry>
+                               <entry> 1/min </entry>
+                               <entry> 6/hr </entry>
+                           </row>
+                           <row>
+                               <entry> Spell Research </entry>
+                               <entry> 3/min </entry>
+                               <entry> 18/hr </entry>
+                           </row>
+                       </tbody>
+                   </tgroup>
+               </table>
+           </section>
+           <section>
+               <title>Restoring Energy</title>
+               <para>The restoration of Fatigue is usually very quick. Exhaustion and Fatigue
+                   restore themselves independently of each other.</para>
+               <table>
+                   <title>Restoring Energy</title>
+                   <tgroup cols="3">
+                       <thead>
+                           <row>
+                               <?dbfo bgcolor="teal" ?>                                
+                               <entry> Activity </entry>
+                               <entry> PFT </entry>
+                               <entry> PEX </entry>
+                           </row>                            
+                       </thead>
+                       <tbody>
+                           
+                           <row>
+                               <entry> Sitting/Talking </entry>
+                               <entry> 1/sec </entry>
+                               <entry> 2/hr </entry>
+                           </row>
+                           <row>
+                               <entry> Resting(prone) </entry>
+                               <entry> 1/sec </entry>
+                               <entry> 5/hr </entry>
+                           </row>
+                           <row>
+                               <entry> Sleeping </entry>
+                               <entry> 1/sec </entry>
+                               <entry> 10/hr </entry>
+                           </row>
+                           <row>
+                               <entry> Eating (Large Pasta like meal) </entry>
+                               <entry> 1/sec </entry>
+                               <entry> 6 </entry>
+                           </row>
+                       </tbody>
+                   </tgroup>
+               </table>
+           </section>           
+       </chapter>
+        
         <chapter>
-            <title>Skill Checks or Skill Rolls</title>
-                      <section>
-                <title>Actions/Reactions</title>
-                <para>The model of tasks and actions in SH is based on a series of reactions and
-                    actions. When a character first enters a scene they determine how much they see
-                    and understand of the situation perception roll. Then they determine how quickly
-                    they can react initiative roll. The character will react faster when they know
-                    what is going on and slower when they don't. If a character is expecting
-                    something to happen they can prepare for that occurrence preset reactions and
-                    speed up their response</para>
-                <para>Once the character has reacted they determine what they will do and then do
-                    the action. </para>
-            </section>
-            <section>
-                <title>Who goes first</title>
-                <para> When a character first enters a situation where action may be required they
-                    must determine how much they know and how quickly they react. </para>
-                <para> When a character first becomes involved in a conflict they roll a perception
-                    roll. Then the PC rolls an initiative roll. The Initiative roll is simply <informalequation>
-                        <mathphrase>2d6 + 8 - Speed<subscript>Reaction</subscript></mathphrase>
-                    </informalequation> added together. There are modifiers </para>
-                <para>
-                    <informalequation>
-                        <mathphrase>Speed<subscript>Reaction</subscript> = 1/2 Character's
-                            Speed</mathphrase>
-                    </informalequation>
-                </para>
-                <para>
-                    <informalequation>
-                        <mathphrase>Initiative = 2d6 + 8 -
-                            Speed<subscript>Reaction</subscript></mathphrase>
-                    </informalequation>
-                </para>
-                <para> If the perception roll is unsuccessful, the character adds a modifier to the
-                    roll. </para>
-                <para>
-                    <informalequation>
-                        <mathphrase>Initiative = 2d6 + 8 - Speed<subscript>Reaction</subscript> +
-                            5</mathphrase>
-                    </informalequation>
-                </para>
-                <para> There are, of course, modifiers to the perception roll as detailed in table
-                    ~\ref{Table:PerceptionModifiers} </para>
-                <para> If the initiative roll is lower than 1 the excess speed goes toward speed
-                    points and can be applied to a number of seperate tasks. </para>
-                <section>
-                    <title>Speed Gains Due to Rank in a Skill</title>
-                    <para> The character may add Rank/2 points to their speed points when using a
-                        skill. This may only be done once the character has decided to use a given
-                        skill. </para>
-                </section>
-                <section>
-                    <title>How to avoid the math</title>
-                    <para> There is a set of tables that the GM can provide that can be used to
-                        simplify this. </para>
-                </section>
-                <section>
-                    <title>Preset Reactions</title>
-                    <para> When a character is waiting for something specific to happen and intends
-                        to react a certain way when it does the charcetr is presetting an action. A
-                        gunfighter waiting for someone else to start drawing their weapon is a
-                        preset action. Having a preset action allows the character to increase the
-                        chance of detecting the triggering action and speeds up the preset action.
-                        Holding a preset action can be fatiguing over long periods of time. </para>
-                    <para> Declaring an action to be preset allows an DF +4 to a perception roll. If
-                        the perception roll is successful, the character gets to apply their $ 2
-                        \times Speed_{Reaction} $. A Preset reaction may only be held for MST in the
-                        time scale that the players are working in before a cost of 1 MFT must be
-                        expended. </para>
-                </section>
-            </section>
-            <section>
-                <title>Actions</title>
-                <para>Actions normally begin at the count given by the initiative roll. The must be
-                    made at this point. The speed of the action is determined and the character
-                    takes this action on a count given by Initiative + The speed of the
-                    action.</para>
-            </section>
-            <section>
-                <title>Speeds of Actions</title>
-                <para> Most actions have a speed associated with them. All simple actions, unless
-                    otherwise noted, have a standard speed of 10 count. </para>
-                <para>% Speeds of Basic Actions \input{tgpm7}</para>
-                <para>Actions can be performed faster. Speeding up an action lowers the chance of
-                    success. Generally half the time to act means you have half the chance to
-                    succeed.</para>
-                <para>For each percentage of time units the action is sped up a corresponding
-                    percentage is removed the success chance. Thus an action performed in 1/4 the
-                    time has 1/4 the success chance.</para>
-                <para>Actions can be sped up using speed points.</para>
-            </section>
-            <section>
-                <title>Drawing a Tool or Weapon</title>
-                <para>This most often applies to drawing a weapon but can also apply to other tools.
-                    In general, when a weapon is in hand, all normal weapon speeds apply. In order
-                    to get a weapon into ones hand it takes <informalequation>
-                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
-                    </informalequation> in counts.</para>
-                <para> In order to get a weapon in hand faster than <informalequation>
-                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
-                    </informalequation> requires a fast draw roll against the weapon's skill. A
-                    successful ready roll brings the tool or weapon to bear at <informalequation>
-                        <mathphrase>Speed<subscript>weapon</subscript></mathphrase>
-                    </informalequation>
-                </para>
-            </section>
-            <section>
-                <title>Unranked in the Skill</title>
-                <para>A character who does not have training or experience in an action is unranked
-                    in the required skill. Any character performing an action using a skill they
-                    have no rank in has 1/2 the normal base chance and adds 2 counts to their
-                    initiative. </para>
-            </section>
-            <section>
-                <title>Setting Up, Focusing, or Preparing</title>
-                <para>Waiting and prepping oneself for a task is called Setting-Up. It will
-                    generally increase the chance to do something at a cost of increased time to get
-                    it done.</para>
-                <para>Setting Up for an action takes as long as it takes to perform the action. The
-                    end effect is a bonus to the Success Chance of <informalequation>
-                        <mathphrase>20% + 2%/rank</mathphrase>
-                    </informalequation>
-                </para>
-                <para>To set-up an action with a time scale of counts or seconds (and sometime
-                    minutes) the total time taken is <informalequation>
-                        <mathphrase>1 x Speed<subscript>Action</subscript></mathphrase>
-                    </informalequation> To set-up an action with a time scale of many minutes,
-                    hours, days, or weeks the total time taken is <informalequation>
-                        <mathphrase>1/4 x Speed<subscript>Action</subscript></mathphrase>
-                    </informalequation></para>
-            </section>
-            <section>
-                <title>Doing two things simultaneously, Florentine</title>
-                <para>Performing two actions at the same time is called Florentining.</para>
-                <para>One of the two actions is the primary action and it recieves a DF -3. The
-                    secondary action recieves a DF -6. This is only true if the two actions are both
-                    physical or both mental. If one action is a mental action and the other is a
-                    physical one the modifiers go down to DF -2 and DF -4. </para>
-            </section>
-            <section>
-                <title>Physically Injured or Tired</title>
-                <para>A character that is injured or fatigued has DF modifiers to their actions.
-                    Physical fatigue has the greatest effect on physical actions and Mental fatigue
-                    has the greatest effect on Mental actions.</para>
-                <table>
-                    <title>Difficulty of Actions while Physically Exhausted or Injured</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Situation </entry>
-                                <entry> Difficulty (DF) </entry>
-                            </row>
-                            <row>
-                                <entry> Out of PEX </entry>
-                                <entry> Physical Actions DF -6, Mental Actions DF -3 </entry>
-                            </row>
-                            <row>
-                                <entry> 25% wounded in PBD </entry>
-                                <entry> Physical Actions DF -2, Mental Actions DF -1 </entry>
-                            </row>
-                            <row>
-                                <entry> 50% Wounded in PBD </entry>
-                                <entry> Physical Actions DF -4, Mental Actions DF -2</entry>
-                            </row>
-                            <row>
-                                <entry> 75% Wounded in PBD </entry>
-                                <entry> Physical Actions DF -8, Mental Actions DF -4</entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-                <table>
-                    <title>Difficulty of Actions while Mentally Exhausted or Injured</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Situation </entry>
-                                <entry> Difficulty (DF) </entry>
-                            </row>
-                            <row>
-                                <entry> Out of MEX </entry>
-                                <entry> Physical Actions DF -3, Mental Actions DF -6 </entry>
-                            </row>
-                            <row>
-                                <entry> 25\% wounded in MBD </entry>
-                                <entry> Physical Actions DF -1, Mental Actions DF -2 </entry>
-                            </row>
-                            <row>
-                                <entry> 50\% Wounded in MBD </entry>
-                                <entry> Physical Actions DF -2, Mental Actions DF -4 </entry>
-                            </row>
-                            <row>
-                                <entry> 75\% Wounded in MBD </entry>
-                                <entry> Physical Actions DF -4, Mental Actions DF -8 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
-            <section>
-                <title>Actions while moving</title>
-                <para>When performing an action the character may be affected by his rate of
-                    movement. If the character is moving faster than a walk the DF due to movement
-                    applys to any physical action they are attempting. ANy mental action they
-                    perform is subject to 1/2 the listed DFs.</para>
-                <table>
-                    <title>Performing Actions while Moving</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Physical Movement at a Jog </entry>
-                                <entry> Physical Actions DF -3, Mental Actions DF -1 </entry>
-                            </row>
-                            <row>
-                                <entry> Physical Movement at a Run </entry>
-                                <entry> Physical Actions DF -5, Mental Actions DF -2 </entry>
-                            </row>
-                            <row>
-                                <entry> Physical Movement at a Dash </entry>
-                                <entry> Physical Actions DF -7, Mental Actions DF -4</entry>
-                            </row>
-                            <row>
-                                <entry> Vehicular Movement </entry>
-                                <entry> Physical Actions DF -10, Mental Actions DF -3 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
-            <section>
-                <title>Environmental Conditions</title>
-                <para>This is a catchall area. Characters generally are at their best performance in
-                    conditions similiar to the environment in which they were raised. Any drastic
-                    modifications from that environment in terms of light, gravity, humidity,
-                    etc\dots can lower the character's performance.</para>
-                <table>
-                    <title>Environmental Conditions</title>
-                    <tgroup cols="2">
-                        <tbody>
-                            <row>
-                                <entry> Situation </entry>
-                                <entry> DF Modifier </entry>
-                            </row>
-                            <row>
-                                <entry> Lighting 50\% off </entry>
-                                <entry> -3 </entry>
-                            </row>
-                            <row>
-                                <entry> Lighting 75\% off </entry>
-                                <entry> -4 </entry>
-                            </row>
-                            <row>
-                                <entry> Gravity 50\% off </entry>
-                                <entry> -3 </entry>
-                            </row>
-                            <row>
-                                <entry> Gravity 100\% off </entry>
-                                <entry> -4 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
-            <section>
-                <title>Using Energy: Fatigue and Exhaustion</title>
-                <para>A character using energy to perform actions draws from two different types of
-                    reservoirs: Fatigue and Exhaustion. For physical actions the stats are Physical
-                    Fatigue and Physical Exhaustion (PFT and PEX). For mental actions the stats are
-                    Mental Fatigue and Mental Exhaustion (MFT and MEX).</para>
-                <para>Fatigue is the quick access pool of energy a character can use. Exhaustion is
-                    the reserve pool of energy a character can use. </para>
-                <para>A character loses fatigue as the result of physical activity or combat. A
-                    character that has lost all their fatigue has no modifiers to their actions.
-                    Fatigue will come back quickly. For each 10 points of fatigue used the character
-                    also loses 1 point of exhaustion.</para>
-                <para>A character loses Exhaustion by performing strenous activity or by losing
-                    fatigue. There are modifiers for being low in Exhaustion.</para>
-                <table>
-                    <title>Energy Used at different activities</title>
-                    <tgroup cols="3">
-                        <tbody>
-                            <row>
-                                <entry> Activity </entry>
-                                <entry> PFT </entry>
-                                <entry> PEX </entry>
-                            </row>
-                            <row>
-                                <entry> Crawling </entry>
-                                <entry> </entry>
-                                <entry> </entry>
-                            </row>
-                            <row>
-                                <entry> Walking </entry>
-                                <entry> 1/min </entry>
-                                <entry> 6/hr </entry>
-                            </row>
-                            <row>
-                                <entry> Jogging </entry>
-                                <entry> </entry>
-                                <entry> 1/min </entry>
-                            </row>
-                            <row>
-                                <entry> Running </entry>
-                                <entry> </entry>
-                                <entry> 6/min </entry>
-                            </row>
-                            <row>
-                                <entry> Dash </entry>
-                                <entry> </entry>
-                                <entry> 2/sec </entry>
-                            </row>
-                            <row>
-                                <entry> Chopping Wood </entry>
-                                <entry> 3/min </entry>
-                                <entry> 18/hr </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-                <para>Characters lose MFT and MEX in the same manner.</para>
-                <table>
-                    <title>Energy used in Mental Activities</title>
-                    <tgroup cols="3">
-                        <tbody>
-                            <row>
-                                <entry> Activity </entry>
-                                <entry> MFT </entry>
-                                <entry> MEX </entry>
-                            </row>
-                            <row>
-                                <entry> Studying </entry>
-                                <entry> 1/min </entry>
-                                <entry> 6/hr </entry>
-                            </row>
-                            <row>
-                                <entry> Spell Research </entry>
-                                <entry> 3/min </entry>
-                                <entry> 18/hr </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
-            <section>
-                <title>Restoring Energy</title>
-                <para>The restoration of Fatigue is usually very quick. Exhaustion and Fatigue
-                    restore themselves independently of each other.</para>
-                <table>
-                    <title>Restoring Energy</title>
-                    <tgroup cols="3">
-                        <tbody>
-                            <row>
-                                <entry> Activity </entry>
-                                <entry> PFT </entry>
-                                <entry> PEX </entry>
-                            </row>
-                            <row>
-                                <entry> Sitting/Talking </entry>
-                                <entry> 1/sec </entry>
-                                <entry> 2/hr </entry>
-                            </row>
-                            <row>
-                                <entry> Resting(prone) </entry>
-                                <entry> 1/sec </entry>
-                                <entry> 5/hr </entry>
-                            </row>
-                            <row>
-                                <entry> Sleeping </entry>
-                                <entry> 1/sec </entry>
-                                <entry> 10/hr </entry>
-                            </row>
-                            <row>
-                                <entry> Eating (Large Pasta like meal) </entry>
-                                <entry> 1/sec </entry>
-                                <entry> 6 </entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </section>
+            <title>Movement</title>
             <section>
                 <title>How fast can you move?</title>
                 <para> Each character has a statistic named Physical Movement. This is the
@@ -912,11 +1353,14 @@
                 <table>
                     <title>Movement Rates</title>
                     <tgroup cols="2">
-                        <tbody>
+                        <thead>
                             <row>
+                                <?dbfo bgcolor="teal" ?>                                
                                 <entry> Movement Type </entry>
                                 <entry> Rate of Movement (meter/second) </entry>
                             </row>
+                        </thead>
+                        <tbody>
                             <row>
                                 <entry> No Move </entry>
                                 <entry> \( 0 * Movement \) </entry>
@@ -957,7 +1401,7 @@
                 <title>Acceleration</title>
                 <annotation>
                     <para>It is important to remember that the accelleration rules should only be
-                        used when the distance travelled by the characters over a {\bf short period}
+                        used when the distance travelled by the characters over a {\bf short period
                         of time is important</para>
                 </annotation>
                 <para>In dealing with movement on a pulse by pulse scale we need to actually deal
@@ -981,22 +1425,131 @@
                 <para>Mental Movement This is a measure of the character's speed of mental travel.
                     It is usually only used in Psionics and Computer usage. </para>
             </section>
+        </chapter>
+        <chapter>
+            <title>Actions and Reactions</title>
+              <section>
+                <title>Actions/Reactions</title>
+                <para>The model of tasks and actions in SH is based on a series of reactions and
+                    actions. When a character first enters a scene they determine how much they see
+                    and understand of the situation perception roll. Then they determine how quickly
+                    they can react initiative roll. The character will react faster when they know
+                    what is going on and slower when they don't. If a character is expecting
+                    something to happen they can prepare for that occurrence preset reactions and
+                    speed up their response</para>
+                <para>Once the character has reacted they determine what they will do and then do
+                    the action. </para>
+            </section>
             <section>
-                <title>Competing</title>
-                <para>When the charcater is testing skill versus skill the chatacter makes an
-                    Opposing Skill Roll. An opposing skill roll in a roll in which the character
-                    attempts to undo an action done previously by another character. Typically the
-                    SN of the original action is taken as a negative modifier to the current skill
-                    roll.</para>
-                <para>Attempting to conceal yourself when others are looking for you is an
-                    example.</para>
+                <title>Who goes first</title>
+                <para> When a character first enters a situation where action may be required they
+                    must determine how much they know and how quickly they react. </para>
+                <para> When a character first becomes involved in a conflict they roll a perception
+                    roll. Then the PC rolls an initiative roll. The Initiative roll is simply <informalequation>
+                        <mathphrase>2d6 + 8 - Speed<subscript>Reaction</subscript></mathphrase>
+                    </informalequation> added together. There are modifiers </para>
+                <para>
+                    <informalequation>
+                        <mathphrase>Speed<subscript>Reaction</subscript> = 1/2 Character's
+                            Speed</mathphrase>
+                    </informalequation>
+                </para>
+                <para>
+                    <informalequation>
+                        <mathphrase>Initiative = 2d6 + 8 -
+                            Speed<subscript>Reaction</subscript></mathphrase>
+                    </informalequation>
+                </para>
+                <para> If the perception roll is unsuccessful, the character adds a modifier to the
+                    roll. </para>
+                <para>
+                    <informalequation>
+                        <mathphrase>Initiative = 2d6 + 8 - Speed<subscript>Reaction</subscript> +
+                            5</mathphrase>
+                    </informalequation>
+                </para>
+                <para> There are, of course, modifiers to the perception roll as detailed in table
+                    ~\ref{Table:PerceptionModifiers </para>
+                <para> If the initiative roll is lower than 1 the excess speed goes toward speed
+                    points and can be applied to a number of seperate tasks. </para>
+                <section>
+                    <title>Speed Gains Due to Rank in a Skill</title>
+                    <para> The character may add Rank/2 points to their speed points when using a
+                        skill. This may only be done once the character has decided to use a given
+                        skill. </para>
+                </section>
+                <section>
+                    <title>Preset Reactions</title>
+                    <para> When a character is waiting for something specific to happen and intends
+                        to react a certain way when it does the charcetr is presetting an action. A
+                        gunfighter waiting for someone else to start drawing their weapon is a
+                        preset action. Having a preset action allows the character to increase the
+                        chance of detecting the triggering action and speeds up the preset action.
+                        Holding a preset action can be fatiguing over long periods of time. </para>
+                    <para> Declaring an action to be preset allows an DF +4 to a perception roll. If
+                        the perception roll is successful, the character gets to apply their $ 2
+                        \times Speed_{Reaction $. A Preset reaction may only be held for MST in the
+                        time scale that the players are working in before a cost of 1 MFT must be
+                        expended. </para>
+                </section>
+            </section>
+            <section>
+                <title>Actions</title>
+                <para>Actions normally begin at the count given by the initiative roll. The must be
+                    made at this point. The speed of the action is determined and the character
+                    takes this action on a count given by Initiative + The speed of the
+                    action.</para>
+            </section>
+            <section>
+                <title>Speeds of Actions</title>
+                <para> Most actions have a speed associated with them. All simple actions, unless
+                    otherwise noted, have a standard speed of 10 count. </para>
+                <para>Actions can be performed faster. Speeding up an action lowers the chance of
+                    success. Generally half the time to act means you have half the chance to
+                    succeed.</para>
+                <para>For each percentage of time units the action is sped up a corresponding
+                    percentage is removed the success chance. Thus an action performed in 1/4 the
+                    time has 1/4 the success chance.</para>
+                <para>Actions can be sped up using speed points.</para>
+            </section>
+            <section>
+                <title>Drawing a Tool or Weapon</title>
+                <para>This most often applies to drawing a weapon but can also apply to other tools.
+                    In general, when a weapon is in hand, all normal weapon speeds apply. In order
+                    to get a weapon into ones hand it takes <informalequation>
+                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation> in counts.</para>
+                <para> In order to get a weapon in hand faster than <informalequation>
+                        <mathphrase>2 x Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation> requires a fast draw roll against the weapon's skill. A
+                    successful ready roll brings the tool or weapon to bear at <informalequation>
+                        <mathphrase>Speed<subscript>weapon</subscript></mathphrase>
+                    </informalequation>
+                </para>
+            </section>
+             <section>
+                <title>Setting Up, Focusing, or Preparing</title>
+                <para>Waiting and prepping oneself for a task is called Setting-Up. It will
+                    generally increase the chance to do something at a cost of increased time to get
+                    it done.</para>
+                <para>Setting Up for an action takes as long as it takes to perform the action. The
+                    end effect is a bonus to the Success Chance of <informalequation>
+                        <mathphrase>20% + 2%/rank</mathphrase>
+                    </informalequation>
+                </para>
+                <para>To set-up an action with a time scale of counts or seconds (and sometime
+                    minutes) the total time taken is <informalequation>
+                        <mathphrase>1 x Speed<subscript>Action</subscript></mathphrase>
+                    </informalequation> To set-up an action with a time scale of many minutes,
+                    hours, days, or weeks the total time taken is <informalequation>
+                        <mathphrase>1/4 x Speed<subscript>Action</subscript></mathphrase>
+                    </informalequation></para>
             </section>
         </chapter>
         <chapter>
-            <title>Combat Mechanics</title>
+            <title>Combat</title>
             <para>The combat section details the types of actions that may be taken while in combat.
-                The chapter on General Play must be understood before working with the combat
-                details.</para>
+                </para>
             <section>
                 <title>General Play</title>
                 <para>Combat normally occurs on a pulse by pulse basis. The process is fairly simple
@@ -1064,12 +1617,15 @@
                         <table>
                             <title/>
                             <tgroup cols="3">
-                                <tbody>
+                                <thead>
                                     <row>
+                                        <?dbfo bgcolor="teal" ?>                                        
                                         <entry> Target </entry>
                                         <entry> Size </entry>
                                         <entry> DF</entry>
                                     </row>
+                                </thead>
+                                <tbody>
                                     <row>
                                         <entry> Eye </entry>
                                         <entry> 1 sq''</entry>
@@ -1191,7 +1747,8 @@
                         <title/>
                         <tgroup cols="2">
                             <tbody>
-                                <row>
+                                <row>                               
+                                    <?dbfo bgcolor="teal" ?>
                                     <entry> Roll </entry>
                                     <entry> Location </entry>
                                 </row>
@@ -1343,6 +1900,7 @@
                             <tgroup cols="3">
                                 <tbody>
                                     <row>
+                                        <?dbfo bgcolor="teal" ?>
                                         <entry>Roll </entry>
                                         <entry>Effect </entry>
                                         <entry> DF </entry>
@@ -1436,7 +1994,7 @@
                     <section>
                         <title>Crouching</title>
                         <subtitle/>
-                        <para>\index{Defense!Crouching Down} Crouching down can be used as a one
+                        <para>Defense!Crouching Down Crouching down can be used as a one
                             time evasive maneuver against an incoming attack. It is a five pulse
                             action that gives <informalequation>
                                 <mathphrase>2 x PDF</mathphrase>
@@ -1491,482 +2049,6 @@
             <section>
                 <title>General Play</title>
                 <para>Text</para>
-            </section>
-        </chapter>
-        <chapter>
-            <title>Skills and Tasks</title>
-            <section>
-                <title>Tasks</title>
-                <para>A task is an action or a group of actions to be performed. Each task has a
-                    difficulty associated with it. That combined with the knowledge of the
-                    character's rank in the skill and their stats allows us to determine the
-                    percentile roll needed to succeed.</para>
-                <para>To do a task the character determines the Difficulty Factor DF of the task and
-                    what skill(s) may be used to do the task. A base chance to BC is determined and
-                    modified by the difficulty factor of the task. </para>
-                <para>Forcing a locked door is a task that has some difficulty. If the character has
-                    no skill in forcing doors then they are forcing the door based on using just
-                    physical strength. Their chance to force the door is based on their physical
-                    strength and how difficult the door is to force. The sum total chance to force
-                    the door is called the Success Chance SC.</para>
-                <para>If the character has a skill in forcing doors then they will have knowledge
-                    about how best to apply their physical strength to get the door open.</para>
-                <para>Most players will not see a task description such as this. The GM may use
-                    it.</para>
-                <variablelist>
-                    <title>Elements of a Task</title>
-                    <varlistentry>
-                        <term>Name</term>
-                        <listitem>
-                            <para>Self Explanatory</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term>Difficulty Factor</term>
-                        <term>DF</term>
-                        <listitem>
-                            <para>The difficulty of the task</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term>Stat basis</term>
-                        <term>SB</term>
-                        <listitem>
-                            <para>The stat basis of the task</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term>Time</term>
-                        <listitem>
-                            <para>How long the task typically takes</para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term>Applicable Skills</term>
-                        <listitem>
-                            <para>Any skills that may be applied to the task</para>
-                        </listitem>
-                    </varlistentry>
-                </variablelist>
-                <section>
-                    <title>Difficulty Factors</title>
-                    <para> The difficulty of a task is described by a number referred to as an
-                        ``Difficulty Factor'' or DF. Difficulty Factors for tasks typically range
-                        from -10 to +4. Throughout SH it is assumed that the base DF of an action is
-                        0 unless otherwise stated.</para>
-                    <para> The modifier for a task is simply 5% times the Difficulty Factor or: <informalequation>
-                            <mathphrase>Modifier = 5 x Difficulty Factor</mathphrase>
-                        </informalequation>
-                    </para>
-                    <para> If there are a series of actions that can be lumped together in a single
-                        task the DF for the task is the average of the DFs for all the tasks. </para>
-                    <para> Jogging across the street and leaping a small fence are actions that are
-                        best lumped together into one task. There is no reason to ask the character
-                        to roll a task roll for each action. But if the character stands the chance
-                        of being exposed to someone looking for him then a roll should be made for
-                        the entire set of actions. </para>
-                    <para> There are some common actions and ways of describing actions that have
-                        standard DFs. </para>
-                </section>
-                <section>
-                    <title>Stat Basis</title>
-                    <para>The task has a \ndx{stat basis} that describes what stat or combination of
-                        stats can be used to do the task. This is only used if the character has
-                        none of the skills in the Applicable Skills entry.</para>
-                    <para>The Base Chance for someone who has no skill is <informalequation>
-                            <mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase>
-                        </informalequation>
-                    </para>
-                </section>
-                <section>
-                    <title>Time</title>
-                    <para>The task will have time associated with it. This is the average time the
-                        task typically takes to perform.</para>
-                </section>
-                <section>
-                    <title>Applicable Skills</title>
-                    <para>This is a list of suggested skills that could be used to do the task. It
-                        is not exhaustive.</para>
-                </section>
-            </section>
-            <section>
-                <title>Skills</title>
-                <para/>
-                <section>
-                    <title>Description</title>
-                    <variablelist>
-                        <title>Elements of a Skill</title>
-                        <varlistentry>
-                            <term>Name</term>
-                            <listitem>
-                                <para>Self Explanatory</para>
-                            </listitem>
-                        </varlistentry>
-                        <varlistentry>
-                            <term>Difficulty Factor</term>
-                            <term>DF</term>
-                            <listitem>
-                                <para>The difficulty of the task</para>
-                            </listitem>
-                        </varlistentry>
-                        <varlistentry>
-                            <term>Stat basis</term>
-                            <term>SB</term>
-                            <listitem>
-                                <para>The stat basis of the task</para>
-                            </listitem>
-                        </varlistentry>
-                        <varlistentry>
-                            <term>Generation Cost</term>
-                            <listitem>
-                                <para> The character generation cost of a skill or skill package.
-                                    Skills only cost 1 point. Skill packages typically vary from 1
-                                    to 10 points in cost.</para>
-                            </listitem>
-                        </varlistentry>
-                        <varlistentry>
-                            <term>EP Cost</term>
-                            <listitem>
-                                <para>The experience point cost is the amount of experience points
-                                    it takes to buy a roll in a skill.</para>
-                            </listitem>
-                        </varlistentry>
-                    </variablelist>
-                </section>
-                <section>
-                    <title>Ranking</title>
-                    <para>Proficiency in a skill is described by a number with a range of 0-30. The
-                        higher the number, the greater the character's expertise. Someone is
-                        completely unfamiliar with a skill is considered to be unranked. Someone who
-                        is familiar with the basics of the skill is rank 0. Other rankings are
-                        described in table \ref{Table:SkillRanks}.</para>
-                </section>
-                <section>
-                    <title>Stat Basis</title>
-                    <para>Each skill has a stat or a combination of stats that is called the stat
-                        basis and is used to calculate the base chance of using the skill. </para>
-                    <para>To use a skill the GM determines what the Base Chance of the skill is and
-                        adds in the modifiers for the task being performed. The Base Chance of using
-                        a skill is three times the Stat Basis of the skill or <informalequation>
-                            <mathphrase>(3 x SB<subscript>skill</subscript>)/2</mathphrase>
-                        </informalequation> For each rank the character has in the skill add 4%. The
-                        modifiers for the task vary for each situation.</para>
-                </section>
-                <section>
-                    <title>Types of skills</title>
-                    <simplelist>
-                        <member>Art -An activity that has as its aim an affect upon the aesthetic
-                            senses of its audience.</member>
-                        <member>Craft -An activity that is intended to mix Art with the production
-                            of some utilitarian object or effect.</member>
-                        <member>Science -A series of disciplines intended to increase a codified
-                            body of knowledge.</member>
-                        <member>Engineering -Any area of endeavour that attempts to apply a codified
-                            body of knowledge to the production of a desired physical
-                            effect.</member>
-                        <member>Technical Study -An area of endeavour that is focused upon creating
-                            and maintaining the end result of the corresponding engineering
-                            discipline</member>
-                        <member>Physical Discipline -Any area of endeavour based on muscle memory
-                            training. </member>
-                        <member>Mental Discipline -Any area of endeavour based on purely mental
-                            manipulations without reference </member>
-                    </simplelist>
-                </section>
-            </section>
-            <section>
-                <title>Working with Skills</title>
-                <section>
-                    <title>Raising Skills</title>
-                    <para>A character can gain experience points for roleplaying and use those
-                        experience points to buy that skill.</para>
-                    <para>Each skill has a base cost associated with it. This base cost is listed
-                        with the skill or it can be gotten from table
-                        \ref{Table:SkillComponentCosts} Included below is a list of some typical
-                        types of skills and their costs.</para>
-                    <table>
-                        <title>Costs of Skill Components</title>
-                        <tgroup cols="3">
-                            <tbody>
-                                <row>
-                                    <entry> BasicType </entry>
-                                    <entry> Cost </entry>
-                                    <entry> DF </entry>
-                                </row>
-                                <row>
-                                    <entry> Mental Disciplines </entry>
-                                    <entry> 3 </entry>
-                                    <entry> -4 </entry>
-                                </row>
-                                <row>
-                                    <entry> Art </entry>
-                                    <entry> 3 </entry>
-                                    <entry> -2 </entry>
-                                </row>
-                                <row>
-                                    <entry> Science </entry>
-                                    <entry> 7 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Engineering </entry>
-                                    <entry> 5 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Crafts </entry>
-                                    <entry> 4 </entry>
-                                    <entry> -1 </entry>
-                                </row>
-                                <row>
-                                    <entry> Technical Study </entry>
-                                    <entry> 4 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Physical Disciplines </entry>
-                                    <entry> 2 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Interaction </entry>
-                                    <entry> Cost </entry>
-                                    <entry> DF </entry>
-                                </row>
-                                <row>
-                                    <entry> Unassisted </entry>
-                                    <entry> 0 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Single Assisted </entry>
-                                    <entry> 1 </entry>
-                                    <entry> -1 </entry>
-                                </row>
-                                <row>
-                                    <entry> Tool Use </entry>
-                                    <entry> Cost </entry>
-                                    <entry> DF </entry>
-                                </row>
-                                <row>
-                                    <entry> Non-Tool Based </entry>
-                                    <entry> 0 </entry>
-                                    <entry> 0 </entry>
-                                </row>
-                                <row>
-                                    <entry> Simple Tool Based </entry>
-                                    <entry> 1 </entry>
-                                    <entry> -1 </entry>
-                                </row>
-                            </tbody>
-                        </tgroup>
-                    </table>
-                    <table>
-                        <title>Typical Skills and their costs</title>
-                        <tgroup cols="3">
-                            <tbody>
-                                <row>
-                                    <entry> BasicType </entry>
-                                    <entry> Cost </entry>
-                                    <entry> DF </entry>
-                                </row>
-                                <row>
-                                    <entry> Lore Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Spoken Language Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Written Language Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, Simple Tools)} </entry>
-                                    <entry> Cost is 4</entry>
-                                </row>
-                                <row>
-                                    <entry> Unarmed Weapon Skills </entry>
-                                    <entry> (Physical Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 2</entry>
-                                </row>
-                                <row>
-                                    <entry> Primitive Weapon Skills </entry>
-                                    <entry> (Physical Discipline, No Assist, Simple Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Complex Weapon Skills { </entry>
-                                    <entry> (Physical Discipline, No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 4</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Science Skills </entry>
-                                    <entry> (Science,No Assist, No Tools)} </entry>
-                                    <entry> Cost is 7</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Engineering Skills </entry>
-                                    <entry> l (Engineering,No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 7</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Technical Skills </entry>
-                                    <entry> (Technical, No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 6</entry>
-                                </row>
-                            </tbody>
-                        </tgroup>
-                    </table>
-                    <para>To determine the cost of raising a skill from one rank to the next rank up
-                        find the row in table \ref{Table:SkillEEPs} that has the base cost of the
-                        skill. Find the column with your current rank in that skill. The cost in
-                        each column to the right is the cost it takes to raise a skill from the
-                        current rank. To go up in Weapon:Fist (base cost 2) from rank 0 to rank 1
-                        costs 4 EEPs. To go from rank 1 to rank 2 is another 4 EEPs and so on.
-                    </para>
-                </section>
-                <section>
-                    <title>Training</title>
-                    <para>For each 10 hours of training with a teacher the character gets 1 EEP. For
-                        each 20 hours of training with a partner the character gets 1 EEP. For each
-                        30 hours of self-training with a the character gets 1 EEP. There are all
-                        sorts of modifiers so ask....</para>
-                </section>
-                <section>
-                    <title>Costs of unlisted skills</title>
-                    <para>When figuring out the cost of previously unlisted skill use table
-                        \ref{Table:SkillComponentCosts} simply add together all of the costs that
-                        appear to apply.</para>
-                </section>
-                <section>
-                    <title>Relations Among Skills</title>
-                    <para>In situations where the character does not have a skill that is directly
-                        applicable to the task being performed the character may choose to use a
-                        related skill. </para>
-                    <para>A typical example would be in using two different types of handguns. The
-                        character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun
-                        weapon is fairly different from the Slug Pistol so the character can only
-                        apply 1/5 of his expertise in Slug Pistol to using this pistol. So he has an
-                        effective rank 2 in the weapon. </para>
-                    <para>As a rule the following relations apply.</para>
-                    <table>
-                        <title>Typical Skills and their costs</title>
-                        <tgroup cols="3">
-                            <tbody>
-                                <row>
-                                    <entry> BasicType </entry>
-                                    <entry> Cost </entry>
-                                    <entry> DF </entry>
-                                </row>
-                                <row>
-                                    <entry> Lore Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Spoken Language Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Written Language Skills </entry>
-                                    <entry> (Mental Discipline, No Assist, Simple Tools)} </entry>
-                                    <entry> Cost is 4</entry>
-                                </row>
-                                <row>
-                                    <entry> Unarmed Weapon Skills </entry>
-                                    <entry> (Physical Discipline, No Assist, No Tools)} </entry>
-                                    <entry> Cost is 2</entry>
-                                </row>
-                                <row>
-                                    <entry> Primitive Weapon Skills </entry>
-                                    <entry> (Physical Discipline, No Assist, Simple Tools)} </entry>
-                                    <entry> Cost is 3</entry>
-                                </row>
-                                <row>
-                                    <entry> Complex Weapon Skills { </entry>
-                                    <entry> (Physical Discipline, No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 4</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Science Skills </entry>
-                                    <entry> (Science,No Assist, No Tools)} </entry>
-                                    <entry> Cost is 7</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Engineering Skills </entry>
-                                    <entry> l (Engineering,No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 7</entry>
-                                </row>
-                                <row>
-                                    <entry> Basic Technical Skills </entry>
-                                    <entry> (Technical, No Assist, Complex Tools)} </entry>
-                                    <entry> Cost is 6</entry>
-                                </row>
-                            </tbody>
-                        </tgroup>
-                    </table>
-                </section>
-                <section>
-                    <title>Unfamiliar Tools</title>
-                    <para>If the skill requires the use of tools and the tool that the character is
-                        utilizing is unfamiliar, then the action occurs at a DF -2. This usually
-                        only happens if the differences between the version of the tool the
-                        character normally uses and the current one actual effect how it is used. A
-                        gun with a different mass than the entity is used to is unfamiliar, whereas
-                        a gun of the same model and same manufacturer is not. To eliminate this
-                        unfamiliarity modifier requires that the entity familiarize himself with the
-                        tool with a DF -3 roll against the SB of the skill with a gain of 1 DF per
-                        roll..</para>
-                </section>
-                <section>
-                    <title>General Skills</title>
-                    <para>Skills that are described as general skills cover a wide range of tasks
-                        with very little depth. A person who has learned a general skill such as
-                        Throw Object is able to throw just about anything they can get their hands
-                        on ( knives, spoons, rocks, chairs) with a lesser success chance than
-                        someone who has a specific skill in throwing a particular object</para>
-                    <para>In addition, there are skills known as support skills that are solely
-                        \index{Skills!Support} designed to increase the success chance when doing
-                        one type of action with a skill. Someone who uses their sword to parry
-                        weapon attacks may wish to train specifically in parrying with a sword. So
-                        they would have a ``Long Sword' skill and a ``Long Sword : Parry''
-                        skill.</para>
-                    <para>General skills only give 1%/rank to the success chance. Specific skills
-                        (the SH norm), give 4%/rank. Support Skills add 2%/rank. There is no limit
-                        on the number of support skills that may be applied to a single task.</para>
-                </section>
-                <section>
-                    <title>Filter Skills</title>
-                    <para>SThere is a category of skills which affects the use of other skills in an
-                        environment different from the one they were learned in. These skills are
-                        called filter skills. A Filter skill is any skill that can allow for the
-                        full expression of other skills in an environment other than that for which
-                        those skills were designed for.</para>
-                    <para>Typical filter skills include the following: 0-g maneuver, Tech Level
-                        Lore, Culture Lore, Mounted Combat, Vehicular Combat skills, Armor Wearing,
-                        and Computer operations.</para>
-                    <para>For situations in which the character is attempting to apply a skill in a
-                        environment he is not familiar with and that skill must interact with that
-                        environment, then the rank in the filter skill becomes the upper limit on
-                        the effective rank of the skill being used.</para>
-                    <para>As an example, if someone has a mounted combat skill at rank 5, he or she
-                        may use their archery skill up to rank 5 without making any rolls against
-                        their mounted combat. If the character has a higher archery skill and wants
-                        to bring it all to bear on a shot, they must roll against their mounted
-                        combat first in order to get the full use of the archery skill.</para>
-                </section>
-                <section>
-                    <title>Skill Pools</title>
-                    <para>
-                        <informalequation>
-                            <mathphrase> {Pool\, Bonus} = Rank_{Highest\,Skill}/2 + \sum
-                                {Rank_{All\, Other\, Skills}}/10$ with a maximum of Rank_{Highest\,
-                                Rank} \cdot 2$ Pools may be grouped according to training style, SB,
-                                or character preference. </mathphrase>
-                        </informalequation></para>
-                </section>
             </section>
         </chapter>
         <index> </index>
