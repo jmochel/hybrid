@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>test.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - FRP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Players-Guide.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -25,7 +40,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Paradigm/Paradigm.docbook.xml</String>
+                                    <String>Character-Generation.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -40,7 +55,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Character-Generation.xml</String>
+                                    <String>Paradigm/Paradigm.docbook.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
