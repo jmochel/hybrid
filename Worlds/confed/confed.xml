@@ -5,20 +5,20 @@
     <chapter>
         <title>Brief Description</title>
         <para>
-        The Confederation of Systems, more commonly known as the Confederation or Confed, is a collection of solar systems and colonies banded 
+        The Confederation of Stellar Communities, more commonly known as the Confederation or Confed, is a collection of solar systems and colonies banded 
         together for both defense and trade. There has been a concerted effort by the Confed to limit interference in the internal workings of the 
         actual systems.
         </para>
-        <para>
-        The Confed emcompasses a number of major racial groups. The Terrans and the various derivative races of {\it Homo Terra Prime} 
-        constitute a major portion of the current population. The Alpha  Centaurans and the derivative races of {\it Homo Alpha Centauran 
-        Prime} constitute the next largest group followed closely by the Proximans {\it Homo Proxima Prime}. There are no other known races 
-        currently members of the Confed.
-        </para>
-        <para>
-        The duties of the Confederation as a governing body are quite simple:  keep the peace {\em Between member systems}. To this end each system 
-        donates a portion of its military services to the Confed as well as some monetary support.
-        </para>
+        <section>
+            <title>Goals</title>
+            <orderedlist>
+                <listitem><para>Provide for the common defense and the prevention of Interstellar War</para></listitem>
+                <listitem><para>Provide for the common Economic growth.</para></listitem>
+                <listitem><para>Provide for the protection of nascent cultures.</para></listitem>
+                <listitem><para>Provide a neutral court for disputes.</para></listitem>
+            </orderedlist>
+        </section>
+        
     </chapter>
     
     <chapter>
@@ -678,6 +678,41 @@
         <title>The Sub-Cultures</title>
         <para></para>
         <section><title>Wicca</title><para></para></section>
+    </chapter>
+
+    <chapter>
+        <title>Articles of the Confederation</title>
+        <formalpara><title>Article 1: The Foundation</title><para>Each stellar community retains its sovereignty,freedom, and independence, and every power, jurisdiction, and right,which is not by expressly delegated to the Confederation by these articles and supporting legislation.</para></formalpara>
+        <formalpara><title>Article 2: The Purpose</title><para>Said communities enter into a firm union with each other, for their common defense, economic security. and their mutual and general welfare, binding themselves to assist each other against all coercion offered to, orattacks made upon, them.</para></formalpara>
+        <formalpara><title>Article 3. Universal Application</title><para>To secure intercourse among the people of the different communities in this union, the free inhabitants of each of these communities (fugitives from justice excepted) shall be entitled to all privileges andimmunities of citizens in the communities.
+            !!!! The people of each community shall enjoy ingress and regress to and from
+            any other community free of artificial restrictions to that ...</para></formalpara>
+        
+        <formalpara><title>Article 4: Constitution of the Senate</title><para>For convenient management of the interests of the united communities, 
+            representatives shall be appointed in such manner as the governing bodies of 
+            each  community shall direct, to meet in the Confederation Senate on the
+            first day of the Terran Solar Year, every year, with a power reserved to each
+            community to recall any or all of its delegates at any time within the
+            year, and to send others in their stead for the remainder of the year.</para></formalpara>
+        
+        <formalpara><title>Article 5: Exclusion of Interest</title><para>No community shall lay any restrictions on trade which may interfere with any
+            stipulations in treaties, entered into by the united communities in Confederation Senate
+            assembled, with any stellar community.</para></formalpara>
+        
+        <formalpara><title>Article 6: Common Defense</title><para></para></formalpara>
+        <formalpara><title>Article 7: Arbitration and Appeal</title><para>The united communities in Confederation Senate assembled shall be 
+            the last resort on appeal in all disputes and differences now subsisting 
+            or that hereafter may arise between two or more communities concerning boundary, 
+            jurisdiction or any other causes; such authority shall always be exercised
+            in a uniform manner for all members of union. </para></formalpara>
+        
+        <formalpara><title>Article 8: Economic</title><para>The united communities in Confederation Senate assembled shall 
+            also have the sole and exclusive right and power of regulating the value of monetary 
+            unit struck by their own authority, or by that of the respective communities --
+            fixing the standards of weights and measures throughout the united
+            communities </para></formalpara>
+        
+
     </chapter>
     
 
