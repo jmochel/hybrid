@@ -1,35 +1,146 @@
-<?xml version='1.0'?>
-<!DOCTYPE book PUBLIC "-//Norman Walsh//DTD DocBk30 XML V0.5//EN" "db3xml05.dtd">
-]>
-<book>
-    <title>The History of the Confederation</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<book xmlns="http://docbook.org/ns/docbook">
+    <title>The United Confederation of Systems</title>
     <chapter>
         <title>Brief Description</title>
         <para>
-        The Confederation of Systems, more commonly known as the 
-        Confederation or Confed, is a collection of solar systems and colonies banded 
-        together for both defense and trade. There has been a concerted 
-        effort by the Confed to limit interference in the internal workings of the 
+        The Confederation of Systems, more commonly known as the Confederation or Confed, is a collection of solar systems and colonies banded 
+        together for both defense and trade. There has been a concerted effort by the Confed to limit interference in the internal workings of the 
         actual systems.
         </para>
         <para>
-        The Confed emcompasses a number of major racial groups. The Terrans 
-        and the various derivative races of {\it Homo Terra Prime} 
-        constitute a major portion of the current population. The Alpha 
-        Centaurans and the derivative races of {\it Homo Alpha Centauran 
-        Prime} constitute the next largest group followed closely by the 
-        Proximans {\it Homo Proxima Prime}. There are no other known races 
+        The Confed emcompasses a number of major racial groups. The Terrans and the various derivative races of {\it Homo Terra Prime} 
+        constitute a major portion of the current population. The Alpha  Centaurans and the derivative races of {\it Homo Alpha Centauran 
+        Prime} constitute the next largest group followed closely by the Proximans {\it Homo Proxima Prime}. There are no other known races 
         currently members of the Confed.
         </para>
         <para>
-        The duties of the Confederation as a governing body are quite simple: 
-        keep the peace {\em Between member systems}. To this end each system 
-        donates a portion of its military services to the Confed as well as 
-        some monetary support.
+        The duties of the Confederation as a governing body are quite simple:  keep the peace {\em Between member systems}. To this end each system 
+        donates a portion of its military services to the Confed as well as some monetary support.
         </para>
     </chapter>
-
+    
     <chapter>
+        <title>The Three Legs</title>
+        <section>
+            <title>The Mechanized Infantry</title>
+            <subtitle>The MI</subtitle>
+            <para>The Mechanized Infantry is one the primary reasons for the continued existence of the Confederation in these troubled times. They constitute a package of deadly force on a highly mobile platform with the ability to perform everything from full scale assualts and armoured support to pinpoint actions in densely populated civilian areas.</para>
+            <para>In the MI, there are no armchair officers. When the time to do some ground pounding comes around the officers are right there with their men. An officer in many respects is a very skilled individual simply because he must be able to direct the action and defend himself at the same time.</para>
+             <table>
+                <title>Table of Organization</title>
+                <tgroup cols="3">
+                    <thead>
+                        <row><entry>Unit</entry><entry>Commanded by</entry><entry>Contains</entry></row>
+                    </thead>
+                    <tbody>
+                        <row><entry>The Corp</entry><entry>The Commander General (Marion Sutaken)</entry><entry></entry></row>
+                        <row><entry>Legion</entry><entry>Legion Commander</entry><entry>10 Jump Battalions</entry></row>
+                        <row><entry>Battalion</entry><entry>Battalion Commander</entry><entry>10 Jump Divisions</entry></row>
+                        <row><entry>Division</entry><entry>Field Commander</entry><entry>10 Jump Plexes</entry></row>
+                        <row><entry>Jump Plex</entry><entry>Sargent Commander</entry><entry>10 Jump Squads</entry></row>
+                        <row><entry>Hand/Squad</entry><entry>Sargent</entry><entry>9 MI</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <para>
+                The MI have a need for men or women that are tough, flexible and capable of learning. As a result they have raided jails for potential troopers as well as normal recruiting. If an confed citizen can pass 
+                the examinations and initial training then he has a clean record. Any criminal record possessed up to that point is eradicated. By the same token the MI has a far more stringent set of laws and codes with 
+                fairly harsh penalties. 
+            </para>
+            <para>
+                All troopers enter a two year training program. This boot camp process is expensive but effective. They are exposed to a wide range 
+                of technological skills and are given Bacterial Augmentation injections to improve response speed. 
+            </para>
+            <para>
+                The MI get their name from the powered battle suits which they use almost to the exclusion of all other equipment. 
+            </para>
+            <table>
+                <title>Specialized deployments of MI Suit</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row><entry>Name</entry><entry>Usage</entry></row>
+                    </thead>
+                    <tbody>
+                        <row><entry>Spook</entry><entry>Long range recon</entry></row>
+                        <row><entry>Scout</entry><entry>High speed recon</entry></row>
+                        <row><entry>Command</entry><entry>Battle coordination.</entry></row>
+                        <row><entry>Marauder</entry><entry>Battle.</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        
+        <section>
+            <title>The Marshalls</title>
+            <para>
+                The Confederation Marshalls were established in the year 325 (CONFED) 
+                as a civilian enforcement arm of the Confederation Council by 
+                Confederation Governance Action 172-01/325 at the request of 
+                Ex-Council Factor Dan Forest-Kell(Terra). Its duties are fairly 
+                simply stated: To act as direct representatives of the Confederation 
+                in any matter involving the enforcement of Confederation laws on a
+                scale smaller than a full scale military action without regard to 
+                planetary or spatial boundaries.  
+            </para>
+            <para>
+                The Confederation Marshalls are direct representatives of the 
+                Confederation Council and as such can request military action or 
+                complete quarantine of a solar system. They are used as guards in 
+                situations where military personell are not needed or are 
+                undesirable.
+            </para>
+            <para>
+                They are often involved in criminal investigation where a local 
+                investigation would be the subject of some discomfort.
+            </para>
+            <para>
+                The Marshalls have little or no access to spacecraft. They typically 
+                use military craft or commercial transport, on which they travel at 
+                no cost. In addition they are usually able to get access to most 
+                government computer systems (within reason ) .
+            </para>
+            <section>
+                <title>Regulations</title>
+                <para>
+                Confederation Marshalls on duty are expected to be armed at all times and to carry their ID with them at all times. There are no "undercover" Marshalls. While there is no 
+                standard armament, there is a strong push for the rokie to train and use a slug weapon. The reason seems to lie in the Terran wild west 
+                origins of the Marshall concept.
+                </para>
+            </section>
+            <section>
+                <title>Ranks</title>
+                <para>
+                    Ranks are very simple. ( Two points of status are required for each rank )
+                </para>
+                <table>
+                    <title>Marshall Ranks</title>
+                    <tgroup cols="2">
+                        <tbody>
+                            <row><entry>Provo</entry><entry>A rooky - typically assigned to a senior Marshall.</entry></row>
+                            <row><entry>1st Star</entry><entry>Attached to a specific region or beat .</entry></row>
+                            <row><entry>2nd Star</entry><entry>Attached to a specific duty area.</entry></row>
+                            <row><entry>3rd Star</entry><entry>Semi Attached - Qualified for Council Level diplomatique missions.</entry></row>
+                            <row><entry>Lone Star</entry><entry> Direct council representative.. Picks his beat and reports in as necessary.</entry></row>
+                        </tbody>
+                    </tgroup>
+                </table>
+                <para>Unattached Marshalls have almost no salary. All of their normal 
+                    expenses on duty are paid simply by their ID card. Charges accrue to 
+                    the Confed  Council. They may commander equipment as necessary.</para>
+            </section>
+        </section>
+
+        <section>
+            <title>The Council</title>
+            <para></para>
+        </section>
+        
+
+    </chapter>
+
+<!--    <chapter>
         <title>History</title>
 
         <sect1>
@@ -37,21 +148,15 @@
             Pre-space
             </title>
                 <para>
-                The history of the Confederation is most properly the history of the 
-                Terrans. The Terrans were one of the primary forces behind the 
+                The history of the Confederation is most properly the history of the Terrans. The Terrans were one of the primary forces behind the 
                 formation of the Confederation. 
 
-                The Terran History of the years immediately preceeding the year 2560 is
-                found to have a nearly hysterical flavour to those used to reading the
-                histories of less divided cultures. Most other cultures in the 
-                Confederation of Systems have a sharply defined predilection toward or
-                away from war. Few cultures have the ambivalence of a Terran towards
-                violence.
+                The Terran History of the years immediately preceeding the year 2560 is found to have a nearly hysterical flavour to those used to reading the
+                histories of less divided cultures. Most other cultures in the Confederation of Systems have a sharply defined predilection toward or 
+                away from war. Few cultures have the ambivalence of a Terran towards violence.
 
-                During the time period following the Second World War the world focused
-                in conflicts around the two main super powers of the time period. With
-                a strong technological lead over the Soviet Bloc, the USA spent a great
-                deal of energy and influence in combatting any gains made by the Soviet
+                During the time period following the Second World War the world focused in conflicts around the two main super powers of the time period. With
+                a strong technological lead over the Soviet Bloc, the USA spent a great deal of energy and influence in combatting any gains made by the Soviet
                 Bloc. 
                 </para>
 
@@ -522,7 +627,59 @@
         </para>
 
     </chapter>
+-->
 
+    <chapter>
+        <title>The Races</title>
+        <para>
+        </para>
+        <section><title>Terrans</title><para></para></section>
+        <section><title>Alphans</title><para></para></section>
+        <section><title>Proximans</title><para></para></section>
+        <section><title>Artifacts</title><para></para></section>
+    </chapter>
+
+    <chapter>
+        <title>The Cultures</title>
+        <para></para>
+        <section><title>Elysian</title><para></para></section>
+        <section><title>Romani</title><para></para></section>
+    </chapter>
+
+    <chapter>
+        <title>The Colonies</title>
+        <para>
+        </para>
+    </chapter>
+    
+    <chapter>
+        <title>The Megacorps</title>
+        <para>
+        </para>
+        <section><title>GMHD</title>
+            <para>
+                GMHD's work is focused within a group of 121 private and Confederation funded
+                Research and Development Centers that perform materials engineering, systems
+                engineering, biomedical research and Cybernetics for the military and civilian
+                branches of the Confederation.
+            </para>             
+        </section>
+    </chapter>
+
+    <chapter>
+        <title>Crime Groups</title>
+        <para></para>
+        <section><title>Black Sun</title><para>Interstellar crime network</para></section>
+        <section><title>Nine Families</title><para>Terran mafia centered in South America</para></section>
+    </chapter>
+    
+    
+    <chapter>
+        <title>The Sub-Cultures</title>
+        <para></para>
+        <section><title>Wicca</title><para></para></section>
+    </chapter>
+    
 
     <chapter>
         <title>Major Terran World Powers</title>

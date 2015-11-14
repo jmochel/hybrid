@@ -23,10 +23,9 @@
     </info>
     <toc/>
     <part>
-        <title>Concepts and basic mechanics</title>
+        <title>The Basics</title>
         <chapter>
             <title>Basic Mechanics</title>
-            <subtitle>When to roll dice and what to roll.</subtitle>
             <blockquote>
                 <attribution>Susan Sontag, At the Same Time: Essays and Speeches</attribution>
                 <para>Time exists in order that everything doesn’t happen all at once…and space
@@ -35,7 +34,8 @@
             <section>
                 <title>Time Scale, Perception, and Initiative</title>
                 <section>
-                    <title>Time Scale</title>
+                    <title>When do things happen</title>
+                    <subtitle>Time Scale</subtitle>
                     <para>We mostly work in "Mythic" or "Storytelling" Time. Time is referred to by
                         the units we are used to, Hours, minutes, and seconds. The GamesMaster (GM)
                         typically tells the players how much time has passed and handles the
