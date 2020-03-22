@@ -1,59 +1,4 @@
-Immediate Needs
----------------
-Mechanized Infantry Career Sheet
-ESPER Corp Career Sheet
-Confed Scout Career Sheet
-Free Marshall Career Sheet
-Speed Tables
-Skill Cost and growth tables
-Skills Sheets
-Character Generation Sheets
-Character Sheets
-3 general game system sets
-Basic damage Scale and Damage tables
-Ysdak Racial Sheets
 
-
-Layout
-------------------------------------------------------------
-<SH Chapter Structure>
-	<Quote>
-    <TOC>
-    <Intro>
-    <ListOfTerms>
-    <Sxn>
-    	<Sxn1>
-        <Etc....>
-
-Each section includes a description of what the topic is (in reality)
-and how it is done (game mechanic wise).
-
-+ Expansion rules should be clearly displayed
-+ Tables should be as close as possible to their point of 
-reference. They also need a caption and a ?border?
-
-Take a look at a full page environment for reproducing the look of
-a page or description inside it.
-
-
-General Notes
-------------------------------------------------------------
-
-SCALES
-	Mental and Physical 
-    Time
-    Distance
-    Damage
-
-Fatigue and Exhaustion
-Lifting
-Drugs 
-	Formats, Saves, Summary data, poisons
-
-Encounters
-	Give a BC of an encounter based on the population density
-    of people/objects/places. Use the crit tables to indicate 
-	anything more than the usual for that area.
 
 Action/Reaction
 ------------------------------------------------------------
@@ -104,40 +49,9 @@ Speed pt cost = some formula ?
 
 QuickDraw should buy more speed points for drawing the weapon.
 
-EEPS
-------------------------------------------------------------
-	Detailed notes on EEPS and Training
-	Base EEPS (You ran ...)
-	Character EEPS ( How well you roleplayed)
-    Skill Use EEPs ( How well you manipulated the game)
-    Scenario EEPS ( Special)
-	Char EEPs and Skill EEPs shuld be equal in mgnitude.
-    Self training generates a smaller amount of eeps.
 
-Character Gen
-------------------------------------------------------------
-Process
-    * Racial Templates - have a cost
-	* Cultural Templates - have a cost ( avg cost = 0 )
-	* Career template
-    	Skill points generated in a career can only be used in the
-        career's skills.
-	* What about debt.
-	* Wealth/Status Ads/Disads
-    	Status gained in a career path only applies there. 
-        There should be  playboy career path.
 
-	Add in detailed discussions of hard coded skills like movement
-	Do up character sheets
-		Add in specifics of various hard-coded skills such as movement
-	Change the point pools to ?
-	Add optional no-roll generation
-	Discuss what status/wealth get you
-    Discuss interchangeability of PD/Wealth/Status skills
-    How to put a cap on power acquired by generating an old PC ?
-    	- Add cost for maintaining stats  ?
-        - Or add power ratings (GM based limits )
-	Stat Buying
+
 
 Skills
 ------------------------------------------------------------
@@ -178,56 +92,6 @@ Skills
 
 		* We need a rank-to-effect function.
 			The average rank could work or the average of the top 3 skill
-
-
-
-Tasks
-------------------------------------------------------------
-	Describing tasks 
-	Desc/Name -  DF - Time - ApplicableSkills - Any special notes
-			
-
-Filter skills
-------------------------------------------------------------
-	i.e. 
-    Comp. Ops. 
-    Mounted Combat
-    Vehicular Combat
-    Acrobatic Combat
-    0-G Combat.
-    ME: Energy Type.
-	Florentine is a filter skill and a support skill.
-
-Combat
-------------------------------------------------------------
-	Attacks against inanimate objects
-	Subduing
-	Mounted Combat   (Filter)
-	Vehicular Combat (Filter)
-	Spray Fire, Subsequent Fire
-    Weapon Swing Times
-    Damage amount versus strength
-	Florentine Mods should be harsher ? IncreaSE offhand mods.
-
-
-Damage
-------------------------------------------------------------
-	Battle Damage
-        falling objects, falling damage
-        effect of charging on damage
-	relationship between hps|armour| structural Points
-	damage to shields
-	injuries, illness, first aid, natural healing
-	Oxygen Deprivation
-    Accellaration Charts
-    Drug Details
-
-Body and Soul
-Ways of death
-Effects of death
-Major injuries
-Massive Shock
-Disease
 
 weapons
 ------------------------------------------------------------
