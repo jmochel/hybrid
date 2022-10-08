@@ -1,4 +1,3 @@
-
 ./old-notes-and-docs/research/Summaries/gdisc.txt
 ./old-notes-and-docs/research/Summaries/spmagic.txt
 ./old-notes-and-docs/research/Summaries/psi.1
@@ -7,8 +6,6 @@
 ./old-notes-and-docs/research/Summaries/sleep.oft
 ./old-notes-and-docs/research/Summaries/ill.txt
 ./old-notes-and-docs/research/Summaries/rxn.txt
-
-
 ./old-notes-and-docs/players-docs/intro.tex
 ./old-notes-and-docs/players-docs/npcpc.tex
 ./old-notes-and-docs/players-docs/chargen.tex

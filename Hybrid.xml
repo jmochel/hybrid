@@ -30,7 +30,7 @@
             <title>Statistics</title>
             <para>There are two types of statistics: Primary and Secondary. Primary statistics are the basic 10 statistics. Secondary statistics are calculated from the primary
                 statistics.</para>
-            <section>
+            <section xml:id="sxn-primary-statistics">
                 <title>Primary Statistics</title>
                 <para>Primary statistics are composed of five physical and five mental statistics.</para>
                 <formalpara>
@@ -455,66 +455,103 @@
                                 <row>
                                     <?dbfo bgcolor="aqua" ?>
                                     <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Ease</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Success (1.0)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Solid (1.25)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Notable (1.5)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Wow! (2.0)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Whoah! (3.0)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Solid Fail (-1.0)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Notable Fail (-1.25)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Amazing Fail (-1.5)</entry>
-                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>WTF! (-2.0)</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Did It SL1</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Solid SL2</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Notable SL3</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Wow! SL4</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Whoah! SL5</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Solid Fail FL2</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Notable Fail FL3</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>Amazing Fail FL4</entry>
+                                    <entry><?dbfo orientation="90"?><?dbfo rotated-width="1.0in"?>WTF! FL5</entry>
+                                </row>
+                                <row>
+                                    <?dbfo bgcolor="yellow" ?>
+                                    <entry>Effect</entry>    
+                                    <entry>1</entry>   
+                                    <entry>1.25</entry>
+                                    <entry>1.5</entry> 
+                                    <entry>2.0</entry> 
+                                    <entry>3.0</entry> 
+                                    <entry>-1</entry>  
+                                    <entry>-1.25</entry>
+                                    <entry>-1.5</entry>
+                                    <entry>-2.0</entry>
                                 </row>
                             </thead>
                             <tbody>
-                                <row>
-                                    <entry><?dbfo bgcolor="#1589FF" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                </row>
-                                <row>
-                                    <entry><?dbfo bgcolor="#1589FF" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                </row>
-                                <row>
-                                    <entry><?dbfo bgcolor="#1589FF" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                </row>
-                                <row>
-                                    <entry><?dbfo bgcolor="#1589FF" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="LIGHTGREEN" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                    <entry><?dbfo bgcolor="SALMON" ?></entry>
-                                </row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	57	</entry><?dbfo bgcolor="RED" ?><entry>	77	</entry><?dbfo bgcolor="RED" ?><entry>	97	</entry><?dbfo bgcolor="RED" ?><entry>	117	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	60	</entry><?dbfo bgcolor="RED" ?><entry>	80	</entry><?dbfo bgcolor="RED" ?><entry>	100	</entry><?dbfo bgcolor="RED" ?><entry>	120	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	12	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	62	</entry><?dbfo bgcolor="RED" ?><entry>	82	</entry><?dbfo bgcolor="RED" ?><entry>	102	</entry><?dbfo bgcolor="RED" ?><entry>	122	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	64	</entry><?dbfo bgcolor="RED" ?><entry>	84	</entry><?dbfo bgcolor="RED" ?><entry>	104	</entry><?dbfo bgcolor="RED" ?><entry>	124	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	67	</entry><?dbfo bgcolor="RED" ?><entry>	87	</entry><?dbfo bgcolor="RED" ?><entry>	107	</entry><?dbfo bgcolor="RED" ?><entry>	127	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	69	</entry><?dbfo bgcolor="RED" ?><entry>	89	</entry><?dbfo bgcolor="RED" ?><entry>	109	</entry><?dbfo bgcolor="RED" ?><entry>	129	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	11	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	71	</entry><?dbfo bgcolor="RED" ?><entry>	91	</entry><?dbfo bgcolor="RED" ?><entry>	111	</entry><?dbfo bgcolor="RED" ?><entry>	131	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	12	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	2	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	73	</entry><?dbfo bgcolor="RED" ?><entry>	93	</entry><?dbfo bgcolor="RED" ?><entry>	113	</entry><?dbfo bgcolor="RED" ?><entry>	133	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	13	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	75	</entry><?dbfo bgcolor="RED" ?><entry>	95	</entry><?dbfo bgcolor="RED" ?><entry>	115	</entry><?dbfo bgcolor="RED" ?><entry>	135	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	27	</entry><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	77	</entry><?dbfo bgcolor="RED" ?><entry>	97	</entry><?dbfo bgcolor="RED" ?><entry>	117	</entry><?dbfo bgcolor="RED" ?><entry>	137	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	11	</entry><entry><?dbfo bgcolor="GREEN" ?>	30	</entry><entry><?dbfo bgcolor="GREEN" ?>	15	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	80	</entry><?dbfo bgcolor="RED" ?><entry>	100	</entry><?dbfo bgcolor="RED" ?><entry>	120	</entry><?dbfo bgcolor="RED" ?><entry>	140	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	12	</entry><entry><?dbfo bgcolor="GREEN" ?>	32	</entry><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	82	</entry><?dbfo bgcolor="RED" ?><entry>	102	</entry><?dbfo bgcolor="RED" ?><entry>	122	</entry><?dbfo bgcolor="RED" ?><entry>	142	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	13	</entry><entry><?dbfo bgcolor="GREEN" ?>	34	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	3	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	84	</entry><?dbfo bgcolor="RED" ?><entry>	104	</entry><?dbfo bgcolor="RED" ?><entry>	124	</entry><?dbfo bgcolor="RED" ?><entry>	144	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	36	</entry><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	86	</entry><?dbfo bgcolor="RED" ?><entry>	106	</entry><?dbfo bgcolor="RED" ?><entry>	126	</entry><?dbfo bgcolor="RED" ?><entry>	146	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	15	</entry><entry><?dbfo bgcolor="GREEN" ?>	37	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	87	</entry><?dbfo bgcolor="RED" ?><entry>	107	</entry><?dbfo bgcolor="RED" ?><entry>	127	</entry><?dbfo bgcolor="RED" ?><entry>	147	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	39	</entry><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	89	</entry><?dbfo bgcolor="RED" ?><entry>	109	</entry><?dbfo bgcolor="RED" ?><entry>	129	</entry><?dbfo bgcolor="RED" ?><entry>	149	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	41	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	91	</entry><?dbfo bgcolor="RED" ?><entry>	111	</entry><?dbfo bgcolor="RED" ?><entry>	131	</entry><?dbfo bgcolor="RED" ?><entry>	151	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	43	</entry><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	11	</entry><entry><?dbfo bgcolor="GREEN" ?>	4	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	93	</entry><?dbfo bgcolor="RED" ?><entry>	113	</entry><?dbfo bgcolor="RED" ?><entry>	133	</entry><?dbfo bgcolor="RED" ?><entry>	153	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	45	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	11	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	95	</entry><?dbfo bgcolor="RED" ?><entry>	115	</entry><?dbfo bgcolor="RED" ?><entry>	135	</entry><?dbfo bgcolor="RED" ?><entry>	155	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	46	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	12	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	96	</entry><?dbfo bgcolor="RED" ?><entry>	116	</entry><?dbfo bgcolor="RED" ?><entry>	136	</entry><?dbfo bgcolor="RED" ?><entry>	156	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	48	</entry><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	12	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	0	</entry><?dbfo bgcolor="RED" ?><entry>	98	</entry><?dbfo bgcolor="RED" ?><entry>	118	</entry><?dbfo bgcolor="RED" ?><entry>	138	</entry><?dbfo bgcolor="RED" ?><entry>	158	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	50	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	13	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	100	</entry><?dbfo bgcolor="RED" ?><entry>	120	</entry><?dbfo bgcolor="RED" ?><entry>	140	</entry><?dbfo bgcolor="RED" ?><entry>	160	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	51	</entry><entry><?dbfo bgcolor="GREEN" ?>	26	</entry><entry><?dbfo bgcolor="GREEN" ?>	13	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	101	</entry><?dbfo bgcolor="RED" ?><entry>	121	</entry><?dbfo bgcolor="RED" ?><entry>	141	</entry><?dbfo bgcolor="RED" ?><entry>	161	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	53	</entry><entry><?dbfo bgcolor="GREEN" ?>	27	</entry><entry><?dbfo bgcolor="GREEN" ?>	13	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	103	</entry><?dbfo bgcolor="RED" ?><entry>	123	</entry><?dbfo bgcolor="RED" ?><entry>	143	</entry><?dbfo bgcolor="RED" ?><entry>	163	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	54	</entry><entry><?dbfo bgcolor="GREEN" ?>	27	</entry><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	5	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	104	</entry><?dbfo bgcolor="RED" ?><entry>	124	</entry><?dbfo bgcolor="RED" ?><entry>	144	</entry><?dbfo bgcolor="RED" ?><entry>	164	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	26	</entry><entry><?dbfo bgcolor="GREEN" ?>	55	</entry><entry><?dbfo bgcolor="GREEN" ?>	28	</entry><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	105	</entry><?dbfo bgcolor="RED" ?><entry>	125	</entry><?dbfo bgcolor="RED" ?><entry>	145	</entry><?dbfo bgcolor="RED" ?><entry>	165	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	27	</entry><entry><?dbfo bgcolor="GREEN" ?>	57	</entry><entry><?dbfo bgcolor="GREEN" ?>	29	</entry><entry><?dbfo bgcolor="GREEN" ?>	14	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	107	</entry><?dbfo bgcolor="RED" ?><entry>	127	</entry><?dbfo bgcolor="RED" ?><entry>	147	</entry><?dbfo bgcolor="RED" ?><entry>	167	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	28	</entry><entry><?dbfo bgcolor="GREEN" ?>	58	</entry><entry><?dbfo bgcolor="GREEN" ?>	29	</entry><entry><?dbfo bgcolor="GREEN" ?>	15	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	108	</entry><?dbfo bgcolor="RED" ?><entry>	128	</entry><?dbfo bgcolor="RED" ?><entry>	148	</entry><?dbfo bgcolor="RED" ?><entry>	168	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	29	</entry><entry><?dbfo bgcolor="GREEN" ?>	59	</entry><entry><?dbfo bgcolor="GREEN" ?>	30	</entry><entry><?dbfo bgcolor="GREEN" ?>	15	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	109	</entry><?dbfo bgcolor="RED" ?><entry>	129	</entry><?dbfo bgcolor="RED" ?><entry>	149	</entry><?dbfo bgcolor="RED" ?><entry>	169	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	30	</entry><entry><?dbfo bgcolor="GREEN" ?>	61	</entry><entry><?dbfo bgcolor="GREEN" ?>	31	</entry><entry><?dbfo bgcolor="GREEN" ?>	15	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	111	</entry><?dbfo bgcolor="RED" ?><entry>	131	</entry><?dbfo bgcolor="RED" ?><entry>	151	</entry><?dbfo bgcolor="RED" ?><entry>	171	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	31	</entry><entry><?dbfo bgcolor="GREEN" ?>	62	</entry><entry><?dbfo bgcolor="GREEN" ?>	31	</entry><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	112	</entry><?dbfo bgcolor="RED" ?><entry>	132	</entry><?dbfo bgcolor="RED" ?><entry>	152	</entry><?dbfo bgcolor="RED" ?><entry>	172	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	32	</entry><entry><?dbfo bgcolor="GREEN" ?>	63	</entry><entry><?dbfo bgcolor="GREEN" ?>	32	</entry><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	113	</entry><?dbfo bgcolor="RED" ?><entry>	133	</entry><?dbfo bgcolor="RED" ?><entry>	153	</entry><?dbfo bgcolor="RED" ?><entry>	173	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	33	</entry><entry><?dbfo bgcolor="GREEN" ?>	64	</entry><entry><?dbfo bgcolor="GREEN" ?>	32	</entry><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	6	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	114	</entry><?dbfo bgcolor="RED" ?><entry>	134	</entry><?dbfo bgcolor="RED" ?><entry>	154	</entry><?dbfo bgcolor="RED" ?><entry>	174	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	34	</entry><entry><?dbfo bgcolor="GREEN" ?>	65	</entry><entry><?dbfo bgcolor="GREEN" ?>	33	</entry><entry><?dbfo bgcolor="GREEN" ?>	16	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	115	</entry><?dbfo bgcolor="RED" ?><entry>	135	</entry><?dbfo bgcolor="RED" ?><entry>	155	</entry><?dbfo bgcolor="RED" ?><entry>	175	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	35	</entry><entry><?dbfo bgcolor="GREEN" ?>	66	</entry><entry><?dbfo bgcolor="GREEN" ?>	33	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	116	</entry><?dbfo bgcolor="RED" ?><entry>	136	</entry><?dbfo bgcolor="RED" ?><entry>	156	</entry><?dbfo bgcolor="RED" ?><entry>	176	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	36	</entry><entry><?dbfo bgcolor="GREEN" ?>	67	</entry><entry><?dbfo bgcolor="GREEN" ?>	34	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	117	</entry><?dbfo bgcolor="RED" ?><entry>	137	</entry><?dbfo bgcolor="RED" ?><entry>	157	</entry><?dbfo bgcolor="RED" ?><entry>	177	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	37	</entry><entry><?dbfo bgcolor="GREEN" ?>	68	</entry><entry><?dbfo bgcolor="GREEN" ?>	34	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	118	</entry><?dbfo bgcolor="RED" ?><entry>	138	</entry><?dbfo bgcolor="RED" ?><entry>	158	</entry><?dbfo bgcolor="RED" ?><entry>	178	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	38	</entry><entry><?dbfo bgcolor="GREEN" ?>	69	</entry><entry><?dbfo bgcolor="GREEN" ?>	35	</entry><entry><?dbfo bgcolor="GREEN" ?>	17	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	119	</entry><?dbfo bgcolor="RED" ?><entry>	139	</entry><?dbfo bgcolor="RED" ?><entry>	159	</entry><?dbfo bgcolor="RED" ?><entry>	179	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	39	</entry><entry><?dbfo bgcolor="GREEN" ?>	70	</entry><entry><?dbfo bgcolor="GREEN" ?>	35	</entry><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	120	</entry><?dbfo bgcolor="RED" ?><entry>	140	</entry><?dbfo bgcolor="RED" ?><entry>	160	</entry><?dbfo bgcolor="RED" ?><entry>	180	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	40	</entry><entry><?dbfo bgcolor="GREEN" ?>	71	</entry><entry><?dbfo bgcolor="GREEN" ?>	36	</entry><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	121	</entry><?dbfo bgcolor="RED" ?><entry>	141	</entry><?dbfo bgcolor="RED" ?><entry>	161	</entry><?dbfo bgcolor="RED" ?><entry>	181	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	41	</entry><entry><?dbfo bgcolor="GREEN" ?>	72	</entry><entry><?dbfo bgcolor="GREEN" ?>	36	</entry><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	122	</entry><?dbfo bgcolor="RED" ?><entry>	142	</entry><?dbfo bgcolor="RED" ?><entry>	162	</entry><?dbfo bgcolor="RED" ?><entry>	182	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	42	</entry><entry><?dbfo bgcolor="GREEN" ?>	73	</entry><entry><?dbfo bgcolor="GREEN" ?>	37	</entry><entry><?dbfo bgcolor="GREEN" ?>	18	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	123	</entry><?dbfo bgcolor="RED" ?><entry>	143	</entry><?dbfo bgcolor="RED" ?><entry>	163	</entry><?dbfo bgcolor="RED" ?><entry>	183	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	43	</entry><entry><?dbfo bgcolor="GREEN" ?>	74	</entry><entry><?dbfo bgcolor="GREEN" ?>	37	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	7	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	124	</entry><?dbfo bgcolor="RED" ?><entry>	144	</entry><?dbfo bgcolor="RED" ?><entry>	164	</entry><?dbfo bgcolor="RED" ?><entry>	184	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	45	</entry><entry><?dbfo bgcolor="GREEN" ?>	75	</entry><entry><?dbfo bgcolor="GREEN" ?>	38	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	125	</entry><?dbfo bgcolor="RED" ?><entry>	145	</entry><?dbfo bgcolor="RED" ?><entry>	165	</entry><?dbfo bgcolor="RED" ?><entry>	185	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	46	</entry><entry><?dbfo bgcolor="GREEN" ?>	76	</entry><entry><?dbfo bgcolor="GREEN" ?>	38	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	126	</entry><?dbfo bgcolor="RED" ?><entry>	146	</entry><?dbfo bgcolor="RED" ?><entry>	166	</entry><?dbfo bgcolor="RED" ?><entry>	186	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	47	</entry><entry><?dbfo bgcolor="GREEN" ?>	77	</entry><entry><?dbfo bgcolor="GREEN" ?>	39	</entry><entry><?dbfo bgcolor="GREEN" ?>	19	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	127	</entry><?dbfo bgcolor="RED" ?><entry>	147	</entry><?dbfo bgcolor="RED" ?><entry>	167	</entry><?dbfo bgcolor="RED" ?><entry>	187	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	49	</entry><entry><?dbfo bgcolor="GREEN" ?>	78	</entry><entry><?dbfo bgcolor="GREEN" ?>	39	</entry><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	128	</entry><?dbfo bgcolor="RED" ?><entry>	148	</entry><?dbfo bgcolor="RED" ?><entry>	168	</entry><?dbfo bgcolor="RED" ?><entry>	188	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	50	</entry><entry><?dbfo bgcolor="GREEN" ?>	79	</entry><entry><?dbfo bgcolor="GREEN" ?>	40	</entry><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	129	</entry><?dbfo bgcolor="RED" ?><entry>	149	</entry><?dbfo bgcolor="RED" ?><entry>	169	</entry><?dbfo bgcolor="RED" ?><entry>	189	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	52	</entry><entry><?dbfo bgcolor="GREEN" ?>	80	</entry><entry><?dbfo bgcolor="GREEN" ?>	40	</entry><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	130	</entry><?dbfo bgcolor="RED" ?><entry>	150	</entry><?dbfo bgcolor="RED" ?><entry>	170	</entry><?dbfo bgcolor="RED" ?><entry>	190	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	53	</entry><entry><?dbfo bgcolor="GREEN" ?>	81	</entry><entry><?dbfo bgcolor="GREEN" ?>	41	</entry><entry><?dbfo bgcolor="GREEN" ?>	20	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	131	</entry><?dbfo bgcolor="RED" ?><entry>	151	</entry><?dbfo bgcolor="RED" ?><entry>	171	</entry><?dbfo bgcolor="RED" ?><entry>	191	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	55	</entry><entry><?dbfo bgcolor="GREEN" ?>	82	</entry><entry><?dbfo bgcolor="GREEN" ?>	41	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	132	</entry><?dbfo bgcolor="RED" ?><entry>	152	</entry><?dbfo bgcolor="RED" ?><entry>	172	</entry><?dbfo bgcolor="RED" ?><entry>	192	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	57	</entry><entry><?dbfo bgcolor="GREEN" ?>	83	</entry><entry><?dbfo bgcolor="GREEN" ?>	42	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	133	</entry><?dbfo bgcolor="RED" ?><entry>	153	</entry><?dbfo bgcolor="RED" ?><entry>	173	</entry><?dbfo bgcolor="RED" ?><entry>	193	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	59	</entry><entry><?dbfo bgcolor="GREEN" ?>	84	</entry><entry><?dbfo bgcolor="GREEN" ?>	42	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	8	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	134	</entry><?dbfo bgcolor="RED" ?><entry>	154	</entry><?dbfo bgcolor="RED" ?><entry>	174	</entry><?dbfo bgcolor="RED" ?><entry>	194	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	61	</entry><entry><?dbfo bgcolor="GREEN" ?>	85	</entry><entry><?dbfo bgcolor="GREEN" ?>	43	</entry><entry><?dbfo bgcolor="GREEN" ?>	21	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	135	</entry><?dbfo bgcolor="RED" ?><entry>	155	</entry><?dbfo bgcolor="RED" ?><entry>	175	</entry><?dbfo bgcolor="RED" ?><entry>	195	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	63	</entry><entry><?dbfo bgcolor="GREEN" ?>	86	</entry><entry><?dbfo bgcolor="GREEN" ?>	43	</entry><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	136	</entry><?dbfo bgcolor="RED" ?><entry>	156	</entry><?dbfo bgcolor="RED" ?><entry>	176	</entry><?dbfo bgcolor="RED" ?><entry>	196	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	65	</entry><entry><?dbfo bgcolor="GREEN" ?>	87	</entry><entry><?dbfo bgcolor="GREEN" ?>	44	</entry><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	137	</entry><?dbfo bgcolor="RED" ?><entry>	157	</entry><?dbfo bgcolor="RED" ?><entry>	177	</entry><?dbfo bgcolor="RED" ?><entry>	197	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	67	</entry><entry><?dbfo bgcolor="GREEN" ?>	88	</entry><entry><?dbfo bgcolor="GREEN" ?>	44	</entry><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	138	</entry><?dbfo bgcolor="RED" ?><entry>	158	</entry><?dbfo bgcolor="RED" ?><entry>	178	</entry><?dbfo bgcolor="RED" ?><entry>	198	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	70	</entry><entry><?dbfo bgcolor="GREEN" ?>	89	</entry><entry><?dbfo bgcolor="GREEN" ?>	45	</entry><entry><?dbfo bgcolor="GREEN" ?>	22	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	139	</entry><?dbfo bgcolor="RED" ?><entry>	159	</entry><?dbfo bgcolor="RED" ?><entry>	179	</entry><?dbfo bgcolor="RED" ?><entry>	199	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	72	</entry><entry><?dbfo bgcolor="GREEN" ?>	90	</entry><entry><?dbfo bgcolor="GREEN" ?>	45	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	140	</entry><?dbfo bgcolor="RED" ?><entry>	160	</entry><?dbfo bgcolor="RED" ?><entry>	180	</entry><?dbfo bgcolor="RED" ?><entry>	200	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	75	</entry><entry><?dbfo bgcolor="GREEN" ?>	91	</entry><entry><?dbfo bgcolor="GREEN" ?>	46	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	141	</entry><?dbfo bgcolor="RED" ?><entry>	161	</entry><?dbfo bgcolor="RED" ?><entry>	181	</entry><?dbfo bgcolor="RED" ?><entry>	201	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	78	</entry><entry><?dbfo bgcolor="GREEN" ?>	92	</entry><entry><?dbfo bgcolor="GREEN" ?>	46	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	142	</entry><?dbfo bgcolor="RED" ?><entry>	162	</entry><?dbfo bgcolor="RED" ?><entry>	182	</entry><?dbfo bgcolor="RED" ?><entry>	202	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	81	</entry><entry><?dbfo bgcolor="GREEN" ?>	93	</entry><entry><?dbfo bgcolor="GREEN" ?>	47	</entry><entry><?dbfo bgcolor="GREEN" ?>	23	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	143	</entry><?dbfo bgcolor="RED" ?><entry>	163	</entry><?dbfo bgcolor="RED" ?><entry>	183	</entry><?dbfo bgcolor="RED" ?><entry>	203	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	85	</entry><entry><?dbfo bgcolor="GREEN" ?>	94	</entry><entry><?dbfo bgcolor="GREEN" ?>	47	</entry><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	9	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	144	</entry><?dbfo bgcolor="RED" ?><entry>	164	</entry><?dbfo bgcolor="RED" ?><entry>	184	</entry><?dbfo bgcolor="RED" ?><entry>	204	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	88	</entry><entry><?dbfo bgcolor="GREEN" ?>	95	</entry><entry><?dbfo bgcolor="GREEN" ?>	48	</entry><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	145	</entry><?dbfo bgcolor="RED" ?><entry>	165	</entry><?dbfo bgcolor="RED" ?><entry>	185	</entry><?dbfo bgcolor="RED" ?><entry>	205	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	92	</entry><entry><?dbfo bgcolor="GREEN" ?>	96	</entry><entry><?dbfo bgcolor="GREEN" ?>	48	</entry><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	146	</entry><?dbfo bgcolor="RED" ?><entry>	166	</entry><?dbfo bgcolor="RED" ?><entry>	186	</entry><?dbfo bgcolor="RED" ?><entry>	206	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	96	</entry><entry><?dbfo bgcolor="GREEN" ?>	97	</entry><entry><?dbfo bgcolor="GREEN" ?>	49	</entry><entry><?dbfo bgcolor="GREEN" ?>	24	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	147	</entry><?dbfo bgcolor="RED" ?><entry>	167	</entry><?dbfo bgcolor="RED" ?><entry>	187	</entry><?dbfo bgcolor="RED" ?><entry>	207	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	101	</entry><entry><?dbfo bgcolor="GREEN" ?>	98	</entry><entry><?dbfo bgcolor="GREEN" ?>	49	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	148	</entry><?dbfo bgcolor="RED" ?><entry>	168	</entry><?dbfo bgcolor="RED" ?><entry>	188	</entry><?dbfo bgcolor="RED" ?><entry>	208	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	106	</entry><entry><?dbfo bgcolor="GREEN" ?>	99	</entry><entry><?dbfo bgcolor="GREEN" ?>	50	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	149	</entry><?dbfo bgcolor="RED" ?><entry>	169	</entry><?dbfo bgcolor="RED" ?><entry>	189	</entry><?dbfo bgcolor="RED" ?><entry>	209	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	112	</entry><entry><?dbfo bgcolor="GREEN" ?>	100	</entry><entry><?dbfo bgcolor="GREEN" ?>	50	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	150	</entry><?dbfo bgcolor="RED" ?><entry>	170	</entry><?dbfo bgcolor="RED" ?><entry>	190	</entry><?dbfo bgcolor="RED" ?><entry>	210	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	118	</entry><entry><?dbfo bgcolor="GREEN" ?>	101	</entry><entry><?dbfo bgcolor="GREEN" ?>	51	</entry><entry><?dbfo bgcolor="GREEN" ?>	25	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	151	</entry><?dbfo bgcolor="RED" ?><entry>	171	</entry><?dbfo bgcolor="RED" ?><entry>	191	</entry><?dbfo bgcolor="RED" ?><entry>	211	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	125	</entry><entry><?dbfo bgcolor="GREEN" ?>	102	</entry><entry><?dbfo bgcolor="GREEN" ?>	51	</entry><entry><?dbfo bgcolor="GREEN" ?>	26	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	152	</entry><?dbfo bgcolor="RED" ?><entry>	172	</entry><?dbfo bgcolor="RED" ?><entry>	192	</entry><?dbfo bgcolor="RED" ?><entry>	212	</entry></row>
+                                <row><entry><?dbfo bgcolor="GREEN" ?>	132	</entry><entry><?dbfo bgcolor="GREEN" ?>	103	</entry><entry><?dbfo bgcolor="GREEN" ?>	52	</entry><entry><?dbfo bgcolor="GREEN" ?>	26	</entry><entry><?dbfo bgcolor="GREEN" ?>	10	</entry><entry><?dbfo bgcolor="GREEN" ?>	1	</entry><?dbfo bgcolor="RED" ?><entry>	153	</entry><?dbfo bgcolor="RED" ?><entry>	173	</entry><?dbfo bgcolor="RED" ?><entry>	193	</entry><?dbfo bgcolor="RED" ?><entry>	213	</entry></row>
                             </tbody>
                         </tgroup>
                     </table>
@@ -1930,6 +1967,9 @@
                             </tbody>
                         </tgroup>
                     </table>
+                    <para>To determine the cost of raising a skill from one rank to the next rank up find the row in table that has the base cost of the skill. Find the column with
+                        your current rank in that skill. The cost in each column to the right is the cost it takes to raise a skill from the current rank. To go up in Weapon:Fist
+                        (base cost 2) from rank 0 to rank 1 costs 4 EEPs. To go from rank 1 to rank 2 is another 4 EEPs and so on. </para>
                 </section>
                 <section>
                     <title>Increasing Statistics</title>
@@ -1942,72 +1982,120 @@
         <title>Generating Characters</title>
         <part>
             <title>Creating a Character</title>
-            <chapter>
-                <title>Basic Method</title>
+            <chapter xml:id="chap-basic-method-to-generate-character">
+                <title>Basic method for creating a character</title>
                 <section>
                     <title>Process</title>
-                    <para>The player starts by picking a basic type of character</para> 
-                        
-                    <para>The player starts with a set of points for buying statistics and a set of points for buying skills. The two pools are the Stat Pool and the Skill Pool.
-                        The player starts with 125 points in teh Stat Pool statistics and 10 points in the Skill Pool. </para>
-                    <para> With these points the player buys what is needed for the initial character development. This includes the Race, Special Abilities, and Culture of the
-                        character. </para>
-                    <para> Then the player generates the history of the character. The player picks the career path the character will follow and uses the results of that career to
-                        put points into the other pools. </para>
-                    <orderedlist>
-                        <title>Statistics</title>
-                        <listitem>
-                            <para>Pick Primary Statistics</para>
-                        </listitem>
-                        <listitem>
-                            <para>Buy Limitations and Enhancements</para>
-                        </listitem>
-                    </orderedlist>
-                    <orderedlist>
-                        <title>Buy </title>
-                        <listitem>
-                            <para>Pick a race</para>
-                        </listitem>
-                        <listitem>
-                            <para>Pick a gender (if applicable)</para>
-                        </listitem>
-                        <listitem>
-                            <para>Apply modifiers from the racial description</para>
-                        </listitem>
-                        <listitem>
-                            <para>Calculate remaining statistics</para>
-                        </listitem>
-                        <listitem>
-                            <para>Calculate Statistics</para>
-                        </listitem>
-                    </orderedlist>
-                    <orderedlist>
-                        <title>Buy Culture Template </title>
-                        <listitem>
-                            <para>Pick a culture</para>
-                        </listitem>
-                        <listitem>
-                            <para>Apply modifiers from the cultural description</para>
-                        </listitem>
-                        <listitem>
-                            <para>Pick base skills from the cultural description</para>
-                        </listitem>
-                        <listitem>
-                            <para>Pick the skills</para>
-                        </listitem>
-                    </orderedlist>
-                    <orderedlist>
-                        <title>Story</title>
-                        <listitem>
-                            <para>Work out the story to explain the character.</para>
-                        </listitem>
-                    </orderedlist>
+                    <para>This lays out the recommended sequence of events for creating characters. In general it is useful to start with an idea of 
+                        the race and type of character you want to create.
+                    </para>
+                    <variablelist>
+                        <title>Process for designing a character</title>
+                        <varlistentry>
+                            <term>Race and Gender</term>
+                            <listitem>
+                                <para>The race and gender will determine the basic modifier for a characters statistics. Each character has 125 points to distribute among the 10 primary statistics. See ...</para>
+                                <para>After the primary statistics have been picked out the player applies the racial modifiers for that race. Each race will have a table that describes the racial modifier</para>                        
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Secondary Statistics</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Culture</term>
+                            <listitem>
+                                <para>The culture will determine the languages spoken and other skills particular to how the character grew up.</para>
+                                <para>After the cuture has been picked out the player applies the cultural skills for that culture. Each culture will have 
+                                    a table that describes the cultural package. Each player has 20 points to apply to the cultural package</para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Innate Abilities</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>                        
+                        <varlistentry>
+                            <term>Limitations and Enhancements</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Pick Skills</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry>
+                            <term>Create a Story</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                    </variablelist>
                 </section>
                 <section>
                     <title>Primary Statistics</title>
-                    <para> In generating the statistics of the character the player distributes 125 points among the 10 primary statistics. The minimum number of points that may be
+                    <para>Primary statistics are composed of five physical and five mental statistics. In picking the primary statistics of the character the player 
+                        distributes 125 points among the 10 primary statistics. The minimum number of points that may be
                         put into a statistic is 5. The maximum amount that may be placed into a statistic is 25. </para>
                     <para> The following gives the name and abbreviation of each primary statistic and describes what the statistic represents.</para>
+                    <para>.</para>
+                    <formalpara>
+                        <title>Physical Strength (PST)</title>
+                        <indexterm><primary>Physical Strength</primary><secondary>PST</secondary></indexterm>
+                        <para>Physical Strength is the overall power of body. This represents the character's raw muscle power and is not tied to some particular set of limbs. Actions
+                            such as lifting are based on Physical Strength..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Physical Endurance (PEN)</title>
+                        <indexterm><primary>Physical Endurance</primary><secondary>PEN</secondary></indexterm>
+                        <para>Physical Endurance is the physical resilience and stamina of body. This is a measure of the character's overall endurance and ability to resist hardship
+                            as well as the ability to bounce back from hardship..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Dexterity (DEX)</title>
+                        <para>Dexterity is the eye and hand coordination and speed of hand movement. This is specifically tied to the character's hands (or any alien
+                            equivalent)..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Physical Agility (PAG)</title>
+                        <para> Physical Agility is the overall flexibity and responsiveness of body. This affects the whole body actions of the character. Dodging is an action based on
+                            PAG..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Physical Awareness (PAW)</title>
+                        <para> Physical Awareness is how sensitive the character is to the physical part of the environment. If you are using any of your physical senses, you are using
+                            PAW..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mental Strength (MST)</title>
+                        <para>Mental Strength is raw mental power. It is a measure of the characters overall computational and reasoning strength. It is also associated with the
+                            character's strength of will. Using memory is an action based on MST..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mental Endurance (MEN)</title>
+                        <para> Mental Endurance is resilience and stamina of mind. It is a measure of the mind's ability to recover from shock or disorientation..</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mental Agility (MAG)</title>
+                        <para>Mental Agility is the overall flexibility and responsiveness of mind. In another day and age this might be called "Cunning", "Canniness", or
+                            "Shrewdness".</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Power (PWR)</title>
+                        <para>Power is a measure of how easily a character can gain access to their ``supernatural'' or psychic abilities. In fantasy campaigns this also governs the
+                            use of magery. While it is always abbreviated as PWR, it may be known by different names depending on what it is used for. In fantasy campaigns it is known
+                            as Magic or Spirit. In Science Fiction campaigns it may be known as Psi or Ki.</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mental Awareness (MAW)</title>
+                        <para>Mental Awareness is how sensitive the character is to the non-physical part of the environment.</para>
+                    </formalpara>
                 </section>
                 <section>
                     <title>Pick a Race and Gender</title>
@@ -4883,20 +4971,9 @@ Depth is how deeply they are affected by the enhancement.
                             </tbody>
                         </tgroup>
                     </table>
-                    <para>To determine the cost of raising a skill from one rank to the next rank up find the row in table that has the base cost of the skill. Find the column with
-                        your current rank in that skill. The cost in each column to the right is the cost it takes to raise a skill from the current rank. To go up in Weapon:Fist
-                        (base cost 2) from rank 0 to rank 1 costs 4 EEPs. To go from rank 1 to rank 2 is another 4 EEPs and so on. </para>
+                   
                 </section>
-                <section>
-                    <title>Training</title>
-                    <para>For each 10 hours of training with a teacher the character gets 1 EEP. For each 20 hours of training with a partner the character gets 1 EEP. For each 30
-                        hours of self-training with a the character gets 1 EEP. There are all sorts of modifiers so ask....</para>
-                </section>
-                <section>
-                    <title>Costs of unlisted skills</title>
-                    <para>When figuring out the cost of previously unlisted skill use table \ref{Table:SkillComponentCosts simply add together all of the costs that appear to
-                        apply.</para>
-                </section>
+
                 <section>
                     <title>Relations Among Skills</title>
                     <para>In situations where the character does not have a skill that is directly applicable to the task being performed the character may choose to use a related
@@ -7111,5 +7188,133 @@ Depth is how deeply they are affected by the enhancement.
             <title>Ki</title>
         </part>
     </book>
+    
+    <book>
+        <title>Tanah</title>        
+        <info>
+            <date>03/20/20</date>
+        </info>
+        <chapter>
+            <title>Overview</title>
+        </chapter>
+        <chapter>
+            <title>Generating Merovan Characters</title>
+            <section>
+                <title>Racial Modifiers</title>
+                <table xml:id="table-merovan-racial-modifiers">
+                    <title>Merovan Racial Modifiers</title>
+                    <tgroup cols="2">
+                        <thead>
+                            <row>
+                                <entry>Stat</entry>
+                                <entry>Modifier</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry></entry>
+                                <entry></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table> 
+            </section>
+            <section>
+                <title>Cultural Package</title>
+            </section>
+            <section>
+                <title>Career Packages</title>
+            </section>
+        </chapter>
+        <chapter>
+            <title>Generating Kothan Characters</title>
+            <section>
+                <title>Racial Modifiers</title>
+                <table xml:id="table-kothan-racial-modifiers">
+                    <title>Kothan Racial Modifiers</title>
+                    <tgroup cols="2">
+                        <thead>
+                            <row>
+                                <entry>Stat</entry>
+                                <entry>Modifier</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry></entry>
+                                <entry></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table> 
+            </section>
+            <section>
+                <title>Cultural Package</title>
+            </section>
+            <section>
+                <title>Career Packages</title>
+            </section>
+        </chapter>
+        <chapter>
+            <title>Generating Thenean Characters</title>
+            <section>
+                <title>Racial Modifiers</title>
+                <table xml:id="table-thenean-racial-modifiers">
+                    <title>Thenean Racial Modifiers</title>
+                    <tgroup cols="2">
+                        <thead>
+                            <row>
+                                <entry>Stat</entry>
+                                <entry>Modifier</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry></entry>
+                                <entry></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table> 
+            </section>
+            <section>
+                <title>Cultural Package</title>
+            </section>
+            <section>
+                <title>Career Packages</title>
+            </section>
+        </chapter>
+        <chapter>
+            <title>Generating Hairochan Characters</title>
+            <section>
+                <title>Racial Modifiers</title>
+                <table xml:id="table-hairochan-racial-modifiers">
+                    <title>Hairochan Racial Modifiers</title>
+                    <tgroup cols="2">
+                        <thead>
+                            <row>
+                                <entry>Stat</entry>
+                                <entry>Modifier</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry></entry>
+                                <entry></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table> 
+            </section>
+            <section>
+                <title>Cultural Package</title>
+            </section>
+            <section>
+                <title>Career Packages</title>
+            </section>
+        </chapter>
+        
 
+        
+    </book>
 </set>
