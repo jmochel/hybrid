@@ -1,3 +1,4 @@
 # pruning and grooming
 
-* del 
+* del dump.txt
+* 
