@@ -1,0 +1,1225 @@
+t<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Hybrid Paradigm Manual</title>
+        <author>
+            <personname>
+                <firstname>Jim</firstname>
+                <surname>Mochel</surname>
+            </personname>
+            <address>
+                <city>City</city>
+                <street>Street</street>
+                <postcode>000000</postcode>
+                <country>Country</country>
+            </address>
+            <email>jmochel@saltations.org</email>
+        </author>
+    </info>
+    <part>
+        <title>First Part</title>
+        <chapter>
+            <title>Guiding Principles</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para><emphasis>Unification</emphasis>Statistics and rules should be applied
+                            equally to PCs, NPCs, etc</para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Unification</emphasis> Statistics and rules should be applied
+                            equally to PCs, NPCs, etc </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Skill Based</emphasis> Allow characters to be created through
+                            a choice of skills and knowledge. </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Modularity</emphasis> The individual systems within the RPG
+                            should be modular </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Scalability</emphasis> The game system should be able to
+                            handle increasing/decreasing levels of complexity without breaking down
+                            as well as handling multiple genres cleanly. </para>
+                        <para> The GM and players should be able to tailor the scale of the game to
+                            fit. GM should have control over the speed of combat, rate of play etc..
+                            The rules should supply the fundemental detail and offer scalability
+                            rules... The rules aren't optional- they simply expand... </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            <emphasis>Clarity</emphasis>
+                        </para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </chapter>
+        <chapter>
+            <title>DRF</title>
+            <para> For a DRF (Difficulty Reduction Function) we have the stat plus skill plus
+                environment minus mods. <informalequation>
+                    <mathphrase>Stat + Skill</mathphrase>
+                </informalequation>
+                <informalequation>
+                    <mathphrase>Stat + Skill + Environment + Other Mods</mathphrase>
+                </informalequation> A filter skill eliminates the "Unfamiliar Environment"
+                difficulty and puts an upper limit on how much of the (Stat + Skill) can be applied. <informalequation>
+                    <mathphrase>Stat + Skill + Environment + Other Mods</mathphrase>
+                </informalequation> The filter skill governs expression of stat + skill (how often
+                is applied? What happens if someone can't make his filter roll?) </para>
+            <para> The DRF goes up beyond 100% at 50+ or greater. Note that dragons have an ability
+                to adapt to environment i.e. they have no need for separate filter skills) </para>
+            <para>Create a table with discrete sections for each difficulty factor that has an
+                impact.</para>
+            <simplelist>
+                <member>50-98%</member>
+                <member>49-97%</member>
+                <member>48-96%</member>
+                <member>46-47 95%</member>
+            </simplelist>
+            <para>If we remove initiative on a roll by role basis and simply add successive mods for
+                general combat and we keep initiative for detailed combat it would kick butt.</para>
+            <para>DRF take two note that the DRF of alternatives is a good start but 99% is still
+                too low for a certain part of the time. Each successive action cuts the base chance?
+                Or simply subtracts from the DF?</para>
+            <para> BC + mods implies SC </para>
+        </chapter>
+        <chapter>
+            <title>Weapons</title>
+            <sect1>
+                <title>Melee Weapons</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Self Explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Type (T)</term>
+                        <listitem>
+                            <para> Whether the weapon does (most commonly) Crushing, Slicing, or
+                                Piercing </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Length (L)</term>
+                        <listitem>
+                            <para> The overall size in centimeters of a weapon. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mass (M)</term>
+                        <listitem>
+                            <para> The mass of the unit in kilograms </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Speed (S)</term>
+                        <listitem>
+                            <para> The time it takes, in pulses, to use the weapon in a combat
+                                action. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Accuracy (A)</term>
+                        <listitem>
+                            <para> Any additional bonus the weapon gets to hit for its workmanship
+                                or materials. This is usually very small. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Multiplier (DM)</term>
+                        <listitem>
+                            <para> The multiple times the users base that is used to produce a
+                                characters damage. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Technological Index (TI)</term>
+                        <listitem>
+                            <para> The tech level in which the weapon made its 1st appearance.
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Tech Level Breakpoints:</term>
+                        <listitem>
+                            <para> (MASS-LENGTH-ACC-DM) </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Hand to Hand Techniques</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Self Explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Type (T)</term>
+                        <listitem>
+                            <para> Whether the weapon does (most commonly) Crushing, Cutting, or
+                                Piercing </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Speed (S)</term>
+                        <listitem>
+                            <para> The time it takes, in pulses, to use the technique in a combat
+                                action. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Multiplier (DM)</term>
+                        <listitem>
+                            <para> The multiple times the users base that is used to produce a
+                                characters damage. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Missile and Projectile Weapons</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> The most common and correct names are given. In the cases of
+                                weapons that are very common in ther effects, only the most notable
+                                will be described. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Configuration (Cfg)</term>
+                        <listitem>
+                            <para> The physical form the weapon has. Typically : Heavy Rifle, Rifle,
+                                Carbine, Pistol </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Action (Act)</term>
+                        <listitem>
+                            <para> The type of trigger pull vs firing mechanism. Typically Single
+                                Shot, Auto Burst, Auto, Semi Auto, Revolver. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Type (T)</term>
+                        <listitem>
+                            <para> Chemical Propellant, CW Laser, Pulse Laser, Focused Sonic,
+                                Rocket, Gauss </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Caliber (Cal)</term>
+                        <listitem>
+                            <para> The Apeture of the weapon </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Energy (NRG)</term>
+                        <listitem>
+                            <para> The amount of energy the weapon delivers. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Length (L)</term>
+                        <listitem>
+                            <para> The overall size in centimeters of a weapon. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mass (M)</term>
+                        <listitem>
+                            <para> The mass of the unit in kilograms </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Speed (S)</term>
+                        <listitem>
+                            <para> The time in which the weapon can be brought to bear on a target.
+                                This is the normal time involved in bring a weapon to bear on a
+                                target and needs to be doubled if the weapon is being brought to
+                                bear on any target for the first time ( ie brought to the aiming
+                                position ) and needs to be tripled when the weapon is being drawn
+                                from a holster. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Accuracy (A)</term>
+                        <listitem>
+                            <para> Any additional bonus to the chance to hit the weapon may have as
+                                a result of its design. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Accuracy Decrement (AD)</term>
+                        <listitem>
+                            <para> A measurement of how much the to hit chance of the weapon is
+                                lowered for a given amount of distance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage (D)</term>
+                        <listitem>
+                            <para> The base amount of damage done by a given weapon</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Decrement (DD)</term>
+                        <listitem>
+                            <para> How much the damage of a given weapon is lowered for a given
+                                amount of distance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Technological Index (TI)</term>
+                        <listitem>
+                            <para> The Technological Index in which the weapon made first 1st
+                                appearance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Tech Level Breakpoints</term>
+                        <listitem>
+                            <para> (MASS-LENGTH-WA/WAD-WD/WDD) </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Thrown Weapons</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Self Explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Length (L)</term>
+                        <listitem>
+                            <para> The overall size in centimeters of a weapon. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mass (M)</term>
+                        <listitem>
+                            <para> The mass of the unit in kilograms </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Accuracy (A)</term>
+                        <listitem>
+                            <para> The additional bonus the weapon gets to hit for its workmanship
+                                or materials. This is usually very small. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Accuracy Decrement (AD)</term>
+                        <listitem>
+                            <para> The decrement per a given portion of the range that the weapon
+                                travels through </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Multiplier (DM)</term>
+                        <listitem>
+                            <para> The multiple times the entitie's PSE base that is used to produce
+                                a characters damage. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Decrement (DD)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Technological Index (TI)</term>
+                        <listitem>
+                            <para> The Technological Index in which the weapon made its 1st
+                                appearance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Tech Level Breakpoints:</term>
+                        <listitem>
+                            <para> (MASS-LENGTH-WA/WAD-WDM/WDD) </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Explosives</title>
+                <para> These are specific to blocks of explosive and weapons whose main function is
+                    as an explosive device. Shrapnel is treated as a projectile weapon. </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Usually self explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Type </term>
+                        <listitem>
+                            <para> The type of process that causes its explosion. There are a wide
+                                variety : Propellant, Brisant, Gas, Electrochem, Fission, Fusion.
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage (DM)</term>
+                        <listitem>
+                            <para> Each package has a base damage In the case of bulk explosive the
+                                value will be given in damage / unit mass. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Damage Decrement (DD)</term>
+                        <listitem>
+                            <para> The decrease in damage per unit distance. This measure is based
+                                on a situation with no atmosphere. Double the damage decrement for
+                                an Earth normal atmosphere. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <table>
+                    <title>Explosive Affect Modifiers</title>
+                    <tgroup cols="2">
+                        <tbody>
+                            <row>
+                                <entry>Placed Charge </entry>
+                                <entry>DAM = 2.5* </entry>
+                            </row>
+                            <row>
+                                <entry>Shaped Charge</entry>
+                                <entry>DAM = 3.5* </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </sect1>
+        </chapter>
+        <chapter>
+            <title>Armour and Shields</title>
+            <sect1>
+                <title>Armour</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Self Explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mass (M)</term>
+                        <listitem>
+                            <para> The mass of the unit in kilograms </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Physical Agility Modifier (PAM)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Protection</term>
+                        <listitem>
+                            <para> (CR/CUT/PRC/PRJ/NRG/LASER/EXP) </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Technological Index (TI)</term>
+                        <listitem>
+                            <para> The Technological level in which the armour made its 1st
+                                appearance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Tech Level Breakpoints</term>
+                        <listitem>
+                            <para> MASS-(CR/CUT/PRC/PRJ/NRG/LASER/EXP) </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Shields</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Name</term>
+                        <listitem>
+                            <para> Self Explanatory </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mass (M)</term>
+                        <listitem>
+                            <para> The mass of the unit in kilograms </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Dexterity Modifier (DXM)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Parry (PAR)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Block (BLK)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Protection</term>
+                        <listitem>
+                            <para> (CR/CUT/PRC/PRJ/NRG/LASER/EXP)] </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Technological Index (TI)</term>
+                        <listitem>
+                            <para> The Technological Index in which the weapon made its 1st
+                                appearance. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Tech Level Breakpoints:</term>
+                        <listitem>
+                            <para> MASS-(CR/CUT/PRC/PRJ/NRG/LASER/EXP) </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+        </chapter>
+        <chapter>
+            <title>Psionics</title>
+            <sect1>
+                <title>Intro</title>
+                <para> This chapter outlines one of the more interesting areas of SF gaming: Pyschic
+                    Phenomenom or Psionics. What is to be noted is that no comfortable way could be
+                    found to make a truly generic set of psionic abilities. A great deal of the
+                    limitations described here are indeed implementation specific and could be
+                    changed on GM's whim. </para>
+                <para> Psionics is the application of mental force to directly affect an entitie's
+                    surroundings. The stat PSI measures how much power the psionic can access and
+                    control and skill in disciplines determines how well it can be molded to their
+                    will. </para>
+            </sect1>
+            <sect1>
+                <title>Areas of Psionics</title>
+                <para> Psionics are broken down into categories by the general type of manipulation
+                    that is performed. </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Telepathics</term>
+                        <listitem>
+                            <para> The use of the mind to influence other minds at the emotional and
+                                concious communication level. This does not go down far enough to
+                                effect most bodily processess. Telepathics are generally of low
+                                cost, long range, and easy difficulty. Empathy, Surface Read, and
+                                Telepathy are typical examples of Telepathic skills. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Telekinetics</term>
+                        <listitem>
+                            <para> Telekinetics is the use of the mind to impart kinetic energy to
+                                an object. The use of psionics to toss objects around is a
+                                telekinetic action. Telekinetic skills are typically of medium cost,
+                                medium difficulty, and short Range. Telekinesis is a Telekinetic
+                                skill. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Temporokinetics</term>
+                        <listitem>
+                            <para> Temporokinetics is the use of the mind to affect the spatial
+                                integrity of the surrounding area. Temporokinetic skills are of very
+                                high cost, high difficulty, very short duration. Teleportation is a
+                                temporokinetic action. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Biokinetics</term>
+                        <listitem>
+                            <para> The use of a mind to directly influence a biological system.
+                                Biokinetics actions are typically of Med Cost, Medium Diff, and
+                                Short Range. Placing oneself in suspended animation is a typical
+                                biokinetic feat. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Energetics</term>
+                        <listitem>
+                            <para> The use of the mind to directly affect the molecular nature of a
+                                material. Energetic actions are typically of High Cost, Medium Diff,
+                                Short Range. Setting fire to paper or dissolving a glue would be
+                                typical actions of an energetic. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mystokinetics</term>
+                        <listitem>
+                            <para> Basically this covers the more mysterious skills that are less
+                                subject to mechanistic explanations than the above four categories.
+                                Typically the Mystokinetic actions are of Low Cost, Very High
+                                Difficulty, and medium duration. Precognition, Clairsentience, and
+                                Object Read are typical Mystokinetic skills. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Gaining Psionics</title>
+                <para> All entities have the potential for psionics. Most will not have the training
+                    to use or access psionics. Characters that take the Active Psionics enhancement
+                    (often part of a racial package ) will have recieved concious training or have
+                    been raised in a high-psi environment and absorbed an instinctual level of
+                    usage. </para>
+                <para> All Psionic Skills are mental disciplines. </para>
+            </sect1>
+            <sect1>
+                <title>Usage of Psionics</title>
+                <para> There are several things of note to be mentioned. The first and foremost is
+                    that it is always easier to affect inanimate objects with Psionics. </para>
+                <para> When attempting to affect other entities the percentage chance to succeed is
+                    lowered by the defending entities MDF. An actively defending individual lowers
+                    it by 2 * MDF. In addition, there are a number of situations (critical misses,
+                    instinctively defending opponents) that could cause the psionic great pain when
+                    attempting to affect a living creature. </para>
+                <sect2>
+                    <title>Skill Rolls</title>
+                    <para> Attempting to use Psionics requires a skill roll just as any other skill.
+                        The same DF modifiers apply as to any other action. </para>
+                </sect2>
+                <sect2>
+                    <title>Concentration Aids/Checks</title>
+                    <para> If the Psionic is disturbed in any way the psionic must make an DF -2
+                        roll against that psionic skill in order to continue their concentration.
+                        This concentration may be made up to three times per pulse. If more than
+                        that is needed , give it up. Psionics may use special aids in concentrating
+                        including: Meditation, Ear Plugs, Drugs etc... </para>
+                    <sect3>
+                        <title>Meditation</title>
+                        <para> Meditation allows the psionic to apply [ 2%/rank] for their
+                            Meditation skill to their chance to perform the discipline. It cuts all
+                            non-psi perceptions to [ 1/2] their normal chance. </para>
+                    </sect3>
+                    <sect3>
+                        <title>Foci</title>
+                        <para> The use of Foci may be designed into the specific discipline, in
+                            which case the DF of the discipline will be lower than normal. If it is
+                            used as a separate aid the focus gives [ 2%/rank] in the focus. </para>
+                    </sect3>
+                </sect2>
+                <sect2>
+                    <title>Mental movement</title>
+                    <para> Mental movement governs that distance in M/sec that can be covered by a
+                        psionics powers while concentrating. This is subject to the specific rules
+                        of a given psionic skill. So typically a Telekinetic can move objects at a
+                        rate equal to their mental movement. </para>
+                </sect2>
+            </sect1>
+            <sect1>
+                <title>description</title>
+                <para> Psionic Disciplines have a series of attributes </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Penetration</term>
+                        <listitem>
+                            <para> Describes how well the discipline overcomes resistance. Usually
+                                only important for attack or healing disciplines. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Quantitative Effect/QE</term>
+                        <listitem>
+                            <para> What the discpiline does in terms of mass moved, healing effect,
+                                etc. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Difficulty Factor/DF</term>
+                        <listitem>
+                            <para> The difficulty associated with the given discipline. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Energy Cost/EC</term>
+                        <listitem>
+                            <para> The amount of mental fatigue used to perform the discipline.
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Cast Time/CT</term>
+                        <listitem>
+                            <para> The time needed to perform the discipline. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Range/RNG</term>
+                        <listitem>
+                            <para> Range of efect (could be 0) </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>AOE</term>
+                        <listitem>
+                            <para> Area of effect (could be 0) </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Visibility</term>
+                        <listitem>
+                            <para> How easily detected the discipline is. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Integrity</term>
+                        <listitem>
+                            <para> How well the discipline will endure without direct concentration.
+                                Usually translates to duration. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>Skills Involved</title>
+                <para> There is a Filter Skill for each of the areas of psionics. In addition there
+                    is a Perception skill associated with each area. </para>
+                <para> And finally there a specific skills within each area of psionics. </para>
+                <para> A Telekinetic must have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Telekinetics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Telekinetic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Telekinesis</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Telekinetic could have the following other skills (as an example) </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Discipline:Levitate</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Biokinetic must have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Biokinetics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Biokinetic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Biokinesis</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Biokinetic may have the following range of skills (as an example): </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Gestalt Lore:My Own Body</term>
+                        <listitem>
+                            <para> Lore absorbed via experience with direct mind manipulation of the
+                                given body. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Gestalt Lore:Human</term>
+                        <listitem>
+                            <para> Lore absorbed via experience with direct mind manipulation of the
+                                given type of body. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Temporokinetic must have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Temporokinetics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Temporokinetic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Temporokinesis</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Temporokinetic may have the following range of skills (as an example): </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Discipline:Teleportation</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Memorize Location</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Energetic must have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Energetics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Energetic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Energetics (Transform Energy )</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Energetic may have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Knowledge of Energy:Heat or</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Physics EM</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Gestalt Lore:IR</term>
+                        <listitem>
+                            <para> Lore absorbed via experience with direct mind manipulation of the
+                                given energy frm. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Telepath must have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Telepathics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Telepathic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Telepathy</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Telepath may have the following range of skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Discipline:Empathy</term>
+                        <listitem>
+                            <para> The ability to sense moods and feelings </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Telempathic Projection</term>
+                        <listitem>
+                            <para> The ability to project moods and feelings onto another entity
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Surface Read</term>
+                        <listitem>
+                            <para> The ability to read surface thoughts. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Telepathic Surface Projection</term>
+                        <listitem>
+                            <para> The ability to insert surface thoughts into another's mind.
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Telepathic Read</term>
+                        <listitem>
+                            <para> The ability to read thoughts. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Telepathic Projection</term>
+                        <listitem>
+                            <para> The ability to insert thoughts into another's mind.. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Telepathy</term>
+                        <listitem>
+                            <para> The ability to communicate in coherent thought patterns with
+                                another entity. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Mind Meld</term>
+                        <listitem>
+                            <para> The ability to coprocess/share minds with another entity. This
+                                includes sharing all of another's senses. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Mystic must have the following Skills </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Mystokinetics(Filter)</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mystokinetic Perception</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Mystokinetics</term>
+                        <listitem>
+                            <para> </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> A Mystic may have the following Skills </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Discipline:Precognition</term>
+                        <listitem>
+                            <para> The ability to see into the future </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Retrocognition</term>
+                        <listitem>
+                            <para> The ability to see into the past. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Discipline:Object Reading</term>
+                        <listitem>
+                            <para> The ability to see into an object's past. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+                <para> Any psionic may typically have these support skills: </para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Stealth(Psionic)</term>
+                        <listitem>
+                            <para> The skill associated with trying to hide that psionics are being
+                                used. Ofetn used to hide from another psionic when being searched
+                                for. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Deception(Psionic)</term>
+                        <listitem>
+                            <para> The skill associated with trying to disguise the psionic action
+                                being performed. Often used to disguise one type of action for
+                                another. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Focus:Crystal</term>
+                        <listitem>
+                            <para> Skill in using something as a focus for a discipline. See above.
+                            </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Meditation</term>
+                        <listitem>
+                            <para> Skill in tuning the rest of the world out in order to better
+                                concentrate on what is being done. </para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect1>
+            <sect1>
+                <title>How it should feel</title>
+                <para> These things should be possible for a Telepath in ideal conditions (at rest ,
+                    meditating, setup, with some sort of focus): </para>
+                <sect2>
+                    <title>Telepathics</title>
+                    <para> Telepaths at a low level should be able to pick someones mind pattern out
+                        of a crowd in a room, 'path to someone in the room if they don't know them,
+                        'path to someone anywhere in the ship if they know them well, and maintain
+                        that conversation for a few (10-20) minutes. Assuming, of course, a
+                        non-hostile partner. </para>
+                    <para> Telepaths at a medium level (10-12) of skill should be able to locate a
+                        mind somewhere in a ship, 'path to someone in a ship if they don't know
+                        them, 'path to someone anywhere in a town if they know them well, and
+                        maintain that conversation for a few minutes. </para>
+                    <para> Telepaths at a high level (20) of skill should be able to locate a mind
+                        somewhere in a city (takes time), 'path to someone in a town if they don't
+                        know them, path to someone in orbit if they know know them well. </para>
+                    <para> Range is less of an issue than familiarity and willingness of partner.
+                        Empathy is the detection of mood and feelings. </para>
+                </sect2>
+                <sect2>
+                    <title>Temporokinetics</title>
+                    <para> Temporokinetics at a low level should be able to sense when a teleport
+                        has occured in the area, 'port small objects in line of sight or to nearby
+                        (a few meters) recently memorised locations. At a medium level (10-12) they
+                        should be able to teleport themselves to line of sight locations. At high
+                        levels (14-18) they should be able to teleport themselves to memorised
+                        places beyond line of sight. At rank 20 it should be possible to teleport to
+                        and from orbit. </para>
+                    <para> Knowledge of the area targeted is critical to success. It is far more
+                        difficult to teleport another person than it is for the psionic to teleport
+                        themself. </para>
+                </sect2>
+                <sect2>
+                    <title>Biokinetics</title>
+                    <para> Biokinetics at a low level should be able to ease pain, sense what is
+                        wrong with themselves or others. At a medium level they should be able to
+                        cure shock, bring down fever, and anaesthesize people. At a high level you
+                        should be able to speed reflexes, increase strength, Suspend animation. </para>
+                    <para> Knowledge of the body in question is a key factor. Biokinetics often have
+                        ranks in knowledge of their body and ranks in inner awareness. </para>
+                </sect2>
+                <sect2>
+                    <title>Telekinetics</title>
+                    <para> Telekinetics at a low level should be able to move chairs across a room,
+                        float cups of coffee. Medium level telekinetics should be able to levitate
+                        themselves. High level 'kinetics should be able to do simple flight with
+                        themselves, block. Master level 'kinetics should be able to do fairly quick
+                        flight, and maybe even block punches. </para>
+                    <para> Most characters will need to see the objects being manipulated in order
+                        to manipulate them. </para>
+                </sect2>
+                <sect2>
+                    <title>Energetics</title>
+                    <para> Energetics at a low level should be able to heat/cool cups of water, keep
+                        themselves warm. At a medium level they should be able to ignite paper or
+                        wood, cause electrical switches to bridge, blow light bulbs. High level
+                        energetisists should be able to redirect spark gaps, protect themselves from
+                        UV. Master levels should be able to generate light, protect themselves from
+                        radiation. </para>
+                    <para> Knowledge of the type of energy being manipulated is the key factor. That
+                        knowledge may occur as a abstract model (scientific knowledge), a symbolic
+                        paradigm (Wiccan elemental worldview) or a pragmatic experience. </para>
+                </sect2>
+                <sect2>
+                    <title>Mystokinetics</title>
+                    <para> Mystics at a low level should be able to get a general sense of danger.
+                        Medium level should be able to determine that this person is in danger (if
+                        they have met them). High level mystics should be able to predict simple
+                        events. Master level mystics should be able to tell you what horse to bet
+                        on. </para>
+                    <para> Mystokinetic skills are tricky. There are several degrees of freedom in
+                        any attempt to precog: The accuracy of detail - what happened, The accuracy
+                        of Presentation - How it looked, and Depth - Background or context. This can
+                        also be What, When, WHere, Why, How, and Viewpoint. </para>
+                    <para> Different psionic usage cultures have different relationships to the
+                        mystokinetic degrees of freedom. </para>
+                </sect2>
+            </sect1>
+        </chapter>
+        <chapter>
+            <title>KI</title>
+            <sect1>
+                <title>Introduction</title>
+                <para> This chapter discusses two techniques to increase the effectiveness of an
+                    individual. One technique is typified by a very nebulous region of skills called
+                    KI skills. </para>
+                <para> The other technique is that of meditation. Meditation is the act of excludng
+                    all outside disturbances from affecting your concentration. </para>
+                <para> Ki skills are mental disciplines designed to augment a physical action.
+                    Specifically they allow the expenditure of mental fatigue in order to increase
+                    the EF of a physical skill. </para>
+                <para> Requires as much time as setup to perform (This can be shortened with rank).
+                    Normal setup cannot be applied to the same action. </para>
+            </sect1>
+            <sect1>
+                <title>Gaining KI Skills</title>
+                <para> KI skills are gained in the normal manner for Mental Disciplines. </para>
+            </sect1>
+            <sect1>
+                <title>Using KI Skills</title>
+                <para> All KI skills have a direct effect upon the EF of the action being fiocused
+                    on. They are limited in duration to the time it takes to perform the action. The
+                    actual EF of the KI skill is at a -3. </para>
+            </sect1>
+            <sect1>
+                <title>Meditation</title>
+                <para> Meditation is the act of excludng all outside disturbances from affecting
+                    your concentration. </para>
+            </sect1>
+        </chapter>
+    </part>
+    <part>
+        <title>Technoplogy</title>
+        <chapter>
+            <title>Research and Experimentation</title>
+            <sect1>
+                <title>Outline</title>
+                <para> This chapter details out the incredibly important rules regarding the gaining
+                    of information by research or experimentation. </para>
+            </sect1>
+            <sect1>
+                <title>Description</title>
+                <para> Research is an attempt to locate information that is already discovered but
+                    not readily available. Experimentation is an attempt to discover previously
+                    unknown information by using various experiments to collect data. </para>
+                <para> Research is critical to many of the exploration and discovery scenarios of
+                    role playing that are so easy to envision in a Space Age game. The greatest
+                    problem is to determine whether or not the character has the research resources
+                    to allow a relatively simple time of it. </para>
+            </sect1>
+            <sect1>
+                <title>Forms of Research</title>
+                <para> There are several simple forms of research qestions that can be asked. </para>
+                <sect2>
+                    <title>Retrieval Queries</title>
+                    <para> Directly get some information. The easiest type of Question. </para>
+                </sect2>
+                <sect2>
+                    <title>Calculational Queries</title>
+                    <para> Given information, perform numeric manipulations on them. </para>
+                </sect2>
+                <sect2>
+                    <title>Inference Queries</title>
+                    <para> Given information, infer something from them. This is difficult but
+                        fairly straight forward. </para>
+                </sect2>
+                <sect2>
+                    <title>Formulate Queries</title>
+                    <para> Formulating the correct question to perform research on falls into the
+                        realm of experimentation. This is the most difficult of all pieces of work.
+                    </para>
+                </sect2>
+            </sect1>
+            <sect1>
+                <title>The Steps involved</title>
+                <para> There are three steps to doing research </para>
+                <sect2>
+                    <title>Formulate</title>
+                    <para> In most situations this is done by the PC on an ad hoc basis and treated
+                        on the fly by the GM. Only in special circumstances should the GM require
+                        the character to roll in order to Formulate the query. </para>
+                </sect2>
+                <sect2>
+                    <title>Retrievel</title>
+                    <para> Retrieval is a direct search in the appropriate database of information
+                        or related DB's. Typically done with the aid of a computer if available.
+                    </para>
+                </sect2>
+                <sect2>
+                    <title>Calculate</title>
+                    <para/>
+                </sect2>
+                <sect2>
+                    <title>Correlate</title>
+                    <table>
+                        <title>Typical EFS involved</title>
+                        <tgroup cols="2">
+                            <tbody>
+                                <row>
+                                    <entry>Simple Search/Retrieval</entry>
+                                    <entry>5</entry>
+                                </row>
+                                <row>
+                                    <entry>Simple Calculation </entry>
+                                    <entry>5</entry>
+                                </row>
+                                <row>
+                                    <entry>Simple Inference</entry>
+                                    <entry>4</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <para> In many respects the most important thing to remember that unless the
+                        character is doing a lot of in depth research there should be no need to
+                        resort to these rules. </para>
+                </sect2>
+            </sect1>
+            <sect1>
+                <title>Data Analysis</title>
+                <para> In looking at a large body of data it is quite possible that there are trends
+                    and bits of information that the player has not the skill, knowledge, desire, or
+                    patience to extract from the GM via roleplaying the character and asking
+                    questions. </para>
+                <para> Time for a Data Analysis roll. </para>
+            </sect1>
+        </chapter>
+    </part>
+    
+    
+    
+</book>
