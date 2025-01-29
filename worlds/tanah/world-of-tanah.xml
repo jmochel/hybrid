@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<set xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>World of Tanah</title>
+        <author>
+            <personname>
+                <firstname>Jim</firstname>
+                <surname>Mochel</surname>
+            </personname>
+            <email>jmochel@saltations.org</email>
+        </author>
+        <date>$Date$</date>
+        <abstract>
+            <para>
+                <blockquote>
+                    <attribution/>
+                    <para>TBD</para>
+                </blockquote>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="reference/images/front-plate.png"/>
+                    </imageobject>
+                </mediaobject>
+            </para>
+        </abstract>
+    </info>
+    <book xml:id="bk-world-of-tanah" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+        version="5.1">
+        <title>Tanah: The World</title>
+        <chapter xml:id="tanah-overview">
+            <title>Overview</title>
+            <section>
+                <title>Roads</title>
+                <para/>
+            </section>
+            <section>
+                <title>Ley Lines</title>
+                <para/>
+            </section>
+        </chapter>
+        <chapter xml:id="tanah-history">
+            <title>Overview</title>
+            <section>
+                <title>XXXX</title>
+                <para/>
+            </section>
+            <section>
+                <title>XXX</title>
+                <para/>
+            </section>
+        </chapter>
+        <chapter xml:id="tanah-the-world">
+            <title/>
+            <para>An inline SVG graphic:  <inlinemediaobject>
+                    <imageobject>
+                        <imagedata>
+                            <svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="3cm" height="3cm"
+                                viewBox="0 0 400 400">
+                                <svg:g style="fill-opacity:0.7; stroke:black; stroke-width:0.1cm;">
+                                    <svg:circle cx="6cm" cy="2cm" r="100" style="fill:red;" transform="translate(0,50)"/>
+                                    <svg:circle cx="6cm" cy="2cm" r="100" style="fill:blue;"
+                                        transform="translate(70,150)"/>
+                                    <svg:circle cx="6cm" cy="2cm" r="100" style="fill:green;"
+                                        transform="translate(-70,150)"/>
+                                </svg:g>
+                            </svg:svg>
+                        </imagedata>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+        </chapter>
+        <chapter>
+            <title>Stuff</title>
+            <section>
+                <title>Locale</title>
+                <para>The primary setting for any culture</para>
+                <simplelist>
+                    <member>What does it look like?</member>
+                    <member>What is the geography?</member>
+                    <member>How accessible is this area?</member>
+                    <member>What natural features mark the borders? </member>
+                    <member>What are the most striking features of landscape, climate, animals, etc.
+                in thisarea? </member>
+                    <member>How will these features affect travel time, communication,
+                etc.?</member>
+                    <member>What of are the resources for survival?</member>
+                    <member>What kind of clothes and shelter are needed?</member>
+                    <member>What kind of food can be so grown, hunted, caught?</member>
+                    <member>What kinds of natural phenomenon might influence beliefs?</member>
+                    <member>Does the climate allow only survival activities or is there for leisure
+                developments such as art philosophy etc.?</member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Climate</title>
+                <para/>
+                <simplelist>
+                    <member>What is the climate?</member>
+                    <member>What kinds of clothes and shelter are needed?</member>
+                    <member>Will the climate only allow survival activities or will there be time
+                for leisure developments such as art, philosophy, etc?</member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Flora</title>
+                <para/>
+                <simplelist>
+                    <member>What sorts of food can be grown, hunted, caught?</member>
+                    <member>What are the people's main crops?</member>
+                    <member>What flora are especially helpful? Like hemp and flax.</member>
+                    <member>What are known delicacies.</member>
+                    <member>What fruits vegetables can be turned into a liquor and/or drugs or
+                medicines.</member>
+                    <member>Are there predatory plants?</member>
+                    <member>What are the sources of poisons?</member>
+                    <member>How much of the country is farmland? Forest? Desert? Mountains?
+                Plains?</member>
+                    <member>What are the primary crops (e.g., potatoes, cotton, tobacco, coffee,
+                rice, peanuts, wheat, sugarcane, etc.)? </member>
+                    <member>Are any grown mainly for export? </member>
+                    <member>What crops can not be grown here because of the soil, climate, or for
+                other reasons?</member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Fauna</title>
+                <para/>
+                <simplelist>
+                    <member>What animals are especially helpful to your world?</member>
+                    <member>What is a creature that preys on other nuisance creatures?</member>
+                    <member>What are he domesticated animals?</member>
+                    <member>What are the food animals?</member>
+                    <member>Whether the food taboos? Hidden or non Hidden rationale?</member>
+                    <member>Which animals are used in medicine.</member>
+                    <member>What animals are used for poisons.</member>
+                    <member>What wild animals, actual or imaginary, live in this area? </member>
+                    <member>Are any of them potentially useful — e.g., for fur, whale oil, hides,
+                magical ingredients, hat feathers?</member>
+                    <member>Which animals, actual or imaginary, are commonly domesticated in this
+                area? </member>
+                    <member>Which aren’t here, but are elsewhere? (Example: water buffalo in India
+                vs. oxen in Europe vs. camels in desert areas.)</member>
+                    <member>If there are imaginary animals (dragons, unicorns, etc.), how do they
+                fit into the ecology? </member>
+                    <member>What do they eat? How much habitat do they require? </member>
+                    <member>Can they live anywhere, or do they prefer or need specific kinds of
+                climate or terrain? </member>
+                    <member>Are they intelligent and/or capable of working spells, talking,
+                etc.?</member>
+                </simplelist>
+            </section>
+
+
+            <section>
+                <title>Magical Resources</title>
+                <para/>
+            </section>
+
+            <section>
+                <title>Appearance</title>
+                <para/>
+            </section>
+            <section>
+                <title>Language</title>
+                <subtitle>Subtitle of Section 1</subtitle>
+                <simplelist>
+                    <member>How many languages are there? </member>
+                    <member>Which ones are related (e.g., the Romance languages) and why? </member>
+                    <member>Which languages borrow words or phrases from other languages? </member>
+                    <member>Which is likely to be most widely spoken?</member>
+                    <member>Is there a “trade language” that facilitates commerce between countries
+                that don’t speak the same tongue? </member>
+                    <member>Is there a “universal language” spoken by educated or noble persons, as
+                Latin was in the Middle Ages?</member>
+                    <member>What languages are spoken?, </member>
+                    <member>How is the language recorded?, </member>
+                    <member>How are messages and information passed along?, </member>
+                    <member>How is history recorded?,</member>
+                    <member>is the society literate or illiterate?, </member>
+                    <member>Who provides education?, </member>
+                    <member>Who receives education?, </member>
+                    <member>What is the "technology" involved in long distance
+                communication?</member>
+                    <member>Is there a “trade language” that facilitates commerce between countries
+                that don’t speak the same tongue?</member>
+                    <member>Is there a “universal language” spoken by educated or noble persons, as
+                Latin was in the Middle Ages?</member>
+                    <member>Are some or all people bilingual?</member>
+                    <member>Is there a common second language many people know?</member>
+                    <member>Are there “secret” languages or codes known only by priests, soldiers,
+                wizards, guild members, etc.?</member>
+                    <member>Why were they developed?</member>
+                    <member>What are the variations in speech patterns, syntax, and slang from one
+                social class to another?</member>
+                    <member>One occupation to another?</member>
+                    <member>One region to another?</member>
+                    <member>One race to another?</member>
+                    <member>What areas do local slang phrases come out of?</member>
+                    <member>(Example: in a fishing town, referring to good luck as “a good catch,”
+                while people in a farming town refer to it as “an unexpected harvest”.) What
+                kinds of colorful turns of phrase do people use?</member>
+                    <member>What things in this culture would their language have many specific
+                words for (e.g., Inuit languages that have 14+ words for different kinds of
+                snow)?</member>
+                    <member>What do the people in this culture consider important enough to
+                name?</member>
+                    <member>What does this say about the way they look at the world?</member>
+                    <member>What things would the people of this culture not have a name for, or
+                have one word that covers numerous variations?</member>
+                    <member>What do they consider too unimportant to name?</member>
+                    <member>How does this affect the way they see the world?</member>
+                    <member>Are there words that must never be spoken except at particular times, in
+                ceremonies, or under particular circumstances?</member>
+                    <member>Are there words that must not be spoken in polite company?</member>
+                    <member>Do these words differ from culture to culture or race to race?</member>
+                    <member>What will people swear a binding oath by?</member>
+                    <member>What do people use as curse words?</member>
+                    <member>How many languages are there?</member>
+                    <member>Which ones are related (e.g., the Romance languages) and why?</member>
+                    <member>Which languages borrow words or phrases from other languages?</member>
+                    <member>Which is likely to be most widely spoken?</member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Location</title>
+                <para/>
+            </section>
+            <section>
+                <title>Calendar</title>
+                <para/>
+                <simplelist>
+                    <member>Is there a single, generally accepted calendar (including time
+                measurements), or do different countries or peoples or races have different
+                ones?</member>
+                    <member/>
+                    <member>How is the day divided into smaller time units?</member>
+                    <member>What are they (Hour of the Lark, Sunrise Bell, Nones, etc.)?</member>
+                    <member>Are the names relevant to anything?</member>
+                    <member>Is the length of an hour fixed, or does it vary depending on changes in
+                the length of the day as the seasons change?</member>
+                    <member/>
+                    <member>What are the names of months, and how many days in each?</member>
+                    <member>How many days in a week?</member>
+                    <member>Months in a year?</member>
+                    <member>Are there leap years?</member>
+                    <member>If so, who keeps track?</member>
+                    <member/>
+                    <member>Which days are general holidays or festival times?</member>
+                    <member>What do they celebrate?</member>
+                    <member>Are there any that are only celebrated in particular countries, cities,
+                or regions?</member>
+                    <member/>
+                    <member>What event(s) do people use to date years?</member>
+                    <member>Do they use a single event (the creation of the world, the end of the
+                Great War, the invention of atomic power, etc.) or are events dated based on
+                recurring things (the 12th year of Tiberius’ reign, the 301st year of the
+                Han Dynasty)?</member>
+                    <member/>
+                    <member>How do people tell what time it is?</member>
+                    <member>Are there clocks, watches, sundials, etc., or do people have to just
+                listen for bells from the castle or church, or just eyeball the
+                sun?</member>
+
+                    <member>Are there any days that are considered “outside the year,” like Mardi
+                Gras or the Feast of Fools?</member>
+                    <member>How are these days customarily observed?</member>
+                    <member>How did they originate?</member>
+
+                </simplelist>
+            </section>
+        </chapter>
+    </book>
+
+    <book xml:id="bk-races-and-cultures-of-tanah">
+        <info>
+            <title>The Races of Tanah</title>
+        </info>
+        <chapter xml:id="races-and-cultures-summary">
+            <title>Summary of Races and Cultures</title>
+            <section>
+                <title>Merovan</title>
+                <para/>
+            </section>
+            <section>
+                <title>Kothan</title>
+                <para/>
+            </section>
+            <section>
+                <title>Native Borne</title>
+                <para/>
+            </section>
+            <section>
+                <title>Vairman</title>
+                <para/>
+            </section>
+            <section>
+                <title>Dalesman</title>
+                <para>Mormoms gone wild.</para>
+            </section>
+            <section>
+                <title>Hairochan</title>
+                <para>Will given word</para>
+            </section>
+            <section>
+                <title>Thenean</title>
+                <para>>Venetian trader houses "its a Clan eat Clan world"</para>
+            </section>
+            <section>
+                <title>Arsae</title>
+                <para/>
+            </section>
+            <section>
+                <title>Amaran</title>
+                <para/>
+            </section>
+            <section>
+                <title>Bitadari</title>
+                <para>The Bitadar are bright and terrifying, dark and terrifying, or just terrifying</para>
+            </section>
+            <section>
+                <title>Duwan</title>
+                <para>Halfling **Analog**</para>
+            </section>
+            <section>
+                <title>Kurrock</title>
+                <para>Dwarve</para>
+            </section>
+            <section>
+                <title>Erlani</title>
+                <para>Red neck islanders</para>
+            </section>
+            <section>
+                <title>Uru</title>
+                <para>Hard partying Rastarafarian earth mage dwarves. They are lovers , not fighters. " <emphasis
+                        role="italic">The Canon is my word, the order is my deed, and the single intent is
+                    my state</emphasis> "</para>
+            </section>
+            <section>
+                <title>Winged Folk</title>
+                <para/>
+            </section>
+            <section>
+                <title>Tor</title>
+                <para/>
+            </section>
+            <section>
+                <title>Val Tier</title>
+                <para>Tor</para>
+            </section>
+            <section>
+                <title>Kalifaan</title>
+                <para/>
+            </section>
+            <section>
+                <title>Takeda</title>
+                <para/>
+            </section>
+        </chapter>
+
+        <chapter xml:id="races-details">
+            <title>Detailed Races</title>
+            <para/>
+        </chapter>
+
+        <chapter xml:id="cultures-summary">
+            <title>Detailed Culture</title>
+            <para/>
+        </chapter>
+
+        <part xml:id="culture-template">
+            <title>Culture: Template</title>
+            
+            <!--
+                ChatGPT
+                
+                
+                
+                
+                Lisle
+                
+                
+                
+            -->
+            
+            
+            
+            <chapter xml:id="culture-template-context-and-influences">
+                <title>Context and Influences</title>
+                <para></para>
+                 <section>
+                     <title>Geography</title>
+                     <para>The physical environment (climate, landscape, resources) shapes cultural practices, such as food, clothing, and housing.
+                         History</para>
+                </section>
+                <section>
+                    <title>Pre-History</title>
+                    <para></para>
+                </section>
+                <section>
+                    <title>History</title>
+                    <para>.</para>
+                </section>
+                <section>
+                    <title>Other Cultures</title>
+                    <para></para>
+                </section>
+            </chapter>
+            
+            <chapter xml:id="culture-context-template">
+                <title>Context</title>
+                <section xml:id="culture-context-template-location">
+                    <title>Location</title>
+                    <simplelist>
+                        <member>How many people are there in this country?</member>
+                        <member>How does this compare with world population?</member>
+                        <member>What is considered a small town/large town/city in terms of number of
+                        people?</member>
+                        <member>How diverse is the population of this country — how many different races
+                        (human or non-human), creeds, etc. normally live in various cities and towns in
+                        this country?</member>
+                        <member>In what percentages?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-context-template-prehistory">
+                    <title>Prehistory</title>
+                    <subtitle>What happened before there was writing</subtitle>
+                    <para>Text</para>
+                    <simplelist>
+                        <member>How far back are there records or tales of historical events? </member>
+                        <member>How widely known are these stories?</member>
+                        <member>Succession of rule and/or changes in the distribution of Power and
+                            Authority</member>
+                        <member>Invasions, movements of peoples, or dramatic mass migrations</member>
+                        <member>Disaster related to plague, fire, disease, famine, pestilence,
+                            etc.</member>
+                        <member>Victory in conflict, establishment or expansion of colonies, major
+                            changes in borders, etc.</member>
+                        <member>Take note of dates when a natural event reduced or increase the amount
+                            of natural resources (food, water, timber etc.) </member>
+                        <member>Take note of dates when a unnatural event change the resources as
+                            well</member>
+                        <member>Keep in mind recovering from war takes about a generation without any
+                            major wars.</member>
+                        <member>Track specific dates one power shifted in civilizations (through who,
+                            death of a monarch that something) and one of the powershift was
+                            smooth.</member>
+                        <member>Do average people believe old tales, or do they dismiss some that have a
+                            basis in fact (e.g., Troy)?</member>
+                        <member>Why did people settle in this locale in the first place — strategic
+                            location, trade route, water transport, minerals, good farming, etc.? </member>
+                        <member>Have things changed much since, or do they still depend on whatever
+                            brought them in the first place?</member>
+                        <member>Who are the rivals or enemies of this country? How close are they
+                            physically? How powerful?</member>
+                        <member>Who are the heroes and villains of each country’s history (e.g.,
+                            Washington and Lincoln in the U.S.; Henry V in England, etc.)? </member>
+                        <member>Why are they heroes/villains and what do this say about the country and
+                            the people who admire them?</member>
+                        <member>Which peoples/countries/races have been in conflict in the recent past?
+                            Why? When and why was the most recent war? Who won?</member>
+                        <member>Which peoples/countries/races fought, allied, traded, or were
+                            traditional rivals? Where are there still hard feelings about old
+                            events?</member>
+                        <member>How do the weapons of this country compare with those of surrounding
+                            cities and countries?</member>
+                        <member>Have there been recent innovations that may upset the balance of power,
+                            or is everyone more or less equal?</member>
+                        <member>How do the weapons of this country compare with those of surrounding
+                            cities and countries?</member>
+                        <member>Have there been recent innovations that may upset the balance of power,
+                            or is everyone more or less equal?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-context-template-history">
+                    <title>History</title>
+                    <para>Basic questions and background. Secondary setting for an culture. All human
+                    cultures possess some earlier developments in their culture. Some of side influences
+                    have helped to mold a culture into its condition, so it has its own set of past
+                    values, beliefs and activities.</para>
+                    <simplelist>
+                        <member>Where did it begin?</member>
+                        <member>What directions did it spread?</member>
+                        <member>Impact of magic?</member>
+                        <member>Impact of non-human races, if any?</member>
+                        <member>Impact of actions or direct interventions of the gods?</member>
+                        <member>Where are there still hard feelings about old events?</member>
+                        <member>Which peoples/countries/races have been in conflict in the recent past and
+                        Why?</member>
+                        <member>Why?</member>
+                        <member>When and why was the most recent war?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-context-template-natural-resources">
+                    <title>Natural Resources</title>
+                    <simplelist>
+                        <member>Which areas are the most fertile farmland? </member>
+                        <member>Where are mineral resources located?</member>
+                        <member>Which animals, birds, fish, and other wildlife are commonly found in
+                        which areas? </member>
+                        <member>If there are imaginary animals such as dragons, where do they
+                        live?</member>
+                        <member>Which natural resources, if any, have been depleted in which areas over
+                        time?</member>
+                        <member>Which resources (e.g., coal, oil, iron ore, gold, diamonds, limestone,
+                        etc.) are particularly abundant, and in which areas?</member>
+                        <member>Which are scarce?</member>
+                        <member>Are there places where there are rich deposits that haven’t been
+                        discovered yet, or where they haven’t been fully exploited?</member>
+                        <member>How much conflict has been or might be caused by these imbalances in
+                        resources? </member>
+                        <member>How much active, peaceful trade?</member>
+                        <member>What water resources available, and for what uses ?</member>
+                        <member>What are the contested resources?</member>
+                    </simplelist>
+                </section>
+            </chapter>
+            <chapter xml:id="culture-economy-template">
+                <title>Economy</title>
+                <section xml:id="culture-economy-template-basics">
+                    <title>Basics</title>
+                    <simplelist>
+                        <member>Type of economy</member>
+                        <member>How important is trade to the economy? </member>
+                        <member>Is this a money-based economy, or mostly barter?</member>
+                        <member>Scarcity</member>
+                        <member>Distribution</member>
+                        <member>decision-making</member>
+                        <member>division of labor</member>
+                        <member>needs</member>
+                        <member>Trading partners</member>
+                        <member>Imports? </member>
+                        <member>Exports? </member>
+                        <member>Is there a “trade language” that facilitates commerce between
+                        countries that don’t speak the same tongue?</member>
+                        <member>Is there a “universal language” spoken by educated or noble persons,
+                        as Latin was in the Middle Ages?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-economy-template-products-and-services">
+                    <title>Products and Services</title>
+                    <simplelist>
+                        <member>Do different regions/cities specialize in specific crafts,
+                        processes, or products (examples: Damascus steel, Bordeaux wines,
+                        Chinese silk, Wisconsin cheese)?</member>
+                        <member>Do different races specialize?</member>
+                        <member>Are industrial processes (e.g., swordmaking, weaving, etc.)
+                        considered “trade secrets,” or are they common knowledge?</member>
+                        <member>Are any new industries developing?</member>
+                        <member>Which old ones do they compete with or make obsolete?</member>
+                        <member>What goods are commonly available in small town markets?</member>
+                        <member>In large towns?</member>
+                        <member>In cities?</member>
+                        <member>What industries — mining, fishing, shipbuilding, lumber, farming,
+                        manufacturing, etc. — are important, and in which areas?</member>
+                        <member>Which depend on materials from other areas (as shipbuilding on wood,
+                        or weaving on wool)?</member>
+                        <member>What happens if supplies are disrupted?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-economy-template-organization">
+                    <title>Organization</title>
+                    <simplelist>
+                        <member>How is business organized?</member>
+                        <member>Are there trade unions?</member>
+                        <member>Guild structures?</member>
+                        <member>Multi-state corporations?</member>
+                        <member>International cartels?</member>
+                        <member>Are people able to cross-craft, I.e., learn or perform different
+                        trades?</member>
+                        <member>Does cross-crafting require guild permission, a write from an
+                        overlord, or is it automatically guaranteed by law?</member>
+                        <member>How strict are craft restrictions — are carpenters the only people
+                        allowed to build houses?</member>
+                        <member>What types of trades would be represented in a small town?</member>
+                        <member>A middle-sized town?</member>
+                        <member>A large city?</member>
+                        <member>What is the process a young person goes through to enter a craft or
+                        trade?</member>
+                        <member>An apprenticeship?</member>
+                        <member>Four years of college?</member>
+                        <member>Are the craft requirements for various skill ranks (such as
+                        apprentice, journeyman, master, or med student, intern, doctor,
+                        specialist) standardized, or does rank depend more on the good favor of
+                        a master craftsman than it does on skill?</member>
+                        <member/>
+                        <member>What regulations, if any, has the government/ruler placed on
+                        business practices?</member>
+                        <member>Are there antimonopoly laws?</member>
+                        <member>Anti-pollution?</member>
+                        <member>Are there standardized systems of weights and measures, or does a
+                        merchant have to specify “a London bushel” of grain rather than “a York
+                        bushel”?</member>
+                        <member>How are records kept — tally sticks, parchment, clay tablets,
+                        beads?</member>
+                        <member>Is there a merchant class?</member>
+                        <member>Where do they fit in society?</member>
+                        <member>Are there trading guilds?</member>
+                        <member>If so, how are they organized?</member>
+                        <member>How much power do they have to control trade?</member>
+                        <member>How much infighting is there among them?</member>
+                        <member>Are there trading organizations that transcend countries (like the
+                        Hanseatic League)?</member>
+                        <member>How large a presence do they have locally?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-economy-template-coinage">
+                    <title>Coinage</title>
+                    <simplelist>
+                        <member>How is currency exchange handled, and by whom? </member>
+                        <member>What is the system of coinage, and who mints it?</member>
+                        <member>Is currency and coinage standardized, or is there a system of
+                        exchange?</member>
+                        <member>What are typical denominations?</member>
+                        <member>What types of currency is a traveler or merchant likely to carry on
+                        a trip?</member>
+                        <member>What are different coins called, and what are they worth?</member>
+                        <member>Who is responsible for coinage: the ruler, local barons, someone
+                        else (merchant guilds)?</member>
+                        <member>Are there generally acceptable standards?</member>
+                        <member>How easy/common is counterfeiting?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-economy-template-distribution">
+                    <title>Distribution</title>
+                    <simplelist>
+                        <member>How do goods get to market?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-economy-template-government">
+                    <title>Government</title>
+                    <simplelist>
+                        <member>How much do official attitudes toward other countries affect
+                            commerce and trade?</member>
+                        <member>Are there Customs inspectors or their equivalents at border
+                            crossings?</member>
+                        <member>Is the export/import of some technologies/magics/commodities
+                            regulated by the government, or by non-governmental cartels?</member>
+                        <member>How does this affect political relationships between
+                            countries?</member>
+                        <member>What regulations, if any, has the government/ruler placed on
+                            business practices?</member>
+                        <member>Are there antimonopoly laws?</member>
+                        <member>Anti-pollution?</member>
+                        <member>Are there standardized systems of weights and measures, or does a
+                            merchant have to specify “a London bushel” of grain rather than “a York
+                            bushel”?</member>
+                        <member>How much smuggling is there?</member>
+                        <member>Of what, from or to where?</member>
+                    </simplelist>
+                </section>
+            </chapter>
+            <chapter xml:id="culture-power-and-authority-template">
+                <title>Power and Authority</title>
+
+                <section xml:id="culture-power-and-authority-template-sources-of-power">
+                    <title>Sources of Power</title>
+                    <simplelist>
+                        <member> What is the source of power?</member>
+                        <member> Who are the rulers?</member>
+                        <member> How are the rulers chosen?</member>
+                        <member> How is power passed on to the next leaders?</member>
+                        <member> What groups have power and who are the players?</member>
+                        <member> What groups have the most political power?</member>
+                        <member>What is the basic style of government: feudal, aristocratic, oligarchy,
+                        absolute ruler, democracy, what? In terms of political systems themselves -
+                        there is a vast spectrum of possibilities -Anarchic, Aristocratic,
+                        Autarchic, Authoritarian, Autocratic, Bureaucratic, Capitalist,
+                        Collectivist, Colonialist, Commercialism, Communist, Confederates,
+                        Constitutional, Constitutional monarchy, Democracy, Despotism, Direct
+                        Democratic, Dynastic, Ecclesiastical, Ethnocentric, Expansionist, Fascist,
+                        Federalist, Fundamentalist, Gerontocratic, Imperialist, Internationalist,
+                        Interventionist, Isolationist, Matriarchy, Meritocracy, Monarchy, Orthodox,
+                        Parochialism, Paternalist, Patriarchy, Pluralist, Plutocracy, Police State,
+                        Protectionist, Regionalist, Republican, Separatist, Socialist, Theocratic,
+                        Totalitarian, Utilitarian, Utopian. Each system experiences different forms
+                        of intrigue. Feudalism and other aristocratic forms of governance tend to be
+                        subsumed by court intrigues revolving around legacies, dynasties,
+                        succession, etc. Republics, on the other hand, obsess over questions of law,
+                        rights and public resources. Finally, just as in the real world, a nation
+                        might call itself one thing, yet behave quite the opposite. Humans might be
+                        treated quite well, but minorities of other races (or the same race), might
+                        be subject to entirely different laws, slavery, forced exile, etc. </member>
+                        <member>Who will take over running the government if the current head of state
+                        is incapacitated?</member>
+                        <member>How is this determined?</member>
+                        <member>Is there an heir apparent (either actual or political)?</member>
+                        <member>What happens if the heir is a minor?</member>
+                        <member>Who gives orders?</member>
+                        <member>How are they picked?</member>
+                        <member>Who is responsible for protecting the head of state?</member>
+                        <member>His personal guard, the Secret Service, an elite group affiliated with
+                        the regular military?</member>
+                        <member>What safeguards have they got against assassins, poisoning, direct
+                        assault, magical attack?</member>
+                        <member>What impact on the above does Magic or Magic Users have?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-power-and-authority-template-flow-of-power">
+                    <title>How does power flow</title>
+                    <subtitle>Checks and Balances</subtitle>
+                    <simplelist>
+                        <member>Who has the right to levy taxes?</member>
+                        <member>For what?</member>
+                        <member>On what or whom?</member>
+                        <member>Can taxes be paid in kind, or do certain things require money?</member>
+                        <member>Who provides support services for the head of state?</member>
+                        <member>What are they called: King’s Counselors, Cabinet Ministers, Secretary of
+                        State, Good Ol’ Girls?</member>
+                        <member>Are they hereditary offices, civil servants, appointees, military,
+                        elected?</member>
+                        <member>What services are provided locally or privately?</member>
+                        <member>What services does the government or head of state provide: schools,
+                        wells, courts, an army to protect people from the Vikings?</member>
+                        <member>Who is considered a citizen, with the rights and privileges
+                        thereof?</member>
+                        <member>What are those rights and privileges (voting, protection from thieves,
+                        the right to a hearing in Rome) and what responsibilities go along with them
+                        (jury duty, providing funds or knights for the lord’s army?</member>
+                        <member>Are there certain classes of people (wizards, foreigners, children,
+                        peasants, women) who have fewer legal rights or less recourse than full
+                        citizens?</member>
+                        <member>Why?</member>
+                        <member>What are the easiest/most common ways to advance in power — amass more
+                        money, marry well, get the ruler’s eye, etc.?</member>
+                        <member>Who can give orders (to military, to tax collectors, to servants, to
+                        ordinary folks on the street)?</member>
+                        <member>How are such people chosen?</member>
+
+                        <member>Who can call up men for an army, and how?</member>
+                        <member>Does the ruler ask the nobility for men, who in turn draft their
+                        peasants, or can the ruler go straight to the bottom?</member>
+                        <member>Are there times when people are expected to fast, or feast (e.g., before
+                        solstice, after the birth of a child, during Lent or Ramadan, after the
+                        death of a ruler, etc.)?</member>
+                        <member>Are there occasions when the ruler is expected to provide a celebration
+                        or spectacle for the people to enjoy, (e.g., the Roman gladiatorial
+                        games)?</member>
+                        <member>How much influence do “special interest groups” such as merchants,
+                        wizards, or various religions, have on court politics?</member>
+                        <member>How do they exercise their influence — indirectly (by talking nobility
+                        or council members into taking their sides) or directly (by bribery,
+                        coercion, having their own representatives on the council)?</member>
+                        <member>What impact on the above does Magic or Magic Users have?</member>
+                        <member>What kinds of people are likely to face prejudice: dwarves, werewolves,
+                        merchants, women, undertakers?</member>
+                        <member>Is this institutionalized (i.e., a matter of law) or is it mostly a
+                        matter of public attitude?</member>
+                        <member>Is there tension, rivalry, or outright hostility between any of the
+                        actual gods?</member>
+                        <member>How does this affect church politics?</member>
+                        <member>People’s everyday lives?</member>
+                        <member>Does the level of technological advancement match the level of social
+                        and political advancement?</member>
+                        <member>Is the ruler powerful enough to defy this prejudice and appoint a dwarf
+                        as Chief Councilor or Secretary of Defense and make it work?</member>
+                        <member>Who will take over running the government if the current head of state
+                        is incapacitated?</member>
+                        <member>How is this determined?</member>
+                        <member>Is there an heir apparent (either actual or political)?</member>
+                        <member>What happens if the heir is a minor?</member>
+                        <member>Are there people who have great influence on government/politics, but
+                        who do not hold any official position?</member>
+                        <member>Who are they?</member>
+                        <member>Why do they have influence?</member>
+                        <member>Is this considered a normal thing, or a bad thing?</member>
+                    </simplelist>
+                </section>
+                <section xml:id="culture-power-and-authority-template-alliances">
+                    <title>Alliances</title>
+                    <para>Who are allied, and Why, how long has it been, and how long will it last? Any
+                    new forces on the scene</para>
+                </section>
+                <section xml:id="culture-power-and-authority-template-enemies">
+                    <title>Enemies</title>
+                    <para>Who are in conflict, and Why, how long has it been, and how long will it last?
+                </para>
+                </section>
+                <section xml:id="culture-power-and-authority-template-the-formal-rules">
+                    <title>The Formal Rules</title>
+                    <formalpara xml:id="culture-power-and-authority-template-making-the-formal-rules">
+                        <title>Making the Laws</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-enforcing-the-formal-rules">
+                        <title>Enforcing the Laws</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-ownership-of-goods">
+                        <title>Ownership of Goods</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-land">
+                        <title>Land</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-male-and-female">
+                        <title>Male and Female Roles</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-church-and-state">
+                        <title>Church and State</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-suicide">
+                        <title>Death by Suicide</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-death-at-anothers-hand">
+                        <title>Death by Anothers Hand</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-formal-rules-about-self-defense">
+                        <title>Death in Self Defense</title>
+                        <para/>
+                    </formalpara>
+                </section>
+                <section xml:id="culture-power-and-authority-template-the-informal-rules">
+                    <title>The informal rules</title>
+                    <para/>
+                    <formalpara xml:id="culture-power-and-authority-template-making-the-informal-rules">
+                        <title>Making the Laws</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-enforcing-the-informal-rules">
+                        <title>Enforcing the Laws</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-ownership-of-goods">
+                        <title>Ownership of Goods</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-about-land">
+                        <title>Land</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-about-male-and-female">
+                        <title>Male and Female Roles</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-about-church-and-state">
+                        <title>Church and State</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-about-suicide">
+                        <title>Death by Suicide</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara
+                        xml:id="culture-power-and-authority-template-informal-rules-about-death-at-anothers-hand">
+                        <title>Death by Anothers Hand</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-informal-rules-about-self-defense">
+                        <title>Death in Self Defense</title>
+                        <para/>
+                    </formalpara>
+                </section>
+                <section xml:id="culture-power-and-authority-template-the-conventions-and-taboos">
+                    <title>Conventions and Taboos</title>
+                    <para/>
+                    <formalpara xml:id="culture-power-and-authority-template-enforcing-the-conventions">
+                        <title>Enforcing the Conventions</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-enforcing-the-taboos">
+                        <title>Enforcing the Taboos</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-conventions-ownership-of-goods">
+                        <title>Conventions about Ownership of Goods</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-conventions-and-taboos-about-land">
+                        <title>Land</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara
+                        xml:id="culture-power-and-authority-template-conventions-and-taboos-about-male-and-female">
+                        <title>Male and Female Roles</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara
+                        xml:id="culture-power-and-authority-template-conventions-and-taboos-about-church-and-state">
+                        <title>Church and State</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-conventions-and-taboos-about-suicide">
+                        <title>Death by Suicide</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara
+                        xml:id="culture-power-and-authority-template-conventions-and-taboos-about-death-at-anothers-hand">
+                        <title>Death by Anothers Hand</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara xml:id="culture-power-and-authority-template-conventions-and-taboos-about-self-defense">
+                        <title>Death in Self Defense</title>
+                        <para/>
+                    </formalpara>
+                </section>
+            </chapter>
+
+            <chapter xml:id="culture-military-template">
+                <title>Military</title>
+
+                <section>
+                    <title>Military</title>
+                    <para/>
+                    <simplelist>
+                        <member>What major weapons of war are available (e.g., siege towers, catapults,
+                            cannon, A-bombs)?</member>
+                        <member>How much has the presence of magic affected strategy and tactics in
+                            general?</member>
+                        <member>Do army commanders have unusual formations or techniques to deal with
+                            various magical attacks?</member>
+                        <member>How can magic be used as part of a battle plan, given various levels of
+                            technology (example: getting a weather magician to make it rain so that
+                            enemy cannons will be harder to maneuver in the mud)?</member>
+                        <member>Is magic used primarily for intelligence gathering (spells of
+                            invisibility, scrying, etc.), or are there spells that are of use on the
+                            battlefield (summoning a demon to attack the enemy, casting fire storms at
+                            them, etc.)?</member>
+                        <member>If battlefield magic is possible, how can it be defended
+                            against?</member>
+                        <member>How are armies usually structured?</member>
+                        <member>Is there a formal, independent command structure, or is everybody
+                            officially under the command of whoever brought them to join the ruler’s
+                            army, or what?</member>
+                        <member>If there is a formal structure, what are the various ranks and titles
+                            used?</member>
+                        <member>Is weapon usage restricted according to social class, such as only
+                            knights being allowed to use sword and armor, yeomen using bows and staffs,
+                            peasants using whatever scythes, hammers, etc. are available?</member>
+                        <member>Are there restrictions, either legal, customary, or biological, on the
+                            types of weapons different races or magical beings can use (e.g., elves not
+                            being able to wield weapons made of cold iron)?</member>
+                        <member>Are battlefield commissions or knighthoods possible during wartime, or
+                            must such promotions wait on formal ceremonies?</member>
+                        <member>Do normal social restrictions apply during times of war, or is everyone
+                            equal on the battlefield?</member>
+                        <member>Who can call up men for an army, and how?</member>
+                        <member>Does the ruler ask the nobility for men, who in turn draft their
+                            peasants, or can the ruler go straight to the bottom?</member>
+                        <member>Are there professional soldiers/mercenaries?</member>
+                        <member>Is a career in the army possible, or would you have to become a
+                            mercenary or sell-sword in order to make a living as a soldier?</member>
+                        <member>Does the army accept volunteers, or only draftees?</member>
+                        <member>Can you rise to officer level by displaying courage and merit on the
+                            battlefield, or are officer positions reserved for a particular type of
+                            person only — people who bought commissions, people who graduated from
+                            military school, sons of famous warriors, etc.?</member>
+                        <member>How large is a typical army?</member>
+                        <member>What percentage of the soldiers in it will be trained (knights,
+                            professional soldiers, guards, mercenaries) and what percentage will be
+                            untrained recruits?</member>
+                        <member>Are recruits given training, or are they expected to learn on the job
+                            (i.e., in battle)?</member>
+                        <member>How is the army supplied?</member>
+                        <member>Are soldiers allowed to live off the peasantry, or do they pay for what
+                            they take?</member>
+                        <member>What happens if the supply caravan gets lost or captured?</member>
+                        <member>How are supplies handled during long campaigns?</member>
+                        <member>How many days’ worth of supplies can the army haul along with them?
+                            (Ref. Alexander the Great and the Logistics of the Macedonian Army for the
+                            math on how much a horse can carry, how much it needs to eat, etc.)</member>
+                        <member>What are the accepted conventions of making war (e.g., only fight in
+                            winter when nobody is busy with crops; don’t make war on civilians; only
+                            certain kinds of weapons are available, etc.)?</member>
+                        <member>Are special weapons required if an army is facing certain kinds of
+                            non-human armies?</member>
+                        <member>If there’s a long-term war in progress, how has the home front been
+                            affected?</member>
+                        <member>Are people being drafted much younger/older than they used to
+                            be?</member>
+                        <member>Have people been forced to step into nontraditional roles — peasants
+                            managing a business, women shoeing horses, children making bullets,
+                            etc.?</member>
+                        <member>How have these changes affected society?</member>
+                        <member>How will they affect relationships between races/clans/sexes/social
+                            classes when the war is over?</member>
+                        <member>Is the army integrated (i.e., men, women, elves, dwarves, purple people,
+                            and green ones, all serving together)?</member>
+                        <member>How does this affect battle formations and Strategies?</member>
+                        <member>Are certain races or groups isolated in particular units?</member>
+                        <member>If so, are those units considered elite troops or the most expendable
+                            soldiers on the battlefield?</member>
+                        <member>How do these attitudes affect strategy?</member>
+                        <member>Has science or magic been advanced in general by specific developments
+                            in the fields of weaponry, tactics, or strategy?</member>
+                        <member>Are there natural or imposed limitations prohibiting the development or
+                            use of certain types of weapons (e.g., only muscle-powered weapons because
+                            the “laws of physics” in this world don’t allow the combustion of
+                            gunpowder)?</member>
+                        <member>To what degree has technology changed the face of war?</member>
+                        <member>Are there internal combustion engines useable for large troop movements,
+                            or steam powered ships?</member>
+                    </simplelist>
+                </section>
+                <section>
+                    <title>Standing</title>
+                    <para/>
+                </section>
+                <section>
+                    <title>Command</title>
+                    <para/>
+                </section>
+                <section>
+                    <title>Routine</title>
+                    <para/>
+                </section>
+                <section>
+                    <title>Arms</title>
+                    <para/>
+                </section>
+                <section>
+                    <title>Outfitting</title>
+                    <para/>
+                </section>
+                <section>
+                    <title>Theory</title>
+                    <para/>
+                </section>
+
+            </chapter>
+
+        </part>
+
+        <chapter xml:id="culture-merovan">
+            <title>Merovan Culture</title>
+            <subtitle>Camelot with a dark twist</subtitle>
+            <para>Merova lies on the northeastern edge of the continent. Merovans are built like the
+                Norman French with many brunettes and ash blondes. Merova is the King Arthur’s court of
+                the world. Merova looks like the traditional fantasy version of feudal society composed
+                of Knights, Nobles and Ladies. Is a single kingdom with 36 strong dukes newly united
+                under one king. It has high wizards and sorcerers as well as priests and priestesses. If
+                you want to play a traditional men at arms or a knight, this is the culture to be from.
+                Women’s roles are more limited, with only priestesses easily being able to travel and
+                adventure. Typical Merovan characters would be Knights or men at arms. Priests or
+                priestesses. Thieves. Wizards and sorcerers of various types. </para>
+            <para>Norman Knights and men at Arms (Chain, Plate and Leather, Long Swords and Bastard Swords,
+                    Spears and Pole Arms, Xbows rather then Self Bows) French speaking. with a large native
+                    born population slowly melding in. </para>
+            <para>Ducal fiefdoms with bordering Marchers. The Arch Dukes have the population and the
+                wealth while the Marches have the arms and the pride. Their only real common ground is
+                the king. The king is from a small neglected branch of one of the Ducal families (Almost
+                Native is the phrase....). Hairochan advised and trained and guarded. Unerneath it all
+                is the Native Born.</para>
+            <para>Wizard Guilds</para>
+            <para>Temples to the Lord and Lady. Adsum Domine . Adsum Maria</para>
+            <para>Fuedalism</para>
+            <section>
+                <title>Groups of Interest</title>
+                <section>
+                    <title>King of Merova</title>
+                    <formalpara>
+                        <title>Kelwyn Derian Lusignan</title>
+                        <para> </para>
+                    </formalpara>
+                </section>
+                <section>
+                    <title>Dukes of Merova</title>
+                    <formalpara>
+                        <title>Amis </title>
+                        <para>Quincy</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Amond</title>
+                        <para>Lynn</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Beauchamp </title>
+                        <para>Salem</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Beaufort </title>
+                        <para>Gloucester</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Beaumont </title>
+                        <para>Northhampton</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Boudreaux </title>
+                        <para>Pittsfield</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Challis</title>
+                        <para>Springfield</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Champlain</title>
+                        <para>Lawrence</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Chauncey</title>
+                        <para>Newburyport</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Courtenay</title>
+                        <para>Haverhill</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Arcy</title>
+                        <para>Amherst</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Burgh</title>
+                        <para>Leominster</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Norris</title>
+                        <para>Nashua NH</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Devereux</title>
+                        <para>Manchester NH</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Gascur </title>
+                        <para>Brattleboro VT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Marisco</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Onston</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara>
+                        <title>D'Quincey</title>
+                        <para>N. Adams</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Duchene</title>
+                        <para>Warwick</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Fortescue</title>
+                        <para>Providence</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Fortmayne</title>
+                        <para>Worcester</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Freemantle</title>
+                        <para>Framingham</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Gascoyne</title>
+                        <para>Greenfield</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Gaston</title>
+                        <para>Warwick</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Granville</title>
+                        <para>Taunton</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Harcourt</title>
+                        <para>Newport</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Keynes</title>
+                        <para>Hartford CT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Lavigne</title>
+                        <para>New Haven, CT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Levere</title>
+                        <para>Westerley RI</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mallory</title>
+                        <para>Portsmouth NH</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mandeville</title>
+                        <para>Keene NH</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mayeux</title>
+                        <para>New London CT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Montagu</title>
+                        <para> </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Moran</title>
+                        <para>Vineyard</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Neville</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara>
+                        <title>Osment</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara>
+                        <title>Rochelle</title>
+                        <para>Pawtucket</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Sant Clair</title>
+                        <para>Fall River</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Sant John</title>
+                        <para>Waterbury</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Sant Leger</title>
+                        <para>Norwich CT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Sudamore</title>
+                        <para>Newton</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Taillefer</title>
+                        <para>Middleton CT</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Vasey</title>
+                        <para>Billerica</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Vavasour</title>
+                        <para>Revere</para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Warenne</title>
+                        <para/>
+                    </formalpara>
+                    <formalpara>
+                        <title>Wyvill</title>
+                        <para/>
+                    </formalpara>
+                </section>
+                <section>
+                    <title>Marches of Merova</title>
+                    <formalpara>
+                        <title>Golden Badger </title>
+                        <para>Aka or blaireau </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Blood Hawk</title>
+                        <para>Aka faucon de sang </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>White Horse</title>
+                        <para>Aka cheval blanc </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Red Stallion</title>
+                        <para>Aka rouge Etalon </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Stone Dagger</title>
+                        <para>Aka Pierre Dague </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Wolverine </title>
+                        <para>Aka carcajou </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Death Wolf </title>
+                        <para>Aka mort loup </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Demon Boar </title>
+                        <para>Aka Sanglier démon </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Cat of the Mountain </title>
+                        <para>Aka Chat de la montagne </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Shadow Eyes </title>
+                        <para>Aka Yeux ombre </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Silver Spear </title>
+                        <para>Aka Argent Lance </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Fox </title>
+                        <para>Aka renard </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Mongoose </title>
+                        <para>Aka mangouste </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Saber </title>
+                        <para>Aka sabre </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Terror Cat </title>
+                        <para>Aka chat terreur </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Giant Bear </title>
+                        <para>Aka géant ours </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>Sea Dragon </title>
+                        <para>Aka dragon de mer </para>
+                    </formalpara>
+                    <formalpara>
+                        <title>River Terror </title>
+                        <para>Aka Terreur du fleuve </para>
+                    </formalpara>
+                </section>
+            </section>
+        </chapter>
+
+        <chapter xml:id="culture-native-borne">
+            <title>Native Born</title>
+            <subtitle>They are the unIdercurrents or the undertow.</subtitle>
+            <para>Skilled craftsman and magic workers. All close to the land but not shamanistic. In a
+                way they are a race of craftpeople</para>
+            <para>Small and dark like mexican peasants. Resistant to the cold. </para>
+            <para>Spears and Staves and Xbows.</para>
+        </chapter>
+
+        <chapter xml:id="culture-kothan">
+            <title>Kothan</title>
+            <subtitle>Where all the women are strong and the men are good looking.</subtitle>
+            <para>Norse and Angle with Saxon common law. </para>
+            <para>Axe Thanes, Spear Maidens, Bow Maidens</para>
+            <para>Headmen, Headwomen </para>
+            <para> Shamans  ( The forest spirits and the dead asmong of, and the creatures).</para>
+            <para>Thanest - Leader of the Thanes and War Maidens (Could be male or female)</para>
+            <para>Crone /Wiseman  for Lord/Lady</para>
+            <para>
+                <table frame="all">
+                    <title>Lord and Lady</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                        <thead>
+                            <row>
+                                <entry>Lord</entry>
+                                <entry>Lady</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Tor (Warrior, Young Buck) </entry>
+                                <entry>Sif ( Warrior and Maiden)</entry>
+                            </row>
+                            <row>
+                                <entry>... (Craftsman, Father, Provider) </entry>
+                                <entry>Freya (Hunter and Mother)</entry>
+                            </row>
+                            <row>
+                                <entry>Otin (Wiseman, Judge, Player of the Great Games)</entry>
+                                <entry>.... (Crone)</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></para>
+            <section>
+                <title>Clans</title>
+                <simplelist>
+                    <member>Bear- Bjørn</member>
+                    <member>Hawk - Høgen</member>
+                    <member>Eagle - ørnen</member>
+                    <member>Hell Pig - helvede svin</member>
+                    <member>Dire Beast - dystre Udyret</member>
+                    <member>Dire Cat - dystre Kat</member>
+                    <member>Fisher Cat - fisker Kat</member>
+                    <member>Dire Wolf - dystre Ulv</member>
+                    <member>Wooly Mammoth - ulden mammut</member>
+                    <member>Wolf - ulv</member>
+                    <member>Raptor - rovfugl</member>
+                    <member>Dark Wolf - mørke Ulv</member>
+                    <member>Boar - vildsvin</member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Vocabulary</title>
+                <simplelist>
+                    <member>Bear- Bjørn</member>
+                    <member>Ham 			Village</member>
+                    <member>Tun       Enclosure</member>
+                    <member>wich      Dwelling</member>
+                    <member> Holt      Hold or Holding</member>
+                    <member>Worth     Homestead</member>
+                    <member>Denn			pasture, e.g. Marden - 'the mares pasture'; </member>
+                    <member>Hyrst 		Wooded hill</member>
+                    <member>Ford       river ford</member>
+                    <member>Burn       stream</member>
+                    <member>mere       pool or lake</member>
+                    <member>Staak     hamlet </member>
+                    <member>Dun       hill</member>
+                    <member>Monandæg (the day of the moon)</member>
+                    <member>Tiwesdæg (the day of the god Tiw or Tig)</member>
+                    <member>Wodnesdæg (the day of the god Woden)</member>
+                    <member>Ðunresdæg (the day of the god Ðunor or Thunor)</member>
+                    <member>Frigedæg (the day of the goddess Friga)</member>
+                    <member>Sæternesdæg (the day of the Roman god Saturn)</member>
+                    <member>Sunnandæg (the day of the sun)</member>
+                    <member>faeder, moder, sunu, dohtor, sweoster, brothor</member>
+                    <member>beck		brook</member>
+                    <member>skali    hut</member>
+                    <member>Bear                              Bjørn   </member>
+                    <member>Hawk                              Høgen   </member>
+                    <member>Eagle                             ørnen</member>
+                    <member>Hell Pig                          helvede svin</member>
+                    <member>Dire Beast                        dystre Udyret</member>
+                    <member>Dire Cat                          dystre Kat</member>
+                    <member>Fisher Cat                        fisker Kat </member>
+                    <member>Dire Wolf                         dystre Ulv</member>
+                    <member>Wooly Mammoth                     ulden mammut</member>
+                    <member>Wolf                              Ulv  </member>
+                    <member>Raptor                            rovfugl   </member>
+                    <member>Dark Wolf                         mørke Ulv  </member>
+                    <member>Boar                              vildsvin  </member>
+                    <member>Honey Badger                      honning grævling</member>
+                    <member>Wolverine                         jærv </member>
+                </simplelist>
+            </section>
+            <section>
+                <title>Typical Names</title>
+                <simplelist>
+                    <member>                    Erik
+                        Freda
+                        Harald
+                        Helga
+                        Karl 
+                        Wulfstan
+                        Godwin
+                        Ælfgifu
+                        Arnbjorn
+                        Guthrum
+                        Halfdan
+                        Snorri
+                        Arnbjorg
+                        Gerd 
+                        Gudrun</member>
+
+                </simplelist>
+            </section>
+
+
+        </chapter>
+
+
+        <chapter>
+            <title>Culture/Race</title>
+            <para/>
+            <section>
+                <title>Summary</title>
+                <para/>
+            </section>
+
+
+            <section>
+                <title>External Influences </title>
+            </section>
+
+            <section>
+                <title>Geography</title>
+                <formalpara>
+                    <title>What is the climate?</title>
+                    <para/>
+                </formalpara>
+                <formalpara>
+                    <title>What of this suit resources for survival?</title>
+                    <para/>
+                </formalpara>
+                <formalpara>
+                    <title>What kind of clothes and shelter are needed</title>
+                    <para/>
+                </formalpara>
+                <formalpara>
+                    <title>what kind of food can be so grown, hunted, caught? </title>
+                    <para/>
+                </formalpara>
+                <formalpara>
+                    <title>What kinds of natural phenomenon might influence beliefs?</title>
+                    <para/>
+                </formalpara>
+                <formalpara>
+                    <title>Does the climate allow only survival activities or is there for leisure developments such as art philosophy etc.?</title>
+                    <para/>
+                </formalpara>
+            </section>
+            <section>
+                <title>History</title>
+                <formalpara>
+                    <title>Events in History</title>
+                    <para/>
+                </formalpara>
+            </section>
+            <section>
+                <title>Static Forces</title>
+                <formalpara>
+                    <title>Static Force</title>
+                    <para/>
+                </formalpara>
+            </section>
+            <section>
+                <title>Dynamic Forces</title>
+                <formalpara>
+                    <title>Dynamic Force</title>
+                    <para/>
+                </formalpara>
+            </section>
+            <section>
+                <title>Interactions with other cultures</title>
+                <formalpara>
+                    <title>Events in History</title>
+                    <para/>
+                </formalpara>
+            </section>
+            <section role="gm">
+                <title>Internal Influences </title>
+                <section>
+                    <title>Economics</title>
+                </section>
+                <section>
+                    <title>Social</title>
+                </section>
+                <section>
+                    <title>Belief</title>
+                </section>
+                <section>
+                    <title>Political</title>
+                </section>
+                <section>
+                    <title>Aesthetic</title>
+                </section>
+            </section>
+
+        </chapter>
+    </book>
+
+    <book xml:id="tanah-cultures">
+        <title>The Cultures</title>
+        <chapter>
+            <title/>
+        </chapter>
+    </book>
+
+</set>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Book of the merovaX</title>
+        <author>
+            <orgname>Jim Mochel</orgname>
+            <address>
+                <city>Bellingham, MA</city>
+                <street>7 Walter Morse Rd</street>
+                <postcode>02019</postcode>
+                <country>USA</country>
+            </address>
+            <email>jmochel@saltations.org</email>
+        </author>
+    </info>
+    <chapter xml:id="merova-culture-physical-environment">
+        <title>Physical Environment</title>
+        <para>The physical environment (climate, landscape, resources) 
+            shapes cultural practices, such as food, clothing, and housing.</para>
+        <section xml:id="merova-culture-physical-environment-geography">
+            <title>Geography</title>
+            <para>The geography is filled with rugged hills and valleys.
+                It is bounded on the western boundary by a sheer mountain range with a few passes through to the vallys to the west.
+                There are morraines, high ridges formed from glacial debris especially in the northernn areas of Merova. The southern islands expecially
+                are composed of that kind of morraines. Many of those morraines have ridges cut out by meltwater streams often 
+                framed by large boulders at the base.  There is a significant number of valleys filled with rivers, lakes and ponds.  
+            </para>
+            <para>
+            Glacial till (a mix of sand, clay, gravel, and rocks) left behind poor, rocky soil in much of the region, though river valleys often have fertile floodplains.
+            </para>
+            <para>The southern and eastern border are edged in rocky coastline with peninsulas, islands, and estuaries.
+                As glaciers melted, sea levels rose, flooding coastal areas and creating features like bays and islands.
+                There are two large bays in the region,  Meara Harbor, and Badger Bay (Narragensat).
+                Merova is easily accessed via small boats throughout the coast.</para>
+            <para>There are a set of east to west and north to south roads of solid construction. The largest is the <emphasis>King's Road</emphasis>
+                which is a 16m wide road that runs from Meara Harbor in the east to the Great Doors in the westward pass. 
+                The roads are built with layered construction. The <emphasis>King's Road</emphasis> has 1-2m high walls on each edge. Periodically there 
+                is a <emphasis>Trivium</emphasis>, a widened plaza with some combination of stone benches, walled stalls, and fountains. Often the 
+                road rises up on elevated structures consisting of a series of arches, spans, or piers designed to carry a road over a valley, lowland, 
+                or other obstacles like rivers and wetlands. 
+            </para>
+            <para>
+                The roads are built with a slight arch or camber to allow water to run off into ditches on either side, preventing flooding and erosion.
+                Deep side ditches collect and direct rainwater away from the road with culverts and drainage pipes were built under the road when needed.
+            </para>
+            <para>The roads enable a very high rate of individual and cargo travel.</para>
+        </section>    
+        <section xml:id="merova-culture-physical-environment-climate">
+            <title>Climate</title>
+            <para>The climate is characterized by four distinct seasons, 
+                including cold winters, warm summers, and moderate precipitation 
+                throughout the year. The region’s climate is influenced by its 
+                latitude, proximity to the Ocean, and varying topography.
+            </para>
+            <formalpara>
+                <title>Winter</title>
+                <para>
+                    Winters are cold and dry inland but moderated along the coast by the Ocean.
+                    Averages range from 10°F to 30°F (-12°C to -1°C) in the 
+                    north and 20°F to 40°F (-6°C to 4°C) in southern coastal areas.
+                    Subzero temperatures are common in the northern regions, especially at night.
+                    Heavy snowfalls are typical, with annual snow accumulations of 60–100 inches (1.5–2.5 meters) in the northern and mountainous areas.
+                    Coastal areas receive less snow but can experience intense nor’easters (winter storms bringing snow, wind, and coastal flooding).
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Spring</title>
+                <para>Gradual warming, with highs ranging from 40°F (4°C) in March to 70°F (21°C) in May. Rainfall increases, and melting snow can lead to flooding in some areas.
+                    Spring is often unpredictable, with a mix of snow, rain, and warm, sunny days. Budding trees and blooming flowers mark the season.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Summer</title>
+                <para> (June to August). Daytime highs average 75°F to 85°F (24°C to 29°C) across the region, with 
+                    cooler temperatures in the mountains and along the coast.
+                    Heatwaves can push temperatures above 90°F (32°C), especially inland.
+                    Summers are humid, especially in southern Merova.
+                    Frequent thunderstorms, particularly in the late afternoon and evening.
+                    Summers are warm and humid, with plenty of sunny days for outdoor activities.</para>
+            </formalpara>
+            <formalpara>
+                <title>Autumn</title>
+                <para>(September to November).
+                    Crisp, cool weather with clear skies makes autumn one of the most popular seasons in Merova
+                    Cooling from 70°F (21°C) in September to 40°F (4°C) by November.
+                Has vibrant fall foliage, with trees displaying brilliant shades of red, orange, and yellow. 
+                </para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-resources">
+            <title>Resources</title>
+            <formalpara>
+                <title>Rivers and Streams</title>
+                <para>Abundant rivers are used for transportation, trade, and as sources of fresh water.
+                Fast-flowing rivers power water mills for grinding grain and sawing lumber.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Coastal Waters</title>
+                <para>The ocean provides opportunities for near shore fishing, some deep sea fishing, and trade.
+                Bays and harbors, like Meara Harbor, supported shipbuilding and commercial activity.
+                Merova's waters, particularly the Grand Banks, are rich in cod, which are a cornerstone of the economy.
+                Lobsters, clams, and oysters are also significant food and trade sources.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Soil and Agriculture</title>
+                <para>The soil is rocky and less fertile compared to the southern polities, making large-scale farming difficult.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Granite and Slate</title>
+                <para>Abundant, used for building foundations, mills, and gravestones..
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Iron Ore</title>
+                <para>Found in bogs and streams, iron is smelted for tools, nails, and household items.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Gold</title>
+                <para>...
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Tourmaline</title>
+                <para>...
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para>What replaces Whale Oil</para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-flora-wild-trees">
+            <title>Wild Trees</title>
+            <para>Heavily forested, with a mix of coniferous and deciduous trees.
+                The types of trees varied based on the region's soil, climate, and elevation. 
+                Below are some of the most common trees found in Merova.</para>
+            <formalpara>
+                <title>White Pine</title>
+                <para>A tall, straight tree growing up to 200 feet, with soft, lightweight wood. 
+                    Highly valued for ship masts as well as 
+                    Timber for construction, furniture, and export.
+                    Resin used for making pitch and tar.</para>
+            </formalpara>
+            <formalpara>
+                <title>Spruce</title>
+                <para>                
+                Medium-sized evergreen trees with dense, needle-like foliage.
+                Timber for building and ship planking.
+                Resin for pitch and tar.
+                Native Borne Spruce beer made from its needles
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Hemlock</title>
+                <para>A shade-tolerant evergreen tree with soft needles and scaly bark.
+                    Bark used for tanning leather (high tannin content).
+                    Wood for framing and fuel</para>
+            </formalpara>
+            <formalpara>
+                <title>Fir</title>
+                <para>A fragrant evergreen with short, soft needles.
+                    Firewood and basic construction.
+                    Resin used for medicinal purposes and sealing.</para>
+            </formalpara>
+            <formalpara>
+                <title>Oak</title>
+                <para> A strong, durable hardwood tree with many species, such as white oak and red oak.
+                    Shipbuilding (hulls, keels, and frames).
+                    Furniture, tools, barrels (cooperage), and construction.
+                    Firewood, as it burns long and hot.</para>
+            </formalpara>
+            <formalpara>
+                <title>Maple</title>
+                <para>A medium-sized tree known for its striking autumn foliage and sweet sap.
+                    Sap for making maple syrup and sugar.
+                    Wood for furniture, tools, and flooring.</para>
+            </formalpara>
+            <formalpara>
+                <title>Birch</title>
+                <para>A fast-growing hardwood tree with white, yellow, or gray bark.
+                    Wood for furniture, tools, and firewood.
+                    Bark used by Native Americans for canoes and containers.</para>
+            </formalpara>
+            <formalpara>
+                <title>Beech</title>
+                <para>A large, smooth-barked hardwood tree.
+                    Durable wood for furniture and tools.
+                    Nuts provided food for wildlife and humans.</para>
+            </formalpara>
+            <formalpara>
+                <title>Chestnut</title>
+                <para>A tall hardwood tree producing edible nuts.
+                    Timber for building, as it was resistant to rot.
+                    Nuts were a significant food source for colonists and livestock.</para>
+            </formalpara>
+            <formalpara>
+                <title>Elm</title>
+                <para>
+                    A tall, graceful tree with a spreading canopy.
+                    Wood for wheel hubs, furniture, and construction.
+                    Popular for shade and ornamental purposes in colonial towns.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Ash</title>
+                <para>A tall, straight tree with strong, flexible wood.
+                    Handles for tools, baseball bats, and other items requiring durability.
+                    Construction and firewood.</para>
+            </formalpara>
+            <formalpara>
+                <title>Hickory</title>
+                <para>Valued for its strong wood and as fuel for high-heat fires.</para>
+            </formalpara>
+            <formalpara>
+                <title>Willow</title>
+                <para>Found along rivers and wetlands, used for baskets and medicinal purposes.</para>
+            </formalpara>
+            <formalpara>
+                <title>Poplar</title>
+                <para> Used for light construction and firewood</para>
+            </formalpara>
+            <formalpara>
+                <title>Black Walnut</title>
+                <para>They are found primarily in southernMerova, though less commonly in the northern parts of the region due to colder temperatures.
+                    Produces edible nuts enclosed in a green husk. Eaten by colonists and used as a food source,
+                    though extracting the meat from the tough shells was labor-intensive. Highly prized for its rich, dark color, black walnut wood was used for furniture, cabinetry, and gunstocks.
+                    The husks of the nuts were used to produce a dark brown dye.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Butternut (White Walnut)</title>
+                <para>More common than black walnut in northern parts of Merova, as it is better adapted to colder climates.
+                    Wood: Used for furniture, paneling, and small crafts, though it was softer and less durable than black walnut.
+                    Nuts: Butternut nuts were sweeter and easier to process than black walnuts, making them a popular food source.
+                    Dye: The husks were used to create a yellowish-brown dye.
+                </para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-flora-cultivated-trees">
+            <title>Cultivated Trees</title>
+            <formalpara>
+                <title>Apple</title>
+                <para>
+                    Apples were grown for eating, cooking, and fermenting into cider (a staple beverage).
+                    Seeds and saplings were brought by Merova settlers and quickly became a staple of agriculture.
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>Pear</title>
+                <para>Cultivated for eating and cooking, though less popular than apples.
+                    Hardy and adaptable to Merova's climate</para>
+            </formalpara>
+            <formalpara>
+                <title>Cherry</title>
+                <para> Valued for their fruit and ornamental appeal.Sweet cherries and sour cherries were both introduced by Merovan settlers
+                </para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-flora-wild-plants">
+            <title>Wild Plants</title>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-flora-cultivated-plants">
+            <title>Cultivated Plants</title>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>XXX</title>
+                <para></para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-wild-fauna">
+            <title>Wild Fauna</title>
+            <para>The wild ecology looks like..</para>
+            <para>The predators are...</para>
+            <para>Their prey are...</para>
+            <para>The nuisance creatures are...</para>
+            <para>The wild animals that are hunted for food are..</para>     
+            <para>The wild animals that are hunted for fur are..</para>  
+            <para>The wild animals that are hunted for other reasons are..</para>  
+            <para>The sacred wild animals are..</para> 
+            <para>Which animals are used in medicine.</para>
+            <para>What animals are used for poisons.</para>
+            <para>What wild animals, actual or imaginary, live in this area? </para>
+            <para>Are any of them potentially useful — e.g., for fur, whale oil,
+                hides, magical ingredients, hat feathers?</para>
+            <para>Which animals, actual or imaginary, are commonly domesticated in
+                this area? </para>
+            <para>Which aren’t here, but are elsewhere? (Example: water buffalo in
+                India vs. oxen in Europe vs. camels in desert areas.)</para>
+            <para>If there are imaginary animals (dragons, unicorns, etc.), how do
+                they fit into the ecology? </para>
+            <para>What do they eat? How much habitat do they require? </para>
+            <para>Can they live anywhere, or do they prefer or need specific kinds of
+                climate or terrain? </para>
+            <para>Are they intelligent and/or capable of working spells, talking,
+                etc.?</para>
+            <formalpara>
+                <title>Fisher Cats</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>Beaver</title>
+                <para></para>
+            </formalpara>
+            <formalpara>
+                <title>Catamount</title>
+                <para></para>
+            </formalpara>
+            
+        </section>
+        <section xml:id="merova-culture-physical-environment-cultivated-fauna">
+            <title>Cultivated Fauna</title>
+            <para>The sacred domesticated animals are..</para>
+            <para>The domesticated food animals are..</para>   
+            <para>The domesticated fur or clothes animals are..</para>
+            <para>The animals domesticated for other purposes are..</para>   
+            <para>The pets animals..</para>   
+            <para>Which animals are used in medicine.</para>
+            <para>What animals are used for poisons.</para>
+            <para>Which animals, actual or imaginary, are commonly domesticated in
+                this area? </para>
+            <para>Which aren’t here, but are elsewhere? (Example: water buffalo in
+                India vs. oxen in Europe vs. camels in desert areas.)</para>
+            <para>What do they eat? How much habitat do they require? </para>
+            <para>Can they live anywhere, or do they prefer or need specific kinds of
+                climate or terrain? </para>
+            <formalpara>
+                <title>Dogs</title>
+                <para>Several breeds brough by Merova settlers</para>
+            </formalpara>
+            <formalpara>
+                <title>Horses</title>
+                <para>Several breeds brough by Merova settlers.Used for transportation, pulling wagons and plows.</para>
+            </formalpara>
+            <formalpara>
+                <title>Cattle</title>
+                <para>Several breeds brough by Merova settlers.Used for meat, and farmers trained oxen to pull heavier loads.</para>
+            </formalpara>
+            <formalpara>
+                <title>Pigs</title>
+                <para>Several breeds brough by Merova settlers.</para>
+            </formalpara>
+            <formalpara>
+                <title>Sheep</title>
+                <para>Several breeds brough by Merova settlers.</para>
+            </formalpara>
+            <formalpara>
+                <title>Chickens</title>
+                <para> Raised in coops</para>
+            </formalpara>
+            <formalpara>
+                <title>Ducks</title>
+                <para> Raised in fenced-in yards</para>
+            </formalpara>
+            <formalpara>
+                <title>Otters</title>
+                <para>Tamed by settlers after they arrived in Merova</para>
+            </formalpara>
+            <formalpara>
+                <title>Beavers</title>
+                <para>Tamed by settlers after they arrived in Merova</para>
+            </formalpara>
+        </section>
+        <section xml:id="merova-culture-physical-environment-esoterica">
+            <title>Esoterica</title>
+            <para>Magical resources are ....</para>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-history">
+        <title>History</title>
+        <para>A culture’s history, including colonization, wars, migrations, and revolutions, impacts its identity and traditions..</para>
+        <section xml:id="merova-culture-history-prehistory">
+            <title>Pre History</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-history-zzz2">
+            <title>ZZZ</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-history-zzz3">
+            <title>ZZZ</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-history-zzz4">
+            <title>ZZZ</title>
+            <para></para>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-external-influences">
+        <title>External Influences</title>
+        <para> .</para>
+        <section xml:id="merova-culture-external-influences-zzz1">
+            <title>Other Cultures</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-external-influences-zzz2">
+            <title>Economic</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-external-influences-zzz3">
+            <title>Other Religions</title>
+            <para></para>
+        </section>
+        <section xml:id="merova-culture-external-influences-zzz4">
+            <title>ZZZ</title>
+            <para></para>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-beliefs-and-values">
+        <title>Beliefs and Values</title>
+        <para>
+            The foundational principles and ideas that a culture holds to be true or important.
+            Examples: Concepts of morality, spirituality, freedom, equality, or honor.
+        </para>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>Memes</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-language-and-communication">
+        <title>Language and Communication</title>
+        <para>The primary means of communication, including spoken and written languages, dialects, and non-verbal cues (gestures, body language, etc.).
+            Language often reflects cultural priorities (e.g., Inuit languages have multiple words for snow).</para>
+        <section xml:id="merova-culture-language-and-communication-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-customs-and-traditions">
+        <title>Customs and Traditions</title>
+        <para> Rituals, ceremonies, and practices passed down through generations.
+            Examples: Religious ceremonies, holidays, marriage customs, and rites of passage</para>
+        <section xml:id="merova-culture-customs-and-traditions-birth">
+            <title>Birth</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-customs-and-traditions-children">
+            <title>Children</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-customs-and-traditions-young-adults">
+            <title>Young Adult</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-customs-and-traditions-old-age">
+            <title>Old Age</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-customs-and-traditions-death">
+            <title>Death</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-social-norms-and-behaviors">
+        <title>Social Norms and Behaviors</title>
+        <para>Unwritten rules that govern acceptable behavior in a society.
+            Examples: Greetings, table manners, dress codes, and etiquette.</para>
+        <section xml:id="merova-culture-social-norms-and-behaviors-birth">
+            <title>Birth</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-social-norms-and-behaviors-children">
+            <title>Children</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-social-norms-and-behaviors-yound-adults">
+            <title>Young Adult</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-social-norms-and-behaviors-old-age">
+            <title>Old Age</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-social-norms-and-behaviors-death">
+            <title>Death</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-art-and-aesthetics">
+        <title>Art and Aesthetics</title>
+        <para>Forms of creative expression, including art, music, literature, dance, and architecture.
+            Reflects the culture's sense of beauty, symbolism, and storytelling.</para>
+        <section xml:id="merova-culture-art-and-aesthetics-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-religion-and-spirituality">
+        <title>Religion and Spirituality</title>
+        <para>Beliefs about the divine, the sacred, and humanity’s place in the universe.
+            Includes organized religions and informal spiritual practices.</para>
+        <section xml:id="merova-culture-religion-and-spirituality-dieties">
+            <title>Deities</title>
+            <para/>
+        </section>
+        <section xml:id="merova-culture-religion-and-spirituality-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-food-and-cuisine">
+        <title>Food and Cuisine</title>
+        <para>The types of food a culture prepares, how it is cooked, and its significance in social or ceremonial contexts.
+            Example: Mediterranean cultures are known for olive oil and seafood, while Japanese cuisine emphasizes rice and fish.</para>
+        <section xml:id="merova-culture-food-and-cuisine-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-social-organization">
+        <title>Social Organization</title>
+        <para>How a culture structures relationships and roles in society.
+            Includes family dynamics, gender roles, class systems, and community hierarchies</para>
+        <section xml:id="merova-culture-social-organization-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-technology-and-material">
+        <title>Technology and Material Culture</title>
+        <para>Tools, technology, and objects a culture creates and uses.
+            Example: Clothing styles, architecture, transportation, and tools reflect cultural adaptation to the environment.</para>
+        <section xml:id="merova-culture-technology-and-material-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-economics-and-trade">
+        <title>Economics and Trade</title>
+        <para>How resources are produced, distributed, and consumed.
+            Examples: Subsistence farming, industrial economies, or global trade networks.</para>
+        <section xml:id="merova-culture-economics-and-trade-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="merova-culture-esoterica">
+        <title>Esoterica</title>
+        <para>Tools, technology, and objects a culture creates and uses.
+            Example: Clothing styles, architecture, transportation, and tools reflect cultural adaptation to the environment.</para>
+        <section xml:id="merova-culture-esoterica-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+</book>
