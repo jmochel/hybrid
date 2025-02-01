@@ -2,7 +2,7 @@
 <?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title>Book of the XXXX</title>
+        <title>Book of the BitadariX</title>
         <author>
             <orgname>Jim Mochel</orgname>
             <address>
@@ -14,9 +14,9 @@
             <email>jmochel@saltations.org</email>
         </author>
     </info>
-    <chapter xml:id="xxx-overview">
+    <chapter xml:id="bitadar-overview">
         <title>Overview</title>
-        <subtitle>xxx</subtitle>
+        <subtitle>The Bitadar are bright and terrifying, dark and terrifying, or just terrifying</subtitle>
         <para>
             Cultures are comprised of people:
             <simplelist>
@@ -46,11 +46,11 @@
         </para>
         <para>...</para>
     </chapter>
-    <chapter xml:id="xxx-culture-physical-environment">
+    <chapter xml:id="bitadar-culture-physical-environment">
         <title>Physical Environment</title>
         <para>The physical environment (climate, landscape, resources) 
             shapes cultural practices, such as food, clothing, and housing.</para>
-        <section xml:id="xxx-culture-physical-environment-geography">
+        <section xml:id="bitadar-culture-physical-environment-geography">
             <title>Geography</title>
             <para>
                 <itemizedlist>
@@ -81,7 +81,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-physical-environment-climate">
+        <section xml:id="bitadar-culture-physical-environment-climate">
             <title>Climate</title>
             <para>
                 <itemizedlist>
@@ -123,7 +123,7 @@
                 <para>Averages temp range. Precipation..</para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-resources">
+        <section xml:id="bitadar-culture-physical-environment-resources">
             <title>Resources</title>
             <para>
                 <itemizedlist>
@@ -173,12 +173,12 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para>.
                 </para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-wild-trees">
+        <section xml:id="bitadar-culture-physical-environment-flora-wild-trees">
             <title>Wild Trees</title>
             <para>
                 <itemizedlist>
@@ -192,11 +192,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para>.</para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-cultivated-trees">
+        <section xml:id="bitadar-culture-physical-environment-flora-cultivated-trees">
             <title>Cultivated Trees</title>
             <para>
                 <itemizedlist>
@@ -217,7 +217,7 @@
                 </para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-wild-plants">
+        <section xml:id="bitadar-culture-physical-environment-flora-wild-plants">
             <title>Wild Plants</title>
             <para>
                 <itemizedlist>
@@ -231,11 +231,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-cultivated-plants">
+        <section xml:id="bitadar-culture-physical-environment-flora-cultivated-plants">
             <title>Cultivated Plants</title>
             <para>
                 <itemizedlist>
@@ -249,11 +249,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-wild-fauna">
+        <section xml:id="bitadar-culture-physical-environment-wild-fauna">
             <title>Wild Fauna</title>
             <para>
                 <itemizedlist>
@@ -312,11 +312,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-cultivated-fauna">
+        <section xml:id="bitadar-culture-physical-environment-cultivated-fauna">
             <title>Cultivated Fauna</title>
             <para>
                 <itemizedlist>
@@ -375,11 +375,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Bitadari</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-esoterica">
+        <section xml:id="bitadar-culture-physical-environment-esoterica">
             <title>Esoterica</title>
             <para>Magical resources are ....</para>
             <para>
@@ -395,8 +395,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-history">
-        <title>XXX History</title>
+    <chapter xml:id="bitadar-culture-history">
+        <title>Bitadari History</title>
         <para>A culture’s history, including colonization, wars, migrations, and revolutions, impacts its identity and traditions..</para>
         <para>
             <itemizedlist>
@@ -530,12 +530,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-history-prehistory">
-            <title>XXX Pre History</title>
+        <section xml:id="bitadar-culture-history-prehistory">
+            <title>Bitadari Pre History</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-history-meme">
-            <title>XXX Historical Memes</title>
+        <section xml:id="bitadar-culture-history-meme">
+            <title>Bitadari Historical Memes</title>
             <para>
                 <itemizedlist>
                     <title>Razors for Distinguishing</title>
@@ -551,16 +551,16 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-history-zzz3">
-            <title>XXX ZZZ</title>
+        <section xml:id="bitadar-culture-history-zzz3">
+            <title>Bitadari ZZZ</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-history-zzz4">
-            <title>XXX ZZZ</title>
+        <section xml:id="bitadar-culture-history-zzz4">
+            <title>Bitadari ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-external-influences">
+    <chapter xml:id="bitadar-culture-external-influences">
         <title>External Influences</title>
         <para>
             <itemizedlist>
@@ -573,25 +573,25 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-external-influences-zzz1">
+        <section xml:id="bitadar-culture-external-influences-zzz1">
             <title>Other Cultures</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz2">
+        <section xml:id="bitadar-culture-external-influences-zzz2">
             <title>Economic</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz3">
+        <section xml:id="bitadar-culture-external-influences-zzz3">
             <title>Other Religions</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz4">
+        <section xml:id="bitadar-culture-external-influences-zzz4">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-beliefs-and-values">
-        <title>XXX Beliefs and Values</title>
+    <chapter xml:id="bitadar-culture-beliefs-and-values">
+        <title>Bitadari Beliefs and Values</title>
         <para>
             The foundational principles and ideas that a culture holds to be true or important.
             Examples: Concepts of morality, spirituality, freedom, equality, or honor.
@@ -626,7 +626,7 @@
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-language-and-communication">
+    <chapter xml:id="bitadar-culture-language-and-communication">
         <title>Language and Communication</title>
         <para>The primary means of communication, including spoken and written languages, dialects, and non-verbal cues (gestures, body language, etc.).
             Language often reflects cultural priorities (e.g., Inuit languages have multiple words for snow).</para>
@@ -746,13 +746,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-language-and-communication-zzz">
+        <section xml:id="bitadar-culture-language-and-communication-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-social-norms-and-behaviors">
-        <title>XXX Social Norms and Behaviors</title>
+    <chapter xml:id="bitadar-culture-social-norms-and-behaviors">
+        <title>Bitadari Social Norms and Behaviors</title>
         <para>The social mores and unwritten rules that govern acceptable behavior in a society.
             Examples: Greetings, table manners, dress codes, and etiquette.</para>
         <para>
@@ -766,7 +766,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-general-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-general-social-traditions">
             <title>General Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -777,7 +777,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-general-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-general-rituals">
             <title>General Social Rituals</title>
             <para>
                 <itemizedlist>
@@ -788,7 +788,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-birth-social-traditions">
             <title>Childbirth Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -853,7 +853,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-birth-rituals">
             <title>Childbirth Rituals</title>
             <para>
                 <itemizedlist>
@@ -870,7 +870,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-expectations">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-birth-expectations">
             <title>Childbirth Expectations</title>
             <para>
                 <itemizedlist>
@@ -884,7 +884,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-success-vs-failure">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-birth-success-vs-failure">
             <title>Childbirth Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -904,7 +904,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-social-traditions">
             <title>Childhood Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -933,7 +933,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-rituals">
             <title>Childhood Rituals</title>
             <para>
                 <itemizedlist>
@@ -945,7 +945,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-expectations">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-expectations">
             <title>Childhood Expectations</title>
             <para>
                 <itemizedlist>
@@ -971,7 +971,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-value-of-learning">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-value-of-learning">
             <title>Value of Education</title>
             <para>
                 <itemizedlist>
@@ -1030,7 +1030,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-why">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-why">
             <title>Why?</title>
             <para>
                 <itemizedlist>
@@ -1044,7 +1044,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-success-vs-failure">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-childhood-success-vs-failure">
             <title>Childhood Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1070,7 +1070,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-social-traditions">
             <title>Young Adult Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1096,7 +1096,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-rituals">
             <title>Young Adult Rituals</title>
             <para>
                 <itemizedlist>
@@ -1164,7 +1164,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-expectations-of-work">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-expectations-of-work">
             <title>Young Adult Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1196,7 +1196,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-expectations-of-sex">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-expectations-of-sex">
             <title>Young Adult Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1225,7 +1225,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-conformism-and-rebellion">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-conformism-and-rebellion">
             <title>Young Adult Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1242,7 +1242,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-success-vs-failure">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-young-adult-success-vs-failure">
             <title>Young Adult Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1262,7 +1262,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-adulthood-social-traditions">
             <title>Adulthood Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1312,7 +1312,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-adulthood-rituals">
             <title>Adulthood Rituals</title>
             <para>
                 <itemizedlist>
@@ -1375,7 +1375,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-expectations-of-work">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-adulthood-expectations-of-work">
             <title>Adulthood Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1412,7 +1412,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-expectations-of-sex">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-adulthood-expectations-of-sex">
             <title>Adulthood Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1449,7 +1449,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-conformism-and-rebellion">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-adulthood-conformism-and-rebellion">
             <title>Adulthood Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1478,7 +1478,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-social-traditions">
             <title>Old Age Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1504,7 +1504,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-rituals">
             <title>Old Age Rituals</title>
             <para>
                 <itemizedlist>
@@ -1569,7 +1569,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-expectations-of-work">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-expectations-of-work">
             <title>Old Age Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1604,7 +1604,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-expectations-of-sex">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-expectations-of-sex">
             <title>Old Age Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1633,7 +1633,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-conformism-and-rebellion">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-conformism-and-rebellion">
             <title>Old Age Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1681,7 +1681,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-success-vs-failure">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-old-age-success-vs-failure">
             <title>Old Age Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1701,7 +1701,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-social-traditions">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-death-social-traditions">
             <title>Death Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1728,7 +1728,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-rituals">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-death-rituals">
             <title>Death Rituals</title>
             <para>
                 <itemizedlist>
@@ -1749,7 +1749,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-expectations">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-death-expectations">
             <title>Death Expectations</title>
             <para>
                 <itemizedlist>
@@ -1766,7 +1766,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-success-vs-failure">
+        <section xml:id="bitadar-culture-social-norms-and-behaviors-death-success-vs-failure">
             <title>Death Success or Failure</title>
             <para>
                 <emphasis>Razors</emphasis>Razors
@@ -1784,8 +1784,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-social-organization">
-        <title>XXX Social Organization</title>
+    <chapter xml:id="bitadar-culture-social-organization">
+        <title>Bitadari Social Organization</title>
         <para>How a culture structures relationships and roles in society.
             Includes family dynamics, gender roles, class systems, and community hierarchies</para>
         <para>
@@ -2014,7 +2014,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-social-organization-power">
+        <section xml:id="bitadar-culture-social-organization-power">
             <title>Power</title>
             <para>
                 <itemizedlist>
@@ -2031,7 +2031,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-government-type">
+        <section xml:id="bitadar-culture-social-organization-government-type">
             <title>Type of Government</title>
             <para>
                 <itemizedlist>
@@ -2082,7 +2082,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-government-executive-power">
+        <section xml:id="bitadar-culture-social-organization-government-executive-power">
             <title>Executive Power</title>
             <para>
                 <itemizedlist>
@@ -2138,7 +2138,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-legislative-power">
+        <section xml:id="bitadar-culture-social-organization-legislative-power">
             <title>Legislative Power</title>
             <para>
                 <itemizedlist>
@@ -2164,7 +2164,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-judicial-power">
+        <section xml:id="bitadar-culture-social-organization-judicial-power">
             <title>Judicial Power</title>
             <para>
                 <itemizedlist>
@@ -2208,7 +2208,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-surreptitious-power">
+        <section xml:id="bitadar-culture-social-organization-surreptitious-power">
             <title>Surreptitious Power</title>
             <para>
                 <itemizedlist>
@@ -2237,7 +2237,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-zzz3">
+        <section xml:id="bitadar-culture-social-organization-zzz3">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2249,8 +2249,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-clothing">
-        <title>XXX Clothing</title>
+    <chapter xml:id="bitadar-culture-clothing">
+        <title>Bitadari Clothing</title>
         <para>
             <itemizedlist>
                 <title>Razors for Distinguishing</title>
@@ -2380,13 +2380,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-clothing-birth">
-            <title>XXX</title>
+        <section xml:id="bitadar-culture-clothing-birth">
+            <title>Bitadari</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-art-and-aesthetics">
-        <title>XXX Art and Aesthetics</title>
+    <chapter xml:id="bitadar-culture-art-and-aesthetics">
+        <title>Bitadari Art and Aesthetics</title>
         <para>Forms of creative expression, including art, music, literature, dance, and architecture.
             Reflects the culture's sense of beauty, symbolism, and storytelling.</para>
         <para>
@@ -2568,7 +2568,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-art-and-aesthetics-art">
+        <section xml:id="bitadar-culture-art-and-aesthetics-art">
             <title>Art</title>
             <para>
                 <itemizedlist>
@@ -2579,7 +2579,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-music">
+        <section xml:id="bitadar-culture-art-and-aesthetics-music">
             <title>Music</title>
             <para>
                 <itemizedlist>
@@ -2590,7 +2590,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-dance">
+        <section xml:id="bitadar-culture-art-and-aesthetics-dance">
             <title>Dance</title>
             <para>
                 <itemizedlist>
@@ -2601,7 +2601,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-zzz">
+        <section xml:id="bitadar-culture-art-and-aesthetics-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2613,8 +2613,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-religion-and-spirituality">
-        <title>XXX Religion and Spirituality</title>
+    <chapter xml:id="bitadar-culture-religion-and-spirituality">
+        <title>Bitadari Religion and Spirituality</title>
         <para>Beliefs about the divine, the sacred, and humanity’s place in the universe.
             Includes organized religions and informal spiritual practices.</para>
         <para>
@@ -2625,7 +2625,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-religion-and-spirituality-dieties">
+        <section xml:id="bitadar-culture-religion-and-spirituality-dieties">
             <title>Deities</title>
             <para>
                 <itemizedlist>
@@ -2636,7 +2636,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-religion-and-spirituality-zzz">
+        <section xml:id="bitadar-culture-religion-and-spirituality-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2648,8 +2648,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-food-and-cuisine">
-        <title>XXX Food and Cuisine</title>
+    <chapter xml:id="bitadar-culture-food-and-cuisine">
+        <title>Bitadari Food and Cuisine</title>
         <para>The types of food a culture prepares, how it is cooked, and its significance in social or ceremonial contexts.
             Example: Mediterranean cultures are known for olive oil and seafood, while Japanese cuisine emphasizes rice and fish.</para>
         <para>
@@ -2660,7 +2660,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-food-and-cuisine-zzz">
+        <section xml:id="bitadar-culture-food-and-cuisine-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2672,8 +2672,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-technology-and-material">
-        <title>XXX Technology and Materials</title>
+    <chapter xml:id="bitadar-culture-technology-and-material">
+        <title>Bitadari Technology and Materials</title>
         <para>Tools, technology, and objects a culture creates and uses.
             Example: Clothing styles, architecture, transportation, and tools reflect cultural adaptation to the environment.</para>
         <para>
@@ -2690,12 +2690,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-technology-and-material-zzz">
+        <section xml:id="bitadar-culture-technology-and-material-zzz">
             <title>ZZZ</title>
             <para> </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-economics-and-trade">
+    <chapter xml:id="bitadar-culture-economics-and-trade">
         <title>Economics and Trade</title>
         <para>How resources are produced, distributed, and consumed.
             Examples: Subsistence farming, industrial economies, or global trade networks.</para>
@@ -2710,13 +2710,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-economics-and-trade-zzz">
+        <section xml:id="bitadar-culture-economics-and-trade-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-military">
-        <title>XXX Military</title>
+    <chapter xml:id="bitadar-culture-military">
+        <title>Bitadari Military</title>
         <para>
             <itemizedlist>
                 <title>Razors for Distinguishing</title>
@@ -2770,12 +2770,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-military-zzz">
+        <section xml:id="bitadar-culture-military-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-esoterica">
+    <chapter xml:id="bitadar-culture-esoterica">
         <title>Esoterica</title>
         <para>Use of Psionics, Spirit, Magic etc.. .</para>
         <para>
@@ -2789,7 +2789,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-esoterica-zzz">
+        <section xml:id="bitadar-culture-esoterica-zzz">
             <title>ZZZ</title>
             <para/>
         </section>

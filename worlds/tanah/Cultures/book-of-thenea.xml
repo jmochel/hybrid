@@ -2,7 +2,7 @@
 <?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title>Book of the XXXX</title>
+        <title>Book of Thenea</title>
         <author>
             <orgname>Jim Mochel</orgname>
             <address>
@@ -14,9 +14,9 @@
             <email>jmochel@saltations.org</email>
         </author>
     </info>
-    <chapter xml:id="xxx-overview">
+    <chapter xml:id="thenea-overview">
         <title>Overview</title>
-        <subtitle>xxx</subtitle>
+        <subtitle>Its a house eat house world</subtitle>
         <para>
             Cultures are comprised of people:
             <simplelist>
@@ -44,13 +44,54 @@
                 <member>Propagate by recruiting member hip from those dissatisfied with the main culture who want to create something different and, in their eyes, better.</member>
             </simplelist>
         </para>
-        <para>...</para>
+        <para>A set of relatively predatory trade houses had held in check to a certain extent by veryrigid rules and dueling code
+            Bargains and balance and dealings and deals are the heart and soul of the nation culture.
+        </para>
+        <para>Italian Latin in here as well</para>
+        <para>Have the Venetian houses typically run day today by a woman while the politics are managed by the mail head of the clan or head of the house</para>
+        <para>There is no distinction between mid house and trading house.
+            Look up typical's windows and scheming on the part of venetian houses
+            Do the Venetian houses have slaves? Do we have equivalent of the D'Angelo's?
+            What does healing look like for the Venetians?
+        </para>
+        <para>
+            Notes and points 
+            <simplelist>
+                <member>I am betting that they have a relatively mechanistic healing set of surgeons who combined with magical speedups make the difference.</member>
+                <member>Venetian culture considers the actual house or clan house to be somewhat sacred. No one would ever be harmed in the clan house itself unless that was an actual war to take out the entire clan.</member>
+                <member>Injuries and tools and everything else happen in neutral territory</member>
+                <member>There are probably bravos or dandies who are both great rape your man rapier wielders as well as magic wielders</member>
+                <member>Whatever happens it involves something mysterious and semi invisible that knocks over duelists duelists</member>
+                <member>Start the story with a set of Nobles at a training club board Goulding club dueling club do I</member>
+                <member>In the rare cases where a subclan or clan leader dual there may be some situations where the winner incur such debt that they are not responsible for the family of the loser</member>
+                <member>Every venetian has a balance book</member>
+                <member>The name of the house Takeda translates to instrument of balance</member>
+                <member>Which also happens to be the name of a weapon used in a duel in a dual</member>
+                <member> Women of the Venetian houses</member>
+                <member>Have an extraordinary amount of freedom, they are able to bed whoever they which wish as long as they do not get pregnant and most venetian women have the basic magics that prevent them from being pregnant</member>
+                <member>But it is not unusual for venetian women to be told who they're going to marry as part of an attempt to create alliances or suitable children</member>
+                <member>In the magic of the Venetians is such that they tried to breed them true</member>
+                <member>It is not unusual for Lohaus women to be trained in weapons and where pantaloons just as a mail would</member>
+                <member>By the same token it is not unheard of the wood is much rarer for a mid house woman to do the same.</member>
+                <member>Only one of the great houses of the Venetiansis truly notable for their magic while many of them have great mages or higher grade mages</member>
+                <member>There is one family that's known for producing great rages mages wizards</member>
+                <member>Corsons are normal and courtesans are a normal part of the nation culture</member>
+                <member>Where does the wind come from</member>
+                <member>They definitely have honey</member>
+                <member>Do they grow olives?</member>
+                <member>Keep in mind that the customs house is the great strengt</member>
+                <member>Banking is very highly developed</member>
+                <member>And many of the houses that are not high house but it affect the foundation of guilds for the important needs become we're constantly jockeying for position especially for the ships builders and some of the other specialized groups</member>
+                <member>Look at having three distinct classes in effect Highhouse mid house in Lohaus constitutions</member>
+            </simplelist>
+            
+        </para>
     </chapter>
-    <chapter xml:id="xxx-culture-physical-environment">
+    <chapter xml:id="thenea-culture-physical-environment">
         <title>Physical Environment</title>
         <para>The physical environment (climate, landscape, resources) 
             shapes cultural practices, such as food, clothing, and housing.</para>
-        <section xml:id="xxx-culture-physical-environment-geography">
+        <section xml:id="thenea-culture-physical-environment-geography">
             <title>Geography</title>
             <para>
                 <itemizedlist>
@@ -80,8 +121,19 @@
                     </listitem>
                 </itemizedlist>
             </para>
+            <para>
+                The Thenaen culture is limited to a fertile but small set of islands called, appropriately enough, the Thenaen Islands. The area is rich in good soil, jewels, gems, and the bounty of the sea.
+                The trade currents of both the south and north lead to Thenae, though the northerly current subsides to deep water before reaching the islands. The trade currents, combined with the volcanic nature of the region, provide for a great variety in the flora and fauna of the ocean.
+                There is little in the way of iron ore. The Thenaens depend on two very light metals called {\it Limena } and {\it Taen}. Both are ill suited for sword blades but useful for structural tasks.
+                Most of the islands are high mana areas. Almost all of the major clans have a meeting house or demense in a high mana area.
+                The Thenaens depend on wind power to provide them with much of their basic energy needs. Windmills and windturbines as well as water turbines are common.
+                
+            </para>
+            <para>Technology
+                A strange combination of magic and mechanics, the Thenaens have a good knowledge of leverage and simple engines such as windmills. They have almost no knowledge of the use of beasts of burden and thus lack much of the attendant skills. Little or no leather craft. No ability to make steel.
+            </para>
         </section>
-        <section xml:id="xxx-culture-physical-environment-climate">
+        <section xml:id="thenea-culture-physical-environment-climate">
             <title>Climate</title>
             <para>
                 <itemizedlist>
@@ -123,7 +175,7 @@
                 <para>Averages temp range. Precipation..</para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-resources">
+        <section xml:id="thenea-culture-physical-environment-resources">
             <title>Resources</title>
             <para>
                 <itemizedlist>
@@ -173,12 +225,12 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para>.
                 </para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-wild-trees">
+        <section xml:id="thenea-culture-physical-environment-flora-wild-trees">
             <title>Wild Trees</title>
             <para>
                 <itemizedlist>
@@ -192,11 +244,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para>.</para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-cultivated-trees">
+        <section xml:id="thenea-culture-physical-environment-flora-cultivated-trees">
             <title>Cultivated Trees</title>
             <para>
                 <itemizedlist>
@@ -217,7 +269,7 @@
                 </para>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-wild-plants">
+        <section xml:id="thenea-culture-physical-environment-flora-wild-plants">
             <title>Wild Plants</title>
             <para>
                 <itemizedlist>
@@ -231,11 +283,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-flora-cultivated-plants">
+        <section xml:id="thenea-culture-physical-environment-flora-cultivated-plants">
             <title>Cultivated Plants</title>
             <para>
                 <itemizedlist>
@@ -249,11 +301,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-wild-fauna">
+        <section xml:id="thenea-culture-physical-environment-wild-fauna">
             <title>Wild Fauna</title>
             <para>
                 <itemizedlist>
@@ -312,11 +364,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-cultivated-fauna">
+        <section xml:id="thenea-culture-physical-environment-cultivated-fauna">
             <title>Cultivated Fauna</title>
             <para>
                 <itemizedlist>
@@ -375,11 +427,11 @@
                 </itemizedlist>
             </para>
             <formalpara>
-                <title>XXX</title>
+                <title>Thenean</title>
                 <para/>
             </formalpara>
         </section>
-        <section xml:id="xxx-culture-physical-environment-esoterica">
+        <section xml:id="thenea-culture-physical-environment-esoterica">
             <title>Esoterica</title>
             <para>Magical resources are ....</para>
             <para>
@@ -395,8 +447,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-history">
-        <title>XXX History</title>
+    <chapter xml:id="thenea-culture-history">
+        <title>Thenean History</title>
         <para>A culture’s history, including colonization, wars, migrations, and revolutions, impacts its identity and traditions..</para>
         <para>
             <itemizedlist>
@@ -530,12 +582,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-history-prehistory">
-            <title>XXX Pre History</title>
+        <section xml:id="thenea-culture-history-prehistory">
+            <title>Thenean Pre History</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-history-meme">
-            <title>XXX Historical Memes</title>
+        <section xml:id="thenea-culture-history-meme">
+            <title>Thenean Historical Memes</title>
             <para>
                 <itemizedlist>
                     <title>Razors for Distinguishing</title>
@@ -551,16 +603,16 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-history-zzz3">
-            <title>XXX ZZZ</title>
+        <section xml:id="thenea-culture-history-zzz3">
+            <title>Thenean ZZZ</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-history-zzz4">
-            <title>XXX ZZZ</title>
+        <section xml:id="thenea-culture-history-zzz4">
+            <title>Thenean ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-external-influences">
+    <chapter xml:id="thenea-culture-external-influences">
         <title>External Influences</title>
         <para>
             <itemizedlist>
@@ -573,25 +625,25 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-external-influences-zzz1">
+        <section xml:id="thenea-culture-external-influences-zzz1">
             <title>Other Cultures</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz2">
+        <section xml:id="thenea-culture-external-influences-zzz2">
             <title>Economic</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz3">
+        <section xml:id="thenea-culture-external-influences-zzz3">
             <title>Other Religions</title>
             <para/>
         </section>
-        <section xml:id="xxx-culture-external-influences-zzz4">
+        <section xml:id="thenea-culture-external-influences-zzz4">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-beliefs-and-values">
-        <title>XXX Beliefs and Values</title>
+    <chapter xml:id="thenea-culture-beliefs-and-values">
+        <title>Thenean Beliefs and Values</title>
         <para>
             The foundational principles and ideas that a culture holds to be true or important.
             Examples: Concepts of morality, spirituality, freedom, equality, or honor.
@@ -626,7 +678,7 @@
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-language-and-communication">
+    <chapter xml:id="thenea-culture-language-and-communication">
         <title>Language and Communication</title>
         <para>The primary means of communication, including spoken and written languages, dialects, and non-verbal cues (gestures, body language, etc.).
             Language often reflects cultural priorities (e.g., Inuit languages have multiple words for snow).</para>
@@ -746,13 +798,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-language-and-communication-zzz">
+        <section xml:id="thenea-culture-language-and-communication-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-social-norms-and-behaviors">
-        <title>XXX Social Norms and Behaviors</title>
+    <chapter xml:id="thenea-culture-social-norms-and-behaviors">
+        <title>Thenean Social Norms and Behaviors</title>
         <para>The social mores and unwritten rules that govern acceptable behavior in a society.
             Examples: Greetings, table manners, dress codes, and etiquette.</para>
         <para>
@@ -766,7 +818,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-general-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-general-social-traditions">
             <title>General Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -777,7 +829,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-general-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-general-rituals">
             <title>General Social Rituals</title>
             <para>
                 <itemizedlist>
@@ -788,7 +840,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-birth-social-traditions">
             <title>Childbirth Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -853,7 +905,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-birth-rituals">
             <title>Childbirth Rituals</title>
             <para>
                 <itemizedlist>
@@ -870,7 +922,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-expectations">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-birth-expectations">
             <title>Childbirth Expectations</title>
             <para>
                 <itemizedlist>
@@ -884,7 +936,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-success-vs-failure">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-birth-success-vs-failure">
             <title>Childbirth Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -904,7 +956,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-social-traditions">
             <title>Childhood Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -933,7 +985,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-rituals">
             <title>Childhood Rituals</title>
             <para>
                 <itemizedlist>
@@ -945,7 +997,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-expectations">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-expectations">
             <title>Childhood Expectations</title>
             <para>
                 <itemizedlist>
@@ -971,7 +1023,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-value-of-learning">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-value-of-learning">
             <title>Value of Education</title>
             <para>
                 <itemizedlist>
@@ -1030,7 +1082,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-why">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-why">
             <title>Why?</title>
             <para>
                 <itemizedlist>
@@ -1044,7 +1096,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-success-vs-failure">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-childhood-success-vs-failure">
             <title>Childhood Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1070,7 +1122,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-social-traditions">
             <title>Young Adult Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1096,7 +1148,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-rituals">
             <title>Young Adult Rituals</title>
             <para>
                 <itemizedlist>
@@ -1164,7 +1216,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-expectations-of-work">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-expectations-of-work">
             <title>Young Adult Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1196,7 +1248,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-expectations-of-sex">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-expectations-of-sex">
             <title>Young Adult Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1225,7 +1277,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-conformism-and-rebellion">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-conformism-and-rebellion">
             <title>Young Adult Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1242,7 +1294,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-success-vs-failure">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-young-adult-success-vs-failure">
             <title>Young Adult Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1262,7 +1314,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-adulthood-social-traditions">
             <title>Adulthood Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1312,7 +1364,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-adulthood-rituals">
             <title>Adulthood Rituals</title>
             <para>
                 <itemizedlist>
@@ -1375,7 +1427,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-expectations-of-work">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-adulthood-expectations-of-work">
             <title>Adulthood Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1412,7 +1464,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-expectations-of-sex">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-adulthood-expectations-of-sex">
             <title>Adulthood Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1449,7 +1501,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-conformism-and-rebellion">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-adulthood-conformism-and-rebellion">
             <title>Adulthood Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1478,7 +1530,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-social-traditions">
             <title>Old Age Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1504,7 +1556,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-rituals">
             <title>Old Age Rituals</title>
             <para>
                 <itemizedlist>
@@ -1569,7 +1621,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-expectations-of-work">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-expectations-of-work">
             <title>Old Age Expectations of Work</title>
             <para>
                 <itemizedlist>
@@ -1604,7 +1656,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-expectations-of-sex">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-expectations-of-sex">
             <title>Old Age Expectations of Sex</title>
             <para>
                 <itemizedlist>
@@ -1633,7 +1685,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-conformism-and-rebellion">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-conformism-and-rebellion">
             <title>Old Age Conformism and Rebellion</title>
             <para>
                 <itemizedlist>
@@ -1681,7 +1733,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-success-vs-failure">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-old-age-success-vs-failure">
             <title>Old Age Success or Failure</title>
             <para>
                 <itemizedlist>
@@ -1701,7 +1753,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-social-traditions">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-death-social-traditions">
             <title>Death Social Traditions</title>
             <para>
                 <itemizedlist>
@@ -1728,7 +1780,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-rituals">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-death-rituals">
             <title>Death Rituals</title>
             <para>
                 <itemizedlist>
@@ -1749,7 +1801,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-expectations">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-death-expectations">
             <title>Death Expectations</title>
             <para>
                 <itemizedlist>
@@ -1766,7 +1818,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-norms-and-behaviors-death-success-vs-failure">
+        <section xml:id="thenea-culture-social-norms-and-behaviors-death-success-vs-failure">
             <title>Death Success or Failure</title>
             <para>
                 <emphasis>Razors</emphasis>Razors
@@ -1784,8 +1836,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-social-organization">
-        <title>XXX Social Organization</title>
+    <chapter xml:id="thenea-culture-social-organization">
+        <title>Thenean Social Organization</title>
         <para>How a culture structures relationships and roles in society.
             Includes family dynamics, gender roles, class systems, and community hierarchies</para>
         <para>
@@ -2014,7 +2066,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-social-organization-power">
+        <section xml:id="thenea-culture-social-organization-power">
             <title>Power</title>
             <para>
                 <itemizedlist>
@@ -2031,7 +2083,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-government-type">
+        <section xml:id="thenea-culture-social-organization-government-type">
             <title>Type of Government</title>
             <para>
                 <itemizedlist>
@@ -2082,7 +2134,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-government-executive-power">
+        <section xml:id="thenea-culture-social-organization-government-executive-power">
             <title>Executive Power</title>
             <para>
                 <itemizedlist>
@@ -2138,7 +2190,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-legislative-power">
+        <section xml:id="thenea-culture-social-organization-legislative-power">
             <title>Legislative Power</title>
             <para>
                 <itemizedlist>
@@ -2164,7 +2216,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-judicial-power">
+        <section xml:id="thenea-culture-social-organization-judicial-power">
             <title>Judicial Power</title>
             <para>
                 <itemizedlist>
@@ -2208,7 +2260,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-surreptitious-power">
+        <section xml:id="thenea-culture-social-organization-surreptitious-power">
             <title>Surreptitious Power</title>
             <para>
                 <itemizedlist>
@@ -2237,7 +2289,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-social-organization-zzz3">
+        <section xml:id="thenea-culture-social-organization-zzz3">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2249,8 +2301,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-clothing">
-        <title>XXX Clothing</title>
+    <chapter xml:id="thenea-culture-clothing">
+        <title>Thenean Clothing</title>
         <para>
             <itemizedlist>
                 <title>Razors for Distinguishing</title>
@@ -2380,13 +2432,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-clothing-birth">
-            <title>XXX</title>
+        <section xml:id="thenea-culture-clothing-birth">
+            <title>Thenean</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-art-and-aesthetics">
-        <title>XXX Art and Aesthetics</title>
+    <chapter xml:id="thenea-culture-art-and-aesthetics">
+        <title>Thenean Art and Aesthetics</title>
         <para>Forms of creative expression, including art, music, literature, dance, and architecture.
             Reflects the culture's sense of beauty, symbolism, and storytelling.</para>
         <para>
@@ -2568,7 +2620,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-art-and-aesthetics-art">
+        <section xml:id="thenea-culture-art-and-aesthetics-art">
             <title>Art</title>
             <para>
                 <itemizedlist>
@@ -2579,7 +2631,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-music">
+        <section xml:id="thenea-culture-art-and-aesthetics-music">
             <title>Music</title>
             <para>
                 <itemizedlist>
@@ -2590,7 +2642,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-dance">
+        <section xml:id="thenea-culture-art-and-aesthetics-dance">
             <title>Dance</title>
             <para>
                 <itemizedlist>
@@ -2601,7 +2653,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-art-and-aesthetics-zzz">
+        <section xml:id="thenea-culture-art-and-aesthetics-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2613,8 +2665,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-religion-and-spirituality">
-        <title>XXX Religion and Spirituality</title>
+    <chapter xml:id="thenea-culture-religion-and-spirituality">
+        <title>Thenean Religion and Spirituality</title>
         <para>Beliefs about the divine, the sacred, and humanity’s place in the universe.
             Includes organized religions and informal spiritual practices.</para>
         <para>
@@ -2625,7 +2677,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-religion-and-spirituality-dieties">
+        <section xml:id="thenea-culture-religion-and-spirituality-dieties">
             <title>Deities</title>
             <para>
                 <itemizedlist>
@@ -2636,7 +2688,7 @@
                 </itemizedlist>
             </para>
         </section>
-        <section xml:id="xxx-culture-religion-and-spirituality-zzz">
+        <section xml:id="thenea-culture-religion-and-spirituality-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2648,8 +2700,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-food-and-cuisine">
-        <title>XXX Food and Cuisine</title>
+    <chapter xml:id="thenea-culture-food-and-cuisine">
+        <title>Thenean Food and Cuisine</title>
         <para>The types of food a culture prepares, how it is cooked, and its significance in social or ceremonial contexts.
             Example: Mediterranean cultures are known for olive oil and seafood, while Japanese cuisine emphasizes rice and fish.</para>
         <para>
@@ -2660,7 +2712,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-food-and-cuisine-zzz">
+        <section xml:id="thenea-culture-food-and-cuisine-zzz">
             <title>ZZZ</title>
             <para>
                 <itemizedlist>
@@ -2672,8 +2724,8 @@
             </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-technology-and-material">
-        <title>XXX Technology and Materials</title>
+    <chapter xml:id="thenea-culture-technology-and-material">
+        <title>Thenean Technology and Materials</title>
         <para>Tools, technology, and objects a culture creates and uses.
             Example: Clothing styles, architecture, transportation, and tools reflect cultural adaptation to the environment.</para>
         <para>
@@ -2690,12 +2742,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-technology-and-material-zzz">
+        <section xml:id="thenea-culture-technology-and-material-zzz">
             <title>ZZZ</title>
             <para> </para>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-economics-and-trade">
+    <chapter xml:id="thenea-culture-economics-and-trade">
         <title>Economics and Trade</title>
         <para>How resources are produced, distributed, and consumed.
             Examples: Subsistence farming, industrial economies, or global trade networks.</para>
@@ -2710,13 +2762,13 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-economics-and-trade-zzz">
+        <section xml:id="thenea-culture-economics-and-trade-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-military">
-        <title>XXX Military</title>
+    <chapter xml:id="thenea-culture-military">
+        <title>Thenean Military</title>
         <para>
             <itemizedlist>
                 <title>Razors for Distinguishing</title>
@@ -2770,12 +2822,12 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-military-zzz">
+        <section xml:id="thenea-culture-military-zzz">
             <title>ZZZ</title>
             <para/>
         </section>
     </chapter>
-    <chapter xml:id="xxx-culture-esoterica">
+    <chapter xml:id="thenea-culture-esoterica">
         <title>Esoterica</title>
         <para>Use of Psionics, Spirit, Magic etc.. .</para>
         <para>
@@ -2789,7 +2841,7 @@
                 </listitem>
             </itemizedlist>
         </para>
-        <section xml:id="xxx-culture-esoterica-zzz">
+        <section xml:id="thenea-culture-esoterica-zzz">
             <title>ZZZ</title>
             <para/>
         </section>

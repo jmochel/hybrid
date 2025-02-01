@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character id="101" gender="Male">
+        <nomens>
+            <nomen type="Origin" value="Noka Napirox"/>
+            <nomen type="Alias" value="Nahabidian"/>
+            <nomen type="Title" value="First Pilot"/>
+            <nomen type="Title" value="Principes Regus"/>
+        </nomens>
+        <species base="Homo Sapiens" sub="Proximan" immediate="Prime"/>
+        <culture base="Proximan" sub="Rajak" immediate="Royal Family"/>
+        <stats>
+            <primary PST="17" PEN="17" DEX="15" PAG="17" PAW="19" MST="16" MEN="14" PSI="3" MAG="15"
+                MAW="18" HT="170" WT="85" AGE="32"/>
+            <secondary PBD="" PFT="" PEX="" PMV="" MBD="" MFT="" MEX="" MMV="" ACC="" PCA="" PDF=""
+                FCS="" MCA="" MDF="" GAW=""/>
+        </stats>
+        <physical-desc>
+            <frame build="" bone="" tone="">
+                <text>Some random text about his frame</text>
+            </frame>
+            <hair length="" color="" texture="" style="" curl="">
+                <ornament>A silver hair clip</ornament>
+                <text>Random text about his hair</text>
+            </hair>
+            <skin color="" texture="">
+                <ornament>A big tatoo that says momma</ornament>
+                <text>Random text about his skin</text>
+            </skin>
+            <facialhair>
+                <beard color="" length="">
+                    <ornament>A big tatoo that says momma</ornament>
+                    <text>Some text</text>
+                </beard>
+                <mustache color="" length="">
+                    <ornament>A big tatoo that says momma</ornament>
+                    <text>Some text</text>
+                </mustache>
+                <eyebrows color="" length="">
+                    <ornament>A big tatoo that says momma</ornament>
+                    <text>Some text</text>
+                </eyebrows>
+                <eyelashes color="" length="">
+                    <ornament>A big tatoo that says momma</ornament>
+                    <text>Some text</text>
+                </eyelashes>
+                <other/>
+            </facialhair>
+            <ears>
+                <ornament/>
+                <text/>
+            </ears>
+            <nose length="">
+                <ornament/>
+                <text/>
+            </nose>
+            <teeth conformation="" condition="" color="">
+                <ornament/>
+                <text/>
+            </teeth>
+            <bearing/>
+            <markings>
+                <idmark type="Birthmark">
+                    <text>Text</text>
+                </idmark>
+                <idmark type="Mole">
+                    <text>Text</text>
+                </idmark>
+                <idmark type="Scar">
+                    <text>Text</text>
+                </idmark>
+            </markings>
+            <voice type="Bass" depth="" clarity="">
+                <habits/>
+                <accent/>
+            </voice>
+            <clothing worth="" weight="" age="" condition="">
+                <ornament/>
+                <colormix/>
+            </clothing>
+        </physical-desc>
+        <psych-desc/>
+        <skills>
+            <skill name="Tech Ops" rank="10"/>
+            <skill name="Computer Ops" rank="11"/>
+        </skills>
+        <possessions/>
+        <locale/>
+        <associations>
+            <indom type="Person" relation="FriendOf" Name="" Visiility="Secret"/>
+            <indom type="Place" relation="Owner" Name="" Visiility="Secret"/>
+            <indom type="Thing" relation="OwnedBy" Name="" Visiility="Known"/>
+            <indom type="Group" relation="EnemyOf" Name="" Visiility="Secret"/>
+        </associations>
+        <history>
+            <histom date="235" type="Origin" association="Proxima" visibility="Known">Born</histom>
+            <histom date="249" type="Ceremony" association="None" visibility="Known">Blooding Date</histom>
+            <histom date="250" type="Transition" association="None" visibility="Known">Entered CSS
+                Academy</histom>
+            <histom date="252" type="Transition" association="None" visibility="Known">Assigned as
+                3rd pilot CSS Exeter</histom>
+        </history>
+    </character>
+</characters>
