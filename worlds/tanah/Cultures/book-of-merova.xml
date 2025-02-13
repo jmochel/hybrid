@@ -16,12 +16,14 @@
     </info>
     <chapter xml:id="merova-overview">
         <title>Overview</title>
-        <subtitle>Camelot with a darker cast</subtitle>
-        <para>Merova rests upon three cultures : Merovans, Hairochan, and Native Borne</para>
-        <para>Merova presenst a pciture Norman Knights and men at Arms (Chain, Plate and Leather, Long Swords and Bastard Swords, Spears and Pole Arms, Xbows rather then Self Bows) French speaking. with a large native born population slowly melding in.
-            Ducal fiefdoms with bordering Marchers. The Dukes have the population and the wealth while the Marches have the arms and the pride. Their only real common ground is the king. The king is from a small neglected branch of one of the Ducal families (Almost Native is the phrase....). Hairochan advised and trained and guarded. Underneath it all is the Native Born.
-            Wizard Guilds.
-            Temples to the Lord and Lady. Adsum Domine . Adsum Maria
+        <subtitle>A Darker, Rougher Camelot</subtitle>
+        <para>Merova presents a picture of Norman Knights and Men at Arms (Chain, Plate and Leather, Long Swords and Bastard Swords, Spears and Pole Arms, 
+            and Cross bows rather then Self Bows). The Merovan language is mixture of the original language with a growing collection of loan word from
+            the Native Borne language. 
+            The absolute core of Merova is Meara Bay and the King's lands around it. Surrounding the Kingsland  is a set of 39+ Ducal fiefdoms. 
+            On the outskirts of all the Ducal fiefdoms are the Marches which act as a buffer to the outside world.            
+            The Dukes have the population and the wealth while the Marches have the arms and the pride. 
+            Their only real common ground is the king. The king is from a small neglected branch of one of the Ducal families (Almost Native is the phrase....). 
         </para>
         <para>Merova lies on the northeastern edge of the continent. Merovans are built like the Norman French with many
             brunettes and ash blondes. Merova is the King Arthur’s court of the world. Merova looks like the traditional 
@@ -30,80 +32,45 @@
             If you want to play a traditional men at arms or a knight, this is the culture to be from. Women’s roles are more limited,
             with only priestesses easily being able to travel and adventure. Typical Merovan characters would be Knights or men at arms. 
             Priests or priestesses. Thieves. Wizards and sorcerers of various types.</para>
-        <para></para>
-        <para></para>
-        <para></para>
-        <para></para>
+        <para audience="cultural-outsider">Merova has an established relationship of trade with the Hairochan. In addition, they have a strong ruling tradition over the.
+            existing Native Borne population who act as the serf populkation of the Dukedoms and Marches.</para>
+        <note audience="cultural-insider" >
+            <para>It is not obvious tro outsiders that Merovan culture involves a strangely strong, and sometimes uneasy, 
+                relationship between three cultures: Merovans, the Hairochan, and the Native Borne. The Merovan "settled" know that the Hairochan are more 
+                than they seem but try 
+                not to talk about it. And all of the settled know that while the Native Borne negotiated the role of servant for themselves
+                it might be catastrophically dangerous to push them. They all have the feel of that gypsy wise woman that you don't want to transgress against. 
+            </para>
+        </note>
     </chapter>
     <chapter xml:id="merova-culture-physical-environment">
         <title>Physical Environment</title>
         <section xml:id="merova-culture-physical-environment-geography">
             <title>Geography</title>
-            <para>
-                <itemizedlist>
-                    <title>TBD</title>
-                    <listitem>
-                        <para>Smaller aqualogy..</para>
-                    </listitem>
-                    <listitem>
-                        <para>MLey Lines within Merova?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Any geographic features that reflect esoterica..</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
             <para>The geography is filled with rugged hills and valleys.
                 It is bounded on the western boundary by a sheer mountain range with a few passes through to the vallys to the west.
                 There are morraines, high ridges formed from glacial debris especially in the northernn areas of Merova. The southern islands expecially
                 are composed of that kind of morraines. Many of those morraines have ridges cut out by meltwater streams often 
-                framed by large boulders at the base.  There is a significant number of valleys filled with rivers, lakes and ponds.  
+                framed by large boulders at the base.  There is a significant number of valleys filled with rivers, lakes and ponds.
+                Glacial till (a mix of sand, clay, gravel, and rocks) left behind poor, rocky soil in much of the region, though river valleys often 
+                have fertile floodplains.
             </para>
-            <para>
-                Glacial till (a mix of sand, clay, gravel, and rocks) left behind poor, rocky soil in much of the region, though river valleys often have fertile floodplains.
-            </para>
-            <para>The southern and eastern border are edged in rocky coastline with peninsulas, islands, and estuaries.
-                As glaciers melted, sea levels rose, flooding coastal areas and creating features like bays and islands.
-                There are two large bays in the region,  Meara Harbor, and Badger Bay (Narragensat).
+            <para>The southern and eastern border are edged in rocky coastline with peninsulas, islands, and estuaries. 
+                Most of the coastline is edged in rock, not sand. 
+                There are two large bays in the region, Meara Harbor, and Badger Bay (Narragensat).
                 Merova is easily accessed via small boats throughout the coast.</para>
-            <para>There are a set of east to west and north to south roads of solid construction. The largest is the <emphasis>King's Road</emphasis>
-                which is a 16m wide road that runs from Meara Harbor in the east to the Great Doors in the westward pass. 
-                The roads are built with layered construction. The <emphasis>King's Road</emphasis> has 1-2m high walls on each edge. Periodically there 
-                is a <emphasis>Trivium</emphasis>, a widened plaza with some combination of stone benches, walled stalls, and fountains. Often the 
-                road rises up on elevated structures consisting of a series of arches, spans, or piers designed to carry a road over a valley, lowland, 
-                or other obstacles like rivers and wetlands. 
-            </para>
+            <para>There are a set of<link linkend="glossentry-torgan-road">Torgan roads</link> running east to west and north to south. The largest, the
+                <emphasis>King's Road</emphasis> is a 16m wide road that runs from Meara Harbor in the east to the Great Doors in the westward pass. 
+                It has 1-2m high walls on each edge. Periodically there 
+                are <link linkend="glossentry-torgan-road-trivium">Trivia</link>.
+            The roads enable a very high rate of individual and cargo travel.</para>
             <para>
-                The roads are built with a slight arch or camber to allow water to run off into ditches on either side, preventing flooding and erosion.
-                Deep side ditches collect and direct rainwater away from the road with culverts and drainage pipes were built under the road when needed.
+                On the far western edge of Merova lies the Western Wall <indexterm><primary>Western Wall</primary><secondary>West Shelf</secondary></indexterm>, a sheer mountain range which has very few passes that are usable.
+                The most commonly used pass is the the Great Gate <indexterm><primary>Great Gate</primary></indexterm>which is guarded by and managed by the Uru, who charge tolls for passage,        
             </para>
-            <para>The roads enable a very high rate of individual and cargo travel.</para>
-        </section>
+         </section>
         <section xml:id="merova-culture-physical-environment-climate">
             <title>Climate</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>The climate is...</para>
-                    </listitem>
-                    <listitem>
-                        <para>What is the climate?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What of are the resources for survival?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What kind of clothes and shelter are needed?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What kind of food can be so grown, hunted, caught?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the climate allow only survival activities or is there for leisure  developments such as art philosophy etc.?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
             <para>The climate is characterized by four distinct seasons, 
                 including cold winters, warm summers, and moderate precipitation 
                 throughout the year. The region’s climate is influenced by its 
@@ -146,53 +113,6 @@
         </section>
         <section xml:id="merova-culture-physical-environment-resources">
             <title>Resources</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Which areas are the most fertile farmland? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Where are mineral resources located?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which animals, birds, fish, and other wildlife are commonly found in
-                        which areas? </para>
-                    </listitem>
-                    <listitem>
-                        <para>If there are imaginary animals such as dragons, where do they
-                        live?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which natural resources, if any, have been depleted in which areas
-                        over time?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which resources (e.g., coal, oil, iron ore, gold, diamonds,
-                        limestone, etc.) are particularly abundant, and in which areas?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which are scarce?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there places where there are rich deposits that haven’t been
-                        discovered yet, or where they haven’t been fully exploited?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How much conflict has been or might be caused by these imbalances in
-                        resources? </para>
-                    </listitem>
-                    <listitem>
-                        <para>How much active, peaceful trade?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What water resources available, and for what uses ?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the contested resources?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
             <formalpara>
                 <title>Rivers and Streams</title>
                 <para>Abundant rivers are used for transportation, trade, and as sources of fresh water.
@@ -204,60 +124,57 @@
                 <para>The ocean provides opportunities for near shore fishing, some deep sea fishing, and trade.
                     Bays and harbors, like Meara Harbor, supported shipbuilding and commercial activity.
                     Merova's waters, particularly the Grand Banks, are rich in cod, which are a cornerstone of the economy.
-                    Lobsters, clams, and oysters are also significant food and trade sources.
+                    Lobsters, clams, and oysters are also significant food and trade sources. In addition, the more shallow waters 
+                    are used to form fish weyrs to farm fish and some shellfish in.
                 </para>
             </formalpara>
             <formalpara>
                 <title>Soil and Agriculture</title>
-                <para>The soil is rocky and less fertile compared to the southern polities, making large-scale farming difficult.
+                <para>The soil is rocky and less fertile compared to the southern polities, making large-scale farming difficult. 
+                    It typically takes around 3-7 acres of land to feed a family, with most farms ranging between 50 and 100 acres, 
+                    as the rocky soil and harsh climate limits the amount of crops that can be grown, requiring families to focus on 
+                    subsistence farming to feed themselves directly. 
                 </para>
             </formalpara>
             <formalpara>
                 <title>Granite and Slate</title>
-                <para>Abundant, used for building foundations, mills, and gravestones..
+                <para>Abundant Granite quaries. Granite is used for building foundations, mills, and gravestones.
                 </para>
             </formalpara>
             <formalpara>
-                <title>Iron Ore</title>
-                <para>Found in bogs and streams, iron is smelted for tools, nails, and household items.
+                <title>Metals</title>
+                <para>Iron Ore found in bogs and streams, iron is smelted for tools, nails, and household items. There are also large deposits of
+                    Lead, Copper, Tin, and Antimony, Coal, Zinc 
                 </para>
             </formalpara>
             <formalpara>
-                <title>Gold</title>
-                <para>...
+                <title>Precious metals and gems</title>
+                <para>There are large silver deposits with smaller gold and mercury ore fields. Merova is blessed with multiple, 
+                    easily accessible gem Tourmaline, Spinel,Sapphires and Rubies,Zircon rose quartz, garnets, beryl, amethyst, 
+                    rhodonite and garnets,quartz crystals, beryl, lepidolite
                 </para>
             </formalpara>
             <formalpara>
-                <title>Tourmaline</title>
-                <para>...
+                <title>Talc and Asbestos</title>
+                <para>
+                    Asbestos is known for its fire resistance and durability and it is used
+                    for rudimentary fireproof cloth and insulation for indoor ovens and stoves.
+                    In a few situatins it is used for Wicks in tepls. Talc in Colonial America
+                    Talc is a soft mineral that is used for its smooth texture and absorbent properties.
+                    It is used for personal hygiene powders – Finely ground talc is used as a body 
+                    powder to reduce moisture and friction under heavy robes or armour.
                 </para>
-            </formalpara>
-            <formalpara>
-                <title>XXX</title>
-                <para>What replaces Whale Oil</para>
             </formalpara>
         </section>
         <section xml:id="merova-culture-physical-environment-flora-wild-trees">
             <title>Wild Trees</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
-            <para>Heavily forested, with a mix of coniferous and deciduous trees.
-                The types of trees varied based on the region's soil, climate, and elevation. 
+            <para>Merova is heavily forested, with a mix of old growth conifers and deciduous trees.
+                The types of trees vary based on the region's soil, climate, and elevation. 
                 Below are some of the most common trees found in Merova.</para>
             <formalpara>
                 <title>White Pine</title>
                 <para>A tall, straight tree growing up to 200 feet, with soft, lightweight wood. 
-                    Highly valued for ship masts as well as 
-                    Timber for construction, furniture, and export.
+                    Highly valued for ship masts as well as  Timber for construction, furniture, and export.
                     Resin used for making pitch and tar.</para>
             </formalpara>
             <formalpara>
@@ -354,20 +271,42 @@
                     Dye: The husks were used to create a yellowish-brown dye.
                 </para>
             </formalpara>
+            <para>
+                    Pine, Hemlock, Tamarack, Spruce,
+                    Cedar, Juniper, Fir, Sycamore,
+                    Witchhazel,Locust,
+                    Paper Birch,
+                    River Birch,
+                    Smooth Alder,
+                    Hophornbeam,
+                    Green Alder,Hazelnut ,
+                    Beech ,
+                    Black Oak , 
+                    Pin Oak ,White Oak, 
+                    Chestnut, Cottonwood, Weeping willow , Red Mulberry ,
+                    Black Cherry, 
+                    Shadbush,
+                    Mountain Ash,
+                    Slippery Elm ,
+                    Basswood,
+                    Smooth Sumac,
+                    Red Maple,
+                    Horse-Chestnut,
+                    Staghorn Sumac,
+                    Silver Maple,
+                    Sugar Maple,
+                    Boxelder,
+                    Black Tupelo,
+                    Flowering Dogwood,
+                    Northern Catalpa,
+                    Black Ash,
+                    Walkingstick,
+                    Downy Hawthorn
+            </para>
         </section>
         <section xml:id="merova-culture-physical-environment-flora-cultivated-trees">
             <title>Cultivated Trees</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>...</para>
             <formalpara>
                 <title>Apple</title>
                 <para>
@@ -451,17 +390,7 @@
         </section>
         <section xml:id="merova-culture-physical-environment-flora-cultivated-plants">
             <title>Cultivated Plants</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>...</para>
             <formalpara>
                 <title>Barley</title>
                 <para/>
@@ -489,86 +418,7 @@
         </section>
         <section xml:id="merova-culture-physical-environment-wild-fauna">
             <title>Wild Fauna</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What animals are especially helpful to your world?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What is a creature that preys on other nuisance creatures?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are he domesticated animals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the food animals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Whether the food taboos?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which animals are used in medicine.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What animals are used for poisons.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What wild animals, actual or imaginary, live in this area? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are any of them potentially useful — e.g., for fur, whale oil,
-                            hides, magical ingredients, hat feathers?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which animals, actual or imaginary, are commonly domesticated in
-                            this area? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Which aren’t here, but are elsewhere? (Example: water buffalo in
-                            India vs. oxen in Europe vs. camels in desert areas.)</para>
-                    </listitem>
-                    <listitem>
-                        <para>If there are imaginary animals (dragons, unicorns, etc.), how do
-                            they fit into the ecology? </para>
-                    </listitem>
-                    <listitem>
-                        <para>What do they eat? How much habitat do they require? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Can they live anywhere, or do they prefer or need specific kinds of
-                            climate or terrain? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they intelligent and/or capable of working spells, talking,
-                            etc.?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
-            <para>The wild ecology looks like..</para>
-            <para>The predators are...</para>
-            <para>Their prey are...</para>
-            <para>The nuisance creatures are...</para>
-            <para>The wild animals that are hunted for food are..</para>
-            <para>The wild animals that are hunted for fur are..</para>
-            <para>The wild animals that are hunted for other reasons are..</para>
-            <para>The sacred wild animals are..</para>
-            <para>Which animals are used in medicine.</para>
-            <para>What animals are used for poisons.</para>
-            <para>What wild animals, actual or imaginary, live in this area? </para>
-            <para>Are any of them potentially useful — e.g., for fur, whale oil,
-                hides, magical ingredients, hat feathers?</para>
-            <para>Which animals, actual or imaginary, are commonly domesticated in
-                this area? </para>
-            <para>Which aren’t here, but are elsewhere? (Example: water buffalo in
-                India vs. oxen in Europe vs. camels in desert areas.)</para>
-            <para>If there are imaginary animals (dragons, unicorns, etc.), how do
-                they fit into the ecology? </para>
-            <para>What do they eat? How much habitat do they require? </para>
-            <para>Can they live anywhere, or do they prefer or need specific kinds of
-                climate or terrain? </para>
-            <para>Are they intelligent and/or capable of working spells, talking,
-                etc.?</para>
+            <para>...</para>
             <formalpara>
                 <title>Fisher Cats</title>
                 <para/>
@@ -600,130 +450,205 @@
         </section>
         <section xml:id="merova-culture-physical-environment-cultivated-fauna">
             <title>Cultivated Fauna</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What animals are especially helpful to your world?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What is a creature that preys on other nuisance creatures?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are he domesticated animals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the food animals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Whether the food taboos?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which animals are used in medicine.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What animals are used for poisons.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What wild animals, actual or imaginary, live in this area? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are any of them potentially useful — e.g., for fur, whale oil,
-                            hides, magical ingredients, hat feathers?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Which animals, actual or imaginary, are commonly domesticated in
-                            this area? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Which aren’t here, but are elsewhere? (Example: water buffalo in
-                            India vs. oxen in Europe vs. camels in desert areas.)</para>
-                    </listitem>
-                    <listitem>
-                        <para>If there are imaginary animals (dragons, unicorns, etc.), how do
-                            they fit into the ecology? </para>
-                    </listitem>
-                    <listitem>
-                        <para>What do they eat? How much habitat do they require? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Can they live anywhere, or do they prefer or need specific kinds of
-                            climate or terrain? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they intelligent and/or capable of working spells, talking,
-                            etc.?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
-            <formalpara>
-                <title>Alaunts</title>
-                <para>A hunting dog breed that was expensive to buy and maintain. A sight hunter used as a large game catch dog, a war dog and
-                guard dog.</para>
-            </formalpara>
-            <formalpara>
-                <title>Mastiffs</title>
-                <para>A hunting dog breed that was expensive to buy and maintain </para>
-            </formalpara>
-            <formalpara>
-                <title>Wulfhund</title>
-                <para>Large dog used to hyunt dangerous game</para>
-            </formalpara>
-            <formalpara>
+            <section>
                 <title>Dogs</title>
-                <para>Several breeds brough by Merova settlers</para>
-            </formalpara>
-
-            <formalpara>
+                 <formalpara>
+                     <title>Alaunts</title>
+                     <para>A hunting dog breed that is expensive to buy and maintain. A sight hunter
+                        used as a large game catch dog, as a war and guard dog. <inlinemediaobject>
+                            <imageobject>
+                                <imagedata fileref="reference/merova/alaunt-gentil.jpg"/>
+                            </imageobject>
+                        </inlinemediaobject></para>
+                 </formalpara>
+                 <formalpara>
+                     <title>Mastiffs</title>
+                     <para>A hunting dog breed that is expensive to buy and maintain but excels as a
+                        trainable guard and war dog. Height: Males 62–70 cm; Females 58–66 cm.
+                        Weight: Males 45–50 kg (100–110 lb) Females 40–45 kg (90–100 lb)  <inlinemediaobject>
+                            <imageobject>
+                                <imagedata fileref="reference/merova/merovan-mastiff.jpeg"/>
+                            </imageobject>
+                        </inlinemediaobject>
+                    </para>
+                 </formalpara>
+                 <formalpara>
+                     <title>Wulfhund</title>
+                     <para>Large sight hound used to hunt dangerous game. Very popular in the
+                        Marches. Height ranges from 79 cm to 86 cm for males. From 71 cm to 86 cm
+                        per females. Weight ranges from 40 to 50 kg for females and 54 to 75 kg for
+                        males. Lifespan is from 5 to 12 years. <inlinemediaobject>
+                            <imageobject>
+                                <imagedata fileref="reference/merova/wulfhund.jpg"/>
+                            </imageobject>
+                        </inlinemediaobject></para>
+                 </formalpara>
+                 <formalpara>
+                     <title>Diggers</title>
+                     <para>Also called Creuseurs. Small scent hound (About Beagle size) used to hunt rodents and burrowing creatures.
+                         It it's height varies from 33 to 42 cm. Weight ranges from 9 to 11 kg for the females and 10 to 14 kg for the males.
+                         Average lifespan is about 12 years.
+                     </para>
+                 </formalpara>
+            </section>
+            <section>
                 <title>Horses</title>
-                <para>Several breeds brough by Merova settlers.Used for transportation, pulling wagons and plows.</para>
-            </formalpara>
-            <formalpara>
-                <title>Cattle</title>
-                <para>Several breeds brough by Merova settlers.Used for meat, and farmers trained oxen to pull heavier loads.</para>
-            </formalpara>
-            <formalpara>
-                <title>Pigs</title>
-                <para>Several breeds brough by Merova settlers.</para>
-            </formalpara>
-            <formalpara>
-                <title>Sheep</title>
-                <para>Several breeds brough by Merova settlers.</para>
-            </formalpara>
-            <formalpara>
-                <title>Chickens</title>
-                <para> Raised in coops</para>
-            </formalpara>
-            <formalpara>
-                <title>Ducks</title>
-                <para> Raised in fenced-in yards</para>
-            </formalpara>
-            <formalpara>
-                <title>Otters</title>
-                <para>Tamed by settlers after they arrived in Merova</para>
-            </formalpara>
-            <formalpara>
-                <title>Beavers</title>
-                <para>Tamed by settlers after they arrived in Merova</para>
-            </formalpara>
+                <formalpara>
+                    <title>Merova Cob</title>
+                    <para>Typically used as war horses (though sometime as draft houses),  
+                        Cobs are generally gray or black in coloring with white verigation. 
+                        The head has a straight profile, broad forehead, large eyes and long thin ears. T
+                        he chest is deep and wide and the croup long and level. The legs are heavily muscled,
+                        and the lower legs generally have heavy white feathering. 
+                        Enthusiasts describe the temperament as alert, and members of the breed are considered 
+                        intelligent, willing workers with good dispositions, 
+                        and easy keepers.
+                        <table  xml:id="tbl-merova-cob-attributes" frame='all'>
+                            <title>Cob</title>
+                            <tgroup cols="3">
+                                <colspec align="left"  colname="attribute-col" />
+                                <colspec align="left"  colname="male-attr" />   
+                                <colspec align="left"  colname="female-attr" />   
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="aqua" ?>
+                                        <entry>Attribute</entry>
+                                        <entry>Stallion</entry>
+                                        <entry>Mare</entry>
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Height</entry>
+                                        <entry>18-21 hands (182-213 cm)</entry>
+                                        <entry>16.5-19 hands (168-193 cm)</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Weight</entry>
+                                        <entry>540-1270 kg</entry>
+                                        <entry>417-950 kg</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Walking Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">3-8 kph, 7 hrs, 21-56 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Trotting Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">13 – 19 kph, 2 hrs, 26-38 km </entry>
+                                    </row>
+                                    <row>
+                                        <entry>Canter Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">10-17 kph, hrs , 6 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Gallop Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">30-45 kph, 3 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Average Lifespan</entry>
+                                        <entry namest="male-attr" nameend="female-attr">25 to 30 years</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </para>
+                </formalpara>
+                <formalpara>
+                    <title>Merova Trotter</title>
+                    <para>Primarily used as a riding and harness horse is  usually brown to dark brown in color.
+                        It has a very high endurance and are able to travel up to 75 km per day,
+                     usually outstripping the endurance of their riders.      
+                        <table  xml:id="tbl-merova-trotter-attributes" frame='all'>
+                            <title>Trotter</title>
+                            <tgroup cols="3">
+                                <colspec align="left"  colname="attribute-col" />
+                                <colspec align="left"  colname="male-attr" />   
+                                <colspec align="left"  colname="female-attr" />   
+                                <thead>
+                                    <row>
+                                        <?dbfo bgcolor="aqua" ?>
+                                        <entry>Attribute</entry>
+                                        <entry>Stallion</entry>
+                                        <entry>Mare</entry>
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry>Height</entry>
+                                        <entry>15 to 17 hands (152-172 cm)</entry>
+                                        <entry>15 to 16.5 hands (152-168 cm)</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Weight</entry>
+                                        <entry>540 to 1,270 kg</entry>
+                                        <entry>500-1200 kg</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Walking Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">3-6 kph, 9 hrs, 27-54 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Trotting Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">14–21 kph, 3 hrs, 42-63 km </entry>
+                                    </row>
+                                    <row>
+                                        <entry>Canter Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">17-25 kph, 6 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Gallop Speed and Range</entry>
+                                        <entry namest="male-attr" nameend="female-attr">33-48 kph, 3 km</entry>
+                                    </row>
+                                    <row>
+                                        <entry>Average Lifespan</entry>
+                                        <entry namest="male-attr" nameend="female-attr">25 to 30 years</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </para>
+                </formalpara>
+            </section>
+            <section>
+                <title>Livestock</title>
+                <formalpara>
+                    <title>Cattle</title>
+                    <para>Several breeds brough by Merova settlers.Used for meat, and farmers trained oxen to pull heavier loads.</para>
+                </formalpara>
+                <formalpara>
+                    <title>Pigs</title>
+                    <para>Several breeds brough by Merova settlers.</para>
+                </formalpara>
+                <formalpara>
+                    <title>Sheep</title>
+                    <para>Several breeds brough by Merova settlers.</para>
+                </formalpara>
+                <formalpara>
+                    <title>Chickens</title>
+                    <para> Raised in coops</para>
+                </formalpara>
+                <formalpara>
+                    <title>Ducks</title>
+                    <para> Raised in fenced-in yards</para>
+                </formalpara>
+                <formalpara>
+                    <title>Otters</title>
+                    <para>Tamed by settlers after they arrived in Merova</para>
+                </formalpara>
+                <formalpara>
+                    <title>Beavers</title>
+                    <para>Tamed by settlers after they arrived in Merova</para>
+                </formalpara>
+            </section>
         </section>
         <section xml:id="merova-culture-physical-environment-esoterica">
             <title>Esoterica</title>
-            <para>Magical resources are ....</para>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                    <listitem>
-                        <para>.</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>Merova is a region filled with esoteric energies especially mana, spirit and the divine </para>
             <formalpara>
                 <title>Ley Lines</title>
-                <para/>
+                <para>
+                It is common knowledge that Merova has several large ley lines of great strength .      
+                </para>
             </formalpara>
             <formalpara>
                 <title>Eruptions</title>
@@ -738,158 +663,14 @@
     <chapter xml:id="merova-culture-history">
         <title>Merovan History</title>
         <para>A culture’s history, including colonization, wars, migrations, and revolutions, impacts its identity and traditions..</para>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>Where did it begin?</para>
-                </listitem>
-                <listitem>
-                    <para>What directions did it spread?</para>
-                </listitem>
-                <listitem>
-                    <para>Impact of magic?</para>
-                </listitem>
-                <listitem>
-                    <para>Impact of non-human races, if any?</para>
-                </listitem>
-                <listitem>
-                    <para>Impact of actions or direct interventions of the gods?</para>
-                </listitem>
-                <listitem>
-                    <para>Conflicts ?</para>
-                </listitem>
-                <listitem>
-                    <para>Succession of rulers and/or changes in the form of government</para>
-                </listitem>
-                <listitem>
-                    <para>Invasions, movements of peoples, or dramatic mass migrations</para>
-                </listitem>
-                <listitem>
-                    <para>Disaster related to plague, fire, disease, famine, pestilence,
-                        etc.</para>
-                </listitem>
-                <listitem>
-                    <para>Victory in war, establishment or expansion of colonies, major changes in
-                        borders, etc.</para>
-                </listitem>
-                <listitem>
-                    <para>Take note of dates when a natural event reduced or increase the amount
-                        of natural resources (food, water, timber etc.) </para>
-                </listitem>
-                <listitem>
-                    <para>Take note of dates when a unnatural event change the resources as
-                        well</para>
-                </listitem>
-                <listitem>
-                    <para>Keep in mind recovering from war takes about a generation without any
-                        major wars.</para>
-                </listitem>
-                <listitem>
-                    <para>Track specific dates one power shifted in civilizations (through who,
-                        death of a monarch that something) and one of the powershift was
-                        smooth.</para>
-                </listitem>
-                <listitem>
-                    <para>How far back are there records or tales of historical events? </para>
-                </listitem>
-                <listitem>
-                    <para>How widely known are these stories?</para>
-                </listitem>
-                <listitem>
-                    <para>Do average people believe old tales, or do they dismiss some that have a
-                        basis in fact (e.g., Troy)?</para>
-                </listitem>
-                <listitem>
-                    <para>Who are the neighboring countries/peoples and what are they
-                        like?</para>
-                </listitem>
-                <listitem>
-                    <para>Why did people settle in this country in the first place — strategic
-                        location, trade route, water transport, minerals, good farming, etc.?
-                        \</para>
-                </listitem>
-                <listitem>
-                    <para>Have things changed much since, or do they still depend on whatever
-                        brought them in the first place?</para>
-                </listitem>
-                <listitem>
-                    <para>Who are the rivals or enemies of this country? How close are they
-                        physically? How powerful?</para>
-                </listitem>
-                <listitem>
-                    <para>Who are the heroes and villains of each country’s history (e.g.,
-                        Washington and Lincoln in the U.S.; Henry V in England, etc.)? </para>
-                </listitem>
-                <listitem>
-                    <para>Why are they heroes/villains and what do this say about the country and
-                        the people who admire them?</para>
-                </listitem>
-                <listitem>
-                    <para>Which peoples/countries/races have been in conflict in the recent past?
-                        Why? When and why was the most recent war? Who won?</para>
-                </listitem>
-                <listitem>
-                    <para>Which peoples/countries/races fought, allied, traded, or were
-                        traditional rivals? Where are there still hard feelings about old
-                        events?</para>
-                </listitem>
-                <listitem>
-                    <para>How do the weapons of this country compare with those of surrounding
-                        cities and countries?</para>
-                </listitem>
-                <listitem>
-                    <para>Have there been recent innovations that may upset the balance of power,
-                        or is everyone more or less equal?</para>
-                </listitem>
-                <listitem>
-                    <para>How many people are there in this country?</para>
-                </listitem>
-                <listitem>
-                    <para>How does this compare with world population?</para>
-                </listitem>
-                <listitem>
-                    <para>What is considered a small town/large town/city in terms of number of
-                        people?</para>
-                </listitem>
-                <listitem>
-                    <para>How diverse is the population of this country — how many different races
-                        (human or non-human), creeds, etc. normally live in various cities and towns
-                        in this country?</para>
-                </listitem>
-                <listitem>
-                    <para>In what percentages?</para>
-                </listitem>
-                <listitem>
-                    <para>How do the weapons of this country compare with those of surrounding
-                        cities and countries?</para>
-                </listitem>
-                <listitem>
-                    <para>Have there been recent innovations that may upset the balance of power,
-                        or is everyone more or less equal?</para>
-                </listitem>
-            </itemizedlist>
-        </para>
+        <para>...</para>
         <section xml:id="merova-culture-history-prehistory">
             <title>Merovan Pre History</title>
             <para/>
         </section>
         <section xml:id="merova-culture-history-meme">
             <title>Merovan Historical Memes</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What are the cultural conversations ? (Russians: I am not complaining)</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the powerful myths ?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the memes?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>...</para>
         </section>
         <section xml:id="merova-culture-history-zzz3">
             <title>Merovan ZZZ</title>
@@ -902,17 +683,7 @@
     </chapter>
     <chapter xml:id="merova-culture-external-influences">
         <title>External Influences</title>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>.</para>
-                </listitem>
-                <listitem>
-                    <para>.</para>
-                </listitem>
-            </itemizedlist>
-        </para>
+        <para>...</para>
         <section xml:id="merova-culture-external-influences-zzz1">
             <title>Other Cultures</title>
             <para/>
@@ -932,35 +703,7 @@
     </chapter>
     <chapter xml:id="merova-culture-beliefs-and-values">
         <title>Merovan Beliefs and Values</title>
-        <para>
-            The foundational principles and ideas that a culture holds to be true or important.
-            Examples: Concepts of morality, spirituality, freedom, equality, or honor.
-        </para>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>Who are this culture’s historic heroes and villains (e.g.,
-                        Washington and Lincoln in the U.S.; Henry V in England, etc.)?</para>
-                </listitem>
-                <listitem>
-                    <para>Why are they admired as heroes/villains and what does this say about
-                        the people who admire them?</para>
-                </listitem>
-            </itemizedlist>
-        </para>
-        <section>
-            <title>ZZZ</title>
-            <para/>
-        </section>
-        <section>
-            <title>ZZZ</title>
-            <para/>
-        </section>
-        <section>
-            <title>ZZZ</title>
-            <para/>
-        </section>
+        <para>...</para>
         <section>
             <title>Memes</title>
             <para/>
@@ -970,122 +713,7 @@
         <title>Language and Communication</title>
         <para>The primary means of communication, including spoken and written languages, dialects, and non-verbal cues (gestures, body language, etc.).
             Language often reflects cultural priorities (e.g., Inuit languages have multiple words for snow).</para>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>How many languages are there? </para>
-                </listitem>
-                <listitem>
-                    <para>Which ones are related (e.g., the Romance languages) and why? </para>
-                </listitem>
-                <listitem>
-                    <para>Which languages borrow words or phrases from other languages?  </para>
-                </listitem>
-                <listitem>
-                    <para>Which is likely to be most widely spoken?</para>
-                </listitem>
-                <listitem>
-                    <para>Is there a “trade language” that facilitates commerce between countries that don’t speak the same tongue? </para>
-                </listitem>
-                <listitem>
-                    <para>Is there a “universal language” spoken by educated or noble persons, as Latin was in the Middle Ages?</para>
-                </listitem>
-                <listitem>
-                    <para>What languages are spoken?, </para>
-                </listitem>
-                <listitem>
-                    <para>How is the language recorded?, </para>
-                </listitem>
-                <listitem>
-                    <para>How are messages and information passed along?, </para>
-                </listitem>
-                <listitem>
-                    <para>How is history recorded?,</para>
-                </listitem>
-                <listitem>
-                    <para>is the society literate or illiterate?, </para>
-                </listitem>
-                <listitem>
-                    <para>Who provides education?, </para>
-                </listitem>
-                <listitem>
-                    <para>Who receives education?, </para>
-                </listitem>
-                <listitem>
-                    <para>What is the "technology" involved in long distance communication?</para>
-                </listitem>
-                <listitem>
-                    <para>Is there a “trade language” that facilitates commerce between countries that don’t speak the same tongue?</para>
-                </listitem>
-                <listitem>
-                    <para>Is there a “universal language” spoken by educated or noble persons, as Latin was in the Middle Ages?</para>
-                </listitem>
-                <listitem>
-                    <para>Are some or all people bilingual?</para>
-                </listitem>
-                <listitem>
-                    <para>Is there a common second language many people know?</para>
-                </listitem>
-                <listitem>
-                    <para>Are there “secret” languages or codes known only by priests, soldiers, wizards, guild members, etc.?</para>
-                </listitem>
-                <listitem>
-                    <para>Why were they developed?</para>
-                </listitem>
-                <listitem>
-                    <para>What are the variations in speech patterns, syntax, and slang from one social class to another?</para>
-                </listitem>
-                <listitem>
-                    <para>One occupation to another?</para>
-                </listitem>
-                <listitem>
-                    <para>One region to another?</para>
-                </listitem>
-                <listitem>
-                    <para>One race to another?</para>
-                </listitem>
-                <listitem>
-                    <para>What areas do local slang phrases come out of?</para>
-                </listitem>
-                <listitem>
-                    <para>What kinds of colorful turns of phrase do people use?</para>
-                </listitem>
-                <listitem>
-                    <para>What things in this culture would their language have many specific words for ?</para>
-                </listitem>
-                <listitem>
-                    <para>What do the people in this culture consider important enough to name?</para>
-                </listitem>
-                <listitem>
-                    <para>What does this say about the way they look at the world?</para>
-                </listitem>
-                <listitem>
-                    <para>What things would the people of this culture not have a name for, or have one word that covers numerous variations?</para>
-                </listitem>
-                <listitem>
-                    <para>What do they consider too unimportant to name?</para>
-                </listitem>
-                <listitem>
-                    <para>How does this affect the way they see the world?</para>
-                </listitem>
-                <listitem>
-                    <para>Are there words that must never be spoken except at particular times, in ceremonies, or under particular circumstances?</para>
-                </listitem>
-                <listitem>
-                    <para>Are there words that must not be spoken in polite company?</para>
-                </listitem>
-                <listitem>
-                    <para>Do these words differ from culture to culture or race to race?</para>
-                </listitem>
-                <listitem>
-                    <para>What will people swear a binding oath by?</para>
-                </listitem>
-                <listitem>
-                    <para>What do people use as curse words?</para>
-                </listitem>
-            </itemizedlist>
-        </para>
+        <para>...</para>
         <section xml:id="merova-culture-language-and-communication-zzz">
             <title>ZZZ</title>
             <para/>
@@ -1095,17 +723,7 @@
         <title>Merovan Social Norms and Behaviors</title>
         <para>The social mores and unwritten rules that govern acceptable behavior in a society.
             Examples: Greetings, table manners, dress codes, and etiquette.</para>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>.</para>
-                </listitem>
-                <listitem>
-                    <para>.</para>
-                </listitem>
-            </itemizedlist>
-        </para>
+        <para>...</para>
         <section xml:id="merova-culture-social-norms-and-behaviors-general-social-traditions">
             <title>General Social Traditions</title>
             <para>
@@ -1119,600 +737,112 @@
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-general-rituals">
             <title>General Social Rituals</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What are the holidays?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>...</para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-birth-social-traditions">
             <title>Childbirth Social Traditions</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What preparations for the birth do the parents make before birth?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there any taboos that must be avoided?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there any foods that must be eaten, or clothes that must be worn, or colors that must be avoided.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What restrictions are put on the mother during her pregnancy?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What restrictions are put on the father during her pregnancy?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the birth surrounded by fear or by joy?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are evil spirits considered present, so that they must be warded off?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are good spirits lured in?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the process moved from the realm of the natural into the realm of the medical, with families held apart from the woman in labor, and the entire endeavor treated as a disease, or a problem that must be fixed?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the new child welcomed or dreaded?</para>
-                    </listitem>
-                    <listitem>
-                        <para>During childbirth, do families gather while the woman is celebrated and cheered, or is she hustled away to a dark tent somewhere, looked at as filthy, and treated as if she were in need of cleansing?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Under what circumstances will the newborn be welcomed?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Under what circumstances will the newborn be welcomed: Does gender matter?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Under what circumstances will the newborn be welcomed: Does health matter?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Under what circumstances will the newborn be welcomed: Does parentage matter, or the social status of the family, or the marital status of the parents?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How is the newborn welcomed?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the culture in some way test its newborns for their ability to survive (as the Romans did with some newborns and exposure)?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there circumstances in which a newborn might be marked for death, as were firstborns offered as sacrifices in some cultures?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will some babies be killed before or after birth because of issues like gender, known or suspected deformity, questions about paternity, or something else?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para>...</para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-birth-rituals">
             <title>Childbirth Rituals</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Does the family have community obligations to fulfill before, during, or after the birth of the child? If yes, describe them.</para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the family have religious obligations to fulfill before, during, or after the birth of the child? If yes, describe them.</para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the family have government obligations to fulfill before, during, or after the birth of the child. If yes, describe them.</para>
-                    </listitem>
-                </itemizedlist>
+            ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-birth-expectations">
             <title>Childbirth Expectations</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What expectations does a family have regarding the birth of the child? That it will be male? That it will be Female? That it will be Healthy? Have a specific birthmark? Fill a specific role in society when it grows up?                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the time or date of birth figure into these expectations? .</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-birth-success-vs-failure">
             <title>Childbirth Success or Failure</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>While in general a live birth and a healthy mother will be considered successful, and a dead mother or child will be considered a failure, there might be circumstances wherethis will not be true.</para>
-                    </listitem>
-                    <listitem>
-                        <para>If there are, what are the circumstances?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The culture might have other criteria that determine the success or failure of the birth, from the gender of the child to whether the child was a lucky or unlucky number (the lucky first kid, the unlucky fourth), to whether the child had a specific birthmark, or was born at a specific date or hour, or whether the child did something at birth that was considered good or bad.</para>
-                    </listitem>
-                    <listitem>
-                        <para>What sort of other criteria does the culture use to determine the success or failure of the birth?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-social-traditions">
             <title>Childhood Social Traditions</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Before they can walk and talk, how are children treated and tended, and by whom?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Once they are able to walk and talk, how does this change?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Once they can reason (about age six), how does this change?</para>
-                    </listitem>
-                    <listitem>
-                        <para>At what age are they considered useful?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are these stages of their lives marked off?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Do they have special clothes that they wear?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Do they have hairstyles that mark their status?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-rituals">
             <title>Childhood Rituals</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para> Does the culture celebrate rituals that mark the passing stages of childhood?
-                            If so, what are the stages, and what are the rituals</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-expectations">
             <title>Childhood Expectations</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What expectations do parents have of a child at each stage of childhood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How do these expectations vary from child to child in a family?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Do boys have different roles than girls?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are expectations different for the  firstborn than the lastborn? (For example, the firstborn is expected to take over the family farm, the lastborn is expected to stay home,never marry, and take care of the parents as they grow old.)</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are expectations different across social  strata?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How do the occupations of the parents affect expectations on the children?   </para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-value-of-learning">
             <title>Value of Education</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How is the education of the young carried out in your culture?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By apprenticeships?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By learning at home?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By fostering out?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By  mentoring with masters? By sitting in a classroom reading textbooks?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What sorts of careers are possible in your culture, and how do children prepare to achieve them?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they chosen by status?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By ability?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By competition?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By lottery?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By gender?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By race?</para>
-                    </listitem>
-                    <listitem>
-                        <para>By oracle from the time of birth?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Aside from innate intelligence, are there barriers that prevent a child of your culture from obtaining the education another child could have?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Slavery or caste status?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Poverty?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Illegitimate birth, ill-favored birth, bad birthmark, ugliness, race, gender, or something else?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-why">
             <title>Why?</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>So. How does your culture answer the question “Why?”</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does it treat those who persistently dare to ask “Why?”</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-childhood-success-vs-failure">
             <title>Childhood Success or Failure</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>The perfect child of your culture will do.... what?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will be.... what?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will achieve what by the end of the age that your culture defines as the end of childhood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The failed child of your culture will do.... what?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will be.... what?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will achieve what by the end of the age that your culture defines as the end of childhood?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-social-traditions">
             <title>Young Adult Social Traditions</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How does your culture determine who is and who is not a young adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What part do the actions of the would-be adult play in becoming a young adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is adulthood seen as an achievement, or do people glorify the more helpless state of childhood as some sort of ideal lost Eden?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges does the young adult earn by making this passage?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges are withheld for a later level of achievement, or later status? (If any)</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are these later increases in achievement given?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-rituals">
             <title>Young Adult Rituals</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What family rituals mark the entrance of the child into young adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The choosing of a spouse?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Sending off to a craft master for additional education?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The deeding of a piece of land?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The building of an independent home?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The gift of money, or a set of tools?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What community rituals mark the entrance of the child into young adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Hazing?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A huge party?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A gathering in which young adults are presented to society as available for matrimony?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What religious rituals mark the entrance of the child into young adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A coming of age ceremony?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The assumption of a role in the religion, either as an acolyte or a full member?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The taking of vows to the religion?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What government rituals mark the entrance of the child into young adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Swearing fealty to a king or lord?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Entrance into military service?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The duty of taxes?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The requirement of a gift to the leader?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Right to vote, own property, become self-determining?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-expectations-of-work">
             <title>Young Adult Expectations of Work</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Is the young adult a fully functioning member of society, or is he still considered untried?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does gender, race, or social status change the expectations with which the culture views the new young adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What work is open to the young adult that is not open to full adults or children?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What work is closed to the young adult that is available to children or full adults?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does the young adult in your culture regard future career improvements?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is it possible to change jobs?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is it possible to choose different work?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is it possible to pursue dreams?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-expectations-of-sex">
             <title>Young Adult Expectations of Sex</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How will the young adult of your culture find a mate?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Will he or she seek one out, or will the culture provide approved methods of presenting acceptable candidates?                     </para>
-                    </listitem>
-                    <listitem>
-                        <para>Does your young adult have any choice in the selection process?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the creation of a family an immediate requirement of the young adult, or is a period of singleness (with or without possible experimentation) permissible, or evenxpected?</para>
-                    </listitem>
-                    <listitem>
-                        <para>If singleness is permissible or accepted, what expressions of sexuality are permitted within your culture?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What happens to those young adults who stray outside of the permissible? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Punishment, shunning, banishment, execution?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-conformism-and-rebellion">
             <title>Young Adult Conformism and Rebellion</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How does your culture view the rebellion of the young adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does it treat the rebellious young adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does the young adult who wants to rebel do so and still survive the experience?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-young-adult-success-vs-failure">
             <title>Young Adult Success or Failure</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>The perfect young adult male in your culture will ....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The perfect young adult female in your culture will ....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The failed young adult male in your culture will....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The failed young adult female in your culture will ....?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-adulthood-social-traditions">
             <title>Adulthood Social Traditions</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How does your culture determine who is and who is not a full adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there tests?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Rituals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Mandatory forms of government or religious service?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Gender barriers?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Race barriers?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Caste barriers?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What part do the actions of the young adult play in giving him access to full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is full adulthood seen as an achievement, or is it something people just age into?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does your culture view full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges does the adult earn by achieving this passage?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there multiple layers of full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges are withheld for a later level of achievement, or later status? (If any)</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are these later increases in achievement given?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-adulthood-rituals">
             <title>Adulthood Rituals</title>
             <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-
-                    <listitem>
-                        <para>What family rituals mark the entrance of the young adulthood into full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The successful birth of a first child?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The opening of a personal business, studio, or craft?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A place of prestige in the family hierarchy?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What community rituals mark the entrance of the young adult into full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Admission into a secret society?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A place of prestige in a community group?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The newly minted full adult taking on apprentices?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What religious rituals mark the entrance of the young adult into full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The assumption of a role in the religion, either as an elder or a full member?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A ceremony?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The assumption of a leadership role that will see the new leader teaching, or in other ways presenting the religion to others?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What government rituals mark the entrance of the young adult into full adulthood?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Recognition by a king or lord?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Completion of military service, or a raise in rank or status?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The right to collect taxes?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Ability to become a leader?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Right to bestow property, or bestow rank or privilege on others?</para>
-                    </listitem>
-                </itemizedlist>
+                ...
             </para>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-adulthood-expectations-of-work">
@@ -1791,187 +921,23 @@
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-adulthood-conformism-and-rebellion">
             <title>Adulthood Conformism and Rebellion</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How does your culture view the rebellion of the full adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does it treat the rebellious full adult?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does the full adult who wants to rebel do so and still survive the experience?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The perfect full adult male in your culture will ....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The perfect full adult female in your culture will ....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The failed full adult male in your culture will....?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The failed full adult female in your culture will ....?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-old-age-social-traditions">
             <title>Old Age Social Traditions</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>How does your culture determine who is and who is not an elder?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What part do the actions of the full adult play in moving him into the category of elder?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is old age seen as an achievement, or is it something people just age into? Do people attempt to fend it off? How does your culture view old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges does the elder earn by achieving this passage? Are there multiple layers of old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What privileges or later status are withheld for elders, if any?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are these later increases in achievement given?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-old-age-rituals">
             <title>Old Age Rituals</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What family rituals mark the entrance of full adulthood into old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The successful birth of a first grandchild?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The wedding of the last child?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The giving of a place of honor in the family hierarchy?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Leaving work to retire?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What community rituals mark the entrance of the full adult into old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A place of leadership in a secret society?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A place of prestige in a community group?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A master- raftsman status that brings other masters to study with the elder?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What religious rituals mark the entrance of the full adult into old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>The assumption of a role in the religion, or the handing off of responsibilities to someone younger?</para>
-                    </listitem>
-                    <listitem>
-                        <para>A ceremony?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Becoming overseer of the new leaders who teach the religion?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What government rituals mark the entrance of the full adult into old age?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Recognition by a  king or lord?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Retirement from military service with or without pension?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Release from the payment of taxes?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Ability to become a leader?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Right to bestow property, or bestow rank or privilege on others?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-old-age-expectations-of-work">
             <title>Old Age Expectations of Work</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Is the elder expected to teach his craft or transmit the culture’s heritage, mores, and conventions? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the elder expected to explore spirituality, to transmit or create laws or other forms of guidance for those coming behind? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the elder expected to find lessons from his long life and turn them into something useful for younger generations?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does gender, race, or social status change the expectations with which the culture views the elder and his work?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What work is open to the elder that is not open to others? </para>
-                    </listitem>
-                    <listitem>
-                        <para>What work is closed to the elder that is available to others?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How does the elder in your culture regard future career advancements, or career continuance? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the elder look forward to a future in which he is secure, or into an abyss of gradual poverty and darkness? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Is he/she permitted control of his own destiny? </para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-old-age-expectations-of-sex">
             <title>Old Age Expectations of Sex</title>
-            <para>
-                <itemizedlist>
-                    <listitem>
-                        <para>How will the elder of your culture deal with a mate lost to desertion or death? </para>
-                    </listitem>
-                    <listitem>
-                        <para>How will he or she replace a lost mate? </para>
-                    </listitem>
-                    <listitem>
-                        <para>How will he deal with sexuality if single?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Does the culture press the elder to maintain and support numbers of wives or concubines, and assist in the upkeep of households of his adult children and their families? </para>
-                    </listitem>
-                    <listitem>
-                        <para>What are the responsibilities of the elder to his progeny?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the elder permitted sexual experimentation of any sort, or is that something that must be put aside?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What happens to those elders who stray outside of the permissible modes of sexual expression? Punishment, shunning, banishment, execution?</para>
-                    </listitem>
-
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-norms-and-behaviors-old-age-conformism-and-rebellion">
             <title>Old Age Conformism and Rebellion</title>
@@ -2607,246 +1573,24 @@
         </section>
         <section xml:id="merova-culture-social-organization-legislative-power">
             <title>Legislative Power</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>Who makes the laws in your culture?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How did this person or group get the job?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How do they deal with old laws?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Do they have a guiding principle around which they must form their laws (a constitution, a religious book, a historic epic poem, a collection of antiquated laws)?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there areas or subjects about which they may not make laws (religion, sex, pregnancy and childbirth, composition of additives to coffee, availability of booze)?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are the laws required to represent everyone, or do separate laws apply to separate people?</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-organization-judicial-power">
             <title>Judicial Power</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What sort of justice system prevails in your culture?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Who judges presumed criminals? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there checks and balances–a mandated government or private representative for the accused, a jury of peers? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Or is guilt presumed with the judge holding the role of judge and jury, and the accused forced to speak for himself and prove his own case?</para>
-                    </listitem>
-                    <listitem>
-                        <para>How are sentences given?</para>
-                    </listitem>
-                    <listitem>
-                        <para> Is there a code with fixed sentences for certain crimes? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there restrictions in the form of sentencing, or can the judge require the convicted criminal to run in circles naked in the town square because he thinks it would be funny?    </para>
-                    </listitem>
-                    <listitem>
-                        <para>Who carries out sentences? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Is there a prison system, a series of work farms, a mandatory slavery system, automatic execution? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Are there guards, bailiffs, slave markets, overseers? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Is the family of a criminal subject to the same punishment as the criminal? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Can, for example, an entire family be sold into slavery to pay off one man’s unpaid debts? Can an entire extended family be executed because of a “contagion” theory of criminality, where anyone who is related to a criminal is guilty of being a criminal, too</para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-organization-surreptitious-power">
             <title>Surreptitious Power</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para>What surreptitious power-holders does your culture have? </para>
-                    </listitem>
-                    <listitem>
-                        <para>How do they work? </para>
-                    </listitem>
-                    <listitem>
-                        <para>Who can be members?</para>
-                    </listitem>
-                    <listitem>
-                        <para>What are their goals?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they government insiders, or do they influence the government through secret manipulation from outside, or are their goals unrelated to their own government and their interests turned elsewhere?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they basically good—people working to overthrow corruption and slavery and a regime filled with torture and injustice?</para>
-                    </listitem>
-                    <listitem>
-                        <para>Are they basically evil—working to acquire ever more power at the expense of people already less powerful? </para>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
         <section xml:id="merova-culture-social-organization-zzz3">
             <title>ZZZ</title>
-            <para>
-                <itemizedlist>
-                    <title>Razors for Distinguishing</title>
-                    <listitem>
-                        <para/>
-                    </listitem>
-                </itemizedlist>
-            </para>
+            <para/>
         </section>
     </chapter>
     <chapter xml:id="merova-culture-clothing">
         <title>Merovan Clothing</title>
-        <para>
-            <itemizedlist>
-                <title>Razors for Distinguishing</title>
-                <listitem>
-                    <para>What do people wear?</para>
-                </listitem>
-                <listitem>
-                    <para>How expensive is it?</para>
-                </listitem>
-                <listitem>
-                    <para>Can the material be produced locally, or must some or all of it be
-                        imported?</para>
-                </listitem>
-                <listitem>
-                    <para>Are weapons a standard part of dress for any/all segments of
-                        society?</para>
-                </listitem>
-
-                <listitem>
-                    <para>Are certain clothes customary for certain occupations — e.g., military
-                        uniforms, judges robes/wigs, sports teams uniforms, etc.?</para>
-                </listitem>
-                <listitem>
-                    <para>How much variation is allowed — could a scholar wear a day-glow green
-                        robe as long as the cut is right, or would that be too much?</para>
-                </listitem>
-                <listitem>
-                    <para>Is it color or style that is most important?</para>
-                </listitem>
-
-                <listitem>
-                    <para>Are the dyes for certain colors — purple, indigo, etc. — rare, making
-                        cloth of that color more expensive and/or reserved for nobility or other
-                        high-status people?</para>
-                </listitem>
-
-                <listitem>
-                    <para>Are there sumptuary laws, defining who can wear what?</para>
-                </listitem>
-                <listitem>
-                    <para>What are the penalties?</para>
-                </listitem>
-                <listitem>
-                    <para>Who decides when changes are needed?</para>
-                </listitem>
-                <listitem>
-                    <para>How often are they adjusted?</para>
-                </listitem>
-
-                <listitem>
-                    <para>Are there fashions/fads in things besides clothes — styles of carriages,
-                        furniture, etc.?</para>
-                </listitem>
-
-                <listitem>
-                    <para>Are there fashions/fads in magic — are herbal spells “in” this year and
-                        ritual spells “out,” or vice versa?</para>
-                </listitem>
-
-                <listitem>
-                    <para>How many changes of clothes can a normal person afford?</para>
-                </listitem>
-                <listitem>
-                    <para>A noble person?</para>
-                </listitem>
-                <listitem>
-                    <para>A peasant?</para>
-                </listitem>
-
-                <listitem>
-                    <para>What is the current fashion in clothes?</para>
-                </listitem>
-                <listitem>
-                    <para>Hats?</para>
-                </listitem>
-                <listitem>
-                    <para>Jewelry?</para>
-                </listitem>
-                <listitem>
-                    <para>Shoes?</para>
-                </listitem>
-                <listitem>
-                    <para>Do such fashions differ for humans/non-humans?</para>
-                </listitem>
-                <listitem>
-                    <para>Between city and country?</para>
-                </listitem>
-
-                <listitem>
-                    <para>What materials are appropriate to the climate?</para>
-                </listitem>
-                <listitem>
-                    <para>What materials must be imported, and are therefore for expensive
-                        upper-class clothes only?</para>
-                </listitem>
-
-                <listitem>
-                    <para>What things are considered tacky and vulgar, and what things are
-                        stylish?</para>
-                </listitem>
-
-                <listitem>
-                    <para>What types of decorations and accessories are common?</para>
-                </listitem>
-                <listitem>
-                    <para>What colors and combinations of colors are thought to look well or to
-                        clash?</para>
-                </listitem>
-                <listitem>
-                    <para>Do opinions on this vary from race to race?</para>
-                </listitem>
-
-                <listitem>
-                    <para>What physical types and characteristics are currently fashionable — tan
-                        vs. pale skin, the “consumptive look” vs. robust good health, fat vs. thin,
-                        blonde vs. brunette, muscles vs. “dead poet”, etc.?</para>
-                </listitem>
-
-                <listitem>
-                    <para>How do non-human fashions reflect their physiology?</para>
-                </listitem>
-                <listitem>
-                    <para>Do dragons dress for dinner?</para>
-                </listitem>
-                <listitem>
-                    <para>Do mermaids have a nudity taboo?</para>
-                </listitem>
-            </itemizedlist>
-        </para>
+        <para/>
         <section xml:id="merova-culture-clothing-birth">
             <title>Merovan</title>
             <para/>
@@ -3261,4 +2005,38 @@
             <para/>
         </section>
     </chapter>
+    
+    <index xml:id="book-of-merova-index">
+        <title>Book of Merova Index</title>        
+    </index>
+    
+    <glossary>
+        <title>World of Tanah Glossary</title>
+        <glossentry xml:id="glossentry-torgan-road">
+            <glossterm>Torgan Roads</glossterm>
+            <glossdef>
+                <para>
+                    <indexterm><primary>Torgan Road</primary></indexterm>
+                    Torgan roads are found everywhere on the continent. Ranging from 2 meters wide to 24 meters wide in a few places.   
+                    The roads are built with layered construction. Like Roman viaducts, they are often accompanied by aquaducts carrying water, 
+                    and interspersed with different features, such as widened plazas and fountains The roads are usually edged with walls 
+                    that vary from half a meter tall on the smaller roads to 2 m tall on the larger ones.
+                    Often the roads rise up on elevated structures consisting of a series of arches, spans, or piers designed to carry a road over a valley, lowland, 
+                    or other obstacles like rivers and wetlands. 
+                    The roads are built with a slight arch or camber to allow water to run off into ditches on either side, preventing flooding and erosion.
+                    Deep side ditches collect and direct rainwater away from the road with culverts and drainage pipes were built under the road when needed.
+                </para>
+            </glossdef>
+        </glossentry>
+        <glossentry xml:id="glossentry-torgan-road-trivium">
+            <glossterm>Trivium (plural triva)</glossterm>
+            <glossdef>
+                <para>
+                    A trivium is a widened plaza, usually found on a <link linkend="glossentry-torgan-road">Torgan road</link> usually containing 
+                    some combination of stone benches, walled stalls, and fountains. Often a combination of meeting place and open market for Torgan cities.
+                </para>
+            </glossdef>
+        </glossentry>
+    </glossary>
+    
 </book>
