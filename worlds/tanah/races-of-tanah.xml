@@ -58,11 +58,23 @@
                     </tbody>
                 </tgroup>
             </table>
-            <para>
-                The Bitadari are not your typical elves. They are a race with a lifestyles and cultures based on the fact that they go through different life cycles and forms.
-                Bitadari speak of distinct "Life Ages" or K\={i}. These are distinct forms. These forms have some basis in how old the elf is\footnote{There is almost no correlation to the chronological ages of the entity.} They are in name : Chawara (Infancy), Iquira (\={E}-kwer-a) (Childhood), Anatathan (An-a-ta-than) (Young Adult), Laenya (L\={a}-\={e}-nya) (Time of Passing), Sheerahnen (She-\={e}-rah-n\={e}n) (Fullness), Eya (\={E}-ya) (Inward Turning).
-                As a race the population of elves is driven by the environment. If Anatathan are needed than more Iquira become Anatathan and less Anatathan become Laenya. In times of war there will be more Anatathan than Iquira.
-            </para>
+            <para> The Bitadari are not your typical elves. They are a race with a lifestyles and
+                cultures based on the fact that they go through different life cycles and forms.
+                Bitadari speak of distinct "Life Ages" or L'Ti. These are distinct forms. These
+                forms have some basis in how old the elf is but there is almost no direct correlation to the chronological ages of the entity. .
+                They are in name 
+                <simplelist>
+                    <member> Chawara (Infancy)</member>
+                    <member>Iquira (Childhood)</member>
+                    <member>Anatathan (Young Adult)</member>
+                    <member> Laenya (Time of Passing)</member>
+                    <member>Sheerahnen  (Fullness)</member>
+                    <member>Eya (Inward Turning)</member>
+                    <member></member>
+                </simplelist>,
+                As a race the population of elves is driven by the
+                environment. If Anatathan are needed than more Iquira become Anatathan and less
+                Anatathan become Laenya. In times of war there will be more Anatathan than Iquira. </para>
             <formalpara>
                 <title>Chawara (Infancy)
                 </title>
@@ -180,7 +192,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-duwan">
@@ -192,35 +204,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -229,7 +241,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-kurrock">
@@ -241,35 +253,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -278,7 +290,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-uru">
@@ -290,35 +302,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -327,7 +339,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-wing-volk">
@@ -338,35 +350,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -375,7 +387,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-rupa-kechil">
@@ -386,35 +398,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -423,7 +435,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-torgan">
@@ -434,35 +446,35 @@
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -471,47 +483,47 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
         <section xml:id="tanah-nonhuman-yyy">
             <title>YYY</title>
-            <subtitle></subtitle>
+            <subtitle/>
             <table>
                 <title>Description</title>
                 <tgroup cols="2">
                     <tbody>
                         <row>
                             <entry>Avg. Male Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Height</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Male Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Avg. Female Weight</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Skin Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Hair Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Eye Color</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry>Stat Mods</entry>
-                            <entry></entry>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -520,7 +532,7 @@
             </para>
             <formalpara>
                 <title>ZZZZ</title>
-                <para></para>
+                <para/>
             </formalpara>
         </section>
     </chapter>
