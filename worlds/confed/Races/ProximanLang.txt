@@ -1,7 +1,0 @@
-Left Hand       :  Sa-Belah T'Kan
-Hand            : T'kan
-Hand (Body Part) : Tagan
-Prince          : Anak Raja
-Dagger          : K'Ris
-Dagger(Weapon)  : Keris
-Reality (Think) : Kenyataan
