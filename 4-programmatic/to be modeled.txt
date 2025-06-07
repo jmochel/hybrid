@@ -1,20 +1,4 @@
 
-To be modeled
-
-Community
-	Could be tied to location
-	Could be tied to transportation
-	Could have an itinerary
-	Members could inherit an itinerary or have their own overwriting+
-	Families
-	Clans
-			
-Hierarchical organization as a specialization of community
-Guilds
-
-Calendar - some sort of calendar tracking will need to be in place so that travel itineraries and other things it followed
-
-
 Land
     Duchies -> government community tied to location? 
     		City 
@@ -101,7 +85,7 @@ NPC
 		Conventional
 		Attitude
 		Irreverent
-		 
+		ï¿½
 		Commitments
 		
 		Quirks, Habits, & Oddities
@@ -183,28 +167,5 @@ Stats
 	Mental Combat Ability
 	Mental Defense
 	Mental Speed
-
-
-Skill packages
-
-Archetypes 
-
-Trade/economy
-
-Ley lines
-	
-Road network
-
-Government-layers/levels
-
-Creatures,
-
-Weather
-
-Initial population 
-
-Pull weather information from the same time period and location in the real world 5 or 10 years delayed.					
-		    				
-    				
 
 
