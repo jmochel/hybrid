@@ -1,0 +1,14 @@
+<class redirect="stdtest.1.output">
+    <name/>
+	<qualifiedName/>
+	<qualifiedTypeName/>
+	<package/>
+	<superclass/>
+    <shill redirect="{name}.1.{qualifiedName}.output">
+        <name/>
+        <qualifiedName/>
+        <qualifiedTypeName/>
+        <package/>
+        <superclass/>
+    </shill>
+</class>

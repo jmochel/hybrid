@@ -1,0 +1,52 @@
+H30492
+s 00002/00003/00002
+d D 1.2 01/07/17 09:07:22 jmochel 3 2
+c Checked in Together models
+c Cartesian Coordinate Calculations added and appear to work.
+cC
+cK31766
+e
+s 00005/00000/00000
+d D 1.1 01/07/13 18:14:22 jmochel 2 1
+cC
+cF1
+cK36262
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:22 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin.tws
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK58855
+cPmodels/mushin.tws
+cR47b561f0
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+D 3
+workspace.diagram.active = <oiref:design#Class#id1fvwgcp4bi4jzcp4c16xo.diagram:oiref>
+E 3
+I 3
+workspace.diagram.active = <oiref:design#Class#id3tg9vcp4bi4jzcp4fu5tl.diagram:oiref>
+E 3
+workspace.diagram.initial = <oiref:design#Class#id3y2ejcp4bi4jzcp4c03am.diagram:oiref>
+workspace.diagram.open.0 = <oiref:design#Class#id1fvwgcp4bi4jzcp4c16xo.diagram:oiref>
+D 3
+workspace.editor.open.0 = G:\mushin\src\mushin\ir\McTrie.java
+workspace.editor.open.1 = G:\mushin\src\mushin\metamodel\Model.java
+E 3
+I 3
+workspace.diagram.open.1 = <oiref:design#Class#id3tg9vcp4bi4jzcp4fu5tl.diagram:oiref>
+E 3
+E 2
+I 1
+E 1

@@ -1,0 +1,43 @@
+.Name INGLAIR ALAFASTAFARIEL
+.Title								
+.Race W.ELF
+.Culture
+.Aspect 
+.PST 14
+.PEN 14		
+.DEX 19
+.PAG 6		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 4'6"      
+.WT 90		 
+.AGE 144
+.BeginDesc
+ 13: A SCARRED FACE WITH ONE GOOD BLAC EYE. DAR BROWNISH HAIR.
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

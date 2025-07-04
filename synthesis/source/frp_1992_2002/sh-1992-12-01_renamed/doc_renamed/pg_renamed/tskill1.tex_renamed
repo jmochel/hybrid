@@ -1,0 +1,13 @@
+% FILE General Skill modifiers
+% REF
+
+\begin{stable}{General Modifiers}{lll}
+	Situation			& DF Modifier	& Other Modifier \\ 
+\TableSubtitleRule
+	No rank in skill 	& 				& \(1/2 BC \)	 \\
+	Florentine Action	& 				& 					\\  \hline
+	Mental Mental		& -3/-6			& DF -2 Awareness \\
+	Physical Physical	& -3/-6			& DF -2 Awareness	\\
+	Mental Physical		& -2/-4			& DF -2 Awareness	\\
+	Setup				& 				& \( 20\% + 2\% \times Rank \) \\ 
+\end{stable}

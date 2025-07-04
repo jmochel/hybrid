@@ -1,0 +1,10 @@
+============================================
+ Physical Skills
+============================================
+
+	Dance:(Type)                                      SB:PAG        Cost:3    DF:-2   
+	Movement:(Environment)                            SB:PAG        Cost:2    DF:0    
+	Quickdraw Projectile Weapon:(Specify Class of Weapon) SB:PDX        Cost:3    DF:-1   
+	Projectile Weapon:(Specify Weapon)                SB:ACC        Cost:3    DF:-1   
+	Melee Weapon:(Specify Weapon)                     SB:PCA        Cost:3    DF:-1   
+	Dodge                                             SB:PDF        Cost:2    DF:0    

@@ -1,0 +1,597 @@
+H37690
+s 00567/00000/00000
+d D 1.1 00/12/08 09:40:41 jmochel 2 1
+cC
+cF1
+cK09103
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:41 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/IronAndSilk/Menahan.tex
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK30896
+cPIronAndSilk/Menahan.tex
+cR6704615d
+cV4
+cX0x1a1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+\documentclass[10pt]{report}
+\begin{document}
+
+\title{{\it Menahan:Paladin of Zencha}}
+\author{JSJM}
+\date{\today}
+\maketitle
+
+\chapter{Basics}
+\section{Description}
+
+At  5'5"  and 201 pounds Menahan is a physically prepossessing individual with very dark brown eyes
+black hair and black armor. The primary impression is {\bf solid } and  {\bf black. }
+He has an obviously dense structure (74 HTK) with higher than average strength, constitution, build and drive.
+He also has the Aura of an inanimate object.
+
+He is typically dressed in Dalkan battle armor and demon helm mask. He has two katana slung over one shoulder,
+one wakasashi slung on the opposing hip, and a heavy pump-action crossbow of Dwarven make over the
+other shoulder.
+
+\section{Weapons And Armor}
+\subsection{Katana}
+
+\begin{table}{\bf Regular Katana Stats}\\[1ex]
+  \begin{tabular}{|c|c|}\hline
+          &      \\ \hline
+Encumbrance     & 3.8   \\
+Length  & 3.5 \\
+Parry Factor    & 10    \\
+Weapon Speed    & 10    \\
+Draw Speed      & 6     \\
+Slicing         & 2d8+3 \\
+Chopping        & d6 \\
+Piercing                & d4 \\
+Difficulty Factor       & 0 \\
+Quality         & 10/1 \\
+Wpn Mods        & 10/1 \\
+          &      \\ \hline
+  \end{tabular} \\[0.5ex]
+{}
+\end{table}
+
+
+\begin{table}{\bf Holy Sword Stats}\\[1ex]
+  \begin{tabular}{|c|c|}\hline
+          &      \\ \hline
+Encumbrance     & 3.8   \\
+Length  & 3.5 \\
+Parry Factor    & 10    \\
+Weapon Speed    & 10    \\
+Draw Speed      & 6     \\
+Slicing         & 2d8+3 \\
+Chopping        & d6 \\
+Piercing                & d4 \\
+Difficulty Factor       & 0 \\
+Quality         & 10/1 \\
+Wpn Mods        & 10/1 \\
+          &      \\ \hline
+  \end{tabular} \\[0.5ex]
+{}
+\end{table}
+
+\subsection{Wakasashi}
+
+\begin{table}{\bf Wakasashi Stats}\\[1ex]
+  \begin{tabular}{|c|c|}\hline
+          &      \\ \hline
+Encumbrance     & 2     \\
+Length  & 2 \\
+Parry Factor    & 5     \\
+Weapon Speed    & 6     \\
+Draw Speed      & 5     \\
+Slicing         & 2d8+1 \\
+Chopping        & 0 \\
+Piercing                & d4+1 \\
+Difficulty Factor       & -5 \\
+Quality         & 0/0 \\
+Wpn Mods        & -5/0  \\
+          &      \\ \hline
+  \end{tabular} \\[0.5ex]
+{}
+\end{table}
+
+\subsection{Armor}
+
+\begin{table}{\bf Armor Stats}\\[1ex]
+         \begin{tabular}{|l|c|c|c|c|c|c|c|c|}\hline
+        Armor              &A\#    &EN   &SL    &CH    &PR    &CR    &RP &HITS \\ \hline
+        CH/UA/UL        &11      &18    &11     &5        &4       &4        &6      &100   \\
+        CH/AB/UL        &10      &16    &8       &5        &5       &4        &7      &84    \\
+        Helm                &          &2.5    &14       &8      &5       &4        &8      &30    \\ \hline
+        LL               &          &2.5    &8       &5      &5       &4        &8      &15    \\ \hline
+        \end{tabular} \\[0.5ex]
+{}
+\end{table}
+
+Effects of armor : -4 AGL, -15 Defense, -5 Move
+
+\section{Standard Operating Procedure}
+
+\subsection{Communication}
+
+When talking with each member of the party he will use their native
+language or as close as possible.
+
+\begin{table}{\bf Languages used when communicating}\\[1ex]
+  \begin{tabular}{|c|c|}\hline
+        Person        &  Language \\ \hline
+        Pelleas       & Tarric \\
+        Kay             &  Tarric \\
+        Kalarina      & Phelosian \\
+        Running Kresh   & Phelosian \\
+        Jori              & Mearan \\
+        Morag               & Caernish \\
+        Robert Smythe    & Caernish \\
+        Dora        & Dwarvish \\
+        Osumi       & Dalkan and High Court Dalkan \\
+        Joseph     & Various \\
+          &      \\ \hline
+  \end{tabular} \\[0.5ex]
+{}
+\end{table}
+
+In action situations I will use Mearan when I am thinking
+clearly and Dalkan when I am in a hurry.
+
+\subsection{Morning Routine}
+
+From daybreak (5 am).
+
+\begin{enumerate}
+        \item Training Kalarina and Joseph in KI Focus (1/2 hr)
+        \item Training Joseph in sword and kata (1 hr)
+        \item Self Training / Chereographing new Kata (1/2 hr.)
+\end{enumerate}
+
+\subsection{Evening Routine}
+
+From dusk  (5 pm).
+
+\begin{enumerate}
+        \item Training as Ichiban with the crowd.
+\end{enumerate}
+
+
+\section{Possessions}
+
+\begin{description}
+        \item Bengali Gold oo
+        \item Bengali Silver ooooooo
+        \item Bengali Copper ooooo
+        \item Small Emerald
+        \item His Armour
+        \item His Katana
+        \item His Wakisashi
+        \item Magical Katana
+        \item Dai Kyu from Dom Cho   cost 5 gold
+        \item 20 Regular arrows
+        \item Large Leather water proof cloak (modified to allow iajutsu)
+        \item Large Leather Side Pouch    Waterproofed.
+        \item Black Colored Scabbard Waterproofing compound
+        \item Large Leather Boots with Cork soles.
+        \item One magical Poison Antidote
+        \item 1 bag 50 Small steel balls
+        \item 2 different bags of small pointy things from the 3 scar assassin
+        \item 3 bags of white,red, and black sand from the 3 scar assassin
+        \item 1 Set of small finger claws from the 3 scar assassin
+\end{description}
+
+\section{Vocabulary}
+{\small
+\begin{description}
+        \item[Hai] Yes
+        \item[IIE] No
+        \item[Dozo] Please (Offering SOmething)
+        \item[Dozo] Please (Informally)
+        \item[Onegai Shimasu] I request a Favor
+        \item[Doo Itashimashita] Think nothing of it
+        \item[Suminasen] Small excuse me.
+        \item[Gomen Nasai] Forgive me
+        \item[Konnichi Wa] Good Day, hello in afternoon
+        \item[Oyasumi Nasai] Good bye (I am going to bed)
+        \item[Domo Arigato Goziamsu] Thank you
+        \item[Inu] Dog
+        \item[Gaijin] Foreigner
+        \item[Menahan Desu] I am Menahan
+        \item[Anata Wa] I am Menahan
+        \item[Tabemono] Food
+        \item[Norimono] Drink
+        \item[Mizu] Water
+        \item[Ni] Sun
+        \item[Moku] Wood
+        \item[Tsuki] Moon
+        \item[Kin] Gold
+        \item[Odoru] Dance
+        \item[Kirai] Distasteful
+        \item[Yoi] Is good
+        \item[Warui] Is bad
+        \item[Saa] Now !
+        \item[Sureba Dame Desu] If you do it, it would be bad.
+        \item[Yanero] Give it up.
+        \item[Gohan] Rice.
+        \item[Dai] Big
+\end{description}
+}
+
+\chapter{Katas}
+\section{Sweeping Blade Kata}
+The Sweeping Blade Kata has a 5 Difficulty Factor
+for the Simultaneous Slash at the end.
+
+\twocolumn
+\subsection{1st Form}
+\begin{itemize}
+         \item Neutral Stance
+         \item Step/Draw
+         \item Step/Draw
+         \item Pause/Pose
+         \item Look/Turn
+         \item Wak left Parry
+         \item Kat Left Strike
+         \item Step
+         \item Wak right Parry
+         \item Kat right Strike
+         \item Step
+         \item Wak left Block
+         \item Kat Left Strike
+         \item Step
+         \item Wak right Block
+         \item Kat right Strike
+         \item Turn/Look
+         \item Pause/Pose
+         \item Repeat Sequence 6 times
+         \item Hagamejutsu Flourish and Sheath to Kneeling
+\end{itemize}
+
+\subsection{2nd Form}
+\begin{itemize}
+         \item Kneeling Stance
+         \item Half Rise/Draw
+         \item Fulle Ris/Draw
+         \item Pause/Pose
+         \item Look/Turn
+         \item Wak left Parry
+         \item Kat Left Strike
+         \item Step
+         \item Wak right Parry
+         \item Kat right Strike
+         \item Step
+         \item Wak left Block
+         \item Kat Left Strike
+         \item Step
+         \item Wak right Block
+         \item Kat right Strike
+         \item Turn/Look
+         \item Pause/Pose
+         \item Repeat Sequence 6 times
+         \item Simultaneous Weapons Slash and Sheath
+\end{itemize}
+
+\chapter{History}
+
+Menahan was left at the monastary during the year of the goat. He was
+roughly 4-6 years old at the time. The man who left him was a sea
+captain and gave his name as Alaran.  He may have been Bengali. He
+captained the ship ``Brightest Dawn'' (A Dal Kan name). The captain
+claimed that a man with a sash and a yellow robe of a warrior approached
+him in a port town of Tolnia and asked that I be brought here.
+
+Menahan knew his name when he came to the monastary of Dom Cho. He had
+clothing, and carried a large bundle that contained his swords. His
+Katana is of the Tamara style and is over 300+ years old.
+
+Menahan's very first memories are of an older man on a cliff. The sun is
+setting and he bows toward it. He is wearing a green robe with a white
+sash. He has both a wakasashi and a katana. He has dark brown graying
+hair and is noticeably Dal Kan. He draws his wakasashi and sheaths it.
+Draws his katana and sheaths it. Turns and faces a woman who is bowed to
+the ground. She is wearing a yellow kimono and a blue sash. His hand is
+on her head and then the memory blurs.
+
+He remembers an oaken beamed house. There was a crest there. I remember
+one crest that one old man was wearing, it was a black wyvern on a red
+background. Menahan remembers leaving on a ship during a fiery
+bombardment.
+
+His next real memories deal with his training at Dom Cho's
+monastery. He studied there for 16 years and absorbed both the
+inner and the outer teachings of Dom Cho.
+
+Menahan is a very internally directed individual. All of his perceptions
+and reflections look inward. He showns little to the outside world and
+his aura reflects this. He is outwardly only mildly interested in his
+history. Inwardly he believes that he is the Dal Kan son of an ousted
+samurai.
+
+\marginpar{
+ {\small {\bf Notes on Dal Kan}
+Judges are of Dal Kan.
+Dal Kan worship Kami and Shintoism.
+Zencha is the samurai god.
+We are descended from farmers.}}
+
+{\bf Day 127}
+In the evening at Dom Cho's monastery during Prayer call a tall well
+balanced individual walked into the school and asked to see Dom Cho. The
+individual was dressed in full cut robes of deep red. Menahan recognizes
+that this is one of the martial order known as the ``Judges''.
+
+During the time that the judge is inside the school a paunchy,
+Bengali trader comes in to hire Maya Kareen. He was bearded, with a
+mustache and wearing a silver chased dagger. She tells Menahan that she is
+working in the Silk sector for Mustaphah.
+
+Later in the afternoon a 1/2 Bengali and 1/2 Dalkan in Samurai Armour
+and wearing a Dai Sho enters the gates. He has no visible house listed and
+is of below Daimyo rank. At the same time the Judge exits the monastery.
+Dom Cho also comes out just in time to hear the challenge of the Samurai.
+He challenges Dom Cho to a duel the next night. After the Samurai exits
+Dom Cho asks Baran Deltan and Menahan to act as seconds and to each bring
+others to act as ``witnesses''. Menahan goes out to locate John
+Richardson at the Blue Dolphin. Menahan gives John Richardson 4 g.p. in
+order to get some good armour. Menahan encounters two individuals who try to intimidate him
+into convincing Stilt to meet them at Woll Foll. Those two characters have
+gloves with lightning bolts inscribed into them. Menahan goes to talk to Maya
+and she says she cannot go. Menahan, dissapointed, goes to the church of Dal Pan.
+Menahan walks into the church and a clearly disconcerted acolyte directs
+me to a priest of Dal Pan. He greets Menahan civily and speaks to him
+in Dalkan. Heseems puzzled by my asking for the Noshti warrior but he says that since
+the Noshti is past his mourning period for his comrade, that he may make
+the choice. Zebadiah the Noshti is willing ( though he to seems confused ,
+Menahan wonders if religion limits a person's adaptability ?). Menahan's
+next path takes him to a barely lit region that houses Stilt. We
+talk of the trip and Stilt apologizes for not being able to go because he is in some sort
+of trouble himself. He thanks Menahan for information regarding the two
+lightning hand people. He also says that Toram Kar is working at the magic
+tower.
+
+We head out the next morning at a smooth walk for the town of Taresranian.
+We are in number,6 . Menahan,JR,Dom Cho,Baran and a Bengali archer/student
+of his, and the Noshti plus assorted porters. We are bothered twice by
+minor traps and assassination attempts. JR is very jumpy. DomCho considers
+it to be a very good field exercise. Finally we are attacked by some
+serious opponents. Five archers perched in a tree open fire on us and
+several compatriots attack from the sides. Dom Cho dodges an arrow aimed
+at him and continues under the tree. M cuts a critically shot arrow aimed
+at him and advances to the side enough to remove a leg of one opponent and
+the arm of a bengali ass. that was attacking our Bengali archer. While the
+archer is vomiting and JR is chasing several into the woods, M cuts two
+more arrows and looks on in frustration while it becomes a missile weapon
+combat. The Noshti climbs up after the archers while Dom Cho briefly draws
+his weapon long enough to remove the head of an archer that had been shot
+off the tree branch. One of the assassins climbs down pleading for mercy.
+Menahan looks over to Dom Cho. Dom Cho shakes his head and Menahan does a
+critical KI focus and a critical grapple throw with a 99+00 result. His
+neck is broken. The Noshti is healed with several of Dom Cho's medications
+
+The party cotinues on in good order. We make it to the village to discover
+that the Samurai has invested it with his men. The Judge gives us fair
+warning about wait awaits us. Dom Cho kills the bastard in one
+sliiiiiiccccccccccccccce. His scum attack us. We fight well but a scum
+bucket carrying a Yari badly injures JR and the Noshti. Dom Cho merely
+dodges ( Nonchalantly ) any loose missiles. M advances on the Yari
+wielder. He does a crit on a called shot to the Yari. The yari is cut in
+half. This guy pulls out his short sword. M uses his wakisashi to break
+his opponents short sword. His opponent steps back and draws back and
+pulls out his dagger. ( This guy is really persistent !!!). Menahan breaks
+his dagger and the guy kneels and begs, unfortunately he was the one who
+hurt Richardson and Menahan removes his head. We recover several weapons
+from the fight and the Innkeeper tries to repair the damage JR did by
+tossing an opponent through the walls. We try to heal as many as possible
+but we are going to have to stay the night. We get 1 steel throwing dagger
+as well as two short swords. M takes first night watch and hears a noise.
+He advances toward the noise but he is not sure where the object is. He
+quietly does a full jump over the well and lo ! there is an assassin below
+him. He lands, rolls, jumps back and slashes at the scum. The ass. dodges.
+away and backs away from the well. In the ensuing battle the ass. is
+joined by another from behind but M's armor saves his back. One is injured
+but M loses his Katana. A net is then thrown over his head. M breaks away
+from the net, does a jump and a roll for the sword, engages his florentine
+and badly mangles the two ground based ass. Some get away but Baran Deltan
+demonstrates his skill with the Dai Kyu to good effect.
+
+{\bf 129  }The sun rises on a scene of unmatched fun. We break fast, heal a
+little and head back to the town of Al Kahar. We make it to a small
+homestead and rest our feet.
+
+{\bf 130  }We make it back to Al Kahar. M is met by Stilt, who (outlandishly
+garbed and poorly disguised ) tell him that Toram Kar is up to his pointy
+little Nakor ears in trouble. Stilt introduces M to a number of nervous
+and twitchy friends. They seem uneasy when I mention that it is said that
+Dom Cho's opponent is known to use assassins. His friens are Ros,T'Brook,
+and K'lan. They tell me that it is possible that a Black Cloud has been
+hired to eliminate Toram Kar.
+
+Menahan goes up to the magic tower and while waiting on Toram Kar I meet
+and talk to "Lord Jorenth - head of the Black Cloud garrison at the Tower.
+He tells me of the history of the Black Cloud (BC).
+
+
+\marginpar{
+{\small History of the Black Cloud as told to Menahan by Lord Jorenth.
+
+A group of mages combined against a very well mage protected tyrant. They
+combined with a Sentinel and a Judge . They are Martial artists and
+fighters and are trained as a cadre. Called the Black Cloud over the
+Kingdom of the tyrant. They succeeded and now they work for gold. But they
+are very picky. }}
+
+We talk further of Toram Kar and I apologize ahead of time for the
+possibility of having to kill anyone attacking Toram Kar. He is very
+polite and inquires whether I would object to a one on one duel between
+Toram Kar and the BC . I say that I have no objection as long as there are
+no assassins tricks.
+
+I talk with Toram Kar and he suggests that we should head out of Al Kahar.
+I agree since it is quite possible that I will be sought for my part in
+Dom Cho's duel with Nakaido Shisune. I go back to Dom Cho's and inform him
+of my possible departure. He gives me a small emerald which goes into the
+inner thigh pocket and a scroll for his cousin. I buy two very waterproof
+scroll cases, a pair of boots and a poncho. A machete, a waterproof
+carrying pouch and some blackening wax.
+
+We are to head on the hi road to a place called silver bay. 3 days north
+to the obelisk and 1 1/2 miles off the road. I get waterproof covers made
+for the Katana and Wak. I go and visit Richardson and tell him the news
+and along the way I encounter Chief Rebeen the BC assassin sent to off the
+Nakor. I also talk to Maya Kareen and she says that she and ????? shall
+wait and leave with us. I tell her that the next morning we should escort
+Toram Kar to a meeting with Lord Dalgren. She agrees.
+
+We escort Toram Kar to the castle. Along the way we meet Stilt who is
+having a fit about that fact that Toram Kar is not running away from the
+problem. We head in past the gates and Toram Kar is invited in to the
+Lord's quarters while we wait outside the door. Toram Kar says to menahan
+that he belives that Stilt would like his whip and that M is to hold some
+things for him until he needs them. ( a Coral bracelet and a ring ) The
+next thing we hear is a large Cracking noise and when we open the doors
+Toram Kar is lying on the ground with a gaping hole in him. Lord Dalgren
+gives us permission to remove the body. We take the body to Rahaj who says
+that he knows what rites to give the body . He asks for the crystal in
+exchange. Menahan orders three throwing daggers from a smith who forges
+weapons in the Dal Kan manner. M also buys a scabbard for Richardson's
+sword.
+
+Training goes on for 10 days in Dai Kyu.
+
+{\bf 140  }I take the Coral bracelet and ring to the Tower of Magic and they
+exchange the ring for some information and a future enchantment on a
+sword.
+
+Great smiths of the Dal Kan type
+
+\begin{itemize}
+         \item In the city of Marden
+        Iron Gate - a dwarven smith with exhorbitant prices
+
+         \item  In Meara - duchy of AMbria
+        A gray Elven Smith
+
+         \item Alkeersh - enchantment possible.
+\end{itemize}
+
+I pickup the scabbard.
+
+nfo on the Coral Bracelet
+1 - Prot versus Seasnake Poison
+2 - Infection Resistance
+3 - Sucks spell points
+4 - stores spell points for a week.
+
+{\bf 140 cont'd } We head back to the ship.
+On the way back to the ship we are accosted by a young Danza woman.
+We are attacked by a large dragon. Menahan tries to rescue the young
+Danza but she most artfully refuses to be rescued. Menahan turns and
+leaps to the Golden Dawn. Maya-Kareen hurts it badly in
+her first shot and Verun damages it with a lightning blast. Menahan
+annoys it so it tosses him into the bay. Menahan swims for shore. The
+battle continues on. Some cross bow man from a fuedal states ship send a
+volley that falls very short. Menahan swims for shore. The creature is
+hit again by Maya's bow shot. Menahan swims for shore. The dragon avoids
+a blast from Rah-Haj. Menahan makes it to shore. By the time he has
+leapt back to the boat, the dragon has been dispatched by the Na-Kor
+Lord Dalgren (Lord Calgon).
+
+Menahan is given a note by the Danza female. She leaves.
+
+{\bf 140  }WE get underway and plan to meet Stilt at a promotory two days on.
+{\bf 142  }We meet with Stilt and lo and behold , he is traveling with the
+Danza woman and a Dal-Kan protocol droid called Osumi. It is at this
+point that Osumi and Rosalin persuade Menahan to read the letters he was
+given two days ago. ( He Forgot about them ).
+        The first note is from Dom-Cho and it asks Menahan to escort
+Osumi to the master Lau-King.
+        The second note is from Alenine, Danza mother to Rosalin. It says
+that
+1. Gelden Forsath is looking for Menahan.
+2. Lord DalGren may act against one of our party.
+3. The fisher guild may attack a member of our party
+4. An assassin may attack Dom-Cho. He has been warned.
+5. Lizard man have been asking about our party.
+
+we travl onward.
+
+{\bf 153.   } We arrive at the city of Tolna. Maya-Kareen and Osumi and Rosalin
+are asked to go on a mission for master Rah-Haj. WE encounter and hire a
+Ven called P'tung. P'tung cannot speak any of our languages, even
+common.
+
+The troop walks through a set of dockside bazaars. We encounter a
+man who offers to be a guide for us. As we travel through this city we
+see a man killed in a tavern. The tavern has a Pilum and a shield above
+the door . The man has two stab wounds in the neck. Our guide seems
+frightened and hurries us past the incident.
+
+We go on to a Temple called the Acropolis . We make an offering to
+the gods and wander through it. The guide then takes us to a home that
+offers to feed us. We eat the heavily spiced food with gusto.
+
+We then travel on to a Coliseum. Menahan is intrigued by charioteers
+and chariots and enjoys riding in a chariot. We then go into the
+coliseum and Menahan expresses an interest in practising in this giant
+dojo. The guide bobs his head and waves or us to wait here. While we are
+waitig we discover that the door is locked and that John Richardson and
+Verun are getting sleepy. Menahan ( Finally) realising that there is
+something wrong, gives both the magical antidote against poison. Menahan
+bashes against the door and annoys it a little. Verun blows the thing to
+flinders while menahan is staring at it. Menahan is blinded. We head out
+and Stilt plays red herring. As we head out we are finally pinned down
+near a stairwell. Menahan, who can barely see, acts as rear guard while
+P'tung and Verun head out. As two Gladiators approach , One with gladius
+and one with a net. Menahan knocks the gladius from the hand on the man
+to his left, cuts the net out of the air and leaves the man to the right
+holding a ragged drapery. He then steps and grapple throws his lefthand
+opponent down a nearby stairwell. The netman runs. Most of the others
+hesitate but to spearman start to run forward. Menahan hastens up the
+stairs and stops when they have reached the base of the steps. Both
+spears miss. Menahan continues up the stairs. We emerge into a bright
+light. Menahan jumps almost thirty feet away from the door. The
+gladiators and menahan face off until we see a guardsman head towards
+us.
+
+The guards man outside listens and introduces himself as decator ...
+We are told that Stilt is being held for gambling debts and will be
+forced to fight in the games.
+
+We make it back to the Golden Dawn and within the hour we recieve a
+challenge from some Senator. Menahan accepts the challenge and prepares
+himself. We stage some simple fights and meet a general who speaks
+Dal-Kan.
+
+The day of the games we travel into the city and Verun bets our
+moneys. Menahan lays down his emerald and 11? of his own gold.
+
+Menahan and Melekam wait in the coliseum locker rooms. We are summoned
+out and Menahan finally meets his opponent. The thing is bloody huge and
+meaner than a vorpal bunny. It is a lizard man construct with poisoned
+talons and two bloody huge axes.
+
+They duke it out , Menahan barely......( SQUEEEEK ) survives...
+After Menahan wins he asks a boon, through Melekam as translator, of the
+second son of the emperor. We ask that Stilt be freed.
+
+We head back to the gate, Menahan is healed backed to 18 HTK and is
+"Invited " to a feast later that evening.
+
+\end{document}
+E 2
+I 1
+E 1

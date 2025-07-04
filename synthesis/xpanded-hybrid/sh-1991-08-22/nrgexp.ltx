@@ -1,0 +1,668 @@
+\documentstyle[relate]{shart}
+
+\begin{document}
+
+\begin{titlepage}
+    \vspace{1.0in}
+    \begin{flushright}
+          {\huge\bf Spell/Psionics Design System} \\[.25cm]
+          {\rule[.1in]{4.5in}{.02in}}\\[.25cm]
+          {\large\bf Version 1.3 interim} \\[4.0cm]
+          {\bf Jim Mochel}\\
+    \end{flushright}
+\end{titlepage}
+
+\section{Introduction to Spell Casting}
+
+There are three basic steps in casting a spell. The first is to 
+gather the energy, the second is to focus that energy and the third 
+is to release it. This diagram below simply denotes those three steps.
+
+\setlength{\unitlength}{1in}
+\thicklines
+\begin{picture}(5,5)
+\put(1,4){\framebox(2,1){Raise Energy}}
+\put(2,4){\vector(0,-1){1}}
+\put(1,2){\framebox(2,1){Focus Energy}}
+\put(2,2){\vector(0,-1){1}}
+\put(1,0){\framebox(2,1){Apply Energy}}
+
+\put(3,4.8){\vector(1,0){.4}}
+\put(3.4,4.8){Some Components Apply}
+\put(3,4.2){\vector(1,0){.4}}
+\put(3.4,4.2){Usually from caster}
+
+\put(3,2.8){\vector(1,0){.4}}
+\put(3.4,2.8){Most Components Apply}
+
+\put(3,0.8){\vector(1,0){.4}}
+\put(3.4,0.8){Actions Applied Here}
+
+\end{picture}
+
+\subsection{Raising the Energy}
+
+Raising the energy is an important part of the casting process. Most 
+spells will simply use the mage's internal energy and thus expend 
+Mental Fatigue during the cast process. This can be augmented or 
+replaced by energy from Material Components, Magic Items, Living 
+Sacrifice, Worship, Physical Exertion, or just by being given the 
+energy by another.
+
+The type of energy involved is very critical in determining the speed
+or casting time of the spell. The faster a given energy type is, the
+more it costs in Spell Design Points.
+
+\subsection{Focusing the Energies}
+
+Once the energies are raised they must be brought to bear on the 
+desired effect. If the cast is directed at a specific individual or 
+object then the spell has a target. In addition, the spell has a path 
+or method by which it reaches the target. 
+
+If the cast is not directed at anything other than one of the energy 
+types that may be manipulated, then there is no target to the spell.
+
+Focus implies that the caster is directing or channeling the energies 
+toward a specific end. Most material components used during this part 
+of the spell would be used for channeling the energies involved and 
+could be used up if they cannot efectively contain the energies 
+involved.
+
+Somatic and verbal components would add to this part of the spell 
+process as would any meditative state or trance.
+
+It is during this part of the cast that the caster mentally links 
+parts of the spell together and determines how much energy is applied.
+
+Note that the time taken up here is spent in focusing and setting up 
+the various actions to be later taken by the energies involved. Thus 
+the time spent in applying the energy is fairly constant compared to 
+the time spent focusing the energies.
+
+\subsection{Apply the Energy}
+
+As the energy is released it should (if the cast is good) follow 
+the form laid out by the caster when he focused on the spell.
+
+It is here that the target type is brought to bear.
+
+\subsection{Simple Starting example}
+
+In designing a spell we start with all spell attributes at 0.
+CEF = 0, Resistance = 0; DUR = 0; RNG = 0; QE = 0; EC = 0.
+
+Suppose I am playing a mage that wishes to design a simple fire 
+summoning spell. We start with a set number of Spell Design Points:
+(27). We first look at the process of raising the Energy for the spell. 
+We buy the Energy Type of fire at a cost of 7. Thus, the speed is 3
+and We have \( 27 - 7 = 20 \) Spell Design Points left.
+
+Next we look at the process of focusing the spell. Since the spell is
+going to be doing a summoning of the fire, the  first action taken
+should be an actual summoning. Again using a table, we determine that 
+the Summoning action costs 1 Spell Design Point and has a speed of 3.
+
+Finally we look at the process of applying the spell. There is no target
+type involved here since there is no attempt to apply the energy to
+anything, simply to summon it. No Target costs 0 Spell Design Points.
+
+So we have 19 Spell Design Points. And we have all spell stats at 0.
+
+!!!! To be continued
+\dots 
+
+\section{Factors involved in Spell Design}	
+
+The two main factors involved in the design of a spell are the Energy 
+Type being used and the actions being performed with that energy.
+
+\subsection{Factors involved in Raising Energy}
+
+\subsubsection{Energy Type}
+
+This describes the types of energies to be used. In a magical context 
+these would be the elementals such as Light, Dark, Fire, Air, Life, 
+Death, and Electricity.
+
+There are the two pseudo elementals Shadow and Starlight.
+Shadow is the energy produced as a result of the interaction of large
+amount of light with a small amount of dark. Starlight is the energy 
+produced as a result of the interaction of a large amount of dark 
+with a small amount of light 
+
+In addition there are three other types of energy. Belief is the 
+energy created by the worship or investment of faith in another 
+entity, being, or object. Stream is the energy derived from the 
+dynamics of the time continua. Fabric is the energy derived from the 
+shifts of equilibrium of seemingly static forces involved in the here 
+and now.  
+
+In psionics these are Telekinetics, Phanokinetics, Temporokinetics, 
+Energetics, and Biokinetics.
+
+\subsection{Factors involved in Focusing Energy}
+
+\subsubsection{Actions}
+
+This is what the energies are to be used for. These actually spend 
+time during the Focusing process.
+
+\marginpar{
+	Some of these actions require a target to work against.
+	Specifically Influence, Control, Damage, and Restoration
+}
+
+These actions are often described in a pairing between an action and 
+its opposite.
+
+The actions are Detection or Concealment, Divination or 
+Anti-Divination, Summoning or Banishment, Creation or Destruction, 
+Concentration or Dissapation, Transport or Anti-transport, Binding or 
+Releasing, Transmutation or Stasis, Translocation or Anchoring, 
+Influence, Control, Damage or Restore, and Hold.
+
+\subsubsection{Casting Components}
+Casting Components covers external props, preparation,  and other 
+components. 
+
+\begin{relate}
+	\item [Verbal] Verbal Components are vocal actions that aid in 
+	the casting of the spell. This is the default. It assumes a
+	normal speaking voice chant. 
+	\item [Somatic] Somatic Components are physical actions such as 
+	hand waving or finger moving.
+	\item [Material] Material components are physical objects or 
+	materials that aid in supplying, channeling, or directing energy. 
+	\item [Preparation] Preparation covers any activity that may be 
+	performed before the spell is cast.
+	\item [True Name]
+\end{relate}
+
+\subsubsection{Casting Components Properties}
+
+Each casting components value to the design of the spell may be 
+modified by the various properties of the Casting Components.
+If the material is rare or particularly fine, it will add to the 
+spell's abilities.
+
+\begin{relate}
+	\marginpar{
+    	Most Casting Components may have more than one property. A
+		material component may be Rare and Non-Renewable. 
+
+		{\bf None of these properties may be aoplied to True Names}
+    }
+	\item [Expensive]
+	\item [Cheap]
+	\item [Rare]
+	\item [Common]
+	\item [Renewable]
+	\item [Non-Renewable]
+	\item [Reusable]
+	\item [Non-Reusable]
+	\item [Complex]
+	\item [Loud]
+	\item [Quiet]
+	\item [Long]
+	\item [Short]
+\end{relate}
+
+\subsection{Factors involved in the Application of the Energy}
+
+\subsubsection{Target Type}
+	\marginpar{
+		The term Target Type simply refers to the fact that the spell 
+		has a focus other than the type of energy being used. If 
+		the spell is simply the summoning or transportation of a
+		given type of energy it is considered to have no target.
+		If the energies are to be directed against an object or 
+		creature in order to have the desired effect the spell is 
+		considered to have a target. 
+	}
+
+Target type describes whether the energies affect a target, multiple 
+targets, or no targets at all. 
+
+\begin{relate}
+	\item [No Target] The spell is not intended to effect anything 
+	other than the base energy type used in the spell. 
+    \marginpar{
+		If the spell is targeted to act against any other type of 
+		energy than that used by the spell than the spell is considered to 
+		have a target and must be either Single Target or Area of Effect as 
+		detailed in the listing
+	}    	
+	\item [Target,Self] The spell is directed against the caster 
+	only.
+	\item [Single Target] The spell is intended to effect on one 
+	object or entity.
+	\item [Multiple Targets] The spell is intended to effect multiple 
+	objects or entities. 
+	\marginpar{
+		Note that the assumption here is that the Quantitative Effect 
+		is {\bf split} between the multiple targets wheareas an Area of 
+		Effect spell has that Quantitative Effect apply equally among 
+		all of the targets.
+	}
+	\item [Area of Effect] The spell is intended to effect all 
+	targets within a given area. 
+\end{relate}
+
+
+\subsubsection{Target Components}
+
+Each target may have has many as five components as part of its 
+``Elemental'' makeup. If the spell is targeted, it must be determined 
+what components of the target the spell energies affect. 
+
+\begin{relate}
+	\item [Matter(Inanimate)] 
+	\item [Body(Animate)]
+	\item [Mana(Inanimate)]
+	\item [Lifeforce(Animate)]
+	\item [Thought]
+	\item [Perception]
+	\item [Essence(spirit or soul)]
+\end{relate}
+
+\section{Spell Statistics}
+
+\subsection{Resistance (RES)}
+
+How easily can the spell be resisted. The higher this value is the
+better it is for the caster. When doing spell design the
+designer will be modifying Resistance. When the spell design is complete
+the value for RES will be used to generate the REF stat.
+
+\subsection{Resistance Ease Factor (REF)}
+
+How easily can the spell be resisted. \( REF = 7 - Resistance \).
+
+\subsection{Quantitative Effect (QE)}
+
+A pseudo-quantitative value for the total effect a spell can have. This
+is expressed as a numeric constant. This must be translated to  actual
+effect via a table. For Damage or Restoration spells this directly
+translates as the damage done by the spell.
+
+\subsection{Casting Ease Factor (CEF)}
+
+The Ease Factor involved in casting the spell. Expressed as a
+standard EF, not as a modifier.
+
+\subsection{Energy Cost (EC)}
+
+What is its cost in Mental Fatigue.
+
+\subsection{Casting Time (CT)}
+
+How long does the action take in counts or any appropriate time unit.
+In dealing with both casting time and duration there is a cost 
+associated with the time unit and the multiple of that time unit 
+used.
+
+\subsection{Duration (DUR)}
+
+How long does it last? Instaneous spells is any spell that lasts for 
+a very small and fleeting duration. Active Concentration duration 
+spells last for as long as the caster concenmtrates on the spell. Any 
+other actions the  caster may partake of will be considered 
+florentine actions. Passive Concentration duration spells last for 
+as long as the caster is concious and or clear minded. Permanent 
+spells last until dispelled or disrupted. Default duration spells 
+have a duration derived from the energy type. 
+
+Default duration spells may have their time scale unit bought to some 
+larger unit.
+
+\subsection{Range}
+
+Touch range spells require the caster to come into physical contact 
+with the target. Default range spells are typically expressed as 
+multipliers of the mages own Magical Potential. 
+ 
+\begin{relate}
+	\item [No Range] Implies that the caster is affecting himself.
+	\item [Touch] Requires the casters body to come into contact with 
+	the Target.
+	\item [Default] Derived from the Energy Type and Actions taken.
+\end{relate}
+
+\section{Examples}
+
+The best way to learn is to do so lets look at the design process 
+with several different types of spells. Let us first design the 
+{\it Laser} spell.
+
+\marginpar{
+
+	{\bf Quick Aside} 
+
+	A quick explanation of EF for those who have not encountered the 
+	topic. In \SH the chance to perform an action is based on the Ease 
+	Factor of the action times the Stat Basis of the action plus 5\% 
+	times the Rank of the action. For discussion's sake we will assume an 
+	average Stat Basis (SB) of 7. So a mage with rank 0 in the fireball 
+	spell would have an average chance of \( 4 \times 7 + 1 \times 5\% \) 
+	or 33\%. This is without setup or any spell purification. 
+}
+
+We start with the Base spell type. 
+We choose the Energy Type of Light. This gives us :
+The first action needed for the spell is the Summoning of the Light. 
+The next action is to transport the Light to the target.
+After transporting the Light, we must apply it to the target in order 
+to damage it.
+
+The effects of the spell factors get totaled up and this gives use 
+the default values for the spell. When totaling the spell we take the 
+effect of the Energy Type and add it to the highest value in any 
+	\marginpar{
+		The highest column calculation is done for each group of 
+		three actions. If there are nine actions for a spell then the 
+		three highest are added to the modifiers for the Energy Type.
+	}    	
+given column.
+
+Thus:
+
+So the spell has a Casting Ease factor of 7, a Resistance Ease Factor 
+of 7, a Quantitative Effect of 1, a Base Casting Time of 5 counts, an
+Energy Cost of 6 Mental Fatigue, and a default Duration of \( 7 \times \)
+the Mental Strength of the designer.
+
+We should keep track of the Default Casting Time, Default 
+Quantitative Effect and the Default Duration.
+
+At this point the spell appears to be pretty wimpy. It takes six points 
+of MFT to do one point of damage to the target.
+
+It is time to modify the defaults to get some more reasonable looking 
+numbers. All modifications we make should increase or decrease the 
+Spell Design Points.
+
+The first thing to do is to drop the duration down to 0. Once this 
+\marginpar{See table~\ref{tab:FactorChanges} }. 
+has been done the spell is considered to be Instantaneous.
+This gives us 7 points for the Spell Design Pool 
+
+This gives us :
+
+Since the spell we are designing has a target, we must include that 
+fact as part of the design. 
+
+Let us add in an expensive, rare, reuseable material component.
+Let us also require the caster to use a to-hit roll as part of the 
+targeting process.
+
+Next let's lower the Casting Ease Factor by two. This gives us four 
+more Spell Design Points as per table~\ref{tab:FactorChanges}
+
+Now we can use the Spell Design Pool to build up the other attributes 
+of the spell.
+ 
+Lets add \( 10 \times \)effect on QE. That costs 9 Spell Design Points.
+Let us also lower the Energy Cost to 1/3 of what it is now. That 
+costs 2 SDPs. 
+
+Thus we have :
+
+Let us use the rest of the SDPs for lowering the Resistance Ease 
+Factor so that this spell becomes very hard to save against.
+
+Now there is one last thing we can do to get some more SDPs. Since 
+each Target has several components as part of its makeup, we can 
+narrow the focus of the spell down to affect only the Body or Matter  
+of the target. See the description about Target Components earlier.
+By narrowing the focus to one Target Component, we exclude four 
+Target Components. That gives us four more SDPs to use. 
+
+We can use those points to increase the range to 5 times the default 
+of MST/3 in Meters.
+
+There are some things to note about the spell. First of all, because 
+the Default Quantitative Effect is 1, the caster can up the damage of 
+the spell by 1 point for each point of Mental Fatigue he places in 
+the cast beyond the base cost. Because the spell is narrowed to 
+effect only Body/Matter it has no effect on most immaterial entities 
+except for those specifically effected by Light. Also, by default the 
+Concentration Type is that of Simple Spell.
+
+Now let us design another spell. We will design a {\it Lightnings 
+Hand} spell.
+
+We specify multiple targets.
+
+Lets lower the Casting Ease Factor by 4 and add a non-renewable 
+material component(Mistle Toe). Since the material component requires 
+special preparation (Gathered on Midsummer's eve) we should include 
+that.
+
+The spel is Finren's so it should be flashy. Lets add a somatic 
+component. As well, lets make it a Standard Spell in Concentration type. 
+
+Now, lets spend those points ! Lowering the Energy Cost to 2 costs us 
+2 SDPs, raising the Damage to 4 times what it is costs 3 points, 
+Allowing the spell energies to be held until needed costs 5, 
+lowering the REF by 3 costs 6.
+
+\section{Other Notes that are of interest}
+
+Investment Rituals are specific to the energy being used. Normally,
+invested items can resist. With sufficient preparation the 
+resistance can be dropped to 0. 
+
+Warding rituals are similiar.
+
+Remember that this spell design process is simply intended to speed
+the actual creation of spells. Once a spell has had its values determined
+it may be manipulated by putting more power into it in order to
+"turbo-charge" the spell. 
+
+\section{Spell Design Tables}
+
+\begin{table}
+	\begin{tabular}{lcc} \hline
+	Energy Type		&	SDP 	&	Speed	\\ \hline
+	Light			&   -7 		&		0		\\
+	Dark			&	-7 		& 		0		\\
+	Shadow			&	-6		&		1		\\
+	Starlight		&	-6		&		1		\\
+	Fire			&	-5		&		2		\\
+	Water			&	-3		&		4		\\
+	Air				&	-5		&		2		\\
+	Earth			&	-3		&		4		\\
+	Electrical		&	-5		&		2		\\
+	Life			&	-3		&		3		\\
+	Death			&	-3		&		3		\\
+	Belief			&	-1		&		6		\\
+	Stream			&	-7		&		0		\\
+	Fabric			&	-7		&		0		\\
+	Telekinetics	&			&				\\
+	Phanokinetics	&			&				\\
+	Temporokinetics	&			&				\\
+	Energetics		&			&				\\
+	Biokinetics		&			&				\\ \hline
+	\end{tabular}
+\caption{SDP Energy Types}\label{tab:EnergyTypes}
+\end{table} 
+
+\begin{table}
+	\begin{tabular}{lcc} \hline
+	Action Type		&	SDP 	&	Speed	\\ \hline
+	Det/Conceal		&	-1		&	1		\\
+	Div/A-Div		&	-1		&	1		\\
+	Summon/Banish	&	-1		&	2		\\
+	Create/Destroy	&	-1		&	10		\\
+	Conc/Dissapate	&	-1		&	3		\\
+	Transport/A-Tra	&	-1		&	4		\\
+	Bind/Release	&	-1		&	7		\\
+	Trans/Stasis	&	-1		&	8		\\
+	Translocate		&	-1		&	9		\\
+	Hold			&	-1		&	1		\\
+
+	Influence		&	-2		&	1		\\
+	Control			&	-3		&	2		\\
+	Damage			&	-3		&	2		\\
+	Restore			&	-2		&	3		\\ \hline
+	\end{tabular}
+\caption{SDP Actions}\label{tab:ActionTypes}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Casting Component			&	SDP 			\\ \hline
+	Verbal						&	0				\\
+	Somatic 					&	4				\\
+	Material 					&	4				\\
+	Preparation 				&	4				\\	
+	True Name					&	8				\\
+	Requires to-hit roll		&	4				\\
+	Energy Held for duration	&	-4				\\	\hline
+	\end{tabular}
+\caption{SDP Casting Component Type}\label{tab:CastingComponentType}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Component Properties		&	SDP 			\\ \hline
+	Cheap 						&	0				\\
+	Moderate					&	1				\\
+	Expensive 					&	2				\\
+	Common 						&	0				\\
+	Uncommon					&	1				\\
+	Rare 						&	2				\\
+	Renewable 					&	0				\\
+	Non-Renewable 				&	2				\\
+	Reusable 					&	0				\\
+	Non-Reusable 				&	1				\\
+	Simple						&	0				\\
+	Moderate Complex			&	1				\\
+	Complex 					&	3				\\
+	Quiet 						&	0				\\
+    Normal Speech Level			&	1				\\
+	Loud 						&	2				\\
+	Short 						&	0				\\
+	Same Length as Spell		&	1				\\
+	Long 						&	2				\\ \hline
+	\end{tabular}
+\caption{SDP Casting Component Properties}
+\end{table}
+
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Factor Name 				&	SDP 	\\	\hline
+	No Target					&	0				\\	
+	Directed,Self				&	-2				\\
+	Single Target				&	-4				\\
+	Multiple Targets			&	-8				\\
+	Area of Effect				&	-16				\\	\hline
+	\end{tabular}
+\caption{SDP Target Types}\label{tab:SDPTargetType}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Target Component	&	SDP \\ \hline
+	Matter(Inanimate)	&	-1			\\
+	Body(Animate)		&	-1			\\
+	Mana(Inanimate)		&	-1			\\
+	Lifeforce(Animate)	&	-1			\\
+	Thought				&	-1			\\
+	Perception			&	-1			\\
+	Essence(Soul)		&	-1			\\ \hline
+	\end{tabular}
+\caption{SDP Target Components}\label{tab:SDPTargetComponents}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	AOE Scale	&	SDP \\ \hline
+	0			&	0	\\
+	1 Meter		&	2	\\
+	2 Meters	&	4	\\
+	5 Meters	&	8	\\
+	10 Meters	&	16	\\
+	20 Meters	&	32	\\ \hline
+	\end{tabular}
+\caption{SDP AOE Scale}\label{tab:SDPAOEScale}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Range Scale	&	SDP \\ \hline
+	0			&	0	\\
+	0.1 Meter	&	-2	\\
+	0.5 Meter	&	-4	\\
+	1 Meter		&	-8	\\
+	5 Meters	&	-12	\\
+	10 Meters	&	-16	\\ 
+	100 Meters	&	-24	\\
+	1 Km		&	-32  \\ \hline
+	\end{tabular}
+\caption{SDP Range Scale}\label{tab:SDPRNGScale}
+\end{table}
+
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Casting Time Scale	&	SDP \\ \hline
+	Pulse				&	2	\\
+	Second				&	4	\\
+	5 Seconds			&	6	\\
+	1/2 Min				&	8	\\
+	2 Minutes			&	12	\\
+	10 Minutes			&	16	\\
+	1 Hour				&	24	\\
+	4 Hours				&	32	\\
+	1 Day				&	40	\\
+	1 Week				&	48	\\ \hline
+	\end{tabular}
+\caption{SDP Casting Time Scale}\label{tab:SDPCTScale}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+	Duration Time Scale	&	SDP \\ \hline
+	Instantaneous		&	0	\\
+	Pulse				&	-1	\\
+	Second				&	-2	\\
+	5 Seconds			&	-3	\\
+	1/2 Min				&	-4	\\
+	2 Minutes			&	-6	\\
+	10 Minutes			&	-8	\\
+	1 Hour				&	-12	\\
+	4 Hours				&	-16	\\
+	1 Day				&	-20	\\
+	1 Week				&	-24	\\ \hline
+	\end{tabular}
+\caption{SDP Duration Time Scale}\label{tab:SDPDURScale}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+ 	Factor						&	SDP 		\\	\hline	 
+	Rank linked QE				& 	5/1			\\
+	Rank Linked RES				&	4/1			\\
+	Rank Linked DUR				&	3/1			\\
+	Rank Linked RNG				&	3/1			\\ \hline
+	\end{tabular}
+\caption{Costs for Misc. Factor Changes}\label{tab:MiscFactorChanges}
+\end{table}
+
+\begin{table}
+	\begin{tabular}{lc} \hline
+ 	Factor Manipulation			&	Factor/SDP Ratio	\\	\hline	 
+	CEF							& 	2/1			\\
+	RES							&	2/1			\\
+	QE							&	2/1			\\
+	DUR							&	1/1			\\
+	RNG							&	1/1			\\
+	EC							&	3/1			\\ \hline
+	\end{tabular}
+\caption{Costs for Factor Changes}\label{tab:FactorChanges}
+\end{table}
+
+\end{document}

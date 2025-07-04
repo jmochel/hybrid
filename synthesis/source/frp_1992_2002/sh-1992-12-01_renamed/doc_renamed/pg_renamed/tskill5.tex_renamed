@@ -1,0 +1,7 @@
+% FILE Skill Relations Table
+% REF 
+\begin{stable}{Skill Relations}{ll}
+		Similiar in many respects     &       2/5 \\
+		Dissimiliar in many respects  &       1/5 \\
+		Really Stretching it		  &       1/10 \\ \hline
+\end{stable}

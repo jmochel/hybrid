@@ -1,0 +1,58 @@
+%this file is an example of using postscript specials to give 
+% headings a gray background  
+
+\hsize=5.7in 
+\font\rm=ptmr at 10pt
+\font\norm=ptmr at 10pt
+\font\tenrm=ptmr at 10pt
+\font\twelverm=ptmr at 12pt 
+\font\twelvebb=ptmb at 12pt
+\font\fourteenbf=ptmb at 14pt
+
+\nopagenumbers
+
+\newdimen\grayht \newcount\grayheight 
+\def\getgrayheight#1#2#3{\grayht=#1bp \grayheight=#1  \setbox0=\vbox{#3} 
+\loop \ifdim\grayht < \ht0
+    \advance \grayht by\baselineskip \advance \grayheight by #2 \repeat}
+
+\def\graybar#1#2#3#4#5{\special{"gsave   #1 setgray #2 #3 rmoveto #4 0 rlineto  0 -#5 rlineto 
+-#4 0 rlineto 0 #5 rlineto  closepath fill grestore"}}
+
+\def\grayhead{\graybar{.8}{-6}{13}{216}{\the\grayheight}}
+\def\graybhead{\graybar{.7}{-28.8}{15}{12}{\the\grayheight}}
+\def\graythead{\graybar{.8}{-6}{15}{380}{\the\grayheight}}
+\def\grayahead{\graybar{.7}{-28.8}{13}{12}{\the\grayheight}}
+
+\def\heada#1{{\hsize=210bp\vskip 24pt plus6pt minus4pt
+{\twelvebb\parindent=6pt \baselineskip=14bp
+\getgrayheight{20}{14}{#1}\item{}\grayhead #1\par}
+\vskip 24pt plus 6pt minus 4pt}}
+
+\def\startart#1#2{{\fourteenbf\baselineskip17bp\raggedright\hyphenpenalty=9000
+\parindent=.4in\getgrayheight{22}{17}{#1}\item{}\graybhead\graythead#1\par}
+{\twelverm\vglue 12pt plus6pt\parindent=.4in\baselineskip=14bp 
+\getgrayheight{20}{14}{#2} \item{}\grayahead #2\par} \vskip 4pt }
+
+\startart{A Test of Inserting Postscript Code into \TeX\ for
+Graybars -- use with dvips}{Thomas Dunbar, ClearVu Technical Writing
+{\tt\quad Bitnet:gstd at vtvm2}}           \hsize=4in
+
+\heada{1. Caveats\hfil\break and Cautions}
+
+Warning:  your print shop may not be able to use your pretty slick since
+they may have difficulty photographing the graybar! The solution is to have
+the linotronic print directly to film.
+
+This file makes use of Arbortext's special for dvips: the current dvi
+location is made the postscript {\tt currentpoint} and the default
+postscript coordinate system and scaling (unit=bp) are used.
+
+\heada{2. Code}
+
+The coding is straightforward postscript except that the height of
+the box is calculated via \TeX.  If needed, the width could be
+computed similarly. Note that the bar is to be painted first so the
+text can overlay it.
+
+\bye

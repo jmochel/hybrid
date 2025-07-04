@@ -1,0 +1,110 @@
+H51752
+s 00000/00000/00073
+d D 1.2 01/08/29 07:35:14 jmochel 3 2
+c Delete: src/mushin/frp/astronomy/stellarobject/identification/Type.java
+cC
+cK32058
+cPBitKeeper/deleted/.del-Type.java~47cd10df
+e
+s 00073/00000/00000
+d D 1.1 01/07/13 18:14:23 jmochel 2 1
+cC
+cF1
+cK62662
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:23 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/src/mushin/frp/astronomy/stellarobject/identification/Type.java
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK02730
+cPsrc/mushin/frp/astronomy/stellarobject/identification/Type.java
+cR47cd10df
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package mushin.frp.astronomy.stellarobject.identification;
+
+import java.util.Vector;
+import java.util.Enumeration;
+import java.util.Collection;
+import java.util.Iterator;
+
+public class Type
+{
+    /** Tracks the current upper bound on the ordinals for the constants */
+
+    private static int m_UpperBound = 0;
+
+    /** The ordinal for the given constant */
+
+    public final int ordinal;
+
+    /** The text string for the constant */
+
+    private String m_TextId;
+
+    /** Constructor for creating the constants */
+
+    private Type(String id)
+    {
+        this.m_TextId = id;
+        this.ordinal = this.m_UpperBound++;
+        this.m_Constants.add(this);
+    }
+
+    /**
+     *    	equals overload
+     *		@see java.lang.Object#equals
+     */
+
+    public boolean equals(Type other)
+    {
+        return (this.ordinal == other.ordinal);
+    }
+
+    /** toString overload */
+
+    public String toString()
+    {
+        return this.m_TextId;
+    }
+
+    /** Implement the Enumeration interface */
+
+    public static Enumeration elements()
+    {
+        return m_Constants.elements();
+    }
+
+    /** Implement the Collection interface */
+
+    public static Iterator iterator()
+    {
+        return m_Constants.iterator();
+    }
+
+    /** The grouped constants (for providing the Enumeration and Collections interfaces) */
+
+    private static Vector m_Constants = new Vector();
+
+    /** Constant for Abbreviation  NomenType */
+
+    public static final Type ABBREV = new Type("Abbreviation");
+
+    /** Constant for Full  NomenType */
+
+    public static final Type FULL = new Type("FullName");
+}
+E 2
+I 1
+E 1

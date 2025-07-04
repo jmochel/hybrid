@@ -1,0 +1,297 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+   <META NAME="Description" CONTENT="The Java reflection API gives programmers the possibility of easy 
+run-time configuration of a class. As an example take a look at a parser
+ which determines, at run-time, what syntax to use for processing
+command line arguments.
+ Either slash-equals syntax  : /arg=value or posix-style  -arg value.">
+   <META NAME="keywords" CONTENT="Win32 Asynchronous I/O">
+   <META NAME="Author" CONTENT="sparky">
+   <META NAME="KeyWords" CONTENT="Java, Parser, Lexical Analysis, Command line">
+   <TITLE>Flexible Runtime Configuration for Java Classes</TITLE>
+</HEAD>
+<BODY>
+
+<DL>
+<H1>
+<FONT SIZE=+3>Flexible Runtime Configuration for Java Classes</FONT></H1>
+</DL>
+&nbsp;The Java reflection API gives programmers the possibility of easy
+run-time configuration of a class. As an example take a look at a parser
+which determines, at run-time, what syntax to use for processing command
+line arguments. Either slash-equals syntax&nbsp; : "/arg=value" or posix-style&nbsp;
+"-arg value".
+
+<P>The constructor for the Parser looks at the lexerClassName given. If
+it is empty then it looks at the system property to see if a class name
+is specified there. If not, than it uses the default. It then gets an instance
+of the class from the name and assigns that to the Parser.
+<BR>&nbsp;
+<BR><TT><NOBR>Parser(String lexerClassName)</NOBR></TT>
+<BR><TT><NOBR>{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; try</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // If the user
+of the class does not specify a lexer, use the system property</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if ( lexerClassName.equals(new
+String("")) )</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Get the classname for the Lexer</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+lexerClassName = System.getProperty("jacl.util.commandline.lexer");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// If one does not exist , use the default (SlashEqualsLexer)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if (lexerClassName == null )</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+lexerClassName = new String("jacl.util.commandline.SlashEqualsLexer");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</NOBR></TT><TT><NOBR></NOBR></TT>
+
+<P><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Now instantiate
+the lexer</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Lexer = (Lexer)
+(Class.forName(lexerClassName).newInstance());</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; catch (ClassNotFoundException lexerNotFoundError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new LexerCreationException("Unable
+to find the command line syntax lexer");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; catch (InstantiationException lexerNotInstantiatableError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new LexerCreationException("Unable
+to instantiate the command line syntax lexer");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; catch (IllegalAccessException hmmError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new LexerCreationException("Command
+line syntax lexer access violation");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>}</NOBR></TT>
+
+<P>Some other gains from the reflection API can be had by using the same
+calls to verify that a given class exists. As an example, the Parser's
+register call takes a description of the command line argument including
+the data type that the value should be converted to. So a flag of type
+Boolean should be returned as an Object of type Boolean.
+
+<P><TT><NOBR>public void register(ArgSemantic argSemantic)</NOBR></TT>
+<BR><TT><NOBR>{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; // Verify that the argument's class exists</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; try</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class.forName(argSemantic.getType());</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; catch (ClassNotFoundException classNotFoundError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw (new IllegalArgumentException("Parser
+is being configured with a argument type that could not be found\n" + argSemantic
+));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT><TT><NOBR></NOBR></TT>
+
+<P><TT><NOBR>&nbsp;&nbsp;&nbsp; // Add the Argument to the list of argument
+semantics</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; _ArgSemantics.put(argSemantic.getKey(),
+argSemantic);</NOBR></TT>
+<BR><TT><NOBR>}</NOBR></TT>
+
+<P>And finally, once the argument has been lexed, the reflection API can
+be used to create an Object of the appropriate class containing the value
+of the command line argument.&nbsp; This gives the developer an exception
+when the contents of an argument
+<BR>are lexically correct but semantically wrong without writing any additional
+validation code. So an argument of type File can be lexed, parsed, and
+validated without writing anything more than a description of the argument
+that includes its name and its class.
+
+<P><TT><NOBR>public void parse(String[] args) throws java.lang.IllegalArgumentException</NOBR></TT>
+<BR><TT><NOBR>{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; try</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enumeration argIter;&nbsp;&nbsp;&nbsp;
+// Lexed argument iterator</NOBR></TT><TT><NOBR></NOBR></TT>
+
+<P><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // First we lex
+the arguments</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Lexer.lex(args);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Next we compare
+the lexed arguments against the</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // requested argument
+semantics</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; argIter = _Lexer.getIter();</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while (argIter.hasMoreElements())</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lexer.KeyAndValue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keyAndValue
+= (Lexer.KeyAndValue) argIter.nextElement();</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+key = keyAndValue.getKey();</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+value = keyAndValue.getValue();</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Parser.ArgSemantic&nbsp;&nbsp;&nbsp; argSemantic;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Object&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+valueAsAnObject;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Get the arg semantic that corresponds to the input argument</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+argSemantic = (Parser.ArgSemantic) _ArgSemantics.get(key);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if ( argSemantic == null )</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unrecognised argument : " + key ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+try</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Using the String value that came with the argument,</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// create an object of the expected type.</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Get the constructor (for argument type) that takes a String.</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Class[] parmClass = new Class[1];</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+parmClass[0] = (new String("")).getClass();</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Constructor constructorTakingAString = Class.forName(argSemantic.getType()).getConstructor(parmClass);</NOBR></TT><TT><NOBR></NOBR></TT>
+
+<P><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Invoke that constructor with teh value from the argument list.</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Object[] parmList = new Object[1];</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+parmList[0] = value;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+valueAsAnObject = constructorTakingAString.newInstance(parmList);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+// Populate the list of parsed arguments</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_ParsedArguments.put(argSemantic.getKey(), valueAsAnObject);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (ClassNotFoundException classNotFoundError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unfindable type " + argSemantic.getType()
++ " for argument " + argSemantic.getKey() ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (NoSuchMethodException noSuchMethodError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unable to find a constructor that takes
+astring for&nbsp; " + argSemantic.getType() + " for argument " + argSemantic.getKey()
+));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (SecurityException securityError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unable get permission to use a constructor
+that takes astring for&nbsp; " + argSemantic.getType() + " for argument
+" + argSemantic.getKey() ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (InstantiationException argumentTypeNotInstantiatableError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unable to instantiate " + argSemantic.getType()
++ " for argument " + argSemantic.getKey() ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (IllegalAccessException accessError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unable to access class " + argSemantic.getType()
++ " for argument " + argSemantic.getKey() ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+catch (InvocationTargetException invocationError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+throw(new IllegalArgumentException("Unable to invoke constructor for class
+" + argSemantic.getType() + " for argument " + argSemantic.getKey() ));</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+}</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; catch (IllegalArgumentException illegalArgumentError)</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(illegalArgumentError);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println("\n");</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(getUsage());</NOBR></TT>
+<BR><TT><NOBR>&nbsp;</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (_ExitOnFailure
+== true )</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+System.exit(1);</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>&nbsp;&nbsp;&nbsp; }</NOBR></TT>
+<BR><TT><NOBR>}</NOBR></TT>
+
+<P>&nbsp;
+<BR>&nbsp; <B><A HREF="commandline.zip">download source code</A></B>
+
+<P>
+<HR WIDTH="100%">
+<ADDRESS>
+fasttips@foliage.com</ADDRESS>
+
+<BR><I>&copy; 1998, Foliage Advanced Software Training</I>
+</BODY>
+</HTML>

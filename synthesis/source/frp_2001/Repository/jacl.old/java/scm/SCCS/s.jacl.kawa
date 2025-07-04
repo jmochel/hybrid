@@ -1,0 +1,137 @@
+h54456
+s 00009/00026/00002
+d D 1.4 99/11/23 13:28:48 jmochel 5 4
+cC
+cK24565
+cPjava/scm/JACL.kawa
+e
+s 00025/00021/00003
+d D 1.3 99/11/19 13:17:37 jmochel 4 3
+c Updated the grammar without getting it to work.
+cC
+cK13000
+e
+s 00023/00009/00001
+d D 1.2 99/11/18 07:39:44 jmochel 3 2
+c recreated for this nnew dirtectory structure.
+cC
+cK63612
+e
+s 00010/00000/00000
+d D 1.1 99/11/17 12:55:43 jmochel 2 1
+cC
+cK27423
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:55:40 jmochel 1 0
+c BitKeeper file e:/jacl/java/scm/jacl.kawa
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45366
+cPjava/scm/jacl.kawa
+cR2f93d7305cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 1
+f x 33
+t
+T
+I 2
+D 3
+M$P   #A'.EQJ86-L7&IA=F%<<W)C7'5T:6Q<:&%S:%Q096%R<V]N<TAA<VA5
+M;FET5&5S=$UA:6XN:F%V81LN.T<Z7&IA8VQ<:F%V85QO=71P=71<8VQA<W, 
+M      $    !                    &4<Z7&IA8VQ<:F%V85QO=71P=71<
+M8VQA<W,      0                                         !    
+M 0                                     5+V-L87-S/6IA=F$N;&%N
+M9RY">71E%F-O;2YH;VQU8BYU:2Y&;W)M)%1E<W0   $    =1CI<<W)C7&-O
+M;5QH;VQU8EQU:5Q&;W)M+FIA=F$-    %F-O;2YH;VQU8BYU:2Y&;W)M)%1E
+M<W2; 19C;VTN:&]L=6(N=6DN1F]R;21497-TG $68V]M+FAO;'5B+G5I+D9O
+)<FTD5&5S=$T!
+E 3
+I 3
+D 4
+M$P                                                          
+E 4
+I 4
+D 5
+M$P   #9%.EQJ86-L7&IA=F%<<W)C7$UA8W)O4')O8V5S<V]R7$-O9&5'96YE
+M<F%T;W)-86EN+FIA=F$        !     0                   !-%.EQJ
+M86-L7&IA=F%<;W5T<'5T      $    !                            
+M         0    $                                     *D4Z7&IA
+M8VQ<:F%V85QS<F-<36%C<F]0<F]C97-S;W)<4V%M<&QE,"YC9P         1
+M13I<:F%C;%QJ879A7'-C;5P          0                          
+M               ! "I%.EQJ86-L7&IA=F%<<W)C7$UA8W)O4')O8V5S<V]R
+M7%-A;7!L93 N8V<               $   #__P, #@!#4')O:F5C=$9O;&1E
+M<@0    $:F%C; EJ86-L+FMA=V$            !    __\! !4 0U!R;VIE
+M8W16:7)T=6%L1F]L9&5R      9%9&ET;W(!     X       DE2 0    . 
+M!0    Y-86-R;U!R;V-E<W-O<@(   #__P4 $ !#4')O:F5C=$9I;&5)=&5M
+M+"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;V1E1V5N97)A=&]R36%I;BYJ879A
+E 5
+I 5
+M$P             !     0                   !-%.EQJ86-L7&IA=F%<
+M;W5T<'5T      $                                             
+M                                                   113I<:F%C
+M;%QJ879A7'-C;5P          0                                  
+M                         0   /__ P . $-0<F]J96-T1F]L9&5R @  
+M  1*04-,"4I!0TPN:V%W80     (* D!  $   #__P$ %0!#4')O:F5C=%9I
+M<G1U86Q&;VQD97(     "V-O;6UA;F1L:6YE 0    .       1H87-H   !
+M !-%.EQJ86-L7&IA=F%<;W5T<'5T                                
+E 5
+E 4
+M                                                            
+D 4
+M                         !%%.EQJ86-L7&IA=F%<<V-M7          !
+M                                                           !
+M    __\#  X 0U!R;VIE8W1&;VQD97($    !&IA8VP):F%C;"YK87=A    
+M         0   /__ 0 5 $-0<F]J96-T5FER='5A;$9O;&1E<@     &161I
+M=&]R 0    .       ))4@$    #@ 4    .36%C<F]0<F]C97-S;W("    
+M__\% !  0U!R;VIE8W1&:6QE271E;2PN+EQS<F-<36%C<F]0<F]C97-S;W)<
+M0V]D94=E;F5R871O<DUA:6XN:F%V80                              
+M                                   "    !X Q+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7$-O9&5'96YE<F%T;W)497AT3&5X97(N:F%V80          
+M                <W1A= !I;F%L(&EN="!)1TY/4D4@/2 X.PI]"@ "    
+M!X O+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O9&5'96YE<F%T;W)497AT4&%R
+M<V5R+F<!                                                    
+M      !&     @    > ,BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;V1E1V5N
+M97)A=&]R5&5X=%!A<G-E<BYJ879A                                
+M                                  (    '@#PN+EQS<F-<36%C<F]0
+M<F]C97-S;W)<0V]D94=E;F5R871O<E1E>'1087)S97)4;VME;E1Y<&5S+FIA
+M=F$                          %@;35\ 6!M-7U@;35]8&TU?6!M-7P  
+M         0    .  @    1U=&EL 0    .       MC;VUM86YD;&EN90$ 
+M   #@      $:&%S:                                           
+E 4
+I 4
+D 5
+M      (    '@#$N+EQS<F-<36%C<F]0<F]C97-S;W)<0V]D94=E;F5R871O
+M<E1E>'1,97AE<BYJ879A                          !S=&%T &EN86P@
+M:6YT($E'3D]212 ](#@["GT*  (    '@"\N+EQS<F-<36%C<F]0<F]C97-S
+M;W)<0V]D94=E;F5R871O<E1E>'1087)S97(N9P$    !    5@(  %8"    
+M                                     $8    "    !X R+BY<<W)C
+M7$UA8W)O4')O8V5S<V]R7$-O9&5'96YE<F%T;W)497AT4&%R<V5R+FIA=F$ 
+E 4
+M                                                            
+D 4
+0           '2D1+(#$N,@  
+E 4
+I 4
+M     @    > /"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;V1E1V5N97)A=&]R
+M5&5X=%!A<G-E<E1O:V5N5'EP97,N:F%V80                          
+M6!M-7P!8&TU?6!M-7U@;35]8&TU?           !     X "    !'5T:6P!
+M     X      "V-O;6UA;F1L:6YE 0    .       1H87-H   ! !-%.EQJ
+M86-L7&IA=F%<;W5T<'5T         0                              
+M                                                            
+.        !TI$2R Q+C( 
+E 5
+I 5
+4                !TI$2R Q+C( 
+E 5
+E 4
+E 3
+ 
+E 2
+I 1
+E 1

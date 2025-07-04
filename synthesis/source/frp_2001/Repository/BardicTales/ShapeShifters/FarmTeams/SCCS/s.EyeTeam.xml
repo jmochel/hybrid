@@ -1,0 +1,477 @@
+h55358
+s 00446/00000/00000
+d D 1.1 00/12/08 09:40:44 jmochel 2 1
+cC
+cF1
+cK17640
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:44 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/FarmTeams/EyeTeam.xml
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK19072
+cPShapeShifters/FarmTeams/EyeTeam.xml
+cR679507da
+cV3
+cX0x180
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE characters SYSTEM "../Support/btnpc.dtd">
+<characters>
+	<names>
+		<nomen category="group" type="usename" disclosure="public">The Eyes
+    </nomen>
+	</names>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Illenar Shaft
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Kymri
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="14" constitution="14" dexterity="16" agility="16" build="10" aura="13" drive="14" discernment="16" intelligence="14"/>
+		<desc>
+			<physical>
+				<frame build="big" bone="med" tone="well">Whipcord, rawhide and whalebone.
+            </frame>
+				<hair style="Pony Tail" length="upperback" color="black" texture="average">
+					<ornamentation>Silver and Iron hair band.
+                </ornamentation>
+				</hair>
+				<eyes color="green"/>
+				<skin color="light" texture="Very Weather Beaten"/>
+				<facialhairs>
+					<facialhair type="mustache">A simple mustache and beard shot with gray.
+                </facialhair>
+				</facialhairs>
+				<ears>
+					<ornamentation>None
+                </ornamentation>
+				</ears>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="scar">Puckered incision on the right hip.
+                </mark>
+					<mark type="scar">Puckered star on the left shoulder
+                </mark>
+					<mark type="scar">Three parallel claw marks on the chest.
+                </mark>
+					<mark type="scar">Large patch of scarring over the right bicep.
+                </mark>
+				</idmarks>
+				<voice type="tenor" volume="low" clarity="clear">
+					<habits/>
+				</voice>
+				<clothing weight="middle" worth="average" age="wellworn">Light brown leather trousers, brown linen shiirt and 
+                brown leather vest. Hard calf-high boots. Reddish 
+                dragon scale armor.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Faith in destiny.
+            </personalkeynote>
+				<socialkeynote>Trust.
+            </socialkeynote>
+				<energy>Steady.
+            </energy>
+				<bearing>Upright and quiet.
+            </bearing>
+				<mannerisms/>
+				<humor>Very dry and polite. 
+            </humor>
+				<senseofself strength="average"/>
+				<sex appeal="averageappeal" drive="lowdrive"/>
+				<logicparadigm>Mystic. 
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Leadership" factor="CTF" rank="6"/>
+			<skill name="Tactics" factor="CTF" rank="6"/>
+			<skill name="Tracking" factor="SKF" rank="7"/>
+			<skill name="Stealth" factor="AGF" rank="4"/>
+			<skill name="Reduce Exhaustion" factor="KIF" rank="5"/>
+			<skill name="Man Bow" factor="MCF" rank="10"/>
+			<skill name="Instant Attack" factor="MCF" rank="6"/>
+			<skill name="Set-up" factor="MCF" rank="6"/>
+			<skill name="Perception" factor="MCF" rank="6"/>
+			<skill name="Trance" factor="MCF" rank="6"/>
+			<skill name="Quick Draw Arrow" factor="MCF" rank="6"/>
+			<skill name="Dream Walk" factor="DVF" rank="8"/>
+			<skill name="Sleep" factor="KIF" rank="6"/>
+			<skill name="Fletcher" factor="SKF" rank="6"/>
+		</skills>
+		<possessions>
+			<possession name="armour" type="magical">Red dragon scale mail. Light and quiet.
+        </possession>
+			<possession name="bow" type="speciallycrafted">A man-bow made by a master bowyer of the Kymri. Adds +15% to the chance to hit and allows for 
+        full damage bonus.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>A Kymri ranger who has hunted brigands, orcs, known as a quiet stable sort by most.
+    Not distinguished in most people's eyes but almost always used as a guide when 
+    the very best is needed.
+
+He is the native guide or scout of a hundred tails and stories of heroes. 
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para/>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Garod StillStone
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Dwarf
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="12" constitution="12" dexterity="10" agility="12" build="16" aura="9" drive="20" discernment="14" intelligence="12"/>
+		<desc>
+			<physical>
+				<frame build="big" bone="hefty" tone="well">The rock upon which you can build a church.
+            </frame>
+				<hair style="Straight" length="shoulder" color="black" texture="coarse"/>
+				<eyes color="black"/>
+				<skin color="Brown" texture="smooth"/>
+				<facialhairs>
+					<facialhair type="beard">The traditional dwarfy beard.
+                </facialhair>
+				</facialhairs>
+				<ears>
+					<ornamentation/>
+				</ears>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks/>
+				<voice type="bass" volume="medium" clarity="clear">The James Earl Jones voice of God.
+            </voice>
+				<clothing weight="middle" worth="expensive" age="new">Light earth brown trousers and beaded silk and calfskin vest.
+                Soft calf-high boots and a red sash.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Self Assurance
+            </personalkeynote>
+				<socialkeynote>Confidant
+            </socialkeynote>
+				<energy>Unknown. Almost seems to have enough to do what needs to get done.
+            </energy>
+				<bearing>Upright
+            </bearing>
+				<mannerisms>Carries a stone that he constantly rubs and worries when talking. 
+            </mannerisms>
+				<humor>Dark and dry.
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="averageappeal" drive="lowdrive"/>
+				<logicparadigm>What is, Is.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="D:Moradin" factor="DVF" rank="8"/>
+			<skill name="Prayer" factor="DVF" rank="4"/>
+			<skill name="Blend with Earth" factor="DVF" rank="4"/>
+			<skill name="Earth Sense" factor="KIF" rank="5"/>
+			<skill name="Two Handed Hammer" factor="PCF" rank="6"/>
+			<skill name="Throw Two Handed Hammer" factor="MCF" rank="4"/>
+		</skills>
+		<possessions>
+			<possession name="hammer" type="speciallycrafted">A two handed hammer with adamantine head.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>Up until the time of the Lich breakout he was just another priesty engaged in the 
+    favorite pasttime of the Dwarves : Road tripping their way through the continent 
+    hacking at everything in their path.
+    </para>
+			<para>At the moment of the breakout he was struck by a certainty. Sometime in the future he was 
+    to be handed the Hammer of The Dwarven Lords for safekeeping and he had to be ready. 
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para/>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="nearfateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Holder
+        </nomen>
+			<nomen category="person" type="birthname" disclosure="public">Jetuannan
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Venn
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="10" constitution="11" dexterity="12" agility="14" build="10" aura="9" drive="13" discernment="18" intelligence="11"/>
+		<desc>
+			<physical>
+				<frame build="lithe" bone="medium" tone="well">Lean and  hungry looking.
+            </frame>
+				<hair style="kinked" length="s" color="black" texture="coarse">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="black" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation/>
+				</ears>
+				<nose conformation="straight" length="short"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="scar">A series of parallel dotted scars on each cheek.
+                </mark>
+				</idmarks>
+				<voice type="bass" volume="low" clarity="clear"/>
+				<clothing weight="light" worth="expensive" age="new">Raw black silk Sentinel's clothing.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Quiet
+            </personalkeynote>
+				<socialkeynote>Observer
+            </socialkeynote>
+				<energy/>
+				<bearing>Upright but laid back.
+            </bearing>
+				<mannerisms/>
+				<humor>Wry inward chuckles.
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="highappeal" drive="lowdrive"/>
+				<logicparadigm>?
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Awareness" factor="KIF" rank="6"/>
+			<skill name="Internal Awareness" factor="KIF" rank="8"/>
+			<skill name="Stealth" factor="AGF" rank="6"/>
+			<skill name="Spear" factor="PCF" rank="6"/>
+			<skill name="Walk Unseen" factor="AGF" rank="4"/>
+		</skills>
+		<possessions/>
+		<associations/>
+		<history>
+			<para/>
+			<para/>
+		</history>
+		<status/>
+		<commentary>
+			<para/>
+		Thin as a rail (Modeled on Captain Al). Deep voiced. He is very polite, very quiet. Watches all the time but seldom comments.
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Kenvar
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Dau-shao
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="18" constitution="15" dexterity="13" agility="13" build="15" aura="10" drive="15" discernment="12" intelligence="12"/>
+		<desc>
+			<physical>
+				<frame build="medium" bone="med" tone="well">heavily muscled
+            </frame>
+				<hair style="straight" length="shoulder" color="blond" texture="fine">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="brown"/>
+				<skin color="light" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>Gold Stud
+                </ornamentation>
+				</ears>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight">a gorgeous full set of teeth
+            </teeth>
+				<idmarks>
+					<mark type="scar">numerous training scars on chest, back, and forearms.
+                </mark>
+				</idmarks>
+				<voice type="bass" volume="low" clarity="clear"/>
+				<clothing weight="middle" worth="average" age="new">Durable linen shirt and trousers (reinforced with leather
+). typically wears leather armor.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>I like life
+            </personalkeynote>
+				<socialkeynote>relax
+            </socialkeynote>
+				<energy>in all directions
+            </energy>
+				<bearing> like a large prowling animal.for
+            </bearing>
+				<mannerisms>
+            </mannerisms>
+				<humor>
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="highappeal" drive="highdrive"/>
+				<logicparadigm>gut instinct
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="" factor="" rank=""/>
+		</skills>
+		<possessions>
+			<possession type="normal">
+        </possession>
+			<possession type="normal">
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para></para>
+		</history>
+		<status/>
+		<commentary>
+			<para>strong and headstrong.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fated">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Caliset
+       </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Cetanean
+        </nomen>
+		</cultures>
+		<species gender="female">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="11" constitution="13" dexterity="12" agility="13" build="13" aura="16" drive="16" discernment="15" intelligence="14"/>
+		<desc>
+			<physical>
+				<frame build="slight" bone="med" tone="avg">Short but light.
+            </frame>
+				<hair style="straight" length="midback" color="brown" texture="fine">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="brown"/>
+				<skin color="olive" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>None
+                </ornamentation>
+				</ears>
+				<nose conformation="hawk" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="birthmark">Reddish half-moon on the right hip.
+                </mark>
+					<mark type="scar">Puckered circle from a sling stone on the left temple.
+                </mark>
+				</idmarks>
+				<voice type="bass" volume="low" clarity="clear"/>
+				<clothing weight="middle" worth="average" age="new">Durable cotton shift and sandals.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Harmony
+            </personalkeynote>
+				<socialkeynote>Common Sense.
+            </socialkeynote>
+				<energy>Average but focused.
+            </energy>
+				<bearing>Upright.
+            </bearing>
+				<mannerisms>Tilts her head forward for assent. 
+            </mannerisms>
+				<humor>Wry.
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="highappeal" drive="lowdrive"/>
+				<logicparadigm>Aristotlean
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Meditation" factor="DVF" rank="4"/>
+			<skill name="SDA" factor="DVF" rank="6"/>
+			<skill name="G:Diana" factor="DVF" rank="4"/>
+			<skill name="D:Prayer" factor="DVF" rank="4"/>
+			<skill name="D:Tracking" factor="DVF" rank="4"/>
+			<skill name="D:Prophecy" factor="DVF" rank="4"/>
+			<skill name="D:Detect Truth" factor="DVF" rank="4"/>
+			<skill name="D:Heal Body" factor="DVF" rank="4"/>
+			<skill name="D:Heal Soul" factor="DVF" rank="4"/>
+			<skill name="D:Pierce Deception" factor="DVF" rank="4"/>
+			<skill name="Sling" factor="MCF" rank="4"/>
+			<skill name="Spear" factor="PCF" rank="4"/>
+			<skill name="Running" factor="AGF" rank="4"/>
+		</skills>
+		<possessions/>
+		<associations/>
+		<history>
+			<para>An unremarkable priestess of Diana and content to be so until an oracle of Diana 
+ made it clear that her family and its line would perish if a specific man failed at his task. 
+That man ? She has narrowed it down to one of the men in this group.</para>
+		</history>
+		<status/>
+		<commentary>
+			<para>She is the voice of calm in a storm.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+</characters>
+E 2
+I 1
+E 1

@@ -1,0 +1,849 @@
+H55046
+s 00819/00000/00000
+d D 1.1 01/08/03 14:21:14 jmochel 2 1
+cC
+cF1
+cK26057
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/03 14:21:14 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/UnitTest.jt
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK19993
+cPUnitTest.jt
+cR1cbd5f14
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+<class>
+/*
+	-----------------------------------------------------------------------------
+	--
+	--	U.S. Department	of the Treasury
+	--	Washington,	DC.	 All rights	reserved.
+	--	Copyright (c) 2000
+	--
+	-----------------------------------------------------------------------------
+	--
+	--		$Author: $
+	--		$Date: $
+	--		$Revision: $
+	--
+	-----------------------------------------------------------------------------
+*/
+
+package	<package/>;
+
+import junit.framework.TestCase;
+import junit.framework.Test;
+import junit.framework.TestSuite;
+
+import <qualifiedName/>;
+
+/**
+	JUnit Test Case for <name/>
+
+	@version $Revision:$
+
+	@author	$Author:$
+*/
+
+public class <name/>TestCase extends TestCase
+{
+	/**
+		Constructor
+	*/
+
+	public <name/>TestCase(String testCaseName)
+	{
+		super(testCaseName);
+	}
+
+	/**
+		Main for executing the test	out	of hand	from a command line
+
+		@see junit.framework.TestCase
+	*/
+
+	public static void main(String args[])
+	{
+        	junit.textui.TestRunner.run(suite());
+	}
+
+	/**
+		Sets up	the	testing	configuration.
+
+		@see junit.framework.TestCase#setUp
+	*/
+
+	protected void setUp() throws Exception
+	{
+		super.setUp();
+	}
+
+	/**
+		Tears Down (unitializes) any test specific variables
+
+		@see junit.framework.TestCase#tearDown
+	*/
+
+	protected void tearDown() throws Exception
+	{
+		super.tearDown();
+	}
+
+	/**
+		Returns	a set of tests to be executed
+
+		@see junit.framework.TestCase#testSuite
+	*/
+
+	public static Test suite()
+	{
+		//
+		// Uses	the	default	behavior via the constructor and
+		// returns a list of all  methods prefixed by the word "test"
+		// and taking avoid	parameter
+		//
+
+		return new TestSuite(<name/>TestCase.class);
+	}
+
+	/*
+		********************************************************************
+
+		Tests for basic	proof of existence
+
+		Proof of existence demonstrates	that a feature has been
+		minimally implemented
+
+		********************************************************************
+	*/
+
+	/**
+		Test for proof of existence	of the contructed components
+	*/
+
+	public void	testProofOfExistenceForConstructors()
+	{
+	}
+
+	/**
+		Test for proof of existence	of the properties or attributes
+
+		Automatically called by	the	unit testing framework.
+	*/
+
+	public void	testProofOfExistenceForProperties()
+	{
+	}
+
+	/**
+		Test for proof of existence	of the auxillary methods
+
+		Auxillaries are	the support methods	that all components	in the framework support.
+
+		Automatically called by	the	unit testing framework.
+	*/
+
+	public void	testProofOfExistenceForAuxillaries()
+	{
+	}
+
+	/**
+		Test for proof of existence	of the key behaviours
+
+		Key	Behaviours are those that are the reason of	existence for the component
+
+		Automatically called by	the	unit testing framework.
+	*/
+
+	public void	testProofOfExistenceForKeyBehaviours()
+	{
+	}
+
+	/*
+		********************************************************************
+
+		Tests for Basic	Functionality
+
+		Basic Functionality	tests demonstrate that a feature behaves as	expected
+		under ideal	conditions
+
+		********************************************************************
+	*/
+
+	/**
+		Tests for basic	functionality of the contructed	components
+
+		Exercises as many constructors as are supported	by create()	calls
+	*/
+
+
+	public void	testBasicFunctionalityForConstructors() <hasUniqueConstructorException>throws <uniqueConstructorException><comma/><qualifiedTypeName/></uniqueConstructorException></hasUniqueConstructorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		//
+		// Construct the object
+		//
+		<parameter>
+		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+		</parameter>
+		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+		</constructor>
+	}
+
+
+	/**
+		Tests for basic	functionality of the properties
+	*/
+
+	public void	testBasicFunctionalityForProperties() <hasUniquePropertyException>throws <uniquePropertyException><comma/><qualifiedTypeName/></uniquePropertyException></hasUniquePropertyException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+			//
+			// Construct the object
+			//
+			<parameter>
+			<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+			</parameter>
+			a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+		}
+
+		//
+		// Test	each accessor
+		//
+		<accessor>
+		{
+			// <name/>
+			<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+			<parameter>
+			<qualifiedTypeName/> safe_<name/> = <assignableSafeValue/>;
+			</parameter>
+			<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>safe_<name/><comma/></parameter>);
+		}
+		</accessor>
+		//
+		// Test	each mutator
+		//
+		<mutator>
+		{
+			// <name/>
+			<parameter>
+			<qualifiedTypeName/> safe_<name/> = <assignableSafeValue/>;
+			</parameter>
+			a<className/>.<name/>(<parameter>safe_<name/><comma/></parameter>);
+		}
+		</mutator>
+		</constructor>
+	}
+
+	/**
+		Tests for basic	functionality of the auxillary methods
+
+		Auxillaries	are	the	support	methods	that all components	in the framework support.
+	*/
+
+	public void	testBasicFunctionalityForAuxillaries() throws ClassNotFoundException, java.io.IOException <hasUniqueConstructorException>throws <uniqueConstructorException><comma/><qualifiedTypeName/></uniqueConstructorException></hasUniqueConstructorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+			//
+			// Construct the object
+			//
+			<parameter>
+			<qualifiedTypeName/> a<name/> = <assignableSafeValue/>;
+			</parameter>
+			a<className/> = new <name/>(<parameter>a<name/><comma/></parameter>);
+		}
+
+		//
+		// Test	the equals method
+		//
+
+		{
+			// Create two objects the same way
+
+			<className/> reference<className/> = null;
+			<className/> comparison<className/> = null;
+
+			<parameter>
+			<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+			</parameter>
+
+			reference<className/> = new <name/>(<parameter><name/><comma/></parameter>);
+			comparison<className/> = new <name/>(<parameter><name/><comma/></parameter>);
+
+			assert(reference<className/>.equals(comparison<className/>));
+		}
+
+		//
+		// Test	the toString method
+		//
+
+		{
+			// Execute the toString against an object instance.
+			
+			String toStringResult = a<className/>.toString();
+			
+			// This is the typical result that the default java.lang.Object implementation
+			// of toString should produce.
+
+			String defaultResult =  a<className/>.getClass().getName() + '@' + Integer.toHexString(a<className/>.hashCode());
+
+			// Currently this test fails if we are using the default toString implementation.
+
+			assert(defaultResult.equals(toStringResult) != true);
+		}
+
+		//
+		// Test	the hashCode method
+		//
+
+		{
+			// Execute the toString against an object instance.
+			
+			int hashResult = a<className/>.hashCode();
+		}
+		<isSerializable>
+		//
+		// Test	serialization
+		//
+
+		{
+			// Create the output streams.
+			
+			java.io.ByteArrayOutputStream	byteArrayDest = new java.io.ByteArrayOutputStream();
+			java.io.ObjectOutputStream		objectDest = new java.io.ObjectOutputStream(byteArrayDest);
+
+			// serialize the object instance
+
+			objectDest.writeObject(a<className/>);
+			objectDest.flush();
+			objectDest.close();
+			
+			// Create the input stream
+
+			java.io.ByteArrayInputStream	byteArraySrc = new java.io.ByteArrayInputStream(byteArrayDest.toByteArray());
+			java.io.ObjectInputStream		objectSrc = new java.io.ObjectInputStream(byteArraySrc);
+
+			// deserialize the object instance
+
+			<className/>	deserialized<className/> = (<className/>) objectSrc.readObject();
+			objectSrc.close();
+
+			// Currently this test fails if we are using the default toString implementation.
+
+			assertEquals(a<className/>,deserialized<className/>);
+		}
+		</isSerializable>
+		</constructor>
+	}
+
+	/**
+		Tests for basic	functionality of the key behaviours
+
+		Key	Behaviours are those that are the reason of	existence for the component
+	*/
+
+	public void	testBasicFunctionalityForKeyBehaviours() <hasUniqueKeyBehaviorException>throws <uniqueKeyBehaviorException><comma/><qualifiedTypeName/></uniqueKeyBehaviorException></hasUniqueKeyBehaviorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+			//
+			// Construct the object
+			//
+			<parameter>
+			<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+			</parameter>
+			a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+		}
+
+		//
+		// Test	each keybehavior
+		//
+		<keybehavior>
+		{
+			// <name/>
+
+			<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+			<parameter>
+			<qualifiedTypeName/> safe_<name/> = <assignableSafeValue/>;
+			</parameter>
+
+			<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>safe_<name/><comma/></parameter>);
+		}
+		</keybehavior>
+		</constructor>
+	}
+
+	/*
+		********************************************************************
+		Tests for Boundary Functionality
+
+		Boundary Functionality tests exercise a	feature	under conditions that
+		are	at the edge	of legal according to the API. Geared towards finding
+		off-by-one errors, etc.
+		********************************************************************
+	*/
+
+	/**
+		Tests for boundary functionality of	the	contructed components
+	*/
+
+	public void	testBoundaryFunctionalityForConstructors() <hasUniqueConstructorException>throws <uniqueConstructorException><comma/><qualifiedTypeName/></uniqueConstructorException></hasUniqueConstructorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+        	//
+        	// Construct the object using a set ogf oundary parameters at the high end.
+        	//
+        	<parameter>
+        	<qualifiedTypeName/> high_<name/> = <assignableHighBoundaryValue/>;
+        	</parameter>
+            a<className/> = new <className/>(<parameter>high_<name/><comma/></parameter>);
+        }
+                
+        {
+            //
+            // Construct the object using a set ogf boundary parameters at the low end.
+            //
+            <parameter>
+            <qualifiedTypeName/> low_<name/> = <assignableLowBoundaryValue/>;
+            </parameter>
+            a<className/> = new <className/>(<parameter>low_<name/><comma/></parameter>);
+        }
+		</constructor>	    
+	}
+
+	/**
+		Tests for boundary functionality of	the	properties
+	*/
+
+	public void	testBoundaryFunctionalityForProperties() <hasUniquePropertyException>throws <uniquePropertyException><comma/><qualifiedTypeName/></uniquePropertyException></hasUniquePropertyException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+        }
+        
+		//
+		// Test	each accessor
+		//
+		<accessor>
+		{
+    		// <name/>
+            // Called with a set of boundary values on the low end.
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> low_<name/> = <assignableLowBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>low_<name/><comma/></parameter>);
+        }
+        
+        {
+    		// <name/>
+            // Called with a set of boundary values on the high end.
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> high_<name/> = <assignableHighBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>high_<name/><comma/></parameter>);
+        }
+		</accessor>
+
+		//
+		// Test	each mutator
+		//
+		<mutator>
+		{
+    		// <name/>
+            // Called with a set of boundary values on the low end.
+    		<parameter>
+    		<qualifiedTypeName/> low_<name/> = <assignableLowBoundaryValue/>;
+    		</parameter>
+    		a<className/>.<name/>(<parameter>low_<name/><comma/></parameter>);
+        }
+        {
+    		// <name/>
+            // Called with a set of boundary values on the high end.
+    		<parameter>
+    		<qualifiedTypeName/> high_<name/> = <assignableHighBoundaryValue/>;
+    		</parameter>
+    		a<className/>.<name/>(<parameter>high_<name/><comma/></parameter>);
+    	}
+		</mutator>
+		</constructor>
+	}
+
+	/**
+		Tests for boundary functionality of	the	auxillary methods
+
+		Auxillaries	are	the	support	methods	that all components	in the framework support.
+	*/
+
+	public void	testBoundaryFunctionalityForAuxillaries()
+	{
+	}
+
+
+	/**
+		Tests for boundary functionality of	the	key	behaviours
+
+		Key	Behaviours are those that are the reason of	existence for the component
+	*/
+
+	public void	testBoundaryFunctionalityForKeyBehaviours() <hasUniqueKeyBehaviorException>throws <uniqueKeyBehaviorException><comma/><qualifiedTypeName/></uniqueKeyBehaviorException></hasUniqueKeyBehaviorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+        {
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+        }
+        
+		//
+		// Test	each keybehavior
+		//
+		<keybehavior>
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> low_<name/> = <assignableLowBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>low_<name/><comma/></parameter>);
+        }
+        
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> high_<name/> = <assignableHighBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>high_<name/><comma/></parameter>);
+    	}	
+		</keybehavior>
+		</constructor>
+	}
+
+	/*
+		********************************************************************
+
+		Tests for Beyond Boundary Functionality
+
+		Beyond Boundary	tests exercise a feature under conditions that are beyond the
+		edge of	legal according	to the API.	Geared towards excercising recovery
+		from error conditions.
+
+		********************************************************************
+	*/
+
+
+	/**
+		Tests for beyond boundary functionality	of the constructed comnponents
+	*/
+
+	public void	testBeyondBoundaryFunctionalityForConstructors() <hasUniqueConstructorException>throws <uniqueConstructorException><comma/><qualifiedTypeName/></uniqueConstructorException></hasUniqueConstructorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object using a set ogf boundary parameters at the high end.
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> highillegal_<name/> = <assignableHighBeyondBoundaryValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter>highillegal_<name/><comma/></parameter>);
+        }
+
+        {
+    		//
+    		// Construct the object using a set ogf boundary parameters at the low end.
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> lowillegal_<name/> = <assignableLowBeyondBoundaryValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter>lowillegal_<name/><comma/></parameter>);
+    	}
+		</constructor>	    
+	}
+
+	/**
+		Tests for beyond boundary functionality	of the properties
+	*/
+
+	public void	testBeyondBoundaryFunctionalityForProperties() <hasUniquePropertyException>throws <uniquePropertyException><comma/><qualifiedTypeName/></uniquePropertyException></hasUniquePropertyException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		//
+		// Construct the object
+		//
+
+		{
+			<parameter>
+			<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+			</parameter>
+			a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+		}
+
+		//
+		// Test	each accessor
+		//
+
+		<accessor>
+        {
+    		// <name/>
+            // Called with a set of boundary values on the low end.
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> lowillegal_<name/> = <assignableLowBeyondBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>lowillegal_<name/><comma/></parameter>);
+        }
+        
+        {
+    		// <name/>
+            // Called with a set of boundary values on the high end.
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> highillegal_<name/> = <assignableHighBeyondBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>highillegal_<name/><comma/></parameter>);
+        }
+		</accessor>
+		//
+		// Test	each mutator
+		//
+		<mutator>
+        {
+            // <name/>
+            // Called with a set of boundary values on the low end.
+            <parameter>
+            <qualifiedTypeName/> lowillegal_<name/> = <assignableLowBeyondBoundaryValue/>;
+            </parameter>
+            a<className/>.<name/>(<parameter>lowillegal_<name/><comma/></parameter>);
+        }
+
+        {        
+            // <name/>
+            // Called with a set of boundary values on the high end.
+            <parameter>
+            <qualifiedTypeName/> highillegal_<name/> = <assignableHighBeyondBoundaryValue/>;
+            </parameter>
+            a<className/>.<name/>(<parameter>highillegal_<name/><comma/></parameter>);
+        }        
+		</mutator>
+		</constructor>
+	}
+
+	/**
+		Tests for beyond boundary functionality	of the auxillary methods
+
+		Auxillaries	are	the	support	methods	that all components	in the framework support.
+	*/
+
+	public void	testBeyondBoundaryFunctionalityForAuxillaries()
+	{
+	}
+
+	/**
+		Tests for beyond boundary functionality	of the key behaviours
+
+		Key	Behaviours are those that are the reason of	existence for the component
+	*/
+
+	public void	testBeyondBoundaryFunctionalityForKeyBehaviours() <hasUniqueKeyBehaviorException>throws <uniqueKeyBehaviorException><comma/><qualifiedTypeName/></uniqueKeyBehaviorException></hasUniqueKeyBehaviorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+        }
+        
+		//
+		// Test	each keybehavior
+		//
+		<keybehavior>
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> lowillegal_<name/> = <assignableLowBeyondBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>lowillegal_<name/><comma/></parameter>);
+        }
+
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> highillegal_<name/> = <assignableHighBeyondBoundaryValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>highillegal_<name/><comma/></parameter>);
+        }    		
+		</keybehavior>
+		</constructor>
+	}
+
+	/*
+		********************************************************************
+
+		Destructive	Tests
+
+		********************************************************************
+	*/
+
+
+	/**
+		Tests for Destructive functionality	of the constructed comnponents
+	*/
+
+	public void	testDestructiveFunctionalityForConstructors() <hasUniqueConstructorException>throws <uniqueConstructorException><comma/><qualifiedTypeName/></uniqueConstructorException></hasUniqueConstructorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> destructive_<name/> = <assignableDestructiveValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter>destructive_<name/><comma/></parameter>);
+    	}
+		</constructor>	    
+	}
+
+	/**
+		Tests for Destructive functionality	of the properties
+	*/
+
+	public void	testDestructiveFunctionalityForProperties() <hasUniquePropertyException>throws <uniquePropertyException><comma/><qualifiedTypeName/></uniquePropertyException></hasUniquePropertyException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+        }
+        
+		//
+		// Test	each accessor
+		//
+		<accessor>
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> destructive_<name/> = <assignableDestructiveValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>destructive_<name/><comma/></parameter>);
+    	}
+		</accessor>
+		//
+		// Test	each mutator
+		//
+		<mutator>
+        {
+    		// <name/>
+    		<parameter>
+    		<qualifiedTypeName/>    destructive_<name/> = <assignableDestructiveValue/>;
+    		</parameter>
+    		a<className/>.<name/>(<parameter>destructive_<name/><comma/></parameter>);
+    	}
+		</mutator>
+		</constructor>
+    }
+
+	/**
+		Tests for Destructive functionality	of the auxillary methods
+
+		Auxillaries	are	the	support	methods	that all components	in the framework support.
+	*/
+
+	public void	testDestructiveFunctionalityForAuxillaries()
+	{
+	}
+
+	/**
+		Tests for Destructive functionality	of the key behaviours
+
+		Key	Behaviours are those that are the reason of	existence for the component
+	*/
+
+	public void	testDestructiveFunctionalityForKeyBehaviours() <hasUniqueKeyBehaviorException>throws <uniqueKeyBehaviorException><comma/><qualifiedTypeName/></uniqueKeyBehaviorException></hasUniqueKeyBehaviorException>
+	{
+		<className/> a<className/> = null;
+		<constructor>
+		{
+    		//
+    		// Construct the object
+    		//
+    		<parameter>
+    		<qualifiedTypeName/> <name/> = <assignableSafeValue/>;
+    		</parameter>
+    		a<className/> = new <className/>(<parameter><name/><comma/></parameter>);
+        }
+        
+		//
+		// Test	each keybehavior
+		//
+		<keybehavior>
+        {
+    		// <name/>
+    		<hasReturn><return><qualifiedTypeName/>	sample_<typeName/>;</return></hasReturn>
+    		<parameter>
+    		<qualifiedTypeName/> destructive_<name/> = <assignableDestructiveValue/>;
+    		</parameter>
+    		<hasReturn><return>sample_<typeName/></return>	= </hasReturn>a<className/>.<name/>(<parameter>destructive_<name/><comma/></parameter>);
+        }
+		</keybehavior>
+		</constructor>
+	}
+}
+</class>
+E 2N
+I 1
+E 1

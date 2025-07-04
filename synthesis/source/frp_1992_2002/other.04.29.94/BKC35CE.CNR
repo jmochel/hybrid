@@ -1,0 +1,47 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911211191149.455;
+          11 Dec 91 19:12:28 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911211191149.455;
+          11 Dec 91 19:12:19 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA05315; Wed, 11 Dec 91 19:13:39 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA19346; Wed, 11 Dec 91 18:26:55 -0500
+Message-Id: <9112112326.AA19346@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0984; Wed, 11 Dec 91 18:27:00 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 6211;
+ Wed, 11 Dec 91 18:26:57 EST
+Date:         Wed, 11 Dec 1991 18:22:23 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Laird Popkin <laird%THINK.COM@uga.cc.uga.edu>
+Subject:      collected replies
+X-To:         Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Your message of "Tue,
+              10 Dec 91 14:58:00 EDT."
+              <9112102004.AA23806@Early-Bird.Think.COM>
+
+This is long...
+
+.This is a look at my proposed difficulty system.  I first saw this system in
+.Adventure Quest/Jaern, a fantasy RPG published by Lafayette Simulations, a
+.small game company out of Valparaiso, Indiana.  The game was released at
+ GenCon
+.'91 this last August by the designers, Daniel Lawrence and Robert Blake.
+
+[roll dice vs. skill, number of dice = difficulty of task]
+
+The same system has been used in a number of games before.  While it
+is appealing in its simplicity, it breaks down when used for
+detailed RPG's.  It works well for Ghostbusters-type games, where
+detail isn't a goal.  The problem is that there is no way to make a
+task a bit harder than a two-die task but easier than a three-die
+task (for example).  If the RPG should be able to give people a
+bonus for aiming for 3 seconds, as well as for bracing himself, and
+for buying the special model bow with counterweights, there are a
+series of small modifiers which are lost if you only have a choice
+of rolling two or three dice.
+
+.Proposed Attributes (Dualistic Model) -- Adam Dray

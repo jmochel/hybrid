@@ -1,0 +1,61 @@
+.Name Tanjo Ishakawa
+.Title Hojen
+.Race Human
+.Culture Eyodin
+.PST 17
+.PEN 16
+.DEX 18
+.PAG 18
+.PAW 25
+.MST 25
+.MEN 16
+.PSI 0
+.MAG 15
+.MAW 14
+.HT 5'8"
+.WT 158
+.AGE 53
+.BeginDesc
+Very broad across the face with long straight hair drawn back into
+a single braid. He is missing one earlobe. He has many nasty looking
+scars across his chest and throat.
+.EndDesc
+.BeginSkills
+Weapon:Katana, 18
+Weapon:Wakisashi, 18
+Weapon:Tanto, 10
+Weapon:Tessen, 12
+Weapon:Yari, 13
+Weapon:Bo, 10
+Weapon:Nun-chaku, 7
+Weapon:Dai-Kyu, 12
+Lore:Tactics, 14
+Lore:Strategy, 14
+Lore:Koreal and Ezra, 0
+Lore:Fortification, 12
+Lore:Weaponry, 12
+Bajutsu, 12
+Horse Riding, 12
+Meditation, 12
+Movement:Armoured, 18
+Zen Sword, 14
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

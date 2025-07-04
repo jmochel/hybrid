@@ -1,0 +1,63 @@
+h29146
+s 00035/00000/00000
+d D 1.1 99/11/17 12:55:51 jmochel 2 1
+cC
+cK59560
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:55:47 jmochel 1 0
+c BitKeeper file e:/jacl/scm/jamfile
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45367
+cPscm/jamfile
+cR2f93d72e5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+# Top Level Jamfile for JACL
+#
+# $Author $
+# $Date $
+#
+
+
+# Project specific, platform dependent 
+# If the user has not specified a networked build 
+# go with the system defaults.
+
+ECHO Collecting information on the sub-builds to be done ;
+
+SubInclude TOP src bstrutil ;
+SubInclude TOP src cmdline ;
+SubInclude TOP src cbmgr ;
+SubInclude TOP src date ;
+SubInclude TOP src mctrie ;
+SubInclude TOP src rprtr ;
+SubInclude TOP src stream ;
+SubInclude TOP src util ;
+
+# Project specific, platform dependent 
+# If the user has not specified a networked build 
+# go with the system defaults.
+
+switch $(TARGETOS) 
+{
+	case W32 : 
+            SubInclude TOP src stream w32 ;
+
+	case UNX :
+            SubInclude TOP src stream unx ;
+}
+
+E 2
+I 1
+E 1

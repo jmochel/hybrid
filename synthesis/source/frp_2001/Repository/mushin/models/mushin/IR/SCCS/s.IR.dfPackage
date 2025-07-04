@@ -1,0 +1,57 @@
+H62396
+s 00027/00000/00000
+d D 1.1 01/07/13 18:14:22 jmochel 2 1
+cC
+cF1
+cK30185
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:22 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/IR/IR.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK03452
+cPmodels/mushin/IR/IR.dfPackage
+cR47993d21
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package idqlancp4bi4jzcp4c07t2;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#mushin.ir.McTrie:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

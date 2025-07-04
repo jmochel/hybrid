@@ -1,0 +1,548 @@
+h23746
+s 00521/00000/00000
+d D 1.1 00/02/04 15:13:32 jmochel 2 1
+cK48420
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:13:29 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/FarmTeams/UnseenTeam.xml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07857
+cPShapeShifters/FarmTeams/UnseenTeam.xml
+cR84cc63695cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!-- edited with XML Spy v1.3  - http://www.xmlspy.com-->
+<!DOCTYPE characters SYSTEM "../Support/btnpc.dtd">
+<characters>
+	<names>
+		<nomen category="group" type="usename" disclosure="public">The Unseen
+    </nomen>
+	</names>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Elita Disalva
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Hetasian
+        </nomen>
+		</cultures>
+		<species gender="female">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="12" constitution="12" dexterity="11" agility="15" build="10" aura="13" drive="11" discernment="18" intelligence="14"/>
+		<desc>
+			<physical>
+				<frame build="lithe" bone="small">Thin as a rail and almost gaunt.
+            </frame>
+				<hair style="Pony Tail" length="upperback" color="black" texture="average">
+					<ornamentation>A single Hard Iron and Silver clasp to hold the hair back.
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="Light Brown" texture="Weather Beaten"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>A single garnet 'waterfall' earring.
+                </ornamentation>
+				</ears>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="scar">A long thin white scar down the length of her forearm. 
+                </mark>
+				</idmarks>
+				<voice type="soprano" volume="low" clarity="clear">
+					<habits>Speaks in half finished sentences when concentrating.
+                </habits>
+				</voice>
+				<clothing weight="middle" worth="average" age="new">Light brown skirt and white blouse with brown leather vest. Calf-high sandals and
+                a brightly colored woven sash. Sometimes wears brown leather gloves for climbing 
+                and work.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Introspective.
+            </personalkeynote>
+				<socialkeynote>Non intrusive.
+            </socialkeynote>
+				<energy>Average levels of energy but rarely expends any unnecessarily.
+            </energy>
+				<bearing>Upright, withdrawn.
+            </bearing>
+				<mannerisms>Clicks her tongue when she disapproves of something. Leans on her staff a great deal when thinking.
+            </mannerisms>
+				<humor>Friendly. Infrequent, gentle and shy ribbing is her style.
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="highappeal" drive="averagedrive">Not notably pretty, she has a high sex appeal to those attracted to the quiet type.
+            </sex>
+				<logicparadigm>Intuitive to a fault. Little faith in logic.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Channelling" factor="SCF" rank="8"/>
+			<skill name="Staff" factor="PCF" rank="6"/>
+			<skill name="Staff parry" factor="PCF" rank="4"/>
+			<skill name="Instant Attack: Staff" factor="PCF" rank="4"/>
+			<skill name="Perception: Life" factor="SCF" rank="4"/>
+			<skill name="Manipulate Sense:Tactile" factor="SCF" rank="3"/>
+			<skill name="Manipulate Sense:Audio" factor="SCF" rank="3"/>
+			<skill name="Manipulate Sense:Sight" factor="SCF" rank="3"/>
+			<skill name="Manipulate Sense:Mana" factor="SCF" rank="3"/>
+			<skill name="Manipulate Sense:Taste" factor="SCF" rank="3"/>
+			<skill name="Manipulate Sense:Scent" factor="SCF" rank="3"/>
+			<skill name="Resist Manipulation:Tactile" factor="SCF" rank="2"/>
+			<skill name="Resist Manipulation:Audio" factor="SCF" rank="2"/>
+			<skill name="Resist Manipulation:Sight" factor="SCF" rank="2"/>
+			<skill name="Resist Manipulation:Mana" factor="SCF" rank="2"/>
+			<skill name="Resist Manipulation:Taste" factor="SCF" rank="2"/>
+			<skill name="Resist Manipulation:Scent" factor="SCF" rank="2"/>
+		</skills>
+		<possessions>
+			<possession name="staff" type="magical">A staff of Thelayan Bleach-Wood.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>Born with a natural talent for channeling energy she was much in demand in 
+    her home village as a healer and mid-wife.
+    </para>
+			<para>With the rest of her village she moved out ahead of Jarek Firelord's razziah into Chippawing and then Taleth.  
+    After the fall of Taleth she was separated from many of the people she was looking after and traveled into the hills
+    to the west of Taleth. 
+    </para>
+			<para>It was there that she encountered an unconcious man. Older, with a white beard and burns covering much of his torso. 
+    Tired and malnourished herself, she tried to heal him or at least bring him some small amount of comfort. Her last distinct
+    memory was laying hands on him and channeling power into him. 
+    </para>
+			<para>When she next awoke it was to discover that she was covered in snow and at least a month had gone by. She has since driven
+    herself north with an urgent need to meet someone. During her travels she has discovered that she is aware of and can
+    manipulate the senses of others. In addition her ability to communicate and learn new languages has increased.
+    She now stands now in front of the tree of Heimdella.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>In her encounter with the old man ( a dragon injured in the conflict betwen Jarek and company ?) she has 
+    acquired a sense of languaging and relationship rarely acquired by a human. Her illusion skills are basic 
+    , almost intuitive and her languaging skills are currently limited to communication, not realities. Though that maybe a limitation on her mindset not necessarily her abilities.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Tanith
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Kern
+        </nomen>
+		</cultures>
+		<species gender="female">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="12" constitution="11" dexterity="12" agility="12" build="10" aura="18" drive="11" discernment="17" intelligence="15"/>
+		<desc>
+			<physical>
+				<frame build="lithe" bone="small" tone="well">Small and fragile looking.
+            </frame>
+				<hair style="Straight" length="lowerback" color="red" texture="average">
+					<ornamentation>Silver and hardwood hair clasp shaped like two half moons.
+                </ornamentation>
+				</hair>
+				<eyes color="brown"/>
+				<skin color="pale" texture="smooth">Freckled across the shoulders and face.
+            </skin>
+				<facialhairs/>
+				<ears/>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="tattoo">A twisted rune, written in blue on the back of each hand.
+                </mark>
+				</idmarks>
+				<voice type="soprano" volume="medium" clarity="clear"/>
+				<clothing weight="middle" worth="average" age="new">Dressed like a good Kernish maid with Kirtle and Dun as well as shawl.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Loud and Clear.
+            </personalkeynote>
+				<socialkeynote>Larger than life, almost shrewish in her style and treatment of people.
+            </socialkeynote>
+				<energy>Plentiful.
+            </energy>
+				<bearing>Intense.
+            </bearing>
+				<mannerisms>Never shakes hands, always curtseys in greeting unless truly annoyed.
+            Never folds her hands together. Tends to flip her hair back with a toss of her head.
+            </mannerisms>
+				<humor>Rough and ready. Rude, Crude and socially unacceptable.
+            </humor>
+				<senseofself strength="strong"/>
+				<sex appeal="averageappeal" drive="highdrive">Very dominant in her sexual relationships.
+            </sex>
+				<logicparadigm>Common sense rules. Rarely caught out by the need to reconcile what is with what should be.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="W:Evocation" factor="SCF" rank="4"/>
+			<skill name="W:Air" factor="SCF" rank="4"/>
+			<skill name="M:Lightning Bolt" factor="SCF" rank="4"/>
+			<skill name="M:Lightning Fork" factor="SCF" rank="4"/>
+			<skill name="M:Lightning Shield" factor="SCF" rank="4"/>
+			<skill name="Control Power" factor="KIF" rank="4"/>
+		</skills>
+		<possessions>
+			<possession name="necklace" type="magical">Her simple gold and silver chain is enchanted to prevent divination of her foci (or the fact that she uses a foci).
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>Since the day she was born she has been marked as a power wielder but the 
+    path of priestess and wisewoman seemed closed to her. Unable to control her temper and master the 
+    basic meditations, she was considered unmarriageable and untrainable.
+    </para>
+			<para>After a Tyrethi raid in which she killed several reavers with lightnings her future looked even bleaker. 
+    Feared by the villagers and even some of her clan she faced exile from the elders.
+    </para>
+			<para>In the midst of judgement being passed Sephus Goldstar appeared complaining about her effect on the climate and 
+    tuna migrations. With a wave he slapped tattoos on her hands and a gag on her mouth. Telling her and her brother that they were
+    to be banished from the islands "until the dolphins stop their circling and the sun rises above the mountain that once was" 
+    he dropped them off in Sargon bay on a boat heading to the Frankish lands. With a hearty heigh-ho and "have fun storming the
+    citadel" they were on their way.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>The runes on her hands are her specific foci, one per school of wizardry. She has a serious disad in her quick temper and 
+    a tendency towards magic berserking. She has a levl 2 advantage for Evokation and level 1 for Aeromancy. 
+    </para>
+			<para>Her necklace was enchanted by Sephus to protect against detection of his changes.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Liam
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Kern
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="15" constitution="14" dexterity="13" agility="14" build="14" aura="11" drive="16" discernment="11" intelligence="12"/>
+		<desc>
+			<physical>
+				<frame build="hefty" bone="big" tone="well">A veritable tree of a man.
+            </frame>
+				<hair style="braid" length="midback" color="black" texture="coarse">
+					<ornamentation>Leather thong wrapped around the root of the braid with silver ferruled 
+                eagle feathers attached.
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="Brown" texture="smooth">Freckles.
+            </skin>
+				<facialhairs/>
+				<ears/>
+				<nose conformation="straight" length="average"/>
+				<teeth condition="average" color="white" conformation="straight"/>
+				<idmarks>
+					<mark type="scar">Hawking scar on the right forearm.
+                </mark>
+					<mark type="scar">2 inch by 2 inch scar on the left calf.
+                </mark>
+				</idmarks>
+				<voice type="tenor" volume="low" clarity="clear"/>
+				<clothing weight="heavy" worth="average" age="new">Red and Green kilt with Sporran and belt. Linen shirt with yellow leather and wool 
+                cloak. Typically wears leather and steel Elbow and knee gaurds as well as vambraces.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Cautious.
+            </personalkeynote>
+				<socialkeynote>Concernd and caring.
+            </socialkeynote>
+				<energy>Sturdy not hyper.
+            </energy>
+				<bearing>Solid
+            </bearing>
+				<mannerisms>Ducks his head when embarrassed, tends to squat to rest rather than sitting.
+            </mannerisms>
+				<humor/>
+				<senseofself strength="strong"/>
+				<sex appeal="averageappeal" drive="averagedrive"/>
+				<logicparadigm>Logical but with a great deal of belief thrown in.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Claymore" factor="PCF" rank="6"/>
+			<skill name="Combat Maneuver" factor="PCF" rank="4"/>
+			<skill name="Targe" factor="PCF" rank="4"/>
+			<skill name="Targe Parry" factor="PCF" rank="4"/>
+			<skill name="Man-bow" factor="MCF" rank="6"/>
+			<skill name="MCF Set-up" factor="MCF" rank="4"/>
+			<skill name="Target Perception" factor="MCF" rank="4"/>
+			<skill name="Leadership" factor="SKF" rank="4"/>
+		</skills>
+		<possessions>
+			<possession name="bow" type="speciallycrafted">Uses a man bow picked up from a looted trader's caravan in Dau-Shau.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>A veteran warrior with even some experience in the Thelayan waste he is a good 
+    solid fighter with a stolid, cautious nature that stands him in good stead.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>Linked to his sister (effectively they are siamese-mana-twins) by a 
+    solid bond that neither can control as yet they are able to exchange ideas 
+    and energy with equal ease.
+    </para>
+			<para>He is devoted to his sister but still considers her his "little" sister. Protects and 
+    guards her as well as keeping her from losing her temper.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="nearfateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Richard Delacourt
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Mearan
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="14" constitution="14" dexterity="15" agility="15" build="14" aura="12" drive="12" discernment="12" intelligence="12"/>
+		<desc>
+			<physical>
+				<frame build="medium" bone="med" tone="well">Big but wiry.
+            </frame>
+				<hair style="bowl" length="neck" color="blond" texture="veryfine">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="blue"/>
+				<skin color="light" texture="smooth"/>
+				<facialhairs>
+					<facialhair type="mustache">A long bushy mustache. Almost walrus like.
+                </facialhair>
+				</facialhairs>
+				<ears/>
+				<nose conformation="broken" length="average"/>
+				<teeth condition="average" color="white" conformation="straight">Missing his lower left canine.
+            </teeth>
+				<idmarks>
+					<mark type="scar">Numerous training scars on both forearms.
+                </mark>
+				</idmarks>
+				<voice type="bass" volume="high" clarity="clear"/>
+				<clothing weight="middle" worth="average" age="new">Durable linen shirt and trousers (reinforced with leather ).
+                High black boots, Doublet, Surcoat and chain with coif.
+                Usually a big sweeping cloak.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Faith.
+            </personalkeynote>
+				<socialkeynote>Politeness.
+            </socialkeynote>
+				<energy>Contained.
+            </energy>
+				<bearing>Knightly
+            </bearing>
+				<mannerisms>Stands at attention even when not necessary.
+            </mannerisms>
+				<humor>Bluff and rough.
+            </humor>
+				<senseofself strength="average"/>
+				<sex appeal="averageappeal" drive="averagedrive"/>
+				<logicparadigm>Faith and logic equally mixed. 
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Horsemanship" factor="AGF" rank="5"/>
+			<skill name="Mounted Combat" factor="PCF" rank="4"/>
+			<skill name="Bastard Sword" factor="PCF" rank="6"/>
+			<skill name="Lance" factor="PCF" rank="4"/>
+			<skill name="Horse Husbandry" factor="SKF" rank="3"/>
+			<skill name="Armour Wearing" factor="PCF" rank="6"/>
+			<skill name="Heavy Sheild" factor="PCF" rank="4"/>
+			<skill name="Shield Parry" factor="PCF" rank="4"/>
+			<skill name="Great Blow" factor="PCF" rank="3"/>
+			<skill name="Combat Maneuver" factor="PCF" rank="3"/>
+			<skill name="Round House Kick" factor="PCF" rank="3"/>
+			<skill name="Side Kick" factor="PCF" rank="3"/>
+			<skill name="Stealth" factor="AGF" rank="3"/>
+			<skill name="Ambush Tactics" factor="SKF" rank="3"/>
+			<skill name="Awareness" factor="KIF" rank="4"/>
+			<skill name="Crossbow" factor="MCF" rank="4"/>
+			<skill name="Staff" factor="PCF" rank="4"/>
+			<skill name="Dagger" factor="PCF" rank="4"/>
+		</skills>
+		<possessions>
+			<possession type="normal">Possesses a very well trained Melasian war-horse called 'Bastard'.
+        </possession>
+			<possession type="speciallycrafted">Very durable kite shield.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>The third son of minor nobility he chose the church at an early age and was convinced 
+    to join the military arm soon afterward. The Knights of the Cloak selected him for training 
+    after his service in the battle for the Wizard King's citadel.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>Modeled somewhat on Etienne Navarre he is a pragmatic fighting machine embued with bucket loads of 
+    faith who is happiest when a problem can be solved via combat. Earnest but not brilliant he 
+    constantly works toward the solutions that his upbringing would indicate are possible 
+    (peace, brotherhood, etc..) but there is a distinct sigh of relief when combat can vbe joined.
+    </para>
+			<para>Dangerous enough on foot he becomes a natural disaster when mounted. His horse is tough, smart and 
+    very well trained. In combination with Delacourt's adaptation of HTH techniques to mounted combat
+    they pose a united and deadly front to the rest of the world.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="nearfateless">
+		<names>
+			<nomen category="person" type="usename" disclosure="public">Horgan
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group" type="usename" disclosure="public">Rhizak
+        </nomen>
+		</cultures>
+		<species gender="male">
+			<nomen category="group" type="usename" disclosure="public">Human
+        </nomen>
+		</species>
+		<stats strength="14" constitution="14" dexterity="15" agility="15" build="14" aura="8" drive="9" discernment="15" intelligence="12"/>
+		<desc>
+			<physical>
+				<frame build="lithe" bone="med" tone="well">Short, lithe and wiry.
+            </frame>
+				<hair style="pony" length="midback" color="black" texture="average">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="brown" texture="smooth"/>
+				<facialhairs>
+					<facialhair type="mustache">A long fu-manchu mustache.
+                </facialhair>
+				</facialhairs>
+				<ears/>
+				<nose conformation="broken" length="short"/>
+				<teeth condition="average" color="yellow" conformation="straight"/>
+				<idmarks>
+					<mark type="scar">Large slash across his stomach.
+                </mark>
+					<mark type="scar">pockmarks across his cheeks.
+                </mark>
+					<mark type="tattoo">Entire back is covered with totemic markings.
+                </mark>
+				</idmarks>
+				<voice type="bass" volume="high" clarity="clear"/>
+				<clothing weight="middle" worth="average" age="new">Durable raw silk quilted shirt and quilted trousers (reinforced with leather ).
+                High black boots lined with felt. Usually has heavy leather pieced armour on.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Lazy
+            </personalkeynote>
+				<socialkeynote>Apathetic 
+            </socialkeynote>
+				<energy>Almost nonexistent.
+            </energy>
+				<bearing>Subdued, slope shouldered.
+            </bearing>
+				<mannerisms/>
+				<humor>Crude and 
+            </humor>
+				<senseofself strength="average"/>
+				<sex appeal="averageappeal" drive="averagedrive"/>
+				<logicparadigm>Faith and logic equally mixed. 
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill name="Horsemanship" factor="AGF" rank="6"/>
+			<skill name="Mounted Combat" factor="PCF" rank="4"/>
+			<skill name="Scimitar" factor="PCF" rank="4"/>
+			<skill name="Javelin" factor="MCF" rank="4"/>
+			<skill name="Horse Husbandry" factor="SKF" rank="3"/>
+			<skill name="Armour Wearing" factor="PCF" rank="4"/>
+			<skill name="Small Shield" factor="PCF" rank="4"/>
+			<skill name="Shield Parry" factor="PCF" rank="4"/>
+			<skill name="Combat Maneuver" factor="PCF" rank="3"/>
+			<skill name="Round House Kick" factor="PCF" rank="3"/>
+			<skill name="Foot Sweep" factor="PCF" rank="3"/>
+			<skill name="Stealth" factor="AGF" rank="2"/>
+			<skill name="Ambush Tactics" factor="SKF" rank="2"/>
+			<skill name="Awareness" factor="KIF" rank="2"/>
+			<skill name="Horse Bow" factor="MCF" rank="4"/>
+			<skill name="Dagger" factor="PCF" rank="2"/>
+			<skill name="Tracking" factor="SKF" rank="4"/>
+			<skill name="Commune With Ancestor" factor="KIF" rank="4"/>
+		</skills>
+		<possessions>
+			<possession type="normal">Several ponies.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>Born to a moderately wealthy but undistinguished clan of the Rhizak. A warrior
+    all his life. Possessed by an ancestral spirit since age 3. Considered very strange but lucky 
+    since he has survived several bloody raids. A relatively undistinguished life.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>Lazy beyond belief Horgan is pushed, prodded and pulled into the bigger doings 
+    in this life by the spirit of a high shaman. His magical protection has helped 
+    Horgan through many scrapes that his skills could not have. The Shaman's aims 
+    aren't clear but he has stuck with Horgan despite the continual "why me" attitude.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+</characters>
+E 2
+I 1
+E 1

@@ -1,0 +1,184 @@
+h09791
+s 00156/00000/00000
+d D 1.1 99/11/17 12:50:37 jmochel 2 1
+cC
+cK37337
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:34 jmochel 1 0
+c BitKeeper file e:/jacl/doc/ProcessPhilosophy.htm
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45335
+cPdoc/ProcessPhilosophy.htm
+cR2f93d7c55cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>SilverPlate Manifesto</TITLE>
+   <META NAME="Author" CONTENT="Bradley McLean">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (WinNT; I) [Netscape]">
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1>Design Philosophies</H1>
+
+<ADDRESS>Taken from an original document by Bradley McLean. Appended and
+Amended by JimJM</ADDRESS>
+
+<ADDRESS>
+<HR width="100%"></ADDRESS>
+
+<UL>
+<LI>Create mechanism, not policy <BR>
+<I>In designing software, there are often decisions as to how to implement
+a given policy, such as &quot;Disallow logins after 8 pm&quot;. This policy
+could be implemented by adding an option to the software that enabled or
+disabled logins after 8 pm, but clearly that's pretty inflexible. A more
+general approach might be to add an option that disabled logins after a
+given time, or even an option that specified the time range in which logins
+were permitted. None of these approaches would help when the new policy
+becomes &quot;Disallow undergraduate logins after 8 pm unless they're on
+campus, and disallow faculty logins after midnight&quot;. However, if the
+&quot;authorized access times&quot; were treated as an attribute that applied
+at the server level, the user level, the client level, and the database
+level, a mechanism would be provided that could then be used (via configuration
+settings) to implement either policy, plus a score more, without code changes.
+Thus, happier users, fewer support nightmares, and fewer new software releases.
+This is a contrived example, but the problem comes up frighteningly often.
+Ever tried to use network resources from more than one user name at a time
+under Windows95?</I></LI>
+
+<UL>
+<LI>Policies change more often that software does</LI>
+
+<LI>Any single policy is inadequate for all users</LI>
+
+<LI>Configurable mechanistic solutions reduce maintenance cost and turnaround</LI>
+</UL>
+
+<LI>Platform independent architecture design should be the default<BR>
+<I>Name any software package ever created that no-one had to port to a
+new platform.</I></LI>
+
+<LI>Use of Platform dependent languages or code is deprecated <BR>
+<I>This is sometimes unavoidable, but should be avoided to the extent reasonable.
+And maybe to extents unreasonable.</I></LI>
+
+<LI>Extensibility should be achieved through late binding mechanisms <BR>
+<I>&quot;Late Binding&quot; means that various components of the system
+are linked together as they are used, rather than in advance, by a programmer.
+This implies that components can be replaced, sometimes even in a live
+system, to define new functionality without waiting for a new software
+release, or syncronization between multi-vendor software releases.</I></LI>
+
+<UL>
+<LI>Extends code life cycles via replaceable components</LI>
+
+<LI>Increases customizability</LI>
+</UL>
+
+<LI>Use of proprietary rather than open technology is deprecated <BR>
+<I>Users and developers alike have a distrust for technologies they can't
+see all of the specifications of, or get compatible pieces for from alternate
+vendors. Also, the wealth of available source code on the Internet calls
+into question the wisdom of spending time creating new solutions, rather
+than taking the 90% solutions available, and doing the last 10% of the
+work.</I></LI>
+
+<UL>
+<LI>Increases interoperability</LI>
+
+<LI>Reduces reinvention time</LI>
+
+<LI>Reduces albatross support problem</LI>
+</UL>
+
+<LI>Prototype and Prove <BR>
+<I>Developers love to argue about approaches to a problem. Implementing
+it both ways, and measuring the results is often quicker than talking about
+it. It also doubles the experience base of the development staff - we know
+exactly why one approach was chosen over another.</I></LI>
+
+<UL>
+<LI>Shorten design cycles</LI>
+
+<LI>Accelerate detection of inappropriate approaches</LI>
+
+<LI>Maximize actual development time</LI>
+</UL>
+
+<LI>Minimize team sizes <BR>
+<I>Large teams tend to get stuck on simple decisions with shifting factions.
+Keep the team small enough that every member's contributions are visible,
+and decisions can be made on personal trust.</I></LI>
+
+<UL>
+<LI>Eliminates deadlock</LI>
+
+<LI>Simplifies scheduling</LI>
+
+<LI>Forces simplification of projects</LI>
+
+<LI>Raises visibility of contributions</LI>
+</UL>
+
+<LI>Use cross-team staffing <BR>
+<I>Multiple small teams still need a mechanism to communicate. Formal communication
+is very hard and time consuming. Informal communication, on an as needed
+mutual agreement basis is far superior. Daily balances between multiple
+priorities increase an individual's global awareness of organizational
+direction.</I></LI>
+
+<UL>
+<LI>Increases informal communication</LI>
+
+<LI>Creates cross-project &quot;buy-in&quot;</LI>
+</UL>
+
+<LI>Use single architects for each component <BR>
+<I>Designs borne out of compromise can be compromised designs - Participants
+deny responsibility, using the inevitable argument that the fault lies
+in the pieces they didn't get their way.</I></LI>
+
+<UL>
+<LI>Eliminates deadlock</LI>
+
+<LI>Minimizes &quot;designed-by-committee&quot; syndrome</LI>
+</UL>
+
+<LI>Use redundant teams to resolve conflicts <BR>
+<I>Implementation of some of the above will necessarily cause some feeling
+of being &quot;left out&quot;. This is the escape hatch - those who feel
+unheard should be encouraged to explore the alternatives.</I></LI>
+
+<UL>
+<LI>Empowers minority or demure opinions</LI>
+
+<LI>Increases motivation via competition</LI>
+
+<LI>Allows us a choice of technologies</LI>
+</UL>
+</UL>
+
+<P>
+<HR width="100%"></P>
+
+<UL></UL>
+
+</BODY>
+</HTML>
+E 2
+I 1
+E 1

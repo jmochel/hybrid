@@ -1,0 +1,25 @@
+||    .Contains Declaration of Skill
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+skill == ( type:Type, statBasis:BitMap, rank:int,  text:string );
+
+type ::=
+    PhysicalDiscipline  i:data |
+    MentalDiscipline    i:data |
+    Engineering i:data |
+    Science i:data |
+    Craft   i:data |
+    Art i:data ;

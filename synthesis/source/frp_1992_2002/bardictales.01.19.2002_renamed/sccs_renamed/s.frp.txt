@@ -1,0 +1,230 @@
+H07456
+s 00200/00000/00000
+d D 1.1 02/01/15 09:20:52 jmochel 2 1
+cC
+cF1
+cK48429
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/15 09:20:52 jmochel 1 0
+c BitKeeper file g:/BardicTales/frp.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK09263
+cPfrp.txt
+cRb481f6a1
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+Subject	Body	From: (Name)	From: (Address)	From: (Type)	To: (Name)	To: (Address)	To: (Type)	CC: (Name)	CC: (Address)	CC: (Type)	BCC: (Name)	BCC: (Address)	BCC: (Type)	Billing Information	Categories	Importance	Mileage	Sensitivity
+RE: Gaming (D&D) strategy problem - SOLUTION?	"I suppose the basic premise is workable.  Just a few observations:
+
+Not to be mercenary but there is a certain cost-benefit analysis here.  If
+we combine the incremental risk to the gaurdian for each trip with the
+combat values of a dwarf and a gaurdian and assume that if things screw up
+we could likely take a gaurdian casualty.  with all of these factors there
+is a break-even point were it just makes more sense to send the Gaurdian to
+the front and have the Dwarves do something else.  I don't think we are at
+that point  but we should be aware of it.
+{Message brought to you by Sigmund in Strategy mode - Heartlessly Efficient
+Calculations R' Us}
+
+A though about Dwarf weight: Screw the armour and weapons!  If you have
+super-mage with you leave all your weapons and armour (except the artifacts)
+and re-create them on the other side.  Or gate them in, people will care
+much less if a bunch of metal gets swiped than actual people.  This reduces
+us to 80kg per dwarf and we get 3-per-load at 10% encumbrance.
+
+I will do the encumbrance numbers out but I think it is really irrelevant. I
+think the major bottleneck will be Troll reset time.  Each dwarf batch will
+require two trips (gaurdians+dwarves, gaurdians-go-back).  Between each trip
+we have to wait for the Troll to go back in the pit (otherwise this gets
+really hairy - dodging an actively gaurding Troll in a small corridor).  I
+think, though the Troll is dumb, he will catch on very soon.  In fact, it
+may only work a few times and then we may have to wait days for the troll to
+reset.  How do we know when the Troll has reset (reset = gone back into the
+pit)?
+
+Just as a note.  A Fortu (Kor'Keth) has successfully hidden from a Troll
+(albeit a young one) at close range before.  This was in the throne room of
+the Wizard King and he was motionless and shitting brocks at the time but
+stealth mode may be of some use here.  I forget what Guardian stealth mode
+is like though.  I don't remember ever using it when in that mode.
+
+I am leary about the idea of using Gaurdian-speed and Vartigan-control as
+alternating tactics.  I was planning on being one of the Gaurdians, and even
+if I wasn't it seems trusting ALOT to dice luck.  I was hoping we could use
+them both at the same time.  I.e. vartigan holds the troll and bay and
+Gaurdians whip the dwarves through as fast as possible to maximize the use
+of time.  Then if things start to fall apart we can contingency plan with a
+hopefully survivable escape plan.  The advantage is that with Vartigan, I
+think when things start to break down we will get a little notice.  With the
+gaurdian-speed thing I think it is just a series of near misses until one
+hits and then it is too late.
+
+With 4 guardians, unarmoured dwarves (=3 per load at <10% encumbrance), two
+trips per load and 11,000 dwarves to transport I still see 1833 trips (916
+loads).  Still, I think this is a workable solution.  Let me calculate some
+more.
+
+
+> -----Original Message-----
+> From: Jim Jackl-Mochel [mailto:jmochel@foliage.com]
+> Sent: Thursday, December 09, 1999 9:28 AM
+> To: Lara Moritz; Chris Carlucci; Jackl, Alexander
+> Cc: 'Jim Everett-Wilson '; Jackl, Alexander; '''Matt Crognale' ' ';
+> ''Matthew S. Moritz ' '; dmorg@dmorg.com; piwowar@pittsborg.com;
+> Dragoon@stargate.net; abjackl@aol.com; David.Wall@compaq.com;
+> ghodge@ziplink.net; holly@ecotarium.org
+> Subject: RE: Gaming (D&D) strategy problem - SOLUTION?
+>
+>
+>
+> > OK....
+> >
+> >   So Geoff came up with an interesting plan that is slower
+> but may work...
+> >
+> > We get the four guardian fortu that we know of (or at least
+> that Sigmund
+> > knows of)..since they can outrun the troll them we have
+> them bring the
+> > Dwarves across two or three at a time each...
+> >
+> > When they get tired we do the Vardigan/Troll control thing
+> for awhile until
+> > he gets tired and then we start the cycle again...
+> >
+> > Just using the Guardians it would be approx. 10 Dwarves a
+> shot and that
+> > would take 700 trips..using Vardigan as well..running 6
+> abreast ..actually I
+> > cannot do this calculation because I do not know the
+> endurance of the
+> > Guardians..
+>
+> Hm. I had written that off because of the sheer number of
+> trips required by one guardian.
+> This might be doable. Try running some tests on the troll and
+> see what its
+> reset time (going back to its starting position) is like.
+>
+> > Also, can the Guardians outrun the Troll if he is already
+> up and waiting for
+> > us...that is another question...
+>
+> Proibably, but they would be performing at the edge of the envelope.
+> You have to expect at least one criticaly failed roll during
+> that time.
+>
+> > This may take a few days (maybe Pook could figure it out
+> for me) but it
+> > involves the least amount of magic, the least risk and is
+> not too fancy.  I
+> > am probably still going to talk to Anubis (though I will
+> have to figure out
+> > how Dora would figure that out) because there may be
+> something simple as
+> > saying ""Friend"" or something like that... unfortunatly
+> things like that come
+> > at a price..
+>
+> Hmm. Wow, you might be able to cause the Troll to go through
+> some exhaustion
+> points rather than just endurance. :-)
+>
+> > So, thoughts on this solution?  Geoff's other thought was
+> to have Guardian
+> > hold on to Vardigan and if he loses control of the Troll
+> have the Guardian
+> > pick up Vardigan and run him around the tunnell while all
+> the Dwarves in the
+> > tunnel get out and until Vardigan can make his will roll
+> again...   There is
+> > something about that plan that I do not like...
+>
+> Well, Vartigan's diginity might suffer  !
+>
+> Jim
+>
+> >
+> > -----Original Message-----
+> > From: Jim Jackl-Mochel [mailto:jmochel@foliage.com]
+> > Sent: Wednesday, December 08, 1999 3:34 PM
+> > To: Lara Moritz; Chris Carlucci; Jackl, Alexander
+> > Cc: 'Jim Everett-Wilson '; Jackl, Alexander; '''Matt Crognale' ' ';
+> > ''Matthew S. Moritz ' '; dmorg@dmorg.com; piwowar@pittsborg.com;
+> > Dragoon@stargate.net; abjackl@aol.com; David.Wall@compaq.com;
+> > ghodge@ziplink.net; holly@ecotarium.org
+> > Subject: RE: Gaming (D&D) strategy problem - SOLUTION?
+> >
+> >
+> > > Who knows..maybe all we truly need to do is say
+> ""friend""... although I
+> > have
+> > > a feeling that the GM will not let me get away with that..
+> >
+> > As if Alex would allow that easy a resolution. You will
+> have to make a deal
+> > to accept a subplot hook into your life !
+> >
+> > >
+> > > *Dwarf thrower extrodinaire*
+> > >
+> >
+> > Is that equivalent to the Dwarven Fly Spell ?
+> >
+> > Jim
+> >
+>
+"	Jim Everett-Wilson	jaw@foliage.com	SMTP	"'Jim Jackl-Mochel';'Lara Moritz';'Chris Carlucci';'Jackl, Alexander'"	jmochel@foliage.com;mlmoritz@mediaone.net;ccarlucci@wn.net;AJackl@doe.mass.edu	SMTP;SMTP;SMTP;SMTP	"'Jackl, Alexander';'''Matt Crognale' ' ';''Matthew S. Moritz ' ';dmorg@dmorg.com;piwowar@pittsborg.com;Dragoon@stargate.net;abjackl@aol.com;David.Wall@compaq.com;ghodge@ziplink.net;holly@ecotarium.org"	AJackl@doe.mass.edu;crognale@www.dmorg.com;mullett@pittsborg.com;dmorg@dmorg.com;piwowar@pittsborg.com;Dragoon@stargate.net;abjackl@aol.com;David.Wall@compaq.com;ghodge@ziplink.net;holly@ecotarium.org	SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP						Normal		Normal
+RE: Gaming (D&D) strategy problem - SOLUTION?	"Quick tactical strawman
+
+<PLAN>
+Team Sets up at the Heimdella end.
+
+Four gaurdians do a quick run through dropping Vartigan just prior to the
+pit.
+
+Vartigan waits to acquire lock on the Troll and starts trying to keep it in
+the pit.
+
+Four gaurdians begin shuttle missions keeping together (single file through
+the doors but not seperating too much).
+
+I will calculate the total time for each trip but my gut is that it will be
+on the OOM of 1 per second yielding a throughput (2 trips per load) of about
+6 dwarves per second.
+
+If Vartigan performs a roll every 5 seconds we could pass through until
+either his hold starts to slip or 5 minutes have elapsed (300 trips, 150
+loads and 60 rolls).  Then we perform an orderly retreat, regroup and rest.
+
+Once the Troll has had a chance to reset (estimate 30 minutes for rest and
+reset) repeat the whole process.
+
+Each insertion would traverse about 1800 dwarves so about 6 insertions would
+be required.
+
+If Vartigans hold began to slip we would make that trip the last and pull
+Vartigan out.
+
+If a Gaurdian got hit or Vartigan disasterously lost his hold we would drop
+all dwarves being carried (sorry guys) and do a combat retreat protecting
+Vartigan and the Gaurdians (and the Dwarves but not at the risk of the
+others unless maybe it was Dora or the Dwarf King).
+</PLAN>
+
+"	Jim Everett-Wilson	jaw@foliage.com	SMTP	"'Lara Moritz';'Jim Jackl-Mochel';'Chris Carlucci';'Jackl, Alexander'"	mlmoritz@mediaone.net;jmochel@foliage.com;ccarlucci@wn.net;AJackl@doe.mass.edu	SMTP;SMTP;SMTP;SMTP	"'Jackl, Alexander';'''Matt Crognale' ' ';''Matthew S. Moritz ' ';dmorg@dmorg.com;piwowar@pittsborg.com;Dragoon@stargate.net;abjackl@aol.com;David.Wall@compaq.com;ghodge@ziplink.net;holly@ecotarium.org"	AJackl@doe.mass.edu;crognale@www.dmorg.com;mullett@pittsborg.com;dmorg@dmorg.com;piwowar@pittsborg.com;Dragoon@stargate.net;abjackl@aol.com;David.Wall@compaq.com;ghodge@ziplink.net;holly@ecotarium.org	SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP						Normal		Normal
+E 2
+I 1
+E 1

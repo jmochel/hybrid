@@ -1,0 +1,147 @@
+			"See Jim, See Jim change State"
+
+And you thought the computer industry was a rapidly chganging area.
+Well, Magic and Psionic design is even more radidly changing area.
+A wonderful field of opportunity for all involved.
+
+Things have become much simpler. I am now convinced that there are
+3 things you need to detail out in initial spell design. 
+
+The type of energy involved, the action or actions to be used in the 
+spell, and whether a spell is directed at another individual or 
+whether it is an area of effect type of spell.
+
+These three factors affect the base Ease Factor of the spell and the
+base duration. In addition there are a number of standard defaults 
+for initial spell design such as 
+
+CT					defaults to 5 counts
+COST				defaults to 4 Mental Fatigue
+RESISTANCE			defaults to both Passive and Active Resistance
+QUANTITATIVE EFFECT	defaults to some value
+NO. OF TARGET TYPES	defaults to all of above
+TARGET SIZE			defaults to man size
+TYPE OF CAST		defaults to standard spell
+MATERIAL COMPONENTS	defaults to none
+PREPARATION			defaults to none
+RANGE				defaults to Mental Strength (MST)
+DRAIN				defaults to standard EF=7
+
+Once a spell has been initially laid out the designer can increase or
+decrease the spells value by manipulating the factors and a "Spell 
+Point Pool".  
+
+If the designer lengthens the Casting Time then points are added to 
+the pool and if he Shortens it points are subtracted from the pool. 
+
+How it all works.
+=================
+
+As an example
+
+
+The fireball spell
+------------------
+
+Energy is Fire				: Implies Duration
+Action 1 is Summon Fire 	: Affects EF, Affects Duration
+Action 2 is Transport Fire	: Affects EF, Affects Duration
+Focus is Directed			: Affects EF, Affects Duration
+
+The above things imply the following
+
+CAST TIME			5 counts
+COST				4 Mental Fatigue
+RESISTANCE			both Passive and Active Resistance
+QUANTITATIVE EFFECT	some value
+NO. OF TARGET TYPES	all
+TARGET SIZE			man size
+TYPE OF CAST		standard spell
+MATERIAL COMPONENTS	none
+PREPARATION			none
+RANGE				Mental Strength (MST) in yards or hexes
+DRAIN				standard EF=7
+
+Now the designer can modify each of the elements of the spell
+and balance it by adding and subtracting from the pool. 
+
+Below are the VERY ROUGH values for adding/subtracting 
+points to the pool.
+
+EASE FACTOR (EF)
+----------------
+	Decrease EF				(EF-n)		+2n
+    Increase EF				(EF+n)		-2n
+
+CAST TIME (CT)
+---------
+	Shorten Cast Time		(CT/n)		-(n-1)
+    Lengthen Cast Time		(CT x n)	+(n-1)
+
+COST
+----
+	Decrease Cost			(Cost/n)	-(n-1)
+    Increase Cost			(Cost x n)	+(n-1)
+
+DURATION
+--------
+	Decrease Duration		(Dur/n)		+(n-1)
+    Increase Duration		(Dur x n)	-(n-1)
+
+RESISTANCE
+----------
+	Passive/Active			+0
+    Passive					-1
+    Active					-2
+	Neither					-3
+
+QUANTITATIVE EFFECT (QE)
+-------------------
+	Increase				(QE x n)	-(n-1)
+    Decrease				(QE/n)		+(n-1)
+
+NO. OF TARGET TYPES
+-------------------
+	Decrease 				+1/TargetType
+
+TARGET SIZE
+-----------
+	Smaller Than Man	+2
+	Larger Than Man		-2
+
+TYPE OF CAST
+------------
+	Instinctual Talent	-3
+	Talent				-2
+	Standard Spell		+0
+	Extended Spell		+1
+	Ritual				+3
+
+
+MATERIAL COMPONENTS
+-------------------
+	Cheap/Common		+1
+	Rare/Expensive		+2
+	Reusable			+0
+	Non-Reusable		+1	
+
+PREPARATION
+-----------
+	Simple				+0.5
+    Short				+0.5
+    Complex				+1
+    Long				+1
+
+
+Other Notes that are of interest
+--------------------------------
+
+Investment Rituals are specific to the energy being used. Normally,
+invested items can resist. With sufficient preparation the 
+resistance can be dropped to 0. 
+
+Warding rituals are similiar.
+
+Knowing True Names acts to lower the resistance of the target.
+
+

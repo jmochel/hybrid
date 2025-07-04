@@ -1,0 +1,6 @@
+StandardRangesConfigParser    // tokenVocabulary name
+IDENT("an identifier")=4
+DOT=5
+INPUT("constructor input")=6
+SLASH_COMMENT("a comment")=7
+WS=8

@@ -1,0 +1,29 @@
+% FILE Tables of Primary and secondary statistics
+% REF 
+
+\begin{stable}{Secondary Statistics}{llll}
+	Stat & Formula							& Overall & Human \\ 
+		 &								   & Range	 & Average \\ 
+\TableSubtitleRule
+	PBD  & \((PST+PEN) \times RAC MOD \)	& 02-60	 & 30  \\
+	PEX  & \((4 \times PEN) + PAG \)		 	& 20-150 & 75  \\
+	PFT  & \((2 \times PEN) +PAG\)			& 09-90 & 45  \\
+	PMV  & \(((PAG+PST)/4) \times RAC MOD\) & 1.5-15 & 7.5 \\ 
+\TableSubtitleRule
+	MBD  & \((MST+MEN) \times RAC MOD\)		& 02-60	 & 30 \\
+	MEX  & \((4 \times MEN) + MAG \)		& 20-150 & 75  \\
+	MFT  & \((2 \times MEN) + MAG \)		& 09-90	 & 45 \\
+	MMV  & \(((MAG+MST)/4) \times RAC MOD\) & 1.5-15  & 7.5 \\ 
+\TableSubtitleRule
+	ACC  & \((PST+DEX)/2	 \)				& 3-30  & 15 \\
+	PCA  & \((PST+DEX+PAG)/3 \)				& 3-30  & 15 \\
+	PDF  & \((PAG+DEX)/2	 \)				& 3-30  & 15 \\
+		 &									&		&	 \\ \hline
+	FCS  & \((MST+MAG)/2	 \)				& 3-30  & 15 \\
+	MCA  & \((MST+PSI+MAG)/3 \)				& 3-30  & 15 \\
+	MDF  & \((MAG+PSI)/2	 \)				& 3-30  & 15 \\
+		 &									&		&	 \\ \hline
+	GAW  & \((MAW+PAW)/2	 \)				& 3-30  & 15 \\
+\end{stable}
+
+% EOF

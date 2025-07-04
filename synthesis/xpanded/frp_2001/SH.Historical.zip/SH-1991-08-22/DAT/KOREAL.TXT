@@ -1,0 +1,17 @@
+Spell: QuickDraw
+Energy Type: Light
+Energy Cost: 14 MFT
+Casting Ease Factor (CEF): 7
+Resistance Ease Factor (REF): 7
+Casting Time: 15 * 2Min
+Quantitative Effect: 20+2/rnk
+SDP : 12
+Spell: Laser
+Energy Type: Light
+Energy Cost: 10 MFT
+Casting Ease Factor (CEF): 7
+Resistance Ease Factor (REF): 2
+Range: 5 * 5m
+Casting Time: 8 * Pulse
+Quantitative Effect: 14
+SDP : -10

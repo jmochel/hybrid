@@ -1,0 +1,11 @@
+% FILE Skill Relations Table
+% REF 
+\begin{table}[h]
+\caption{Skill Relations}
+\centering
+	\begin{tabular}{ll} \hline
+		Similiar in many respects     &       2/5 \\
+		Dissimiliar in many respects  &       1/5 \\
+		Really Stretching it		  &       1/10 \\ \hline
+	\end{tabular}
+\end{table}

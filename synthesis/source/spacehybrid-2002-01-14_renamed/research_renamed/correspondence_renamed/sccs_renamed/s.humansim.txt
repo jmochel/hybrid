@@ -1,0 +1,54 @@
+h42373
+s 00026/00000/00000
+d D 1.1 99/12/02 15:52:12 jmochel 2 1
+cC
+cK01567
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:52:08 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Correspondence/humansim.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44953
+cPResearch/Correspondence/humansim.txt
+cReb4786de5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Hello there Mr. Nimeroff,
+     
+This is completely out of left field but I noticed your signature on 
+some netnews the other day so I thought I would ask a quick 
+question.
+
+I am interested in gathering basic information to be used to produce 
+fairly simple models of human/animal behaviour. This includes 
+information on perception and fatigue, reaction and action speeds, 
+decision making, and general mechanics/physiology.
+
+I have been working on this for a few years but this is the first I
+have heard about the "Center for Human Simulation".
+
+My questions are simply : What is it that the center does and how 
+would you suggest I go about getting an overview of the research it 
+has done ?
+
+Thank You,
+   Jim Mochel
+   jmochel@world.std.com
+
+
+  
+
+
+E 2
+I 1
+E 1

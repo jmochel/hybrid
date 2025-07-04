@@ -1,0 +1,765 @@
+
+
+
+   Return to Return to Articles
+   Throttle!
+                                 SF Genres, Fermi and World Building
+
+
+                                         by James Vassilakos
+
+
+                                     James Vassilakos' Home Page
+
+             Thoughts about SF-world building, Fermi question and such
+
+
+               
+
+             From: jimv@empirenet.com (james vassilakos)
+             Subject: SF Genres / Fermi / World Building
+             Date: 22 Nov 1994 16:56:48 GMT
+
+
+             As many of you know, on Oct 26 I started off a discussion on SF Gen
+
+             basically asking people which they preferred, Hard-SF or Soft-SF. R
+             came back indicating that Hard-SF was preferred predominantly over 
+
+             cinematic styles of Star Wars, Star Trek, and the rest of their Sof
+
+             ilk. It wasn't so much the technological level of Star Wars (versus
+             2001) which bothered people. It was more the logical discrepancies,
+
+             "gonzotech" in Eric Tolle's words, and the "annoying shallowness" t
+
+             paraphrase Phil Goetz. Neelakantan Krishnaswami argued that High-Te
+             okay, but only insofar as it is rigorously thought out, not only in
+
+             of technological repercussions but also in terms of the social and 
+
+             ramifications. Even Erol Bayburt, who preferred the cinematic style
+             Soft-SF, agreed that no matter how you bend (or break) science, the
+
+             result must, at least, be internally consistent.
+
+
+             All these responses got me to thinking that if rigorous internal
+
+             consistency is so highly prized, then we've got ourselves a whopper
+             problem right off the bat. What problem? Fermi's Question, of cours
+
+             that was the central subject of my Nov 9 follow-up article.
+
+
+             What is Fermi's question? Basically, stated, it's: "Where are they?
+
+
+             "They" as in the extra-terrestrials. Enrico Fermi, the nobel- prize
+
+             physicist purportedly posed this question at a social dinner many m
+
+             ago, captivating his listeners with the perplexity of probabilities
+             argue that extra-terrestrials ought to exist versus the apparently 
+
+             fact that they are nowhere to be found. For us modern-day munchkins
+
+             isn't so much of a problem. We can rationalize the dilemma in any n
+             ways, the three most obvious being:
+
+
+
+             (1) Extra-terrestrials don't exist, at least not in this galaxy. We
+             one and only example of sentience anywhere in the Milky Way. The
+
+             probabilities are just way less than people realize.
+
+
+             (2) They do exist, but they can't visit us because of the impondera
+
+             difficulties of interstellar travel. And while they might be able t
+             communicate with us, they've never seen any point in trying.
+
+
+
+             (3) They do exist, and they have visited us, but they want to leave
+             alone for the time being and see how we do. If they do interact wit
+
+             governments at all, it's behind the scenes, where they won't be not
+
+             for us trying to tune in to their interstellar internet, there's re
+             point in trying. They use real-time fractal compression and spread-
+
+             communications and tachyon pulses and whatnot, so don't even bother
+
+             not in the same league, much less the same ballpark.
+
+
+             However, for the writer of a science fiction setting which is "rigo
+             internally consistent" and yet has a high-speed, cinematic,
+
+             starwars/trekish, go-anywhere-and-quickly sort of flavor, we find t
+
+             of these rationalizations hold up. Number one doesn't hold up for o
+             reasons. After all, there are aliens in Trek. Number two is weak. Y
+
+             we're the only ones to discover warp drive? And number three... wel
+
+             this were true, then any voyage into the unknown would stumble acro
+             monstrously huge, tremendously ancient, and extraordinarily advance
+
+             civilization. Obviously, since humans dominate a huge section of sp
+
+             Star Trek as well as Star Wars, probably the single two most famous
+             settings to date (which is why they are being used in this discussi
+
+             would think that this is not the case.
+
+
+             So the questions is, how do we rationalize this inconsistency?
+
+
+             I mentioned one possible solution from Michael McCollum's Antares D
+
+             forsake it as being too limiting on interstellar travel for my own 
+
+             tastes. Bertil Jonell, one of the more renowned of the TML denizens
+             replied with a whole laundry list of explanations. I've taken two o
+
+             and perverted them slightly.
+
+
+             (1) Berzerkers: Some ancient space-faring civilization, the first b
+
+             the block, in fact, decided to send out a huge armada of Berzerker 
+
+             These robots were capable of self-replication through some fixed nu
+             iterations. They were also loaded with all manner of nuclear armame
+
+             When they'd detect the first signs of a possible competitive civili
+
+             usually though reception of radio broadcasts and whatnot, they'd mo
+             over and drop a few bombs. End of problem. Well, due to some error 
+
+             programming, the berzerkers in this section of the galaxy just sort
+
+             stopped functioning for some reason (who knows, maybe they became
+             self-aware and developed moral qualms), so all of a sudden, we get 
+
+             races popping their heads up at roughly the same time, and we Human
+
+             so happen to be in this wave. Stumbling across one of these high-te
+             berzerker relics could be a major event of the campaign.
+
+
+             (2) Battlefield Earth: Warring/Scheming High-Tech powers fight thei
+
+             battles indirectly, through puppet societies and various low-end
+
+             civilizations. Earth (or the "Terran Republic") becomes entangled i
+             conflict. We are supported by one power and embroiled in a war with
+
+             races which are supported by other powers. It may even be the case 
+
+             Humanity was "uplifted" for this very purpose. In an odd sort of wa
+             situation is reminiscent of that of Gods settling their petty dispu
+
+             though the races which they created and which they control.
+
+
+             Bertil had some other interesting ideas, but I omitted them as they
+
+             resulted in settings with a far different feel from what I'm lookin
+
+             Plus, a few of them seemed so bizarre that even Bertil admitted the
+             cop-outs.
+
+
+             Richard Baker suggested another idea which I'll touch on briefly.
+
+
+
+
+             (3) The NanoVirus: Way back when the first two civilizations had th
+
+             great war, some whacko conceived and released a nanite (a microscop
+             machine) capable of infiltrating a lifeform of fairly broad paramet
+
+             replicating and surreptitiously spreading through the lifeform's sp
+
+             and after a given delay, killing all the lifeforms with which it ha
+             into contact. Hence, not only did it destroy the first war's winner
+
+             other civilizations came to inspect the ruins of that war, it infil
+
+             and destroyed their civilizations as well. The downside of this ide
+             that it is only a matter of time before it comes after us. "Spock, 
+
+             this. These ancient records say that the Argoans were destroyed jus
+
+             all those other civilizations.... by a little mach.... ack!"
+
+
+             While Geoffrey Grabowski felt this idea smacked of political statem
+
+             only qualm with it is that it doesn't leave enough room for *lots* 
+             aliens co-mingling in a vast interstellar community.
+
+
+             Anders Sandberg suggested another option having to do with current
+
+             worm-hole theory. "If wormholes work as they appear to do in theory
+
+             expanding wormhole empire will meet other empires at roughly the sa
+             regardless of their age and distance!" (See Traversable Wormholes b
+
+             Michael Price)
+
+
+             I haven't yet taken a look at it, but I'm sure I will sometime in t
+
+             future. As for other reading/viewing material:
+
+
+                *Neil Mackie suggests 2001 Nights, a collection of Japanese grap
+
+                 novels. An English translation is distributed by Viz comics.
+
+                *Peter Tupper suggests David Brin's Uplift series which incident
+
+                 served as the basis for a GURPS supplement by the same name. He
+
+                 suggests David Gerrold's Chess with the Dragon.
+
+                *Jim Cambias echoed Peter's comments regarding Uplift. He also s
+
+                 a new television series: Earth 2.
+
+
+             Just to finish up the recap of responses, John Kim was annoyed over
+
+             intimation that SF campaigns should have aliens in order to be inte
+             "SF campaigns can be about anything: espionage, colonization, myste
+
+             police work, trading missions, horror, and loads more." John also s
+
+             that advanced civilizations could stay hidden if they wanted to (fo
+             example, the Q-Continuum, ala Star Trek fame).
+
+
+             As to the second point, I feel it ranks down there on the list of c
+
+             I think John actually felt this way as well, judging from his remar
+
+
+             As to the first point, I apologize if I sounded like I was putting 
+
+             anyone's campaign. I guess I'm wrapped-up in the idea of putting to
+
+             an SF-setting with a StarWarzish flavor, and since that flavor nece
+             aliens (and preferably lots of them), I've been steering the discus
+
+             that direction.
+
+
+             No disrespect intended to those of you who don't make use of aliens
+
+             actually count myself among your number, as I've been steering away
+             aliens for several years now mainly because the Fermi question has 
+
+             such a bother.
+
+
+             It is worth noting that J.D. Frazer posted some details regarding h
+
+             century science-fiction cops campaign in response to the aliens iss
+
+             was trying to show that you can have a perfectly good SF campaign w
+             aliens, and it's true, you can. But, of course, for those of us who
+
+             incorporate aliens due to whatever personal prejudices we hold dear
+
+             bit of reasoning isn't extrodinarily helpful. Hence, while I felt h
+             point (and John's) was somewhat off topic, I felt his basic reason 
+
+             steering clear of aliens to be very much on topic. Enough so that I
+
+             full quote.
+
+               
+
+
+             >Here's a problem: Introducing this super powerful alien
+             >civilization means that the game has to take into account the
+             >vast economic, social, psychological and technological
+             >differences. Ferchrissakes, I can't even predict what *we're*
+             >going to have a lousy 50 years from now. An advanced alien
+             >civilization? By definition it would drift into the realm of
+             >science *fantasy*.
+
+
+             Unless, of course, we have a technological ceiling up ahead, which 
+             derail this argument, at least insofar as the technology issue is
+
+             concerned. And if social and economic aspects are tied to technolog
+
+             one might argue, well... you can see my point easily enough. In any
+             yes, having aliens in a campaign necessitates lots of work, at leas
+
+             want to do it well. Is it really worth it in the end? I guess that 
+
+             can only be answered on an individual basis. My supposition in star
+             this thread was that it is worth it, or that it's at least worth ex
+
+
+
+             At this point, however, I think I'll hang back and switch over to a
+             thread, even though there were numerous other responses which I cou
+
+             (including a rather Malthusian thesis proposed by Bertil that Fermi
+
+             question may be solved by the notion of mandatory self-exterminatio
+             that any given race, even a space-faring one, must outstrip its res
+
+             and self-destruct as a mathematical inevitability due to the rather
+
+             fact that spherical volume grows more rapidly than surface area as 
+             of colonization expands in size). I leave you techno- junkies to ca
+
+             this out on your pocket TIs.
+
+
+             Now, as to that other topic I promised... ah yes... here it is. Wor
+
+             Building.
+
+
+             Ahem. This could take some time.
+
+
+             In my follow-up article of Nov 9, I proposed a fairly generic
+
+             classification scheme which, me being a humanities major (that is m
+             perennial excuse, by the way), I felt was just vague enough to be u
+
+             It went something like this:
+
+
+                *Solar Companion: Not technically a world but not the main star 
+
+                 a part of the close-binary pair.
+
+                 Gas Giant: Fairly obvious. Great for wilderness refueling if we
+                *
+                 using hydrogen to get around.
+
+
+                *Greenhouse: A world gone to hell because of too much greenhouse
+
+                *Planetoid: A very small world, generally. Not necessarily round
+
+                 atmosphere to speak of. Composed of rock or ice.
+
+                *Belch Ball: You don't want to breath the atmosphere. Probably c
+
+                 in the extreme.
+
+                 Primordial: A very young world. Atmosphere varies.
+                *
+
+                *Geologically instable. Lots of volcanos and magma seas.
+
+                 Desert World: Breathable atmosphere (at least with filter or
+                *
+                 compressor) but no water that isn't tied up as ice crystals in 
+
+                 soil.
+
+                *Exotic: Not an atmosphere you want to breath, maybe because it 
+
+                 poisonous gasses or even lethal micro-organisms. But not a plac
+
+                 can't otherwise walk around, so long as you have your own oxyge
+                 supply. Note that an alien ecosystem may well be thriving.
+
+
+                *Magma Ball: Ouch, this place is hot.
+
+                *Vacuum Ball: Like the moon, essentially. Lots of rock. No atmos
+
+
+                *Shallow World: Has atmosphere but not enough to breath, at leas
+                 without descending to a very deep altitude. Mars could be an ex
+
+
+                *Dead World: The place is certainly colonizable, but for one rea
+
+                 another, life either never existed or went extinct long ago. Ma
+                 an ice-world. Or maybe it's a near desert. Maybe the sun flared
+                 knocked out the entire ecosystem. Or maybe a slew of meteors st
+
+                 churning up enough dust that the sun was blotted out for decade
+
+                *Garden World: Earth is a prime example. Not only can you breath
+
+                 atmosphere without mechanical aid, but life, either native or
+                 transplanted, thrives in abundance.
+
+
+                *Water World: Over 90% covered by water and ice. Possibly a brea
+
+                 atmosphere. Possibly a teaming native ecosystem which got
+                 evolutionarily stuck due to the total lack of any freestanding
+
+                 continents.
+
+
+             I didn't get quite as many comments on this puppy, but I was surpri
+
+             see that one reader did catch me red-handed in the act of plagiaris
+             er... I mean research. Right! That's it. Research! :-)
+
+
+
+             Mitch Gold, (if memory serves) the former moderator for
+             rec.games.frp.archives, sent me a copy of the following planetary
+
+             classification scheme which was posted to rec.games.frp many eons a
+
+             which bears a suspicious similarity to the one I posted on Nov 9.
+
+               
+
+
+             -------------------------------------------------------------------
+             |                        PLANETARY CLASSIFICATION                  
+             |------------------------------------------------------------------
+             |CLASS | SURFACE         | ATMOSPHERE      | DESCRIPTION     | EXAM
+             |------|-----------------|-----------------|-----------------|-----
+             |A     | Tenuous, may    | Reducing,       | Radiates Heat,  | Jupi
+             |      | not be present  | methane, etc    | "failed" star   |     
+             |------|-----------------|-----------------|-----------------|-----
+             |B     | Tenuous, may    | Reducing        | Non-Radiant     | Nept
+             |      | not be present  |                 |                 |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |C     | Iron Silicate   | Reducing, dense | High Surface    | Venu
+             |      |                 |                 | Temperature     |     
+             |------|-----------------|-----------------|-----------------|-----
+             |D     | Metallic        | Fluid, very     | Small, young    | Exca
+             |      | Silicate        | dense           |                 |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |E     | Silicate, some  | Reducing        | Large Molten    | Janu
+             |      | metals          | Oxidizing       | Core            |     
+             |------|-----------------|-----------------|-----------------|-----
+             |F     | Silicate, some  | Oxidizing       | Very Young      | Delt
+             |      | metals          |                 | (less than      |     
+             |      |                 |                 | 10**9 years     |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |G     | Silicate        | Oxidizing, thin | Desert Planet   | Rige
+             |------|-----------------|-----------------|-----------------|-----
+             |H     | Silicate        | Variable        | Geologically    | Goth
+             |      |                 |                 | active          |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |I     | Nickel-iron     | (A-G) none,     | Asteroids       | Cere
+             |      | Silicate        | (H-N) tenuous   |                 | Yona
+             |------|-----------------|-----------------|-----------------|-----
+             |J     | Silicate        | Very tenuous,   | Moons           | Luna
+             |      |                 | noble gases     |                 |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |K     | Silicate        | Tenuous, some   | Adaptable with  | Mars
+             |      |                 | water           | pressure domes  |     
+             |------|-----------------|-----------------|-----------------|-----
+             |L     | Silicate Water  | Oxidizing       | Geologically    | PSI 
+             |      |                 |                 | Inactive        |     
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+             |M     | Silicate Water  | Oxidizing       | Geologically    | Terr
+             |      |                 |                 | Active          |     
+             |------|-----------------|-----------------|-----------------|-----
+             |N     | Water Entirely  | Oxidizing       | Pelagic Planet  | Argo
+             |      |                 |                 |                 |     
+             |------|-----------------|-----------------|-----------------|-----
+
+
+             In fact, this table was originally printed (to the best of my knowl
+             a book entitled Worlds of the Federation by Shane Johnson. I chose 
+
+             table as a basis for what I was doing, not so much because I like t
+
+             classification system, but because I always feel this strange compu
+             base my work on *something*, and this table happened to be sitting 
+
+             of my when the compulsion hit me. In any case, my perversions of th
+
+             were never approved by Paramount. :-)
+
+
+             As for comments on the scheme, Bertil suggested looking into 2300AD
+
+             briefly, and I have more to say about that later. Anders, meanwhile
+             that while broad classification can be useful, it's important to re
+
+             that each planet is unique, and hence, one must not overlook the de
+
+             And speaking of details, Nick Janow took me up on my explanation of
+             World".
+
+
+               
+
+
+             >> Desert World: Breathable atmosphere (at least with filter or
+             >> compressor) but no water that isn't tied up as ice crystals in
+             >> the soil.
+             >
+             >Ummm, if there's no liquid water available to support life,
+             >what's generating the oxygen in the atmosphere?
+
+             Now this is just the sort of thing a dorky humanities major would f
+
+             Oops.
+
+
+             After years of watching Captain Kirk traipse around dead worlds wit
+
+             much as a filter mask, after watching Luke moan about his lot in li
+
+             that desert world he grew up on, well... I guess I just got taken i
+
+
+             Never mind about technological inconsistencies. Never mind about Fe
+             Question. Let's just talk about some simple chemistry. The majority
+
+             popular SF is literally drowning in these sort of inconsistencies, 
+
+             because the majority of the audience is scantily educated in such m
+             they get away with it time and time again.
+
+
+
+             The problem is so pervasive that even our popular SF-RPGs have succ
+             Traveller, arguably the most popular SF-RPG, uses in its basic plan
+
+             profile system a classification scheme for atmospheres which focuse
+
+             primarily on density, not composition. When they finally got around
+             handling atmospheric composition in the World Builder's Handbook (t
+
+             being produced by DGP, not GDW), they came up with the following
+
+             atmospheric taints: disease, gas mix, high oxygen, low oxygen, poll
+             sulfur compounds. That's it. Honest. That's the whole damn list. We
+
+             okay, I think "radiation" was mentioned on a separate chart, but ev
+
+             including that, we're talking seven taints. Think about it. This bo
+             entitled "World Builder's Handbook". Atmosphere is arguably the mos
+
+             important component of a world. "So like, Jim, can we like breath o
+
+             world or what?" And this is what they came up with. Okay, I'll stop
+             ranting. No need for a tranquilizer. Really, I'm okay. :-)
+
+
+             SJG goes into slightly more detail. For atmospheric composition we'
+
+             Reducing (Methane, CO2, and/or Hydrogen), Oxygen- Nitrogen (with on
+
+             most vaguely established percentage ranges), Polluted (pollen, ash,
+             industrial pollutants, etc), Exotic (hydrogen, methane, carbon oxid
+
+             nitrogen), Corrosive (ammonia, chlorine, fluorine, high-oxygen, nit
+
+             sulfur compounds, and water vapor). However, this detail is never r
+             fleshed out. What are the peculiarities of such atmospheric composi
+
+             Under what conditions are you likely to find them. Do you really ne
+
+             in order to sustain free-standing oxygen in an atmosphere? Which ga
+             incompatible? In short, give me a process to follow.
+
+
+
+             To give SJG the credit they deserve, they touch on a lot of these i
+             and they make a good attempt at formalizing it all with a process, 
+
+             still get the feeling that if what we're looking for is Hard-SF,
+
+             detail-oriented, chemical mucky-mucking, we can go even further (an
+             we can *always* go further).
+
+
+             I decided to take Bertil's advice and take a look at 2300AD. This t
+
+             provides us with a list of gasses along with their molecular weight
+
+             no means to determine the percentages of dominance. Here's the list
+             way.
+
+
+               
+
+
+                Molecular Hydrogen (H2)      2.0
+                Helium (He)                  4.0
+                Methane (CH4)               16.0
+                Ammonia (NH3)               17.0
+                Water Vapor (H2O)           18.0
+                Neon (Ne)                   20.2
+                Molecular Nitrogen (N2)     28.0
+                Carbon Monoxide (CO)        28.0
+                Nitric Oxide (NO)           30.0
+                Molecular Oxygen (O2)       32.0
+                Hydrogen Sulfide (H2S)      34.1
+                Argon (Ar)                  39.9
+                Carbon Dioxide (CO2)        44.0
+                Nitrous Oxide (N2O)         44.0
+                Nitrogen Dioxide (NO2)      46.0
+                Ozone (O3)                  48.0
+                Sulfur Dioxide (SO2)        64.1
+                Sulfur Trioxide (SO3)       80.1
+                Krypton (Kr)                83.8
+                Xenon (Xe)                 131.3
+
+
+             The basic idea is that you figure out your planetary diameter and d
+             and from that you can figure out the minimum molecular weight retai
+
+             Then you consult this little table, and you can figure out which ga
+
+             have bled off into space. For Earth, I guess, that would be Hydroge
+             Helium.
+
+
+             2300AD does give rules for determining oxygen content, but they are
+
+             much based on the world's hydrosphere. The presence or absence of l
+
+             never figures into the equation. Likewise, there are no rules for
+             determining the preponderance of other gasses. Nor are there rules 
+
+             determine what effects these other gasses might have, if any.
+
+
+             Looking toward net publications with my last lingering strands of h
+
+             found that even Ross Smith's Planet Generation System which was pos
+
+             a year ago makes no attempt to determine atmospheric gasses. Indeed
+             together the sum of these four separate systems, there seems to be 
+
+             argument issuing forth that such details are unnecessary, even cumb
+
+
+             I think, going back to my original question of Oct 26, that this wa
+
+             least part of the sort of question I was getting at. I mean, in Sof
+             not only do we see lots of violation of various rules of chemistry 
+
+             setting plays a subservient role to the story, but we also see a re
+
+             disregard for the details of setting in general. I don't mean "disr
+             in a negative sense. All I'm saying is that such details are viewed
+
+             trivial... as entirely irrelevant and beneath consideration and per
+
+             even a bit dangerous (after all, the less you say, the less there i
+             foul up on).
+
+
+
+             Consider, Classic Traveller used a single digit to represent a plan
+             atmosphere, and they got away with it for an awful long time. I hea
+
+             people on the TML (the Traveller Mailing List if you need some help
+
+             this acronym) complain about all sorts of things, but the issue of
+             atmospheric composition wasn't a memorable part of the discussion. 
+
+             is that while many SF gamers would like to think of themselves as e
+
+             "Hard-SF" over "Soft-SF", most don't want to be concerned with such
+             matters as a planet's atmosphere. Far more fun to just "wing it", e
+
+             there are freeware programs to generate and record such minutia.
+
+
+             I remember a long discussion we had on the TML back in February of 
+
+             regarding main world generation. I still have a copy of the discuss
+             fact, which is why I'm able to remember the date. But the reason I 
+
+             up is because Bruce Pihlamae said something conspicuously noteworth
+
+             said, instead of looking at mainworld generation or even at star sy
+             generation as a frozen process, that is, as a process which you und
+
+             without any regard to the age of the star or the age of the planets
+
+             about instead looking at it as an evolutionary process.
+
+
+             For those of you who have generated characters in Traveller, you pr
+
+             know what I'm talking about. You don't just roll attributes and pic
+             as in many other games. You undertake a career. You make choices in
+
+             career. And as you go through this process, not only do you generat
+
+             character, but you also generate the character's career history. Ho
+             appropriate it is, then, to transfer this concept over to star syst
+
+             generation. Start with a cloud of dust breaking off from some stell
+
+             nursery and take it through an iterative process. Time consuming if
+             manually, but a computer could do it quickly and perhaps even gener
+
+             results which make more sense than the results from a frozen proces
+
+             they'd have to make sense, because they wouldn't be just random die
+             They'd be part of a world's geologic history, and the process would
+
+             sure they fit into that history.
+
+
+             Well, as you can see, this whole issue of planetary generation can 
+
+             somewhat cloudy. Here I've managed to ramble on about planetary atm
+             for God only knows how long, and yet there are so many other factor
+
+             consider, and the difficult part is that they're all interrelated. 
+
+             instead of scooting on ahead into yet more mundane and possibly
+             mind-boggling matters of world generation, I'm going to return to a
+
+             of my original question of Oct 26. In short, do you as a gamer (eit
+
+             player or gamemaster) prefer to deal with this stuff, or do you pre
+             just ignore it? And how you answer that question, I think, says a b
+
+             what sort of gamer you are. I personally can go either way. I find 
+
+             my players don't give a rat's hindquarters, however, and I really d
+             blame them. But your groups may be different, and whichever the cas
+
+             like to hear about it.
+
+
+               
+
+                        _   /|       Jim Vassilakos
+                        \`o_O'       jimv@empirenet.com
+                          ( )        http://members.aol.com/jimvassila
+                           U         Riverside, California
+
+
+
+             Writen in 1994 by Juha juuso Vassilakos <jimv@empirenet.com>,
+             and released into the public domain in 1998
+             Site design by Brandon Blackmoor
+             Last updated 13 March 1999

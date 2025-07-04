@@ -1,0 +1,125 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209172020.318;
+          09 Dec 91 17:20:27 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209172020.318;
+          09 Dec 91 17:20:20 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04068; Mon, 9 Dec 91 17:22:10 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01506; Mon, 9 Dec 91 16:39:06 -0500
+Message-Id: <9112092139.AA01506@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 6648; Mon, 09 Dec 91 16:39:13 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 2013;
+ Mon, 09 Dec 91 16:39:11 EST
+Date:         Mon, 9 Dec 1991 16:36:08 EST
+Reply-To: hades%coos.dartmouth.edu@uga.cc.uga.edu
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Hades <hades%COOS.DARTMOUTH.EDU@uga.cc.uga.edu>
+Subject:      Re: RPG: Attributes/PD
+X-To:         GMAST-L%UTCVM.bitnet@dartcms1.dartmouth.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <no.id>; from "1667D876%KSUVXB.KENT.EDU@DARTCMS1.DARTMOUTH.EDU"
+              at Dec 9, 91 4:07 pm
+
+-- Adam Dray writes --
+>
+> ********************************************************
+> *** Please precede all Game Design posts with "RPG:" ***
+> ********************************************************
+
+    This is a good idea, a should make it easier for those who don't want
+to participate ignore or delete the posts easier...
+
+> >So, you'd have Strength, Agility, and Health; for example, and you'd
+> >have one each for the mind and for the body. A character could thus
+> >be strong mentally (probably equivalent to a high wisdom), yet weak
+> >physically; healthy body, weak mind, etc. If magic were allowed (and
+> >I'd hope that it is!) the astral form would be a body with the mental
+> >stats replacing the physical stats.
+>
+> 		PHYSICAL	MENTAL
+> Strength	muscle		leadership
+> Coordination	dexterity	intelligence
+> Agility	agility		creativity
+> Health	endurance	willpower
+> Beauty	appearance	charm
+
+> The names (e.g., "muscle," "dexterity," and so on) aren't important here;
+> it's just the concept I'm demonstrating here.  I think it has merit.
+> Can anyone else think of any categories that are applicable to this model?
+
+    I really like these categories, about the only one I can think to add
+right now would be:
+
+  Quickness	Reflexes	Instinct
+
+    This is a really good starting point for the system, and I think this
+version of handling attributes is something a little different, and that's
+a good thing.
+
+> I'd like to make this a PD project, so that anything that is contributed to
+> the project becomes public domain material by default.  No one owns the
+> project.
+
+    Making this a PD project will make most things easier in the long run.
+Otherwise we would be tied up in legal nonsense forever and never get
+anything constructive done on the system.
+
+> I someone decides to take the time to completely develop the patchwork ideas
+> here into a workable game system, hurrah for them!  I'd pay $15 for a
+> well-thought-out game that I helped design.  At least I'd know that the game
+> was what I wanted...
+
+    Yeah, I could see paying money for something like this if the person
+that pieced it together made it all coherent.
+
+
+> >From: Greg Porter <PORTERG@VCUVAX.BITNET>
+> >
+> >As a general note on how finely you wish to split attributes, it makes a big
+> >difference on whether skills are "skill-driven" or "attribute driven".
+>
+> I haven't seen the GURPS rules in a couple years, and I've never seen the
+> TimeLords game, sorry... =)
+
+    I personally have never seen either...
+
+> I'd prefer to go with a system like Cyberpunk's: roll d10, add a skill and
+> the applicable attribute, compare against a difficulty level.
+>
+> Example: d10 + Pistol + Reflex
+
+    This definately gets points for simplicity of use, I think that it's a
+very workable system just from the looks of it (never having played
+Cyberpunk, but Ars Magica has something very similar)
+
+> >From: PORTERG@Ruby.VCU.EDU:rtp-smtp
+> >
+> >I agree making it free makes it harder to steal.  Electronically, this is
+> >no prob.  But, say someone takes the electronic text, prints it out in a
+> >pretty format, and then begins selling it in stores to all those poor
+> >unfortunates without Net access?  That is what I was worried about.
+> >
+> >Greg
+>
+> Well, those "poor unfortunates" can pay their $12 for the game.  They'll be
+> getting a laser printed copy with, hopefully, some nice charts and graphics.
+
+    Well since this kind of thing is the norm for packaging a gaming
+system, this is a safe assumption to make. That is if the person doing such
+plans to make some kind of profit from it.
+
+> What's the law on PD?  Can someone take material from the PD and copyright
+> it, thus prohibiting others from using the (once-PD) material without prior
+> written permission?
+
+    I don't know the law, and also don't have ready access to it, but this
+is something that will need to be talked about. Hopefully there is a simple
+(yeah, right!) resolution to this possible problem.
+
+--
+-Hades  (Brian V. Hughes)   | "Impossible odds, mentally unbalanced foes,
+ Mac Database Administrator |  cramped quarters for a good punch-up. And
+ Cancer & Leukemia Group B  |  they say Iest has no night life!" - Cerebus
+ Dartmouth Medical School   | -Internet: hades@Coos.Dartmouth.Edu

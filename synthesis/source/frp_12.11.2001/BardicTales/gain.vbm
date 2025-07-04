@@ -1,0 +1,35 @@
+Public Function ExpectedGain(ByVal chance As Single) As Single
+    Dim result As Single
+    Dim mark As Single
+    result = 0
+    mark = chance / 2
+    If mark < 100 And mark > 1 Then
+        If chance < 100 Then
+            result = result + Int(chance - mark) / 200
+        Else
+            result = result + Int(100 - mark) / 200
+        End If
+    End If
+    chance = mark
+    mark = chance / 2
+    If mark < 100 And mark > 1 Then
+        If chance < 100 Then
+            result = result + Int(chance - mark) / 100
+        Else
+            result = result + Int(100 - mark) / 100
+        End If
+    End If
+    chance = mark
+    mark = 1.5
+    While chance > 1
+        If chance > 10 Then
+            result = result + mark / 10
+        Else
+            result = result + mark * chance / 100
+        End If
+        chance = chance - 10
+        mark = mark + 0.5
+    Wend
+    ExpectedGain = result
+End Function
+

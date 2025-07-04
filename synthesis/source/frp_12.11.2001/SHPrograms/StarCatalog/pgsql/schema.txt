@@ -1,0 +1,8 @@
+              Table "sc_system"
+ Attribute |         Type          | Modifier 
+-----------+-----------------------+----------
+ hip       | integer               | 
+ hd        | integer               | 
+ hr        | integer               | 
+ gliese    | character varying(11) | 
+

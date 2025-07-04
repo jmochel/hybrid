@@ -1,0 +1,35 @@
+H17448
+s 00005/00000/00000
+d D 1.1 01/08/16 09:49:49 jmochel 2 1
+cC
+cF1
+cK51217
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/16 09:49:49 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/TemplateCodeGenerator.tws
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK53482
+cPTemplateCodeGenerator.tws
+cR36844aff
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+workspace.diagram.active = <oiref:design#Class#idk6nxcoa7kvhqcoa7ne2j.diagram:oiref>
+workspace.diagram.initial = <oiref:design#Class#idk6nxcoa7kvhqcoa7ne2j.diagram:oiref>
+workspace.diagram.open.0 = <oiref:design#Class#idk6nxcoa7kvhqcoa7ne2j.diagram:oiref>
+workspace.editor.active = G:\TemplateCodeGenerator\TemplateCodeGenerator\src\org\mushin\templatecodegenerator\TemplateCodeGenerator.java
+workspace.editor.open.0 = G:\TemplateCodeGenerator\TemplateCodeGenerator\src\org\mushin\templatecodegenerator\TemplateCodeGenerator.java
+E 2
+I 1
+E 1

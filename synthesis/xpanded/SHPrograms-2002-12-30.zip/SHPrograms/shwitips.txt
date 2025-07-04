@@ -1,0 +1,2038 @@
+
+
+
+
+
+
+
+        FAQ on Tips for posting to soc.history.what-if (ver 1.02)
+
+
+
+
+
+             world spins towards past
+        Jump                           Back . . . . Aspire World spins towards f
+
+                                      Ahead
+
+
+
+                             Pteranodon's IMAGE View
+
+   The huge winged creature Pteranodon (say "Teranodon") has seen the world
+   develop over a hundred million years. This is his view on:
+
+
+                   FAQ Tips for posting to soc.history.what-if
+                                    (ver 1.02)
+
+    1. Introduction
+
+
+    Welcome to Usenet newsgroup soc.history.what-if!
+
+    This is a friendly place where we reject the idea that there are
+    inevitable forces of history that push us towards an inevitable
+    historical outcome. We refute this determinism, and have a lot of fun
+    while doing so, by considering the different possible outcomes of
+    historical events. We explore alternate history, historical what-ifs,
+    allohistory and counterfactuals
+
+
+    We change the past to learn about the consequences, for better or worse,
+    of actions that might have been taken in the past, and to appreciate the
+    role of chance and luck. But we make our changes in the framework of our
+    understanding of the multitude of small changes that are called forces,
+    trends, or developments, as well as the social and technical constraints
+    of an era.
+
+    Every action has its consequences!
+
+
+    READ THE HEADLINES!
+
+    Note: You need to use a Javascript equipped browser to view the
+    headlines.
+
+
+    This Posting Tips FAQ will help you to post to soc.history.what-if and
+    to enjoy your participation in our discussions.
+
+
+   You do not have to be an expert historian to post a what-if to
+   soc.history.what-if. However, make sure you have a some understanding of
+   the historical era of your what-if question before you post it. Sections 1
+   and 3 of "tips" will help you design your what-if. Section 4 will help you
+   present your what-if in a way that encourages other people to discuss it.
+
+   Try and understand the concept of plausibility in history. An alternate
+   history can include dramatic and improbable events and still be plausible.
+
+
+   Plausibility does not equal probability. Rather it attempts to resemble
+   the process of real history. We observe that real history the blend of the
+   many factors. For an alternate history to work it needs to recognize that
+   change results from a wide variety of causes.
+
+   Every action has its consequences!
+
+
+   First, history is made by our choices, by our will to act and to
+   persevere. Muhammed, Napoleon, Buddha, St. Paul, Newton, Hitler, Genghis
+   Khan, and many less noticed people changed history by applying their will.
+
+   Second, consider chance and luck -- good and bad, such as the message on
+   Japanese military activity that sat on a shelf over the weekend before the
+   Pearl Harbor attack, or Hitler's survival running though the WW I
+   trenches.
+
+
+   Third, consider the progressive accumulation of many small events that we
+   call by names such as trends, forces, processes, and waves.
+
+   Plausibility is related to probability in that it captures the summation
+   of all of these results. For example if it took six weeks to sail from
+   Acapulco to Manilla in a Galleon in fair weather and the fastest recorded
+   trip was four weeks, it is not plausible to have an alternate history
+   depend on a usual sailing time of four weeks.
+
+
+   It is plausible to have improbable events, but not an endless series of
+   them. In real history the sequence for "want of of a nail the shoe was
+   lost, for want of a shoe the horse was lost, for want of a horse the
+   battle was lost, for want of a battle the empire was lost" just does not
+   happen. At one stage or antoher someone uses a substitute.
+
+   Plausibility is also related to feasibility. A standard example is the
+   Roman steam engine. It is very unlikely that the Romans would have any
+   interest in developing a steam engine. It is of primary value as a labor
+   saving machine. Even if a Roman decided to make one, he could not just go
+   and throw one together at his villa. Our inventive Roman could not make a
+   steam engine without having the ability to do metal fabrication, machining
+   and instrumentation similar to that of 18th century Europe. It took
+   hundreds of years of trial and error to produce these necessary preceding
+   technologies. Consider just one of them, a boring mill to manufacture
+   cylinders. This technology was developed in Europe to make better cannon.
+   So Roman development of a working steam engine--as opposed to a ball that
+   spins by venting steam--would have depended on improving their seige
+   machinery by developing something that fired through tubes. Gunpowder is
+   not essential. The key is precision matching of the tube and projectile
+   diameters.
+
+
+   Plausiblity is also related to the speed at which societies absorb change.
+   We have regular elections and respect the results. This took hundreds of
+   years to be accepted as the way of legitizing power. It would not be
+   plausible to have Ferdinand and Isablella chuck the Inquistion and
+   legitimate their power by popular election.
+
+   Plausibility also sums up other elements, which are described in this
+   Posting "Tips" FAQ.
+
+
+   As for alternate history fiction, most of it is not very plausible but we
+   accept it where it creates a persuasive illusion of a world.
+
+   Respect our Charter by not discussing adventures in published fictional
+   worlds (see section 2 of "tips"), or revisionist history, such as
+   Holocaust denial, (see section 5, of "tips," which will also help you to
+   avoid other problems.
+
+
+   Finally, "tips" does not attempt to duplicate the "Frequently Asked
+   Questions in soc.history.what-if" maintained and regularly posted to the
+   newsgroup by Craig J Neumeier, (neume001@maroon.tc.umn.edu). Read it.
+
+   Craig Neumeier agreed to have his FAQ hosted on Pteranodon's View website
+   at URL:
+
+
+           http://www.geocities.com/Athens/Forum/4123/main.htm
+
+   I completed HTMLizing it on January 7, 1998 and placed it on the site.
+
+
+
+   Table of Contents
+
+
+
+      *Introduction
+
+      *1. Finding interesting topics
+
+      *2. Published alternate history fiction
+           Charter prohibits discussion of adventures in published fictional
+           worlds
+
+      *3. Creating your own alternative history (AH)
+           Two basic techniques for creating an AH
+           Kit of working resources for doing WI's
+               Atlas
+               Dictionary
+               Chronology
+               Technology
+               Ideas
+           Plausibility, probability, the unexpected, luck and chance
+           Plausibility checklist
+           Fictional AH's less plausible than our discussions
+           Authentic sounding names for persons in your AH
+           What is plausible technological change?
+           Ancient technolology
+           Medieval Islamic science and technology
+           Early Modern Western science and technology
+           The English Industrial Revolution
+           Contemporary technology
+
+      *4. Getting other people to discuss your AH
+           Use a descriptive Subject line
+           Organize your presentation
+           Consider using names for your AH people
+           Format your text so people can read it no matter what newsreader
+           they are using
+           "Double blind" AHs
+
+      *5. Avoiding problems
+           Prepare to defend your assertions
+           Learn how to deal with difficult people
+           Make your comments readable
+           Do not cross-post
+           Dealing with crossposted trolls
+           Do not encourage "Holocaust deniers" to argue their views
+           Do not engage in "fanish" discussion of published AH fiction
+           Do not engage in discussion of future history
+           Do not post binaries
+           Read the Charter
+
+      *6. Text of the charter of soc.history.what-if
+       7. Credits and thanks
+      *
+       8. Copyright notice
+      *
+
+
+   1. Finding interesting topics
+
+
+   1.01 If your newsreader can sort by thread, scan the list of
+   soc.history.what-if subjects and start with a few that match your
+   interests, whether they are the Normans fail to conquer England or a
+   replay of World War II. Beware, though, there are several cranks around.
+   If you read a post that attacks the poster personally rather than the
+   ideas, ignore it. If you see several objectionable posts from the same
+   person, ignore discussions that involve that person.
+
+   1.02 If you find an interesting post but previous posts have expired on
+   your local ISP's server, you can find them at:
+           http://www.dejanews.com
+
+
+   1.03 Soc.history.what-if was created by people who wanted a forum to
+   examine real history and see how things might have developed differently
+   if people had made other decisions or had different luck at a historical
+   "point of departure" (POD) This is called alternate history (AH),
+   allohistory, counterfactual history, or uchronia.
+
+   1.04 AH topics start with a what-if (WI), usually in the form of a
+   "what-if" question that calls for an answer that explains how history
+   would have been different from real history to cause the change at the POD
+   and explains how the AH would then differ from real history after the POD.
+   The POD can be a battle, an election, the premature death of a key person,
+   the birth of a breakthrough person when during an uneventful period in
+   real history, a scientific discovery, or anything else of historic
+   importance.
+
+
+   Return to start
+
+
+   2. Published alternate history fiction
+
+   Charter prohibits discussion of adventures in published fictional worlds
+
+
+   2.01 Our Charter prohibits discussion of adventures in published fictional
+   worlds, such as Draka or Starship Troopers. The following should help you
+   distinguish what is appropriate for discussion on soc.history.what-if from
+   what should be posted to rec.arts.sf.written:
+
+
+
+        * If you want to discuss a published AH story, post to
+       rec.arts.sf.written only. However, there is a limited exemption for
+       speculation about how the history created in the published story
+       would work as an alternate history. This includes discussing history
+       from the individualist perspective of the real world persons that may
+       appear in a published AH, and the characters of the individuals who
+       made history. For example we can take the WI that the South won the
+       US civil war in the manner described in Mr. Turtledove's How Few
+       Remain, and we could discuss how this would affect Abe Lincoln. Our
+       discussion could include the plausibility of Turtledove's speculation
+       that Lincoln's actions would lead Theodore Roosevelt to accuse him
+       Lincoln being a Red Marxist. Similarly we can discuss arguments that
+       How Few Remain misinterpreted Blaine's character and made him take
+       historical actions that he could not have taken in a plausible AH.
+
+
+    * The authors of successful AH fiction, such as Mr. Turtledove or Mr.
+   Stirling, are sometimes very knowlegeable about the real history of the
+   eras covered by their stories. They choose outcomes that they know are
+   implausible because these are the ones with maximum dramatic impact. For
+   this reason alone their published AH fiction is better discussed in
+   rec.arts.sf.written rather than soc.history.what-if. There is also a Draka
+   fan page at http://www.mindspring.com/~atalbott/index.html
+
+
+
+    * There is general consensus that the Draka history is one of the
+   best-developed published alternate histories, which overcomes the fact
+   that it is very improbable in its historical development. However it is
+   implausible mainly because of the improbability that the society could
+   work if it actually came into existence. The uniformity of Draka belief,
+   their high level of civic responsibility, and irresistable slave-training
+   techniques are very unlikely to evolve from the Draka roots as Southern
+   slaveholders. Nor is the docility of the slave culture plausible.
+
+
+    * If you want to discuss how you enjoyed or detested the story, and
+   fiction specifics, such as the degree of dramatic tension, the amount of
+   "enjoyably nasty stuff," plot resolution by a deus ex machina, "how
+   faithful the movie was to the book, political correctness of the story or
+   movie, the techniques the author uses to develop the character of a
+   fictional person, such as by writing from a first person or third person
+   viewpoint, or colorful description of personal quirks, you should all be
+   post to rec.arts.sf.written.
+
+
+      Do not cross-post from soc.history.what-if to rec.arts.sf.written. See
+    *
+   section 5 of "tips" for more on cross-posting.
+
+   Return to start
+
+
+
+   3. Creating your own alternative history (AH)
+
+   Three basic techniques for creating an AH
+
+   3.01 Set out some circumstances for your proposed what-if and sketch out a
+   few thoughts on what you think might happen if the what-if occured. There
+   are two basic techniques for creating an AH:
+
+
+
+        * Reverse-engineer: write backwards. If you conceive of a social
+       arrangenment, such as a British North America east of the Mississipi
+       during the 19th century, all you have to do is figure out the series
+       of events that would have led from your POD, in this case probably no
+       American Revolution, or a failed one, to your British North America
+       of 1876.
+
+
+        * Or you could postulate a POD and figure out what changes in history
+       would be necessary for a change to occur. For example, the Japanese
+       closed their world to outside influences starting in the 17th
+       century, and this isolation lasted until the Americans forced them to
+       open to foreign trade in the 19th century. What changes in history
+       would be needed for the Japanese to remain open to the world?
+
+
+          Consider POD's other than big changes such as who won or lost the
+       usually recognized decisive battle. AH design can be most satisfying
+       if you go further back in history and make a fairly small change. For
+       example the big battle method of keeping the U.S. in the British
+       Empire would be to have the British win the battle of Saratoga. But
+       this is very late in the movement towards independence. It is still
+       likely that as the thirteen colonies recovered from the defeat they
+       would revert, sooner or later, to their common efforts to win
+       independence. The way to have kept the British colonies in the empire
+       would have been to have blocked the initial stages of a single
+       independence movement. An effective POD would make Britain give each
+       colony a separate and independent legislative body by perhaps 1770,
+       with each having its own tax-raising power. This was long before the
+       colonies united to overthrow British rule. This POD would "divide and
+       conquer." Britain would thus have empowered each colony to set its
+       own domestic policy, in the framework of British foreign and imperial
+       policy. As each colony separately developed it would have less and
+       less in common with the other colonies and an independent unified
+       state would be unlikely to develop because each state had a vested
+       interest in maintaining its relative independence.
+
+
+   Return to start
+
+
+
+   Kit of working resources for doing WI's
+
+   3.02 Assemble a small kit of working resources for doing WI's. A
+   historical atlas, a dictionary which includes historical information in
+   its entries, a chronology and some material relating to the era of your WI
+   are very helpful. Here are a few recommendations:
+
+
+   Return to start
+
+
+
+       Atlas
+
+
+        * Atlas. Borders change in history. It is very helpful to look a map
+       that shows the names and extent of countries at the ime of your POD.
+       A good historical atlas for this purpose is The Harper Atlas of World
+       History, (William Collins Sons & Co. Ltd., 1987). The format is a
+       series of double page presentations on specific topics with from one
+       to ten simplified maps showing borders, key names, and major changes.
+       A short text explains the maps. A detailed chonology matches the
+       maps. Covers all regions of the world. This is the English
+       translation of Le grand livre de l'histoire du monde; atlas
+       historique, edited by Pierre Vidal-Naquet with text by about 60
+       persons(Paris; France Loisirs, 1986) ISBN 2.7242.3083.3. Inspired by
+       the historical concept of Braudel, history as the details of all
+       aspects of life.
+
+
+
+        * Atlas. The Times Atlas of World History, 4th ed., edited by
+       Geoffrey Barraclough (Times Books, Harper Collins Publishers, London,
+       Hammond Incorporated, Maplewood, NJ;1993) ISBN 0-7230-0534-6. First
+       published in 1978. Any edition is suitable. More general thematic
+       treatment of eras than Harper. An excellent way for you to gain an
+       overall understanding of an era and the changes that can be made in
+       it. My only reservation is that it persists in using Wade-Giles
+       instead of pinyin romanized Chinese names.
+
+
+        * Atlas. The Anchor Atlas of World History, maps facing chronologies.
+       It is 2 paperback volumes of about 300 pages each. Standard-sized
+       paperbacks; physically easy to handle, compared to a normal atlas,
+       though the maps are quite small. [deserves more comment]
+
+
+          Atlas. Colin McEvedy, Penguin Atlas of Ancient History, Penguin
+        *
+       Atlas of Medieval History, Penguin Atlas of Modern History, Penguin
+       Atlas of Recent History. Maps are series of overviews of Europe and
+       West Asia, or Europe alone, with a few World maps. A short text
+       explains each map. Focus almost exclusively on Europe and West Asia.
+       Landscape format double size paperbacks; physically easy to handle,
+       compared to a normal atlas. Very handy for quick reference. 
+
+       Return to start
+
+
+
+       Dictionary
+
+
+
+        * Dictionary. Any large dictionary of about 250,000 entries that uses
+       an encylopedic approach. Particularly useful for short historical
+       summaries are the ones that incorporate information from The Larousse
+       Illustrated International Encyclopedia and Dictionary. Check the
+       dictionary to see if it has extended entries on historical subjects
+       such as Enlightenment, country names, historical personages,
+       locations.
+
+       Return to start
+
+
+
+
+       Chronology
+
+
+        * Chronology. By far the best is a one volume enclopedia last
+       published, AFAIK, in 1972: An Encyclopedia of World History; Ancient,
+       Medieval, and Modern, Chronologically Arranged, compiled and edited
+       by William L. Langer, (Houghton Mifflin, 1948). This is the English
+       language edition of Dr. Karl Ploetz's Auszug aus der alten, mittleren
+       und neueren Geschichte, which went through many editions. This is the
+       best source to use when trying to fit together the bare bones facts
+       of who, what, when, where and why. Few wasted words. In some
+       instances current interpretations of events are different than
+       Langer's. Some ancient dates have been revised. Detail on history
+       outside Western Society and its predecessors is skimpy. But I have
+       yet to find a good supplement to cover China and other non-Western
+       chronological development in detail.
+
+
+       Return to start
+
+
+
+       Technology
+
+
+        * Technology, ancient. Ancient Inventions by Peter James and Nick
+       Thorpe, (Random House, 1994) ISBN 0-345-36476-7. Easy to understand.
+       Illustrations. For a more scholarly book try R. J. Forbes, Studies in
+       ancient technology, 3rd. ed. (Leiden 1993). Covers Egyptian and
+       Mesopotamian technology as well as the more commonly known
+       Greco-Romans. Useful insights beyond nuts and bolts, such as the
+       surprising failure of greeks and Romans to adopt superior farming
+       techniques that they must have observed in West Asia, which the Arabs
+       later successful used in the Mediterranean region. An AH designer
+       might change this by using a POD based on the idea that the Greeks
+       and Romans they were slave owning societies, which produced a chronic
+       labor surplus that served as a disincentive to seeking labor saving
+       improvements; or a POD to change their attitude of cultural
+       superiority, which made them downplay the value of things that they
+       did not develop themselves.
+
+
+
+        * Technology, Chinese. Glance through the following easy to find book
+       before developing strong opinions about ancient Chinese technology
+       and the ability of the Chinese to undertake practical innovation.
+       Robert Temple, with an introduction by Joseph Needham, The Genius of
+       China: 3,000 years of Science, Discovery, and Invention, (Touchstone,
+       Simon and Schuster, 1989) ISBN 0-671-62028-2 ISBN 0-671-67407-2 Pbk
+       Originally published in the U.K. as China: Land of Discovery and
+       Invention, (Patrick Stevens Ltd., 1986). It's also a good source for
+       AH technology devices that look different than the Western tradition.
+       For example there was an ancient Chinese system of measurements --
+       length, width, volume -- based on the musical pitches of bells. By
+       contrast the modern metric system began with the Englightenment idea
+       of replacing the measure of the distance between the kings nose and
+       fingertip (the yard) with a crude measure of of the circumferance of
+       world, divided by a number that would yield an answer about the same
+       length as the yard. Western measures displaced the Chinese measures
+       based on harmonic sounds. But when you think about it, physics and
+       engineering based on harmonic measures could have progressed directly
+       to measuring distance by the frequency of light waves, as we do now,
+       and could have skipped much of the instrumentation based development
+       of Western measurement.
+
+       Return to start
+
+
+
+
+       Ideas
+
+
+        * Ideas. Disease. Plagues and Peoples by William H. McNeill. A top
+       historian's readable overview of disease and history. How plagues hit
+       the late Roman Empire, stalled Alexander's invasion of India,
+       required cities to rely on migration from rural areas to maintain
+       their populations. For a current assessment of plagues by a biology
+       professor see Yellow Fever, Black Goddess: The Coevolution of People
+       and Plagues, by Christopher Wills (Addison-Wesley Pub Co, 1997). Both
+       McNeill and Wills argue that evolution will uniformly favor benign
+       pathogens over the long term. Because parasites need hosts to
+       survive, virulent pathogens would be at an evolutionary disadvantage.
+       Pathogens, such as Yersinia pestis, the bacterium that causes bubonic
+       plague, survive only in specialized conditions and are highly
+       vulnerable to things that disturb its universe, which explains why
+       plague outbreaks do not last. But there is a caveat for McNeill and
+       Wills. They limit their definition of plague to something that
+       eventually subsides. The most dramatic examples are the pandemics
+       such as the Black Death of the 6th, 14th and 17th centuries and the
+       Influenza of 1918. But there are diseases that kill in large numbers
+       for millennia. A contrary view is that there are perpetual plagues
+       where the particulars of transmission favor both high virulence and
+       high frequency of infection. For example areas where mosquito density
+       is perpetually high, enable Plasmodium falciparum malaria to kill
+       many people, year after year. The AH designer should consider the
+       effects of these perpetual plagues diseases as well as sporatic ones.
+       Such perpetual plagues blocked Western exploitation of Africa for
+       centuries until modern medicine and provided some protection. For
+       views that contrast with McNeil and Wills see a book by another
+       biology professor, Paul Ewald, Evolution of Infectious Disease
+       (Oxford University Press, 1994).
+
+
+        * Ideas. The Measure of Reality: Quantification and Western Society,
+       1250-1600, Alfred W. Crosby (1997). ISBN 0-521-55427-6 ISBN
+       0-521-63990-5 Pbk. A thesis that the West's great distinction was to
+       meld mathematics and measurement into a mindset -- to use
+       quantification to understand everything material within time and
+       space; to measure reality. Argues that quantification explains how
+       the West leaped from a sub-Euclidean legacy to the universe Galileo
+       describes, to a culture that spawned navigation, astronomy,
+       cartography, commercial and banking procedures and practical and
+       theoretical mathematics. This change spread through the
+       psyche--mentalité--of the West. It became the way of thinking of the
+       world that gave the West decisively important administrative,
+       commercial, industrial and military skills not developed in other
+       Societies. This suggests AH's in which one of the other major
+       Societies, such as Islam or China, evolve the quantification
+       mentalité before the West, and thereby modernize and dominate the
+       world.
+
+
+
+        * Ideas. The Colonizer's Model of the World, J.M. Blaut. A thesis
+       that that the rise of Europe to modernity and world dominance is the
+       result of is access to the New World, which unbalanced the Eurasian
+       economic system in favour of Europe, rather than due to some unique
+       European quality of race, environment, culture, mind, or spirit, and
+       that progress for the rest of the world results from the diffusion of
+       European civilization. Blaut argues the diffusionist doctrine is the
+       world model constructed by Europeans to explain, justify, and assist
+       their colonial expansion. This suggests AH's in which one of the
+       other major Societies, such as Islam or China, discover and exploit
+       the Americas before the Europeans. Use Blaut's thesis with caution.
+       European sea dominance came centuries before industrial take-off and
+       the economic dominance of Western Society. Blaut fails to prove that
+       they were causally related.
+
+
+        * Ideas. Annales historians, Braudel, Darnton, Ladurie, Schama. Since
+       about 1929 Annales historians have rejected both classical political
+       history, which assumes common people live in history but do not make
+       history and that political ideas govern economic behavior; and the
+       Procrustean bed of any determinist big theory, such as Marx. A
+       synthesis of styles and specialities, focused on data from primary
+       documents, closely checked rather than accepted as prima facie true
+       and complete. Annalists search for long term historical dynamics,
+       without assuming it must be economic interest, religious ideology, or
+       dynastic ambitions of royal dynasties. I highly recommend many of the
+       Annales books to AH researchers for their fascinating detail and high
+       quality writing. The top Annales historian was Fernand Braudel, The
+       Mediterranean and Civilization and Capitalism 15th-18th Century.
+       Braudel wrote in French and was mostly ignored in English speaking
+       countries until his books were translated into English.
+
+
+
+        * Ideas. Ecology. AH design can benefit from biological and
+       ecological perspectives on human history which, among other things
+       offer recurrent motifs such as "the irrigation system collapsed."
+       Clive Ponting, Green History of the World. Humans have been
+       destroying the environment since prehistoric times. Many examples of
+       destruction for AH designers to change. A simple formula for
+       disaster: successful Societies produce surplus food which allows the
+       rise of culture, civil and military hierarchies. These institutions
+       vastly increase demands on the ecosystem for food and energy that
+       outstrip the local ecosystem's ability to sustain. What follows is an
+       inevitable downward cycle of diminishing returns resulting from
+       over-irrigation of lands, leading to rising of water tables and the
+       salinization of the land and a consequent fall in the production of
+       the agricultural output leading to eventual shortfalls in surpluses,
+       starvation and the demise of the culture. Other examples:
+       deforestation, extermination of species.
+
+
+        * Ideas. Environmental determinism, biogeography. Jared Diamond, 
+       Guns, Germs and Steel, (W.W. Norton & Co, 1997, ISBN 0-224-03809-5).
+       Western Society defeated its competitors because geography gave it
+       diverse flora and fauna. Eurasia had more types of plants and large
+       animals to domesticate than other regions. Ambitious broad brush
+       human history since the Ice Age in the context of geography,
+       demography, and ecological happenstance. Eurasia has geography better
+       than other regions for to farming, domestication of animals, and
+       information flow. It developed populous cultures with complex
+       government and communication -- and increased resistance to disease.
+       Societies that gained a head start in producing food would overpower
+       preliterate ones. Domestication of animals made Eurasians resistant
+       to these germs that they later spread in epidemic proportions in
+       their voyagesof discovery. Diamonds's thesis is a "positive feedback
+       loop" from farming, domestication, population density, to innovation.
+       Why did peoples of some regions fail to domesticate plants? Why were
+       most big wild mammal species never domesticated? Why did food
+       production spread at different rates on different continents? The
+       final chapter, "The Future of History as a Science," is almost an AH
+       factory. It argues that students of humanity have examples and
+       "natural experiments" to make comparisons. For example, after the
+       15th century fragmented Europe harnessed competitive innovation in
+       ways that over-unified China did not. Christendom adopted the wheel,
+       the key machine element, while the Islamic Society discarded it
+
+
+          Ideas. Evolution and "biological determinism" This category of
+       books provides many unexpected examples and illustrations that you
+       can adapt to explain AH changes. Jared Diamond, The Rise and Fall of
+       the Third Chimpanzee (ISBN 0 09 991380 1). But how do we reconcile
+       the idea of evolution by natural selection relentlessly favoring
+       self-interest, for example Dawkins, The Selfish Gene, with the
+       complex societies developed by human beings and the abundance of
+       human cooperative spirit? For an answer read Matt Ridley, The Origins
+       of Virtue: Human Instincts and the Evolution of Cooperation, (Viking
+       Penguin, 1997, ISBN 0670874493). Matt Ridley summarizes his book. It
+       "is about the billion-year coagulation of our genes into cooperative
+       teams, the million-year coagulation of our ancestors into cooperative
+       societies, and the thousand-year coagulation of ideas about society
+       and its origins." He suggests a new paradox: "Our minds have been
+       built by selfish genes, but they have been built to be social,
+       trustworthy and cooperative." The AH designer will find inspiration
+       in examples of societies built upon voluntary exchange of goods,
+       information, fortune and power between free individuals -- trust,
+       mutuality and reciprocity -- before authoritarian government
+       suppressed the arrangements. Merchant guilds. Merchant communities in
+       North Italy (which was spared the strong monarchies and godfathers of
+       the South). Trade precedes law. Modern commercial law was invented
+       and enforced by merchants to facilitate trade in the 11th century.
+       Merchants in a foreign country had no recourse to their prince if
+       cheated and no confidence that the same standards applied there as at
+       home. Merchants voluntarily produced, voluntarily adjudicated and
+       voluntarily enforced the lex mercatoria. It evolved. Natural
+       selection allowed good customs and ways of settling disputes to drive
+       out inferior ones. By the 12th century it provided substantial
+       protection. But the adapability of the system was lost as goverments
+       increased their power and froze the arrangements into laws enforced
+       by the state. Merchants have made repeated attempts to bypass the
+       congested courts by commercial arbitration. The collapse of community
+       spirit in the last few decades, and the erosion of civic virtue, is
+       caused not by the the spread and encouragement of greed but by the
+       spread of Levitathan, the powerful state that makes no bargain with
+       the citizen to take joint responsibility for civic order, engenders
+       in the citizen no obligation, duty or pride, and imposes obedience
+       instead. Thus the citizen, treated as an naughty child, behaves like
+       one. Examples of where authority replaced reciprocity and the sense
+       of community failed. Ineffective welfare state based on condensation
+       replaced effective community institutions. Material improvement is
+       the result of new technology, not government. Socially the
+       deterioration is marked "for St Augustine the source of social order
+       lay in the teachings of Christ. For Hobbes it lay in the sovereign.
+       For Lenin it lay in the party. They were all wrong. The roots of
+       social order are in our heads, where we possess the instincitve
+       capacities for creating not a perfectly harmonious and virtuous
+       society, but a better one than we have at present." The AH designer
+       should recognize that the medieval vassal and the industrial age
+       factory worker had no freedom to build a society based on trust and
+       reciprocity between equals in a Society dominated by the heirarchical
+       authority of prince and church, aristocratic or industrial system.
+       But there are many other opportunities to apply the thesis that
+       government does not impose virtue on inherently evil people, which is
+       the thesis of Hobbes' Leviathan and contemporary liberals. "We are
+       not so nasty that they need to be tamed by intrusive government, nor
+       so nice that intrusive government does not bring out the worst in us,
+       both as its employees and as its clients." History provides many
+       POD's where a society could have developed alternatives to a
+       "government that dictates the minutist details of life and squats
+       like a giant flea upon the back of the nation."
+
+
+
+        * Ideas. Evolution and "biological determinism" Other views: Steve
+       Jones, The Language of the Genes (ISBN 0 00 654676 5) and In the
+       Blood (ISBN 0 00 255511 5).
+
+
+        * Ideas. The Nine Nations of North America, Joel Garreau. A
+       journalist argues that North America is nine "nations" based on
+       culture and economics. These offer a set of possible alternatives to
+       real world boundaries. Garreau's nations are: New England, Quebec,
+       The Foundry (Industrial MidWest, PA, NY, NJ, etc.), The Breadbasket
+       (Great Plains), The Empty Quarter (Rocky Mountains, Great Basin, most
+       of Alaska and non-Pacific Western Canada), Ecotopia (Pacific
+       Northwest, sometimes called Cascadia), Mexamerica (Mexico, South
+       Texas and California), Dixie (Deep South), The Islands (South
+       Florida, the Caribbean, and the north coast of South America).
+
+
+
+        * Ideas. Connections and The Day the Universe Changed, James Burke.
+       Companion books to BBC TV series. Burke talking about unexpected
+       interrelations of technologies, economics, history, etc. Burke is a
+       good source of AH ideas but should be read with the caveat that many
+       of his linkages are very forced. His working technique was to find
+       two seemingly unrelated events and then dig until he found some way
+       to link them. Great drama but not a plausible causal progression.
+
+
+        * Ideas. Indian Givers : How the Indians of the Americas Transformed
+       the World, Jack Weatherford (1990 ?). Discovery of the New World
+       affected Europe through increasing the supply of gold and silver,
+       adding new food crops and medicines, inspiring democracy. Note
+       particularly the AH possibilities in the chapter on Cahokia and the
+       Mississipians. Read with the caveat that it has a PC bias. For
+       example it overates the American Indian contribution to American
+       democracy. The Iroquois constitution is a pale shadow of the
+       inspiration the US Founders took from of ancient Greece and Rome.
+
+
+          Don't discount books written primarily for juvenile readers. They
+        *
+       can help clarify complex issues. For example the Kingfisher
+       Illustrated History of the World: 40,000 BC to the Present Day,
+       Charlotte Evans, general editor (New York: Kingfisher Books, 1993).
+       ISBN 1856978621. Fairly thorough, with plenty of maps and a timeline
+       with many POD possibilities.
+
+
+        * Books recommended to me that I have not evaluated. You may find
+       them useful. Peter Brown, The Body and Society. Intellectual and
+       social history of the Antique world; and The Rise of Western
+       Christendom, (much broader in scope than the title suggests).
+       Edward Hyams - Soil and Civilization, John Perlin - A Forest Journey.
+       World histories from the perspective of soil and tree use
+       respectively.
+
+   Return to start
+
+
+   Plausibility, probability, the unexpected, luck and chance
+
+
+   3.03 Plausibility, probability, the unexpected, luck and chance.
+
+
+        * You should do some sort of reality check on your POD and AH. It is
+       not plausible to propose that the Roman Empire survives almost
+       unchanged to the present day, with the exception that the Imperial
+       guards use machine guns and some totalitarian techniques.
+
+
+
+        * "Plausible" does not mean just the most "probable" outcome of a
+       change in history. You can write a plausible AH showing major changes
+       caused by the actions of a person of improbable origin. This has
+       happened in real history. Consider Napoleon, a Corsican who might not
+       even have been French if there had been slight changes in history a
+       few years before he was born.
+
+
+        * To use a person who did not exist in real history to do improbable
+       things, all you need to do is check that the cultural,
+       socio-political and technological circumstances were so that such a
+       person could make the changes. Indeed, for a plausible AH extending
+       more than a few years beyond the POD, you should, like real history,
+       include some unexpected world-altering individuals, and develop the
+       socio-political environment that enables their actions to be
+       believable.
+
+
+          Also, don't forget the role of chance and luck in real history. A
+        *
+       plausible AH will include some of these elements. For example a storm
+       blows an attack fleet off course, a major religious leader falls down
+       the stairs and dies before delivering the word of God. Real history
+       also has the message on Japanese military activity that sat on a
+       shelf over the weekend before the Pearl Harbor attack, and Hitler's
+       survival running though the WW I trenches.
+
+   Return to start
+
+
+   Plausibility checklist
+
+   3.04 Checking the plausibility of your AH is mostly common sense. However
+   you might want to think about a few specific checks on it. These could
+   include:
+
+
+
+        * An attempt to capture the socio-political and technological
+       evolution of the era.
+
+
+        * Avoiding extremes that contradict the socio-political and
+       technological realities of the era. For example, an empire that lasts
+       virtually forever, like year 2000 Rome, a "super superior empire"
+       like the ficitional Draka who make no mistakes (stirring fiction but
+       not very plausible), or a people rising from the ashes of defeat to
+       dominate the world. If your AH claims any of these, you are going to
+       have a lot of work to create a plausible explanation. Similarly, you
+       can create a good looking AH empire or country on the map. But to
+       make it plausible, you need to apply the same factors that made it
+       possible for empires and countries to exist in real history.
+
+
+
+        * Avoiding an isolated dramatic event, in isolation from
+       socio-political and technological changes, as the means of creating
+       major changes. For example Napoleon conquered much of Europe. Your AH
+       would be implausible if you put a Napoleon syle Emperor in France 50
+       years earlier and said he maide these conquests. The AH would lack
+       the essential context of revolutionary popular enthusiasm and changes
+       such as the Levee en Masse.
+
+
+        * Avoiding the "easy erase" trap of removing something from real
+       history that was the natural result of socio-political and
+       technological developments. For example having an empire collapse
+       without apparent reason or not forming, despite the presence of
+       factors that make this by far the easiest course of action for people
+       to take.
+
+
+          Avoiding instant technology which is widely adopted despite
+        *
+       incompatable social context. For example having Roman steam engines
+       without preparing the way with metallugry and machining skills that
+       need to preceed the device, and without social changes to to the
+       cheap labor market that made the Romans uniterested in labor saving
+       technology.
+
+
+        * Recognizing that if your AH covers more than a few years after your
+       POD there will be a progressive accumulation of changes in peoples
+       beliefs, socio-political and economic activities, and technology.
+
+
+        * Recognizing that if you use historical personalities in your AH,
+       they are plausible if they were born before the POD, but increasingly
+       implausible as the time increases between the POD and their birth,
+       with the implausibility increasing as their ancestors are directly
+       related to the changes caused by the POD. In fiction we can use Nixon
+       as a car salesman as a joke, for an AH of British America, but its
+       not plausible at all.
+
+
+
+        * Recognizing that we can discuss AH most clearly when we look at
+       just a few years after a POD. When we go beyond that we have no idea
+       what is plausible, except that it makes some logical sense to see AH
+       as changed by a "ripple effect" of accumulated micro changes after
+       the POD. A POD in modern high-communication society will propagate
+       very rapidly. But the rate slows as we look further back in history,
+       until we reach the pre-electronic world where local cultures were
+       mainly isolated from the outside.
+
+
+        * Recognizing when the "ripple effect" is strong. This would include
+       eras when the composition of the elite population has direct
+       consequences on politics. History is full of wars caused by dynastic
+       disputes, and elites elbowing for more power. These events are most
+       sensitive to microchange effects. During the pre-modern era of Latin
+       Christiandom claimants to dynastic titles fought wars to their
+       support their claims. The failure to have a male child could plunge
+       society into war and lead to major shifts in political control. Its
+       fun to write these AH's but they can soon become very complex. After
+       the 17th century there was a gradual shift to sovereignty based on
+       support of the population, and wars became more closely related to
+       national interests, which reduced this "ripple effect."
+
+
+
+        * Applying a rational concept of historical change. AFAIK nobody has
+       ever been to an alternate world. We can make all sorts of speculation
+       about a "ripple effect" producing explosive changes, because of chaos
+       theory etc. But the only speculations of any possible value to us are
+       those that are bounded by rationality. When we look at real history
+       we observe that most changes are incremental rather than explosive,
+       and can be explained by the effects of the interaction of many
+       individual decisions. Human nature makes most people reasonably
+       predictable in their behavior. They earn a living, have children etc.
+       Personalities rarely radically transform. Napoleon had a personality
+       that needed to gamble all on the single chance and was compelled to
+       provide kingships for his relatives even when this sabotaged public
+       support for the new governments. If we looked at him after a POD he
+       would still have this personality, rather than a different one, such
+       as where he transformed into a cautious conserver of his gains who
+       built popular support for new kings with local roots. Technology
+       permits some things at a particular time but not others. An ancient
+       Roman tinkerer could not invent a steam engine one summer in the back
+       room of a villa and revolutionize Roman industry.
+
+   3.05 If you want further information on how to write a plausible AH, go
+   to:
+
+
+           http://www.geocities.com/Athens/Forum/4123/main.htm#Alternate
+
+   and follow the links to the plausibility essay.
+
+
+   3.06 I have never seen an AH, including my own, that would get anything
+   close to a perfect score on a plausibility rating. But a checklist like
+   this helps to make them hold together better, and makes them more fun to
+   discuss.
+
+   Return to start
+
+
+   Fictional AH's less plausible than our discussions
+
+
+   3.07 Our discussion in soc.history.what-if has often produced AH's which
+   succeed on many of of the plausibility points. Our best discussions deal
+   with AH's that are far more plausible than the AH's used in fiction, where
+   the test is not not so much historical plausibility, as it is the creation
+   of a mood of living in an AH world. The fictional AH's that work best,
+   such as Fatherland, The Man in the High Castle, Bring the Jubilee, and
+   Pavanne, are generally weak in their historical plausibility.
+
+   3.08 We discuss alternate history in soc.history.what-if to devise
+   realistic, reasonable, even somewhat likely worlds based on a given POD,
+   i.e. a plausible AH. However, the objective of fictional AH's is to
+   function as part of an interesting story. This can conflict conflict with
+   the aim of creating a plausible AH. Good AH fiction often has has gaps,
+   improbabilities, and inconsistencies, that make them fail as plausible AH
+   in by the standards we tend to apply in soc.history.what-if. Rather, they
+   are usually improbable and sometimes impossible outcomes. For example, all
+   plausible Draka timelines would destroy life on Earth. But an implausible
+   one allows a creative writer to create a fascinating speculative fictional
+   world.
+
+
+   3.09 Our Charter permits discussion of the Draka world as an AH, but
+   extreme improbability means that most discussion of Draka would be best
+   done on rec.arts.sf.written or the web site at
+           http://www.mindspring.com/~atalbott/index.html
+
+   Return to start
+
+
+   Authentic sounding names for persons in your AH
+
+   3.10 Try using authentic sounding names for persons in your AH after the
+   POD era generation has been replaced by new ones. You can draw on the
+   names in the "Onomastikon" (Dictionary of Names) compiled by Kate Monk and
+   published at:
+
+
+           http://www.fairacre.demon.co.uk/index.htm
+
+   Kate Monk collected names from many countries and periods from ancient
+   Egypt to modern times, to help provide names for live role-players. It
+   includes male and female first names or personal names and surnames. It
+   also has some historical background.
+
+
+   Return to start
+
+
+   What is plausible technological change?
+
+   3.11 Technological change, as mentioned above, should be plausible.
+   However, you can do a plausible AH where science and technology differ
+   considerably from the real world. Bear in mind that changes in science and
+   technology are very complex. Nothing happens in isolation. A change in
+   science or technology at a POD requires changes before the POD that make
+   it possible for the change to work. For example you can't introduce a
+   steam engine without first showing a history of preceding technological
+   development in metal fabrication, machining and instrumentation. In
+   addition to showing the development of the knowledge required to make a
+   science or technology change, your AH should deal with the natural
+   consequences of the change, including further discoveries and
+   applications. If a society invents and adopts steam engines, power source
+   development will not stop there, even if it does not follow the pattern of
+   real history. Here are some tips to help your technological arguments.
+
+
+
+        * Similar societies have about the same rate of technological change.
+       A single discovery, no matter how fundamental, will usually fail to
+       transform a the long-term development of a society. A dramatic change
+       in a society's rate of technological development needs a dramatic
+       change in society itself. You can achieve this by designing an AH
+       where the working population drops and there is a demand for labor
+       saving machines, as it did in Europe in the 14th century. Or you can
+       replace a restrictive government that discourages entrepreneurialism
+       and science, such as inquisitorial Spain, with a one that encourages
+       dynamic centers of learning, as occurred in Holland in the 17th
+       century. Or you can inject new wealth into a society ready to
+       innovate to make profits, as occurred in England in the 18th century.
+
+
+        * However, it is much easier to design an AH to retard rather than
+       advance the rate of technological change. The bulk of technology
+       relies on previous discoveries being completed. A big speedup of a
+       specific technology will hit barriers as it runs beyond the
+       prerequisite components that need to be developed by other
+       technologies. In real history many "crash projects" have failed
+       because they have run beyond available inputs. The project members
+       then have to develop an incredible range of related technologies
+       before they can advance in the project. A project that attempts to
+       create a wide range of technologies quickly reaches the point of
+       diminishing returns fairly quickly. Consider the simple example of
+       the person in a Roman villa inventing a steam engine. They have to
+       develop the full range of technologies for making high quality steel,
+       boring cylinders (a technology developed in real history to bore
+       cannons), making regulatory controls (a technology developed by
+       scientists in real history ] to develop instrumentation to measure
+       the real world) etc. The problem of a technology before its time is
+       becomes worse as the technologies become more sophisticated.
+
+
+
+        * As returns diminish, wastage increases. A society with a huge
+       increase in its research budget must be able to afford to throw away
+       a lot of money. An unavoidable economic consequence of major crash
+       research programs (those that consume a significant share of Gross
+       National Product, a measure of economic wealth) as demonstrated by
+       military research during the Cold War, is that they drain money from
+       the economy, and lower economic growth.
+
+
+        * It's difficult to design an AH that plausibly "deletes" a
+       technology entirely is hard. It is rarely sufficient to remove the
+       person credited with a discovery. Except in ancient times, when there
+       was little technological change anyway, discoveries are usually the
+       result of the work of many people. Also, most of the major scientific
+       and technological discoveries were the evident goals to people who
+       had observed previous development. The achievement of most
+       discoveries is by perseverance in seeking to reach these goals. As
+       time after the previous development increases, the nature of the next
+       discovery becomes more and more obvious. Your AH can delay
+       discoveries, but the longer you delay them, the more likely the it is
+       that some researcher will make the breakthrough.
+
+
+          Many technologies have alternatives. This is particularly so for
+       core technologies such as power generation, electronics, weapons,
+       fuels, and transport and propulsion systems for land, air, sea and
+       space. For example, in real history petroleum replaced coal as the
+       major fuel because it was more efficient and less costly. If the oil
+       industry had been delayed we would have developed alternatives, such
+       as alcohol fueled engines. They have lower performance but are still
+       useful enough for to develop an early 20th century level auto
+       industry. As petroleum was developed as a source for gasoline, it
+       would displace alcohol fueled engines. A key point is that the fact
+       that a certain technology dominates usage in real history usually
+       means that the alternatives are more costly and less efficient,
+       rather than non-existent.
+
+
+
+        * Wishful thinking does not make a feasible technology. An AH based
+       on a theoretically possible technology can fail if it is not
+       practically feasible. There are many "maybe" technologies, such as
+       Maglev trains, turbine autos, and dynasoar space planes, that were
+       never seriously implemented in real history because they would worked
+       poorer and were more costly than their optimistic supporters
+       predicted, or would take an excessive development time and money
+       before the problems could be solved and they could be incorporated
+       into working real-world systems. Dream technology for space travel or
+       computers that would have made an AH better than the real world is
+       particularly suspect. Before you incorporate dream technology in your
+       AH, consider the credibility of its advocates. Often they have an axe
+       to grind with the owners of the existing technology and have a vested
+       interest in the dream technology. Or they are simply impractical
+       dreamers who ignore the difficulties inherent in the technology. The
+       technologies used in the real world, whether today or 2000 years ago,
+       are the ones which met the practical needs of society. When you find
+       a technology that was not used in real history, find the reason why
+       it was not used. If you want to introduce the technology, design your
+       AH so that reason does not exist. For example if you want a Roman
+       steam engine, you will have to create demand for labor saving
+       machinery. You would have to transform Roman society from one of
+       cheap labor to one of labor shortage. An initial step would be to
+       abolish slavery. However this is easier said than done, and you would
+       also need to make a lot of other social changes.
+
+   Return to start
+
+
+   Ancient technolology
+
+
+   3.12 Ancient technolology. An early, and vivid fictional AH proposed that
+   as an alternative to the collapse of the Roman Empire and the onset of the
+   "Dark Ages" a time-traveller would arrive in Rome and introduced twentieth
+   century technology. This was L. Sprague de Camp's 1939 novel, Lest
+   Darkness Fall. The hero introduces one invention after another, transforms
+   Rome and prevents the Fall. But you can make your what-if operate within
+   the realm of plausibility. Consider the classic AH of the Roman steam
+   engine:
+
+
+        * The Romans were good at technological development, by taking
+       existing basic concepts and improving them where it was sufficiently
+       desired and cost-effective. However they were not technical
+       innovators.
+
+
+
+        * Would the Romans be interested in developing a steam engine. It is
+       of primary value as a labor saving machine. But the romans had a glut
+       of slaves and Plebs. Consider cost-effectivness. Supply and demand
+       meant that there was nothing to be gained by developing machinery for
+       anything except toys and spectacles (temple doors etc). The Romans
+       were practical to the extreme and limited R&D to where they needed
+       it--cement, good plumbing (great baths are practical from the point
+       of view of the user).
+
+
+        * Until the mid-19th century, with the advances in Chemistry,
+       technology has developed independently of science. Practical
+       measurements and iterative tests--often extremely unsafe--were used
+       instead of mathematical modelling to develop things such as early
+       cannon and steam engines. Check out how, for example, James Watt
+       perfected the steam engine (1775).
+
+
+          The geometry that the Romans used in their construction was
+       sufficient for this project. They knew about Euclid's "Elements" of
+       geometry and there was no shortage of Greek teachers to explain the
+       finer points.
+
+
+
+        * However, it would have been beyond Roman ability to make a working
+       steam engine until they developed a boring mill to manufacture
+       cylinders. This technology was developed in Europe to make better
+       cannon. So Roman development of a working steam engine--as opposed to
+       a Hero's ball that spins by venting steam--would have depended on
+       improving their seige machinery by developing something that fired
+       through tubes. Gunpowder is not essential. The key is precision
+       matching of the tube and projectile diameters. Seems like there is a
+       possibility here for a good AH!
+
+
+        * The creative AH designer might find another reason for the Romans
+       to develop a boring mill than to make cannon.
+
+
+
+        * Alternatively, the AH designer might have the Romans stick to
+       rotation, and develop a steam turbine. However, this would have its
+       own requirements: including balancing and reliable, effective
+       bearings.
+
+
+        * Either way, they'd have to perfect fairly high-quality steel.
+
+
+          Given several centuries the Romans could solve these problems. But
+        *
+       the AH designer must motivate the Romans to do so by making labor
+       much more expensive relative to machinery.
+
+   Return to start
+
+
+   Medieval Islamic science and technology
+
+   3.13 Medieval Islamic science and technology. Early Islamic science from
+   the 9th to 13th centuries was a rare combination of means and opportunity.
+   Al-Khwarizmi, Ibn Sina, Ibn al-Haitham are examples of excellent science
+   during the early Muslim era. Their researches were not developed by later
+   generations because of a whole complex of reasons, ranging from the
+   Mongol/Timurid shattering of the intellectual culture in Bagdhad, to
+   increasing control by Islamic legalists. Reasons for the success and
+   collapse of Islamic science suggest AH's in which Islam modernizes rather
+   than stagnates.
+
+
+   Return to start
+
+
+   Early Modern Western science and technology
+
+   3.14 Early Modern Western science and technology. My impression has been
+   for some time that quantification is the key to understanding why the West
+   developed modern science and technology while neither Islam nor China did.
+   I note in this regard a recent book by Alfred W. Crosby, The Measure of
+   Reality: Quantification and Western Society, 1250-1600 (see my mini review
+   in section 3.02) argues along somewhat similar lines.
+
+
+   3.15 In particular I argue that analytic geometry, and instrumentation are
+   key factors in Europe's scientific revolution. First, analytic geometry:
+
+
+        * As early as the third century A.D. the Chinese developed
+       geometrical propositions in algebraic form and described geometrical
+       figures by algebraic equations. The Muslims acquired these techniques
+       when al-Khwarizmi was the Kalif's ambassador to Khazaria.
+
+
+
+        * But neither the Chinese nor the Muslims went on to develop analytic
+       geometry, which can reference every geometical object and every
+       geometric operation. This was first done by Pierre Fermat and Rene
+       Descartes in the 17th century, when Western scientists began applying
+       mathematics to every aspect of the physical world.
+
+   3.16 As for instrumentation and mathematics, consider a few examples:
+
+
+
+        * Huygens patented the first pendulum clock in 1656. This gave the
+       first reasonably accuracte time measurements. The pendulum clock was
+       based on Huygens theory of evolutes, specifically the cycloid. The
+       mathematical theory and the mechanical applications developed in
+       parallel. Other curves also had a "mechanical" equivalent, such as
+       the tractrix -- the curve traced by one end of a rod when the other
+       end is dragged along a line perpendicular to the initial position of
+       the rod. Mathematics also solved the problems of developing optics. 
+          A good example of the 17th century quantification of natural
+        *
+       phenomena is the development of thermometers and the mathematical
+       understanding of the expansion of air as its heat increases.
+
+
+        * No other culture independently developed scientific instrumentation
+       to match what was developed in Europe from the 17th century onwards,
+       or made mathematical calculations with detailed quantification of of
+       temperatures, pressures, chemical reactions, produced by scientific
+       hypothesis, observation and experiment.
+
+   3.17 My quantification and instrumentaion argument for the Western
+   scientific revolution requires a few important qualifications:
+
+
+
+        * The 17th century scientific revolution consisted of work by people
+       attempting a variety of goals. Some were pure alchemy and magic,
+       rather than the observation of and experimention on the real world
+       that we recognize as "science." Some of the best scientific results
+       were byproducts of projects that did not have "scientific" goals.
+
+
+        * Part of the 17th century scientific revolution was experimental
+       science, part was abstract scientific method, part was the systematic
+       application of instrumentation techniques (optics, measuring
+       devices). Sometimes they came together in the quantification and
+       sometimes they developed independently.
+
+
+
+        * Sociological, religious, economic and other non-technical reasons
+       were as important as the sequence of technical developments, which I
+       characterized as the "mathematization of science," in causing the
+       17th century scientific revolution. None of the explanations can be
+       extracted from the complex of causes.
+
+   3.18 Some of our most interesting what-ifs deal with postulated failure of
+   the European scientific revolution and its possible development by Islamic
+   or Chinese scientists.
+
+
+   Return to start
+
+
+   The English Industrial Revolution
+
+   3.19. The English Industrial Revolution. The 17th century scientific
+   revolution was not the key factor leading to the 18th century industrial
+   revolution in England, which developed mainly from hands on "technics" --
+   techniques learned by trial and error. The matching of the results of the
+   17th century scientific revolution with the industrial revolution came
+   initially in the application of the scientific instrument making
+   techniques to machines that required pressure and temperature regulator
+   and monitoring devices. Only later stages of the industrial revolution
+   required extensive use of the results of the 17th century scientific
+   revolution. This occured, for example, in the chemistry of synthethic dyes
+   in the second half of the 19th century.
+
+
+   Return to start
+
+
+   Contemporary technology
+
+   3.20 Contemporary technology. Beware if your AH goes from a technology
+   equivalent to real history's 1950s to orbital ramjets in a decade and Mars
+   colonies in three decades. This is fair game for fiction, such as S.
+   Sterling's The Stone Dogs, which was based on this premise. However, if
+   you want people to take your what-if seriously, you won't fall into the
+   trap of super easy to achieve high technology.
+
+
+          There will be a separate note to help AH designers attempt
+       technological developments that are higher-tech than real history, or
+       are high-tech in ways not developed in real history.
+
+
+   Return to start
+
+
+   4. Getting other people to discuss your AH
+
+   4.01 You are going to get a better reception for your AH if the POD and
+   the subsequent history are somewhat plausible.
+
+
+   4.02 Read recent AH articles with similar topic titles before posting. Do
+   not post the same AH as someone else. Nobody will be interested in an
+   instant replay. Try to contribute something new. Send personal notes of
+   support directly to the appropriate person.
+
+   4.03 Do not be intimidated by concern that your depth of historical
+   knowlege may be far less than that of some of the people who have posted
+   very detailed information. Just use common sense, be prepared to do a
+   little basic research, apply the following easy steps, and you will do
+   just fine. Ready? Let's start:
+
+
+   Return to start
+
+
+   Use a descriptive Subject line
+
+   4.04 Use a descriptive Subject line. "What if there was a big change in
+   history," or "Question for WI I'm thinking about," or "Nika" are not
+   likely to attract readers. Omit the words "what-if" or WI from the subject
+   line. This is redundant as this is the what-if newsgroup.
+
+
+   Return to start
+
+
+   Organize your presentation
+
+   4.05 Organize your presentation:
+
+
+
+        * Begin with a sentence that expands your Subject line enough so that
+       readers understand what you are trying to do.
+
+
+        * Explain what actually happened in real history. This is unnecessary
+       for events that are very well known such as dropping the Atomic Bomb
+       on Hiroshima in 1945. 
+
+
+          Explain what might have happened. This is your POD and what made it
+        *
+       happen differently than real history. Don't just ask a question, such
+       as "what if Germany won WW I?" without giving some hint as to how and
+       why this happened. A good WI will give a plausible explanation, such
+       as how the Germans were able to break through in their 1914 advance
+       to Paris. Do some research and think before posting your WI. No
+       explanation = rude and lazy.
+
+
+        * What are the immediate results of your POD. Don't just ask a
+       question such as "what if Caesar stayed home on the Ides March and
+       was not assassinated?" without giving some hint as as to what what
+       you think would happen. Do some research and think before posting
+       your WI. A whatif with no explanation tells people that you are rude
+       and lazy.
+
+
+        * What are the short-term results. This starts your timeline after
+       your POD. Don't just list a series of events.Try to explain why you
+       consider each event will occur, or at least some historical
+       expanation of why things will move in this direction.
+
+
+
+        * What are the consequences for the next year or so.
+
+
+        * What are the longer term consequences.
+
+
+
+        * You can offer a single AH or suggest several possibilities.
+
+
+        * These points are merely to help you organize your thoughts. You do
+       not have to write them down or use all of them. Some historical
+       events are so well known that an explanation of real history is
+       unnecessary. But you will get more of a response if you err on the
+       side of explaining enough real world history around your POD and AH
+       to allow readers to understand the difference from real history and
+       comment without having to duplicate your research. Of course, we hope
+       that they will check their facts, or be already knowlegeable about
+       the era and event, before they jump in with a detailed critique.
+
+
+   Return to start
+
+   Consider using names for your AH people 
+
+
+   4.06 Consider adding something extra to your WI, such as using names for
+   your AH people, instead of always just saying "the British did this" and
+   then "the Romans did that."
+
+
+        * When you identify historical personages by name and deal with their
+       actions after the POD, you could put their name in a special bracket.
+       For example you could say that:
+
+
+           "Washington defeated the British during the Revolutionary War.
+           As president, #Washington# served three terms before his
+           assasination by the Copperplate Society."
+
+
+        * You could similarly identify made up personages in your AH:
+
+
+           "In 1943, Chinese Emperor #Xuanzang# marked the 100th
+           anniversary of the defeat of the British in the Opium War."
+
+   Return to start
+
+
+
+   Format your text so people can read it no matter what newsreader they are
+   using
+
+   4.07 Format your text so people can read it no matter what newsreader they
+   are using.
+
+
+        * Use a blank line between paragraphs,
+
+
+
+        * Do not use lines longer than 66 characters.
+
+   This is 66 characters:
+
+
+   ******************************************************************
+
+   If you type longer lines this causes problems when people quote your text
+   -- If your WI is popular they will do this -- and after this happens two
+   or three times in replies, the ">>>" characters will push lines off the
+   right edge of the screen.
+
+
+   This will not affect you if you have a screen larger than the standard
+   VT-100 terminal.
+
+   But many readers are limited to the small screen and their newsreaders
+   will "wrap" the text before 80 characters. This means that if your
+   original line length was longer than about 66 characters, such as the
+   following two lines
+
+
+   ***************************************************************************
+
+   ***************************************************************************
+
+
+   they would be "wrapped" by Ima Betterhistorian's wuote of your post. When
+   you check your post you will see this, even if you have a big screen
+
+   Ima Historian (Imahistorian@history.com) wrote:
+
+
+   >
+   *************************************************************************
+
+   > **
+
+
+   >
+   *************************************************************************
+
+   > ** You will be further frustrated when you see what Superhistorian did
+   to your text in qutoting it:
+
+
+   Ima Betterhistorian (123@historic.edu) writes:
+
+   > Ima Historian (Imahistorian@history.com) wrote:
+
+
+   >>
+   ************************************************************************
+
+   >> *
+
+
+   >> **
+
+   >>
+   ************************************************************************
+
+
+   >> *
+
+   >> ** This completly garbles your AH.
+
+
+   For maximum readability, hit the RETURN key before 66 characters.
+
+   Return to start
+
+
+   "Double blind" AHs
+
+
+   4.08 Be cautious in posting a "double blind" AH. This works only when
+   people recognize it for what it is. A "double blind" AH is one where you
+   pretend to be an inhabitant an alternate history, and post in persona of a
+   person of an AH who is trying to guess what happens in real history.
+
+   4.09 At least one "double blind" AH discussion has been held on
+   soc.history.what-if. This was posts from an advanced tropical civilization
+   where savants discussed the possibilities that primitive Europe might have
+   developed civilization and the shambling natives might have crawled off
+   the icebergs.
+
+
+   4.10 If you wish to venture a "double blind" AH you would be wise to put a
+   little warning at the start of your posts, such as "ATTENTION: DOUBLE
+   BLIND AH, YOU MUST POST FROM THE AH TO COMMENT ON THE WI." This might help
+   to reduce misunderstandings and possible bad feelings.
+
+   Return to start
+
+
+
+   5. Avoiding problems
+
+   5.01 O.K. you have posted your WI and now you are happy to see replies to
+   it! Lets find out how to avoid problems.
+
+
+   Return to start
+
+
+   Prepare to defend your assertions
+
+   5.02 Prepare to defend your assertions. Don't base your support of your WI
+   on popular knowledge, such as Hollywood movies, or the basic textbook
+   approved by your state or national government.
+
+
+   Return to start
+
+
+   Learn how to deal with difficult people
+
+   5.03 Learn how to deal with difficult people:
+
+
+          Usenet is an entirely open medium. Anybody can read this group and
+       post to it. This means that we will occasionally see trolls
+       (outrageous postings to provoke a naive replies), flames, and
+       off-topic posts. The best way to deal with these posts is usually to
+       ignore them. If you see repeated and significant violation of the
+       Charter you can send a polite email to the offender, perhaps with a
+       copy to the postmaster at their site.
+
+
+
+        * If you personally object to a poster or subject, most news readers
+       allow the use of a Kill-file to block out undesirable postings. Refer
+       to the FAQ posted in news.software.readers.
+
+   Return to start
+
+
+   Make your comments readable
+
+
+   5.04 Make your comments readable:
+
+
+        * Edit text that you quote. Try to have no more quoted text than new
+       text. People hate to read a text again and again. Try to quote only
+       what you respond to. Mark deletions with three dots or a square
+       bracket showing [cut] or [snip] or a square bracketed short summary
+       of what you deleted, if you need to show context is important. Never
+       quote large amounts of text and add "Agree" or "me too" at the
+       bottom. Remove signatures and other personal items from quotes, but
+       include a proper attribution note at the beginning, i.e. Ima
+       Betterhistorian (123@historic.edu) writes:
+
+
+
+        * If you change the topic of a thread, or if it has drifted far from
+       the Subject header line, revise the Subject line and add "(was: old
+       subject)" to your new subject.
+
+   Return to start
+
+
+   Do not cross-post 
+
+
+   5.05 Do not cross-post (post to more than one newsgroup):
+
+
+        * Unfortunately Usenet permits unlimited crossposting. At the very
+       least this leads to different threads on the same topic in different
+       newgroups frustrates.
+
+
+        * If you want to discuss a published AH story, post to
+       rec.arts.sf.written only. Otherwise, soc.history.what-if will be
+       flooded with time wasting debates on enjoyment issues and peripheral
+       discussions such as how the movie made form the story is, or is not,
+       politically correct, e.g. one of the current Starship Troopers
+       threads. There is a limited exemption to the soc.history.what-if ban
+       on discussion of published stories. This is for speculation about how
+       the history created in the published story would work as an alternate
+       history. Note that this only applies to past history. Speculations
+       about future history should go to alt.history.future.
+
+
+
+        * Think (at least) twice before cross-posting your AH. Every time a
+       post to the major newsgroups in the alt, rec.arts, soc.culture,
+       heirarchy, or argumentative groups such as alt.revisionism or
+       talk.politics.guns, includes soc.history.what-if in the crosspost
+       list we are visited with another infestation of cranks, nuts, nazis,
+       trollsters and spammers.
+
+
+        * Do not cross post your AH to soc.history.ancient or
+       soc.history.medieval, which have Charter exclusion of what-ifs.
+
+
+
+        * More importantly, do not cross post to soc.culture.china or other
+       soc.culture groups where your post will attact all sorts of fanatics
+       who will bombard our group with their views on how to resolve current
+       political issues. Consider the consequences if your post ends up as
+       part of the discussion on the follwing crosspost line (taken from a
+       post to soc.history):
+
+           Newsgroups: soc.culture.pakistan,soc.culture.punjab,
+           soc.culture.indian,soc.culture.indian.delhi,
+           soc.culture.indian.gujarati,soc.culture.indian.marathi,
+           soc.culture.tamil,soc.culture.bengali,soc.history
+
+
+   Return to start
+
+
+   Dealing with crossposted trolls 
+
+   5.06 If you see an obvious crossposted troll to soc.history.what-if you
+   might help remove the thread from soc.history.what-if by using the
+   following strategy:
+
+
+      If you must respond to the original posting, please do so in
+   soc.history.what-if alone. Trim your headers and do not crosspost.
+
+
+
+    * If you want to respond in the other newsgroups I suggest that you
+   respond in separate posts. The original message will then be trimmed so
+   that it will henceforward be addressed to only a single newsgroup.
+
+
+    * In that way, somebody reading a flame invitation in the other newsgroup
+   will respond only in that newsgroup and leave soc.history.what-if out of
+   it. The content of your comment in the other newsgroups is at your
+   discretion, but I would note that the more it rejects the trollster's
+   idea, the more likely it will attract the rest of the discussion on the
+   thread, which may then proceed in blissful ignorance of the fact that
+   soc.history.what-if has disappeared from the newsgroup line.
+
+
+
+    * This advice works for most trollsters, who are not focused on details.
+   Regrettably there are a few ultra-trolsters who re-add trimmed newsgroups
+   to the crosspost line.
+
+   Return to start
+
+
+   Do not encourage "Holocaust deniers" to argue their views
+
+
+   5.07 Understand how to deal with historical truth as an issue, and prevent
+   Nazis who infest Usenet from making you a sucker:
+
+
+        * Alt.revisionism, rather than soc.history.what-if, is the place for
+       debates on the truth of the commonly accepted historical record. Our
+       Charter enables us to discuss alternative histories in which events
+       differ from the known historical record, rather than denials of the
+       truth of the commonly accepted historical record, such as the type
+       known as "Holocaust denial." 
+
+        * Alternate history operates on the assumption that the commonly
+       accepted historical record is substantially accurate.
+
+
+        * Secret history is dedicated to revising the commonly accepted
+       historical record. It is incompatible with alternate history. In
+       partiular we have seen many posts by a few persons who deny that the
+       Holocaust happened, or that a faulty historical record over reports
+       it. In this insance, secret history accepts an alternate history as
+       the truth rather than the commonly accepted historical record. This
+       discussion is suitable for alt.revisionism but not for
+       soc.history.what-if.
+
+
+
+        * However, the soc.history.what-if Charter does allow discussion of
+       "what if the Holocaust had never happened." Anyone posing this WI
+       should beware of the infestation of Holocaust deniers that it will
+       pull out of the woodwork. Similarly discussion of WI's in which a
+       post WW II Nazi Germania managed to suppress knowledge of the
+       Holocaust (as in the AH postulated in the novel Fatherland, will
+       probably encourage the fans of secret history to reinvade
+       soc.history.what-if.
+
+
+        * To sum up, a valid AH for soc.history.what-if cannot claim that
+       events which demonstrably happened in real history, such as the
+       Holocaust, didn't happen in real history. But a valid AH for
+       soc.history.what-if may ask how the world would have been had the
+       Holocaust, or other event denied by believers in secret history, had
+       not happened.
+
+
+   Return to start
+
+
+   Do not engage in "fanish" discussion of published AH fiction
+
+   5.08 Do not engage in "fanish" discussion of published AH fiction:
+
+
+      If you are interested in adventures in published fictional worlds, role
+    *
+   playing games and sci-fi and other fantastic entertainments, such as "1984
+   vs Draka" or "President RELee vs the Borgyou" can pursue your interest in
+   alt.worldsaway, rec.games.frp.misc, rec.arts.sf.written,
+   alt.fan.[authorsname], or at web sites dedicated to the published fiction
+   of individual authors such as Steve Stirling's Draka at
+   http://www.mindspring.com/~atalbott/index.html
+
+
+    * Unfortunately there is no specific alternate history rpg newsgroup. I
+   would encourage rpg fans to create alt.games.frp.alt-hist.
+
+
+    * If you are a fan of the excellent GURPS Alternate Earths please post on
+   rec.games.frp.gurps.
+
+
+
+    * As noted above our Charter does not prohibit discussion of historical
+   possibilities merely because they have been used in published fiction. Our
+   charter permits speculation about how the history created in the published
+   story would work as an alternate history. For example Harry Turtledove's
+   published AH stories, the Agent of Byzantium series, is based on the
+   interesting POD of Muhammed becoming a Christian and develops an AH that
+   envisions a flourishing Byzantine Empire. But other published AH's are
+   extremely improbabile, which means that most discussion of them would be
+   best done on rec.arts.sf.written. 
+
+
+    * The Charter also allows discussion of how well the possibilites of the
+   AH are realized in the published fiction. But the Charter draws the line
+   at discussion of the cardboard nature of the characters, their limited
+   viewpoint, dramatic tension or other aspects of the author's writing
+   technique such as "enjoyably nasty stuff," or "easy to pull a deus ex
+   machina out of a hat," or "[author's name] ended up unreadable." (Quotes
+   from the "1984 Vs. The Draka" thread.)
+
+
+   Return to start
+
+
+   Do not engage in discussion of future history
+
+   5.09 Do not engage in discussion of future history:
+
+
+      Note that this only applies to past history. Speculations about future
+    *
+   history should go to alt.history.future.
+
+   Return to start
+
+
+   Do not post binaries
+
+   5.10 Use binaries appropriately:
+
+
+
+        * You may reach the stage where you have a great picture or map to
+       add life to your WI.
+
+
+        * But do not post binaries in soc.history.what-if. They belong only
+       in the hierarchies explicitly intended for them. The reason for this
+       is to allow news servers with limited resources to avoid these (very
+       expensive) postings. You can post your binary to to a binary
+       newsgroup or put it on a web site and post a reference in
+       soc.history.what-if.
+
+
+   Return to start
+
+
+   Read the Charter
+
+   5.11 Read the Charter. It's short.
+
+
+   Return to start
+
+
+   6. Text of the charter of soc.history.what-if
+
+   6.01 The following is the text of the charter of soc.history.what-if as
+   approved by vote reported on May 16, 1995:
+
+
+   --[start quote]------------------------------------------------
+
+   CHARTER
+
+
+   The soc.history.what-if newsgroup will be open to discussion of alternate
+   history. This is "what-ifs" regarding specific historical events.
+
+   Specifically, but not exclusively:
+
+
+
+        * Historical events - what could have happened if they had been
+       different?
+          How could this have happened differently (i.e. discussion of how
+        *
+       the divergence could have occurred, not of what its consequences
+       would be.)
+
+   Note: the following topics are not to be discussed:
+
+
+          Revisionism regarding the Holocaust or Turkish/Armenian massacres
+       (post to alt.revisionism). "What if the Holocaust had not happened?"
+       is a legitimate question
+
+        * Future history - "What if the President were assassinated
+       tomorrow?"
+
+        * Alternate history in fictional worlds - "What if Luke had failed to
+       destroy the Death Star?"
+
+
+   --[end quote]------------------------------------------------
+
+   There is no charter for alt.history.what-if, the newsgroup that according
+   to the CFV was supposed to disappear. The rationale circulated with the
+   CFV is as follows:
+
+
+   --[start quote]------------------------------------------------
+
+   RATIONALE
+
+
+   alt.history.what-if is a thriving newsgroup. It has a reasonable posting
+   level, a well-maintained FAQ (thank you, Robert Schmunk), and a good
+   signal-to-noise level (no ad hominems, only a few flames before a recent
+   flamewar that seems to have stayed in one thread, and is dying).
+
+   But it's on alt.*. Lots of people can't get alt.*. (Lots of .ac.uk sites
+   for a start). So I propose we move it to soc.*
+
+
+   There are several other soc.history.* groups, and it will fit well into
+   that hierarchy.
+
+   If this CFV passes, a proposal will be made for alt.history.what-if to be
+   rmgrouped. I appreciate that alt.* groups never truly die, but I hope that
+   it will disappear from most sites.
+
+
+   --[end quote]-------------------------------------------------
+
+   The following is quoted from the announcement of the vote results:
+
+
+   --[start quote]------------------------------------------------
+
+   There were 166 YES votes and 45 NO votes, for a total of 211 valid votes.
+   There were 3 abstains and 4 invalid ballots.
+
+
+   For group passage, YES votes must be at least 2/3 of all valid (YES and
+   NO) votes. There also must be at least 100 more YES votes than NO votes.
+
+   --[end quote]-------------------------------------------------
+
+
+   You may obtain the complete archive from:
+
+   ftp://ftp.uu.net/usenet/news.announce.newgroups/soc/soc.history.what-if
+
+
+   Return to start
+
+
+   7. Credits and thanks
+
+
+   7.01 Thanks to Ian (iadmontg@undergrad.math.uwaterloo.ca) for the notes I
+   used to draft section 3.11 Technological change. Also for suggestions from
+   Cambias (cambias@heliograph.com), Captain Button (button@crl.crl.com),
+   Coyu (coyu@aol.com), Stan Engel (thorisporn@worldnet.att.net), Andrew S
+   Goldstein (Andrew@world.std.com), Philip Masters (Phil@philm.demon.co.uk),
+   Craig J Neumeier (neume001@maroon.tc.umn.edu), Gavin Weaire
+   (weaire@students.uiuc.edu).
+
+
+   Return to start
+
+
+   7. Copyright notice
+
+
+   Copyright © (C) 1997, 1998, Donald H. Tucker. You may copy all or part of
+
+   this document on the condition that it is not edited and the copy includes
+
+   the entire contents of at least one major section. The Introduction
+   preceding section 1, including the Table of Contents, and this copyright
+
+   notice, must remain intact in your copy. An HTML version of this document
+
+   is maintained at the Pteranodon's View website at URL:
+
+           http://www.geocities.com/Athens/Forum/4123/main.htm
+
+
+
+   Links to Other Sections of Pteranodon's View
+
+
+   This is a summary jump table to other parts of the alternate history
+   sections of the website. To reach the complete jump table (table of
+   contents, book reviews, global history, timelines, genealogy, immigrant
+   cultures etc.) please go to the main page:
+
+
+    Click on box label to    to major    covered by  Petranodon's view
+    __________   jump        topics      __________  __________   __________
+                 __________  __________
+
+    Pteranodon's Table of    Meet the    Read/Send
+    main page    Contents    Author      Comments
+
+    Alternate                Plausible   Newsgroup   Non-fiction  My What-if
+    History      AH Main     AH Writing  Posting FAQ AH Books     Scenarios
+    Intro
+
+
+   If you enjoyed the page, would like to offer suggestions for improvement,
+   or want to discuss any of the issues please send me an e-mail at 
+   pteranodon@geocities.com. Thanks.
+
+
+
+
+                               ____,__==@~~__,____
+                                ^^^\#\#[#]#/#/^^^
+                                      _/|\_
+
+                                      "   " ©1996, 1998
+
+
+   All the material with this page is copyright © 1998 by Donald H. Tucker,
+   except where otherwise specified, and may not be reprinted in whole or in
+   part, or stored, or transmitted by any means, including electronic,
+   without the prior consent of the owner, except for individual or
+   educational uses. You may make single copies without modification for
+   personal research or study. Anything used should be given the appropriate
+   citation. All commercial use, transmission and reproduction of this site,
+   without my written permission, is strictly prohibited.
+
+                                        Pteranodon logo Copyright © 1996, 1998
+                                          Page last modified November 24, 1998
+
+
+
+
+                          PLEASE LINK ONLY TO MAIN PAGE.
+                     I CHANGE OTHER PAGE TITLES AND CONTENT.
+
+
+
+
+
+
+            This page hosted by Geocities Get your own Free Home Page
+
+
+   IMAGE1

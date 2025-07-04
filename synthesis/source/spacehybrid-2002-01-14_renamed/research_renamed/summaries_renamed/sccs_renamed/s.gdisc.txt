@@ -1,0 +1,744 @@
+h65429
+s 00716/00000/00000
+d D 1.1 99/12/02 15:51:33 jmochel 2 1
+cC
+cK26377
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:51:30 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Summaries/gdisc.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44949
+cPResearch/Summaries/gdisc.txt
+cReb4786a95cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+From: uunet!juliet.ll.mit.edu!alexj
+
+Just had a thought:
+One reason that recovery might be so fast is because you don't have 
+to put any power behind the recovery.. When you strike out you are not 
+JUST putting in enough power to get the wweapon there, you are also 
+pouring in the power and effort to impart kinetic energy to the opponent.
+On the return you can put all the damage into speed!  It also takes energy
+to target and direct a weapon.  The retrun requires very little conscious 
+aiming of the weapon and thus can also be done faster.
+
+
+                                        Alex
+
+From: glhodge (Geoffrey L. Hodge)
+
+        Jim, why, in the space of one letter do you refer to me as Jeff, 
+Geoff, and Hodge?  (Just curious).
+
+        Alex, I think recovery times will be very hard to pin down.  I am
+not really basing my ideas on hard data, just on impressions and intuition,
+so hard data would be welcome.  Jym, do you still have copies of your IQP
+tapes?  One of the things I based recovery times on was my brief experience
+with Shotokan and fencing.  In Shotokan I felt that I was able to couch one
+hand in just about the time it took the other one to block or punch.  It may
+only be that I was completely inexpeienced, but it didn't feel to me that
+my recovery times were 1/2 or 1/4 of the strike speed.  I may not be the best
+example of a Shotokan student, however :-)
+        Again, Alex, I have no hard data, but I wouldn't think that aiming
+at a target would slow the strike down that much.  Perhaps a "called shot"
+would (and does, sort of, by decreasing the % chance), but most attacks in
+both our systems are thrown against fairly general locations.  This point
+may be true, I don't know, though.  I find your other suggestion--that 
+putting energy behind the attack (so as to do damage) actually slows down
+the action--to be counter-intuitive.  I can't say you are wrong, but it makes
+sense to me that that would actually speed the strike up.  After all, F=MA.
+(Not bad for a liberal arts grad, huh?  :-)
+
+        Gimm, I agree that kata should increase speed, and that they should
+be "paid for."  The way I run kata is that the kata acts as a "quick strike"
+skill if the actions are done in sequence.  The more actions in the kata,
+the less of a benefit you get from it.  In fact, a long kata at low ranks
+will actually slow you down instead of helping.  I think this is realistic.
+That's so many white belts get their butts kicked by people who just rely
+on instinct.  Do you mean that the actions should be more detailed?  Alex
+currently requires you to state the type of action, any support skills, and
+high, medium or low (is that right, Alex?).  I think that is pretty specific.
+I would not ask for greater detail, but that is just my opinion.
+
+        You say you don't think Uechi-ryu teaches "fight from press" skills,
+but instead just teaches you to fight at a comfortable range for your style.
+I guess it's all relative.  I'm sure you don't feel like you are at a press,
+but I bet the average guy on the street would when they started taking
+Uechi, or if they ever had to fight you.  Tae Kwon Do people probably don't
+think of themselves as "fighting from a retreat," but in a game system, I
+think that might be the best way to model what they are doing.
+        Well, actually, that is a bad example.  There are really two issues--
+press/retreat, and weapon length.  Kicks (in Taliesin anyway) have a greater
+weapon lenght than hand techniques.  If a TKD person fought a boxer, either
+the TKDist would feel "too close" or the boxer would feel "too far away."
+This is not a case of press or retreat, just of different weapon lenghts.
+*In game terms* I model this by saying that if the boxer wants to punch at
+a comfortable distance, he allows the TKDist be at a press (in regard to
+kicks).  If the TKDist is at a comfortable kicking range, he will appear to
+the boxer to be "in a retreat" in terms of punching.
+        Similarly, if you stuck a Uechi person against a boxer, the boxer 
+would probably feel that the Uechi person was "too close" or the Uechi
+student would feel that the boxer was "too far away."  When I said that I
+thought that Uechi teaches "fight from press" skills, I arbitrarily set a
+standard punch as the "normal" range.  That means that Uechi usually fights
+in a press, and TKD and Shotokan would fight from a retreat, in game terms.
+Do you think this is a decent way to model the different ranges, or have I
+missed your point entirely?
+
+        Giomm:  you ask what makes a retreat desirable.  Do you mean in a
+game or in real life?  In real life, it may not be an advantage, but it 
+decreases the chances either person will be hit.  I think it is similar in
+game terms.  The only reasons I can think of for a retreat to be 
+_strategically_ desirable are  1) if you have a longer weapon  2) if you
+don't want to get hurt.  I think #2 plays a bigger part in real life.
+
+        Do you think that fighting in a press should bring a negative mod
+to hit?  Do you find people of other styles have a hard time striking you
+when you close to a comfortable Uechi range?
+
+        When you say that a sidekick=roundhouse=crescent (except slower)
+you mean in terms of damage?  You are right, I have been talking to TKDists.
+I listed those as separate not because of the damage differential, but 
+because they may be used differently.  A sidekick hits the opponent from
+the front, but a roundhouse hits him from the flank.  I don't know what a
+crescent is good for, they seem sort of useless to me.
+        I have been told that the side thrust kick is the most powerful
+kick.  Have you found differently, or is it just that the difference between
+a side thrust, roundhouse and crescent is negligable?
+        Finally, why do you say that a "snap" (rotating the hips or shoulders)
+has no effect on power?  Many styles seem to feel it does (although many
+others obviously don't).  Do you have IQP data on this?  If so, I'd love
+to see it.  I'm not above basing my system on facts every now and then :-)
+
+        I thought of a couple more unarmed combat techniques.  Bite, and
+"leg hold."  Leg holds cover scissors holds and grapevines from wrestling.
+I suspect most of these techniques will be seldom used support skills.  
+Punch, kick and block will remain the primary skills for most martial arts.
+I just want to try to cover everything.  Can you think of any unarmed 
+attacks or techniques I haven't covered?  Anyone?
+
+                                                        -Jeff (not Geoff)
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+        You know- this is been very heavy.  I am getting a lot of neat 
+input out of this. I like it!  I have a request.  Let's put a SUBJECT 
+header in to indicate that it is mail that is part of this discussion.  
+        I have been busy of late but very distracted by this wonderful 
+conversation!  Let us call it DESIGN or something like that.  What do you 
+say? 
+        Second, let us be explicit as to whether we are referring to
+BT(Bardic Tales), TL(Taleisin), or SH(Space Hybrid).
+        Third, do not say "you" said.  Say "Jeff" said, or "MArk" said 
+because there are so many of us now.  I wait for breaks at work or lunch 
+and then respond so I may be answering more than one post and thus multiple 
+authors.
+        Just some ideas for you to ignore or like...
+
+ON PARRY/BLOCK
+
+Jeff says:
+>Parries better at linear attacks, blocks better at arcing,
+>swinging attacks
+
+        True- but a parry against a swing attack can be devastating if 
+successful.  
+
+ON PRESS
+>The "normal" range in
+>Taliesin will be that where the weapon is most effective.  I think Alex has
+>the normal range set at what I would call a light retreat.  I believe he is
+>trying to model the fact that most normal people are a bit tenative about
+>closing right into a slugfest (is that right, Alex?).
+
+        Absolutely.  It has little to do with being tenative though.  I chose
+what you would call a light retreat as my baseline simply because we need a 
+relative starting point.   Every fighting style I know, and most normal
+fights I have seen(not many), are at a light retreat most of the time.
+This is where people tend to be.  Only beserkers and people who are "bricks"
+do not stay ta that range.  If you are fighting in a rnage where the person
+damage you without moving forward then you are unsafe and the fight will 
+denigrate into a bloodbath.  Look at Fencing, Shotokan, Aikido, Boxing-
+you name it.  All of them fight at that "moderate retreat".  [ACtually
+Shotokan fights at a stage three or even greater retreat but that is one
+of the styles peculiarities.  ]  What about Tae-Kwon-Do, Phil?  Uechi_ryu, 
+Jim?
+
+        I think the reason for that is that is that if you are fighting 
+that close you have far less timew to see an incoming attack and react to it.
+Now, if we accept that as the most common place to fight from, it makes
+sense to make that the base for spacing.  That way the majority of players 
+won't have to figure out light retreat into their numbers and can just use 
+their base numbers.    That is why I think the "moderate retreat" should be
+the base.  
+
+
+ON DICE
+
+Yea- what Jeff and Jim said!  A base plus two dice gives the "Blessed Curve"
+and a base amount.  The only think about that is that you have to tailor 
+your partial success rules(whatever they may be) to allow for nicks and
+grazing shots.  
+
+ON GRAPPLE AND OVERBEAR
+
+In my discussions of this topic I think I have unconsiously sowed the 
+wrong seed. ALthough I said I didn't mean it.  
+Overbear can use just as much SKILL as Grapple.  Grapples are techniques 
+that utilize flexibility, coordination, and agility to hold/throw/release
+whatever.  Overbears are techniques that utilize strength and weight for 
+that purpose.  They are stylistically different.  An Aikido floor sweep and a 
+Football player's tackle are both high commitment throws.  One relies on
+pulling out the balance point, the other relies on pushing over the balance
+point.  They do the same thing(though a tackle is higher commitment, but 
+easier)  There is a distinction, but I am no longer convinced it is worth 
+modeling.  I am wavering and could go either way....
+
+ON TL MARTIAL ARTS
+
+It is funny because Jeff is moving to the more specific as I go the more 
+general. ;-) 
+
+        Some issues:
+>roundhouse kick, crescent kick, axe kick,
+        Unless you are going to go into some seriously detailed combat 
+mechanics these kicks are essentially the same!   They hit with different
+parts of the foot, and have some slightly different special effects 
+attached to them(roundhouse kick is a little [very little] faster but has a 
+more limited target range; crescent kicks are easier to do to a higher target
+and it is easier to clear an obstacle you would kick over, they are also
+better at opposite flank kicks...; axe kicks are a bitch to block, but take
+a little longer, and foreshadow more.)  
+
+>hook/slap kick
+
+        What do you mean by that?  And how do you differentiate it from an
+axe kick? 
+
+>knife/ridgehand
+        I would tend to make a ridgehand/knife the same as a punch
+unless you are going to differentiate linear crushing attacks and circular
+(swinging) crushing attacks.
+
+>side/back kick
+        I would call this a "Foot(kick)" made to the back or to the side.
+It could have support skills like "Kick to back" or "Kick to side".
+I f a support skill gets better than a primary I let it be used as the 
+primary so effectively you could have a style with just backkicks, or 
+whatever.
+
+On the matter of combat techniques:
+        What about instant attack(streams of actions with reaction rolls);
+parry, florentine, off-hand/foot, bash(this is how I distinguish thrust
+kicks from snap kicks- I chose to make snap kicks the base and use the 
+General Combat ability to put more overbear into a strike to cover thrust
+kicks.), and called shots.  How about Toughness, stat enhancements(Uechi),
+attack-while-moving...
+
+I think some styles have defense or perception as their major components.
+(Aikido).
+
+DOn't forget the styles that have mystical "bullshit"- and in the case of 
+Taliesin- MAGIC.  Ki Focus, Enhance Damage, Blind Fighting, QUivering Palm,
+Doing hand-to-hand damage over a distance, Great Shout, Ki BAttles,etc.
+
+ON SUPPORT SKILLS
+
+        In BT:  What do you guys think of directly alowing General Skills 
+to enhance support skills.  That could mean that if Chuck is doing a block,
+and both block and punch are in the general skill he would get 6% per rank!
+
+
+ON RELATED SKILLS
+Jim says:
+>       I have decided to make related skills on option. They do not reflect
+>    reality but they do allow a player to save his bacon sometimes.
+
+        I am not sure.  There is something to Related skills.  To those
+confused, a BT Related Skill is a skill that is close enough to the primary 
+skill that a percentage of it can be applied to the success chance INSTEAD of 
+the that primary skill.  Example:
+
+        I have a RANK 5 in drive truck.  I jump in the the car. I have RANK 1
+in DRive car.  They are RELATED at 4/5.  This means when I calculate ourt
+my chance to drive car, I can use 4/5 of my truck RANK to drive the car
+INSTEAD OF the RANK 1 in DRive Car.  
+
+        It is useful because if you can drive a truck at rank 5 you can CERTAINLY drive a car at least 60-80% of your chance.  However they are not
+really additive- you shouldn't get 3/4 or 4/5 of your truck RANK to add to your
+CAR rank because the principles are very similar.  So a related skill is 
+a non-additive replacement skill for a primary.  
+        One response to taht is that drive car and drive truck should be the 
+same skill and it should all be handled by a grossly complex system of 
+handling familiarity with applications of the skill.  WAHHHHH!
+
+
+ON SKILL RELATIONSHIPS
+
+Jim says:
+>       I think we need to start jumping back and look at what you are 
+>    trying to model. I need some real examples before I can be 
+>       convinced that tertiary skills exist.
+
+OKAY.....Fair enough.  Let us talk about BT:
+
+GENERAL SKILLS:
+        I think it is clear that general skills exist.  A
+general skill is an umbrella skill that creates a little mini-level-factor
+for a limited set of skills that are more related than the level factor 
+gives them credit for.  Knowledge of a martial art is my best example of 
+that.  I think we all agree that General skills exist, right?  Level
+fatcors are not very large a factor- I honestly don't think all skillscan be
+grouped accurately into 12 level factors.  The granularity on that is fairly 
+high!
+
+SUPPORT SKILLS:
+        I think this isn't a problem either.  SUPPORT skills tend to 
+give the user more proficiency at handling a particular variation on
+a primary skill.  If you always train to punch at double speed you will 
+be better at punching double speed than a person who always punched at 
+normal speed.  ENuff said....
+
+        Except Mark, in the cause of simplicity, has made support skills
+level factor wide.  In othe rwords if you have Quickstrike(PCF) you can
+apply that to nay PCF skill.  I think that was a hasty decision.  MAybe 
+applying it to the General skill the primary goes in would be better. 
+
+I currently apply it only to the primary selected by the user, and it can
+be applied to related skills at the appropriate percentage.
+
+SECONDARY SKILLS:
+
+        Here is where it gets tough.  I firmly believe in secondary skills!
+Let us take a fictional ee we will call Mark.  Please note, Jeff that all 
+three of these skills are in different areas!  In TL, as I understand it,
+a secondary must be in the same area.
+
+        Mark has "lore: ee"(8), "electrical ops."(8), and "circuit 
+design"(8).  When MArk is making a circuit design role he is probably better
+with his Lore: ee than a guy who is making the same circuit and does not 
+have the skill lore: ee.  WOuldn't you say?  And I think he probably
+has an edge in having a practical knowledge of electronics.  These are both
+secondaries.  They are other skills the player has that would positively 
+enhance his chance with that particular skill.  I agree that they must be 
+carefully picked but I think they are there.
+
+Let us take another example:  Mark has a foil skill of 5(;-)), Alex has a 
+foil skill of 5 as well(;-);-)) and he has a 4 in saber and and a 4 in epee.
+All else between them is equal(;-);-);-)).  They are both required to make a 
+thrust with the foil at a target(a straight use of the primary foil skill). 
+ It is my opinion that ALex will have a higher success chance than Mark will- 
+above and beyond the 2% that his PCF is higher than MArks.  
+I feel that this is the result of secondaries.  
+
+ON TERTIARIES
+        Tertiaries are merely souped down secondaries.  They cover the fact 
+that some skills DO contribute but maybe not as much as a secondary would.
+They cover things like Electrical Ops.  maybe in the EE example above.  
+Things that have an impact but maybe not as major a one as 3% per RANK say!
+
+ON PERCEPTION
+
+Jim says:
+>       Why does a passive perception take no time and get 50% of the 
+>       chance ? Why is the rule for handling passive perception so simple
+>   and the rules for active perception so much more complex ? 
+
+        It isn't that simple- it is just taht you must know what the active 
+perception number is before cutting it in half to generate passive perception.
+
+        The reason passive perception if 0 time is because in real life we 
+are perceiving all the time, every count!  The fact is that a person can 
+register somehting without actually putting conscious mental activity to it
+or placing it in his/her que of things "to do".  It is a reflection of the 
+fact that the system is not granular enough to handle the whole process of
+intepretation of sensory data that is constantly going on.  
+        Ithink it is foolish to not just giv epeople passive perceptions
+on a regular basis when you rae not sure if they are going to catch something 
+or not.  
+
+ON REACTION SPEED
+
+How does speed work in SH Jim?  COuld you tell us what you currently have 
+implemeted?  I know we all have a copy of TL, vers 2, and we all are 
+completely all over BT initiative;-)!
+
+ON KATA
+
+I REALLy like the idea that KATA don't give that much bonus chance to do
+the skills(maybe a tertiary-1%?) but give SPD bonuses!  WHat do you guys 
+think of that?
+        Her eis a skeletal draft for BT:
+
+        Organization is as Jim and I set it up:  An ordered sequence of 
+actions that specify mid, high, or low level of target; any support
+skills utilized; and facing(what direction the attacks goes in).
+
+        The Kata skill(a different skill for each Kata but all contributed 
+to by the General skill for that set of actions) would be a secondary to
+the skills within it and would give (RANK-2) to all actions within the
+Kata.  Notivce this makes attempting to use a KAta until RANK 2 slower than 
+just using the skill normally- a very realistic effect. 
+
+        Kata would be dififcult to learn AND they would be more and more 
+difficult base don how many moves they contain.
+
+ON RETREATING
+Jim says:
+>       Lets stop and think for a second. What does retreat give you
+>    that would allow you to think of it as desirable ? I am not
+>    saying it is not. I just want to hear what people think.
+
+        Look at SHotokan for the answer to that.  Shotokan fights in a 
+retreat because its primary attack technique allows it to cover the 
+distance into melle range quickly.  Being at a retreat makes it really
+hard for the opponent to hit you(unless thay have similar skills).  ALso,
+if you want to draw out a battle, refusing to fully commit allows you to 
+last longer(as well as your opponent).  The other thing is that you can 
+step back and plan, or clear your head in a high retreat because you know 
+your opponent can't immediately strike at you.  
+Those are some of the reasons.
+
+Enough!  See you soon!  This is VERY useful!
+
+
+                                                Alex
+
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+        Aliks: :-)  When I refered to my experience in fencing and Shotokan,
+I was not talking about lunges or great blows.  The effects of recovering
+from a lunge are obvious.  I was just talking about the exercises we did in
+practice.  You know the Shotokan drills where you just stand in horse stance
+and punch and block over and over?  When I did those, I felt that my
+"recovering" hand got couched just about the same time my punch would have 
+landed.  Perhaps I could have sped it up (perhaps not), but I couldn't
+do that without concentrating on that hand.  The beauty of recovery is
+that it requires less thought than attacking.  I think that means that less
+effort is put into making it happen quickly, but this is just based on my
+experiences.  My argument is not whether recoveries *can* be faster than
+attacks, only whether they usually are.
+        You (Alycz :-) make an interesting point about the arm continuing
+the strike even after it has impacted.  Maybe that is part of our difference
+of opinion.  Some of that time is still the strike, but some of it is the
+recovery time.  I don't think we will ever get hard evidence good enough
+to break actions into 1/4 or 1/5 of a second.  I will probably say the
+strike is ended when it has impacted fully.  The recovery begins automatically
+on the next segment, taking a time equal to the attack.  Critical misses,
+block or parries will slow recovery time.  Realistically, these situations
+probably require the person to re-react.  People expect to hit, miss, be
+blocked or parried, but they don't expect "criticals."  In game terms
+I think it would be too cumbersome to make people re-react for recoveries,
+so I will just stick some extra time onto their recoveries instead.
+
+        Alex, yes and no, I both do and don't want to be "that complex"
+with my combat techniques.  I intend to make "Kick" the primary skill.  I
+expect most people to be happy with that.  If somebody does want to be a
+martial artist, or if someone does need to hit the side of the head with
+a kick, I would like to have some system in place to cover those things.
+In other words, yes, please send me your list of various hand techniques.
+I will hopefully be able to condense them to a few basic ideas, or maybe
+even cover them with what I already have, but I would like to know what
+they are.
+
+        I think I chose the term "snap" poorly.  I agree with Alex about
+the kinetics of snap kicks vs. thrust kicks, but that isn't what I was 
+talking about.  Forget the word "snap."  What I wanted to cover is the
+technique of rotating the body roughly 1/4 turn during an attack.  It is
+not as powerful as a spin, but many styles claim that it adds force to
+an attack.  From a front stance, a rear leg kick will have more force than
+a front leg kick, and stepping into a punch will generate more force.
+Many styles encourage students to swivel their hips and/or shoulders during
+an attack to add extra power.  This is what I was trying to model.  I 
+don't know if it can be done with just that one skill.  If Jym is right,
+it might not be worth modeling at all.
+
+                                                        -Jeff
+
+From uunet!sbcs.sunysb.edu!pmt Wed Aug 28 19:46:14 1991
+
+>From alexj@juliet.ll.mit.edu Wed Aug 28 17:13:15 1991
+>
+>In real life most shots are, IMO, called shots.  We just don't call them 
+>that.  People really don't just swing and randomly impact a part of a 
+>person's body.
+
+I agree.
+Have you ever watched two good black-belts go at it?  They don't attempt
+to attack every 2d10 segments.  They circle around, wait for openings, then 
+strike when they might be effective.  I don't think any of the game systems
+I've used (my BT is a bit rusty though...) model this very well.
+I don't know of a way to model it and keep it simple though.
+
+>From alexj@juliet.ll.mit.edu Wed Aug 28 17:13:15 1991
+>
+>I think the snap really does have an effect- and thrust kicks are more 
+>capable of moving someone, and throwing them back then doing damage.  
+>According to my experience and little knowledge of the mechanics.  Snap
+>kicks do more damage becaus eof the shockwave they impart on the body.  
+>Thrust kicks are a little slower and spend mor etime pushing against the 
+>opponent...
+
+I agree.  But I'd keep damage the same for both, possibly favoring
+thrust kicks.
+
+>From glhodge@umassmed.UMMED.EDU Wed Aug 28 17:52:44 1991
+>
+>What I wanted to cover is the
+>technique of rotating the body roughly 1/4 turn during an attack.  It is
+>not as powerful as a spin, but many styles claim that it adds force to
+>an attack.  [...]
+>Many styles encourage students to swivel their hips and/or shoulders during
+>an attack to add extra power.  This is what I was trying to model.  
+
+I'd say more like an 8th of a turn, a 1/4 turn would extend range but would
+not increase damage.
+
+>it might not be worth modeling at all.
+
+True.
+
+>From glhodge@umassmed.UMMED.EDU Wed Aug 28 18:08:39 1991
+>
+>       Hey, did you guys get Phil's letter?  Phil, my header listed only
+>me as a recipient.
+
+No they didn't.  It was just little stuff, more aimed at TL so I only
+sent it to you (Jeff).
+
+>From glhodge@umassmed.UMMED.EDU Wed Aug 28 18:08:39 1991
+>
+>       What is a "half-fist?"  
+
+Start with an open hand.  Fold in all four fingers at the joint in the middle
+of the fingers.  Your palm should be visible (if you look at it :-) and
+not scrunched up.  That's a half-fist.  Good for getting into tight places
+like throat or solarplexis.
+
+>Also, what are "inverted punches?"
+
+Punches that land with the palm side up.
+
+>Aside from that, a "double punch" sounds like a
+>florentine punch-punch at specific areas.
+
+But it is truly simultaneous, and it is taught as a single skill, hence I 
+don't think there should be a penalty.  (Although a double punch uses both
+hands, hence you are committed and have very little chance to block anything).
+
+Phil
+
+From uunet!juliet.ll.mit.edu!alexj Wed Aug 28 19:46:30 1991
+
+NOTE: Al ot of this is just my opinion base don my experience.  I would
+ask for input form MArk on some of the Fencing query and PHil and Jim on
+the MA stuff- particularly on the kick question!
+
+ON RECOVERY
+
+Geoff;-) says:
+>One of the things I based recovery times on was my brief experience
+>with Shotokan and fencing. 
+
+It is interesting to note that you use two styles that have as there 
+primary powe roffensive attack as a lunge.  Every Shotokan punch is a
+great blow, lunge punch compared to other martial art punches.  Recovery
+from  these is unbelievably slow!  You have to recover from the great 
+blow AND the lunge!  Fencing, while less committed is also a fairly high
+committment art once an attack is truly launched.    I think this may
+bias your feelings about recovery time(my opinion only!) .  
+
+My personal experience with all sorts of attacks(including long sword in
+SCA) is that it is considerably faster(I wouldn't have said 1/4 as Jim's
+data seems to indicate but probably a half.)  
+
+
+>Again, Alex, I have no hard data, but I wouldn't think that aiming
+>at a target would slow the strike down that much.  Perhaps a "called shot"
+>would (and does, sort of, by decreasing the % chance), but most attacks in
+>both our systems are thrown against fairly general locations. 
+
+In real life most shots are, IMO, called shots.  We just don't call them 
+that.  People really don't just swing and randomly impact a part of a 
+person's body.  What the random location chart and normal strikes try to
+model is the way an opening occurs and the person aims and strikes for that
+opening.  I thin kther eis alot of energy expended on controlling the angle 
+and direction of the attack.  This is critical.  Beginning swords people 
+often start hitting people with the flat of their blades in the first 
+frenzies of combat!   I honestly don't know how much energy is expended 
+in that though- just that some percentage is.
+
+Jeff says:
+> I find your other suggestion--that 
+>putting energy behind the attack (so as to do damage) actually slows down
+>the action--to be counter-intuitive.  I can't say you are wrong, but it makes
+>sense to me that that would actually speed the strike up.  After all, F=MA.
+>(Not bad for a liberal arts grad, huh?  :-)
+
+Typical strikes don't end when they make contact with the body of the 
+opponent- the attacker is still pushing the blad eand supporting it as it 
+passes through the body.  A lot of the enrgy expenditure of a strike occurs
+on impact.  I don't know how much though.  Jim, do you have any data about
+how much energy is used once astrike hits compared to getting the strike 
+there?  Maybe it is minimal- I am not sure.  My gut impression is that a lot
+of the arms energy is used at and after that point- and recovering the blade 
+isagainst no resistance and the balde/punch doesn't have to be as firm when it is couched..... just my opinion.  You are correct though, Jiff;-), F does 
+equal MA.  And if it turns out that the velocity of the weapon just before 
+impact imparts most of the damage then it would indicate that the recovery 
+times would be closer(unless of course the muscle groups in the limbs are 
+faster at contracting than expanding?  Any physiology expertise out there?)
+
+
+>You say you don't think Uechi-ryu teaches "fight from press" skills,
+>but instead just teaches you to fight at a comfortable range for your style.
+>I guess it's all relative
+
+I agree - it is all relative.  I make levels of press and retreat be based
+on weapon length.  Uechi punches actually have a significantly shortewr weapon
+length than a Shotokan punch!    I think that might be the key- and Jim I think 
+Uechi does take skills in Fight in a Press.  Just MO.!
+
+> A sidekick hits the opponent from
+>the front, but a roundhouse hits him from the flank.  I don't know what a
+>crescent is good for, they seem sort of useless to me.
+
+DO you relly want to judge strikes on that scale of complexity?  If so there
+a whole host of martial art strikes I could give you which are basically
+hand strikes that allow for a different access angle or more convenient 
+strike potential!  
+
+>Finally, why do you say that a "snap" (rotating the hips or shoulders)
+>has no effect on power?  Many styles seem to feel it does (although many
+>others obviously don't). 
+
+I think the snap really does have an effect- and thrust kicks are more 
+capable of moving someone, and throwing them back then doing damage.  
+According to my experience and little knowledge of the mechanics.  Snap
+kicks do more damage becaus eof the shockwave they impart on the body.  
+Thrust kicks are a little slower and spend mor etime pushing against the 
+opponent...
+
+Phil?  Jim?  COnfirmations?  Opinions?  
+
+
+                        Alex 
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+        Alex, I agree that people spend most of the time in what I would
+call a "light retreat."  It does make some sense to make that the norm, but
+there are also reasons not to.  I don't think that BT or TL have a press/
+retreat system that is easy or attractive enough for people to use in a 
+game as much as press/retreat is used in real life.  In a real combat, 
+people may spend most of their time in a TL "light retreat" but they close
+to make most of their attacks, then shift back to the light retreat.  I
+chose to set the distance where most of the attacks occur as the norm.
+I think they are just two different ways of doing the same thing.  Until
+I have a better press/retreat system, I will just assume that PCs are more
+brave and/or bloodthirsty than real people.  That usually seems to be true :-)
+
+        On grapple & overbear (BT & TL):  I agree that some techniques 
+use more strenght and weight (like tackle) and some use more finess (like
+various aikido throws).  I am just not sure it is worth having two separate
+"styles" of combat.  Let strength and weight be big mods for tackle, but
+smaller mods for throws.  I'd just like to get rid of the duplicate skills.
+The ones that bother me most (BT and TL) are the "hold," "throw," and
+"release" skills.  In my brief experience with aikido, I was convinced that
+a person who is not terribly strong or heavy, could, with much practice,
+learn to toss someone Kyle's size around the room.  But I also found that
+the larger and stronger aikidoka had big advantage, even though they were
+doing aikido, which is not supposed to emphasize strength.  Nate and Kyle
+are good examples.  My point is, that for holds, throws, and releases,
+if skills are equal, I think the bigger, stronger person will have an
+advantage.  If you buy this argument, then all holds, throws, and releases
+could be covered by grapple skills (getting rid of overbear), but would
+get a large positive modifier for strength and weight.  The effects of this
+constant mod would diminish as combatants become more skilled.  I think
+this models reality, but I don't have a firm enough grasp on reality to
+be sure!  :-)
+
+        Alex, thanks for the list of combat options I forgot.  Some I left
+out on purpose because they are "generic" fighting skills rather than
+unarmed combat skills.  Taliesin covers florentine, bash, parry, called
+shot, "mystical" skills (somewhat), and toughness (in the form of Physical
+Fatigue).  I had not thought of off-hand/foot, attack-while-moving, or
+instant attack.  Off hand/foot is good, attack while moving might just be
+an exceptionally easy combat acrobatics (I don't know).  What is instant
+attack?  Is this the Shotokan response-without-taking-time-to-react that
+you mentioned earlier?  Could this just be a preset: "If I am surprised or
+confused I preset a quickstrike punch?"
+        A hook kick, btw, is like a roundhouse in reverse.  The leg swings
+backwards and strikes with the heel.  A slap is similar.
+        I have done a fair amount of casual research to come up with this
+list of skills, but I am afraid that there is some weird Tibetan style that
+has ten thousand attacks that I have never heard of!  Oh well.
+
+        I definately believe in related skills, general skills and support
+skills.  I think it is amusing to watch how BT and Taliesin are developing.
+I stole most of my combat options and several other good ideas from BT,
+now BT is slowly developing a "tree structure" similar to Taliesin.  Level
+factors are similar to fields, and general skills similar to areas.  I guess
+we must be on the right track, huh?  Btw, this last week of discussion has
+been infinately more valuable to me than a year of being subbed to g-mast.
+You guys are an amazing resource.  I'll return the favor as best I can.
+(You pat my back and I'll pat yours :-)
+
+        I also agree with Alex that perception occurs all the time.  That's
+what makes it such a bitch to model.  I also decided that the best way to
+go was to have cumulative positive mods with time.  The longer something
+occurs, the more likely you are to notice it.  The only problem I have is
+modeling the continuous effect of dice luck.  For example, lets say that
+"realistically" a person should get a combat perception roll every segment
+(or count).  The person could roll brilliantly well on the very first seg
+and know everything about the incoming attack.  Likewise, the person
+(especially if it were Britt), could roll a string of 80s and 90s and 
+never know what hit him.  More likely, the person will realize somewhere
+in between what is going on.  The point at which you realize an attack
+is coming is a very important thing in a fight.  One dice roll cannot
+determine *when* you notice an attack--only *if* you notice it, and how
+much you notice.  I don't know what to do about this though.
+
+        Finally, Alex, I (obviously) like the idea of having Kata only
+increase the speed of specifically sequential actions.
+
+        Let's keep this discussion going.  At this rate, I'll have
+Taliesin 3.0 out in another month :-)
+
+                                                        -Jeff
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+        Thanks, Phil, for defining your terms.  A half-fist is what I thought
+it was.
+
+        I agree with Phil and Alex that people generally always make called
+shots.  As Alex pointed out, the random hit location can be assumed to be the
+place where the best target opened up.  This is not strictly realistic, but
+seems to be the best available model.
+
+        Phil points out, correctly I believe, that most of a fight is spent
+moving around and looking for openings (and also, I think, regaing fatigue).
+I don't know if there is any way to really model this.  I'd like to, but I
+can't think of a good way.  The idea of just attacking as quickly as you
+can is the best strategy in most game systems, but isn't very realistic.
+I have toyed with the idea of giving large bonuses for taking the time to
+make combat perceptions to increase the chance to hit, but the only systems
+I could come up with would have unbalanced the TL combat system.
+
+                                                        -Jeff
+
+E 2
+I 1
+E 1

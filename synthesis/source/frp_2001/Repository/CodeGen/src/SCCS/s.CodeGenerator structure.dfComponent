@@ -1,0 +1,247 @@
+h57458
+s 00216/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK19148
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/CodeGenerator structure.dfComponent
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK20829
+cPsrc/CodeGenerator structure.dfComponent
+cR87af55dd
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+package id3bza2c2bh9rluc2bh9t4n;
+
+/**
+@version 2.0
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node1:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node3:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node5:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node7:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node9:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node14:oiref><oihard>
+@__modelType reference 
+*/
+class reference15 {
+}
+/**
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node17:oiref><oihard>
+@__modelType reference 
+*/
+class reference18 {
+}
+}
+/**
+0
+@__tags
+@shapeType ComponentDiagram 
+*/
+class __tags {
+}
+/**
+@__options 
+*/
+class __options {
+}
+/**
+@__positions <oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node14:oiref>=317,28,164,104,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node5.link20:oiref>=296,379,82,273:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node:oiref>=321,179,142,63,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node1:oiref>=444,378,132,51,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node3:oiref>=381,283,63,50,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node5:oiref>=253,379,131,50,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node7:oiref>=14,170,136,103,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node9:oiref>=176,184,58,50,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node17:oiref>=534,157,183,124,1:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node.link:oiref>=412,242,412,283:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node5.link:oiref>=340,379,402,333:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node1.link:oiref>=510,378,423,333:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node.link11:oiref>=321,209,234,209:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node7.link:oiref>=150,209,176,209:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node.link16:oiref>=403,179,403,132:oigroup>
+<oigroup:<oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node.link19:oiref>=463,210,534,210:oigroup>
+*/
+class __positions {
+}
+/**
+@shapeType Component
+@__modelType node
+@name Code generator 
+*/
+class node {
+/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node3:oiref><oihard> 
+@stereotype use
+*/
+class link {
+}
+/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node9:oiref><oihard> 
+@stereotype bind
+*/
+class link11 {
+}
+/**
+@shapeType NoteLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node14:oiref><oihard> 
+*/
+class link16 {
+}
+/**
+@shapeType NoteLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node17:oiref><oihard> 
+*/
+class link19 {
+}
+}
+/**
+@shapeType Component
+@__modelType node
+@name CommonTags 
+*/
+class node1 {
+/**
+@shapeType SupportsLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node3:oiref><oihard> 
+*/
+class link {
+}
+}
+/**
+@shapeType Interface
+@__modelType node
+@name Tag library 
+*/
+class node3 {
+}
+/**
+@shapeType Component
+@__modelType node
+@name ClassTags
+*/
+class node5 {
+/**
+@shapeType SupportsLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node3:oiref><oihard> 
+*/
+class link {
+}
+/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node7:oiref><oihard>
+@stereotype access 
+*/
+class link20 {
+}
+}
+/**
+@shapeType Component
+@__modelType node
+@name ClassMetaData 
+*/
+class node7 {
+/**
+@shapeType SupportsLink
+@__modelType link
+@__ref <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.node9:oiref><oihard> 
+*/
+class link {
+}
+}
+/**
+@shapeType Interface
+@__modelType node
+@name MetaData 
+*/
+class node9 {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note1
+@text Code template
+This is a XML document
+that contains the template
+code that the generator
+uses to produce the source
+code. 
+*/
+class node14 {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note2
+@text Source code
+When the generator
+processes the template it
+produces source code that
+can be compiled when the
+generation process is
+complete 
+*/
+class node17 {
+}
+E 2
+I 1
+E 1

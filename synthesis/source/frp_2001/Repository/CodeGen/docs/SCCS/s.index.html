@@ -1,0 +1,202 @@
+h43255
+s 00171/00000/00000
+d D 1.1 00/08/14 16:15:53 jmochel 2 1
+cC
+cF1
+cK09827
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:53 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/docs/index.html
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK33425
+cPdocs/index.html
+cR87720ef2
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+<HTML>
+<HEAD>
+<TITLE>
+CodeGenerator Documentation
+</TITLE>
+<LINK REL ="stylesheet" TYPE="text/css" HREF="styles.css" TITLE="Style">
+</HEAD>
+<BODY BGCOLOR="white">
+<H1>CodeGenerator v2.0</H1>
+<H2>Description</H2>
+<P>CodeGenerator is a tool for dynamic code generation using code templates, metadata modules, and customized tag libraries.<P/>
+<H3>Features</H3>
+<P>
+<UL>
+<LI>Support for custom tag libraries</LI>
+<LI>Support for custom metadata modules</LI>
+<LI>Support for 3 different compilers</LI>
+<LI>Can be used as a standalone application, or embedded in other applications</LI>
+<LI>Configurable through properties files</LI>
+<LI>Licensed as OpenSource</LI>
+</UL>
+
+<H2>Documentation</H2>
+<H3>Introduction</H3>
+<P>
+Every now and then the need to generate source code arises. Examples range from distributed proxies, to database interaction, to entire JavaBeans classes. Often the code needed to create these kinds of classes are very similar and differences rely on some small set of metadata. It would then be useful to be able to make a template for how the code looks like in general, and only specify that small set of metadata as "programming". The tool should then merge these two sources of input and create the final source code, that can then be compiled into a real Java class. 
+</P>
+<P>
+The CodeGenerator does just that. It can simplify many repetitious coding tasks and in doing so not only speeds up coding, but also reduces the possibility of bugs as less code is produced manually. Thus, the entire task of programming is greatly simplified.
+</P>
+
+<H3 >Download</H3>
+<P>
+The latest version of CodeGenerator can be downloaded <A HREF="http://www.dreambean.com/download/">here</A>.
+<P/>
+
+<H3>How it works</H3>
+<P>
+The CodeGenerator works by the following model. A code template is used as main input. It is written in XML and a simple example looks like this (taken from /lib/debug.jt in the distribution):
+<pre>
+// This code has been generated on &lt;now/&gt;. Do not modify!
+&lt;hasPackage&gt;package &lt;packageName/&gt;;&lt;/hasPackage&gt;
+
+public class &lt;className/&gt;Debug
+  implements &lt;className/&gt;
+{
+   &lt;className/&gt; obj;
+
+   public &lt;className/&gt;Debug(&lt;className/&gt; obj)
+   {
+     this.obj = obj;
+   }
+   
+   &lt;method&gt;
+   public &lt;returnType/&gt; &lt;methodName/&gt;(&lt;parameter&gt;&lt;type/&gt; &lt;name/&gt;&lt;comma/&gt;&lt;/parameter&gt;)
+      &lt;hasExceptions&gt;throws &lt;exception&gt;&lt;type/&gt;&lt;comma/&gt;&lt;/exception&gt;&lt;/hasExceptions&gt;
+   {
+      System.out.println(obj+".&lt;methodName/&gt;("+&lt;parameter&gt;&lt;name/&gt;+"&lt;comma/&gt;"+&lt;/parameter&gt;")");
+      &lt;returnResult/&gt; obj.&lt;methodName/&gt;(&lt;parameter&gt;&lt;name/&gt;&lt;comma/&gt;&lt;/parameter&gt;);
+   }
+   
+   &lt;/method&gt;
+}
+</pre>
+<P>
+This template uses a set of custom tags. These tags are interpreted and exchanged with code. This is done by, for each tag, searching the installed tag libraries and checking whether a tag library contains code to handle the given tag. If so the tag library is called and the result replaces the tag in the source.
+</P>
+<P>
+When all tags have been replaced with actual code the generator is done and various actions such as compilation of the source may be done.
+</P>
+<P>
+The overall structure of the generator can be seen in the image below.
+<IMG SRC="uml/CodeGenerator/images/CodeGenerator structure_ComponentDiagram.gif"><BR>
+In this diagram I have included the sample metadata module ClassMetaData (provides metadata about a given class) and the tag libraries ClassTags (which use ClassMetaData) and CommonTags (simple and useful tags). Additional tag libraries and metadata modules can be added as explained below.
+</P>
+
+<H3>Tag libraries</H3>
+<P>
+The tags in the XML source code template are replaced by the generator through the use of specified tag libraries. The tags themselves are implemented as public methods or attributes of a JavaBean, i.e. a simple Java class that has a public default constructor. The mapping between methods and attributes in the tag library and the XML tags are as follows:
+<UL>
+<LI><STRONG>Attributes</STRONG>: 
+these refer to public attributes that you have defined in your code generator. Example: <CODE>&lt;returnType/&gt;</CODE> is an attribute of the ClassTags tag library</LI>
+
+<LI><STRONG>Simple tags</STRONG>: 
+these refer to public methods which return a string and have no arguments. Example: &lt;now/&gt; is a public method in the CommonTags tag library that computes the current time/date and returns it as a string</LI>
+
+<LI><STRONG>Block tags</STRONG>: 
+these refer to public methods which return void and take a string (the body of the block)as argument. Example: &lt;method&gt;...&lt;/method&gt; is a public method in the ClassTags tag library that iterates over all public methods of the class that the ClassMetaData metadata module points to.</LI>
+</UL>
+<P>
+Attributes are typically used for simple attributes that are calculated before they are used in the template. Simple tags are typically used for attributes that need to be dynamically created from the current context, such as the <CODE>packageName</CODE> tag in the ClassTags tag library. Block tags are the most powerful as they allow for iteration and introduction of additional context that wrapped tags may use. For example, the following code creates a parameter list of a method:
+<PRE>
+&lt;parameter&gt;&lt;type/&gt; &lt;name/&gt;&lt;comma/&gt;&lt;/parameter&gt;
+</PRE>
+<P>
+<CODE>parameter</CODE> is a block tag that iterates over the parameters of the current class (this in itself uses the block command <CODE>method</CODE> which iterates over the public methods in a class). For each parameter it sets the attributes <CODE>type</CODE>, <CODE>name</CODE> and <CODE>comma</CODE>. After this contextual info has been set it calls the code generator to generate the body of the tag, which will in turn replace the remaining tags with the proper values. This is implemented as follows:
+<PRE>
+   public void parameter(String template)
+   {
+      Class[] paramTypes = null;
+      if (currentMethod != null)
+         paramTypes = currentMethod.getParameterTypes();
+      if (currentConstructor != null)
+         paramTypes = currentConstructor.getParameterTypes();
+      
+      for (int i = 0; i < paramTypes.length; i++)
+      {
+         type = getTypeName(paramTypes[i]);
+         name = "arg"+i;
+         comma = (i == paramTypes.length-1 ? "" : ", ");
+         
+         gen.generate(template);
+      }
+   }
+</PRE>
+<P>
+In addition to the above requirements for the tag implementation, the tag library must implement the class <CODE>com.dreambean.codegen.TagLibrary</CODE> which allows it to be hooked up with the code generator. As you can see above in practice all block tags use this callback to recursively generate the body of the tag.
+</P>
+<P>
+Please look in the source code of ClassTags and CommonTags for more examples of how to implement a tag library. A code generator can use several tag libraries, but if two or more libraries implement the same tag there are no rules for which library will be used to generate that tag. Therefore you should be careful when using several tag libraries so that they are not in conflict with each other.
+</P>
+<H3>MetaData modules</H3>
+<P>
+It is often required to provide some input to the code generator besides the code template. For example, the code generator comes with a ClassMetaData module which allows the tag libraries to use information about a given class in order to generate the results of some tags. Other examples would be to use some XML-file with metadata about the source to be generated. To allow maximum flexibility I have added the possibility to add custom metadata modules which provide such information to be used by tag libraries.
+</P>
+<P>
+The rules that the metadata module must follow are these:
+<UL>
+<LI>It must implement the interface <CODE>com.dreambean.codegen.MetaData</CODE></LI>
+<LI>It must have a public default constructor</LI>
+</UL>
+<P>
+The first rule is to allow the metadata module to gain a callback to the code generator. The most useful reason for the module to have access to the generator is that it may use the configuration of the generator to access needed information. For example, the provided ClassMetaData module looks in the configuration for the "class" parameter which it uses to instantiate and introspect the named class. Other uses could be to retrieve names of additional XML-files containing metadata about the code that should be generated.
+</P>
+
+<H3>Configuration</H3>
+<P>
+When you have created the tag libraries and metadata modules that your specific application needs you need to configure the code generator to use them. The generator uses configuration information from 3 different sources:
+<OL>
+<LI>System properties</LI>
+<LI>The resource named <CODE>codegen.properties</CODE></LI>
+<LI>A programmatically given configuration in the form of a Properties object</LI>
+</OL>
+<P>
+These are combined in the order above to the final configuration. So for example, if the property <CODE>codegen.template</CODE> is given in the codegen.properties file it can be overridden by specifying it in the Properties object given to the <CODE>com.dreambean.codegen.Main</CODE> constructor. The Main class can be used as a standalone application, and the parameters given to it are translated into a Properties object using the following rule: the application startup parameters are traversed and if a parameter starts with "-" the name of it is used as key and the next parameter is used as value, e.g. "java com.dreambean.codegen.Main -class java.util.Observer" will set the parameter "class" to "java.util.Observer". 
+
+<H3>Standalone application usage</H3>
+<P>
+The code generator is packaged as a standalone application in /lib/codegen.jar. This is an executable jar file. On a Windows machine you can for example execute it with parameters in the following way:
+<PRE>&gt;codegen.jar -class java.util.Observer</PRE>
+<P>
+The standard packaging uses the debug.jt template which generates a class that implements the given interface and logs all invocations to System.out and delegates the call to another object implementing the same interface. Packaging info can be seen in /lib/resources/codegen.properties. Change this and the packaging script /bin/createjar.cmd to create custom code generator applications that uses your own tag libraries, metadata modules and template.
+
+<!-- Not yet
+<H3>API and UML</H3>
+<P>
+This project has complete <A TARGET="docs">HREF="api/index.html">JavaDoc</A> and <A TARGET="docs" HREF="uml/CodeGenerator/ProjectReport.html">UML</A> documentation.
+-->
+
+<H3>ToDo</H3>
+<P>
+All current things that needs to be done (new features and bug fixes) is on <a href="todo.txt">this list</a>. It will also show approximately what has been done.
+
+<H3>Support</H3>
+<P>Contact me if you have any questions about this application at <A HREF="mailto:rickard@dreambean.com">rickard@dreambean.com</A>. Bug reports and enhancement requests are also welcome.
+<P/>
+<H3 >License</H3>
+<P>The license for CodeGenerator can be found <a href="license.txt">here</a>
+<P/>
+</BODY>
+</HTML>
+E 2N
+I 1
+E 1

@@ -1,0 +1,56 @@
+h44787
+s 00028/00000/00000
+d D 1.1 99/12/02 15:40:02 jmochel 2 1
+cC
+cK05946
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:59 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/new.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44880
+cPCampaign/Karban/Hell/new.txt
+cReb4785ec5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Sgt Chok Wilder - Artillery
+Sgt Erica "EEK" Elaine Corey (F) - Artillery
+Tpr Marla Wills (F) - Calvin (Shuttle Pilot, Verti Pilot).
+Tpr Danielle Vam Damn (F) - Elysian ( HTH, Master Parkhurst)
+Tpr Antony Pierde' - Heavy Weapons Specialist (Gatling Laser)
+Tpr Liam Ward - Calvinist,Artillery
+Tpr Dan Farley - Heavy Weapons,Demolitions
+
+Tpr Hal Calahan "LowCal" Kolben - Scout Suit specialist.
+Tpr Rod Canaway - Demolitions 
+Tpr Harold Alan Folk - Medic
+
+Tpr William "Wee" Winder - Mech Suit Mechanic
+Tpr Patricia "Kickem" Hughes (F) - HTH,BackWatcher(BodyGuard)
+
+Tpr Hiroki Togaware - HTH,Infiltration 
+Tpr Haas "Kraut" Guirecke - Field Engineer
+Tpr Philip Kaplan - Communications,Cryptography
+Tpr Roan Liberty Tubman (F) - Tracker,Heavy Weapons
+
+Lesk has a command suit.
+
+Psi Staff
+Lisa (9) - Long Blonde Hair
+Lissandra (14) - Long Blonde Hair
+
+
+
+E 2
+I 1
+E 1

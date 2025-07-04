@@ -1,0 +1,37 @@
+h51929
+s 00009/00000/00000
+d D 1.1 99/11/23 13:25:18 jmochel 2 1
+cC
+cK09031
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/23 13:25:14 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/MacroProcessor/CommandLexerTokenTypes.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK31847
+cPjava/src/MacroProcessor/CommandLexerTokenTypes.txt
+cRc5c2c1af5cb68643
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+CommandLexer    // output token vocab name
+INCLUDE=4
+LPAREN=5
+RPAREN=6
+LCURLY=7
+RCURLY=8
+DOLLAR=9
+IDENT=10
+STRINGLITERAL=11
+E 2
+I 1
+E 1

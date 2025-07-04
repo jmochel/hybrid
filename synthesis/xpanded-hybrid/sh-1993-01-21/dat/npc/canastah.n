@@ -1,0 +1,47 @@
+.Name CANASTAH
+.Title HIGH PRIEST OF AURIOCH		 
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 15
+.PEN 16		
+.DEX 12
+.PAG 12		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 5'6"      
+.WT 150		 
+.AGE 67
+.BeginDesc
+ BLACK HAIRED WITH MISMATCHED EYES(RED AND GREEN)
+.EndDesc
+.BeginSkills
+Weapon: MACE				  , 
+.EndSkills
+.Locale ELHAYNS DEEP
+.BeginKnownAssoc
+ CHURCH OF AURIOCH
+.EndKnownAssoc
+.BeginSecretAssoc
+ NECROMANCIS,AND THE ASSASSINS GUILD OF GALAHINE
+.EndSecretAssoc
+.BeginFriends NONE
+.EndFriends
+.BeginComment
+ DIED AT THE BATTLE OF THE LAUGHING MAN CIRCA 1140 . LIVED IN A SMALL	
+WELL DEFENDED KEEP IN THE KAYLINS,SINCE ABANDONED.
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,411 @@
+h00936
+s 00383/00000/00000
+d D 1.1 99/12/02 15:40:16 jmochel 2 1
+cC
+cK27295
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:13 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/recap.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44881
+cPCampaign/Karban/Hell/recap.txt
+cReb4785e85cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+A Quick recap of where you are and what you are doing
+=====================================================
+
+You are mission "Fallen Angel"
+
+
+Where
+=====================================================
+System Name: Hell
+
+The Twin suns are Red Giants (Asmodeus/Baezelbub).
+One Planet: Satan
+Six Major Planetoids: Mammon, Angelus, Belial, Necros, Succubus
+
+Three Known Transition Points : "Hell-4", "Hell-9" , and "Hell-13"
+
+2 Coporations currently have a colony share of the system
+---------------------------------------------------------
+Stellar Engineering 30,000 Personnel, ~1,000 Security (Mercs)
+
+C.O.O. Alex Kramden
+
+Plump, self satisfied, believes that Mushima Star took the Nav 
+Computer and sabotaged the Nav Bouys. Considers the Unions Helpless.
+
+2.I.C.: Renault Avina 
+
+Politically Savvy, Lean and Hungry. Considers the unions helpless. 
+
+
+Mushima Star 20,000 Personnel, ~700 Security (13 Artifacts, 40 Robots)
+
+C.O.O : Arl Rejonis
+2.I.C : Leslie Crusher
+
+Both appear to take the UMW-999 very seriously. But they 
+consider the loss of the 2 nav bouys to be Stellar Eng work.
+They also consider the Ys'Dak threat to be real. They are still 
+suspicious of the task force , but only at a minor level.
+
+Security Cmdr:  Takim Nakayama
+
+3 Work Factions
+---------------
+United Mining Workers Local 666 ( 12,000 members) (Stellar Engineering)
+United Mining Workers Local 999 ( 7,000 members) (Mushima Star)
+Twin Suns : Radical Splinter 400 Estimated Membership: Aims Unknown
+
+126,000 Civilian Non-Corp Personnel
+-----------------------------------
+with security of 2,000 and 143 artifacts
+
+
+Dramatis Personae - In no particular order
+=======================================================================
+Your normal complement 
+
+Jaime Aja Chastity - Newscaster
+
+Tristan Eber - Catalyst Agent. Known currently to Karb and Darkover
+ 
+Sgt Chok Wilder - Artillery
+Sgt Erica "EEK" Elaine Corey (F) - Artillery
+Tpr Marla Wills (F) - Calvin (Shuttle Pilot, Verti Pilot).
+Tpr Danielle Vam Damn (F) - Elysian ( HTH, Master Parkhurst)
+Tpr Antony Pierde' - Heavy Weapons Specialist (Gatling Laser)
+Tpr Liam Ward - Calvinist,Artillery
+Tpr Dan Farley - Heavy Weapons,Demolitions
+
+Tpr Hal Calahan "LowCal" Kolben - Scout Suit specialist.
+Tpr Rod Canaway - Demolitions 
+Tpr Harold Alan Folk - Medic
+
+Tpr William "Wee" Winder - Mech Suit Mechanic
+Tpr Patricia "Kickem" Hughes (F) - HTH,BackWatcher(BodyGuard)
+
+Tpr Hiroki Togaware - HTH,Infiltration 
+Tpr Haas "Kraut" Guirecke - Field Engineer
+Tpr Philip Kaplan - Communications,Cryptography
+Tpr Roan Liberty Tubman (F) - Tracker,Heavy Weapons
+
+Lesk has a command suit.
+
+Psi Staff
+Lisa (9) - Long Blonde Hair
+Lissandra (14) - Long Blonde Hair
+
+ThraxHalican - Proximan Arm Leader
+Amethyst - Striking to look at. Leader of the Artifact troop.
+
+400 Troopers
+	50 Artifact
+       Well armed from the Triculture War. Their leader is 
+       Amethyst.
+    300 Regular Infantry with Incorrect weopon/ammo loads
+    50 Communication Corps
+
+
+Chronology of events leading up to Confed intervention
+============================================================
+yr:day:hr
+255:71:11 Free Merchanter Calypso fails to arrive at Gehenna Central 
+after checking in at Nav Station 60
+
+255:73:01 Nav Station 13 drops off-line 
+255:73:02 Twin Suns claims responsibility for the destruction of NS13.
+
+255:74:19 Asteroid 1452673 impacts with NS54 taking it off-line for 43 days
+investigation reveals a failure of the inertial waveguide in the NS.
+
+255:76:13 Air processor for asteroid mine Anubis:15 explodes. Kills
+two visiting Mohawk Power Engineers. Twin Suns takes credit. 
+
+255:82:09 Mushima Super Barge Acron fails to arrive. Lost with all hands 
+in transit between Terra and Hell.
+
+255:112:10 Locals 666 and 999 picket the introduction of robot ore handlers
+citing increased danger to miners. Strikers dispersed with no injuries.
+
+Ships in the System at this time
+============================================================
+
+145 Trading Craft
+-----------------
+78 Free Traders
+39 Deledan Ore Tugs
+20 Alphan State Merchants
+01 Elysian Trader
+04 Mushima Star Super Barges
+02 Stellar Engineering Super Barges
+01 Stellar Engineering Spaceborne Refinery
+
+Other Vessels
+-------------
+43 Manned Navigation Stations
+01 Proximan Imperial Crusier
+03 Alphan Research Vessels
+01 Scout Vessel
+
+Free Traders
+------------
+Sheild of Mars       Sweet Lily
+Gypsy Feet           Rigel Sunrise
+Stellar Dance        Starise
+Kaor!                The Hell You Say
+Precedium Arch       Black Maria
+Will-O-Wisp          Jezebel
+Second Sight         Wild Card
+Dim Mak              Kestrel
+Lefthand Thread      Kylian 
+Silver Circlet       Rimshot
+Wave Dancer          Bright Idea
+Single Toss          Masque
+TouchStone           Surrender None
+Bell of Antilles     KYFHO
+Spirit of Salem      TANSTAAFL
+Linda's Guess        Bishop High
+Double Vision        Penny Bright
+Dead Ringer          Captain Freeling
+Pheonix of Venus     Masada Ward[2]
+Flying Dutchman      Sodom's Light
+Herald               3G
+Rolling Stone        Single Faith
+Black Drop[3]        Hand of Charity
+Up in Alms           Icarus
+Silent Running       Prince of Barsoom
+Dream Weaver         Elysian Dragon[1]
+Elysian Anthem[1]    Rover 2
+Okada Knife          Solar Freedom
+Carpe Diem           Castaway's Luck
+Carpe Noctem         Elysian Freedom[1]
+Usher                Terran Fears
+Vegan Lynx           Blue Jump
+Illyrian             Angel's Test
+DaScat               Virgin Hawk
+Ducal Chariot        Monkey Wrench
+Rare Sight           Pilate's Dream
+Tocatta              One Jump
+Godspeed             New Life
+Double Deuce         Gunga Din
+Morris Deite
+
+Deledan Ore Tugs     
+-------------------  
+Known by standard registry numbers
+
+Alphan State Merchanters
+-------------------------
+Maxon'arta      Poryt'Negarth
+Jakarti'Garn    Hagaz'Wik
+Kyrta'Raton     Rap'Naga
+Op'nar'Ga       Ryn'Hurt
+Loryn'Fa        Ym'Hax
+Hurtym'Haz      Hax'Laka
+Xyon'atk        Hrax'Atym
+Yrt'Narym       Urym'Jix
+Rat'Imort       Koxhom'ter
+Jhik'Gan        Rakaz'Fark
+Itim'Gret
+
+
+
+
+
+
+
+
+
+
+
+Elysian Trader
+---------------
+Elysian Stance[5]
+
+Mushima Star Super Barges
+-------------------------
+Titan
+Zeus
+Gorgon
+Jupiter
+
+Stellar Engineering Super Barges
+--------------------------------
+El Dorado
+Rio Bravo
+
+Stellar Engineering Spaceborne Refinery
+---------------------------------------
+Castellan 
+
+Manned Navigation Stations
+-----------------------------
+ID'd by Nav-01 to Nav-56
+
+Proximan Imperial Cruiser
+-------------------------
+The Kratista 
+with 6 Combat Shuttles
+
+Alphan Research Vessels
+-----------------------
+Xor'Tavk
+Na'Kort
+Taz'Kotam
+
+Scout Vessel
+------------
+Kit Carson
+
+[1] Ships created as a result of the Antilles Evacuation, granted Elysian Registry and Name
+[2] The Masada Ward was a fairly well known Q-Ship during the Triculture war
+[3] "Black Drop" is a MI term for a jump into unknown opposition
+[4] "Blue Jump" is a blind transition 
+[5] The Stance is visibly Armed
+
+
+Orders as recieved by Karban 541
+============================================================
+
+
+Orders.1 ===============================================================
+
+PERSONNEL ACTION MEMORANDUM [TASK FORCE FORWARD OBSERVER 255:101:24:23]
+CONFEDERATION TACTICAL SERVICES : MECHANIZED INFANTRY (CTS:MI)
+PERSONAL COPY
+CLASSIFICATION : CTS SECURE
+
+FROM [CTS:MI PERSONNEL]:[CTS:TERRA]
+
+TO [KARBAN 541,FIELD CMDR,CTS:MI]:[CSS Little Pheonix]
+
+SUBJECT: DUTY ASSIGNMENT
+
+OPPONENT.  UNKNOWN OPPONENT DESIGNATE "YISDAK" .
+
+[1] PROCEED MOST EXPEDITIOUS ROUTE MINING SYSTEM DORADUS V. SYSTEM DESIGNATE
+"HELL".
+
+[2] ASSUME FLEET FORMATION WITH CTS TRANSPORT INCARNATE, CTS TRANSPORT MANDALLA
+, CTS FRIGATE DAEMON
+
+[3] TRANSSHIP [ALL CTS PERSONNEL] IN HELL TO CSS TRANSPORT INCARNATE
+
+[4] TASK FORCE DESIGNATE "FALLEN ANGEL"
+
+[5] TASK FORCE COMMAND [KARBAN 541,FIELD CMDR,CTS:MI]
+
+[6] FLEET COMMAND [ARAMIS PORTLIN,COMMANDER,CSS:COMMAND][CTS FRIGATE DAEMON]
+
+[7] TRANSSHIP PERSONNEL AS DETAILED IN PERSONNEL ACTION 
+MEMORANDUM [TASK FORCE FALLEN ANGEL:255:171:13:2]
+
+FOR [MARION SUTAKEN,COMMANDER GENERAL,CTS:CSS]
+	[GRANIS MURAI ALON, BATTALION COMMANDER, CTS:MI]
+
+
+Orders.2 =========================================================
+PERSONNEL ACTION MEMORANDUM [TASK FORCE FALLEN ANGEL 255:171:13:2]
+CONFEDERATION TACTICAL SERVICES : MECHANIZED INFANTRY (CTS:MI)
+STAFF COPY
+CLASSIFICATION : CTS SECURE
+
+FROM [CTS:MI PERSONNEL]:[CTS:TERRA]
+
+TO [KARBAN 541,FIELD CMDR,CTS:MI]:[CSS Little Pheonix]
+
+SUBJECT: PERSONNEL ASSIGNMENTS
+
+[1] TRANSSHIP FOLLOWING PERSONNEL AS DETAILED
+
+[1.1] SOURCE [CTS:TERRA] DESTINATION [CSS TRANSPORT LITTLE PHEONIX]
+[1.11] SOURCE [CSS TRANSPORT LITTLE PHEONIX] DESTINATION 
+[CSS TRANSPORT INCARNATE]
+
+SGT CHOK WILDER - ARTILLERY
+SGT ERICA ELAINE COREY - ARTILLERY
+TPR LIAM WARD - ARTILLERY
+TPR DAN FARLEY - HEAVY WEAPONS,DEMOLITIONS
+
+[1.2] SOURCE [CSS TRANSPORT INCARNATE] DESTINATION [CSS TRANSPORT INCARNATE]
+
+TPR ROD CANAWAY - DEMOLITIONS 
+TPR HAROLD ALAN FOLK - MEDIC
+
+[1.3] SOURCE [CSS TRANSPORT MANDALLA] DESTINATION [CSS TRANSPORT INCARNATE]
+
+TPR WILLIAM "WEE" WINDER - MECH SUIT MECHANIC
+TPR PATRICIA "KICKEM" HUGHES (F) - HTH,BACKWATCHER(BODYGUARD)
+
+[1.4] SOURCE [CSS FRIGATE DAEMON] DESTINATION [CSS TRANSPORT INCARNATE]
+
+TPR HIROKI TOGAWARE - HTH,INFILTRATION 
+TPR HAAS GUIRECKE - FIELD ENGINEER
+TPR PHILIP KAPLAN - COMMUNICATIONS,CRYPTOGRAPHY
+TPR ROAN LIBERTY TUBMAN  - TRACKER,HEAVY WEAPONS
+
+FOR [MARION SUTAKEN,COMMANDER GENERAL,CTS:CSS]
+	[GRANIS MURAI ALON, BATTALION COMMANDER, CTS:MI]
+
+
+Orders.3 =========================================================
+PERSONNEL ACTION MEMORANDUM [TASK FORCE FALLEN ANGEL:255:171:13:1]
+CONFEDERATION TACTICAL SERVICES:MECHANIZED INFANTRY (CTS:MI)
+PERSONAL COPY
+CLASSIFICATION: CTS SECURE
+
+FROM [MARION SUTAKEN, COMMANDER GENERAL, CTS:CSS][CTS:TERRA]
+
+TO [KARBAN 541, FIELD COMMANDER, CTS:MI][CSS TRANSPORT LITTLE PHEONIX]
+
+SUBJECT: DUTY ASSIGNMENT
+
+MISSION OBJECTIVES:
+
+[PRIMARY] TO PREVENT LOSS OF HELL SYSTEM
+
+[SECONDARY] TO ESTABLISH MILITARY AND GENERAL CULTURAL UNDERSTANDING
+OF OPPONENT DESIGNATE YISDAK
+
+[SECONDARY] TO COOPERATE WITH FREE MARSHALL DARKOVER IN SETTLING CURRENT
+STATE OF EMERGENCY EXISTANT IN HELL.
+
+[TERTIARY] EXPLORE FIELD VIABILITY OF E.C.
+
++++++++++++++++++++++++   PRIVATE  ++++++++++++++++++++++++++++++++++
+
+OK KARB,
+THE LIMELIGHT IS YOURS. EXPLETIVE DELETED. CONFEDERATION COUNCIL
+HAS GIVEN THE DROP LIGHT TO PRESS PRESENCE IN ALL TASK FORCES.
+BECAUSE OF NOTABLE QUALITY OF TASK FORCE, FALLEN ANGEL HAS ADDITONAL
+FAMILY MEMBER. JAIME AJA, FIELD CORRESPONDENT FOR WARNER NEWS SERVICE.
+CRANSTON AWARD WINNER. EXPLETIVE DELETED. YOU ARE DIRECTED TO COOPERATE 
+IN ANY NON-LIFE THREATENING MANNER.
+
+AT LEAST YOU HAVE GOOD RANGE OF EXPERIENCE AMONG YOUR NEW SUITS.
+HAVE NOTIFIED ALL AMENABLE CIVILIAN CONTACTS IN HELL. 
+
+GOOD LUCK
+MARION SUTAKEN
+
+==========================================================================
+
+
+E 2
+I 1
+E 1

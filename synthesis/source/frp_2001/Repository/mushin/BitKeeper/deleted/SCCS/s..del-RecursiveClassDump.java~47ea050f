@@ -1,0 +1,173 @@
+H58088
+s 00000/00000/00136
+d D 1.2 01/08/31 15:23:53 jmochel 3 2
+c Delete: src/mushin/metamodel/RecursiveClassDump.java
+cC
+cK31420
+cPBitKeeper/deleted/.del-RecursiveClassDump.java~47ea050f
+e
+s 00136/00000/00000
+d D 1.1 01/07/13 18:14:23 jmochel 2 1
+cC
+cF1
+cK07966
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:23 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/src/mushin/metamodel/RecursiveClassDump.java
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK57258
+cPsrc/mushin/metamodel/RecursiveClassDump.java
+cR47ea050f
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+/*
+    $Header: h:\\Repository/jacl/java/src/metamodel/RecursiveClassDump.java,v 1.2 1999/07/28 03:56:01 jmochel Exp $
+
+    $Copyright:$
+*/
+
+
+package mushin.metamodel;
+
+// Standard Imports
+
+import java.io.Serializable;
+import java.lang.StringBuffer;
+import java.lang.Class;
+import java.lang.reflect.*;
+// Other Imports
+
+// JACL Imports
+
+import mushin.util.hash.PearsonsHash;
+
+// Application Imports
+
+/**
+    
+
+    @author Jim Jackl-Mochel
+    @author $Author: jmochel $
+    @version $Revision: 1.2 $
+
+    @see TypeUnitTest
+*/
+
+public class RecursiveClassDump
+    implements Serializable,Cloneable
+{
+    /**
+        Empty Constructor
+    */
+
+    public RecursiveClassDump()
+    {
+        _Class = null;
+    }
+
+    /**
+        Full Parameter Constructor
+
+        @param  name   The String[] to be <???>
+
+        @see <???>
+    */
+
+    public RecursiveClassDump(Object obj)
+    {
+        this();
+        
+        _Object = obj;
+        
+        _Class = _Object.getClass();
+    }
+    
+    
+    public String toString()
+    {
+        return toString(_Object, 0);
+    }
+    
+    public String toString(Object obj, int lvl)
+    {
+        StringBuffer   bfr = new StringBuffer();
+        StringBuffer   indentBfr = new StringBuffer();
+        Class           currClass = null;
+        Field[]         fields = null;
+        Object          currObject = null;
+
+        // Set up
+        
+        currClass = obj.getClass();
+        
+        fields = currClass.getDeclaredFields();       
+        currObject = obj;
+        
+        
+        // Populate the indent buffer
+        
+        for ( int i = 0; i < lvl; i++ )
+        {
+            indentBfr.append("\t");
+        }
+        
+        // Inspect the current object for its fields
+        
+        for ( int j = 0; j < fields.length; j++ )
+        {
+            Object memberObj = null;
+            Class memberClass = null;
+            Field[] memberClassFields = null;
+            
+            // Get the value of this field into the current object
+            
+            try 
+            {
+                memberObj = fields[j].get(currObject);
+            }
+            catch (IllegalAccessException illegalAccessError)
+            {
+                throw new RuntimeException("Unable to get the value for field " + fields[j].getName());
+            }
+        
+            // Look at the object if it has fields, pass it on down.
+            
+            memberClass = memberObj.getClass();
+            
+            memberClassFields = memberClass.getDeclaredFields();
+            
+            if (memberClassFields.length != 0 )
+            {
+                toString(memberObj, lvl+1);
+            }
+            else 
+            {
+                bfr.append("\n");
+                bfr.append(indentBfr);
+                
+                bfr.append(memberObj);
+            }
+        }
+   
+        return(bfr.toString());
+    }
+   
+
+    private Class  _Class;
+    private Object  _Object;
+}
+E 2
+I 1
+E 1

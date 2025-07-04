@@ -1,0 +1,95 @@
+# This is the BitKeeper configuration file.
+# %W% %@%
+#
+# It defines the contact information for the responsible party for this
+# project.  This information is used by BitKeeper to provide support to
+# BitKeeper users.  Please take a minute to fill it out carefully, it
+# needs to be accurate.
+
+# Enabling / disabling logging.  BitKeeper can maintain a log of your
+# change comments (not your source, just the comments) on a centralized
+# server.  This is useful as your project grows, it gives people a place
+# to go see what is happening on a per project basis.  This is especially
+# useful for distributed developers.
+#
+# Since it is also possible you do not want logging, that you would prefer to
+# keep your changes private, we do not enable this by default (though we will
+# ask when you make your first changeset).
+#
+# To enable logging, uncomment the field below:
+
+logging_ok:	yes
+
+# Open Logging server.  This site is where users can go to see the changelog
+# comments for all instances of this repository.
+# If this repository is non commercial, i.e. BitKeeper is being used for
+# free, the site must be in the openlogging.org domain, otherwise it can
+# be an internal site.
+# Anyone may apply for an alias (CNAME) in the openlogging.org domain
+# if they are willing to maintain a BitKeeper Open Logging web server.
+# linux.openlogging.org could host the Linux kernel effort, for example.
+
+logging:	logging@openlogging.org
+logging_ok:	jmochel@devilmountain.bedford.foliage.com
+
+# Commercial seats.  If the logging field is *.openlogging.org, then this
+# field is ignored.  If the previous field is some internal site, such as
+# bitkeeper.mycompany.com, then this file is included in diagnostic messages
+# sent back to bitkeeper.com.  The value of this field determines the number
+# of users which can work on the repository within a 6 month period.
+# It's an upper bound on the number of users allowed in the repository,
+# which determines the price which your company will be billed for the
+# use of BitKeeper.  This field allows management to limit the number of
+# seats in use.  A "seat" is a user.
+
+seats:		1
+
+# Security of diagnostic messages.  BitKeeper sends periodic
+# status back to BitKeeper.com.  This information is used as part of
+# the support process, i.e., if you are using an older version of
+# BitKeeper, we'll let you know automatically when an update is available.
+#
+# Commercial customers can arrange for greater levels of security
+# the diagnostics sent back to BitMover, Inc.  Contact your sales
+# representative for assistance.
+#
+# Note: BitMover does not and will not make any information gathered through
+# this mechanism available to the public.  The information is used solely
+# by BitMover for support and will not be disclosed, forwarded, or sold
+# to any third party for any purpose.
+#
+# Values for this field are currently "none" or "ssh".  The "ssh" field
+# requires that ssh is installed in order to operate and you must have
+# prearranged for high security support service.
+
+security:	none
+
+# Contact person for this project.  This is whoever is the person that
+# should be contacted with update information or contacted if BitKeeper
+# discovers a problem which requires local intervention.  Please make the
+# contact information accurate so we can support you.
+
+contact:	Jim 
+
+# Preferred email for the contact
+email:		joe@mycompany.com
+
+# Postal address.
+
+Street:		123 any streat
+City:		San Francisco
+Postal:		94131
+Country:	USA
+
+# A phone number which may be used to call in support.  Fields are also
+# provided for cell phones and pagers.
+
+phone:		415-555-5555
+cell:		415-555-5555
+pager: 		<none>
+
+# Times which are reasonable to call.  If this is not filled out, we
+# assume 10am to 9pm local time, assuming we can determine local time
+# The time format is ``military'' i.e., 6pm is 18:00.
+
+business hours: 10:00-21:00

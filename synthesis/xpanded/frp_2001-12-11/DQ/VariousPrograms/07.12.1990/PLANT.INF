@@ -1,0 +1,3089 @@
+.NS
+Fan Kelp-V(Seaweed)-C-SSH-NONE-FD,HL,PO
+.NS
+.NE
+.NE
+.DS
+.DE
+.CS
+FD Fan Kelp Powder : A very strong preservative.
+HL Fan Kelp Gel : Used as a preservative for ingested medications.
+PO Fan Kelp Gel : Used as a preservative in ingested toxins
+.CE
+
+.NS
+Sea Colander-V(seaweed)-C-SSH-NONE-FD,HL
+.NS
+.NE
+.NE
+.DS
+.DE
+.CS
+FD Sea Colander Leaf : Potherb
+FD Sea Colander Powder : Used to produce jellies and jams 
+FD Sea Colander Powder : Very good traveling foods and noodles.
+HL Sea Colander Powder : Used as a preservative for solid herbs.
+.CE
+
+.NS
+Ribbon Kelp-V(seaweed)-C-SSH-NONE-FD,HL
+.NS
+.NE
+.NE
+.DS
+.DE
+.CS
+FD Ribbon Kelp : Potherb
+FD Ribbon Kelp : Boiled, produces a salty mixture that preserves meat quite well
+HL Ribbon Kelp : Boiled and dried it serves as a good sterile bandage.
+.CE
+
+.NS
+Giant Kelp-V(seaweed)-C-SSH-NONE-HL,MG,AL
+.NE
+.DS
+.DE
+.CS
+HL Giant Kelp Tincture : Used as an antiseptic 
+MG Giant Kelp Powder : Used in preparing a number of Inks of magical nature
+AL Giant Kelp Ash : Used in producing a strong tincture of iodine. Subtracts 30% from chances of infection.
+AL Giant Kelp Powder : Used in producing a purple smoke cloud that stings the eyes.
+.CE
+
+.NS
+Rockweed-V(seaweed)-C-SSH-2%/yr-FD,HL,PO 
+.NE
+.DS
+.DE
+.CS
+FD Rockweed Leaf : Potherb
+FD Rockweed Powder : Used to tenderize meat
+HL Rockweed Decoction : Used to lower an appetite
+PO Kartine : IG-O-4(d6)-4(2d6) A poison that suppresses appetite in such 
+a way that it imitates many illnesses. Has to be administered once every day.
+.CE
+
+.NS
+Gulfweed-V(Seaweed)-C-SSH-NONE-FD
+.NE
+.DS
+.DE
+.CS
+FD Gulfweed Raw : Potherb.
+.CE
+
+.NS
+Laver-V(Seaweed)-C-SSH-NONE-FD
+.NE
+.DS
+.DE
+.CS
+FD Laver Leaf : Potherb
+FD Laver Powder : Used in making a good waybread
+.CE
+
+.NS
+Kalic Moss,Irish Moss-V(Seaweed)-C-SSH-NONE-FD,SPC,AL
+.NE
+.DS
+.DE
+.CS
+FD Kalic Moss Powder : Pudding
+SPC Kalic Moss Decoction : Soap
+SPC Kalic Moss Powder : Shampoo
+SPC Kalic Moss Gel : Leather Sizing
+AL Kalic Moss Ash : Used in making a strong Glue
+.CE
+
+.NS
+Dulse,Sea Kale-V(Seaweed)-C-SSH-NONE-FD,SPC,HL
+.NE
+.DS
+.DE
+.CS
+FD Dulse Leaf : Potherb
+FD Dulse Powder : Flour
+SPC Dulse Strips Smoked : Chewing Tobacco
+HL Farking : DC-FR-3(1d6)-4(2d6)-16
+.CE
+
+.NS
+Rose Red-V(Fungus)-UC-HWD,LWD,CAV-NONE-MG,DY
+.NE
+.DS
+bright red slime mold found in rotting wood and logs
+.DE
+.CS
+MG Rose Red Spores : Used in producing a bright red ink for light spell scrolls
+DY Rose Red Powder : Makes a brilliant dye for cloth
+.CE
+
+.NS
+Morel-V(Fungus)-UC-WST-NONE-FD
+.NE
+.DS
+A small pale,spongy,mushroom with a dark stem.  
+.DE
+.CS
+FD Morel Cooked : An excellent food crop
+.CE
+
+.NS
+Helvella,Valhalla Cap-V(Fungus)-UC-HWD,FLD-1%/month-HL,PO,MG
+.NE
+.DS
+Brainlike convolutions mark this mushroom well. A small pitted shaft 
+helps distinguish it from the Morel. 
+.DE
+.CS
+HL Helvella Cap : DC-AN-1(d6)-0-12 Antidote for Helvellan
+PO GarHallan : IG-AN-1(d8)-0-16 Antidote for Hevallan
+PO Helvallan : IG-D-2(d4)-4(d6)-38
+MG Helvalla Tincture : Used in producing a poison detection scroll
+.CE
+
+.NS
+Scarlet Cup-V(Fungus)-UC-HWD,LWD-NONE-FD,HL
+.NE
+.DS
+Large,round,scarlet cups with a dark underbelly. 
+.DE
+.CS
+FD Scarlet Cup Fresh : Used in soup and as a potherb
+HL Scarlet Cup Tincture : Used as a disinfectant
+.CE
+
+.NS
+Truffles,Asko-V(Fungus)-Rare-HWD-NONE-FD
+.NE
+.DS
+Crusty dark brown spheres found buried under Oak trees. 
+.DE
+.CS
+FD Truffles Cooked : An excellent source of food
+.CE
+
+.NS
+Ergot-V(Fungus)-UC-FLD-1%/10 yr-PO,MG
+.NE
+.DS
+A brown rust found on cultivated grains such as rye and oats,wheat and barley. 
+.DE
+.CS
+PO Ergonine : IN-H-1(d4)-3(d8)
+PO Ergonine : IG-H-2(d4)-3(d6)
+PO Ergonine : AB-H-3(d4)-3(d8)
+MG Ergot Powder : Used to improve the effects of illusions
+.CE
+
+.NS
+Horn of Plenty-V(Fungus)-C-HWD,LWD-NONE-FD
+.NE
+.DS
+Has the appearance of a deep funnel with a broad curling lip.  
+Less than 1" tall
+.DE
+.CS
+FD Horn of Plenty Fresh : Excellent and filling pot herb
+.CE
+
+.NS
+Destroying Angel-V(Fungus)-UC-HWD,LWD-NONE-PO
+.NE
+.DS
+Flat egg shaped white cap on an Orange shaft.  
+.DE
+.CS
+PO Destroying Angel Fresh : IG-DD-4(12)-5(d4)-64
+.CE
+
+.NS
+Giant Puffball-V(Fungus)-C-FLD,PLN,LWD-NONE-FD
+.NE
+.DS 
+Large white spheres between 1 and 5 feet in width. 
+.DE
+.CS
+FD Giant Puffball : Good eating for a large number.
+.CE
+
+.NS
+Sphangnum Moss-V(Moss)-C-WTL-NONE-HL,MG
+.NE
+.DS
+Long stringy moss,usually red or yellow. 
+.DE
+.CS
+HL Sphangnum Moss Decoction : Used to stop bleeding 
+HL Sphangnum Moss Dried : Used as sterile bandages.
+MG Sphangnum Moss Dried : Used in weather Magic
+.CE
+
+.NS
+Resurrection Fern-V(Fern)-Rare-WTL-10%/h-HL,MG
+.NE
+.DS
+A 1 ft long evergreen type plant. Gradually changes to red near the 
+tip of the plant.  
+.DE
+.CS
+HL Resurrection Fern Spores : AB-SD-2
+MG Waters of Thought : Used by moonsingers to restore memories to 
+reincarnated entities.
+.CE
+
+.NS
+Snake Fern-V(Fern)-UC-WTL,HWD-1%/w-HL
+.NE
+.DS
+10 ft long with heavily seperate leaves. 
+.DE
+.CS
+HL Snake Fern Rootstock : PL-AN-3 used as an antidote to snake poisons.
+.CE
+
+.NS
+Horse Tail-V(Fern)-C-WTL-NONE-FD,PO
+.NE
+.DS
+A simple rush that rises 1-2 ' above the ground 
+.DE
+.CS
+FD Horse Tail Tips : Young are used as a potherb
+FD Horse Tail Raw : Often used to scrub pots 
+PO Horse Tail Raw : Fairly dangerous to livestock IG-D-4(d3)-5(d3)-28
+.CE
+
+.NS
+Scouring Rush-V(Fern)-C-SSH,HWD,LWD,PLN,WTL-NONE-SPC
+.NE
+.DS
+2-3 ft tall thick rush 
+.DE
+.CS
+SPC Scouring Rush Raw : Plants explode loudly when burned
+SPC Scouring Rush Raw : Used as a fine sandpaper
+SPC Scouring Rush Raw : Plants have been used as scouring pads in cooking
+.CE
+
+.NS
+Club Moss-V(Moss)-UC-HWD,LWD-NONE-AL
+.NE
+.DS
+Christmas wreath like appearance. Thin runners with small evergreen 
+fruiting heads.  
+.DE
+.CS
+AL Club Moss Powder : Used as the basis of a cheap flash powder
+.CE
+
+# Here start the plants from DQ "Arcane Wisdom"
+
+.NS
+Aconite,Monkshood,Wolfsbane,Pardsbane-V(Small Plant)-C-FLD,WTL,HWD,LWD-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+Ascending or nearly trailing stems. Leaves alternate. White to purple 
+hooded flowers in terminating bundles. 
+.DE
+.CS
+FD Aconite Powder : Used in making a searing spice liqour (non poisonous)
+HL Aconite Tincture : Used in curing blindness
+PO Aconite Root : Acona (A quick acting contact poison)
+PO Aconite Raw : A death poison 
+MG Aconite Ash : Used in casting death spells and Flying spells
+AL Aconite Leaf : For causing temporary blindness  
+.CE
+
+.NS
+Agrimony-V(Small Plant)-C-FLD,LWD,RGH-6%/w-FD,HL,MG,AL
+.NE
+.DS
+Bright yellow flower with 6 petals . Plant to 2'
+.DE
+.CS
+FD Agrimony Root : Used to cold cook meats
+HL Agrimony Leaves : Antidote for snake poison
+MG Agrimony Flower : Used to make demonic summonings easier
+AL Agrimony Root : Used in a snake anti venom
+.CE
+
+.NS
+Amaranth-V(Small Plant)-C-FLD,LWD-10%/d-FD,HL,MG,AL
+.NE
+.DS
+A scraggly herb up to 6' in height with small red or white flowers
+Large seed stalks
+.DE
+.CS
+FD Amaranth Leaf : Potherb
+FD Amaranth Seeds : Used in making flour
+HL Amaranth Leaf : Used in a Poultice that heals d10-2 in fatigue and 1 HTK/day.
+HL Amaranth Roots : Decoction stops bleeing in 10 - 20 seconds
+MG Amaranth Flowers : Used in purification rituals
+AL Amaranth Root : Used in Healing potions
+.CE
+
+.NS
+Anemone,Windflower-V(Small Plant)-UC-LWD,HWD-30%/d-HL,MG,AL
+.NE
+.DS
+A tall ( 3') herb with large Purple Flowers with black centers.
+Blooms only on windy days 
+.DE
+.CS
+HL Anemone Flowers : Used to heal headaches and concussion
+AL Anemone Flowers : Used to create Sensory improving elixirs
+MG Anemone Flowers : Add to chance to perform divination
+.CE
+
+.NS
+Angelica-V(Small Plant)-UC-FLD-5%/w-FD,HL,PO,MG,AL,DY
+.NE
+.DS
+A leafy green flowered herb with white stamens and pollen.
+.DE
+.CS
+FD Angelica Root : Used in seasoning and salads
+HL Angelica Root : Used to break Fevers
+PO Angelica Root : A simple gum can be used to poison insects
+MG Angelica Root : A protection against simple curses
+AL Angelica Pollen : Elixirs that prevent infection
+DY Angelica Root : Serves as a potent cloth bleach
+.CE
+
+.NS
+Astoetida-V(Small Plant)-UC-HWD,LWD-NONE-MG,AL,SPC
+.NE
+.DS
+Gum resin bearing plant. Aromatic .
+.DE
+.CS
+MG Astoetida Resin : Repellant for Incubi, succubi, and Imps
+MG Astoetida Resin : Attracts Hellhounds
+AL Astoetida Resin : Makes powerful incense
+SPC Astoetida Resin : Makes a aromatic lacquer
+.CE
+
+.NS
+Basil,Dittany-V(Small Plant)-C-ALL-10%/hr-FD,HL,MG,AL
+.NE
+.DS
+A dark, short aromatic herb. Brittle even when fresh
+.DE
+.CS
+FD Basil Leaf : Potherb
+FD Basil Leaf : Seasoning
+HL Basil Leaf : Poultice to cure insect bites
+MG Basil Leaf : Used in purifications for wards
+AL Basil Leaf : Used in creating a Endurance Elixir
+.CE
+
+.NS
+Belladonna,Deadly Nightshade-V(Small Plant)-R-LWD,HWD,WTL-2%/mo-HL,PO,MG,AL,DY
+.NE
+.DS
+A crawling dark green plant with crimson leaves and black berries.
+Up to 5' in ht. Flowers are a dull purple. All parts of the plant 
+have a harsh scent and a bitter taste that is almost impossible to disguise.
+.DE
+.CS
+HL Belladonna Leaf : Stimulant
+PO Belladonna Leaf : Ingestive poison
+PO Shadine : Shadine-IG-DD-2m-30m-3%/mo-1d2
+MG Belladonna Root : Used in flying spells
+AL Belladonna Powder : Used in making a strength potion
+DY Belladonna Flower : Used in making a rich bright purple. Very rare
+.CE
+
+.NS
+Betony-V(Small Plant)-UC-FLD,LWD-1%/w-FD,HL,MG,AL
+.NE
+.DS
+A mint similiar in appearance to catmint.
+.DE
+.CS
+FD Betony Leaf : Tea
+HL Betony Leaf : Tea used to resotore fatigue as a hot meal would
+MG Betony Leaf : Used in recovering from spell backlash
+AL Betony Leaf : Used in increasing speed or fatigue
+.CE
+
+.NS
+Black Hoarhound-V(Small Plant)-UC-WTL-NONE-FD,HL
+.NE
+.DS
+A large wooly grayish green plant with tiny white flowers
+.DE
+.CS
+FD Black Hoarhound Leaf : Candy
+FD Black Hoarhound Leaf : Tea 
+HL Black Hoarhound Leaf : Tea that restores fatigue as a hot meal.
+.CE
+
+.NS
+Bloodroot-V(Small Plant)-UC-FLD-1%/w-HL,MG,AL
+.NE
+.DS
+A large lobed leaf and a thick dull red root. Root and root stock are fairly 
+Fibrous and full of a pale red liquid. A very bitter and acrid scent.
+.DE
+.CS
+HL Bloodroot Root : Used to heal fatigue loss from blood loss
+HL Bloodroot Root : Used to heal Anemia 
+MG Bloodroot Root : Used to cast wardings
+AL Bloodroot Root : Used for Control elixirs and charms 
+.CE
+
+.NS
+Bryony,Snake Grape-V(Small Plant)-UC-FLD,LWD,HWD-NONE-FD,HL,AL
+.NE
+.DS
+A long thin vine with delicate purple flowers that are very fragrant.
+Has small grape like fruit.
+.DE
+.CS
+FD Bryony Fruit : Used in a wine and also a mead
+FD Bryony Flowers : Used to flavour wines and honeys
+HL Bryony Leaf : Decoctions speeds bone healing
+Al Bryony Flowers : Distils to a material called Boneheal
+.CE
+
+.NS
+Bryony,Snake Grape-V(Small Plant)-UC-FLD,LWD,HWD-NONE-FD,HL,AL
+.NE
+.DS
+A long thin vine with delicate purple flowers that are very fragrant.
+Has small grape like fruit.
+.DE
+.CS
+FD Bryony Fruit : Used in a wine and also a mead
+FD Bryony Flowers : Used to flavour wines and honeys
+HL Bryony Leaf : Decoctions speeds bone healing
+AL Bryony Flowers : Distils to a material called Boneheal
+.CE
+
+
+.NS
+Caper-V(Small Plant)-UC-FLD,RGH-1%/d-FD,HL,PO,AL
+.NE
+.DS
+A small sparse shrub with small hard buds as seeds. Leaves are
+naturally brown.
+.DE
+.CS
+FD Caper Berry : Pickled and used as a basic food and a condiment
+HL Caper Berry : Used to cure impotence
+PO Caper Berry : poison that cause impotence and stomach pains
+AL Caper Berry : Used to make and elixir that cure impotence
+AL Caper Berry : Used to make a fertility potion ( Forces multiple births)
+.CE
+
+.NS
+Catgut,Goat's Rue-V(Small Plant)-UC-FLD,RGH-1%/h-HL,MG,AL,DY
+.NE
+.DS
+Small round green leaves on a multi stem stalk like a sweet pea plant.
+Up to 3' in ht. Small purple flowers. 
+.DE
+.CS
+HL Catgut Root : Used to make a tea for fatigue healing
+HL Catgut Root : Used to restore equilibrium for sirroche
+MG Catgut Root : Used in enchanting rope and bowstring
+AL Catgut Root : Used to cure the palsy ( epilepsy )
+DY Catgut Root : Makes a good orange dye
+.CE
+
+.NS
+Catnip-V(Small Plant)-C-FLD,WTL,LWD-1%/w-FD,AL,SPC
+.NE
+.DS
+A square stemed 1' to 3' tall plant with blue to purple flowers and
+a minty scent. 
+.DE
+.CS
+FD Catnip Leaf : Tea !
+FD Catnip Leaf : Aromatic liqours
+AL Catnip Leaf : Menthol
+SPC Catnip Leaf : Used to fumigate homes and clean out insects
+.CE
+
+.NS
+Chervil-V(Small Plant)-C-FLD-1%/h-FD,HL,AL
+.NE
+.DS
+A small dark leaved green plant with a musky scent and green flowers
+.DE
+.CS
+FD Chervil Leaf : Used as a seasoning
+HL Chervil Leaf : Decoction is used to bathe wounds and speed the healing rate
+AL Chervil Leaf : Salve that reduces infection by 20% 
+.CE
+
+.NS
+Cowslip,Marsh Mallow-V(Small Plant)-C-FLD,LWD,HWD-5%/w-FD,HL,MG,AL
+.NE
+.DS
+Small plant with a wide yellow flower. Exudes a thick white 
+cream when squeezed
+.DE
+.CS
+FD Cowslip Leaf : Used in making marshmallow candy
+FD Cowslip Leaf : Used as a potherb
+HL Cowslip Leaf : Used to make sterile quick stick bandages
+MG Cowslip Leaf : Used in Protecting from poison
+AL Cowslip Leaf : Used as a basis of a number of salves
+.CE
+
+.NS
+Cyclamen-V(Small Plant)-UC-HWD,LWD,WTL-2%/h-HL,PO,MG,AL
+.NE
+.DS
+A white flowering herb with a yellow aromatic pollen
+.DE
+.CS
+HL Cyclamen Pollen : Used to induce a healing sleep
+PO Cyclamen Pollen : Cyclams (sleep)
+MG Cyclamen Pollen : Sleep spell
+AL Cyclamen Pollen : Sleep Potion
+AL Cyclamen Pollen : Love Potion
+.CE
+
+.NS
+Daffodil-V(Small Plant)-C-FLD,LWD,HWD-5%/w-HL,AL
+.NE
+.DS
+A 1' tall yellow flower
+.DE
+.CS
+HL Daffodil Flower : Poultice is used to heal endurance 1 pt/day
+AL Daffodil Flower : Healing salve for endurance
+.CE
+
+.NS
+Damiana-V(Small Plant)-UC-LWD,HWD,RGH-5%/w-HL,AL
+.NE
+.DS
+A 1' tall yellow flower
+.DE
+.CS
+HL Daffodil Flower : Poultice is used to heal endurance 1 pt/day
+AL Daffodil Flower : Healing salve for endurance
+.CE
+
+.NS
+Euphorbia-V(Small Plant)-R-HWD,LWD-NONE-PO,MG,AL
+.NE
+.DS
+Short shrub. Juice milky and acrid. Simple toothed leaves. 
+Small cup like flowers. Fruit is a spherical 3 lobed capsule.
+.DE
+.CS
+PO Euphorbia Leaf : Exudes a milky liquid that is a skin irritant
+PO Euphorbia Leaf : Ingestive poison
+MG Euphorbia Leaf : A basic incense ingredient for divination ( prophecy )
+AL Euphorbia Flower : USed to create a snuff like compound that causes sleep
+.CE
+
+.NS
+Fennel-V(Small Plant)-C-FLD-10%/mo-FD,HL,MG,AL
+.NE
+.DS
+A dark feathery herb with tiny light green flowers. Very aromatic .
+.DE
+.CS
+FD Fennel Stem : Potherb
+FD Fennel Seed : Aromatic Flour
+FD Fennel Leaf : Seasoning
+MG Fennel Stem : Used in warding against spectres and wights
+HL Fennel Leaf : Tea that is used to increase lactation
+AL Fennel Root : Used to create a very potent aphrodisiacal perfume.
+.CE
+
+
+.NS
+Garlic-V(Small Plant)-C-FLD,RGH-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+Purple flowered and potent smelling member of the lily family
+.DE
+.CS
+FD Garlic Root : Used raw or as a seasoning
+HL Garlic Root : Used to prevent infection 
+PO Garlic Root : Garnama ( Poison against undead )
+MG Garlic Root : Wards against greater undead
+AL Garlic Root : Elixir of Undead repulsion
+.CE
+
+.NS
+Gill over the Ground-V(Small Plant)-UC-FLD-3%/w-FD,HL,AL
+.NE
+.DS
+A small green ground cover. Has tiny blue flowers and a pungent odor.
+.DE
+.CS
+FD Gill over the ground Leaf : Tea
+HL Gill over the ground Leaf : Cures a hangover
+AL Gill over the ground Leaf : Quick sober elixir
+.CE
+
+.NS
+Ginseng-V(Small Plant)-UC-HWD-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+Woody , 1" tall plant with a thin rootstock and black berries
+.DE
+.CS
+FD Ginseng Root : Tea
+HL Ginseng Root : Decoctions are used to heal impotence 
+PO Ginseng Berry : Forms a feign death type poison
+MG Ginseng Root : Used in longetivity spells
+AL Ginseng Root : Used longetivity potions
+.CE
+
+.NS
+Black Hellebore-V(Small Plant)-R-HWD,LWD,WTL-2%/w-PO,AL
+.NE
+.DS
+A tall 6'+ plant with long pleated leaves sheathing the stem
+with prominent veins and hairy greenish flower stalks. 
+.DE
+.CS
+PO Black Hellebore Root : Deadly poion Ingested
+AL Black Hellebore Root : Used to cure delusion based insanity
+.CE
+
+.NS
+Hemlock-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Henbane-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Holly-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Jasmine-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Jimson Weed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Laurel-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lotus-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mandrake-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Marigold-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Marjoram-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Misteltoe-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Moonwort-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mugwort-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Myrrh-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Saffron-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sage-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Saint John's Wort-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sandlewood-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Satyr Orchid-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Snakeroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sunflower-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sweetflag-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+Sword shaped leaves coming from a crawling rootstock. 
+.DE
+.CS
+HL	Minor narcotic and sedative  
+.CE
+
+.NS
+Valerian-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Vetch-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+# Here Start plants derived from 
+# "Narcotic Plants" by W. Emboden
+
+.NS
+White Baneberry-V(Small Plant)-UC-FLD,LWD,WST-3%/2w-PO,HL,MG,AL
+.NE
+.DS
+Up to 3' tall. Large leaves sharply toothed with small white flowers 
+and white berries.
+.DE
+.CS
+Acts as a hypnotic and demon chaser
+.CE
+
+.NS
+Cat Powder-V(Small Plant)-UC-WST,RGH-NONE-HL,MG,AL
+.NE
+.DS
+A small scant shrub with oval leaves up to 7" long. 
+White, pendous flowers with greenish berry.
+.DE
+.CS
+Tranquilizer with mild hallicinogenic effects
+Actinida Polygama
+.CE
+
+.NS
+Niando-V(Vine)-R-JNG-2%/1mo-PO,HL,MG,AL
+.NE
+.DS
+Alchornea Floribunda
+A leaning vine or small tree up to 30' in height. 
+Green flowers in hanging twinned bunches.
+Fruits are small hard capsules
+.DE
+.CS
+Yohimbine
+.CE
+
+.NS
+Vilca,Cebil-V(Tree)-C-JNG-3%/1w-PO,HL,AL
+.NE
+.DS
+A tree up to 90 ' in heihgt. leaves 6-8" in 
+length. Large orange and yellow flowers. Pods 12 - 14"
+long. 
+.DE
+.CS
+Anadenanthera Colubrina
+N,N-dimethyltryptamine
+.CE
+
+.NS
+Bear Berry-V(Small Plant)-C-HWD,LWD,RGH-NONE-HL,SPC,MG
+.NE
+.DS
+Ground hugging shrub up to 3' across. Leaves are evergreen and
+leathery. Small whitish fruits, waxy.
+.DE
+.CS
+Arbutin and Ericolin.
+Hypnotic 
+.CE
+
+.NS
+Areca Nut,Betel Nut-V(Tree)-C-JNG,SSH-5%/1mo-PO,HL,MG,DY
+.NE
+.DS
+A slender <1' thick tree up to 75' . Leaves up to 1' across
+with scarlet flowers and red fruit.
+.DE
+.CS
+Areca Catechu
+Arecoline
+Stimulant
+.CE
+
+.NS
+Prickly Poppy-V(Small Plant)-UC-WST,RGH-NONE-HL,MG,DY,AL
+.NE
+.DS
+Short, prickly stem with yellow sap. Flowers are a bright yellow, and
+fruit is a prickly capsule.
+.DE
+.CS
+Argemone Mexicana
+Possible hallucinogen
+.CE
+
+.NS
+Silver Morning Glory-V(Small Plant)-UC-JNG-3%/1y-PO,MG,AL
+.NE
+.DS
+Small tree vine with leaves to a 1' in length.
+Covered with silvery hair. covered with pink and white flowers
+Fruit is a flower covered capsule.
+.DE
+.CS
+Argyreia Nervosa
+Halluc
+Erolines
+.CE
+
+.NS
+Wormwood-V(Small Plant)-C-WST,RGH-2%/10d-FD,HL,MG,AL,SPC
+.NE
+.DS
+Many branched aromatic silvery plant with fine leaves covered with
+silvery hair. Flowers borne in a pyrimidal shape.
+.NS
+Pela Kano-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bay Bean-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Ganja-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Weedy Hemp-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hemp-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Zapote-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Khat-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Madagascar Periwinkle-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Black Cohosh-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mohoda-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kaffe-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Coal Nut-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Nene-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lamellae-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Shanshi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yellow Ladyslipper-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Island Broom-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Maikoa,Queen of the Night-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Toloache-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Unmata-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Huanto-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+King's Consound-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Chapico-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pituri-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kankan-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Palo Copal-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Fireweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Coral Tree-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Agara-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yellow Jessamine-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sinjachu-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Keule-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Maitake-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sinicuichi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Dahoon,Black Drink-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mate-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Borrachero-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Quiebra Plata-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bolek Hena-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Maraba-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Wild Lettuce-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Drunken Mint-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Latue-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Motherworth-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lions Ear,Dagga-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tupa-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Peyote-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Gi'isawa-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Culebra-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Jurema-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+So Ksi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Partridge Berry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kratom-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tshulu-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Corpse Plant,Dead Man's Pipe-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+S'Keng'Keng-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tabacco-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+White Water Lily-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sacred Blue Lily-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rape Moraka-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kwashi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Serpent's Tongue-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Coanenepelli-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cupana-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Syros Rue-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Locan-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pokeweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kava-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sarpaganda-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Piule-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Olok-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pipil-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Soma-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Khana-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Marula-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sleepy Grass-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Green Needle Grass-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yauhalti-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Iboga-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Caapi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cha-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+San Kedri-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bog Bilberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tesselated Vanda-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+White False Hellebore-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Parica-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Kumithi-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+# Here Start the plants from
+# "Treasury of Indian Herbs" by Virginia Scully
+
+
+.NS
+Alder-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Alfalfa-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Alumroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Angel Stem-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Antelope Brush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Arnica-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Dittany,Basil-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Amole,Yucca-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Anise-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Prairie Apple,Breadroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Squaw Apple-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Arrowgrass-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Arowhead,Wapato,Swamp Potato-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Globe Thistle,Jerusalem Artichoke-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Asparagus-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Asters-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Long Plumed Avens,Plains Smoke-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Balsam,Toza-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Balsamroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Barley-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Black Beans-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Beard Tongue-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Beargrass-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bears Breeches-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bedstraw-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Beechwheat,Buckwheat-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Beeplant-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Betony-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bilberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Birthroot,Trillium-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bistort,Snakeweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bitterroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bittersweet-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Blazing Star,Gay Feather-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mountain Bluebell-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Blueberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Borage,Miner's Candle,Gromwell-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bullberry,Chaparral Berry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bulrush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Bunchberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Burdock-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Buttercup-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cabbage-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Camas-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cascara-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sweet Cicely,Wild Carrot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Catnip-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cattail-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Chickweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Clematis-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hawkweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hollyhock-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Licorice-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Milkweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pussytoes,Catspaw-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rabbitbrush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Salsify-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Chia,Chan-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Chico,Saltbush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Chicory-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lantern Plant-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cinquefoil-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Clover-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Corn Smut-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cous-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cowslip-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cranesbill-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Creosote Bush,Resin Plant-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Cucumber,Marah-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Currants-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Daisies-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Dandelion-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Dock-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Dogbane,Hemp-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Elder-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Ephedra,Joint Fir,Mormon Tea-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Everlasting-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Fairybells-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Fennel-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Fireweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Flax-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Morning Call,Four O'clocks-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Fritillary-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Garlic-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Gentian-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Geranium-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Goldenrod-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Gooseberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hippophas-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Grape-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Gromwell-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Groundnut-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Gumplant-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Harebell,Bluebell-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Haw-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hawthorn-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Horsemint,Oregano-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hyacinth-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Hyssop-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Snowdrop,Valtier Potato-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mountain Iris-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Juniper-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lambs Quarters-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Laurel-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Leek-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Lupines-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mahogany-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Manzanita-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Marsh Marigold-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sun Melons-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mesquite-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Monkey Flower-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mugwort-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mullein-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Mustard-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Nettle-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Onion-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Red Orchid-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Parsley-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pennyroyal-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pigweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Plantains-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Plum-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pink Plumes-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Primrose-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Primrose-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Pumpkin-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Purslane-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rabbitguts-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Raspberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rice-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Roper's Relief-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rose-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Meadow Rue-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rushes-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rushpink-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Rye-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Saltbush,Chico-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sandgrass-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sandroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sassafras-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sedge-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sarvis Berry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Shooting Star-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Skullcap-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Skunkbush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Skunkcabbage-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sneezeweed-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Snowberry,Honey Plant-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Snowbush,Soapbloom-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Snowdrop-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+False Solomon's Seal,Spikenard-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sorrel-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Spirea-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Squash-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Squawbush-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Star Flower,White Evening-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Strawberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Red Sumac-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+White Sumac-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Sunflower-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Syringa-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Thimbleberry-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Thistle-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tobacco-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Tobaccoroot-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Twisted Stalk-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Violet-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Wake Robin-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Wallflower-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Watercress-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Waterleaf-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Wheat-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Willowherb-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+White Wyethis-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yampa-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yarrow-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yerba Mancha,Val Tier Beads-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE
+
+.NS
+Yucca-V(Small Plant)-C-ALL-NONE-FD,HL,PO,MG,AL
+.NE
+.DS
+.DE
+.CS
+.CE

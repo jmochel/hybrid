@@ -1,0 +1,21 @@
+name      Pony
+intell    high
+armour    3
+ht        36   48
+wt        340  400
+ps        19   24
+md        0    0
+ag        13   15
+tmr       7    7
+en        12   14
+fat       20   22
+wp        9    11
+ma        0    0
+pc        16   19
+pb        10   12
+attack1   20   -1
+attack2   15   -4
+
+
+
+

@@ -1,0 +1,86 @@
+This is emTeX (tex386), Version 3.14159 [4b] (preloaded format=latex 96.1.10)  12 MAY 1996 12:16
+**&latex CMBTTAB.LTX
+(cmbttab.ltx
+LaTeX2e <1995/06/01> patch level 3
+(c:/emtex/texinput/latex2e/latex209.def
+File: latex209.def 1995/07/07 v0.47 Standard LaTeX file
+
+Entering LaTeX 2.09 compatibility mode.
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+(c:/emtex/texinput/latex2e/tracefnt.sty
+Package: tracefnt 1995/06/15 v3.0b Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 133.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 276.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 278.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 284.
+LaTeX Info: Redefining \em on input line 294.
+
+(c:/emtex/texinput/latex2e/latexsym.sty
+Package: latexsym 1995/03/18 v2.2a Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 81.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 359.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 361.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 363.
+) (c:/emtex/texinput/latex2e/report.cls
+Document Class: report 1995/06/26 v1.3g Standard LaTeX document class
+(c:/emtex/texinput/latex2e/size10.clo
+File: size10.clo 1995/06/26 v1.3g Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+LaTeX Info: Redefining \cal on input line 551.
+LaTeX Info: Redefining \mit on input line 552.
+\bibindent=\dimen105
+) (sh.sty)
+
+! LaTeX Error: File `relate.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: x
+
+ )
+(\end occurred when \ifx on line 2 was incomplete)
+(\end occurred when \ifx on line 2 was incomplete)
+(\end occurred when \ifx on line 2 was incomplete) 
+Here is how much of TeX's memory you used:
+ 328 strings out of 55967
+ 2981 string characters out of 211646
+ 46448 words of memory out of 262143
+ 3226 multiletter control sequences out of 10000
+ 3640 words of font info for 14 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 19i,1n,19p,176b,37s stack positions out of 300i,100n,60p,5000b,1000s
+
+No pages of output.

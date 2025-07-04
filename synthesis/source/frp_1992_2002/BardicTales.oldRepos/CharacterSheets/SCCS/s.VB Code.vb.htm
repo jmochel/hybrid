@@ -1,0 +1,94 @@
+h43767
+s 00067/00000/00000
+d D 1.1 00/02/04 15:15:09 jmochel 2 1
+cK04794
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:15:04 jmochel 1 0
+c BitKeeper file g:/BardicTales/CharacterSheets/VB Code.vb.htm
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07866
+cPCharacterSheets/VB Code.vb.htm
+cR84cc62905cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 HTML//EN">
+<HTML>
+<HEAD>
+
+<META content=text/html;charset=iso-8859-1 http-equiv=Content-Type><!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 HTML//EN">
+<STYLE></STYLE>
+
+<META content='"MSHTML 4.72.2106.6"' name=GENERATOR>
+</HEAD>
+<BODY bgColor=#fffbf0><B>From:</B> Jim Everett-Wilson 
+[jaw@foliage.com]<BR><B>Sent:</B> Friday, January 22, 1999 2:19 PM<BR><B>To:</B> 
+Jim Jackl-Mochel<BR><B>Subject:</B> VB Code<BR>
+<DIV><FONT size=2>Honest, normally I do indent my code but the cut and paste 
+lost it.</FONT></DIV>
+<DIV><FONT size=2>IsOdd and SpeedCalc are used by the other two 
+functions.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=2>FinalSpeed returns the suggested final speed for an 
+action</FONT></DIV>
+<DIV><FONT size=2>ExtraSpeed returns the number of unused (borrowed) speed 
+points if you use the suggested speed</FONT></DIV>
+<DIV><FONT size=2>and SpeedBonus returns the SC bonus based on the unused 
+(borrowed) speed points</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=2>Public Function IsOdd(ByVal i As Integer) As Boolean<BR>If i 
+Mod 2 = 1 Then<BR>IsOdd = True<BR>Else<BR>IsOdd = False<BR>End If<BR>End 
+Function</FONT></DIV>
+<DIV><FONT size=2><BR>Public Function SpeedCalc(ByVal BaseSpeed As Single, sp As 
+Integer) As Single<BR>Dim fs As Integer<BR>Dim bcm As Single<BR>Dim ppsp As 
+Single<BR>Dim sppsp As Integer<BR>fs = BaseSpeed<BR>If fs &gt; 1 Then<BR>If 
+IsOdd(fs) Then bcm = 0.8 Else bcm = 1#<BR>If sp &lt; (10 * bcm) 
+Then<BR>SpeedCalc = fs<BR>Exit Function<BR>End If<BR>fs = Int((fs + 1) / 
+2)<BR>sp = sp - (10 * bcm)<BR>End If<BR>While fs &gt; 1<BR>If IsOdd(fs) Then bcm 
+= 0.8 Else bcm = 1#<BR>sppsp = fs - Int((fs + 1) / 2)<BR>ppsp = Int((20 * bcm) / 
+sppsp)<BR>If ppsp &lt;= 0 Then ppsp = 1<BR>While sppsp &gt; 0<BR>If sp &lt; ppsp 
+Then<BR>SpeedCalc = fs<BR>Exit Function<BR>End If<BR>sp = sp - ppsp<BR>fs = fs - 
+1<BR>sppsp = sppsp - 1<BR>Wend<BR>Wend<BR>If sp &gt; 20 Then<BR>sp = sp - 
+20<BR>If sp &gt; 20 Then<BR>sp = sp - 20<BR>SpeedCalc = 
+0.33<BR>Else<BR>SpeedCalc = 0.5<BR>End If<BR>Else<BR>SpeedCalc = 1<BR>End 
+If<BR>End Function</FONT></DIV>
+<DIV><FONT size=2><BR>Public Function FinalSpeed(ByVal BaseSpeed As Single, 
+ByVal speedPoints As Single) As Single<BR>Dim sp As Integer<BR>sp = 
+speedPoints<BR>FinalSpeed = SpeedCalc(BaseSpeed, sp)<BR>End 
+Function</FONT></DIV>
+<DIV><FONT size=2><BR>Public Function ExtraSpeed(ByVal BaseSpeed As Single, 
+ByVal speedPoints As Single) As Single<BR>Dim sp As Integer<BR>Dim x As 
+Single<BR>sp = speedPoints<BR>x = SpeedCalc(BaseSpeed, sp)<BR>ExtraSpeed = 
+sp<BR>End Function</FONT></DIV>
+<DIV><FONT size=2><BR>Public Function SpeedBonus(ByVal BaseSpeed As Single, 
+ByVal speedPoints As Single, ByVal fudge As Single) As Single<BR>Dim sp As 
+Integer<BR>Dim x As Single<BR>sp = speedPoints<BR>x = SpeedCalc(BaseSpeed, 
+sp)<BR>If (sp - fudge) &gt; 0 Then<BR>SpeedBonus = 5 * (sp - 
+fudge)<BR>Else<BR>SpeedBonus = 10 * (sp - fudge)<BR>End If<BR>End 
+Function</FONT></DIV>
+<DIV><FONT size=2><BR></FONT>&nbsp;</DIV>
+<DIV><FONT size=2></FONT>&nbsp;</DIV>
+<DIV>
+<HR>
+
+<TABLE>
+    <TBODY>
+    <TR>
+        <TD><FONT face=verdana size=-1>Jim Everett-Wilson<BR>Engineering 
+            Director<BR>Foliage Software Systems </FONT></TD>
+        <TD width=40></TD>
+        <TD><FONT face=verdana size=-1>Tel: 781.271.0084 x 627<BR>Fax: 
+            781.271.0215 </FONT></TD></TR></TBODY></TABLE></DIV></BODY></HTML>
+E 2
+I 1
+E 1

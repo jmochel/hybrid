@@ -1,0 +1,79 @@
+.Name Merith the Mad, Therim
+.Title The Mad, Eyebright			  
+.Race Human
+.Culture
+.Aspect 
+.PST 16
+.PEN 18		
+.DEX 16
+.PAG 12		
+.PAW 14
+.MST 18		
+.MEN 21
+.PSI 18
+.MAG 16
+.MAW 18
+.HT 81		
+.WT 225		 
+.AGE 37
+.BeginDesc
+Tall, thin, and Fanatic. Slightly unkempt hair worn long (Mid back) and
+held there by a gold hair band of two hands clasped together. Wears a Cotte
+and trousers of silk. A warm red cloak (Enchanted) that keeps the temperature 
+acceptable.
+.EndDesc
+.BeginSkills
+Weapon: Staff, 13
+Weapon: Blowgun, 10
+Weapon: Grenade, 16
+Weapon: Dagger, 6
+Weapon: Garrotte, 4
+Weapon: Crossbow, 3
+.EndSkills
+.Locale Kaylin Mt. Range
+.BeginKnownAssoc
+Gibbs Group.
+.EndKnownAssoc
+.BeginSecretAssoc
+Guardians of the Moongather
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+Well schooled in manners and courtesy. Son of a High Noble in Temoroth.
+.EndComment
+.BeginPossess
+Con-light dagger, 5 fire trapped molotovs, Staff: silver shod with 
+gem hole 
+Leather Shoulder pack: fire Trapped, Ring of Prot +3, Cloak of Prot +2
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+Opal Eyed Steed, 16
+Flash of Night, 12
+T:Fabric Open, 18
+T:Fabric Bar, 18
+T:Fabric Feel, 20
+T:Fabric Ripple, 21
+T:Special Effects, 16
+T:Trigger, 12
+T:Ride the Lightning, 6
+T:Teleport Blow, 12
+Flight of the Bumble Bee, 10
+Golden Bracers of Shai-thern, 12
+Great Shout, 16
+Humble Mumble, 7
+Cruise Magic Missile, 8
+Magic Missile, 9
+ME:Fire, 8
+ME:Fabric, 18
+ME:Light, 6
+ME:Lightning, 12
+ME:Psi, 5
+Run Like Hell, 11
+.EndSpells
+.EndNPC

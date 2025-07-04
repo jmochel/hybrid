@@ -1,0 +1,60 @@
+h08082
+s 00029/00000/00000
+d D 1.1 00/08/14 16:15:53 jmochel 2 1
+cC
+cF1
+cK38687
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:53 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/docs/api/stylesheet.css
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK03294
+cPdocs/api/stylesheet.css
+cR8770a464
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+/* Javadoc style sheet */
+
+/* Define colors, fonts and other style attributes here to override the defaults  */
+
+/* Page background color */
+body { background-color: #FFFFFF }
+
+/* Table colors */
+.TableHeadingColor     { background: #CCCCFF } /* Dark mauve */
+.TableSubHeadingColor  { background: #EEEEFF } /* Light mauve */
+.TableRowColor         { background: #FFFFFF } /* White */
+
+/* Font used in left-hand frame lists */
+.FrameTitleFont   { font-size: normal; font-family: normal }
+.FrameHeadingFont { font-size: normal; font-family: normal }
+.FrameItemFont    { font-size: normal; font-family: normal }
+
+/* Example of smaller, sans-serif font in frames */
+/* .FrameItemFont  { font-size: 10pt; font-family: Helvetica, Arial, sans-serif } */
+
+/* Navigation bar fonts and colors */
+.NavBarCell1    { background-color:#EEEEFF;}/* Light mauve */
+.NavBarCell1Rev { background-color:#00008B;}/* Dark Blue */
+.NavBarFont1    { font-family: Arial, Helvetica, sans-serif; color:#000000;}
+.NavBarFont1Rev { font-family: Arial, Helvetica, sans-serif; color:#FFFFFF;}
+
+.NavBarCell2    { font-family: Arial, Helvetica, sans-serif; background-color:#FFFFFF;}
+.NavBarCell3    { font-family: Arial, Helvetica, sans-serif; background-color:#FFFFFF;}
+
+E 2
+I 1
+E 1

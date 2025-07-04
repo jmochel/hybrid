@@ -1,0 +1,50 @@
+h05824
+s 00022/00000/00000
+d D 1.1 99/12/02 16:07:47 jmochel 2 1
+cC
+cK32101
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:07:44 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/sarsin.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45046
+cPworlds/tanah/races/sarsin.rac
+cReb4787dc5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Sarsin}
+
+\section*{Statistics}
+
+\begin{itemize}
+	\item[Race Name] Sarsin
+	\item[Avg. Height] 5'6"/5'1"
+	\item[Avg. Weight] 135/100
+	\item[Skin Color] Sallow
+	\item[Hair Color] Black hair
+	\item[Eye Color] Brown
+	\item[Stat Mods]
+	\item[Inherent Skills]
+\end{itemize}
+
+\section*{Description}
+
+Very hooked nose
+
+\section*{Cultures and Sub-groups}
+Sarsi
+
+E 2
+I 1
+E 1

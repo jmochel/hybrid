@@ -1,0 +1,112 @@
+h36783
+s 00084/00000/00000
+d D 1.1 99/12/02 15:49:31 jmochel 2 1
+cC
+cK62178
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:49:27 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Skills/psionicskills.skilldat
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44937
+cPDoc/Skills/psionicskills.skilldat
+cReb47868c5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Title Psionic Skills
+
+.BeginSkill	Disguise:(Psionic)
+.BaseType MDISC
+.Interaction U
+.Implementation ST
+.StatBasis		PSI
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Stealth:(Psionic) 
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		MAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Discipline:(Pick Name)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Discipline:(Pick Name)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+Telekinetics(Filter)
+Telekinetic Perception
+Telekinesis
+Discipline:Levitate
+Biokinetics(Filter)
+Biokinetic Perception
+Biokinesis
+Gestalt Lore:My Own Body
+Temporokinetics(Filter)
+Temporokinetic Perception
+Temporokinesis
+Discipline:Teleportation
+Memorize Location
+Energetics(Filter)
+Energetic Perception
+Energetics (Transform Energy )
+Knowledge of Energy:Heat or
+Physics E\&M or
+Gestalt Lore:IR
+Telepathics(Filter)
+Telepathic Perception
+Telepathy
+Discipline:Empathy
+Discipline:Telempathic Projection
+Discipline:Surface Read
+Discipline:Telepathic Surface Projection
+Discipline:Telepathic Read
+Discipline:Telepathic Projection
+Discipline:Telepathy
+Discipline:Mind Meld
+Mystokinetics(Filter)
+Mystokinetic Perception
+Mystokinetics
+Discipline:Precognition
+Discipline:Retrocognition
+Discipline:Object Reading
+Deception(Psionic)
+E 2
+I 1
+E 1

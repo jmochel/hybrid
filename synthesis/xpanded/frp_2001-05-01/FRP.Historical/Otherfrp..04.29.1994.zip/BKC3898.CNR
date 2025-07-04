@@ -1,0 +1,65 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210191246.403;
+          10 Dec 91 19:13:08 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210191246.403;
+          10 Dec 91 19:13:02 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04713; Tue, 10 Dec 91 19:14:37 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA06211; Tue, 10 Dec 91 17:58:46 -0500
+Message-Id: <9112102258.AA06211@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 3257; Tue, 10 Dec 91 17:58:47 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9146;
+ Tue, 10 Dec 91 17:58:46 EST
+Date:         Tue, 10 Dec 1991 17:54:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Dave_Wetzel%VOS.STRATUS.COM@uga.cc.uga.edu
+Subject:      RPG/no attributes
+X-To:         GMAST-L%UTCVM.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Re: Jeff's (TOLLEJX%UNCG.BITNET@uga.cc.uga.edu) proposal to not have
+     attributes just have maneuver skills in agility, strength, memory, etc.
+
+     I'm not necessarily opposed to this concept.  There is an elegance to
+it.  And it's definitely expandable.  The big question I have is how do we
+resolve unskilled maneuvers?  For example, my character has no
+agility-releated skills at all.  Nothing, zero, rein.  He finds himself
+needing to just a 1 foot wide crack.  How do I resolve this?  Does he always
+fall in?  Is there some minimum distance that even an agility(nil) character
+can jump?  (I get the mental image of a Gumby from Monty Python here...) In
+this case is there a minimum amount of information a memory(nil) character
+can recall?  How much can a strength(nil) character lift?  etc.
+
+     If we require all characters to spend at least one point in each of the
+top-level "skills" so we can resolve "default" situations, how is this
+different than attributes (stats which everyone has vs skills which everyone
+must purchase)?  Other than verbage that is.
+
+     The only other concern I have is that the relationships begin to get
+complex.  Concider:
+
+     * If I take eye-hand-co-ordination(7) am I as good at shooting a pistol
+       as someone with pistol(7)?
+
+     * Do we devide the skill by 2 for every level from the "leaf" skill to
+       the closest skill the character actually has?
+
+     * Are "parent" skills absolutely required to purchase "child" skills (do
+       you have to purchase eye-hand-co-ordination before you can purchase
+       pistol)?
+
+     * And what about relative skill level of parent-child skills?  Does the
+       top have to be the best?
+
+     * Or do we model the overcoming of poor eye-hand co-ordination with
+       practice at a specific skill (what do you do with activities like t'ai
+       ch'i which should improve the higher-level "skills" but should also
+       have a value of it's own to measure how well you can perform the
+       sequence?)?
+
+     There's a lot to think about...
+
+Dave_Wetzel@vos.stratus.com

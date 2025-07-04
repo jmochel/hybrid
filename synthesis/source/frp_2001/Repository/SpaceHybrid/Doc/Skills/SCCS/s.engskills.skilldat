@@ -1,0 +1,233 @@
+h12747
+s 00205/00000/00000
+d D 1.1 99/12/02 15:49:10 jmochel 2 1
+cC
+cK39091
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:49:06 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Skills/engskills.skilldat
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44935
+cPDoc/Skills/engskills.skilldat
+cReb4786925cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Title Engineering Skills
+
+.BeginSkill Aeronautics Engineering 
+.BaseType ENG
+.Interaction U
+.Implementation CT
+.StatBasis FCS
+.BeginDesc
+The engineering discipline involving the design of atmospheric craft.
+.EndDesc
+.BeginDF
+7	Analysis of the design of a craft.
+.EndDF
+.EndSkill
+
+.BeginSkill	Applied Linguistics
+.BaseType ENG
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+The engineering discipline involving the design of languages and methods of
+communication via language.
+.EndDesc
+.BeginDF
+8	Analysis of a languages structure
+.EndDF
+.EndSkill
+
+.BeginSkill	Aquaculture Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill Archeology, Field
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill Astrogation		
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Biomedicine
+.BaseType ENG
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill Chemical Engineering		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Chemical Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Civil Engineering		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Civil Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Clinical Psychology  
+.BaseType ENG
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Combat Engineering
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Combat Operations:(Environment)
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Communications Operations
+.BaseType TECH
+.Interaction U
+.Implementation CT
+.StatBasis	FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Computer Engineering		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+7 Design a simple computer (may take a good period of time)
+.EndDF
+.EndSkill
+
+.BeginSkill Computer Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+7 Write a simple program 
+.EndDF
+.EndSkill
+
+.BeginSkill Demolitions Operations
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS+PDX
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+E 2
+I 1
+E 1

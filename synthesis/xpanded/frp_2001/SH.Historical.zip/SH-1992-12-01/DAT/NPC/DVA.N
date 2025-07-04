@@ -1,0 +1,46 @@
+.Name DVA VOSEM
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 15
+.PEN 15		
+.DEX 17
+.PAG 10		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 11
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 220		 
+.AGE 
+.BeginDesc
+ 12: ROUND AND JOLLY WITH A FRIAR TUCK ATTITUDE.
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale SOUTHERN CENTAUR PLAINS
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+ KERKAJAMEN
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ ALWAS FOUND IN THE COMPANY OF FOOD.
+.EndComment
+.BeginPossess
+ MACE + 1 , STAFF OF SURPRISE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

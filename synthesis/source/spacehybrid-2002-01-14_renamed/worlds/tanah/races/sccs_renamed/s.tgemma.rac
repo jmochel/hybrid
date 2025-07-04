@@ -1,0 +1,56 @@
+h58099
+s 00028/00000/00000
+d D 1.1 99/12/02 16:07:58 jmochel 2 1
+cC
+cK18888
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:07:54 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tgemma.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45047
+cPworlds/tanah/races/tgemma.rac
+cReb4787d95cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Tor-Gemma}
+
+\section*{Statistics}
+
+\begin{itemize}
+        \item[Race Name]                  Tor-Gemma
+        \item[Avg. Height]                8
+	\item[Avg. Weight]		  ??
+	\item[Skin Color]		  Dark Brown to Black
+	\item[Hair Color]		  Reddish Brown to Black
+	\item[Eye Color]		  Gold, Green, Sapphire Blue, to Garnet Red
+	\item[Stat Mods] Scale 1. PEN+3
+	\item[Inherent Skills] ME:Earth. Armor of Will.
+\end{itemize}
+
+\section*{Description}
+
+The smallest and the densest of the giants the Tor-Gemma are lovers of the
+barren high places and crafters of beautiful sculptures in stone and gems. 
+
+Like all of their brethren, they cannot lie. In fact, it is important to them 
+that lies be corrected. Thus they are really unable to stay in the company of 
+those who are not fairly honest. Not that the giant has any problem, he/she will 
+simply correct the falsehoods as they occur, the rest of the party will have a 
+problem !
+
+\section*{Cultures and Sub-groups}
+Tor-Gemma
+E 2
+I 1
+E 1

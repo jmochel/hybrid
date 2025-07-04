@@ -1,0 +1,19 @@
+jmochel 976039911: sfio -o -q - = 0
+jmochel 976039911: sfind = 0
+jmochel 976039913: parent f:/Repository/BardicTales = 0
+jmochel 976041877: sfio -o -q - = 0
+jmochel 976041877: sfind = 0
+jmochel 976041879: parent f:/Repository/BardicTales = 0
+jmochel 976282673: cd f:/Repository/BardicTales = 0
+jmochel 976282673: rootkey = 0
+jmochel 976282684: cd f:/Repository/BardicTales = 0
+jmochel 976282684: rootkey = 0
+jmochel 976282684: prs -r1.0.. -bhad:KEY:
+ ChangeSet = 0
+jmochel 976282791: sfio -o -q - = 0
+jmochel 976282791: sfind = 0
+jmochel 976282795: parent f:/Repository/BardicTales = 0
+jmochel 976282944: sfio -o -q - = 0
+jmochel 976282944: sfind = 0
+jmochel 976284346: edit - = 1
+jmochel 976284346: sfind = 1

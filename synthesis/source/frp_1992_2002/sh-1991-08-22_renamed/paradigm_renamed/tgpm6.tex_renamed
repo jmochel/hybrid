@@ -1,0 +1,18 @@
+% FILE Initiative Roll Modifiers
+% REF tab:UnengagedInitiativeMods
+\begin{table}[h]
+\centering
+\caption{Unengaged Initiative Modifiers}\label{tab:UnengagedInitiativeMods}
+	\begin{tabular}{||l|l||} \hline
+    Situation				&  Modifier \\ \hline
+	Blinded                 &  -5 EF \\
+	Deafened                &  -3 EF \\
+	Drunk/Stoned            &  -5 EF \\
+	Asleep                  &  -4 EF \\
+	Poor Lighting           &  -3 EF \\
+	Not Alert 				&  -3 EF \\
+        Alert			&  +0 EF \\
+	Actively Watching		& +2 EF \\
+        Kata Action             &  +0.5 EF \\ \hline
+	\end{tabular}
+\end{table}

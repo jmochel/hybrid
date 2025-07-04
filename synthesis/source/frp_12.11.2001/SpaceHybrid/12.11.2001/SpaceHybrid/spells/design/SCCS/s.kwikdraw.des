@@ -1,0 +1,47 @@
+h52809
+s 00019/00000/00000
+d D 1.1 99/12/02 15:55:23 jmochel 2 1
+cC
+cK14050
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:55:20 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/spells/design/kwikdraw.des
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44972
+cPspells/design/kwikdraw.des
+cReb4786ea5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Name QuickDraw
+.NRG Power
+.ACT Bind
+.ACT Hold
+.ACT FastActivate
+
+.TARGET Spells
+
+.CCOMP Preparation
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 20
+.CDF -4
+.CTSCALE Min
+.DUR 2
+.DURSCALE Day
+.QE 30
+.LINKQE 2
+E 2
+I 1
+E 1

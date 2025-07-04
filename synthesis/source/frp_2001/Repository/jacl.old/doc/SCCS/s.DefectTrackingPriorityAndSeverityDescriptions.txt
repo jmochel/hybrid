@@ -1,0 +1,106 @@
+h10834
+s 00078/00000/00000
+d D 1.1 99/11/17 12:50:30 jmochel 2 1
+cC
+cK32602
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:27 jmochel 1 0
+c BitKeeper file e:/jacl/doc/DefectTrackingPriorityAndSeverityDescriptions.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45335
+cPdoc/DefectTrackingPriorityAndSeverityDescriptions.txt
+cR2f93d7c75cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+============================================================================
+			
+			Defect Severity 
+
+============================================================================
+
+Critical Performance/Functionality Defects
+------------------------------------------
+Critical performance/Functionality Defects are those defects that 
+cause unrecoverable errors during a test run. Examples of these 
+defects are:
+Corrupt data.
+Crash the application.
+Hanging the system.
+
+Serious Performance/Functionality Defects
+-----------------------------------------
+Serious Level Performance/Functionality Defects are those defects 
+that have a major impact on functionality. These defects require a 
+serious amount effort to work around the area affected. Examples of 
+these defects are:
+Functionality not implemented.
+Failure of system to return all resources to the operating system on exit.
+
+Medium Performance/Functionality Defects
+----------------------------------------
+Medium Level Performance/Functionality Defects are those defects 
+that have some impact on functionality. These defects require some 
+effort to work around the bug. Examples of these defects are:
+A specific set of non-standard instructions cause an unexpected result.
+
+Low Level Performance/Functionality Defects
+Low Level Performance/Functionality Defects are those defects that 
+have little or no impact on functionality. Examples of these defects 
+are:
+Longer than normal lags.
+Having to re-select buttons.
+
+Functionality Enhancement Requests
+----------------------------------
+Software enhancements are additions to the functionality specification. 
+These are areas of functionality that were not included in the 
+functional specification. However during the course of development 
+and testing, some area(s) will probably be discovered to be awkward 
+and/or some additional functionality will be needed. Enhancements 
+will be implemented as time, resources and budgeting allow. All 
+enhancements that are made to the application will require that the 
+Functional Specification be updated accordingly.
+
+
+
+============================================================================
+			
+			Defect Priority
+
+============================================================================
+
+
+Critical Level
+--------------
+The fix/enhancement is required in the current revision.
+
+High Level
+----------
+The fix/enhancement should be in the current revision if it does not 
+severely impact the release schedule.
+
+Medium Level
+------------
+The fix/enhancement should be in the current revision if it does not
+impact the release schedule.
+
+Low Level
+----------
+The fix/enhancement should be added when time, resources and 
+budgeting allows.
+
+
+E 2
+I 1
+E 1

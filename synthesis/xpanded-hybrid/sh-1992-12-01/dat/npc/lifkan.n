@@ -1,0 +1,76 @@
+.Name LIFKAN "GLOWING EYE"
+.Title PEOPLE CHAMPION				
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 30
+.PEN 25		
+.DEX 35
+.PAG 23		
+.PAW 20
+.MST 18		
+.MEN 14
+.PSI 20
+.MAG 14
+.MAW 17
+.HT 6'1"
+.WT 158 LBS
+.AGE 200+
+.BeginDesc
+TALL FAIR HAIRED,FAIR SKINNED ,ONE BROWN EYE ONE GREEN EYE. OFTEN	 
+WEARS LEATHER ARMOUR AND CHAIN.
+.EndDesc
+.BeginSkills
+Weapon: LongSword, 26
+Weapon: Longsword Parry, 20
+Weapon: Longsword Block, 20
+Weapon: Longsword Feint, 20
+Weapon: Longsword Disarm, 20
+Weapon: Shield, 20
+Weapon: Shield Block, 16
+Weapon: Shield Parry, 12
+Weapon: Shield Feint, 10
+Perception:Future, 12
+Perception:Past, 8
+ME:Power, 12
+ME:Belief, 12
+ME:Psi, 12
+ME:Water, 12
+ME:Air, 12
+ME:Fire, 12
+ME:Earth, 12
+ME:Light, 12
+ME:Dark, 12
+Belief Focus, 20
+Commune with Land, 12
+Sense Truth, 20
+Sense Fate, 8
+Evaluate Metal, 12
+Forging Metal, 28
+Forging Power into Metal, 18
+Meditation, 15
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ CHURCH OF SIF,AND NOW GRODS GROUP, Then Koreal and Ezra.
+.EndKnownAssoc
+.BeginSecretAssoc
+ NONE
+.EndSecretAssoc
+.BeginFriends MANY
+.EndFriends
+.BeginComment
+CURRENTLY A VERY CONFUSED GUY. TRYING TO DEAL WITH HAVING BEEN IN		
+SUSPENDED ANIMATION FROM 400-1278 TO 1443. 
+.EndComment
+.BeginPossess
+HIS SWORD WRATHMANE AND HIS CHAIN AND PLATE ARMOUR
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

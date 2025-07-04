@@ -1,0 +1,41 @@
+.Name VAI'DOM MISANDER THALIONSER
+.Title								
+.Race G.ELF
+.Culture
+.Aspect 
+.PST 
+.PEN		
+.DEX 
+.PAG		
+.PAW 14
+.MST		
+.MEN 14
+.PSI 
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+.EndDesc
+.BeginSkills
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

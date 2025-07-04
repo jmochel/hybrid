@@ -1,0 +1,152 @@
+..  Contains Declaration of Utils for Amat C++ class code.
+..
+..  Author Jim Jackl-Mochel
+..  Date <???>
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.2 $
+..  $Date: 1998/07/21 11:09:21 $
+..
+..
+Status : Now including Util.Amat.ct
+..
+.set StandardTypes boolean char byte SSHORT USHORT SINT UINT SLONG ULONG float double string
+.set DontPassAsRefTypes boolean char byte SSHORT USHORT SINT UINT SLONG ULONG 
+.set ProhibitedTypes int long short
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests for standard data types
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsStandardType type
+.if ${member $(type) $(ProhibitedTypes) }
+.error "Type is a prohibited basic data type : $(type)"
+.exit 
+.endif
+.return ${member $(type) $(StandardTypes) }
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests for standard data types
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+.macro PassAsRef type
+.return ${member $(type) $(DontPassAsRefTypes) }
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Normalizes some types for namespaces
+..
+..  Parameters
+..
+..      type - the type being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+.macro NormalizeForMSVC type
+.if ${eq $(type) "string"}
+.return "std::string"
+.else
+.return $(type)
+.endif
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests for a type being a typedef (constructor)
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsTypedef type
+.return ${member $(type)  $(ttypelist)}
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests if the type is a String
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsString type
+.return ${eq $(type) "string" }
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests to see if the term is the last term in the given list.
+..
+..  Parameters
+..
+..      term - the term being tested for inclusion
+..      list - the list being tested against
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsLastTermInList term list
+.return ${== ${index $(term) $(list)} ${len $(list)}}
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Tests if a list has any entries
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsPopulated list
+.return ${!= 0 ${len $(list)}}
+.endmacro
+..
+..
+..  EOF
+..

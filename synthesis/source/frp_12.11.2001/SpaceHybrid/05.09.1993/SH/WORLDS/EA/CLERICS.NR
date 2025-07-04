@@ -1,0 +1,136 @@
+The Clerics of Ea - General
+
+    	The clerical orders of EA often resemble the Knights
+	militant of the Middle Ages. They are well trained in the
+	devotional way and fighting aspect ( if any ) of their deity.
+	Most clerics have a limited number of attack spells. Clerical
+	spells draw upon the ambient power of their deity or his
+	minions. A cleric usually casts with his holy symbol as a focus.
+	Rarely will a Cleric's use of spells attract or require the
+	attention of his Diety. Such attention can usually be gained in
+	only the following ways: 
+
+	1. Casting a spell that specifically requires the deity's attention.
+
+	2.  A request for divine intervention. The aid gained thus is usually
+	minimal and requires payback. The gods are very lazy.
+
+    " Be careful what you pray for, you may get your wish"
+
+	3.  The energetic opposition of several clerics is a good beacon for
+	attention ,if rarely for divine action. 
+
+	A cleric gains the knowledge and ability from his deity at the
+	consecration of the cleric at each level. This includes spell
+	knowledge and special skills but not combat skills.
+
+The Clerics of Ea - Specifics of Spells
+
+		Clerical healing will have 1/2 effect on the damage caused by
+	trey wights and black unicorns.  Only druids and moonsingers may
+	have full effect on such injuries.  
+
+		Note that a cleric may choose to "throw" the resurrection and
+	subtract 30% from the character's survival roll.  this may bring
+	a cleric into contention with his deity if not done with good
+	reason.
+
+The Clerics of Ea - Ceremonies of Interest
+
+DEFINITIONS
+	Consecration is the act of drawing divine attention to
+an object or area and asking that it be made holy. Holy is a
+state of divine favor.
+
+There are several ceromonies that are available to all priests 
+or priestesses.
+
+
+FINAL RITES - speeds the soul on its appointed journey to its
+destined plane. Attempts to create undead from this body and
+soul are at  -2(10%) for 1wk./lvl of cleric.
+
+NAMING  - not necessarily at birth . Allows the cleric to
+give upon an individual that person's True Name. This may or
+may not have signifigance depending upon the culture. Often
+used as a coming of age ritual.
+
+WEDDING - joining of two individuals in a way that calls
+them to the attention of an entire pantheon. Requires a
+Consecration to the Living.
+
+PROTECTED THOUGHTS - allows the cleric to hear confession(*)
+without having it read from his mind. Any attempt to divulge
+it or take it causes the memories to temporarily slip away
+from the cleric's mind.
+
+CONSECRATION TO THE LIVING - Purifies an area so that
+services may be performed upon it.  Used for weddings and
+dissolutions(divorces).  Duration is 4+1hrs/lvl
+AOE: 5' sq. /lvl
+
+DESECRATION - This "ritual" allows the individual to attempt
+to deconsecrate an altar or artifact.
+Base Chance = 10%
+Desecrator is nondevout -9%
+Desecrator is cleric (non high priest) + 3%/lvl.
+Desecrator is blessed by High Priest +10%
+Paladin + 20%
+
+BURIAL - Protects the corpse for one week/level of Cleric
+with a Prot from Evil spell. Also, any who attempt to dig the
+corpse up must roll a ST vs Magic or run in fear for 1-10
+rounds.
+
+-----------------------------------
+| 2nd level Cleric                |
+|                                 |
+| Range:touch        CT:3 hour    |
+| Duration:permanent      ST:none |
+| Area of Effect: Special         |
+-----------------------------------
+
+INVESTITURE - Invests the cleric with the skills, spell knowledge and
+special abilities inherent within his new level. This is required for
+his/her training.The cleric performing the Investiture must be of higher
+level than the level of the cleric under training. 
+
+ROYAL WEDDING - calls the couple to the attention of a specific deity. 
+
+CONSECRATION TO THE DEAD - A ritual that has two uses :
+1. To lay the dead to rest.
+2. To create land for a burial ground.
+
+CT:10 hours.
+AOE:1"/lvl
+HD affected = additive factorial(level of cleric)
+Ground so consecrated will act to turn undead as a 3rd level cleric except
+upon the anniversary of its consecration during which it acts as a 6th
+level cleric. 
+
+-----------------------------------
+| 7th level Cleric                |
+|                                 |
+| Range:touch        CT:3 hour    |
+| Duration:permanent      ST:none |
+| Area of Effect: Special         |
+-----------------------------------
+
+CONSECRATION TO THE DIVINE - Requires Bless, ritual sacrifice, and commune
+spells.  six high priests are required. 
+
+results :  Permenant avoidance of all scrying except by other clerics of
+the same religion. Divine sanctuary including prot from undead,psi,and
+summonings. 
+CT: 2 weeks
+
+EXCOMMUNICATION - places a mark upon the individual visible to all. This
+brings the event in question to the attention of the deity.  it places
+both the clerics and the accused on trial.  requires three high priests. 
+
+PURIFICATION - removal of taint from an object.
+nonenchanted 50% + 5/lvl
+   enchanted 01% + 1/2lvls
+
+May never be cast twice by the same cleric on the same object.  This could
+concievably erase all psychic impressions from an object. 

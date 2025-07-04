@@ -1,0 +1,86 @@
+h18612
+s 00058/00000/00000
+d D 1.1 99/12/02 15:50:51 jmochel 2 1
+cC
+cK45653
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:50:48 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Biblio/reflex.dld
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44945
+cPResearch/Biblio/reflex.dld
+cReb4786b55cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+No.    Records  Request
+
+1:     698548   LA=ENGLISH
+2:     346603   HUMAN
+3:       1343   PERCEPTION
+4:        377   #1 and (HUMAN in DE) and (PERCEPTION in DE)
+5:          4   REACTION-TIME
+6:          1   #1 and (REACTION-TIME in DE)
+7:        311   REFLEXES
+8:         52   REFLEXES in DE
+
+                                 BA/RRM on CD 1/92 - 12/92               1 of 2  
+                                                            Marked in Search: #8
+TI: Motor control.
+AU: BIZZI-E; MUSSA-IVALDI-F-A
+CS: Dep. Brain and Cognitive Sci., Massachusetts Inst. Technol., Cambridge, Mass. 02139, USA
+BK: Goodglass, H. and A. R. Damasio (Ed.). Handbook of Neuropsychology, Vol. 2. xv+436p. 229-244.
+BN: 0-444-82310-1(paper); 0-444-81062-5(cloth)
+PB: Elsevier Science Publishers B.V. (Biomedical Division): Amsterdam, Netherlands; New York, New York, USA. Illus.
+PY: 1990
+CO: HANEEO
+LA: English
+DE: HUMAN; ARM MOVEMENT EXECUTION; PROPRIOCEPTIVE REFLEXES; MULTI-JOINT POSTURE; MOVEMENT; CENTRAL NERVOUS SYSTEM
+CC: CC07004 (Behavioral-Biology-Human-Behavior);
+    CC11318 (Chordate-Body-Regions-Extremities);
+    CC12502 (Pathology-General-and-Miscellaneous-General);
+    CC18006 (Bones-Joints-Fasciae-Connective-and-Adipose-Tissue-Pathology);
+    CC20504 (Nervous-System-Physiology-and-Biochemistry)
+CC: CC25508 (Developmental-Biology-Embryology-Morphogenesis-General)
+BC: BC86215 Hominidae
+ST: Animals; Chordates; Vertebrates; Mammals; Primates; Humans
+DT: Book-Chapter
+JA: Biological Abstracts/RRM Vol. 042 Iss. 006 Ref. 057809.
+UD: 9201
+
+                                 BA/RRM on CD 1989 - 1990                2 of 2  
+                                                            Marked in Search: #8
+TI: Examining the aging nervous system.
+AU: JENKYN-L-R
+CS: Sect. Neurol., Dartmouth-Hitchcock Med. Cent., Hanover, N.H. 03756
+SO: SEMINARS IN NEUROLOGY 9(1): 82-87
+PY: 1989
+CO: SEMNEP
+LA: English
+DE: HUMAN; OLFACTION; GUSTATION; EYE MOVEMENTS; MUSCLE TONE; REFLEXES; PARKINSON'S DISEASE; ALZHEIMER'S DISEASE
+CC: CC07004 (Behavioral-Biology-Human-Behavior);
+    CC17506 (Muscle-Pathology);
+    CC20006 (Sense-Organs-Associated-Structures-and-Functions-Pathology);
+    CC20506 (Nervous-System-Pathology);
+    CC21002 (Psychiatry-Psychopathology-Psychodynamics-and-Therapy);
+    CC24500 (Gerontology)
+CC: CC12100 (Movement)
+BC: BC86215 Hominidae
+ST: Animals; Chordates; Vertebrates; Mammals; Primates; Humans
+DT: Article
+JA: Biological Abstracts/RRM Vol. 037 Iss. 002 Ref. 012912.
+UD: 8903
+E 2
+I 1
+E 1

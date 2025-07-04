@@ -1,0 +1,42 @@
+H51385
+s 00001/00000/00001
+d D 1.2 01/05/29 12:34:45 jmochel 3 2
+c Logging to logging@openlogging.org accepted
+cC
+cHdevilmountain.corp.foliage.com
+cK07127
+cZ-04:00
+e
+s 00001/00000/00000
+d D 1.1 01/03/14 22:51:06 jmochel 2 1
+cC
+cF1
+cK03288
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/03/14 22:51:06 jmochel 1 0
+c BitKeeper file i:/Repository/TemplateCodeGenerator/BitKeeper/etc/logging_ok
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHmordanith.ne.mediaone.net
+cK48898
+cPBitKeeper/etc/logging_ok
+cRa487c1c4
+cV4
+cX0xa1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0xa1
+t
+T
+I 2
+jmochel@mordanith.ne.mediaone.net
+I 3
+jmochel@devilmountain.corp.foliage.com
+E 3
+E 2
+I 1
+E 1

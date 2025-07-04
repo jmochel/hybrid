@@ -1,0 +1,44 @@
+.Name CASTLESS THE PIOUS MINDED
+.Title CLERIC OF BALDER				 
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 10
+.PEN 15		
+.DEX 10
+.PAG 18		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 140		 
+.AGE 45
+.BeginDesc
+15 SHORT DARK HAIRED AND SMILING.CLEAN SHAVEN WITH A STRONG BLUNT	 
+CHIN, A HAWK LIKE NOSE, AND A FORELOCK OF HAIR WHICH IS CONTINIOUSLY FALLING IN 
+FRONT OF HIS EYES.
+.EndDesc
+.BeginSkills
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

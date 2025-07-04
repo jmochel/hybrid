@@ -1,0 +1,47 @@
+.Name KONARE'
+.Title SOVEREIGN WARDEN OF ELFREDAM
+.Race HU
+.Culture
+.Aspect 
+.PST 18:99
+.PEN 19		
+.DEX 18
+.PAG 17		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 5'11"     
+.WT 180		 
+.AGE 32
+.BeginDesc
+ RED HAIRED AND BLUE EYED WITH A LONG MUSTACHE AND NO BEARD.
+.EndDesc
+.BeginSkills
+Weapon: LONGSWORD(SPEC)	   , 
+.EndSkills
+.Locale ELFREDAM
+.BeginKnownAssoc
+ SOVEREIGN OF ELFREDAM
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends MADIR
+.EndFriends
+.BeginComment
+A DEADLY OPPONENT. HE TAKES HIS TITLE AS SOVEREIGN WARDEN QUITE			
+SERIOUSLY.
+.EndComment
+.BeginPossess
+ GREEN DRAGON GREATSHIELD + 2, LONGSWORD +2
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,744 @@
+From world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!math.ohio-state.edu!cs.utexas.edu!uunet!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:16 1993
+Xref: world rec.games.design:5974
+Newsgroups: rec.games.design
+Path: world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!math.ohio-state.edu!cs.utexas.edu!uunet!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: Chapter 3
+Message-ID: <1993Dec8.200432.1927@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:04:32 GMT
+Lines: 731
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                        By Steffan O'Sullivan
+                      Version: December 7, 1993
+
+Table of Contents
+=================
+
+3  Supernormal Powers
+    3.1  Supernormal Power Terms
+    3.2  Powers at Character Creation
+          3.21  Powers Available
+          3.22  Associated Skills
+          3.23  Combat Powers
+    3.3  Non-humans
+          3.31  Strength and Mass
+          3.32  Speed
+          3.33  Scale Correlations
+          3.34  Cost of Scale
+          3.35  Racial Bonuses and Penalties
+    3.4  Legendary Heroes
+    3.5  Magic
+    3.6  Miracles
+    3.7  Psi
+    3.8  Superpowers
+    3.9  Cybernetic Enhancements
+
+
+3  Supernormal Powers
+=====================
+
+If your game doesn't have any supernormal powers, you don't need to
+read Chapter 3 at all.  Genres such as modern espionage, WWII French
+resistance, gunslingers of the Old West, swashbuckling Musketeers or
+pirates are frequently played without supernormal powers.  Feel free
+to skip ahead directly to Chapter 4, Action Resolution.
+
+On the other hand, those who play in games with non-human races,
+magic, psi, superpowers, etc., will need to read this chapter before
+character creation is complete.
+
+3.1  Supernormal Power Terms
+----------------------------
+
+Supernormal power: any ability that is beyond the capability of human
+     beings as we know them.  Supernormal powers are basically very
+     powerful gifts.  Some may have associated skills (which are taken
+     separately, using the normal skill rules).
+
+Power: a supernormal power.
+
+Superfault: any fault that goes beyond the human norm.  These are
+     often associated with fantasy or alien races.  In the Objective
+     Character Creation system, the GM sets the value of each
+     superfault - it may be the same as an ordinary fault or worth
+     more.
+
+Mana: magical energy.  Mana is an invisible substance that magicians
+     can detect (or even create) and manipulate to alter matter, time
+     and space.
+
+Magic: the art of influencing events through manipulation of mana, or
+     through compelling supernormal beings from another dimension, or
+     channeling power from some other source.  Magic may be studied by
+     humans, but it is inherent in some races, such as the Faerie
+     Folk.
+
+Miracle: magic performed by a deity.  Miracles are often subtle.  Holy
+     persons can attempt to work miracles by invoking their deity.
+     Note that some religions call any being greater than human, that
+     can live in a non-material plane a deity.  Others believe there
+     is only one Deity, and that these other beings are simply angels,
+     demons, djinni, efriti, etc.  In the former belief, magical
+     results wrought by these superhuman beings are miracles; in the
+     latter belief, they are not miracles, but merely a display of
+     more psychic power than humans are capable of.
+
+Psi: any power that involves mind over matter, time or space.
+
+Superpower: any supernormal power that is an inherent ability, whether
+     because of mutation, exposure to radiation, a gift of space
+     aliens, etc., or granted by a device, such as an alien-science
+     belt.  Examples of superpowers can be found in many comic books,
+     and include super strength, the ability to fly, see through
+     walls, cling to ceilings, become invisible, etc.
+
+Cybernetic Enhancement: any mechanical or electronic enhancement to a
+     normal body that gives the character supernormal powers.
+
+Non-human Races: certain fantasy and science fiction races (actually
+     species) have abilities beyond the human norm, such as being much
+     stronger, or able to fly, etc.  Most of these abilities could
+     also be classified as Psi or Superpowers, so they are not treated
+     separately, except for Mass and Strength.  Note that androids and
+     robots are considered races for rules purposes.
+
+Scale: characters may have certain attributes that are well beyond the
+     human norm, one way or the other, but that need to be related to
+     the human norm.  Prime examples include Strength, Mass, and
+     Speed.  Such attributes are rated in *Scale*.  Human Scale is 0.
+     A race (or individual) of greater than human average strength,
+     for example, would be Scale 1 Strength or more, while a race of
+     lesser average strength than humans would be Scale -1 Strength or
+     less.  Individuals can then be of Fair strength, or Good
+     strength, etc., relative to those of their own Scale.
+
+Genetic Enhancement: a genetic enhancement may or may not give a
+     character supernormal powers.  If it does, then it must be
+     treated like any other supernormal power listed above.
+
+3.2  Powers at Character Creation
+---------------------------------
+
+Supernormal powers may or may not be available in a given game.  They
+are not appropriate to all genres.
+
+The best way to design a supernormal character is through close
+discussion with the GM.  A player should describe what he wants the
+character to be able to do, and the GM will decide if that's within
+the limits she has in mind for the game.  If not, she'll make
+suggestions about how to change the character to fit her campaign.
+
+Supernormal powers are treated as very powerful gifts, with
+availability set by the GM.  The GM may decide that each player can
+take two Powers for free, for example, or five, or more.  The player
+may make a case for further Powers, but may need to take faults to
+balance them.
+
+Some Powers might be so effective that they are worth more than other
+Powers.  In the Objective Character Creation system, the GM may set
+the cost of a certain supernormal power equal to two or three
+"average" supernormal powers.  In some cases, the GM may veto player
+suggestions outright: omniscience and omnipotence are good examples!
+
+The GM may decide that supernormal powers may be pooled with other
+traits for trading purposes.  In this case, one average Power is worth
+two gifts.  For example, a player who wishes to play a magician in a
+fantasy setting will need to trade some skill, attribute, or gift
+levels to buy magical Powers.
+
+Undefined Powers have a default of non-existent - that is, they do not
+have a default value of Fair, like attributes, or Poor, like skills.
+If a supernormal power is not defined for a character, he doesn't have
+it.
+
+3.21  Powers Available
+----------------------
+
+The GM needs to design the type, number allowed, and drawbacks of
+Powers in her game.  Some examples:
+
+Types of Powers: a given campaign may allow magic, psi, or
+   superpowers, etc., or some combinations of the above.  The GM also
+   needs to decide how finely a supernormal power is subdivided.  Is
+   ESP a generic Power, or is it split into separate Powers such as
+   Precognition and Clairvoyance?  Is magic subdivided into spells, or
+   groups of spells (such as elemental magic) or simply the ability to
+   break the laws of nature in any way that can be imagined?  And so
+   on.
+
+Number of Powers allowed: the GM may set the number of Powers allowed
+   per character.  The number may range from one to 20 - or even more.
+   Multiple Powers per character are especially likely in a fantasy
+   campaign where individual spells are separate Powers.
+
+Drawbacks of Powers: in some campaigns, using a Power may bear a
+   penalty of have some drawback.  Typical drawbacks include mental or
+   physical fatigue, lengthy time requirements, unreliable or
+   uncontrollable results, and undesirable side effects (such as loud
+   noises, bad smells, and the like).  Some Powers will only work
+   under certain conditions or with certain materials, or are limited
+   to a certain number of uses per day - or month.  Others may be
+   risky to the character, affecting physical or mental health.  The
+   GM may allow drawbacks to count as faults: a number of them can
+   offset the cost of a Power in the Objective Character Creation
+   system.
+
+3.22  Associated Skills
+-----------------------
+
+If a Power logically requires a skill to use it efficiently, the skill
+must be bought separately.  For example, the superpower Flight allows
+a character to fly, and usually no skill roll is needed.  But the
+ability to make intricate maneuvers in close combat without slamming
+into a wall requires a roll against a Flying skill.  (The GM may
+ignore this and simply say that the Power Flight means never needing
+to make a roll for any flying maneuver.)
+
+Another common skill is Throwing: hurling balls of fire or bolts of
+energy at a foe.  Or the GM might rule that being able to aim and
+accurately release such energy comes with the power for free: no roll
+needed, it automatically hits the target every time unless the target
+makes a Good Dodge roll (see Chapter 4, Action Resolution).
+
+This can be especially true with magic: the ability to cast spells at
+all may be a gift, but to do it right is a skill, or even many
+different skills.
+
+3.23  Combat Powers
+-------------------
+
+If a supernormal power can be used to attack a foe, the GM must
+determine the strength of the Power for damage purposes - preferably
+during character creation.  An offensive Power is usually handled as a
+propelled weapon, such as a gun, or as being equivalent to a certain
+melee weapon.  This can just be expressed in terms of damage, though,
+such as Ball of Fire, +6 damage, or large Claws, +3 damage.  (See
+Section 4.7, Damage and Healing.)
+
+In the case of a magical or superhero attack, the more potent the
+attack, the greater the power required, or perhaps the greater the
+taxation on the character who uses it.  This can be a penalty to the
+skill level, greater fatigue, and/or some other disadvantage.
+
+3.3  Non-humans
+---------------
+
+Some campaigns will have characters (or animals, monsters, etc.) with
+traits beyond the human norm.  In particular, characters with Strength
+and Speed well above or below the human range are common in
+roleplaying games.  Examples include giants, superheroes, pixies,
+aliens, ogres, intelligent rabbits, robots, etc.
+
+In FUDGE, Strength, Mass and Speed are rated by the GM in terms of
+*Scale* for different races.  (Not all GMs will even rate these as
+attributes, but can still use Scale to denote different racial
+abilities.  Strength affects damage capability, as well as things such
+as carrying capacity.  Mass affects how damage affects the character.
+Speed is most important in deciding who can run away from - or catch -
+whom.)  Most other traits that may be different for non-humans are
+handled with a *Racial Bonus or Penalty* rather than being on a
+different Scale - see Section 3.35.  Of course, the GM may assign any
+trait she wishes in terms of Scale.
+
+Humans are of Scale 0, unless some other race is the game-world norm.
+(E.g., if all the PCs are playing pixies or giants.  In these cases,
+the PCs' race is Scale 0, and humans would be a different Scale.)
+Non-human races can have a positive or negative number for Scale,
+depending on whether they are stronger (or bigger or faster) or weaker
+(or smaller or slower) than humans.
+
+3.31  Strength and Mass
+-----------------------
+
+Each level of Strength (from Terrible to Superb) is defined to be 1.5
+times stronger than the previous level.  A character with Good
+Strength is thus 1.5 times as strong as a character with Fair
+Strength.  Note that this progression is not necessarily true for any
+other attribute.  There is a wider range of strength in humans than
+dexterity, for example: Superb Dexterity is only about twice as good
+as Fair Dexterity.
+
+Strength Scale increases in the same way: a Scale 1, Fair Strength
+individual is 1.5 times stronger than a Scale 0, Fair Strength
+individual.  This holds for each increase in Scale: a Scale 10 Superb
+Strength creature is 1.5 times stronger than a Scale 9 Superb Strength
+creature, for example.
+
+At this point, it is tempting to say that a Scale 1 Fair Strength is
+equal to a Scale 0 Good Strength.  This is true for Strength, but not
+for Mass.  Scale really measures Mass, or Density, and Strength just
+goes along for the ride.  The word Scale used alone always means
+Strength/Mass Scale in FUDGE - any other Scale, such as Speed, or
+Strength without Mass, will be clarified as such.
+
+In FUDGE, Mass has a specific meaning: how wounds affect a character.
+(This may or may not coincide with the scientific definition of Mass.)
+It takes more human-powered hits to weaken a giant than a human, for
+example.  She may not really be a healthy giant, but her sheer bulk
+means that human-sized sword strokes don't do as much damage relative
+to her as they would to a human - unless they hit a vital spot, of
+course.  Likewise, a pixie can be healthy and robust, but not survive
+a single kick from a human.  The difference is Mass, and the strength
+related to it.
+
+A Scale 1 Fair Strength fighter has an advantage over a Scale 0 Good
+Strength fighter, even though their Strengths are equal.  The Scale 1
+fighter is less affected by the other's damage due to his mass.
+Therefore, do not blithely equate Scale 0 Good with Scale 1 Fair.  In
+particular, do not let your PC human Superb Strength fighters claim
+they are Scale 3 Fair Strength - they will be able to shrug off sword
+blows if you do!  This is explained in Section 4.75, Non-human Scale
+in Combat.
+
+Of course, the GM may envision a less massive but harder to kill race
+than humans.  This is best handled by a Racial Bonus (Section 3.35),
+either as some sort of Toughness Gift (Tough Hide, or Density - either
+one would subtract from damage), or by a bonus to Damage Capacity.
+
+The GM may decide that increased Mass does not necessarily mean of
+greater size - perhaps the race is of denser material.  Northern
+European legends state that dwarves were made from stone, and are
+hence harder to damage than humans.  This can be represented by Scale
+1, even though a dwarf is shorter than a human.  In Section 4.72,
+Objective Damage System, such a dwarf is introduced: Jeb is of Scale 1
+Strength and Mass, even though he is smaller than a human.  He much
+denser: hence, he hits harder, and shrugs off damage easier than most
+humans.  Of course, the GM should define dwarves' attributes and Scale
+to her own requirements.
+
+Normally, Strength and Mass are handled by a single Scale figure.
+That is, if a creature is said to be Scale 7, that means Scale 7 Mass
+and Scale 7 Strength.  Strength can vary within each race just as it
+can for humans.  You can have Scale 10 Superb Strength Giants and
+Scale 10 Terrible Strength Giants.  Unlike Strength, though, it is not
+recommended that Mass vary much within a race.  If you do allow Mass
+to vary for an individual, it should never be worse than Mediocre or
+better than Good.  In fact, it is far better to call Good Mass a Gift,
+and Mediocre Mass a fault than treat it as an attribute.
+
+The GM may choose to separate Strength Scale from Mass Scale.  This
+would allow Pixies of Strength Scale -6 and Mass Scale -4, for
+example.  However, combat between two Pixies would not work the same
+as combat between two humans.  In this case, they would have a harder
+time hurting each other than humans would, since their Strength Scale
+(ability to give out damage) is lower than their Mass Scale (ability
+to take damage).  This may actually be what she wants: a super-strong
+superhero who can dish out punishment but can't take it can be
+represented by Strength Scale 10, Mass Scale 2, for example.
+
+See also Section 4.75, Non-human Scale in Combat.
+
+3.32  Speed
+-----------
+
+Each level of Speed (from Terrible to Superb) is defined to be 1.2
+times faster than the previous level.  A character with Good Speed is
+thus 1.2 times as fast as a character with Fair Speed.  This is *not*
+the same progression as for Strength.
+
+Speed Scale increases differently, however: a Scale 1, Fair Speed
+individual is 1.5 times faster than a Scale 0, Fair Speed individual.
+This holds for each increase in Scale: a Scale 10 Superb Speed vehicle
+is 1.5 times faster than a Scale 9 Superb Speed vehicle, for example.
+This *is* the same progression as for Strength.  Since Speed is never
+used to assess damage except for large scales, the discrepancies
+should not be problematic.
+
+Speed is not a necessary attribute, of course, and can be ignored
+entirely if desired.  It is included primarily for creatures and
+vehicles significantly faster that humans.  For comparison purposes,
+assume a Fair Speed human can run at about 10 mph (16 kph) over some
+distance, provided they are in shape, of course.  Sprinting short
+distance is somewhat faster.  This comes to about 15 yards/meters per
+three-second combat round.
+
+Note that in short races, you don't really have to roll the dice to
+see if someone of Superb Speed can beat someone of Good Speed - he
+can, and will, much more often than rolling the dice would reveal.
+
+3.33  Scale Correlations
+------------------------
+
+The Game Master should refer to the following table when assigning a
+Scale to a race.  This only has to be done *once*, at race creation.
+
+First, the GM should decide how much stronger (or weaker or faster,
+etc.) the average member of race X is compared to the average human.
+For example, she might decide that Ogres are 3 times stronger than
+humans, and pixies are 8 times weaker (which equals 0.12 times as
+strong).  She then needs to look up the closest numbers to these
+strength multipliers on the table below, and look in the corresponding
+Scale column to find the correct racial Strength/Mass Scales.  In this
+example, Ogres are Scale 3 creatures, while Pixies are Scale -6.  (You
+may envision Ogres and Pixies differently, of course.)
+
+  Scale:         Multiplier:           Scale:             Multiplier
+  -11              0.01                  5                     7.5
+  -10              0.02                  6                    10
+   -9              0.03                  7                    15
+   -8              0.04                  8                    25
+   -7              0.06                  9                    40
+   -6              0.1                  10                    60
+   -5              0.15                 11                    90
+   -4              0.2                  12                   130
+   -3              0.3                  13                   200
+   -2              0.5                  14                   300
+   -1              0.7                  15                   450
+    0              1                    16                   650
+    1              1.5                  17                  1000
+    2              2.3                  18                  1500
+    3              3.5                  19                  2500
+    4              5                    20                  4000
+
+The Strength/Mass Scale number is figured in to damage in combat, and
+all weapons and armor are assumed to be of the same Scale as the
+wielder.  (Note that these numbers have been rounded to the nearest
+useful number.  They are only roughly 1.5 times the previous number,
+but close enough for game purposes.)
+
+Other examples: a GM reads in a Medieval text that a dragon is "as
+strong as 20 warriors."  Looking at the table, 20 times the human norm
+is Scale 8.  However, since the average *warrior* is probably of Good
+strength, she chooses Scale 9 for the average dragon in her world.  Of
+course, an individual dragon can still have Poor Strength compared to
+other dragons.  This is simply listed as Strength Poor (-2), Scale 9.
+
+This same GM wants PC leprechauns to be available.  While they are
+very small, she decides their magic makes them a bit stronger than
+their size would otherwise indicate: Scale -4.  So a Good Strength
+leprechaun is as strong as a Terrible Strength human in her world.
+
+The GM can also use this table to determine relative lifting strength
+or carrying capacity of characters or beasts if she wishes.
+
+The GM may require a Strength roll to lift a given object.  This will
+depend on the Scale of the character, of course.  Thus, a leprechaun
+might need a Good Difficulty Level Strength roll to lift a rock that a
+human could lift without even a roll.  (See Chapter 4, Action
+Resolution.)
+
+3.34  Cost of Scale
+-------------------
+
+If you are using the Objective Character Creation system, each step of
+increased Strength/Mass Scale for a player character should cost one
+attribute level *and* one gift.  This is because each level of Scale
+includes +1 Strength and extra Mass, which is the equivalent of the
+Tough Hide gift.  However, a generous GM may charge less.
+
+In a superhero game, this gets very expensive, very quickly.  An
+alternative method that allows more powerful characters is to charge
+one supernormal power to get Super Strength equal to a certain Scale.
+This can be anywhere from Scale 4 (five times as strong as the average
+human) to Scale 13 (200 times as strong as the average human) or even
+higher, depending on the power level of the campaign.  A character
+then raises or lowers his Strength attribute to show how he compares
+to the average super-strong superhero.
+
+Example: the GM states that one supernormal power buys Scale 10
+Strength (50 times the human norm).  Any character taking that
+supernormal power has Scale 10 Fair Strength automatically.  Strength
+can then be raised to Scale 10 Good at the cost of one attribute
+level.
+
+The GM may also allow separate Mass and Strength for superheroes (or
+even races).  For example, the superhero mentioned in Section 3.31
+with Strength Scale 10 and Mass Scale 2 would only have to pay for two
+gifts and ten attribute levels.  Or, with a generous GM, a single
+supernormal power might cover the entire cost.
+
+Other supernormal powers may have levels. Examples include Telekinesis
+(increased power allows greater weight to be lifted), Telepathy
+(increased power means greater range), Wind Control (increased power
+allows such things as a jet of wind, whirlwind, or tornado), etc.
+
+In these cases, each level can be bought as a separate supernormal
+power, which is very expensive.  Or you could use the option given
+above for Scale: one supernormal power buys the supernormal ability at
+a middling power range, and a simple attribute (or even skill) level
+raises or lowers it from there.
+
+For Scales below the human norm, each step of Mass Scale includes a
+fault equivalent to Easily Wounded, and the GM may allow this to be
+used to balance other traits like any other fault - see Section 2.64,
+Trading Traits.
+
+3.35  Racial Bonuses and Penalties
+----------------------------------
+
+There is rarely any need to use Scale for traits other than Strength,
+Mass and Speed.  It's easy to imagine someone wanting to play a race
+that is slightly more intelligent than humans, but a race ten times
+smarter than the smartest human is so alien that it would be
+impossible to play.  This is true for most traits - we just can't
+grasp such extreme differences from our world view.
+
+The GM should usually use Racial Bonuses or Penalties for traits other
+than Strength, Mass and Speed.  If the GM envisions halflings as being
+particularly hardy, she can give them a +1 bonus to Constitution.
+This simply means that halfling Fair Constitution equals human Good
+Constitution.  As another example, an alien race (the Cludds) might
+have a racial penalty of -1 or -2 to Intelligence.
+
+It is best to use trait levels relative to humans on the character
+sheets, though you should put the racial-relative term in brackets.
+(Example: Grahkesh, Intelligence Poor [Cludd Fair].)  However,
+*always* list Strength relative to the character's own race, with the
+Scale (if other than 0), so the Mass will be accurate.  See the sample
+character, Brogo the Halfling (Section 6.311), for an example of both
+racial bonus and different Scale.
+
+Racial bonuses and penalties can be used for any type of trait:
+attributes, skills, gifts, supernormal powers, or faults.
+
+If using the Objective Character Creation system, each level of a
+Racial Bonus or Penalty is usually equal to one level of the specific
+trait raised or lowered normally.  That is, if you are granting a +1
+to Agility or +1 to Perception for a race, it should cost one
+attribute level.  If a race has a bonus of a Perfect Sense of
+Direction, it should cost one gift.  The innate ability to fly or cast
+magic spells should cost one supernormal power, etc.
+
+If a race is at -1 to all Social skills, however, this should only be
+worth -1 skill level if you have a single skill called Social Skills.
+If you have a few social individual social skills, it should be worth
+one fault, at least.  If you have many social skills affected by such
+a Racial Penalty, it is probably worth a superfault.  The converse is
+true for Bonuses that affect many skills: it should cost a supernormal
+power.
+
+3.4  Legendary Heroes
+---------------------
+
+Some genres allow human characters to develop beyond the realm of the
+humanly possible.  Such campaigns eventually involve planes of
+existence beyond the mundane as the PCs require greater and greater
+challenges.
+
+This style of gaming can be represented in FUDGE by Legendary Levels.
+Section 2.2, Levels, introduced the concept of Legendary traits as a
+goal for PCs to work toward.  This section expands that concept
+infinitely, beyond realism.
+
+If the GM and players prefer this type of gaming, *any* skill can be
+raised beyond Legendary.  Instead of renaming each level, simply use a
+numbering system: Legendary 2nd Level Swordsman, Legendary 3rd Level
+Archer, etc.  Attributes can also be raised, but (except for Strength)
+this is much rarer.
+
+Each level of Legendary gives a +1 bonus to any action resolution.
+The character Hugh Quickfinger, for example, might have a Longbow
+skill of Legendary 2nd Level.  This would give him a total bonus of +5
+(+3 for Superb, and +2 for two levels of Legendary).  In any contest
+against a Fair Longbowman (+0), Hugh should easily triumph.
+
+The Objective Character Development system, Section 5.2, lists
+suggested experience point costs for attaining these levels.
+
+Please remember that these levels do not automatically exist in any
+given game: these are strictly optional levels for very specific, non-
+realistic genres.  If the GM says they don't exist, don't pester her!
+
+3.5  Magic
+----------
+
+If the Game Master wishes to include magic in the campaign, it may be
+easiest simply to translate whatever magic system she is familiar with
+into FUDGE.  If she wishes to craft her own FUDGE magic rules, she
+should consider what she wants magic to be like in her game world.
+
+Questions to ask include: What is the source of magic?  Is it a
+natural process, such as mana manipulation?  If it does use mana, does
+the mage create the mana, or is inherent in a locale?  Or does the
+mage summon other-world entities to do his bidding?  Or must the mage
+find a source of Power and channel it to his own ends?  Or is the
+source of magic something altogether different?
+
+Can anyone learn to work magic, or is it an inherent talent (that is,
+does it require a supernormal power)?  Are there levels of Power
+available, and what would having more levels mean?  Is a skill also
+required?  Of course, even if a magician must have a Power to cast
+spells, there may also be magic items that anyone can use - these are
+very common in tales and legends.
+
+If beings are summoned, are they evil, good, neutral, confused?  How
+do they feel about being commanded to work for the magician?  Can they
+adversely affect the magician if he fails a spell roll?  If Power is
+being channeled from an external source, is that source in the
+physical plane or astral?  Is it from a living being, or contained in
+an inanimate object as inert energy, like a piece of coal before going
+into a fire?
+
+What is the process of using magic?  Does it involve memorized spells?
+Physical components?  Meditation?  Complex and time-consuming ritual?
+How long does it take to cast a spell?  Can a spell be read out of a
+book?  Improvised on the spot?
+
+How reliable is magic?  Are there any drawbacks?  Any societal
+attitudes toward magicians?  Is it common knowledge that magicians
+exist, or are they a secret cabal, whose doings are only whispered
+about in ever-changing rumors?
+
+Once these issues have been resolved, and the degree of magic in the
+game decided on, the magic system can be created using FUDGE
+mechanics.  A sample magic system, FUDGE Magic, is included in Chapter
+7, The Addenda.
+
+3.6  Miracles
+-------------
+
+FUDGE assumes miracles are powered by a deity.  Some miracles may
+happen at the deity's instigation (GM whim, or deus ex machina for
+plot purposes), and some may be petitioned by characters.
+
+Miracles may take place in a startling fashion or in a mundane way.
+In fact, many people believe that miracles occur daily, but we don't
+notice them because they appear as simple coincidences.  The stranger
+walking down the road who just happens to have the tools you need to
+fix your wagon might indeed be just a coincidence, or it may have been
+divinely arranged that he chanced by at that time.  If the tools were
+simply to appear by themselves, or the wagon fix itself, there would
+be little doubt that a miracle had occurred.  This is neither good nor
+bad - the GM can choose either method of granting miracles, and need
+not feel bound to be consistent.
+
+The GM must decide whether miracles can occur in her world, and
+whether they can be called by character petition.  If the latter, then
+she has to make many other decisions.  Can *any* character petition a
+particular deity?  Does it matter if the character is actually a
+member of a religious order?  How important is the character's
+behavior - would a deity help a member of a particular religious order
+even if he had been acting against the deity's goals?  How certain is
+the miracle to occur?  How soon will it become manifest?  How broad
+and how specific can requests be?  Are any Ritual or Supplication
+skills needed to petition a deity, or can anyone simply breathe a
+prayer for help?
+
+The answers will vary from GM to GM - no "generic" system of miracles
+is possible.  A sample miracle system, FUDGE Miracles, is included in
+Chapter 7, The Addenda.
+
+3.7  Psi
+--------
+
+Again, it is probably easiest for the GM to translate whatever
+psionics rules she knows to FUDGE.  As a *very* simple system, each
+psionic ability can be a separate supernormal power.  The ability to
+read minds, or foresee the future, or telekinetically move an object,
+etc., each cost one supernormal power (two gifts).  Just *how*
+powerful the psionic ability is depends on the level of psi the GM
+wants for the game world.  Someone who can telekinetically lift a
+battleship is obviously more powerful than someone who can't lift
+anything heavier than a roulette ball - though the latter may make
+more money with his power, if he's highly skilled!
+
+If the game world has more than one level of power available, then a
+character must spend multiple free power levels to get the higher
+levels.  See also Section 3.34, Cost of Scale.
+
+In general, higher levels of Psi Powers might mean greater range, the
+ability to affect larger or more subjects at once, access to a greater
+number of related skills (a low Telepathy Power might let you send
+your thoughts to another, for example, but greater Power might let you
+read minds, send painful waves of energy, sense emotions, possibly
+even control others), use less fatigue or have a lower risk of
+burnout, allow more uses per day, take less time in concentration to
+use, be used in a broader range of conditions (a low ESP Power might
+only be accessed in a darkened room, for example, while a high Power
+level would let you use it at any time), and so on.
+
+The GM should also require skills to use these powers.  Having the
+psionic ability to use telekinesis just allows you to pick an object
+up with your mental powers, and move it crudely about.  Fine
+manipulation, such as picking a pocket, requires a successful roll
+against a telekinetic skill.
+
+A sample psi system, FUDGE Psi, is included in Chapter 7, The Addenda.
+
+3.8  Superpowers
+----------------
+
+If the campaign allows superpowers similar to those found in comic
+books, there will probably be a wide variety of powers available.  How
+many an individual character can have depends on the power level of
+the campaign.  A common treatment of superheroes involves faults
+related to Powers, which might make more Powers available to the
+character.  For example, a super hero might be able to fly, but only
+while intangible.
+
+There are far too many powers to list in FUDGE - browsing through a
+comic store's wares will give you a good idea of what's available.  As
+with psionics, each power costs one of the free supernormal powers
+available, and some can be taken in different levels.  Very potent
+ones might cost two or more of the "average" superpowers.
+
+Note that super strength is treated as a separate scale - see Section
+3.3, Non-humans.  Other superpowers that come in levels are discussed
+in Section 3.34, Cost of Scale.
+
+3.9  Cybernetics
+----------------
+
+Artificial limbs, organs, implants and neural connections to computers
+are common in some science fiction settings.  If these grant powers
+beyond the human norm, they must be bought with supernormal power
+levels if using the Objective Character Creation system, or with the
+GM's approval in any case.
+
+If an implant grants a bonus to an attribute, it should cost as much
+as the attribute bonus, which is not necessarily as much as a
+supernormal power.  Since an artificial implant may occasionally fail,
+however, the GM can give a slight cost break by also allowing a free
+skill level elsewhere on the character sheet.
+
+[End of Chapter Three. FUDGE continued in Chapter Four.]
+
+
+Legal Notice
+------------
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

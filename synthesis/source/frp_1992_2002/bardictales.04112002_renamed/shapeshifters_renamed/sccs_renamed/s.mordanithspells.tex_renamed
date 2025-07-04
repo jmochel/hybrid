@@ -1,0 +1,386 @@
+H41727
+s 00356/00000/00000
+d D 1.1 00/12/08 09:40:45 jmochel 2 1
+cC
+cF1
+cK10714
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:45 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/MordanithSpells.tex
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK54337
+cPShapeShifters/MordanithSpells.tex
+cR67bbcc6f
+cV4
+cX0x1a1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+\documentstyle[fanhead]{article}
+\pagestyle{fancy}
+\chead{Mordanith's Spells}
+
+\def\bblock #1{{\hsize 2 true cm\noindent  \bf#1}}
+
+\def\spell NAME:#1DF:#2CT:#3COST:#4DUR:#5RNG:#6AOE:#7
+\par{
+    \bigskip
+    \hrule height1pt
+    \medskip
+    \noindent{\LARGE\bf\sf #1}
+    \small
+    \bigskip
+    \hrule height1pt
+    \medskip
+    \begin{list}{}{\setlength{\leftmargin}{0in}\setlength{\labelwidth}{1in}\setlength{\rightmargin}{0in}}
+        \item{\bblock{DF}}#2
+        \item{\bblock{CT}}#3
+        \item{\bblock{COST}}#4
+        \item{\bblock{DUR}}#5
+        \item{\bblock{RNG}}#6
+        \item{\bblock{AOE}}#7
+    \end{list}
+    \medskip
+    \hrule height1pt
+    \bigskip
+}
+
+\begin{document}
+
+\spell
+NAME: Mage Battery
+DF:  -40
+CT: 0.5 hr/(15 points of power to be stored)
+COST: 10 + (Amount of power to stored)
+DUR:   1 day/rank + linear decay for 1day/rank + 1 day/(12-rank) power
+RNG:   0
+AOE:  One object
+
+\noindent{\bf Preparation}
+
+This ritual requires a storage reservoir such as a block of
+ivory or wood, that has had a rune of power inscribed in it as well
+as a power binding performed on it. The power batteries must be made
+from one block of material (wood or metal or shell). They are not
+destroyed in the process of use and gain a +1\%/20 times a ritual is
+successfully cast.
+
+\noindent{\bf Description}
+
+When casting this ritual the caster must choose between three types
+of power batteries: Initiation, Continous Support, and Augmentation.
+
+An initiation power battery allows a person to store energy
+for use only in casting wizardry rituals. Thus an initiation battery of
+40 points power would contribute up to 40 points of power to the
+ritual as it is being cast. All stored energy must be used during casting.
+The battery is not affected by the discharge. One Half of the stored energy
+can be used for Sorceries.
+
+Continous Support Batteries are used by a spell once during
+its lifetime.  It supplies power to the spell it is linked to on demand and
+prevents the loss of the spell until the battery is exhausted.
+
+Augmentation Batteries are used by the spell once during its lifetime. The
+first time the spell or ritual is perturbed or tested the spell takes on all
+the power stored in the cell and temporarily gives the attributes of a spell
+of power X. X being the power of the battery. The temporary augmentation of
+the spell or ritual is one shot and has no effect on the spell it is
+supplying. Thus a 10 point ward backed by a 30 point Augmentation battery
+when first tested would give the effect of a 30 point ward. The second
+testing of the ward would give the effects of a 10 point ward. Any attempt to
+dispel the ward will go first against the 30 point warding and if it goes
+down it still leaves the smaller 10 point ward.
+
+\newpage
+
+\spell
+NAME: MageLock
+DF:   -15
+CT:  20 Counts
+COST:  10 points + 10 points for password option + 1 point/3\% of Negative Door Opening Chance
+DUR:  Until Door is opened or magery is dispelled
+RNG: \( 4 \times Drive \)
+AOE:  One Object that can be fastened
+
+\noindent{\bf Preparation}
+
+The Magelock requires a small amount of some finely powdered
+material. Any material that can hold a static charge such as amber or
+sulfur should give a bonus to the casting or increase the strength of
+the spell.
+
+\noindent{\bf Description}
+
+This spell creates a very tight interweave of Mana force lines that
+resist any physical attempt to force them open.  The base resistance
+generated is equal to the vision of the mage + 3% per point of power added
+beyond the base cost. The Mana lines can be easily broken by magic of almost
+any type. 10 % chance of breaking per pt of Mana used on them.  A
+Password can be included in the spell. The forces are permanent until
+disrupted.
+
+\newpage
+
+\spell
+NAME: Warding
+DF:  -10 + ( Spell DF )
+CT:  10 Minutes + (-Spell DF)/2 Minutes
+COST:  20 Pow
+DUR:  6 hours/rank + 6hours/5 points
+RNG:  \( 3 \times Drive \)
+AOE:  \( 2' \times rank ^3 \)
+
+
+\noindent{\bf Preparation}
+
+This ritual requires a set of Wards Minor.
+
+\noindent{\bf Description}
+
+This ritual allows the caster to create a volume of protected
+space which has incorporated into any spell the mage may cast. It is
+this spell that determines the attributes of the ward. The spell used
+can only be used in its primary configuration ( i.e. Lowest point
+cost configuration ). Either Mana or physical presence sets it off.
+Range of sensitivity is 2' per RNK radius.
+
+{\it THE WARDS MINOR}
+
+8 Equal Sized blocks inscribed with each of the elemental
+runes except dark - replace with Ward rune. Usually prepared from
+shell,wood, or bronze. The objects must be found , marked and
+polished, established with an elemental cast ( Except the Warding
+runes which must except an elemental binding of light )
+
+\newpage
+
+\spell
+NAME: Bolt of Repulsion
+DF:  0
+CT:  7 counts
+COST:  10 points
+DUR:  \( 3 \times rank \) counts
+RNG:  As far as the carrier object can be thrown
+AOE:  One object
+
+\bigskip
+
+\noindent{\bf Preparation }
+
+This spell requires a thrown object to carry the spell. Typical
+objects used include small balls of Amber (+20 to cast ), tourmaline (+30)
+or sulfur (+10) can be used to carry the spell. In addition other common
+objects can suffice such as brass balls (-10) or silk balls (-5) .
+
+\noindent{\bf Description}
+
+This spell allows the caster to create a person specific field
+around any one object. This has the effect of reducing the character's
+THB and chance to critical by 5\% + 1/Power in the spell. The spell can
+be cast ahead of time and stored - allowing the caster to use 2 CTS to
+activate it.
+
+\newpage
+
+\spell
+NAME: Spell Snare
+DF:  0
+CT:  30 counts
+COST:  10 points
+DUR:  \( 5 \times rank \) counts
+RNG:  As far as the carrier object can be thrown
+AOE:  10' + 1' per rank radius.
+
+\bigskip
+\noindent{\bf Preparation }
+
+This spell requires an object to carry the magery. The object
+must be a small sphere and must be composed of a non conductor -
+glass or quartz would be the optimum . The object must then be
+inscribed with a rune of Attraction and have a power binding performed
+on it.
+
+\newpage
+
+\spell
+NAME: Identify
+DF:   Unknown
+CT:   1 Hour
+COST:  10 points
+DUR:  Unknown
+RNG:  Normal Spell Range
+AOE:  One Object
+
+\bigskip
+
+\noindent{\bf Preparation}
+
+This ritual requires a mirror that has been painted with
+the rune of Sight and the Rune of History. The Mirror is destroyed upon
+the successful completion of the spell.
+
+\bigskip
+
+\noindent{\bf Description}
+
+This spell allows the caster to trace back to the creation
+of an item or material and determine the method used in its making
+as well as the type of magic used in its Preparation.
+
+\newpage
+
+\spell
+NAME: Mordanith's Matter Shield
+DF:  -25
+CT:  24 counts
+COST:  \( 4 + 1/3 \) points of protection
+DUR: ?
+RNG:  \( 100 \times Drive \)
+AOE: ?
+
+\bigskip
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+Pretty much the same as a standard Matter Shield based on sorcery.
+
+\newpage
+
+\spell
+NAME: Mordanith's Power Shield
+DF:  -20
+CT:  16 CTS
+COST:  \( 6 + 1/1 \) points of protection
+DUR:
+RNG:  \( 20 \times Drive \)
+AOE:
+
+\bigskip
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+Just an expansion of the sorcery.
+
+\newpage
+
+\spell
+NAME: Summon Sun Light
+DF:  -30
+CT:  20 CTS
+COST:  20 pts
+DUR:
+RNG:  \( 5 \times Drive \)
+AOE:
+
+\bigskip
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+Needs to be detailed.
+
+\newpage
+
+\spell
+NAME: Mordanith's Matter Blast
+DF:  -20
+CT:  48 counts
+COST:  \(  6 + 1/1 \) points of damage
+DUR:  Instantaneous
+RNG:  \( 4 \times Drive \)
+AOE:  none
+
+\bigskip
+
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+Pretty much the same as a standard Matter Blast based on sorcery.
+
+\newpage
+
+\spell
+NAME: Mordanith's Battery Funnel
+DF:  -40
+CT:  1 hour
+COST: 25 points
+DUR:  As per the the Mage Battery it is attached to.
+RNG:  0
+AOE:  One Battery
+
+\bigskip
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+The funnel is a special add-on spell for Mage Batteries. It extends the life
+of a battery by adding to the grace period before battery decay starts.
+It uses 1 point every rank days and adds another grace period to the
+lifetime. In effect, it replaces the standard decay rate with one of
+its own.
+
+A funnel will only start draining the battery at the point where the battery
+starts its decay or when the battery has been drained by an outside source.
+
+{\sl The spell is designed to be almost impossible to divine out its workings.
+A great deal of time and energy went into making the spell difficult to
+divine.|
+
+
+\newpage
+\spell NAME: Mordanith's Battery Maintain
+DF:  -40
+CT:  1 hour
+COST: 5 points
+DUR:  Life of the Mage Battery
+RNG:  0
+AOE:  One Battery
+
+\bigskip
+\noindent{\bf Preparation}
+
+None
+
+\bigskip
+\noindent{\bf Description}
+
+The Maintain spell is a Mage Battery add-on that allows other mages to
+add power to the existing battery. It uses 1 point of power per rank days.
+
+{\sl The spell is designed to be almost impossible to divine out its workings.
+A great deal of time and energy went into making the spell difficult to
+divine.}
+
+
+\end{document}
+E 2
+I 1
+E 1

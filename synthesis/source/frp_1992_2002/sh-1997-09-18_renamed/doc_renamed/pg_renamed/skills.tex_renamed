@@ -1,0 +1,247 @@
+\chapter{Tasks and Skills}
+
+A task is an action or a group of actions to be performed. Each task has a 
+difficulty associated with it. That combined with the knowledge of the character's 
+rank in the skill and their stats allows us to determine the percentile roll needed 
+to succeed.
+
+To do a task the character determines the Difficulty Factor {\em DF} of the 
+task and what skill(s) may be used to do the task. A base chance to 
+{\em BC} is determined and modified by the difficulty factor 
+of the task. 
+
+Forcing a locked door is a task that has some difficulty. If the 
+character has no skill in forcing doors then they are forcing the 
+door based on using just physical strength. Their chance to force the 
+door is based on their physical strength and how difficult the door 
+is to force. The sum total chance to force the door is called the Success Chance {\em SC}.
+
+If the character has a skill in forcing doors then they will have 
+knowledge about how best to apply their physical strength to get the 
+door open {\em Skills}. 
+
+\section{Tasks}
+
+\subsection{Description}
+
+\begin{description}
+	\item[Name] 
+	Self Explanatory
+	\item[DF] The difficulty of the task
+	\item[SB] The stat basis of the task
+	\item[Time]
+    How long the task typically takes
+    \item[Applicable Skills]
+    Any skills that may be applied to the task
+\end{description}
+
+\subsection{Difficulty Factors}
+
+The difficulty of a task is described by a number 
+referred to as an ``Difficulty Factor'' or DF. Difficulty Factors 
+for tasks typically range from -10  to +4. Throughout \SH\ it is 
+assumed that the base DF of an action is 0 {\bf unless otherwise 
+stated}. 
+
+The modifier for a task is simply 5\% times the Difficulty Factor or:
+\[ Modifier = 5 \times {Difficulty\ Factor} \]
+
+If there are a series of actions that can be lumped 
+together in a single task the DF for the task is the average of the DFs fo5r all the tasks.
+
+Jogging across the street and leaping a small fence are actions that 
+are best lumped together into one task. There is no reason 
+to ask the character to roll a task roll for each action. 
+But if the character stands the chance of being exposed to
+someone looking for him then a roll should be made for the entire set 
+of actions. 
+
+\begin{table}[h]
+	\begin{tabular}{l|l}
+	Subjective						& DF \\
+	\hline
+    Simple			& +2 \\
+	Trivial			&  0 \\
+	Non-Trivial	 	&  -2 \\
+	Difficult		&  -5 \\
+	Very Difficult  & -7 \\ 
+	Damned Difficult & -10 \\
+   	Nearly Impossible & -20 \\
+	\end{tabular}
+    \caption{Generic Difficulty Factors}
+\end{table}
+
+\subsection{Stat Basis}
+
+The task has a stat basis that describes what stat or combination of 
+stats can be used to do the task. This is only used if the character 
+has none of the skills in the Applicable Skills entry. 
+
+The Base Chance for someone who has no skill is 
+\[ (3 \times SB_{skill}) \over {2} \]. 
+
+\subsection{Time}
+
+The task will have time associated with it. This is the average time 
+the task typically takes to perform. 
+
+\subsection{Applicable Skills}
+
+This is a list of suggested skills that could be used to do the task. 
+It is not exhaustive.
+
+\section{Skills}
+\subsection{Description}
+
+\begin{description}
+	\item[Name] 
+	Self Explanatory
+	\item[Stat Basis] 
+	The stat, or combination of stats, that is used by the skill. 
+	\item[Difficulty Factor] 
+	The modifier for doing any action with this skill.
+	\item[Generation Cost]
+	The character generation cost of a skill or skill package. Skills
+	only cost 1 point. Skill packages typically vary from 1
+	to 10 points in cost.
+	\item[EP Cost] 
+	The experience point cost is the amount of experience points it takes to
+	buy a roll in a skill. 
+\end{description}
+
+\subsection{Ranking}
+
+Proficiency in a skill is described by a number with a range of 0-20.
+The higher the number, the greater the character's expertise. Someone
+is completely unfamiliar with a skill is considered to be
+\ndx{unranked}. Someone who is familiar with the basics of
+the skill is rank 0. A dedicated amateur is has a rank 4-6. A
+solid workaday craftsman has a rank 7-9. A dedicated professional is rank 
+10-13. An expert in a skill has a rank 14-16. A true master of a skill has 
+a rank 14-20 in a skill. 
+
+\subsection{Stat Basis}
+
+Each skill has a stat or a combination of stats that is called the 
+stat basis and is used to calculate the base chance of using the 
+skill. 
+
+To use a skill the GM determines what the Base Chance of the skill is 
+and adds in the modifiers for the task being performed.
+The Base Chance of using a skill is three times the Stat Basis of the skill
+or \[ 3 \times SB_{skill} \] For each rank the character has in the skill add 4\%.
+The modifiers for the task vary for each situation.
+
+\begin{quote}
+A character with rank:0 in Rock Throwing is throwing a rock 
+across the street. The character has a Accuracy (ACC) of 12. Their Base Chance 
+to hit is \( 3 \times 12 = 36\% \).
+\end{quote}
+
+\subsection{Buying Skills}
+
+When generating the character the player spends points from a
+personal development pool to buy skills. The generation cost is the 
+cost in personal development points for the skill. The first rank of 
+a skill (rank 0) costs twice the generation cost and each rank 
+thereafter costs the generation cost. 
+
+\subsection{Gaining Skills}
+
+A character can gain experience points for roleplaying and use those 
+experience points to buy that skill. 
+
+\begin{table}[h]
+   \begin{tabular}{l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l}
+   Rank & 0 &  1 &  2 &  3 &  4 &  5 &  6 &  7 &  8 &  9 & 10&  11&  12&  13&  14&  15&  16&  17&  18&  19&  20&  21&  22&  23&  24&  25&  26&  27&  28&  29&  30 \\
+   \hline
+B & 2 &  4 &  4 &  4 &  4 &  6 &  6 &  6 &  8 &  8 & 10&  10&  12&  12&  14&  14&  16&  16&  18&  18&  20&  20&  22&  22&  24&  24&  26&  26&  28&  28&  30&  30 \\
+a & 3 &  6 &  6 &  6 &  6 &  9 &  9 &  9 & 12&  12&  15&  15&  18&  18&  21&  21&  24&  24&  27&  27&  30&  30&  33&  33&  36&  36&  39&  39&  42&  42&  45&  45 \\
+s & 4 &  8 &  8 &  8 &  8 & 12&  12&  12&  16&  16&  20&  20&  24&  24&  28&  28&  32&  32&  36&  36&  40&  40&  44&  44&  48&  48&  52&  52&  56&  56&  60&  60 \\
+e & 5 & 10&  10&  10&  10&  15&  15&  15&  20&  20&  25&  25&  30&  30&  35&  35&  40&  40&  45&  45&  50&  50&  55&  55&  60&  60&  65&  65&  70&  70&  75&  75 \\
+  & 6 & 12&  12&  12&  12&  18&  18&  18&  24&  24&  30&  30&  36&  36&  42&  42&  48&  48&  54&  54&  60&  60&  66&  66&  72&  72&  78&  78&  84&  84&  90&  90 \\
+  & 7 & 14&  14&  14&  14&  21&  21&  21&  28&  28&  35&  35&  42&  42&  49&  49&  56&  56&  63&  63&  70&  70&  77&  77&  84&  84&  91&  91&  98&  98&  105& 105 \\
+  & 8 & 16&  16&  16&  16&  24&  24&  24&  32&  32&  40&  40&  48&  48&  56&  56&  64&  64&  72&  72&  80&  80&  88&  88&  96&  96& 104& 104& 112& 112& 120& 120 \\
+  \end{tabular}
+  \caption{Skill Costs}
+\end{table}
+
+
+\subsection{Relations Among Skills}
+
+In situations where the character does not have a skill that
+is directly applicable to the task being performed the character 
+may choose to use a related skill.
+
+A typical example would be in using two different types of handguns. The
+character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun
+weapon is fairly different from the Slug Pistol so the character can only
+apply 1/5 of his expertise in Slug Pistol to using this pistol. So he has
+an effective rank 2 in the weapon.
+
+As a rule the following relations apply.
+
+\input{tskill5.tex}
+
+\subsection{Unfamiliar Tools}
+
+If the skill requires the use of tools and the tool that the character is
+utilizing is unfamiliar, then the action occurs at a DF -2. This usually
+only happens if the differences between the version of the tool the
+character normally uses and the current one actual effect how it is
+used. A gun with a different mass than the entity is used to is
+unfamiliar, whereas a gun of the same model and same manufacturer is
+not. To eliminate this unfamiliarity modifier requires that the entity
+familiarize himself with the tool with a DF -3 roll against the SB of 
+the skill with a gain of 1 DF per roll. 
+
+\section{Types of Skills}
+
+The section on skills describes the basic way that skills are 
+handled but there are a variety of special types of skills that are 
+used for special circumstances.
+
+\subsection{Specialization}
+
+Skills that are described as general skills cover a wide range of 
+tasks with very little depth. A person who has learned a general 
+skill such as Throw Object is able to throw just about anything they 
+can get their hands on ( knives, spoons, rocks, chairs) with a lesser 
+success chance than someone who has a specific skill in throwing a
+particular object.
+
+In addition, there are skills known as support skills that are solely 
+designed to increase the success chance when doing one type of action 
+with a skill. Someone who uses their sword to parry weapon attacks 
+may wish to train specifically in parrying with a sword. So they 
+would have a ``Long Sword' skill and a ``Long Sword : Parry'' skill.
+
+
+General skills only give 1\%/rank to the success chance. Specific 
+skills (the \SH\ norm), give 4\%/rank. Support Skills add 2\%/rank.
+
+\subsection{Filter Skills}
+
+There is a category of skills which affects the use of other skills 
+in an environment different from the one they were learned in. These skills 
+are called filter skills. A Filter skill is any skill that can allow 
+for the full expression of other skills in an environment other than 
+that for which those skills were designed for.
+
+Typical filter skills include the following: 0-g maneuver, Tech 
+Level Lore, Culture Lore, Mounted Combat, Vehicular Combat 
+skills, Armor Wearing, and Computer operations.
+
+For situations in which the character is attempting to apply a skill 
+in a environment he is not familiar with and that skill {\em must }
+interact with that environment, then the rank in the filter skill 
+becomes the upper limit on the effective rank of the skill being 
+used.
+
+As an example, if someone has a mounted combat skill at rank 5, he or she
+may use their archery skill up to rank 5 without making any rolls
+against their mounted combat. If the character has a higher archery skill
+and wants to bring it all to bear on a shot, they must roll against
+their mounted combat first in order to get the full use of the archery
+skill.
+

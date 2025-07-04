@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Foliage Engineer (IT) -->
+<xs:schema xmlns:db="http://www.oasis-open.org/docbook/xmlschema/4.1.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:annotation>
+		<xs:documentation xml:lang="en">
+			<p>
+				<tt>$Id: heml.xsd,v 1.11 2001/12/12 16:52:52 brucerob Exp $</tt>
+			</p>
+			<p>
+				<tt>$Date: 2001/12/12 16:52:52 $</tt>
+			</p>
+			<p>
+				<tt>$Revision: 1.11 $</tt>
+			</p>
+			<p>This is the XML Schema for Heml, version 20010702. See
+      http://www.heml.org for more information on the project and
+      for tools that transform documents that conform to this
+      schema.</p>
+			<p>This schema's outer-most (or top-level) element is 
+      <tt class="element">heml:Heml</tt>
+
+      ; it represents a collection of historical events, each of
+      which is encoded in an 
+      <tt class="element">heml:Event</tt>
+
+      element.</p>
+			<p>This schema has been built according to the following
+      design pattern: 
+      <ol>
+					<li>Though .heml documents are produced by and for
+        computational processes, they ought to be readable. Thus
+        the element names border on the verbose.</li>
+					<li>Types are given names ending with 'Type'</li>
+					<li>Groups are given names ending with 'Group'</li>
+					<li>Types and elements are capitalized; attributes begin
+        with a lower-case letter.</li>
+					<li>Every element that comprises other elements with
+        non-editoral functions has these two optional editoral
+        elements:</li>
+					<ol>
+						<li>A 
+          <tt class="element">heml:Comment</tt>
+
+          at the beginning of its content model (that is, before
+          all other elements). This may comprise only plain text
+          and is meant for editoral notes.</li>
+						<li>A 
+          <tt class="element">heml:Annex</tt>
+
+          at the end of its content model (that is, after all other
+          elements). This may comprise any markup; it is suited to
+          adding application- or site-specific markup to the core
+          of this Heml version.</li>
+					</ol>
+					<li>Elements whose names end with 'Set', such as
+        'LabelSet', represent a collection of elements which refer
+        to the same object or idea but differ only in language.
+        These should be distinguished from elements whose name are
+        in the plural; the latter, such as the 'Events' element
+        collect element that refer to different things or
+        ideas.</li>
+				</ol>
+			</p>
+		</xs:documentation>
+	</xs:annotation>
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://heml.mta.ca/heml-cocoon/schemas/2001-07-02/common_xml.xsd"/>
+	<xs:import namespace="http://www.oasis-open.org/docbook/xmlschema/4.1.2" schemaLocation="http://heml.mta.ca/heml-cocoon/schemas/2001-07-02/Dbxsd/mybibliomixed.xsd"/>
+	<xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="http://heml.mta.ca/heml-cocoon/schemas/2001-07-02/common_xlink.xsd"/>
+	<xs:element name="Comment" type="heml:LangString">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Editorial text which may be
+      added as the first sub-element of a
+      sequence.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="Annex">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+        An optional element comprising mixed content; used to add non-standard
+        or experimental markup to Heml elements. Where it appears, it is the last element in a sequence.
+      </xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:complexType name="BareRefType">
+		<xs:attribute name="idref" type="xs:IDREF" use="required"/>
+	</xs:complexType>
+	<xs:element name="Heml">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The topl-level, or root,
+      element in a Heml document. Comprises a Head element
+      (metadata) and a Body element, which itself is a group of
+      Event elements.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Head"/>
+				<xs:element ref="heml:Events"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Head">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A container for
+      metadata. Currently, this is mixed-content, but when Dublin Core Metadata namespaces and schemas are 
+finalized this element will conform to those specifications.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="Events">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A collection of 
+      <tt>heml:Event</tt>
+
+      s.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Event" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Event">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The heml:Event element
+      represents what is known about an historical event. It
+      comprises, in order, Labels, Date, Location, Participants and
+      References elements. See their documentation for further
+      information.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Comment" minOccurs="0"/>
+				<xs:element ref="heml:EventLabelSet"/>
+				<xs:element ref="heml:Classification" minOccurs="0"/>
+				<xs:element ref="heml:Chronology"/>
+				<xs:group ref="heml:LocationGroup" minOccurs="0"/>
+				<xs:element ref="heml:Participants" minOccurs="0"/>
+				<xs:element ref="heml:References"/>
+				<xs:element ref="heml:Annex" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="xs:ID" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="LangString">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">An element comprising a text
+      string and an xml:lang attribute.</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute ref="xml:lang"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">*********** * End 'Chronology'
+    element and related materials * * * Begin 'Label' element and
+    related materials *</xs:documentation>
+	</xs:annotation>
+	<xs:element name="EventLabelSet" type="heml:LabelGroupType">
+		<xs:unique name="uniqueXmlLangForLabelSet">
+			<xs:selector xpath="heml:Label"/>
+			<xs:field xpath="@xml:lang"/>
+		</xs:unique>
+	</xs:element>
+	<xs:element name="Label" type="heml:LangString"/>
+	<xs:complexType name="LabelGroupType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Gathers labels constrained so
+      as to not allow multiple labels of the same xml:lang
+      declaration.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element ref="heml:Comment" minOccurs="0"/>
+			<xs:element ref="heml:Label" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="LabelGroupWithIdType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Gathers labels constrained so
+      as to not allow multiple labels of the same xml:lang
+      declaration. Applies an id attribute to the collecting element, which
+whose name usually ends in 'Set'.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element ref="heml:Comment" minOccurs="0"/>
+			<xs:element ref="heml:Label" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">************ End LABELS
+    element and related materials. Begin CLASSIFICATION element
+    and related materials</xs:documentation>
+	</xs:annotation>
+	<xs:element name="Classification">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Gathers means of classifying the event.
+Currently, only the KeywordClassificationSet element, or reference using the KeywordClassificationSetRef element, are possible.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:KeywordClassificationSet" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="heml:KeywordClassificationSetRef" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="KeywordClassificationSet" type="heml:LabelGroupWithIdType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+A collection of heml:Label elements that refer, each in their own language,
+to a keyword or concept under which this event should be classified. Once
+written, should be referred to with a KeywordClassificationRef element.
+      </xs:documentation>
+		</xs:annotation>
+		<xs:unique name="uniqueXmlLangForKeywords">
+			<xs:selector xpath="heml:Label"/>
+			<xs:field xpath="@xml:lang"/>
+		</xs:unique>
+	</xs:element>
+	<xs:element name="KeywordClassificationSetRef" type="heml:BareRefType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+Refers to a KeywordClassificationSet element.
+      </xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">************ End CLASSIFICATION and
+    related materials. Begin CHRONOLOGY element and related
+    materials</xs:documentation>
+	</xs:annotation>
+	<xs:element name="Chronology">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Represents the information
+      known about the date of an event. Can comprise  an AbsoluteDate,
+      ComplexDate or DateRange element.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Comment" minOccurs="0"/>
+				<xs:choice>
+					<xs:element ref="heml:AbsoluteDate"/>
+					<xs:element ref="heml:ComplexDate"/>
+					<xs:element ref="heml:DateRange"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="AbsoluteDateType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Represents the date of an
+      event as a single calendrical value in a common format, such
+      as XML Schema's gYear datatype which would be wrapped in a
+      heml:XMLSchemaGYear element. Internally, an AbsoluteDateType
+      resolves to a single 'time' values: the first possible
+      chronon which the encoding might represent. A 'chronon' is
+      the smallest unit of time used by a computational agent. In
+      the code provided by heml.org, written in Java, this is the
+      millisecond. SimpleDates thus differ from DateRanges, which
+      are represented internally by two values.</xs:documentation>
+		</xs:annotation>
+		<xs:group ref="heml:PossibleDatesGroup"/>
+	</xs:complexType>
+	<xs:element name="AbsoluteDate" type="heml:AbsoluteDateType"/>
+	<xs:group name="PossibleDatesGroup">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A choice among the date data
+      types supported by Heml.</xs:documentation>
+		</xs:annotation>
+		<xs:choice>
+			<xs:element ref="heml:XMLSchemaDate"/>
+			<xs:element ref="heml:XMLSchemaGYear"/>
+		</xs:choice>
+	</xs:group>
+	<xs:element name="DateRange">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Represents a span of time.
+      Internally, a DateRange resolves to two 'time'
+      values.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:choice>
+				<xs:sequence>
+					<xs:element name="StartingDate" type="heml:AbsoluteDateType"/>
+					<xs:element name="EndingDate" type="heml:AbsoluteDateType"/>
+				</xs:sequence>
+				<xs:group ref="heml:PossibleDatesGroup"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="XMLSchemaDate" type="xs:date">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A date represented in XML
+      Schema's 
+      <a href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#date">
+      date</a>
+
+      datatype. Note that a '-' may be used before the date to
+      indicate a year BCE.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="XMLSchemaGYear" type="xs:gYear">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A date represented as a year
+      alone, in XML Schema's 
+      <a href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#gYear">
+      gYear</a>
+
+      datatype. Note that a '-' may be used before the value to
+      indicate a year BCE.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="ComplexDate">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Represents a date expressed
+      through a relation with another date. For instance, two
+      events dated to 264 BC one of which we know took place after
+      the other but for whom no further chronological information
+      is available. The second of these should be given a 
+      <tt>ComplexDate</tt>
+
+      element comprising the SimpleDate of 264 BC (perhaps with a 
+      <tt>XMLSchemaGYear</tt>
+
+      element containing the value -264) and the
+      ChronologicalRelationship element which refers to the first
+      event and has a type attribute of 'after'.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:AbsoluteDate"/>
+				<xs:element ref="heml:ChronologicalRelationship"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ChronologicalRelationship">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+      In a <tt>ComplexDate</tt>, expresses the relationship between
+    current date and the one to which it is related. The only 'relationship'
+element now allowed is 'tpq', meaning that the referred-to date is this 
+    date's <i>terminus post quem</i>. That is, this date takes place after
+the referred-to date.
+    </xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="to" type="xs:IDREF"/>
+			<xs:attribute name="relationship" type="heml:PossibleChronologicalRelationships"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="PossibleChronologicalRelationships">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="tpq"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">* * Begin 'Location' element
+    and related materials *</xs:documentation>
+	</xs:annotation>
+	<xs:element name="Location">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The geographical location of
+      the event. Currently only encodes points in lat/long and
+      gives label.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="LocationLabelSet" type="heml:LabelGroupType">
+					<xs:annotation>
+						<xs:documentation xml:lang="en">xml:lang-encoded set of
+            string elements that internationally label this
+            Location.</xs:documentation>
+					</xs:annotation>
+					<xs:unique name="uniqueXmlLangForLocationLabels">
+						<xs:selector xpath="heml:Label"/>
+						<xs:field xpath="@xml:lang"/>
+					</xs:unique>
+				</xs:element>
+				<xs:element name="Latitude" type="heml:LatitudePointType"/>
+				<xs:element name="Longitude" type="heml:LongitudePointType"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="xs:ID" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="LocationRef">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+A reference to an existing Location element.
+      </xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="idref" type="xs:IDREF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="LocationGroup">
+		<xs:choice>
+			<xs:element ref="heml:Location"/>
+			<xs:element ref="heml:LocationRef"/>
+		</xs:choice>
+	</xs:group>
+	<xs:complexType name="LatitudePointType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Gathers together the
+      constrains for hours/minutes/seconds appropriate for a point
+      of latitude.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="GeographicalHourLatitude" type="heml:LatitudeHourType"/>
+			<xs:element name="GeographicalMinute" type="heml:IntegerToSixtyType" minOccurs="0"/>
+			<xs:element name="GeographicalSecond" type="heml:IntegerToSixtyType" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="LatitudeHourType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Limited to values of -90 to
+      90, representing the possible values of latitude south and
+      north respectively.</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:decimal">
+			<xs:maxInclusive value="90"/>
+			<xs:minInclusive value="-90"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="LongitudePointType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Gathers together the
+      constrains for hours/minutes/seconds appropriate for a point
+      of longitude.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="GeographicalHourLongitude" type="heml:LongitudeHourType"/>
+			<xs:element name="GeographicalMinute" type="heml:IntegerToSixtyType" minOccurs="0"/>
+			<xs:element name="GeographicalSecond" type="heml:IntegerToSixtyType" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="LongitudeHourType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Limited to values of -180 to
+      180, representing the possible values of longitude east and
+      west respectively.</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:decimal">
+			<xs:maxInclusive value="180"/>
+			<xs:minInclusive value="-180"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="IntegerToSixtyType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A positive integer with a
+      maximum inclusive value of 59. Used for minutes and
+      seconds.</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:integer">
+			<xs:maxInclusive value="59"/>
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">****** End LOCATION element. Begin
+PARTICIPANTS and related elements.</xs:documentation>
+	</xs:annotation>
+	<xs:element name="Participants">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">heml:Participants comprises
+      records and references that list the people who were involved
+      in the event. (Should add coporate groups as
+      well.)</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:group ref="heml:ParticipantPersonsGroup" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="ParticipantPersonsGroup">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+        Groups PersonWithRole and plain old Person elements.
+      </xs:documentation>
+		</xs:annotation>
+		<xs:choice>
+			<xs:element ref="heml:PersonWithRole"/>
+			<xs:element ref="heml:Person"/>
+		</xs:choice>
+	</xs:group>
+	<xs:element name="PersonRef">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A XML IDREF to a heml:Person
+      defined elsewhere in this document.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="idref" type="xs:IDREF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Person" type="heml:PersonType"/>
+	<xs:complexType name="PersonType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A type that defines a person.
+      Each person should be defined only once per heml document,
+      and subsequent references should be made with the 
+      <tt>heml:PersonRef</tt>
+
+      element.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element ref="heml:Comment" minOccurs="0"/>
+			<xs:element ref="heml:NameSet"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	<xs:group name="PersonGroup">
+		<xs:choice>
+			<xs:element ref="heml:Person"/>
+			<xs:element ref="heml:PersonRef"/>
+		</xs:choice>
+	</xs:group>
+	<xs:element name="PersonWithRole">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+        Joins a Person or PersonRef with a RoleLabelSet or RoleLabelSetRef.
+      </xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:group ref="heml:PersonGroup"/>
+				<xs:group ref="heml:RoleGroup" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="RoleGroup">
+		<xs:choice>
+			<xs:element ref="heml:RoleLabelSet"/>
+			<xs:element ref="heml:RoleLabelSetRef"/>
+		</xs:choice>
+	</xs:group>
+	<xs:element name="Roles">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:RoleLabelSet" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RoleLabelSet" type="heml:LabelGroupWithIdType">
+		<xs:unique name="uniqueXmlLangForRoleLabels">
+			<xs:selector xpath="heml:Label"/>
+			<xs:field xpath="@xml:lang"/>
+		</xs:unique>
+	</xs:element>
+	<xs:element name="RoleLabelSetRef" type="heml:BareRefType"/>
+	<xs:element name="NameSet">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">A collection of heml:Name,
+      that is 
+      <i>language-specific</i>
+
+      instances, all of which refer to the same name and
+      person.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Comment" minOccurs="0"/>
+				<xs:element ref="heml:Name" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Name">
+		<xs:annotation>
+			<xs:documentation>The containing 
+      <tt>Name</tt>
+
+      element as represented a certain language. The 
+      <tt>xml:lang</tt>
+
+      attribute encodes the language according to 
+      <a href="http://lcweb.loc.gov/standards/iso639-2/englangn.html">
+      ISO 639-1</a>
+
+      .</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Comment" minOccurs="0"/>
+				<xs:element ref="heml:PrimaryName"/>
+				<xs:element ref="heml:SecondaryName" minOccurs="0"/>
+				<xs:element ref="heml:TertiaryName" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute ref="xml:lang"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PrimaryName" type="xs:string">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The part of a name that
+      should be the primary key in sorting display. For instance:
+      'Robertson' in the Canadian name 'Bruce Gordon Robertson' or
+      'Julius' in 'Gaius Julius Caesar'. When used for names of
+      coporate groups, not personal names, it should be used
+      alone.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="SecondaryName" type="xs:string">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The part of a name that
+      should be the secondary key in sorting and display. For
+      instance: 'Bruce' in the Canadian name 'Bruce Gordon
+      Robertson' or 'Caesar' in 'Gaius Julius
+      Caesar'.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="TertiaryName" type="xs:string">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">The part of a name that
+      should be the tertiary key in sorting and display. For
+      instance: 'Gordon' in the Canadian name 'Bruce Gordon
+      Robertson' or 'Gaius' in 'Gaius Julius
+      Caesar'.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">******* End PARTICIPANTS and
+    related elements. Begin REFERENCES.</xs:documentation>
+	</xs:annotation>
+	<xs:element name="SimpleLink">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Provides a simple hyperlink
+      to a resource. The 
+      <tt>xml:lang</tt>
+
+      attribute records the language of the resource in 
+      <a href="http://lcweb.loc.gov/standards/iso639-2/englangn.html">
+      ISO 639-1</a>
+
+      (two character) format.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang"/>
+					<xs:attribute ref="xlink:href"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="NetworkedSourceSet">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">For one common document,
+      gathers sources which are accessed by network, probably
+      through the http. Distinguished from 
+      <tt>PhysicalSources</tt>
+
+      , which include printed books.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:SimpleLink" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PhysicalSourceSet">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">For one common document,
+      gathers sources that are available in a physical medium, such
+      as printed books.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:PhysicalSource" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="heml:Annex" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PhysicalSource">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:group ref="heml:PhysicalSourceGroup" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute ref="xml:lang"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="PhysicalSourceGroup">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Comprises all the means of defining a 
+physical source. Currently, only docbook's bibliomixed element is allowed, but
+it is intended that other, more rich markup such as the TEI will be added when they are 
+provided in XML Schema.</xs:documentation>
+		</xs:annotation>
+		<xs:choice>
+			<xs:element ref="db:bibliomixed"/>
+		</xs:choice>
+	</xs:group>
+	<xs:group name="SourcesSubGroup">
+		<xs:choice>
+			<xs:element ref="heml:NetworkedSourceSet" minOccurs="0"/>
+			<xs:element ref="heml:PhysicalSourceSet" minOccurs="0"/>
+		</xs:choice>
+	</xs:group>
+	<xs:group name="SourcesGroup">
+		<xs:choice>
+			<xs:group ref="heml:SourcesSubGroup"/>
+			<xs:sequence>
+				<xs:element ref="heml:NetworkedSourceSet"/>
+				<xs:element ref="heml:PhysicalSourceSet"/>
+			</xs:sequence>
+		</xs:choice>
+	</xs:group>
+	<xs:element name="Evidences">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Evidence" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Evidence">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="EvidenceType" type="xs:string" minOccurs="0"/>
+				<xs:element name="EvidenceMedia" type="xs:string" minOccurs="0"/>
+				<xs:element ref="heml:Originator" minOccurs="0"/>
+				<xs:group ref="heml:SourcesGroup"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Originator" type="heml:PersonType">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+				<p>An Originator is a person (or, presumably, corporation
+        of people) who provides the referred to information. For
+        instance, a holocaust-survivor interviewed in a video
+        medium is not the author of the account she gives (this
+        information would be provided in the 
+        <tt>NetworkedSources</tt>
+
+        or 
+        <tt>PhysicalSources</tt>
+
+        elements), but she is clearly the person with whom the
+        historian is most interested. Accordingly Heml encourages
+        the compiler to add as much information about the
+        Originator as possible, including element that record sex,
+        lifespan, etc.</p>
+			</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="References">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="heml:Evidences"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:annotation>
+		<xs:documentation xml:lang="en">****** * End 'References' and
+    related elements * * Begin Utility elements</xs:documentation>
+	</xs:annotation>
+</xs:schema>

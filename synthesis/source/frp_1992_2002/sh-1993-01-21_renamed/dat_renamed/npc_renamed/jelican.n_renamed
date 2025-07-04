@@ -1,0 +1,46 @@
+.Name JELICAN
+.Title								
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 19
+.PEN 17		
+.DEX 19
+.PAG 13		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 14
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 120		 
+.AGE 80
+.BeginDesc
+ RD HAIRED FIGHTER IN CHAIN AND LTHR ARMOUR
+.EndDesc
+.BeginSkills
+Weapon: LONGSWORD(3)		, 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ THE PROPHET,BILGERAN
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ PATRON ADVOCATE OF FIGHTERS
+.EndComment
+.BeginPossess
+ CARRIED THE SWORD CURVE AT HER SIDE AND THE SPEAR CALLED ASIVAK.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

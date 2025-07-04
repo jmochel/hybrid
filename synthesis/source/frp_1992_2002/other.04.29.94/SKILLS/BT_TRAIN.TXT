@@ -1,0 +1,153 @@
+From alexj@juliet.ll.mit.edu Fri Dec  3 10:27:52 1993
+Date: Fri, 3 Dec 93 10:21:16 EST
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM,
+    71342.3143@compuserve.com, 72144.743@compuserve.com,
+    Joe=Lapolito%IRD%PEOPLES@BANYAN.UMMED.EDU, alexj@juliet.ll.mit.edu,
+    bmckinle@mitre.org, ghodge@nyx.cs.du.edu, hicks@milkwy.enet.dec.com,
+    jmochel@world.std.com, jr@titan.camb.inmet.com, markd@ill.ceo.dg.com,
+    morphus@mathworks.com
+Subject: Training- check it out! All and any comments welcome
+
+
+> James
+  Alex
+
+
+>P.S. training rule checklist.  Please double check.
+
+Good Idea!
+
+>You get 1 EP every 10 hours of self study, at a cost of 50 Ext. (Exaustion)
+
+Ummm.. no 10 hours of study costs 100 Ext!  
+
+>You get 1 EP every 8 hours of group study, at a cost of 40 Ext.
+
+Likewise- 80 ext!  Maybe this is why you thought traiing was too easy!
+
+>You get 1 EP every (5 hours - 15 min * (teachers teaching level +
+>(teachers level in skill taught - students level in skill taught - 1) )
+>
+>The Ext cost of learning by being taught is 10 Ext per hour.
+
+>Notes (Not all apply if I got the above wrong) : You need to put a
+>minimum on how quickly you can get taught an EP, I suggest 2 to 3
+>hours.  Also, teachers teaching level in the above formula is way to
+>gross.  A teacher with level 10 can teach people anything they know
+>better in 2.5 hours.
+
+There is a minimum- the combined teacher's rank differential in the skill with
+the student and teaching skill cannot exceed 8.   Therefore the fastest anyone 
+can learn is 3 hours per ep!  Now mind you the teacher still adds 1% per rank 
+to the ep roll so.... 
+
+Remember also Meta-Exhaustion!  Both Physical and Mental Exhayuustion feed into it
+and it accumulates at 1 Meta-Exhaustion per 10 Exhaustion used.  (That may be 
+too harsh- I am not sure! I am playing with going to 20 Exhaustion used equals a 
+Meta-Exhaustion.
+
+
+
+ALso-> Training rules:  Typically one cannot train more than (INT + DRV)/4 in a day.
+	EXHAUSTION(includes mental and physical sim.) COMES BACK:  
+		2 per hour of rest
+		Sleep-> 2 first hour, 4 second hour, 8 every hour thereafter
+		Meals-> A meal will restore 3 ext. (Maximum three meals per day- at
+			least one hour apart.)
+	META-EXHAUSTION comes back: 
+		1 per NIGHT of sleep
+		1 every 4 hours if a total day is spent in rest, if most of the day 
+			is restful, and no HEAVY labor is one 1 per 8 hours is
+			recovered  (one cannot use more than a quarter of one's 
+			exhaustion on a day such as this.)
+
+	Using these rules I calculated a driven, intelligent student with the best 
+teachers and time to burn could earn around 600 eeps in a year.  That is optimal!
+It assumes the student has a 16 INT and a 16 DRV.  
+
+That is the equivelant 0f about 14-15 runs.  I am not sure that's a bad thing!  
+
+
+BTW:  I odn't havce my notes with me so if any of these number s are worng let me
+know- I don't think they are.  BUt my formula for maximum hours of trianing a day, 
+or maybe speed of recovery of exhaustion is a little off- but it will only be a marginal difference.  These are at LEAST ball park correct numbers, and probably 
+completely correct.
+
+
+		Alex "Rev 6 is coming" Jackl
+
+Hopefully we will get to start playing more next year! (Jazz and Dangerous- your building up lack of running momentum!) 
+
+From jr@dsd.camb.inmet.com Fri Dec  3 13:29:46 1993
+Date: Fri, 3 Dec 93 10:36:24 EST
+From: James Raisbeck <jr@dsd.camb.inmet.com>
+To: alexj@juliet.ll.mit.edu
+Cc: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM,
+    71342.3143@compuserve.com, 72144.743@compuserve.com,
+    Joe=Lapolito%IRD%PEOPLES@BANYAN.UMMED.EDU, alexj@juliet.ll.mit.edu,
+    bmckinle@mitre.org, ghodge@nyx.cs.du.edu, hicks@milkwy.enet.dec.com,
+    jmochel@world.std.com, markd@ill.ceo.dg.com, morphus@mathworks.com
+Subject: Re: Training- check it out! All and any comments welcome
+
+
+	If you train more than 7 hours per day you lose 7 Meta
+exhaustion and will need to rest at least 1 day.  So, you can't train
+more than half the days in a year effectively, so with 16 Int and Drv,
+you will be able to train less than 4 hours per day on average.  That
+gives 486.67 EP's per year.
+				James.
+
+From alexj@juliet.ll.mit.edu Wed Dec 15 15:37:47 1993
+Date: Wed, 28 Apr 93 14:14:59 EDT
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: britt%shiloh@mbunix.mitre.org, jb@gauss.math.brown.edu,
+    jmochel@world.std.com
+Subject: Re: Teaching
+
+
+Teaching in BT:
+
+WARNING: I discuss intensity level here.   Intensity has always been ther ebut we ignored it because we didn't have Real Solid Rules(TM).  In the next rev
+these, I think will be the rules.
+
+
+Hmmm...
+
+I have been placing a cap on the amount: 
+Teaching skill + (Teacher's Rank - Student's Rank -1) 
+
+That cap has been twelve.  12*15m=3h.  This means two hours is the
+fastest someone can teach you.  
+
+Standard training is intensity level five. 
+
+The intensity of the training can also up to double the speed- so if you
+are training at intensity level ten (i.e. they throw you in a pit and 
+start pouring lava in and then say okay- control fire NOW!) with a 
+teacher that is more then six ranks higher than you in control fire and 
+is a six rank teacher you will get a roll in 45 minutes.  
+
+In reality it might be faster at that level but them is the breaks!
+
+
+
+So base time is ten hours.  
+
+Having teacher (a person at least one rank higher than you in skill, who is
+dedicating half their energy to training you for the traiing time period)
+cuts the time to five hours.
+
+Having partner(s) (person who is plus or minus two skill levels of you 
+and training with you in the same skill) cuts the base time to 8 hours.
+
+Teacher's RANK in skill minus Student's RANK in Skill -1 = # of -15 minutes
+	*MAX: 5
+Teacher's RANK in Teaching = # of - 15 minutes
+	*Teaching skill is divided into Physical, Mental, and Internal
+INtensity Level of Training - 5 = # of - 15 minute intervals.
+	*Scale is 1(think about it) to 10 (real combat).  EXT costs per 
+	 training hour equal 2*INTENSITY.  
+	MISHAP chance = 5%*(INTENSITY-5). It is always 1%.  
+
+

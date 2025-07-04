@@ -1,0 +1,31 @@
+Hello There,
+  My name is Jim Mochel and I am new to this list. I am hoping that someone 
+  here can point me in the right direction in some research I am doing. I
+  am designing a fairly realistic wargame simulation. In doing so I have 
+  spent the past two years gathering information on basic human capabilities and 
+  attributes involving fatigue, reaction times, hand to hand combat, healing,
+  sleep deprivation, etc.. Most of this information has been found in Biomechanics 
+  Conferences and Human Factors Society proceedings. Unfortunately there are 
+  still some gaps in my knowledge. 
+  
+  The areas I have almost nothing about are as follows:
+  
+  1. The times taken to swing verious objects. Does it vary greatly with the strength
+  of the individual involved ? Does the length of the object have a greater effect than
+  the mass ?  Does using two hands speed a swing or slow it down ? I have not even found 
+  a good description of the time it takes to swing a baseball bat or tennis racket.
+  
+  2. A basic discussion of wound trauma. Especially for Blunt and edged weapons.
+  Data on Ballistics Wound trauma is also of interest.
+  
+  I have a solid background in physics and some familiarity with kinematics so 
+  have no fear that any information you provide may be too technical for me.
+  
+  With Thanks,
+  
+    Jim Mochel
+    <jsm@camsci.com>
+    
+
+
+ 

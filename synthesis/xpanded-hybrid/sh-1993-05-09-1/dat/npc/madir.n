@@ -1,0 +1,49 @@
+.Name MADIR
+.Title GREAT DAME					
+.Race HU
+.Culture
+.Aspect 
+.PST 8
+.PEN 8		
+.DEX 9
+.PAG 13		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 19
+.MAG 14
+.MAW 14
+.HT 5'3"      
+.WT 140		 
+.AGE 71
+.BeginDesc
+ 13: A NEATLY GROOMED AND PLAINLY DRESSED COUNTRY WOMEN WITH MOUSEY  
+BROWN HAIR AND SMALL SPECTACLES FRAMING A SET OF HAZEL EYES.
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale ELFREDAM
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+ COUNCILS SEVERAL MIMBRATE WOMEN IN THE USE OF THE SHIRAL	
+CRYSTAL.
+.EndSecretAssoc
+.BeginFriends TRAINED DROMAR
+.EndFriends
+.BeginComment
+ A SHRILL, STRIDENT MOTHER OF ALL THAT WALKS. SHE IS SCOLDING AND		
+RAUCOUS BUT ALSO VERY STRONG EVEN AS A PSIONIC.
+.EndComment
+.BeginPossess
+ SEVEN SHIRAL MATRIX STONES. A TOME OF PSIONIC ATTAINMENT.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

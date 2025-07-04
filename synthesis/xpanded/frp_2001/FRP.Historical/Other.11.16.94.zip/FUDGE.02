@@ -1,0 +1,1159 @@
+From world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!pipex!uunet!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:16 1993
+Xref: world rec.games.design:5973
+Newsgroups: rec.games.design
+Path: world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!pipex!uunet!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: Chapters 1-2
+Message-ID: <1993Dec8.200406.1799@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:04:06 GMT
+Lines: 1146
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                        By Steffan O'Sullivan
+                      Version: December 7, 1993
+
+"Back Cover Blurb"
+ ----------------
+
+FUDGE is a freeform RPG "engine."  This means that the rules are
+guidelines, not unbreakable laws.  Each GM *must* do a certain amount
+of work customizing the rules to her tastes, supplying the body of the
+gaming "vehicle" - FUDGE is just the engine.  This is unavoidable in a
+freeform game that is trying to appeal to a wide variety of gamers.
+Fortunately, this also means that supplements from *any* game company
+are compatible with FUDGE!
+
+FUDGE is specifically for people who want a good bedrock to build
+their own system on.  If every commercial RPG details certain things
+in ways you don't like, then FUDGE may be what you're looking for.  If
+you have created a great game setting (or translated one from
+fiction), but no other game system's rules seem to do it justice,
+perhaps FUDGE can help you.
+
+If, on the other hand, you demand fully fleshed-out rules or a world
+background detailed by a game designer, then you may wish to read no
+further . . .
+
+In its current edition, FUDGE is intended for experienced Game
+Masters.  That is, at this time there is no introductory "What is
+role-playing" section, nor detailed explanations of how to handle any
+given situation.  However, a glossary of FUDGE-specific terms is
+presented at the beginning of each new major topic.  The game can work
+with novice *players*, as long as the GM is experienced.
+
+Note: the word "freeform" in this game has nothing to do with the live
+role-playing style known in Australia as free-form.  In FUDGE, the
+word simply means a flexible, simple, casual set of RPG rules,
+requiring much to be filled in and improvised by the GM.
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+======================================================================
+
+
+Table of Contents
+=================
+
+1  FUDGE Overview
+2  Character Creation
+    2.1  Character Creation Terms
+    2.2  FUDGE Trait Levels
+    2.3  Character Traits
+          2.31  Attributes
+          2.32  Skills
+          2.33  Gifts
+          2.34  Faults
+          2.35  Personality
+          2.36  Fudge Points
+    2.4  Allocating Traits
+    2.5  Subjective Character Creation
+    2.6  Objective Character Creation
+          2.61  Attributes
+          2.62  Skills
+          2.63  Gifts & Faults
+          2.64  Trading Traits
+    2.7  Uncommitted Traits
+    2.8  Random Character Creation
+    2.9  Minimizing Abuse
+3  Supernormal Powers
+    3.1  Supernormal Power Terms
+    3.2  Powers at Character Creation
+          3.21  Powers Available
+          3.22  Associated Skills
+          3.23  Combat Powers
+    3.3  Non-humans
+          3.31  Strength and Mass
+          3.32  Speed
+          3.33  Scale Correlations
+          3.34  Cost of Scale
+          3.35  Racial Bonuses and Penalties
+    3.4  Legendary Heroes
+    3.5  Magic
+    3.6  Miracles
+    3.7  Psi
+    3.8  Superpowers
+    3.9  Cybernetic Enhancements
+4  Action Resolution
+    4.1  Action Resolution Terms
+    4.2  Rolling the Dice
+          4.21  Reading the Dice
+          4.22  Other Dice Techniques
+          4.23  Success Rates
+    4.3  Action Modifiers
+    4.4  Unopposed Actions
+    4.5  Opposed Actions
+    4.6  Combat
+          4.61  Subjective Combat
+          4.62  Objective Melee Combat
+          4.63  Offensive/Defensive Tactics
+          4.64  Multiple Combatants in Melee
+          4.65  Objective Ranged Combat
+    4.7  Damage and Healing
+          4.71  Subjective Damage System
+          4.72  Objective Damage System
+          4.73  Damage Threshold
+          4.74  Combat and Objective Damage Example
+          4.75  Non-human Scale in Combat
+          4.76  Pulling Punches & Knockout Damage
+          4.77  Healing
+    4.8  Critical Results
+    4.9  NPC Reactions
+5  Character Development
+    5.1  Subjective Character Development
+    5.2  Objective Character Development
+    5.3  Development through Training
+6  Tips and Examples
+    6.1  GM Tips and Conversion
+    6.2  Character Sheet Example
+    6.3  Character Examples
+          6.31  Fantasy Characters
+          6.32  Historical Characters
+          6.33  Modern Characters
+          6.34  Science Fiction Characters
+          6.35  Miscellaneous Characters
+    6.4  Animal & Creature Examples
+    6.5  Equipment Examples
+
+Terminology Notes:
+-----------------
+
+To avoid confusion, "he, him," etc., are used to describe a player and
+PC, and "she, her," etc., are used to describe a Game Master and NPC.
+
+FUDGE is divided into six Chapters, each of which is divided into
+Sections.  The decimal point in Section numbers is a true decimal.
+For example, Section 2.35 comes between Section 2.3 and Section 2.4.
+
+
+1  FUDGE Overview
+=================
+
+FUDGE (Freeform, Universal Donated Gaming Engine, or Freeform
+Universal Do-it-yourself Gaming Experience) is a roleplaying game.
+The basic rules of FUDGE contain no world background whatsoever.  They
+may be used with *any* gaming genre, and some customization tips are
+included.  However, Game Masters using the basic FUDGE rules must do
+some work to customize the rules to their game worlds.
+
+Freedom of choice is the basic premise behind FUDGE.  Every Game
+Master using FUDGE has the right to add or ignore any attributes,
+skills, or other character traits.  Hence, the FUDGE rules are easily
+adaptable to a world of your own creation, a setting from your
+favorite fiction, or a commercial source book from any game company.
+
+You can even integrate FUDGE with other role-playing rules.  If an
+existing game has a brilliant game mechanism in an otherwise
+lackluster set of rules, you can easily import the brilliance into
+FUDGE without bringing along the mediocrity.  Do you like the way game
+X handles psi, game Y combat, and game Z sanity?  Use them all freely
+with FUDGE.
+
+The complete version of FUDGE includes many examples of character
+creation, each using different collections of character traits.  In
+addition to supplying tips on how to build your own unique set of
+character traits, Chapter Two presents  both a subjective and
+objective system of character creation.  Chapter Three provides
+guidelines for supernormal abilities if you wish to include character
+traits and powers beyond the realistic human range: magic, psionic
+powers, aliens, super heroes, etc.
+
+FUDGE's action resolution system, detailed in Chapter Four, is simple
+and consistent.  In summary, a player rolls two dice and adjusts his
+character's trait level up or down (according to the dice result) to
+determine how well his character succeeds - or how badly he fails.
+When two or more characters can influence the outcome of an action,
+all their players roll and compare the results.  Combat is just an
+extension of the action resolution system.  FUDGE offers both a
+subjective and objective system for tracking damage to characters.
+
+Chapter Five covers character development (experience).  Chapter Six
+is a collection of Game Master tips and FUDGE examples, while Chapter
+Seven offers several ready-made additions to the FUDGE basic rules,
+including sample systems for magic and psionics as well as alternative
+systems for character creation and action resolution.
+
+Throughout FUDGE, the GM is given options to help her customize FUDGE
+toward either a realistic campaign or an "epic" (or "legendary" or
+"cinematic") campaign.  Any genre can be played at any point between
+these opposing stances of realistic vs. legendary.
+
+FUDGE may be used as an engine for other game designers.  FUDGE's
+word-based descriptive levels are easily translated to any other game.
+Any publisher who has a good world to game in is welcome to adapt
+FUDGE to that world and publish as much or as little of the FUDGE
+rules with that game world as desired.  The FUDGE rules may also be
+customized to an individual setting by the publisher.  If you are
+reading this overview in such a book, it may or may not include all
+the FUDGE rules.  This overview will tell you what you are missing in
+such a case, so you can judge if it's worth hunting down the full
+FUDGE rules.
+
+For those of you with access to the Internet, the basic FUDGE rules
+can be obtained free via anonymous ftp at soda.berkeley.edu in the
+directory pub/fudge/rules.  Many FUDGE options, such as described
+above as contained in Chapter Seven, can also be found at that site,
+in other /pub/fudge directories.  (These samples and options are
+occasionally referred to in the FUDGE rules as the Addenda.)
+
+The current version of FUDGE and the Addenda can also be obtained from
+Wild Mule Games, P.O. Box 838, Randolph, MA 02368.  FUDGE is available
+from Wild Mule Games in book format or on Macintosh or IBM diskette.
+Send a self-addressed stamped envelope for current prices (including
+shipping and handling charges).  Outside the U.S.A., enclose an
+International Reply Coupon.
+
+
+2  Character Creation
+=====================
+
+This chapter contains all the information you'll need to create human
+characters, including character traits and trait levels, and two
+different systems of how to allocate them.
+
+For non-human characters - or characters with supernormal abilities
+(magic, psionics, super powers, etc.) - you will also need to read
+Chapter 3, Supernormal Powers, before your characters will be
+complete.
+
+2.1  Character Creation Terms
+-----------------------------
+
+Trait: anything that describes a character.  A trait can be an
+     attribute, skill, inherited gift, fault, supernormal power, or
+     any other feature that might describe a character.  The GM is the
+     ultimate authority on what is an attribute and what is a skill,
+     gift, etc.
+
+Level: most traits are described by one of seven adjectives.  These
+     seven descriptive words represent *levels* a trait may be at.  In
+     addition, the Objective Character Creation method grants the
+     player free levels, and demands he keep track of them.  In this
+     case, one level is required to raise a trait to the next better
+     adjective.
+
+Attribute: any trait that *everyone* has, in some degree or other.
+     See Section 2.31, Attributes, for a sample list of attributes.
+     On a scale of Terrible...Fair...Superb, the average human will
+     have an attribute at Fair.
+
+Skill: any trait that isn't an attribute, but can be improved through
+     practice.  The default for an unlisted skill is usually Poor,
+     though that can vary up or down a little depending on the skill.
+
+Gift: any trait that isn't an attribute or skill, but is something
+     positive for the character.  Some GMs will define a certain trait
+     as a gift, while others will define the same trait as an
+     attribute.  In general, if the trait doesn't easily fit the
+     Terrible...Fair...Superb scale, it's probably a gift.
+
+Fault: any trait that limits a character's actions, or earns him a bad
+     reaction from other people.
+
+Supernormal Power: although technically gifts, supernormal powers are
+     treated separately in Chapter 3.
+
+2.2  FUDGE Trait Levels
+-----------------------
+
+FUDGE uses ordinary words to describe various traits of a character.
+The following terms of a seven-level sequence are suggested (from best
+to worst):
+    
+    Superb
+    Great
+    Good
+    Fair
+    Mediocre
+    Poor
+    Terrible
+
+These levels should be written on each character sheet for easy
+reference.
+
+A GM may alter this list in any way she desires, including expanding
+or shrinking it.  For example, if Superb doesn't sound right to you,
+use Awesome - or even Way Cool.  If the words Mediocre and Fair don't
+make sense to you, change them!  These seven terms will be used in the
+rules, however, for clarity.
+
+The best way to remember the order is to compare adjacent words.  If,
+as a beginner, your eventual goal is to become an excellent game
+player, for example, ask yourself if you'd rather be called a Fair
+game player or a Mediocre game player?
+
+There is an additional level that can be used in FUDGE, but is not
+listed above: Legendary, which is beyond Superb.  Those with Legendary
+Strength, for example, are in the 99.9th percentile, and their names
+can be found in any book of world records.
+
+IMPORTANT NOTE: not every GM will allow PCs to become Legendary!  Even
+in games that *do* include the Legendary level, it is not recommended
+that any character be allowed to *start* the game as Legendary.
+Superb represents the 98th to 99.9th percentile of any given trait,
+which should be enough for any beginning PC!  Of course, if a player
+character gets a bit overconfident, meeting an *NPC* Legendary
+swordswoman can be a grounding experience. . .
+
+If someone really *has* to begin play as a Legendary swordsman, strong
+man, etc., doing the GM's laundry for half a year or so (in advance)
+should be sufficient bribe to be allowed to start at that level.  Of
+course, working towards Legendary makes a great campaign goal, and so
+PCs may rise to that height, given enough playing time and a generous
+GM.
+
+2.3  Character Traits
+---------------------
+
+Traits are divided into Attributes, Skills, Gifts, Faults and
+Supernormal Powers.  Not every GM will have all five types of traits
+in her game.  These traits are defined in Section 2.1, Character
+Creation Terms.
+
+2.31  Attributes
+----------------
+
+Gamers often disagree on how many attributes a game should have.  Some
+prefer few attributes, others many.  Even those that agree on the
+number of attributes may disagree on the selection.  While FUDGE
+discusses some attributes (Strength, Fatigue, Constitution, etc.) in
+later sections, none of these are mandatory.  The only attribute the
+basic FUDGE rules assume is Damage Capacity, and even that is needed
+only if you use the Objective Damage system (Section 4.72).
+
+Damage Capacity may be called Hit Points, if desired.  It may be tied
+to a character trait such as Constitution (or Hardiness, Fitness,
+Health, Body, etc.), or it may be a separate trait - see Section 6.3,
+Character Examples.  In FUDGE, Damage Capacity determines how wounds
+affect a character, and is an attribute on the Terrible ... Fair ...
+Superb scale.  See Section 4.72, Objective Damage System, for details.
+
+Here is a partial list of attributes in use by other games; select to
+your taste, or skip these altogether:
+
+Body: Agility, Aim, Appearance, Balance, Brawn, Build, Constitution,
+Coordination, Deftness, Dexterity, Endurance, Fatigue, Fitness,
+Health, Hit Points, Manual Dexterity, Muscle, Nimbleness, Quickness,
+Physical, Reflexes, Size, Smell, Speed, Stamina, Strength, Wound
+Resistance, Zip, and so on.
+
+Mind: Cunning, Education, Intelligence, Knowledge, Learning,
+Mechanical, Memory, Mental, Mental Strength, Perception, Reasoning,
+Smarts, Technical, Wit, and so on.
+
+Soul: Channeling, Charisma, Charm, Chutzpah, Common Sense, Coolness,
+Disposition, Drive, Ego, Empathy, Fate, Honor, Intuition, Luck, Magic
+Resistance, Magic Potential, Magical Ability, Power, Presence, Psyche,
+Sanity, Self Discipline, Social, Spiritual, Style, Will, Wisdom, and
+so on, and so on!
+
+Other: Rank, Status, Wealth.
+
+Note that most games combine many of these attributes, while others
+treat some of them as gifts or even skills.  In FUDGE, if you wish,
+you can even split these attributes into smaller ones: Lifting
+Strength, Carrying Strength, Damage-dealing Strength, etc.
+
+At this point, the GM might decide how many attributes she deems
+necessary - or she might leave it up to each player.  (Commercial
+games range from one or two to over 20.)  See Section 6.3, Character
+Examples, for some possibilities.
+
+2.32  Skills
+------------
+
+Skills are not related to attributes or their levels in FUDGE.
+Players are encouraged to design their characters logically - a
+character with a lot of Good physical skills should probably have
+better than average physical attributes, for example.  On the other
+hand, FUDGE allows a player to create someone like Groo the Wanderer
+(TM), who is very clumsy yet extremely skilled with his swords.
+
+The GM should then decide what level of skill depth she wants.  Are
+skills broad categories such as "Social skills," or moderately broad
+abilities, such as "Inspire People, Parley, and Market Savvy," or are
+they very specific abilities such as "Barter, Seduce, Repartee,
+Persuade, Fast-Talk, Bully, Grovel, Carouse, Flatter, Bribe," etc.?
+
+Note that an attribute is, in some ways, a *very* broad skill group,
+and skills may be ignored altogether if desired.
+
+Combat skills require special consideration.  The broadest possible
+category is simply that: Combat Skills.  A very broad range might
+break that down to Melee Weapons, Unarmed Combat, and Missile Weapons.
+A somewhat narrower approach would break down Melee Weapons into Close
+Combat Melee Weapons (knives, blackjacks, etc.), One-handed Melee
+Weapons (one-handed swords, axes, maces, etc.) and Two-handed Melee
+Weapons (polearms, spears, battle-axes, two-handed swords, etc.).  Or,
+for a very precise list of skills, each group in parentheses could be
+listed as a separate skill; a character skilled at using a broadsword
+might know nothing about using a saber, for example.
+
+Each choice has its merits.  Broad skill groups that include many sub-
+skills make for an easy character sheet and fairly competent
+characters, while specific skills allow fine-tuning a character to a
+precise degree.
+
+See Section 6.3, Character Examples, for an idea of how broadly or
+finely skills can be defined in a game.
+
+The following brief list of skill examples is not in any way intended
+to be comprehensive or official.  It is merely to help those not used
+to skill-based systems think of some skills for their characters.  By
+all means, change the names, create new ones, compress or expand those
+listed, disallow some, etc.  It is useful to print a sample skill list
+on a separate sheet for each player during character creation.
+
+Animal Skills: Animal Care, Animal Lore, Animal Training, Bee-keeping,
+  Herding, Riding, Teamster, Veterinarian, etc.
+Artistic skills: Aesthetics, Cosmetology, Culinary Arts, Literary
+  Arts, Performing Arts (music, theater, storytelling, jester, dance,
+  etc., and such skills as Choreography, Composition, Costuming,
+  etc.), Visual Arts (painting, drawing, sculpting, etc.), and so on
+Athletic skills: Acrobatics, Aerial Acrobatics, Balance Skills,
+  Boating, Climbing, Jumping, Pole-vaulting, Running, Swimming,
+  Throwing, Various Sports, Zero-G Maneuvering, etc.
+Combat skills: Ambush, Demolitions, Dodge, Punmanship, Quick-Draw,
+  Shield, Tactics, Throwing, numerous Weapon and Unarmed Combat skills
+Covert skills: Acting, Breaking & Entering, Detect Traps, Deactivate
+  Traps, Disguise, Forgery, Infiltrate, Intrigue, Lockpicking,
+  Pickpocketing, Poisoning, Shadowing, Shady Contacts, Sleight of
+  Hand, Stealth, etc.
+Craft skills: Armory, Basket Making, Bowyer/Fletcher, Carpenter,
+  Cooking, Knots, Leatherworking, Masonry, Pottery, Smith, Tailor,
+  Weaving - many others
+Dungeon-delving skills: Avoid Traps, Fight, Find Secret Passages, Pick
+  Locks, Move Quietly, Run, Tell Believable Whoppers
+Knowledge skills (a skill can represent knowledge of a subject as
+  broad or narrow as the GM will allow): Alchemy, Alien Customs,
+  Arcane Lore, Criminology, Cultures, Detective Fiction, Folklore,
+  Geography, History, Literature, Occultism, Political Situations,
+  Psychology, TV SitCom Episodes, Sciences (lots of these), etc.
+Language skills: Each individual language, Pantomime, Pick Up
+  Languages, etc.
+Manipulative skills: Bamboozle, Bluff, Boot-licking, Bribery, Con,
+  Exhort, Fast-talk, Flattery, Interrogate, Intimidate, Lying,
+  Oratory, Persuade, Seduction, Street Gossip, etc.
+Medical skills: Anatomy, Antidotes, Diagnosis, Doctoring, First Aid,
+  Herb Preparation, Medicine, Nursing, Surgery, etc.
+Merchant skills: Bargain, Barter, Business Sense, Evaluate Goods,
+  Haggle, Innkeeping, Marketing, Salesmanship, Shopkeeping, etc.
+Outdoor skills: Camouflage, Camping, Fishing, Forage, Herb Lore, Hide
+  Traces, Hunting, Mimic Animal Noises, Nature Lore, Navigation,
+  Survival, Tracking, Wildcraft, Woodcraft, etc.
+Professional skills: Accounting, Begging, Bureaucracy, Farming,
+  Gambling, Law, Photography, Seamanship - many others
+Social skills (Fellowship): Bar Etiquette, Camaraderie, Carouse,
+  Choosing just the right gift, Control Libido, Flirting, Game
+  Playing, Hold your liquor, Make Amusing Faces or Noises, Matrix
+  Etiquette, Tall Tales, Uplift Spirits, Witty Insults, etc.
+Social skills (Formal): Courtly Ways, Detect Lies, Diplomacy,
+  Etiquette, Interviewing, Parley, Repartee, Rituals, Savoir-Faire,
+  Servant, etc.
+Spiritual skills: Communing with nature, Fasting, Giving comfort,
+  Listening deeply, Meditation, Patience, Theology, etc.
+Supernormal Power skills: Fortune Telling, Levitate, Spell Casting,
+  Use Mind Control, Use Superpower, Use Telekinesis, etc.
+Technical skills: Computer Build/Repair, Computer Programming,
+  Computer Use, Driving, Electronics, Engineer, Mechanic, Piloting,
+  Repair Scoutship Systems, Research, Shiphandling, etc.
+Urban skills: Barroom Savvy, Street Etiquette, Streetwise, Urban
+  Survival, etc.
+
+2.33  Gifts
+-----------
+
+A gift is a positive trait that doesn't seem to fit the Terrible...
+Fair... Superb scale that attributes and skills fall into.  However,
+this will vary from GM to GM: a photographic memory might be a gift to
+one GM, while it will be a Superb Memory attribute to another.  Some
+GMs will define Charisma as an attribute, while others might define it
+as a gift.  To one Game Master, a character either has Night Vision or
+he doesn't; another will allow characters to take different levels of
+it.  A Game Master may not even have gifts in her game at all.
+
+Alternatively, gifts might come in levels, but the levels don't
+necessarily coincide with the levels used by other traits.  For
+example, Status might be three- or four-tiered, or even nine-tiered
+instead of fitting into the seven levels of attributes and skills.
+Wealth might come only in five different levels - whatever each GM
+desires.
+
+One final way to look at a gift is as the positive aspect of a trait,
+and a fault (Section 2.34) as the negative aspect.  For example, a GM
+might describe a character's monetary status as a gift of Superb
+Wealth or a fault of Terrible Wealth.  Using this approach, normal
+people would have Fair Night Vision (not listed on the character
+sheet), while Superb Night Vision would be a gift, and Terrible Night
+Vision (Night Blindness) a fault.
+
+Supernormal powers, such as the ability to cast magic spells, fly,
+read minds, etc., are technically very powerful gifts, but are handled
+separately in Chapter 3.  Likewise, traits above the human norm, such
+as a very strong fantasy or alien race, are treated by definition as
+supernormal powers.
+
+In general, if a gift isn't written on the character sheet, the
+character doesn't have it.
+
+See Section 6.3, Character Examples, for examples of different gifts.
+Many others are possible.
+
+2.34  Faults
+------------
+
+Faults are anything that makes life more difficult for a character.
+The primary faults are those that restrict a character's actions or
+earn him a bad reaction from chance-met NPCs.  Various attitudes,
+neuroses and phobias are faults; so are physical disabilities and
+social stigmas.  There are heroic faults, too: a code of honor and
+inability to tell a lie restrict your actions significantly, but are
+not signs of flawed personality - see the next section.
+
+Some faults are superfaults: the converse of supernormal powers, such
+as a trait far below the human norm (e.g., a pixie's Strength).  These
+are discussed in Section 3.1, Supernormal Power Terms.
+
+See Section 6.3, Character Examples, for examples of different faults.
+Many others are possible.
+
+2.35  Personality
+-----------------
+
+A character's personality may be represented by one or more traits, or
+it might simply be written out as character background or description.
+
+As an example of the first case, courage might be an attribute, a gift
+or even a fault.  As attributes, Superb Courage and Terrible Courage
+have obvious meanings.  As a gift, obvious bravery might give the
+character a positive reaction from people he meets (assuming they see
+him being courageous, or have heard of his deeds, of course).
+
+However, both Very Courageous and Very Cowardly can be faults because
+they might limit a character's actions.  A very courageous character
+might not run away from a fight even if it were in his best interest,
+while a cowardly one would have a hard time staying in a fight even if
+he stood to gain by staying.
+
+Or a character's level of courage might not be a quantified trait at
+all, but something the player simply decides.  "Moose is very brave,"
+a player might jot down, and that is that.  It doesn't have to count
+as a high attribute, gift or fault.
+
+A player should ask the GM how she wants to handle specific
+personality traits.  An excellent way to handle this is for the player
+simply to describe his character in detail, and let the GM decide
+which personality traits should be handled as attributes, gifts, or
+faults.  However they are handled, most characters benefit by having
+their personalities fleshed out.
+
+2.36  Fudge Points
+------------------
+
+Fudge Points are meta-game gifts that may be used to buy "luck" during
+a game - they let the *players* fudge a game result.  These are "meta-
+game" gifts because they operate at the player-GM level, not
+character-character level.  Not every GM will allow Fudge Points -
+those who prefer very realistic games should probably not use them.
+
+The GM sets the starting number of Fudge Points.  The recommended
+range is from one to five, but very cinematic campaigns may allow
+more.  Unused Fudge Points are saved up for the next gaming session.
+Each player may get an additional number each gaming session.  (This
+is also set by the GM, and may or may not equal the starting level.)
+Alternately, the GM may simply allow Experience Points to be traded
+for Fudge Points at a rate appropriate for the campaign: 3 EP = 1
+Fudge Point, down to 1 EP = Fudge Point.
+
+Example: in a game of Space Opera derring-do, a GM decides that each
+character can start with three Fudge Points.  In addition, each
+session they will receive an additional two Fudge Points.  If a
+character doesn't use any during the first session, he will have five
+Fudge Points available to use during the second session.
+
+Fudge Points can be used in many ways, depending on what level on the
+realistic-legendary scale the game is played at.  Here are some
+suggested ways to use them, ranging (in order) from a realistic game
+to an intensely legendary game - the GM can create her own uses, of
+course.  A GM may allow as few or many of these options as she wishes
+- the players should ask her before assuming they can do something
+with Fudge Points.
+
+A) A player may spend one Fudge Point to accomplish an Unopposed
+action with a Good (or lesser) Difficulty Level automatically and with
+panache - good for impressing members of the appropriate sex, and
+possibly avoiding injury in the case of climbing or acrobatic actions.
+Two Fudge Points allow the same thing for a Great Difficulty Level,
+and three Fudge Points for a Superb Difficulty Level.  This option
+cannot be used for any Opposed actions, such as combat.
+
+B) A player may spend one Fudge Point to alter a die roll one level,
+up or down as desired.  The die roll can be either one the player
+makes, or one the GM makes that directly concerns the player's
+character.  In a fairly realistic game, this must be announced
+*before* the die roll; otherwise it can be decided afterwards.  A
+maximum of one Fudge Point may be spent per die roll in a realistic
+game.  In a legendary game, the GM may allow multiple points to be
+spent on a single die roll.
+
+C) A player may spend one Fudge Point to declare that wounds aren't as
+bad as they first looked: Hurt become Scratched, Very Hurt become
+Hurt, Incapacitated become Very Hurt, Near Death become Incapacitated.
+(Dead is dead, however.)  This should only be done outside of combat
+time.
+
+D) A player may spend three Fudge Points to declare that all wounds
+are really just Scratches that knocked the wind out of him, or stunned
+him temporarily: all wounds become Scratches, except Dead, which
+remains dead.  Again, this should not be allowed during combat time.
+
+E) A player may spend three Fudge Points to get an automatic +3
+result, without having to roll the dice.
+
+F) For appropriately legendary games, a GM-set number of Fudge Points
+can be spent to ensure a fortuitous coincidence.  (This is always
+subject to GM veto, of course.)  For example, if the PCs are in a
+maximum security prison, perhaps one of the guards turns out to be the
+cousin of one of the PCs - and lets them escape!  Or the piece of
+paper blowing down the street happens to be a page from the villain's
+notebook, with an interesting tidbit of a clue on it . . .  Or the
+captain of the fishing boat rescuing the PCs turns out to be someone
+who owes a favor to one of them, and is willing to take them out of
+his way to help them out . . .  You get the idea.  This option should
+probably be very expensive in terms of Fudge Points, except in certain
+genres where bizarre coincidences are the norm!
+
+2.4  Allocating Traits
+----------------------
+
+Character creation in FUDGE assumes the players will *design* their
+characters, rather than leaving attributes and other traits to chance.
+The GM may allow randomly determined traits if she desires - a
+suggested method is given in Section 2.8, Random Character Creation.
+
+There are no mandatory traits in FUDGE.  The GM should inform the
+players which traits she expects to be most important, and the players
+may suggest others to the GM for her approval.  The GM may even make a
+template, if desired - a collection of traits she deems important
+(with room for customization) - and let the players define the level
+of each trait.
+
+When a character is created, the player should define as many
+character traits as he finds necessary - which may or may not coincide
+with a GM-determined list.  If a player adds an attribute the GM deems
+unnecessary, the GM may treat that attribute as simply a *description*
+of the character.  She may require a roll against a different
+attribute than the player has in mind, and the player must abide by
+her decision.
+
+As an example, a certain GM decides she wants physical attributes to
+be Strength, Dexterity and Constitution.  A player takes Good
+Dexterity for his PC, but wants to show that the character is better
+at whole body dexterity than at manual dexterity.  So he breaks
+Dexterity down into: Great Agility and Fair Manual Dexterity (which
+average Good).  However, the GM can ignore these distinctions, and
+simply require a Dexterity roll, since that is the trait she has
+chosen.  Of course, she can also accept the player's choices and allow
+him to roll on the attributes he has created.
+
+FUDGE offers two methods of creating characters: a subjective method
+(in which each player simply rates his character's traits according to
+his conception of the character's abilities); and an objective method
+(in which the GM grants players a certain number of free trait levels
+which the players may allocate as they see fit).
+
+In FUDGE, a character with a trait at Fair will succeed at ordinary
+tasks 61% of the time - there is usually no need to create a
+superstar.  In fact, Great is really just that: great!  Superb should
+be reserved for the occasional trait in which your character is the
+best he's ever met.
+
+Any traits that are not defined at character creation will be at one
+of three default levels:
+
+For attributes: Fair.
+
+For most skills: Poor (easier skills might be Mediocre, while harder
+ones are at Terrible).  Note that a skill default basically means
+untrained, or very close to it.  However, it is possible to take a
+skill at Terrible, which is below the default level for most skills.
+Taking a skill at Terrible implies an actual ineptitude - the
+character is worse at this particular skill than most people who
+haven't even tried it.
+
+For most gifts, supernormal powers and certain GM-defined skills: Non-
+Existent.  (That is, the *default* is non-existent.  The trait itself
+exists in *some* character, somewhere!)
+
+Each player should expect the GM to modify his character after
+creation - it's the nature of the game.  The GM should expect to
+review each character before play.  It would, in fact, be best if the
+characters were made in the presence of the GM so she can answer
+questions during the process.
+
+2.5  Subjective Character Creation
+----------------------------------
+
+A very easy way to create a character in FUDGE is for the player
+simply to write down everything about the character that he feels is
+important.  Any attribute or skill should be rated using one of the
+levels Terrible through Superb (see Section 2.2, FUDGE Trait Levels).
+
+It may be easiest, though, if the GM supplies a template of attributes
+she'll be using.  See Section 6.3, Character Examples, for template
+ideas.
+
+The GM may also tell the player in advance that his character can be
+Superb in a certain number of attributes, Great in so many others, and
+Good in yet another group.  For example, in an epic-style game with
+eight attributes, the GM might allow one Superb attribute, two Greats,
+and three Goods.  In a more realistic game, this might be one Superb,
+one Great, and two Goods.
+
+This can apply to skills, too: one Superb skill, two Great skills, and
+six Good skills is a respectable number for a realistic campaign,
+while two Superbs, three Greats, and ten Goods is quite generous, even
+in a highly cinematic game.
+
+The GM may also simply limit the number of skills a character can take
+at character creation: 10, 15, or 20 are possible choices.
+
+Gifts and faults can be defined this way, also.  For example, a GM
+might say that a character may have two gifts, and must take at least
+three faults.  Taking another fault will allow another gift, or
+perhaps another skill at Great, and so on.
+
+These limitations help the player define the focus of the character a
+bit better: what is his best trait (what can he do best)?
+
+If the player has a Jack-of-all-Trades in mind, most of his
+character's traits should be rated Mediocre to Good.  In this case, a
+very simple "two lower for one higher" trait-conversion mechanic can
+be used.  If the GM allows one Superb attribute, for example, the
+player may forego that and take two attributes at Great, instead.
+Likewise, one Great skill could be "traded" for two Good skills, and
+so on.  As an extreme example, consider a game with limits of one
+Superb skill, two Great skills and six Good skills.  A player decides
+he wants his character to be Good at a lot of things.  So he trades
+the one Superb skill limit for two Great skills, which means he could
+now take four skills at Great.  However, he trades all four Great
+skills in order to have eight more Good skills.  His character can now
+have 14 skills at Good!
+
+In the Subjective Character Creation system, it is very easy to use
+both broad and narrow skill groups, as appropriate for the character.
+In these cases, a broad skill group is assumed to contain the phrase,
+"except as listed otherwise."  For example, a player wishes to play
+the science officer of a starship.  He decides this character has
+spent so much time studying the sciences, that he's weak in most
+physical skills.  So on his character sheet he could simply write:
+     
+     Physical Skills: Poor
+
+He also decides that his character's profession would take him out of
+the ship in vacuum quite a bit, to examine things.  So he'd have to be
+somewhat skilled at zero-G maneuvering.  So he then adds:
+     
+     Zero-G Maneuvering: Good
+
+Even though this is a physical skill, it is not at Poor because he
+specifically listed it as an exception to the broad category.  As
+another example, a barbarian character might have "Terrible Social
+Skills," and "Great Carousing Skill."  Even though Carousing is a
+social skill, there is no conflict, since "Terrible Social Skills"
+actually means "Terrible Social Skills except as listed otherwise."
+
+The player and GM then meet and discuss the character.  If the GM
+feels the character is too potent for the campaign she has in mind,
+she'll ask the player either to limit the character's power, or take
+some faults that will balance him.  See also Section 2.9, Minimizing
+Abuse.
+
+The GM may then need to suggest areas that she sees as being too weak
+- perhaps she has a game situation in mind that will test a trait the
+player didn't think of.  Gentle hints, such as "Does he have any
+social skills?" can help the player through the weak spots.  Of
+course, if there are multiple players, other PCs can compensate for an
+individual PC's weaknesses.  In this case, the question to the whole
+group might then be, "Does *anyone* have any social skills?"
+
+Instead of the player writing up the character in terms of traits and
+levels, he can simply write out a prose description of his character.
+This requires the GM to translate everything into traits and
+appropriate levels, but that's not hard to do if the description is
+well written.  This method actually produces some of the best
+characters.  ("Let's start by defining Captain Wallop's best skill -
+what is he absolutely best at.  I see you rate his blaster skill
+highly, and also his piloting and gunnery, but I'm only allowing one
+Superb skill - which is it?  Blaster?  Okay, Superb Blaster.  Now you
+say he's known throughout the Imperium for his piloting and gunnery
+skills.  That would then be Great Piloting and Great Gunnery, all
+right?  That leaves you with two more skills to be at Great, since I
+allow four to start out.  Let's see, I notice he successfully
+penetrated the main Khothi hive and rescued the kidnapped ambassador -
+that sounds like a Great Ability to Move Quietly to me - is that
+accurate, or would you describe it as some other ability?"  And so
+on.)
+
+2.6  Objective Character Creation
+---------------------------------
+
+For those who don't mind counting numbers a bit, the following method
+creates interesting and well-balanced characters.  In this system, all
+traits start at default level.  The GM then allows a number of free
+levels the players may use to raise selected traits to higher levels.
+Players may then lower certain traits in order to raise others even
+further.  Finally, a player may opt to trade some levels of one trait
+type (such as attributes) for another (skills, for example).  The
+whole process insures that no character will dominate every aspect of
+play, and forces the player to focus his character much more than the
+Subjective Character Creation system.
+
+2.61  Attributes
+----------------
+
+A GM using the Objective Character Creation system should decide how
+many attributes she deems necessary in the campaign.  She can choose
+to leave it up to each player, if she wishes.  Players then have a
+number of free attribute levels equal to half the number of attributes
+(round up for more cinematic games, down for more realistic games).
+For example, if she selects four attributes, each player starts with
+two free levels he can use to raise his character's attributes.
+
+NOTE: for a more high-powered game, the GM may allow a number of free
+levels *equal to* the number of attributes chosen.
+
+All attributes are considered to be Fair until the player raises or
+lowers them.  The cost of raising or lowering an attribute is
+    
+    +3  Superb
+    +2  Great
+    +1  Good
+     0  Fair
+    -1  Mediocre
+    -2  Poor
+    -3  Terrible
+
+Thus, a player may raise his Strength attribute (which is Fair by
+default) to Good by spending one free attribute level.  He could then
+spend another free level to raise Strength again to Great.  This would
+exhaust his free levels if there were only four attributes - but he
+would have one more if there were six attributes, and eight more free
+levels if there were 20 attributes.
+
+When the free attribute levels have been exhausted, an attribute can
+be raised further only by lowering another attribute an equal amount.
+(See also Section 2.64, Trading Traits.)  From the previous example,
+Strength can be raised one more level (to Superb) if the player lowers
+the character's Charm to Mediocre to compensate for the increase in
+Strength.
+
+If the GM allows the players to choose their own attributes, she may
+simply tell them to take half as many free levels as attributes they
+choose.  If a player chooses an attribute and leaves it at Fair, that
+attribute does *not* count towards the total of attributes which
+determines the amount of free levels.  That is, a player cannot simply
+add 12 attributes, all at Fair, in order to get 6 more free levels to
+raise the others with!  GM-mandated attributes left at Fair *do* count
+toward the total of free levels, though.
+
+2.62  Skills
+------------
+
+In the Objective Character Creation system, each player has a number
+of free skill levels with which to raise his skills.  Suggested limits
+are:
+
+For Very Broad Skill Groups: 15 levels.
+For Moderately Broad Skill Groups: 30 levels.
+For Very Specific Skills: 40 to 60 levels.
+
+Ask the GM for the allotted amount, which will give you a clue as to
+how precisely to define your skills.  Of course, the GM may choose any
+number that suits her, such as 23, 42, or 74 . . .  See Section 6.3,
+Character Examples.  Game Masters may devise their own skill lists to
+choose from - some possibilities are included in Section 2.32, Skills.
+
+Most skills have a default value of Poor unless the player raises or
+lowers them.  (The GM may make exceptions: very easy skills might be
+rated Mediocre unless altered, and very hard ones Terrible.  She'll
+tell you when she reviews your character sheet, or she may have a list
+of hard and easy skills already made up - ask her.)
+
+Certain skills have a default of non-existent.  These would include
+Languages, Karate, Nuclear Physics, or Knowledge of Aztec Rituals,
+which must be studied to be known at all.  When a character studies
+such a skill (puts a level into it at character creation, or
+experience points later in the game), the level he gets it at depends
+on how hard it is to learn.  Putting one level into learning the
+Spanish language, for example, would get it at Mediocre, since it's of
+average difficulty to learn.  Nuclear Physics, on the other hand,
+might only be Poor or even Terrible with only one level put into it.
+It would take 4 levels just to get such a skill at Fair, for example.
+
+For ease in character creation, use the following table:
+     
+     Cost of Skills in Objective Character Creation:
+     ----------------------------------------------
+                  | Easy | Most | Hard | VH
+     Terrible ..  |  -2  |  -1  |   0  |  1
+     Poor ......  |  -1  |   0  |   1  |  2
+     Mediocre ..  |   0  |   1  |   2  |  3
+     Fair ......  |   1  |   2  |   3  |  4
+     Good ......  |   2  |   3  |   4  |  5
+     Great .....  |   3  |   4  |   5  |  6
+     Superb ....  |   4  |   5  |   6  |  7
+     
+     Easy = Cost of GM-Determined Easy Skills
+     Most = Cost of Average Skill
+     Hard = Cost of GM-Determined Hard Skills
+     VH = Cost of GM-Determined Very Hard Skills (usually related to
+          Supernormal Powers)
+
+As in the Subjective Character Creation system, the GM may limit the
+number of Superb and Great skills each character may have *at
+character creation*.  For a highly cinematic or super-powered game, no
+limit is necessary.  For a more realistic game, the GM might set a
+limit of one Superb skill, three or four Great skills, and eight or so
+Good skills, for example - see Section 6.3, Character Examples.  These
+limits can be exceeded through character development, of course.
+
+Once the free levels are used up, a skill must be dropped one level
+(from the default Poor to Terrible) to raise another skill one level.
+(See also Section 2.64, Trading Traits.)  All choices are subject to
+GM veto, of course.
+
+It is possible to mix different breadths of skill groupings.  A GM who
+has little interest in combat can simply choose Unarmed Combat, Melee
+Weapons and Ranged Weapons as the only three combat skills.  But this
+does not stop her from using all the individual Social skills (and
+many more) listed as examples in Section 2.32, Skills.  If this option
+is chosen, the broad groups should cost double the levels of the
+narrower groups.
+
+Mixing skill group sizes within the same areas is awkward in the
+Objective Character Creation system.  While this technique works well
+in the Subjective Character Creation system, it is not recommended
+here.  For example, it is difficult to have a generic Thief Skills
+group that can be raised one level at a time, and also have individual
+skills of lockpicking, pick-pocketing, palming, security-device
+dismantling, etc.  If she *does* wish to do this, then the broad skill
+group *in this case* has a maximum limit of Good, and *triple* cost to
+raise - or more, if the GM so mandates.
+
+If the GM is using very broad groups, a player may raise a very
+specific skill (such as Poker, for example, instead of general
+Gambling skill).  The only reason to take a specific skill when the GM
+is using broad-based skill groups is to fit a character concept - do
+not expect the character to be equally adept with the other skills in
+the group.  This would be true for Groo the Wanderer (TM), for
+instance, who would simply raise Sword skill, even if the GM is using
+the broad term Melee Weapons as a skill group.  Groo would have, in
+fact, a Poor rating with all other Melee weapons, and this would
+accurately reflect the character.
+
+2.63  Gifts & Faults
+--------------------
+
+If the GM has gifts in her game, she may allow player characters to
+start with free gifts.  (We recommend two free gifts for realistic
+games, more for epic campaigns.)  Any further gifts taken must be
+balanced by taking on a fault, or by trading traits.
+
+2.64  Trading Traits
+--------------------
+
+During character creation, free levels may be traded (in either
+direction) at the following rate:
+
+1 attribute level = 3 skill levels.
+1 gift = 6 skill levels.
+1 gift = 2 attribute levels.
+
+Fudge Points cannot be traded without GM permission.  (If tradable,
+each Fudge Point should be equal to one or two gifts.)
+
+So a player with three free attribute levels and 30 free skill levels
+may trade 3 of his skill levels to get another free attribute level,
+or 6 skill levels to get another free gift.
+
+A player may also take extra GM-approved faults at the following rate:
+
+1 fault = 1 gift.
+1 fault = 2 attribute levels.
+1 fault = 6 skill levels.
+
+However, the GM may rule that a particular fault is not serious enough
+to be worth 2 attribute levels, but may be worth 1 attribute level or
+3 skill levels.  On the other hand, severe faults may be worth more
+attribute levels.
+
+2.7  Uncommitted Traits
+-----------------------
+
+Whether the character is created subjectively or objectively, each
+character has three free uncommitted traits (or more, if the GM is so
+inclined).  This means that at some point in the game, the player will
+realize that he forgot something about the character that should have
+been mentioned.  He may request to stop the action, and define a
+previously undefined trait, subject to the GM's approval.  Only a very
+lenient GM will allow this to happen during combat time.
+
+Also note that GM-set skill limits (such as 1 Superb, 3 Greats) are
+still in effect: if the character already has the maximum number of
+Superb skills allowed, he can't make an uncommitted trait a Superb
+skill.
+
+2.8  Random Character Creation
+------------------------------
+
+Some players like to roll their attributes randomly.  Here is one
+possible method to use in such cases.  Alternate techniques can be
+easily designed.
+
+Have the player roll 2d6 for each *attribute*.  Use the following
+table to find the attribute level:
+
+2 = Terrible
+4 = Poor
+3,5 = Mediocre
+6-8 = Fair
+9,11 = Good
+10 = Great
+12 = Superb
+
+The GM needs to decide if the player still gets the standard number of
+free levels or not.  She may also restrict trading levels.
+
+For *skills*, the results are read as:
+
+2-5,12 = Terrible
+6-8 = Poor
+9-10 = Mediocre
+11 = Fair
+
+The player still gets the standard number of free *skill* levels, or
+the GM may allow only half the normal levels.
+
+The GM can let the players choose their gifts and faults, or she may
+wish to make up separate tables of gifts and faults, and have the
+players roll once or twice on each.  (Conflicting traits should be
+rerolled.)  For example:
+
+Roll      Gift                     Fault
+----      ----                     -----
+ 2        Nice Appearance          Poor Appearance
+ 3        Tough Hide               Bruises Easily
+ 4        Charismatic              Aura of Untrustworthiness
+ 5        Keen Hearing             Hard of Hearing
+ 6        Detects Lies Easily      Gullible
+ 7        Melodious Voice          Stammers
+ 8        . . .                    . . .
+
+And so on.  The GM should customize and complete to her taste.  Of
+course, she could set up 3d6 table instead of a 2d6 table, or even use
+a 1d6 table listing general gift or fault areas (Social, Physical,
+Emotional, Mental, Wealth/Status, etc.) and then roll again on an
+appropriate second table.
+
+2.9  Minimizing Abuse
+---------------------
+
+Obviously, character creation in FUDGE can be abused.  There are many
+ways to avoid this:
+
+A) The GM can require that the character take another fault or two to
+   balance the power.  ("Okay I'll allow you to have all that . . .
+   but you need a challenge.  Take on another weakness: maybe some
+   vice, perhaps a secret one, or be unable to tell a believable lie,
+   or anything that fits the character concept that I can use to test
+   you now and then.")
+
+B) She can simply veto any trait (or raised/lowered combination) she
+   feels is abusive.  ("I see you raised Battle-Axe in exchange for
+   lowering Needlepoint.  Hmmm.")  This allows the GM to customize the
+   power level of a game.  For high-powered games, allow most
+   anything; for less cinematic campaigns, make them trade equally
+   useful trait for trait.
+
+C) She can simply note the character weaknesses and introduce a
+   situation into every adventure where at least one of them is
+   significant to the mission.  ("You'll be sent as an emissary to the
+   Wanduzi tribe - they value fine Needlepoint work above all other
+   skills, by the way . . .")
+
+D) She can use the "disturbance in the force" technique of making sure
+   that more powerful characters attract more serious problems.  ("The
+   bruiser enters the bar with a maniacal look in his eye.  He scans
+   the room for a few seconds, then begins to stare intently at you.")
+
+[End of Chapter Two.  FUDGE continued in Chapter Three.]
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

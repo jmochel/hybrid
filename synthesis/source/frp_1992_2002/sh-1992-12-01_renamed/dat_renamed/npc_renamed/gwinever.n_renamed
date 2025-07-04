@@ -1,0 +1,44 @@
+.Name GWINEVERE
+.Title								
+.Race W.ELF
+.Culture
+.Aspect 
+.PST 08
+.PEN 15		
+.DEX 16
+.PAG 15		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 11
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 551
+.BeginDesc
+ 11
+.EndDesc
+.BeginSkills
+Weapon: SCIMITAR			 , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends QUANT-THE LIVING ENT.
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ 45 GREATER MISTLE TOE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

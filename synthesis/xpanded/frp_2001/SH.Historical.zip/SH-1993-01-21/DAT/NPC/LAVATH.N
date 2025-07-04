@@ -1,0 +1,58 @@
+.Name Lavath Grayshade
+.Title								
+.Race Half Elf
+.Culture
+.Aspect Lunar
+.PST 18
+.PEN 18		
+.DEX 24
+.PAG 21		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 14
+.MAG 14
+.MAW 14
+.HT 4'0"      
+.WT 120		 
+.AGE
+.BeginDesc
+ 14 SLIM,CURLY BLACK HAIR,GREEN EYES AND PROMINENTLY POINTED EARS
+.EndDesc
+.BeginSkills
+Weapon: Dagger				, 7
+Weapon: Garrotte			 , 6
+ Assassin			 , 5
+ Stealth			 , 9
+ Theif				 , 3
+ Basque				 , 5
+ Kaliphate			 , 4
+ Hand Talk			 , 6
+ Rupa Kechil		 , 5
+ Trade				, 5
+.EndSkills
+.Locale CURRENTLY TRAVELLING WITH ALDEN
+.BeginKnownAssoc
+ ALDEN,PHAEDRUS
+.EndKnownAssoc
+.BeginSecretAssoc
+ GOLDEN RAT THIEVES GUILD
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+ GAINS +40 On ALL STEALTH BASED SKILLS AS RESULT OF A MODIFICATION OF	
+HIS ORIGINAL "WALK UNSEEN" CURSE.
+.EndComment
+.BeginPossess
+ +5% DAGGER, SEVERAL VARIED SLING STONES INCUDING GLOWING DYES		
+AND RED MARKERS.FIRE STONE,WATER STONES.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic Illusion
+.BeginSpells
+.EndSpells
+.EndNPC

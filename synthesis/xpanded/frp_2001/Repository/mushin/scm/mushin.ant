@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!-- 
+
+      =======================================================================
+        Mushin library build file                                                      
+      ======================================================================= 
+
+-->
+
+<project name="mushin" default="assemble" basedir=".">
+
+    <taskdef name="junit" classname="org.apache.tools.ant.taskdefs.optional.junit.JUnitTask"/>
+
+    <property name="Name" value="Mushin"/>
+    <property name="name" value="mushin"/>
+    <property name="version" value="0.1"/>
+    
+    <property name="debug" value="true" />
+    <property name="deprecation" value="false" />
+    <property name="optimize" value="false" />
+    
+    <!-- 
+        ===================================================================
+        Set the properties related to the source tree
+        =================================================================== 
+    -->
+    
+    <property name="src.dir" value="../src"/>
+    <property name="lib.dir" value="../lib"/>
+    <property name="docs.dir" value="../docs"/>
+    <property name="build.dir" value="../builds/debug"/>
+    <property name="class.dir" value="../builds/debug/classes"/>
+    <property name="javadocs.dir" value="../builds/debug/javadocs"/>
+    <property name="deployables.dir" value="../builds/debug/deployables"/>
+    
+    
+    <path id="classpath">
+        <pathelement location="${class.dir}" />
+        <pathelement location="${lib.dir}/junit.jar" />
+    </path>
+    
+    <!-- 
+        ===================================================================
+        Prepare the build              
+        =================================================================== 
+    -->
+    
+    <target name="prepare">
+        <tstamp>
+            <format property="year" pattern="yyyy" />
+        </tstamp>
+    </target>
+    
+    <!-- 
+        ===================================================================
+        Compile the code           
+        =================================================================== 
+    -->
+    
+    <target name="compile" depends="prepare" description="--> compiles the source code">
+    
+    <!-- make the directories -->
+    
+    <mkdir dir="${build.dir}"/>
+    <mkdir dir="${deployables.dir}"/>
+    <mkdir dir="${class.dir}"/>
+    <mkdir dir="${lib.dir}"/>
+    
+    <!-- Compile the sources -->
+    
+    <javac srcdir="${src.dir}" destdir="${class.dir}" debug="${debug}" deprecation="${deprecation}" optimize="${optimize}" >
+        <classpath refid="classpath" />
+    </javac>
+    
+    </target>
+  
+    <!-- 
+        =================================================================== 
+                Create the ant jars: ant.jar and optional.jar
+        =================================================================== 
+    -->
+
+    <target name="assemble"  depends="compile"  description="--> creates the jars">
+        <jar jarfile="${deployables.dir}/${name}.jar" basedir="${class.dir}">
+            <fileset dir="${class.dir}" includes="mushin/**/*.class" />
+        </jar>
+    </target>
+
+    <!--
+        ===================================================================
+        Create the complete distribution
+        ===================================================================
+    -->
+    
+    <target name="dist" description="--> creates a complete distribution">
+    </target>  
+
+    <!--
+        ===================================================================
+         Cleans up build and distribution directories
+        ===================================================================
+    -->
+    
+    <target name="clean" description="--> cleans up build and dist directories">
+        <delete dir="${class.dir}" />
+        <delete dir="${deployables.dir}" />
+    </target> 
+
+    <!-- 
+        ===================================================================
+         Creates the API documentation                             
+        =================================================================== 
+    -->
+
+    <target name="javadocs" depends="prepare" description="--> creates the API documentation">
+    <mkdir dir="${javadocs.dir}"/>
+        <javadoc packagenames="mushin.*" useexternalfile="yes" sourcepath="${src.dir}" destdir="${javadocs.dir}"
+            author="true"
+            version="true"
+            windowtitle="${Name} API"
+            doctitle="${Name}">
+        </javadoc>
+    </target>
+
+<!-- 
+    =================================================================== 
+        Run testcases
+    =================================================================== 
+-->
+
+<target name="unittest" depends="compile" description="--> run JUnit tests">
+
+    <junit>
+        <classpath refid="classpath"/>
+        <formatter type="brief" usefile="false" />
+
+        <batchtest>
+            <fileset dir="${class.dir}">
+                <include name="**/*TestCase*" />
+            </fileset>
+        </batchtest>
+    </junit>
+
+</target>
+
+</project>

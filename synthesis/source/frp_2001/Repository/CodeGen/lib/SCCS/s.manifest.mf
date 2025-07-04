@@ -1,0 +1,40 @@
+h58842
+s 00009/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK25569
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/lib/manifest.mf
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK13962
+cPlib/manifest.mf
+cR87a65989
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+Main-Class: com.dreambean.codegen.Main
+
+Name: com/dreambean/codegen/
+Specification-Title: CodeGenerator
+Specification-Version: 2.0
+Specification-Vendor: dreamBean Software 
+Implementation-Title: codegen
+Implementation-Version: build2
+Implementation-Vendor: dreamBean Software
+E 2
+I 1
+E 1

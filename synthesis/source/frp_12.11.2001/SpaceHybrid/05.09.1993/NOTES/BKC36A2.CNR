@@ -1,0 +1,130 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210151217.383;
+          10 Dec 91 15:12:42 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210151217.383;
+          10 Dec 91 15:12:30 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04598; Tue, 10 Dec 91 15:14:04 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA18711; Tue, 10 Dec 91 15:04:33 -0500
+Message-Id: <9112102004.AA18711@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 1975; Tue, 10 Dec 91 15:04:34 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 6952;
+ Tue, 10 Dec 91 15:02:43 EST
+Date:         Tue, 10 Dec 1991 14:58:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Difficulty Level (Proposed)
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+This is a look at my proposed difficulty system.  I first saw this system in
+Adventure Quest/Jaern, a fantasy RPG published by Lafayette Simulations, a
+small game company out of Valparaiso, Indiana.  The game was released at GenCon
+'91 this last August by the designers, Daniel Lawrence and Robert Blake.
+
+This is what I'd call an inverse difficulty system.
+
+Character stats are numeric (rated 0 to some number).  Task difficulties are
+rated in terms of DICE -- an easy task might be rated "1d6" and a hard task
+might be rated "5d6".
+
+To resolve tasks, the dice described by the difficulty rating (e.g., 4d6) are
+rolled and compared to the skill or attribute stat.
+
+If the roll is equal to or less than the stat, the roll succeeds.  If the roll
+is more than the stat, the roll fails.
+
+I did some computer calculations to show you what the curves end up looking
+like for various skill levels and difficulty ratings:
+
+-------------------------------------------------
+NOTE: This chart would never be used in play; it
+is only here to show you the probability curves!
+-------------------------------------------------
+
+% Chance for Success
+
+Skill  ------ Difficulty Rating --------
+Lvl    1d6   2d6   3d6   4d6   5d6   6d6
+---- ----- ----- ----- ----- ----- -----
+ 1    16.7   0.0   0.0   0.0   0.0   0.0
+ 2    33.3   5.6   0.0   0.0   0.0   0.0
+ 3    50.0  13.9   1.4   0.0   0.0   0.0
+ 4    66.7  25.0   4.2   0.3   0.0   0.0
+ 5    83.3  38.9   8.8   1.1   0.1   0.0
+ 6   100.0  55.6  15.7   2.6   0.3   0.0
+ 7   100.0  69.4  25.5   5.3   0.7   0.1
+ 8   100.0  80.6  37.0   9.6   1.6   0.2
+ 9   100.0  88.9  49.5  15.8   3.2   0.4
+10   100.0  94.4  62.0  23.8   5.9   1.0
+11   100.0  97.2  73.6  33.5   9.8   2.0
+12   100.0 100.0  83.3  44.3  15.2   3.6
+13   100.0 100.0  90.3  55.6  22.1   6.1
+14   100.0 100.0  94.9  66.4  30.5   9.6
+15   100.0 100.0  97.7  76.0  40.0  14.5
+16   100.0 100.0  99.1  84.0  50.0  20.6
+17   100.0 100.0  99.5  90.2  60.0  27.9
+18   100.0 100.0 100.0  94.5  69.5  36.3
+19   100.0 100.0 100.0  97.2  77.8  45.4
+20   100.0 100.0 100.0  98.8  84.8  54.6
+21   100.0 100.0 100.0  99.5  90.2  63.7
+22   100.0 100.0 100.0  99.8  94.1  72.1
+23   100.0 100.0 100.0  99.9  96.7  79.4
+24   100.0 100.0 100.0 100.0  98.4  85.5
+25   100.0 100.0 100.0 100.0  99.3  90.4
+26   100.0 100.0 100.0 100.0  99.7  93.9
+27   100.0 100.0 100.0 100.0  99.9  96.4
+28   100.0 100.0 100.0 100.0 *100.0 98.0
+29   100.0 100.0 100.0 100.0 *100.0 99.0
+30   100.0 100.0 100.0 100.0 100.0  99.5
+31   100.0 100.0 100.0 100.0 100.0  99.8
+32   100.0 100.0 100.0 100.0 100.0  99.9
+33   100.0 100.0 100.0 100.0 100.0 *100.0
+34   100.0 100.0 100.0 100.0 100.0 *100.0
+35   100.0 100.0 100.0 100.0 100.0 *100.0
+36   100.0 100.0 100.0 100.0 100.0 100.0
+
+*100.0 means that the chance is close to,
+but not equal to 100% due to rounding.
+-------------------------------------------------
+NOTE: This chart would never be used in play; it
+is only here to show you the probability curves!
+-------------------------------------------------
+
+
+Example:
+
+For instance, a character has a skill level of 10. The GM sets the difficulty
+level for a specific task -- say he sets it at 4D6.  The player must roll 4d6
+-- if the total is less than or equal to 10, he succeeds; if the total is
+greater than 10, then he fails the task.
+
+Looking at part of the table below, we can predetermine what the player's
+chances of success will be.  Using the "10" row and the "4d6" column, we see
+that the player has about a 16% chance of accomplishing the task (marked with
+*asterisks*). If the GM sets the difficulty level lower, say at 3d6, the
+player's chances will increase (in this case, to 50%).
+
+Skill  -------- Difficulty Level -------
+Lvl    1d6   2d6   3d6   4d6   5d6   6d6
+---- ----- ----- ----- ----- ----- -----
+ 9   100.0  88.9  49.5  15.8   3.2   0.4
+10   100.0  94.4  62.0  23.8   5.9   1.0
+11   100.0  97.2  73.6  33.5   9.8   2.0
+
+
+
+Let me know what you think!  I think the system has incredible merit...
+
+
+
+____Flatline_______________________________________________________________
+
+Adam   1667d876@ksuvxb.kent.edu  1667d876@kentgold.bitnet    "I'll kill it!
+Dray   adray@mcs.kent.edu        adray@kentvax.bitnet         What is it?"
+___________________________________________________________________________
+                         "Quotes are stupid"
+___________________________________________________________________________

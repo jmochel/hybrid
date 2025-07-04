@@ -1,0 +1,2936 @@
+<?xml version="1.0"?>
+<!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Foliage Engineer (IT) -->
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd" [
+	<!ENTITY tisland "Takeda Island">
+	<!ENTITY iisland "Imperial Island">
+	<!ENTITY ifamily "Imperial Family">
+]>
+<?xml-stylesheet type="text/xsl" href="E:\docbook-xsl-1.49\fo\docbook.xsl"?>
+<book>
+	<bookinfo>
+		<title>Dal-Kon</title>
+		<author>
+			<firstname>Jim</firstname>
+			<surname>Jackl-Mochel</surname>
+		</author>
+	</bookinfo>
+	<chapter>
+		<title>General Description</title>
+		<epigraph>
+			<attribution>Emperor Sunjuro in the Pond of Hirosawa</attribution>
+			<para>The Moon in the Water, the doctrine of Mushin</para>
+			<para>The moon has no intent to cast its shadow anywhere, nor does the pond design to lodge the moon: How serene the water of Hirosawa!</para>
+		</epigraph>
+		<sect1>
+			<title>The Islands</title>
+			<para>
+            Dal-Kon is a volcanic archipelago with about 
+            70% of its total land, most of which mountainous, covered with woodlands and 
+            forest plantations.  Within the relatively small area of its land, Dal-Kon has three 
+            climates - temperate, alpine and sub-tropical, and in most of is 
+            regions it has four distinctive seasons.  Temperate regions, which occupy most 
+            of its land, and also sub-tropical regions, enjoy relatively warm temperatures 
+            and sufficient precipitation to enable a great variety of agriculture even though 
+            rice is the primary food crop.
+			</para>
+			<para>
+			The surface of the country is very irregular, and often rises into mountains of great elevation; the highest of which is said to be Fuse-yama, an extinct volcano on the island of Niphon.  Its form is so perfectly symmetrical as almost to give the idea of artificial formation; it rises to the height of 12,400 feet above the level of the sea, and its majestic head is crowned with perpetual snow.  The natives call it the Sacred Mountain, and, by a peculiar set of worshippers, annual pilgrimages are made to its summit.  The hills are picturesque and beautiful, and in many places descend so close to the sea shore that their rocky bases are washed by the waves, or have only a narrow slip of land separating them from the water; in the interior, however, plains of considerable extent exist, which are extensively cultivated.  There are many active volcanoes, and the country is frequently visited by destructive earthquakes.  On the 23d of December, 1854, an earthquake occurred which was felt throughout the whole coast.  In the town of Simoda only a few temples and private edifices, that stood on elevated spots, escaped destruction.  The Russian frigate Diana, which happened unfortunately to be anchored in the bay, was whirled round her anchors with such rapidity, that those on board found it difficult to stand upon her decks.  The water finally receded so as to leave her aground, by which she was so seriously injured as to become totally unseaworthy.  The fine city Osaca, to the southward of Simoda, was completely destroyed, and the capital, Yedo, suffered considerable injury.
+There are no less than five active volcanoes in the island of Kin-sin alone, one of which is situated in the province of Satsuma, near Nagasaki, but the most celebrated is that called Wunzen-take, or "High Mountain of warm springs," in Fizen.  These springs, and many others of similar character, which bubble up all over the country, are much frequented for the healing properties they are supposed to possess.
+			</para>
+		</sect1>
+		<sect1>
+			<title>The Surrounding Seas</title>
+			<para>
+            The Seas are uniformly warm and life abounds. The reefs are treacherous and the 
+            shoals sharply limit the paths of approach for boats. Despite this fishing 
+            and kelp gathering are very common ways of making a living all along the seacoast.
+			</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Flora and Fauna</title>
+		<para>
+		The Dal-Kon soil is incredibly fertile. This seems to be a direct side effect 
+		of the runoff from various volcanoes. It is especially good for rice and mulberry 
+		bushes as well as a variety of fruit trees (Cherry, pear, apple, and plum).
+		</para>
+		<sect1>
+			<title>Flora</title>
+			<para>
+			Silk culture makes up the majority of the exportable goods that leave Dal-Kon. Cultivating the 
+			mulberry and the silk worms are considered to be a woman's domain.
+			</para>
+			<para>
+            Dal-Kon grows a variety of woods from near scrub plants 
+            such as Bamboo, and Painted Fern to the majestic 
+            Cedar and Red Greatwood. From Bamboo and Cedar to Mulberry 
+            and Cherry the woods of Dal-Kon are varied and 
+			used for the majority of all building and other construction.            
+			</para>
+			<para> 
+            Seaweeds and Kelp abound in the coastal waters. Many of these are gathered 
+            for food as well as medicinal purposes.
+            </para>
+			<para>
+            Dal-Kon has many types of fruit trees. 
+            Dalk-Kon dami plums are soft and juicy, with flesh that ranges from tart 
+            to sweet. These large, round plums are best eaten fresh, and 
+            not for drying.
+            </para>
+			<para>
+            Dalk-Kon cherry plum have small, tart fruit, 
+            and are used for making jams, jellies, 
+            and preserves. These plums are cold hardy and 
+            will survive in cool storage bins for the winter
+            </para>
+			<para>
+            Dal-Kon of the Bonsai Tomo grow plums as a favored Bonsai
+            in an open vase form (the middle of the tree has no central leader), 
+            in an informal fan-trained shape, or in pyramidal shapes. 
+            </para>
+			<para>
+            Red Dawnwood is a large-growing deciduous conifer with fern-like foliage that contrasts 
+            beautifully with its deep red wood. It is an excellent choice for providing 
+            shade, as well as beauty. Ultimate size is 80-120 feet with 40 feet at 20 years 
+            </para>
+			<para>
+            Bald Cypress grows naturally in swamps and 
+            bogs but the tree can thrive in any soil condition. Its smooth red bark contrasts 
+            beautifully with its light-green, thread-like foliage. Ultimate size is up to 100 
+            feet with 35 feet at 20 years
+            </para>
+			<para>
+            Kitayama sugi or red cedar takes the soaring temperatures 
+            of a Dal-Kon seaside summer in stride. This large 
+            evergreen is blue foliaged and fast growing. Ultimate size: Up to 50 feet Growth rate
+            </para>
+			<para>
+            River Birch is a large-growing tree that will grow in all conditions - and its 
+            ornamental peeling bark. The tree is found naturally 
+            in flood plains, but will also flourish in dry soil. 
+            Ultimate size: 75 feet; 40 feet at 20 years 
+            </para>
+			<para>
+            Sugar Maple has deep green summer foliage that turns 
+            vibrant orange and red in autumn. It is revered for its hard woods and in the 
+            more temperate hill regions, for its maple syrup.
+            Ultimate size: 80 feet; 30 feet at 20 years
+            </para>
+			<para>
+            batatas or cinnamon vine is a vine that grows up to 10' 
+            A vigorous, long-lived twining vine. Much cultivated in Dal-Kon for the large, 
+            edible, tuberous roots. The roots are said to remain edible and mild-flavored 
+            even when they reach a large size. The small flowers, which appear in summer, 
+            are cinnamon scented. Also bears small aerial tubers in the leaf axils. These 
+            are edible and can be planted to start new plants.
+            </para>
+			<para>
+            Wild yam's appearance is distinctive in that the leaves grow in whorls of 
+            four or more at each node along the vine's lower length. Toward the top, the 
+            number of leaves decreases to one or two per node.
+            </para>
+			<para>
+            Juncus Rush. Found mostly in temperate regions, typically occurring 
+            on moist or wet soil. ht 2-3' . The Juncus provides a soft rush; 
+            This common plant of wetlands is leafless, with round, 
+            hollow, green stems. Somewhat similar, in overall appearance, to a 
+            large, evergreen chives plant with stiff, slender leaves. The stems 
+            are used to weave tatami, the traditional floor covering of 
+            Dal-Kon homes.
+            </para>
+			<para>
+            Bamboo. Grasses with perennial, woody stems and, almost always, 
+            evergreen leaves. max ht 20' max culm dia 1"  The young shoots 
+            are of good quality for eating, and the culms are sturdy and useful 
+            for stakes, staves, furniture, and other purposes. 
+            </para>
+			<para>
+            Thorned Cherry. Only found on &tisland;, the Thorned Cherry is a fruit tree with a 
+            gorgeous bloom (purple, red, white and pink blossoms) bearing a
+            delicious fruit. The fruit is , unfortunately, very difficult to harvest for
+            being stuck by the thorns of the tree can cause sickness, hallucinations and 
+            even madness.
+            </para>
+		</sect1>
+		<sect1>
+			<title>Fauna</title>
+			<para>Fish</para>
+			<para>
+            The Dal-Kon coastal waters are surrounded by coral reefs. Coral is used as an 
+            ornamental material and as a polishing agent. 
+            </para>
+			<para>
+            Ivory is found both from the sea in the form of walrus tusk and
+            from the land in the form of Ontabe horn. Ontabe are a large horned 
+            rabbit like creature that uses its horn for digging roots.
+            </para>
+			<para> 
+            The Dal-Kon coastal waters abound in fish and shells. 
+            Ama (Women divers of the Ama Tomo) search for abalone deep on the ocean floor. (Dal-Kon
+            abalone almost inhabit on the rocks of the seabed, not on the kelp bed). It's 
+            very dangerous works, so Ama wear a special amulet called Seman Doman that 
+            protects them from peril.            
+            </para>
+			<para>
+            Dal-Kon abalones can grow up to 8 inches long and are often 
+            covered with worm growths. The outside of the shell is thin and 
+            greyish-brown. The blue and green inner shell is covered with an 
+            iridescent (a pearl-like shine or luster) mother of pearl layer. 
+            </para>
+			<para>
+            The abalone itself is eaten as a prized seafood. The shells of abalone 
+            provide mother of pearl for decorations. Especially prized are the 
+            Imperial island black abalone that provide a glowing white mother of pearl
+            used in decorating sword racks with cherry blossoms.
+            </para>
+			<para>
+            The viscera of 
+            abalone can harbor a poisonous substance which causes a burning, 
+            stinging, prickling and itching over the entire body. It does not 
+            manifest itself until exposure to sunlight - if eaten outdoors in 
+            sunlight, symptoms occur quickly and suddenly. Skin lesions may 
+            occur on body parts exposed to the sunlight. It is believed the 
+            poison may come from seaweed ingested by the abalone. 
+            </para>
+			<para>
+            Glitter Quills from a puffer fish. Several types of puffer fish in Dal-Kon waters
+            provide the Dal-Kon with hollow but flexible needle tipped tubes that are used to 
+            inject medicine as well as serving as the basis of decorative beadwork.
+            </para>
+            <para>months of September and October, the heat was never oppressive during the day, and the nights were always pleasant.
+Many of the principal useful and ornamental plants are of foreign origin.  Timber is not very abundant, and it is carefully protected, no one being allowed to fell a tree without permission from a magistrate, and then only on condition of planting a young one in its place.  The most common forest-trees are the fir and cedar, and the latter sometimes grows to an immense size.  In the northern part of the empire, two species of oak are found, which differ from those of Europe; the acorns of one description are boiled and eaten, and are said to be both palatable and nutritious.  Camphor and varnish-trees are indigenous to the country; the former lives to a great age, and sometimes attains an immense size.  The country-people make the camphor from a decoction of the root and stems cut into small pieces.  The mulberry-tree grows wild in great abundance, and, as in China, is used to feed the silk worms.  Ginger, pepper, cotton, and tobacco are cultivated in considerable quantities; and there are, also, extensive plantations of the tea-plant, though the quality is said to be inferior to that grown in China, owing greatly to the superior skill of the Chinese in preparing it for use.  The soil of Japan is not naturally fertile, but patient and careful culture, favored by a genial climate, has covered every spot, capable of improvement, with vegetation.  Sugar-cane is successfully cultivated; and rice, which forms the principal food of the people, yields two harvests yearly, the quality being superior to any other known.
+The bamboo-cane, although a tropical plant, is grown in great perfection in the southern islands, and is extensively used in the manufacture of an infinite variety of useful and ornamental articles.  Oranges, lemons, figs, plums, apricots, and grapes are found among the fruit-trees of the country; and chestnuts and walnuts are in great abundance all over the empire.</para>
+		</sect1>
+		<sect1>
+			<title>Mammals</title>
+			<para>The horses are small, but spirited, active, and hardy, though with an incurable propensity to kick, which detracts much from their value in the opinion of western people.  They are not used for draught, but the larger class are frequently seen as pack-horses.  They are used for riding only by the nobility and their officers.  Small bears, hyenas, wild boars, deer, and immense numbers of foxes, are among the principal wild animals. </para>
+		</sect1>
+		<sect1>
+			<title>Mineral and other</title>
+			<para>
+			The imperial island especially has small but pure iron deposits.
+			The geological formation of the Japanese islands has never been thoroughly investigated, but they are unquestionably volcanic; not, however to the exclusion of the plutonic and sedimentary formations.  The useful mineral products, so far as known, are gold, silver, copper, quicksilver, tin, lead, iron, coal, sulphur, salt, and zinc, which are all abundant, with the exception of tin and iron.  Gold is sometimes found as ore, and, in some places, procured from washings of the earth and sand.  Silver is equally plentiful, and, until recently, appears to have been regarded as equally valuable with gold.  Both these metals were exported by the Dutch and Portuguese, during their exclusive trade with the country, in large quantities.  Iron was formerly held in as high esteem as copper, tools made of this metal being sold even dearer than those of copper or brass.  The low price of copper when the trade was first opened with foreign nations, caused the export of so large a quantity, that the Government prohibited the sale of it, on the pretext that all there was in the country was required for rebuilding the Emperor's palace, which had recently been destroyed by fire.  Sulphur is very abundant, as might be expected in so volcanic a region; in some places it lies in broad, deep beds, and may be removed with as much ease as sand.  The Government derives a considerable revenue from this source.  Coal of a bituminous character is found in several parts of the country, but the mines are not worked to any extent; charcoal being mostly used for fuel.  Agates of immense size, cornelians, jaspers, and crystals are found in abundance, but no diamonds have yet been discovered.  Many of the ornaments and trinkets found in the shops are made of white metal, resembling silver so much that the difference can only be discovered by chemical tests.  This metal is believed to be a fine quality of tin, and it is used extensively in making cabinets, and other articles.
+			</para>
+			<para>
+            Pumice
+            </para>
+			<para>Obsidian</para>
+			<para>Pottery Clay</para>
+		</sect1>
+		<sect1>
+			<title>Noticeable Other Assets</title>
+			<para>Hot Springs</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Technology</title>
+		<para>Text</para>
+		<sect1>
+			<title>General</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Medical</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Weapon</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Magic</title>
+		<para>Text</para>
+		<sect1>
+			<title>General</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Medical</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Weapon</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Subsistence Patterns</title>
+		<para>Money is relatively scarce</para>
+		<para>Land is relatively Fertile</para>
+		<para>Rice and Silk are primaries</para>
+		<sect1>
+			<title>Calendar</title>
+<para>The Japanese divide the day into twelve hours, reckoning six from sunrise to sunset, and an equal number from sunset to sunrise; consequently, the hours are not always equal; when the day is longer than the night, the day hours are the longest, and vice versâ.  They have clocks marked to indicate the twelve divisions of the day, each of which is equal to two hours of our time, but they are not remarkable for accuracy.  The day with them begins at mid-night, at which time the clock strikes nine, after having given three strokes to denote its being about to strike the hour.  These three strokes precede every hour.  One hour after midnight the clock strikes eight, the next hour seven, at sunrise six, then five, and four, and at noon again nine.  The same rule applies to the hours of the day, and each hour is designated by the name of some animal, as follows:
+1. The Mouse; 2. The Ox, or Cow; 3. The Tiger; 4. The Hare; 5. The Dragon; 6. The Serpent; 7. The Horse; 8. The Sheep; 9. The Monkey; 10. The Chicken; 11. The Dog; 12. The Boar.
+The beginning of the Japanese year falls in between the winter solstice and the spring equinox, about the 5th of February.  But as they are extremely superstitious about celebrating the day of the new moon, they commonly begin it with the new moon which immediately precedes or follows the 5th of February.  Thus in the month of January of this year, the Japanese new year was celebrated on the 23d of that month.  The festivities attending this period are kept up during the whole month, by those whose circumstances will admit of their spending so much time away from their ordinary employment; but the majority of the people content themselves with a holiday of less than half that period.  During this time they are expected to visit all their acquaintances within reach, and to write to those who are at a distance, congratulating them upon the continuance of their earthly blessings, and the protection of the gods.</para>
+		</sect1>
+	</chapter>
+	
+	<chapter>
+		<title>Values and Kinship</title>
+		<para>Uji - membership in the clan.</para>
+	</chapter>
+	<chapter>
+		<title>Language</title>
+		<para>Text</para>
+	</chapter>
+	<chapter>
+		<title>History</title>
+		<epigraph>
+			<attribution>Dal-kon Proverb</attribution>
+			<para>To be clanless is to be dead</para>
+		</epigraph>
+		<para>Text</para>
+		<sect1>
+			<title>The Diaspora</title>
+			<para>The leaving from the Golden Empire followed by the long trek to Dal-Kon</para>
+		</sect1>
+		<sect1>
+			<title>The Settling</title>
+			<para>Settling into the first alluvial basin.</para>
+		</sect1>
+		<sect1>
+			<title>Expansion</title>
+			<para>Battles with the Oni and existing Relanian settlers</para>
+			<para>First Shogun, Tamura Moro</para>
+			<para>
+			Tamura Moro injured in the last major battle with the Rhelanian settlers,
+			his wife finishes leading the armies.
+			</para>
+			<para>Council rule was breaking down, none could stand alone.</para>
+		</sect1>
+		<sect1>
+			<title>The Compact</title>
+			<para>Acknowledgement of Imperial Rule</para>
+			<para>The move of the Capital</para>
+		</sect1>
+		<sect1>
+			<title>Consolidation</title>
+			<para>Gradual aligning of the clans</para>
+			<para>Creation of Ninja</para>
+			<para>Creation of Sohei</para>
+		</sect1>
+		<sect1>
+			<title>The Troubles</title>
+			<para>Increasing influence of the Clans via concubines</para>
+			<para>Patronage system of land tax immunities</para>
+			<para>Death of Emperor in a duel</para>
+			<para>Failed Ascension of Empress Shigei</para>
+			<para>Sohei brought to heel</para>
+		</sect1>
+		<sect1>
+			<title>Modern Era</title>
+			<para>Kay and the Silk mission</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Religion and Myths</title>
+		<para>Text</para>
+		<sect1>
+			<title>Religion</title>
+			<para>There are many</para>
+			<sect2>
+				<title>Cosmology</title>
+				<para>
+				Genesis starts from Chaos. The gods come later (i.e. subject to 
+				the rules of the universe)
+				</para>
+				<para>
+                Of old, Heaven and Earth were not yet separated, and the In and 
+                Yo not yet divided. They formed a chaotic mass like an egg which 
+                was of obscurely defined limits and contained germs. The purer 
+                and clearer part was thinly drawn out, and formed Heaven, while 
+                the heavier and grosser element settled down and became Earth. 
+                The finer element easily became a united body, but the 
+                consolidation of the heavy and gross element was accomplished 
+                with difficulty. Heaven was therefore formed first, and Earth 
+                was established subsequently.				
+				</para>
+				<para>
+				After the creation of Heaven and earth, Divine Beings were 
+				produced between them.	Hence it is said that when the world 
+				began to be created, the soil of which lands were composed 
+				floated about in a manner which might be compared to the 
+				floating of a fish sporting on the surface of the water.
+				</para>
+				<para>
+				There is a natural order or Li. An offence against that natural order causes spiritual distractions
+				or taints known as pollution. Offence and pollution are inseparable ideas. Pollutions
+				are taints that much be removed before man or woman can resume their full role in the life of the 
+				community. Death, Birth, sex, disease or causing wounds can all result in such pollution. 
+				</para>
+				<para>
+				Certain offences such as murder, assault, rape, incest, bestiality all leave a stain that 
+				must be ritually expatiated and carry also the need of restitution for the offended individual.
+				</para>
+				<para>
+				The permission of the Samurai to cut down those that stand in the ways of their duties
+                is pragmatic, as it brings the causing of death from a ritual process and restitution 
+                to a normal cleansing on the part of the Samurai.
+				</para>
+			</sect2>
+		</sect1>
+		<sect1>
+			<title>Shinto</title>
+			<para>The way of the gods. Attuned to the agrarian common man</para>
+		</sect1>
+		<sect1>
+			<title>Shizendo</title>
+			<para>The way of the ways. Derives into a series of belief codes </para>
+			<para>A great deal of stress is placed on the individual's word and way.</para>
+			<para>Bushido</para>
+			<para>Merchant-do</para>
+			<para>Advisor Do</para>
+			<para>Gakusho-do</para>
+			<para>Shukenja-do</para>
+		</sect1>
+		<sect1>
+			<title>Ancestor Worship</title>
+			<para>
+			Strong worship of the ancestor who established the way of the clan 
+			or family. They are assumed to represent and preserve the family, 
+			line, clan, or ruling family.
+			</para>
+			<sect2>
+				<title>Deities</title>
+				<para>Zenncha - Heimdall</para>
+				<para>Amaterasu - Correllan</para>
+				<para>? - Dau-Pen</para>
+			</sect2>
+		</sect1>
+		<sect1>
+			<title>Myths</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Shinto</title>
+		<para>The Way of the Gods, also Kannagara: "the way of the kami ." </para>
+		<sect1>
+			<title>Beliefs</title>
+			<para>			
+            All Shinto cults believe in kami, which generally refers to the "divine." 
+            Individual clans (uji ), which 
+            were simultaneously political, military, and religious units, worshipped a 
+            single kami in particular which was regarded as the founder or principal 
+            ancestor of the clan. As a clan spread out, it took its worship of a particular 
+            kami with it; should a clan conquer another clan, the defeated clan was subsumed 
+            into the worship of the victorious clan's kami . What the kami consists of is 
+            hard to pin down. Kami first of all refers to the gods of heaven, earth, and the 
+            underworld, of whom the most important are creator gods. But 
+            kami also are all those things that have divinity in them to some degree: the 
+            ghosts of ancestors, living human beings, particular regions or villages, 
+            animals, plants, landscape-in fact, most of creation, anything that might be 
+            considered wondrous, magnificent, or affecting human life. This meant that the 
+            Dal-Kon feel themselves to be under the control not only of the clan's 
+            principal kami, but by an innumerable crowd of ancestors, spiritual beings, and 
+            divine natural forces. As an example of the potential for divinity: there is a 
+            story of an emperor who, while travelling in a rainstorm encountered a cat on a 
+            porch that waved a greeting to him. Intrigued by this extraordinary phenomenon, 
+            the emperor dismounted and approached the porch. As soon as he reached the 
+            porch, a bolt of lightning crashed down on the spot his horse was standing and 
+            killed it instantly. From that point on, cats were, in Shinto, worshipped as 
+            beneficent and protective kami; if you walk into a Dal-Kon restaurant, you are 
+            sure to find a porcelain statue of the waving cat which protects the 
+            establishment from harm. 			
+			</para>
+			<para>
+            Shintoists believe that the trees of the forest have souls, known as kodama, and 
+            that the Kodama-Kami protect the more exalted of them.
+			</para>
+			<para>			
+            There are Shinto shrines where huge trees hundreds of years old are encircled 
+            with shimenawa, straw "belts" that designate them as sacred objects. Each tree 
+            represents purity and a divine persona, which explains why its wood is revered 
+            even after the tree has fallen. In this regard, the unadorned trunks of trees, 
+            which have had little more than the bark removed, may be used in shrine 
+            architecture and festivals.
+			</para>
+			<para>			
+			Carrying a handful of soil from one part of the island to the tree is an established custom 
+            among worshippers.
+			</para>
+			<para>			
+            All Shinto involves some sort of shrine worship, the most important is the 
+            Izumo Shrine on the coast of the Dal-Kon Sea. These shrines are often 
+            a piece of unpolluted land surrounded by trees (himorogi ) or a piece 
+            of unpolluted ground surrounded by stones (iwasaka ). Shinto shrines are 
+            usually a single room (or miniature room), raised from the 
+            ground, with objects placed inside. One worships the kami inside the shrine. 
+            Outside the shrine is placed a wash-basin, called a torii , where one cleans 
+            one's hands and sometimes one's face before entering the shrine. This procedure 
+            of washing, called the misogi , is one of the principal rituals of Shinto, which 
+            also included prayer and spells. One worships a Shinto shrine by "attending" it, 
+            that is, devoting oneself to the object worshipped, and by giving offerings to 
+            it: anything from vegetables to great riches. Shinto prayer (Norito ) is based 
+            on koto-dama , the belief that spoken words have a spiritual power; if spoken 
+            correctly, the Norito would bring about favorable results. 
+			</para>
+		</sect1>
+		<sect1>
+			<title>Practices</title>
+			<para>
+			The practices of Shinto are normally performed by the worshippers themselves or
+			by Gakusho (spirit priests) in someones name. Thus there is a large body 
+			of common practices that a farmer would in a year without any intervention on the 
+			part of an intermediary.
+			</para>
+			<sect2>
+				<title>Sangaku or Offering Tablets</title>
+				<para> 
+                The custom of hanging tablets at shrines was established in Dal-Kon 
+                centuries before sangaku came into existence. Shintoism
+                is populated by "eight hundred myriads of 
+                spirits," the kami. Because the kami, it was said, love horses, 
+                those worshipers who could not present a living horse as an 
+                offering to the shrine might instead give a likeness drawn on 
+                wood. As a result, many tablets dating from the founding of Dal-Kon 
+                depict horses. 
+                </para>
+				<para> 
+                The tablets seem to be distributed fairly uniformly 
+                throughout Dal-Kon, in both rural and urban districts, with about 
+                twice as many found in Shinto shrines as in Sohei or Deitic temples. 
+                </para>
+				<para>
+    			Recently, devotees of math, evidently samurai, merchants and some farmers
+    			, would solve a wide variety of geometry problems, inscribe their efforts in 
+    			delicately colored wooden tablets and hang the works under the roofs 
+    			of religious buildings. These sangaku are often acts of homage--a thanks to a 
+    			guiding spirit--or in some communitities they have been brazen 
+    			challenges to other worshipers: Solve this one if you can! For the most part, sangaku 
+    			deal with ordinary Euclidean geometry. Circles and ellipses play 
+    			a prominent role: circles within ellipses, ellipses within 
+    			circles. Some of the exercises are quite simple and others are 
+    			nearly impossible. 
+    			</para>
+				<para> 
+                Most of the sangaku contain more than one theorem and 
+                are frequently brightly colored. The proof of the theorem is 
+                usually not given, only the result. Other information typically 
+                includes the name of the presenter and the date. Not all the 
+                problems deal solely with geometry. 
+                </para>
+			</sect2>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Class Structure</title>
+		<para>
+		From the outside it would appear that Dal-Kon's society is compartmentalised into four distinct classes by birth: the Samurai (shi),
+		farmers (no), artisans (ko), and merchants (sho). The reality is far more complex. It is true that 
+		that is indeed the general ordering of status among the people engaged in those tasks. 
+		Careers are hereditary though there is some natural mobility up and down groupings of careers.
+		Acclaim can raise the status of someone (especially in a martial class) up to that of Samurai.
+		A child's life choice may be changed by a marriage contract that gives over the daughter or 
+		, more rarely, the son to the new family. 
+		</para>
+		<para>
+        There are those that gain mobility by being spirit called to a craft or class other than they were born to. 
+        It is rare but it does happen (usually several times in a generation per village).
+		Thus a son born to an Ashigaru father may become a Samurai by acclaim, or by Kami-kan. A son born to 
+		a dyer may be able to become a potter with Kami-kan or contract among the families involved.
+		</para>
+		<para>
+		There are some life choices that wash away most issues of birth class. The Judges pick and choose those that become 
+		Judges, Gakusho, and Shukenja without regard to class, only ability. Only the Judges evaluate those that
+		believe they are Kami-Kan.
+		</para>
+	</chapter>
+	<chapter>
+		<title>Tradition</title>
+		<para>Text</para>
+		<sect1>
+			<title>Womens Roles</title>
+			<para>
+            Samurai women are expected to exhibit loyalty, bravery, and take on the 
+    		duty of revenge. As her warrior husband is often absent, the samurai 
+    		wife also has important duties at home. Her responsibility is the food 
+    		and all the household supplies. She oversaw the harvesting of crops, 
+    		managed all the servants, and takes over all financial business. 
+    		In matters which concerned the well-being of the family, 
+    		her advice is sought and her opinions respected. On her, too, fell the 
+    		burden of providing the proper education of her children. She is  to 
+    		instill in them a strong sense of loyalty to the samurai ideals of 
+    		courage and physical strength.			
+			</para>
+			<para>
+			All brokered marriages are done through the Samurai women with the exact roles 
+			taken in the negotiation dependent on the status of the nearest living female 
+			relative.
+			</para>
+			<para>
+            In wartime Samurai women have to defend their homes. Trained in 
+            weaponry, women carry a dagger in their sleeves or sashes and can throw 
+            with deadly aim. The naginata, a long, curved polearm, is  considered 
+            the weapon most suitable for women. All Samurai girls learn the art of 
+            naginatajutsu 
+			</para>
+			<para>
+            Sometimes Saumrai women have joined their men in battle, fighting alongside them 
+            or directing the troops. Like their husbands, women are expected 
+            to commit suicide if the family is dishonored in any way. Some Samurai women 
+            use suicide as a form of protest against injustice, as in the case of 
+            one woman who killed herself when her husband mistreated her.
+			</para>
+			<para>
+            Most Dal-Kon traditions and styles of family life have women in a much more subservient role. 
+            Unlike the male children have a household, the female rarely has any say about who or 
+            when she marries. 
+            </para>
+			<para>
+            There are a few traditions that give women some openings for self destinatiuon. Some
+            Tomo are mother/daughter concerns only and have some protection for the choices they 
+            make from within their craft. Geisha, Ama, and Weavers are a few exmples.
+            </para>
+		</sect1>
+		<sect1>
+			<title>Wedding</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Bedding</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Birthing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Battle</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Diaspora</title>
+			<para>
+			Dal-Kon Commons and Nobles have a special celebration for the successful landing and settlement immediately
+			following the collapse of the Golden Empire.
+			The Imperial family has its own celebration on the same day that represences the compact to 
+			the imperial family.
+			</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Institutions</title>
+		<para/>
+		<sect1>
+			<title>The Emperor</title>
+			<para>
+			His word is law.His speaking is distributed in several ways.
+			</para>
+			<para>
+			Mi-Kyo-Sho or letters of Advice about policies. These are general statements 
+			of goals that ministers and agents use as guidelines for resolving disputes about 
+			turf and tactics. Typically conceived by the Emperor, crafted by the Emperor's Judges,
+			and Sealed by the Emperor. 
+			</para>
+			<para>
+			Kudashi-Bumi or letters of instruction. These are the explicit commands that ministers 
+			issue to their agents descrivbing what should be done.
+			</para>
+			<para>
+			Miyo- or Letters In His Voice. These are letters that the Emperor signs for his agents giving them 
+			power to resolve or investigate an issue. A similar concept is the "Power of His Hand" carried by 
+			the Kaishakunin
+			</para>
+		</sect1>
+		<sect1>
+			<title>Land Grants: Han, Shoen and Shiki</title>
+			<para>
+			More or less autonomous, the shoen is under the 
+			rule of person (kon-ke) or organiztion (ryo-ke). A Kon-ke may be a 
+			Daimyo in whose land the Sho resides or another noble born.
+			A ryo-ke is often a great temple. Their interest is in 
+			the keeping of their agent residing in the sho. Under 
+			these agents are arranged the various tenures of land 
+			and the classes of people who hold them.
+			</para>
+			<para>
+			Associated with each sho is a series of "profit rights" or shares 
+			called shiki. A shiki of land is a
+			separate right or profit derivable from it that is vested in a person --- after
+			whom it is named; as, for instance: the Kon-ke-shiki, 
+			tenant-shiki, or the like.
+			</para>
+			<para>
+			Sho-tenures. There are three tenures that are recognized in Dal-Kon for 
+			land. There are free tenures of possession which have been derived from the first
+			cultivation of the soil, or from purchase or other modes of out-right
+			acquisition, and which can therefore be bequeathed or disposed of at will, the
+			Kon-ke or Ryo-ke exercising little interference with them. These 
+			include outright sale to other Kon-ke or Ryo-ke. 
+			</para>
+			<para>
+			When, however, the holder of a free land gives up the 
+			title over it to the Kon-ke or Ryo-ke for the purpose of 
+			protection or immunity, a second class of tenure 
+			results - that of the commended land. Here the Kon-ke
+			becomes the titular owner, but is in fact normally merely 
+			entitled to certain dues from the land, for the commendor 
+			usually remains as its possessor and user, and continues 
+			to dispose of it as he pleases. Though of course, in general the shoen
+			is typically commended to the Han's Daimyo.
+			</para>
+			<para>
+			The third class of tenure comprises shiki that have been granted 
+			either by the seignior or by the proprietor
+			and are usually hereditary but presumably at least at the 
+			beginning inalienable without permission
+			</para>
+			<para>			
+            A rice tax is levied on the produce of the paddies, and a head tax 
+            is levied on adult males or adult females of all female Tomo. The 
+            rice tax is low (about 3 percent of the crop), but the head tax, 
+            payable in handicrafts such as silk and hemp can impose a 
+            significant burden. Moreover, the transport of the goods from the 
+            provinces to the capital is the responsibility of the taxed, which 
+            involves an enormous labour for those living in distant parts. 
+			</para>
+			<para>
+            Adult males are also obliged to give military service and to provide labour for public works 
+            at the command of the local Daimyo or Imperial Agent, amounting to not more than 60 days 
+            per year.
+            </para>
+		</sect1>
+		<sect1>
+			<title>Guilds (Tomos)</title>
+			<para>
+			The Dal-Kon maintain a complicated set of craft and other guilds called Tomo.
+			The Tomo exist at Imperial grant and cover all the crafts of Dal-Kon. Membership in Tomo
+			are father/son or Mother/Daughter relations.
+			</para>
+			<para>
+            Ritualists, Armorers, Ricefield Workers, Weavers, Potters, Scribes, Interpreters, Reciters,
+            Grooms, Husbanders, Ironworkers, Smiths, Bowyers, Fletchers, Brewers, Acrobats, Fishers, Amas,
+            Geisha, etc..
+            And in some cases the tomo may be more general such as "Quiver Bearers" or military support groups 
+            for a specific clan.
+			</para>
+			<para>Most are born into a tomo, some are contracted into a tomo, and a few are Kami-Kan (spirit called). 
+			Typically a ritualist will handle the once a year ritual for each Tomo that inducts 
+			a son/daughter into the Tomo. A Judge will be present if there is a question of Kami-Kan.
+			</para>
+			<para>
+			Geisha are one of the few Tomo that habitually learn the skills and crafts of other tomos
+			with contracts being negotiated often. Geisha especially have close ties with the ritualists and 
+			musical instrument tomos.
+			</para>
+		</sect1>
+		<sect1>
+			<title>Sohei</title>
+			<para>
+			The Sohei are warrior monks. Monastic orders of martial practitioners
+			who at one time rivaled the Judges and Inner Clans for power.
+			Many Sohei form the basis of a martial tradition and may act as the trainers for 
+			a specific clan. Some Sohei owe alleigience to a clan.
+			</para>
+			<para>
+            Some few Sohei live in more isolated locales for the pursuit of mental disciplines and
+            mystical powers. Such Sohei are know as Yamabushi or Hijiri. Literally a "Mountain Monk". 
+            Said to posses a great deal of mystical powers against the supernatural due to they're 
+            extreme ascetic lifestyle. They practiced the art of SHUGENDO to attain supernatural powers.
+			</para>
+			<para>
+			It is said that the Judges maintain a Sohei monastary in the Imperial Island
+			</para>
+		</sect1>
+		<sect1>
+			<title>Gakusho</title>
+			<para>
+            By nature, Shinto is focused on purification and the living, but Shinto Priests 
+            must also act as a buffer between the living and the Kami or deities that 
+            protect mankind and also demand tribute or become angered. Also, not all Kami 
+            are helpful to man and must mere be placated into not showing anger.
+			</para>
+			<para>
+            Most Gakusho are male but a few (about 10%) are female.
+			</para>
+			<para>
+			The Gakusho wield a varied set of powers and abilities. Some of 
+			the Gakusho become masters of Tantric or Mantric magic. 
+			Based on Shingon or "True Word" it acts most often as a soul 
+			shaping craft magic. It is typically constrained to being used 
+			on the gakusho themself except when healing is required. 
+			These are simply called the Shingon.
+			</para>
+			<para>
+			In addition the Gakusho act as assesors of the Karmic debt that 
+			one has accumulated, able to see the threads of the past life as they 
+			affect the present and future. In some circumstances they can intervene 
+			to alter or lessen the debt. Those who are skilled in this are called Karmic Masters.
+			</para>
+			<para>
+			The Dal-Kon language is said to hold power in it's very structure. Some Gakusho 
+			have becoime Masters of the Power of Words, or the craft of Kotodama. Not
+            quite true magic in that he must say verses or write down the words of power.
+            nonetheless, he or she has the ability to bend the very fabric of reality. This
+            works on all creation - not just supernaturals but humans as well. These are called 
+            the Kotodama Masters.
+			</para>
+			<para>
+            Some temples shelter blind wise women known as Miko. Miko hold the ability of 
+            Powerful Prognostication. They can tell a client the day they will die and 
+            why if the client is brave enough. They often 
+            come into they're power at puberty but must remain 'pure' to be at they're most 
+            powerful. In they're youth they channel Spirits of the Dead and Kami and wield a 
+            great deal of power. They go blind in they're 40's as a result but live to be 
+            very old. Some say because they see things no mortal is meant to see.            
+            </para>
+		</sect1>
+		<sect1>
+			<title>Judges</title>
+			<para>Seven great monastaries</para>
+			<para>The Judges have a labour levee that replaces all land taxes and rice levees
+			but is porportional to the number of judges available.
+			</para>
+			<para>The Judges actually sponsor one small specialised Sohei</para>
+			<para>The Judges oversee and work with the Gakusho</para>
+		</sect1>
+		<sect1>
+			<title>Rites and Rituals</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Religious Norms</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Crafts and Arts, Architecture, and Symbolism</title>
+		<para>
+		There is no culture more oriented toward fine craft work than the Dal-Kon
+		
+		</para>
+		<sect1>
+			<title>Utilitarian Hand Crafts</title>
+			<para>Paper is manufactured in great abundance, not only for writing and printing, but also for tapestry, handkerchiefs, etc.  It is made of various qualities, and some of it is as soft and flexible as cotton cloth; indeed, that which is used for handkerchiefs might be mistaken for cloth, so far as toughness and flexibility are concerned, and doubtless could be washed by a very careful laundress, though I have never heard of its being made use of more than once.  The paper is made of the bark of the mulberry, by a somewhat tedious process, unnecessary to describe.  The lacquer ware produced in Japan, and to which it has given name, has never been equalled in any other country for beauty and durability.  The city of Miaco is the principal place for the manufacture of this beautiful ware, and, of late years, the articles brought from there to Nagasaki, have been of a more useful description to Europeans, than any that could be found at Simoda, Yokuhama, or Yedo, during my visits to those places.  The Dutch have given them the patterns of centre-tables, ladies' work-tables, writing desks, waiters, toilet cases,etc., which they have imitated to perfection, and produced some of the most beautiful specimens of these articles I have ever seen.  In wood work caskets, cabinets, etc., they are unsurpassed; some of which are lacquered with exquisite skill and great beauty of design, and others inlaid with the various woods of the country, in figures representing stars, diamonds, and every variety of design best calculated to display the woods, which are all susceptible of the highest polish.  There is an endless assortment of writing-boxes, stands, fire- boxes, etc., etc., to be found in the shops, most of which are intended exclusively for the use of the natives, but they are all so beautifully manufactured that it is difficult to resist the temptation to purchase them.  The Japanese are equally expert in the manufacture of articles of iron and steel, and some of their sword blades are said to be equal to the finest made in Damascus.  They are beautifully polished, and kept exceedingly sharp.  They descend as heirlooms, from one generation to another.</para>
+			<para>
+			Pottery
+			</para>
+			<para>
+			Papermaking
+			</para>
+			<para>
+			Swordsmithing
+			</para>
+			<para>
+			Fletcher
+			</para>
+			<para>
+			Armourer
+			</para>
+			<para>
+			Lacquer
+			</para>
+		</sect1>
+		<sect1>
+			<title>Arts</title>
+			<para>
+			Ikebana or Flower Arranging. Kika Shibata is the Patron Kami of the Ikebana Tomo.
+			</para>
+			<para>
+            Suminagashi-literally, 
+            "spilled ink" or "ink-floating"-is a Dal-Kon technique for creating 
+            free-form marbled patterns on paper or similar surfaces. The design 
+            is formed by floating pigments--ink or paint--on the surface of 
+            water and then carefully laying a sheet of paper onto the colors, 
+            which adhere to the paper and transfer the design to its surface. 
+			</para>
+			<para>
+            kumihimo is the process of creating silk or hemp belts through 
+            different methods of braiding, typically done on a takadai loom
+			</para>
+			<para>
+			Ategami is the art of woodblock printing.
+			</para>
+		</sect1>
+		<sect1>
+			<title>Music</title>
+			<para>
+            Dal-Kon has a rich musical tradition. This tradition is displayed in 
+            part in popular songs and in Shinto ritual and chant as well as the 
+            court music and dances 
+			</para>
+			<para>
+            Music is not a separable element from any other components of a 
+            performance. Music is almost always accompanied by some work, story, 
+            pantomime, dance, and/or acrobatics and all the musical styles are 
+            understood as music and some other component. 
+			</para>
+			<para>
+            The dominant secular musical style of Dal-Kon is gigaku or Kure-gaku 
+            . This is the style of music for the popular dances and pantomimes 
+            of Ricefield workers and other manual workers. Later, however, it 
+            has risen to become the lowest form of official music 
+			</para>
+			<para>
+            Sangaku is the most active and exciting of the musics-interspersed 
+            between songs were acrobatics and energetic pantomimes. It arose 
+            from the original Sohei traditions of battle theater and song.
+			</para>
+			<para>
+            Shinto chant is chanting performed largely in prayers, the norito , 
+            or "divine words." Shinto musical performance is exoteric, designed 
+            to be performed and comprehended by anyone with little musical 
+            training.
+			</para>
+			<para>
+            Perhaps the most permanent and complex musical culture developed in 
+            Dal-Kon is the gagaku, or court instrumental music. 
+			</para>
+			<para>
+            In Dal-Kon, gagaku means "refined" (ga ) "music" (gaku ) and so is 
+            perfectly in line with the Dal-Kon Courts cultural value of miyabi , 
+            or "courtly refinement." Since the emphasis is on refinement or 
+            taste, gagaku is largely experienced as an elite or esoteric music, 
+            a "high culture" music in contrast to other Dal-Kon musical 
+            traditions. Like other Dal-Kon musical traditions, gagaku is not 
+            "music alone" but rather music and dance or pantomime. The entire 
+            gagaku experience, from the music to the singing to the story to the 
+            dance is regarded as refined and elegant. It's important to 
+            understand that gagaku is not a distinct musical classification but 
+            is a category that subsumes several musical and performance genres. 
+            It is largely a distinction between music for refined, courtly 
+            tastes, and all other types of music. 			
+			</para>
+			<para>
+            The daily life of the Dal-Kon imperial court is filled with gagaku. 
+            All ceremonies, weddings, funerals, affairs of state, all are 
+            accompanied by the musical style most appropriate to the occasion. 
+			</para>
+			<para>
+            Dal-Kon musical theory is based on the eight categories of sound : 
+            metal (bells), stone (stone chimes), earth (ocarina), leather 
+            (drums), silk (stringed instruments), wood (double reed wind 
+            instruments), gourd (sho, or mouth organ), and bamboo (flute). 
+			</para>
+			<para>
+            Dal-Kon think of musical instruments as two distinct categories: 
+            percussion and all others. The instruments associated with gagaku 
+            are stringed instruments and wind instruments similar to the flute; 
+            the percussion instruments, however, are seen as lesser instruments.
+			</para>
+			<para>
+            Principle among the stringed instruments is the biwa, which, like so 
+            much else in Dal-Kon music culture, is imported from Rhelania. It is 
+            not only the most important instrument in court orchestras, the biwa 
+            is also a work of fine art as the biis that are used are among the 
+            finest crafted works of the Dal-Kon instruments. 
+			</para>
+			<para>
+            The biwa is a four-stringed instrument. In gagaku orchestras it is 
+            common but tends to be used for the grunt work-the bulk of the 
+            musical work is done by the six- stringed wagon and the thirteen-
+            stringed koto with their more complex and rich modes. 			
+			</para>
+			<para>
+            Among the wind instruments, the principle instruments are the 
+            shakuhachi, a bamboo flute, and the sho , a mouth organ built of 
+            seventeen bamboo pipes arranged in a circle. The shakuhachi flute is 
+            played with the flute dangling down in front of the performer; 
+			</para>
+			<para>
+            Percussion is a standard part of Dal-Kon ensemble music. Three of 
+            the tonal categories in Dal-Kon musical theory are taken up by 
+            percussion: metal, stone, and leather. The Dal-Kon employed three 
+            percussion instruments: a side drum (kakko ), a bronze gong (shoko 
+            ), and a large, hanging drum struck by two large, heavy drumsticks 
+            (taiko ). As with most percussion, taiko music is very close to the 
+            origins of music in the movement of the body and a real experience 
+            requires seeing as well as hearing the performance. Taiko 
+            performance is based on the modulation between the "female" (left 
+            hand) and "male" (right hand) strokes of the drumsticks-the female 
+            stroke is always soft and the male is always a strong stroke. The 
+            modulation between soft and strong is the primary component of taiko 
+            performance. In addition to court music, percussion is a vital part 
+            of Shinto ceremonies and processions. The instruments and rhythms 
+            are different than court music, but Shinto life and ceremony is 
+            filled with percussive richness.    
+			</para>
+		</sect1>
+		<sect1>
+			<title>Symbolism</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Common Motifs</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Significant Numbers</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Art</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Architecture</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Clothing and Color</title>
+		<para>
+        Love of colour resurfaces again and again throughout Dal-Konese costume history.
+        The colours have relationships with Dal-Kon philosophy and superstition.	
+        Blue-green represents wood, Spring, and the East.	 Red stands for 
+        fire, Summer, and the South.	 White is for Autumn, Metal, and the
+        West. The North aligns with Winter, Water, and Black.	 And Yellow
+        is the Center and Earth.	 
+        </para>
+		<para>
+        The Dal-Kon practice the use of distinction by colour.	Luckily for most 
+        the distinctions are combinations of clothing type and color rather than color alone.
+        </para>
+		<para>
+        Clothing and color among the court and the Inner Clans are more ornate 
+        than among the Outer Clans. In fact it can be said that there are two 
+        distinct clothing cultures among the Dal-Kon. The Court or Inner Clan 
+        Culture and the Outer Clan culture. 
+        </para>
+		<para>
+        In the Dal-Kon Court colours are strict indicators of rank.	 In Dal-Kon, courtiers take the 
+        native appreciation of colour and its subtlety to a higher level.	 Although men's court clothing 
+        is regulated by rank, a man in casual dress showed his refinement and sensitivity by pairing 
+        colours according to the season, the occasion, or his mood.	 And if Dal-Kon men excel at this 
+        practice, Dal-Kon women are masters.	 Less restricted by rank colours than men, a Dal-Kon lady can 
+        make or break her reputation with her choice of colours to wear in combination. Indeed, the mistress 
+        of the household (that is, the principle wife) is responsible for all the dyeing that goes on.
+        The Dyers Tomo associated with a Han is beholden and reports to the ranking woman of the Han.
+        It is no surprize that the Imperial post of Mikushige-dono, Mistress of the Wardrobe, is often 
+        held by the oldest Imperial concubine.
+        </para>
+		<para>
+        The
+        ranking colours had to be produced precisely using the correct materials.	
+        These colours are purple, blue, red, yellow, white and black.
+        </para>
+		<para>
+        In the Dal-Kon court there are several official clothing colours in addition
+        to white. These colors, when combined, with specific types of court costume are 
+        used to denote ranking within the court. Each color is produced with 
+        dyestuffs referenced in the Dal-Kon Classics.	Yellow is made from gardenia hulls and bark
+        of the Amur cork tree.	Purple is from Murasaki roots. Red
+        is from madder root. Blue-green is from indigo overdyed with yellow
+        for green. Black is produced from the shell of the Abalone.
+        </para>
+		<para>
+        The Imperial Household has authorized an official Dyers Tomo or Naisenshi for the official colors.	 
+        </para>
+		<para>
+        Murasaki is native to Dal-Kon. In some periods this beautiful but 
+        non-lightfast purple was restricted to Imperial ladies only.	 In 
+        addition to its ephemerality, a careful process of premordanting 
+        had to be followed in order to produce the correct shade.
+        Often called simply iro ("colour" in Dal-Kon), there is no doubt that it is 
+        THE colour of the Court.
+        </para>
+		<para>
+        Suo is imported from Rhelania as dried wood chips 
+        from the Suo or Sappanwood tree.	 This redwood is of the same species as the 
+        basilwood and produces the same dyestuff.	 Again, its lack of lightfastness makes this 
+        colour desirable.	 By manipulating the dyebath by the addition of wood ash water 
+        of vinegar, the imperial dyers can produce everything from deep eggplant to 
+        lavender and maroon to ox-blood red.
+        </para>
+		<para>
+        Benibana or safflower is probably the most fleeting of all the dyes.
+        Like murasaki, benibana is also a restricted dye, though courtiers favoured by 
+        the Emperor were often given special permission to wear it.	 Dyeing with 
+        safflower requires careful manipulation of the acid dyebath.	 Anyone can produce 
+        yellow from the petals.	 Orange requires more skill.	 But pink ( kurenai) 
+        is the restricted colour.	 
+        </para>
+		<para>
+        The colour combinations (called kasane no irome in Dal-Kon) are stylised 
+        and many combinations have a name.	 Late Dal-Kon period texts such as Masasuke's 
+        "Notes on Costume" catalog these outfits.	 
+        </para>
+		<para>
+        Austerity is the hallmark of the Outer Clans.	 Fashion reflects this rebellion against the 
+        perceived decadence of the Dal-Kon court. Instead of many layered silk garments, Outer Clan 
+        ladies wear "underwear." White kosode and red hakama, which on the Dal-Kon Inner Clan noblewoman is rarely seen, 
+        became the utilitarian garb of the Outer Clan.	 There is strong significance in the names of the main 
+        garment - ko-sode (small sleeve) as opposed to hiro-sode (wide sleeve) or o-sode (big sleeve) 
+        as the Dal-Kon Inner Clan layers are sometimes called.	There is even an anecdote that relates how an
+        Outer Clan Daimyo chopped off his own brother's big sleeves with a sword because he believed him to 
+        be reverting to courtly decadence.	 
+        </para>
+	</chapter>
+	<chapter>
+		<title>Politics</title>
+		<para>Text</para>
+		<sect1>
+			<title>Leadership</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Fellowship?</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Judicial Structure</title>
+		<para>Text</para>
+		<sect1>
+			<title>Making the Laws</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Enforcing the Laws</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Legal Code</title>
+		<para>The laws of the country are brief, clear, and comprehensive, and their practical operations equally simple and concise.  There are no professional lawyers, every man being deemed competent to plead his own cause.  When a person conceives himself aggrieved, he lays the case before a magistrate, who summons the other party before him; the case is stated by the complainant, after which the accused is heard in his defence -- witnesses on both sides are examined, and the magistrate gives his decision, from which there is no appeal, and which is instantly executed.  Difficult or very important cases may be referred to the Emperor in Council, and sometimes in trifling matters the disputants are ordered to settle the affair privately with the aid of their friends; and it is well understood by them that a compromise must be effected, or unpleasant consequences will be the result.t</para>
+		<sect1>
+			<title>Ownership of Goods</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Land</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Male and Female Roles</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Church and State</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death by Suicide</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death by Anothers Hand</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death in Self Defense</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Military</title>
+		<para>Text</para>
+		<sect1>
+			<title>Standing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Command</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Routine</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Arms</title>
+			<para>testx</para>
+		</sect1>
+		<sect1>
+			<title>Outfitting</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Theory</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Weapons</title>
+		<sect1>
+			<title>Swords</title>
+			<para>The Japanese sword, admired for its artistic value as well as for its
+        practical merits, is often considered an emblem of the samurai's power
+        and skill. It was venerated by the bushi, or warrior class, and
+        was worn as a badge of a samurai's status. The sword was the "the
+        soul of a samurai," and no self- respecting bushi would be
+        seen outside his home without his daisho prominently displayed. 
+        </para>
+			<para>
+        During wartime, swordsmanship was essential for
+ survival on the battlefield.
+        However, the possession of suitable side arms was considered a samurai's
+        responsibility even after the relative peace established by the Tokugawa
+        Shogunate. 2
+        </para>
+			<para>
+Despite popular literature and the images portrayed in samurai films,
+        bushido--the warrior's code of ethics and the samurai's moral
+        precepts-- did not allow for indiscriminate use of the sword. As bushido stressed the proper use of the sword, it also detested its misuse. The
+        samurai who drew his sword for unjustifiable reasons or at improper
+        occasions was regarded as ill- mannered and crude.
+        </para>
+			<para>
+In 1701, Lord Asano Nagamori, the brash young daimyo or leader
+        from Ako, was ordered to commit seppuku (ritual suicide) and his
+        clan abolished, thus setting the stage for the bloodiest vendetta in
+        Japan's history known as the forty-seven ronin incident. Asano's offense
+        was drawing his short sword and attacking the shogun's chief of
+        protocol, Kira Yoshinaka, during preparations for an official reception
+        of an imperial envoy from Kyoto. 3
+        </para>
+			<para>
+ In devotion
+        to their lord, many of his former retainers sought revenge and
+        eventually killed Yoshinaka. Although their loyalty has become
+        legendary, the fact remains that the Asano family and their clan were
+        destroyed by Lord Asano's one moment of rage and his inopportune use of
+        his sword. personal defense. 4
+        </para>
+			<para>
+Because the sword was often unsuitable for use, samurai frequently
+        had to rely on alternatives for personal defense. This often included the creative use of whatever common, everyday
+        objects which could be found at hand. There were also a number of
+        specialized weapons used when otherwise unarmed or, in some cases, when
+        it was preferable not to kill or seriously maim the attacker.
+        </para>
+			<para>
+A wide range of short arms (mi-jikai-mono) were available for self-defense. These could either be easily concealed within everyday
+        clothing or readily carried in addition to the daisho.</para>
+		</sect1>
+		<sect1>
+			<title>Tessen</title>
+			<para>
+The fan was an accessory customarily carried in the hands or tucked
+        in the obi (belt), especially in ceremonial dress. The folding
+        fan also played a significant role in Japanese etiquette, especially on
+        formal occasions, and was rarely ever out of a samurai's possession. The
+        tessen, literally "iron fan," was either a folding fan
+        with metal ribs or a non-folding solid bar shaped like a folded fan. The
+        forerunner of the tessen, the gunbei-uchiwa
+ was a solid,
+        roundish fan used by officers to signal their troops on the battlefield.
+        </para>
+			<para>
+        Later, the gunsen, or folding war fan, was frequently carried by bushi in armor and used as a weapon of both attack and defense. Later generations were more likely to carry a tessen, which like the folding fan, usually had eight to ten metal ribs and could be worn with
+        everyday attire. The solid tessen, forged to look like a closed
+        fan, was more durable and became the more popular type among the
+        samurai.
+        </para>
+			<para>
+ The samurai was often disarmed, such as when
+ performing domestic
+        chores, at leisure, or meeting with superiors. If visiting another's
+        home, for example, a warrior was generally required to leave one or both swords with an attendant. Armed with a tessen in his obi, though, the samurai was never completely unarmed. He could easily defend
+        himself in an emergency with what appeared to be a common,everyday
+        object.
+        </para>
+			<para>
+There are many legends regarding combat involving the use of an iron
+        fan. The hero of many Japanese sagas, Yoshitsune allegedly learned
+        swordsmanship and tessen-jutsu secrets from the tengu,
+        mythical beings who were supposed to be expert martial artists.
+	</para>
+			<para>
+As kendo instructors to the Tokugawa shoguns, the Yagyu ryu were also
+        famous for their iron fan defensive techniques. There are many recorded
+        examples of duels won using iron fans against naked swords and even
+        deaths caused by blows from a tessen. A famous 16th century swordsman,
+        Ganryu, armed only with his tessen, defeated several armed
+        opponents in one incident. It was considered unseemly to use a sword
+ against a lower ranking
+        rival. On the other hand, tessen-jutsu was considered
+        sophisticated, especially among the higher ranking samurai, and many actually preferred to defend themselves with a tessen.
+</para>
+			<para>
+When entering a house or room of a senior ranking person, Japanese
+        convention was to kneel and place the folding fan a short distance in
+        front of and horizontal to the knees. Then placing both hands flat on
+        the tatami, with the fingertips just short of the fan, a bow was
+        performed, the depth relative to the rank of the visitor and the host.
+        This common practice is the source for one infamous account of tessen-jutsu.
+        </para>
+			<para>
+Summoned to appear before his lord for some fault, an official 5 knew his life was on the line. In fact, the lord's retainers planned to
+        crush his neck between the heavy wooden sliding doors when he performed
+        the ritual bow of greeting. By chance or by instinct, though, the
+        official placed his tessen in the sliding door's groove. When the
+        retainers slammed the doors together, they bounced harmlessly off the
+        metal ribs caught in the groove, saving the official's neck. When he
+        acted as if nothing had happened, the lord became bewildered and spared the official from further penalty.
+			</para>
+		</sect1>
+		<sect1>
+			<title>Jutte</title>
+			<para>
+The jutte was an iron truncheon carried by feudal era police officers called doshin, as well as by their non-samurai assistants. The jutte evolved from a very strange battlefield weapon commonly believed to have been designed by Goro Nyudo Masamune, a
+        renowned swordsmith.
+        </para>
+			<para>
+        Hachiwari, literally "helmet
+        splitters," were curved, pointed metal bars with a hook near the
+        base of the handle. Worn by the bushi like a dirk, hachiwari were probably used as a parrying weapon, held in the left hand while
+        wielding a sword in the right, or used to pierce through body armor.
+</para>
+			<para>
+Much like the hachiwari, a single hook or fork on the side
+        near the handle allowed the jutte to be used for trapping or even breaking the blades of edged weapons, as well as for jabbing or
+        striking. Thus, the jutte was used to disarm and arrest suspects
+        without bloodshed. Eventually, the jutte became a symbol of a doshin's official status. Munisai Hirata, the father of Japan's most famous
+        swordsman, Musashi Miyamoto, was considered a master of the iron
+        truncheon and jutte-jutsu.
+</para>
+			<para>
+Edo-period police officers and their assistants develop
+ed many weapons and techniques against criminal violators, who were usually
+        armed and frequently desperate. The jutte was popular in feudal
+        Japan because it could parry the slash of a razor- sharp sword and
+        immobilize an assailant without injury. The jutte also probably
+        influenced the development of the sai, a dual-forked metal weapon
+        employed in Okinawan karate.
+</para>
+			<para>
+Essentially a defensive or restraining weapon, the length of the jutte required the user to get very close to those being apprehended. Like the
+        tessen, a jutte could be used in blocking (uke) and
+        parrying (nagashi) techniques, as well as in striking (uchi),
+        thrusting (tsuki), and holding (osae) techniques.
+        </para>
+		</sect1>
+		<sect1>
+			<title>Manrikigusari</title>
+			<para>
+The manrikigusari 6 consisted of a short length of metal chain, about two to three feet
+        long, with weights on each end. The chain could be used to parry a
+        strike from sticks, swords, or other weapons. The weights were also
+        swung to strike an opponent or to entangle a weapon. Once a weapon was trapped by the chain and weights, the samurai could easily disarm their
+        opponent. Finally, the length of chain could also be used to temporarily
+        restrain an attacker once he was subdued.
+        The manrikigusari was also referred to as
+kusari (chain), sode-kusari (sleeve-chain), and kusari-jutte,
+as well as many other names
+        </para>
+			<para>
+The manrikigusari was allegedly developed by Dannoshin Toshimitsu Masaki, then head sentry at Edo Castle, sometime during the
+        early 1700s. According to legend, Masaki was inspired to create this
+        unique weapon to prevent unnecessary bloodshed while his guards defended
+        the castle from intruders. The manrikigusari was later adopted by
+        other constables and their assistants to disarm and capture criminals.</para>
+		</sect1>
+		<sect1>
+			<title>Shakuhachi</title>
+			<para>
+The strangest and most unlikely defensive weapon has to be the bamboo
+        flute, known in Japan as the shakuhachi. The shakuhachi is
+        a end-blown flute made from bamboo root. Used in traditional Japanese
+        music, the soulful and deeply moving music played on the shakuhachi is often associated with the practice of Zen Buddhism and meditation. The shakuhachi was popularized by the Fuke sect of
+ Buddhism sometime
+        in the thirteenth century. This sect sought to replace sutra chanting
+        with sui zen (blowing zen) through the use of the shakuhachi.
+                </para>
+			<para>
+During the Edo Period, marked by disintegration of feudal Japan, the shakuhachi was often favored by swelling numbers of uprooted and masterless samurai warriors, or ronin. Large numbers of ronin joined the ranks of itinerant preachers known as komuso (priests of
+        emptiness and nothingness). The komuso were identified by the
+        large baskets (tengai) 7,
+        which they wore over their heads to symbolize their detachment from the world. In this way, they roamed from village to village, playing the shakuhachi and accepting alms.
+        </para>
+			<para>
+Violent clan struggles during the late sixteenth century forced many
+        of the komuso to organize themselves into a society for self-protection. Members of the Fukeshu sought to deceive Japan's
+        military ruler, the shogun, with forged documents giving them exclusive
+        rights to play the shakuhachi and to solicit alms with it. In
+        return for this privilege, the komuso agreed to spy on the
+        activities of other ronin, watching for any signs of a potential
+        rebellion.
+                </para>
+			<para>
+In any case, no longer part of the samurai class, the komuso were forbidden to wear their swords. According to legend, then these komuso redesigned the shakuhachi from the root of bamboo. By making it
+        longer and stouter, the shakuhachi flute could also be used like
+        a club</para>
+		</sect1>
+		<sect1>
+			<title>Kansashi</title>
+			<para>
+Women from samurai families were often trained to defend themselves
+        with a rather extraordinary concealed weapon peculiar to their gender.
+        When dressed formally, Japanese women usually wore one or more long
+        pins, called kansashi, hidden in their hair. Kansashi were
+        approximately six-inches long and served primarily to keep a woman's
+        long hair up and in place. The pins were also quite capable of piercing
+        an attacker's chest or throat in an emergency.</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Military</title>
+		<epigraph>
+			<attribution>Takeda Toshiro, founder of Clan Takeda, in his clan </attribution>
+			<para>
+			I was flinging drops of sweat when I completed the dance. I felt full of power;
+			like a glowing lump of iron fresh from the forge. All the rage had accumulated in 
+			the middle. This was a imperial rage, a righteous wrath. At the center of my mind 
+			, wreathed in fire, was the image of the Emishi general. There lay the deepest inner 
+			rage, radiating fury: Emishi, through all these years, true source of these atrocities.
+			</para>
+			<para>
+			I stripped off my inner robe. I was vageuly aware of soldiers that had gathered to 
+			sit on hay bales and watch. I drew my Swords with a hard strike-draw combination and
+			saluted the air with a flourish of edges. In that air hung the face of an Emishi. An
+			Emishi general of great skill. Yes, clever man, with his priests behind him.
+			</para>
+			<para>
+			I began the Bladestorm. I was tired and that drove me at an even greater pace than my 
+			teacher ever used - which was foolish. The swords whined in the air with a sound I 
+			had never heard from them before, the droning whine of the legendary Bladestorm of 
+			my teacher's own teachers. Bladestorm was for the suicidal idiot whirling in a 
+			light footed fight across the unstable scree of a cliff, over loose rocks, 
+			among multiple enemies. An error in timing or breath control with the whirling blades
+			caused the dancer to slash himself. Such was the concentration required that a dancer did not 
+			bleed from cuts. There stories of dancers bowshot, gutted and gashed and never noticing it, 
+			never stopping, until the end of the dance - when they dropped dead over their 
+			shredded victims.
+			</para>
+			<para>
+			The hilts of the swords slapped my hands lightly, spun and reversed hands, and 
+			rose to salute the air, and I was done. I stood there blinking a moment before 
+			I could break myself from the rhythm. My breath came in great regular heaves. 
+			The air felt to thick for breathing. Somehow my body, arrogant in the sight of so
+			many eyes, pulled itself upright. I sheathed my blades and reached for a rag to 
+			wipe the sweat from my shoulders. To me, the sound of my breathing was deafening. 
+			My nephew Higaru reached forth a hand with a flask of sake spiked water. I had 
+			just touched it to my lips when stirrings at the edge of the camp announced 
+			what we had waited for. The Emishi marched to meet us. 
+			</para>
+			<para>
+			As I prepared my armor and lost myself in the chatter of a camp preparing to 
+			march, I wondered whether I had become a great master or an even greater fool. 
+			The only answer to hand was that I didn't know. It was the barest beginnings
+			of wisdom.
+			</para>
+		</epigraph>
+		<para>Text</para>
+		<sect1>
+			<title>Standing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Command</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Routine</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Arms</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Outfitting</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Theory</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<glossary>
+		<glossdiv>
+			<title>Institutions</title>
+			<glossentry id="shoen">
+				<glossterm>shoen</glossterm>
+				<glossdef>
+					<para>The generic name applied to several species of private domains</para>
+					<para>
+    			    Each shoen is a corporation of villa (sho), land (en) and 
+    			    people (semmin) managed under the patronage of some person 
+    			    of influence or of an institution, known as the hon-ke and 
+    			    ryo-ke. 
+    			    </para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="en">
+				<glossterm>en</glossterm>
+				<glossdef>
+					<para>
+        			Each en is a tract of land associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="semmin">
+				<glossterm>semmin</glossterm>
+				<glossdef>
+					<para>
+        			A semmin is the body of people bound or associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="sho">
+				<glossterm>sho</glossterm>
+				<glossdef>
+					<para>
+        			Each sho	is a villa associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="honke">
+				<glossterm>hon-ke</glossterm>
+				<glossdef>
+					<para/>
+				</glossdef>
+			</glossentry>
+			<glossentry id="jizo">
+				<glossterm>jizo</glossterm>
+				<glossdef>
+					<para>Handhewn roadside guardian deities representing the attainment of enlightenment for the sake of others</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="sohei">
+				<glossterm>Sohei</glossterm>
+				<glossdef>
+					<para>Warrior Monks</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="han">
+				<glossterm>Han</glossterm>
+				<glossdef>
+					<para>A feudal province considered the dwelling place or property of a clan</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="jito">
+				<glossterm>jito</glossterm>
+				<glossdef>
+					<para>Stewards of a Sho</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="compact">
+				<glossterm>The Compact</glossterm>
+				<glossdef>
+					<para>
+					The Dal-Kon imperial family is said to maintain a compact or contract with the Dragons 
+					of Dal-Kon that allows the imperial family to preserve and maintain the country. What the 
+					Dragons would get out of this compact is unknown.
+					</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="ujikami">
+				<glossterm>Ujikami</glossterm>
+				<glossdef>
+					<para>
+					The object of clan veneration is the Ujikami, or clan god. They may be a forefsather,
+					departed leader, local god or Kami, OR in one case a greater deity.
+					</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		<glossdiv>
+			<title>Ranks</title>
+			<glossentry id="daimyo">
+				<glossterm>Daimyo</glossterm>
+				<glossdef>
+					<para>A feudal overlord of a clan's Han</para>
+					<para>A Daim-yo can have as few as three Cho-hans and as many as twenty if he is insanely powerful</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="samurai">
+				<glossterm>Samurai</glossterm>
+				<glossdef>
+					<para>Samurai (that can control 20 - 200 Bushi)</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="kaishakunin">
+				<glossterm>kaishakunin</glossterm>
+				<glossdef>
+					<para>A emperor's officer charged with acting as a executioner at a Daimyo's act of seppuku</para>
+					<para>Only a kaishakunin may so act for a Daimyo.</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="chohan">
+				<glossterm>Cho-Han</glossterm>
+				<glossdef>
+					<para>A Military rank. A commander of Samurai. Cho-han can command up to 50 Samurai and up to 1000 Bushi</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		<glossdiv>
+			<title>Concepts</title>
+			<glossentry id="kanjo">
+				<glossterm>Kanjo</glossterm>
+				<glossdef>
+					<para>Concept of warfare defining the soldiers of a lord as the shield of the castle</para>
+					<para>Kan, The Shield. The Shield, the Soldier. The Soldier, the Castle.</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="kamikan">
+				<glossterm>Kami-Kan</glossterm>
+				<glossdef>
+					<para>
+					Spirit called. (literally Spirit House) 
+					When a young man or woman believes they have been called to 
+					another Tomo than the one they have been born into.
+					</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		<glossdiv>
+			<title>Objects</title>
+			<glossentry id="mon">
+				<glossterm>mon</glossterm>
+				<glossdef>
+					<para>A Small copper coin</para>
+				</glossdef>
+			</glossentry>
+<glossentry id="Adake-bune">
+    <glossterm>Adake-bune</glossterm>
+    <glossdef><para> - Largest ships in general use. Powered by up to 80 oarsmen.  The Adake-bune are used in both trade and war, generally acting as flagships in the latter endeavor.</para></glossdef>
+</glossentry>    
+<glossentry id="Agemaki">
+    <glossterm>Agemaki </glossterm>
+    <glossdef><para>-Ornamental bow common in armor throughout samurai history.</para></glossdef>
+</glossentry>    
+<glossentry id="Ako-gishi">
+    <glossterm>Ako-gishi </glossterm>
+    <glossdef><para>-The '47 Ronin' </para></glossdef>
+</glossentry>    
+<glossentry id="Akuso">
+    <glossterm>Akuso </glossterm>
+    <glossdef><para>-"Rowdy Monks", an old term for the warrior monks later known as SOHEI.</para></glossdef>
+</glossentry>    
+<glossentry id="Akuto">
+    <glossterm>Akuto </glossterm>
+    <glossdef><para>-Outlaw bands once prevalent in the Kamakura period.  </para></glossdef>
+</glossentry>    
+<glossentry id="Amaterasu">
+    <glossterm>Amaterasu </glossterm>
+    <glossdef><para>-Also, Amaterasu-o-mi-kami.  Shinto deity; the goddess of the sun and progenitor of the Imperial family.  The daughter of IZANAGI and IZANAMI, Amaterasu is also said to have taught her people how to cultivate food and raise silk worms.  The most important Shinto divinity.</para></glossdef>
+</glossentry>    
+<glossentry id="Ashigaru">
+    <glossterm>Ashigaru </glossterm>
+    <glossdef><para>-‘Light feet’: infantry.</para></glossdef>
+</glossentry>    
+<glossentry id="Atsumori">
+    <glossterm>Atsumori </glossterm>
+    <glossdef><para>-Particularly popular No drama depicting a poignant event in the Succession War, the death of young Taira Atsumori at the Battle of Ichi-no-Tani.</para></glossdef>
+</glossentry>    
+<glossentry id="Azuma">
+    <glossterm>Azuma </glossterm>
+    <glossdef><para>kagami -An important historical work completed in the early </para></glossdef>
+</glossentry>    
+<glossentry id="Bajo">
+    <glossterm>Bajo </glossterm>
+    <glossdef><para>-A term for cavalry.</para></glossdef>
+</glossentry>    
+<glossentry id="Bakufu">
+    <glossterm>Bakufu </glossterm>
+    <glossdef><para>-‘Tent/Camp government’ Name applied to the headquarters of the shogun in teh field.</para></glossdef>
+</glossentry>    
+<glossentry id="Biwa">
+    <glossterm>Biwa </glossterm>
+    <glossdef><para>-Gourd-shaped lute-a musical instrument that predated the SAMISEN.</para></glossdef>
+</glossentry>    
+<glossentry id="Bo">
+    <glossterm>Bo </glossterm>
+    <glossdef><para>-Wooden staff primarily used by non-samurai in the Edo period.</para></glossdef>
+</glossentry>    
+<glossentry id="Bôsen">
+    <glossterm>Bôsen </glossterm>
+    <glossdef><para>-A defensive battle; to fight on the defensive.</para></glossdef>
+</glossentry>    
+<glossentry id="Bokuto">
+    <glossterm>Bokuto </glossterm>
+    <glossdef><para>-Wooden sword often used in a swordsman’s training.</para></glossdef>
+</glossentry>    
+<glossentry id="Bosen">
+    <glossterm>Bosen </glossterm>
+    <glossdef><para>-fighting on the defensive, a defensive battle</para></glossdef>
+</glossentry>    
+<glossentry id="Bu">
+    <glossterm>Bu </glossterm>
+    <glossdef><para>-Ancient term applied to the martial side of the Japanese culture.</para></glossdef>
+</glossentry>    
+<glossentry id="Budo">
+    <glossterm>Budo </glossterm>
+    <glossdef><para>-Term occasionally used in the Edo Period to describe the study of the martial arts; in modern usage, a reference to the martial arts.</para></glossdef>
+</glossentry>    
+<glossentry id="Bugei">
+    <glossterm>Bugei </glossterm>
+    <glossdef><para>-Ancient term used to describe martial combat.  The terms Bujutsu and BUDO are derived from Bugei.</para></glossdef>
+</glossentry>    
+<glossentry id="Bugukake">
+    <glossterm>Bugukake </glossterm>
+    <glossdef><para>-Weapon rack.</para></glossdef>
+</glossentry>    
+<glossentry id="Buke">
+    <glossterm>Buke </glossterm>
+    <glossdef><para>-Military house; family whose duties include the bearing of arms -most often applied to those warrior clans prior to and during the Gempei War (1180-85) but in use into and beyond the Momoyama Period.  Buke is occasionally- and misleadingly- translated as ‘equestrians’.</para></glossdef>
+</glossentry>    
+<glossentry id="Bunbuichi">
+    <glossterm>Bunbu ichi </glossterm>
+    <glossdef><para>-Term referring to the old samurai debate over the relative important of letters and learning versus martial skill.</para></glossdef>
+</glossentry>    
+<glossentry id="Bunji">
+    <glossterm>Bunji </glossterm>
+    <glossdef><para>-Noble; a member of the imperial court.</para></glossdef>
+</glossentry>    
+<glossentry id="Bunkoku">
+    <glossterm>Bunkoku </glossterm>
+    <glossdef><para>-Provinces that in the Heian Period are governed by court nobles; in the Sengoku Period, Bunkoku was sometimes used to refer to the territory of a daimyo.</para></glossdef>
+</glossentry>    
+<glossentry id="Burakumin">
+    <glossterm>Burakumin </glossterm>
+    <glossdef><para>-See ETA.</para></glossdef>
+</glossentry>    
+<glossentry id="Bushi">
+    <glossterm>Bushi </glossterm>
+    <glossdef><para>-Warrior.</para></glossdef>
+</glossentry>    
+<glossentry id="Bushido">
+    <glossterm>Bushido </glossterm>
+    <glossdef><para>-‘Way of the Warrior’.  Bushido has come to act as a blanket expression for the philosophy and mindset of the samurai, in particular the ideals of honor and bravery.</para></glossdef>
+</glossentry>    
+<glossentry id="Cha">
+    <glossterm>Cha </glossterm>
+    <glossdef><para>-Tea.</para></glossdef>
+</glossentry>    
+<glossentry id="Cha-no-Yu">
+    <glossterm>Cha-no-Yu </glossterm>
+    <glossdef><para>-Tea ceremony; a custom refined in the later 15th Century and popular among the samurai and court nobles.  Considered in many ways an art form.</para></glossdef>
+</glossentry>    
+<glossentry id="Chado">
+    <glossterm>Chado </glossterm>
+    <glossdef><para>-The Way of Tea; a term used to describe the art and practice of the tea ceremony.</para></glossdef>
+</glossentry>    
+<glossentry id="Chasengami">
+    <glossterm>Chasengami </glossterm>
+    <glossdef><para>-Style of top knot named after it’s resemblance to a tea wisk.</para></glossdef>
+</glossentry>    
+<glossentry id="Cho">
+    <glossterm>Cho </glossterm>
+    <glossdef><para>-Unit of land measure that was equivalent to 2.94 acres until 1594, when it was reduced, now equaling 2.45 acres.</para></glossdef>
+</glossentry>    
+<glossentry id="Chokkatsuchi">
+    <glossterm>Chokkatsuchi </glossterm>
+    <glossdef><para>-A lord’s personal territory-his personal property.</para></glossdef>
+</glossentry>    
+<glossentry id="Chonin">
+    <glossterm>Chonin </glossterm>
+    <glossdef><para>-A class term for merchants and artisans, who figured in below the peasants and above outcasts on the social scale.</para></glossdef>
+</glossentry>    
+<glossentry id="DaijoDaijin">
+    <glossterm>Daijo Daijin </glossterm>
+    <glossdef><para>-‘Great Minister of State’-the highest appointment awarded by the imperial court.  Rank held by such figures as Taira Kiyomori, Oda Nobunaga, and Toyotomi Hideyoshi.</para></glossdef>
+</glossentry>    
+<glossentry id="Daikan">
+    <glossterm>Daikan </glossterm>
+    <glossdef><para>-Deputy, intendant, manager.  Daikan could refer to the official tax collector for a daimyo.</para></glossdef>
+</glossentry>    
+<glossentry id="Daiku">
+    <glossterm>Daiku </glossterm>
+    <glossdef><para>- Carpenter.</para></glossdef>
+</glossentry>    
+<glossentry id="Daimyô">
+    <glossterm>Daimyô </glossterm>
+    <glossdef><para>-‘Great Name’; term used to describe the autonomous lords of the late 15th and 16th Centuries who exercised personal authority on a multi-province, multi-district, or, in some cases, multi-village level.  A term occasionally, and incorrectly, applied to the earlier SHUGO, or misleadingly equated to the shugo.  At the same time, the term shugo-daimyo is sometimes used to describe the increasingly autonomous shugo of the early to mid-14the Century, and the term shugo can be found still in use as late as 1560.  In the Edo period, the term daimyo generally applied to those lords who governed lands worth more than 10,000 KOKU.</para></glossdef>
+</glossentry>    
+<glossentry id="Dairai">
+    <glossterm>Dairai </glossterm>
+    <glossdef><para>-The Imperial Palace.</para></glossdef>
+</glossentry>    
+<glossentry id="Dairyo">
+    <glossterm>Dairyo </glossterm>
+    <glossdef><para>-A district magistrate.</para></glossdef>
+</glossentry>    
+<glossentry id="Daisho">
+    <glossterm>Daisho </glossterm>
+    <glossdef><para>-Sword pair formed by the KATANA and WAKIZASHI and worn by the samurai.</para></glossdef>
+</glossentry>    
+<glossentry id="DajoTenno">
+    <glossterm>Dajo Tenno </glossterm>
+    <glossdef><para>-Honorific title for an abdicated emperor.</para></glossdef>
+</glossentry>    
+<glossentry id="Dengaku">
+    <glossterm>Dengaku </glossterm>
+    <glossdef><para>-‘Country music’, ‘rustic music’; music popular with the common people, often including dance routines as part of a performance.</para></glossdef>
+</glossentry>    
+<glossentry id="Do">
+    <glossterm>Do </glossterm>
+    <glossdef><para>-Generic term for body armor - that armor which protects the torso; a cuirass.</para></glossdef>
+</glossentry>    
+<glossentry id="Dogo">
+    <glossterm>Dogo </glossterm>
+    <glossdef><para>-Village leader, headman, especially one whose assets allow him a certain amount of political and/or military clout locally.</para></glossdef>
+</glossentry>    
+<glossentry id="Dojo">
+    <glossterm>Dojo </glossterm>
+    <glossdef><para>-Martial arts school or training hall.</para></glossdef>
+</glossentry>    
+<glossentry id="Donjon">
+    <glossterm>Donjon </glossterm>
+    <glossdef><para>-Castle keeps, Donjons are ultimately designed as much for appearance as defensive capability.</para></glossdef>
+</glossentry>    
+<glossentry id="Doshin">
+    <glossterm>Doshin </glossterm>
+    <glossdef><para>-Term for Edo Period ‘police officers’, subordinate to YORIKI.</para></glossdef>
+</glossentry>    
+<glossentry id="Doso">
+    <glossterm>Doso </glossterm>
+    <glossdef><para>-Pawnbroker; moneylender </para></glossdef>
+</glossentry>    
+<glossentry id="Doza">
+    <glossterm>Doza </glossterm>
+    <glossdef><para>-The copper guild.</para></glossdef>
+</glossentry>    
+<glossentry id="Eboshi">
+    <glossterm>Eboshi </glossterm>
+    <glossdef><para>-Cap, usually black and often fastened to the head with a silk cord, worn by the samurai in formal circumstances.</para></glossdef>
+</glossentry>    
+<glossentry id="Egoshu">
+    <glossterm>Egoshu </glossterm>
+    <glossdef><para>-Council, especially one composed of civilian community elders-often applied to the governing merchant body of Sakai.</para></glossdef>
+</glossentry>    
+<glossentry id="Emishi">
+    <glossterm>Emishi </glossterm>
+    <glossdef><para>-Derogative term for the</para></glossdef>
+</glossentry>    
+<glossentry id="Enryakuji">
+    <glossterm>Enryakuji </glossterm>
+    <glossdef><para>- Temple complex on Mt. Hiei (Ômi province) founded by the monk Saicho Dengyo-Daishi) in 788.  The spiritual capital of the Tendai sect of Buddhism, the Enryakuji maintained a virtual army of warrior monks and played an active (and at times destructive) role in Kyoto politics until 1571.  In that year, Oda Nobunaga, whom the Enryakuji had defied, destroyed the Enryakuji and killed thousands of its monks.  It was later rebuilt though almost no buildings predate 1571.</para></glossdef>
+</glossentry>    
+<glossentry id="Eta">
+    <glossterm>Eta </glossterm>
+    <glossdef><para>-Term used to describe those people who handled tasks considered exceptionally distasteful: executioners, butchers, undertakers, midwives, and tomb attendants - in general, any job which required the handling of the dead or the remains of the dead.  Even the makers of leather armor could be considered Eta.  The term is possibly derived from Etori, or butcher.  Eta are considered practically subhuman, especially in the Edo Period, and to have Eta roots remained a stigma into the 20th Century - currently known as Buraku-min.</para></glossdef>
+</glossentry>    
+<glossentry id="Fudai">
+    <glossterm>Fudai </glossterm>
+    <glossdef><para>-A hereditary vassal-a retainer of long standing.  </para></glossdef>
+</glossentry>    
+<glossentry id="FunaBenkei">
+    <glossterm>Funa Benkei </glossterm>
+    <glossdef><para>-‘Benkei aboard ship’, popular No play recounting a legend from 1185 involving Minamoto Yoshitsune, the warrior monk Benkei, and the tragic Shizuka Gozen.</para></glossdef>
+</glossentry>    
+<glossentry id="Fundoshi">
+    <glossterm>Fundoshi </glossterm>
+    <glossdef><para>-Loincloth.</para></glossdef>
+</glossentry>    
+<glossentry id="Funsen">
+    <glossterm>Funsen </glossterm>
+    <glossdef><para>-A brave battle; to fight bravely.</para></glossdef>
+</glossentry>    
+<glossentry id="Furyu">
+    <glossterm>Furyu </glossterm>
+    <glossdef><para>-A group dance making use of outlandish costumes to tell an often energetic and occasionally bawdy tale; originally a ritual of exorcism, Furyu was quite popular by the 16th Century, especially among commoners.</para></glossdef>
+</glossentry>    
+<glossentry id="Gagaku">
+    <glossterm>Gagaku </glossterm>
+    <glossdef><para>-Style of music traditionally favored by the Imperial Court.</para></glossdef>
+</glossentry>    
+<glossentry id="Gawa">
+    <glossterm>- Gawa </glossterm>
+    <glossdef><para>- River (examples: Anegawa, Saigawa); also: kawa.</para></glossdef>
+</glossentry>    
+<glossentry id="Gakushu">
+    <glossterm>Gakushu </glossterm>
+    <glossdef><para>-Scholarly monks.</para></glossdef>
+</glossentry>    
+<glossentry id="Gekokujo">
+    <glossterm>Gekokujo </glossterm>
+    <glossdef><para>-‘The low overcome the high’; someone of high standing being unseated by an inferior.  </para></glossdef>
+</glossentry>    
+<glossentry id="GempeiWar">
+    <glossterm>Gempei War </glossterm>
+    <glossdef><para>- The conflict between 1180 and 1185 that saw the defeat of the Taira (Heike, Heishi) and the rise to power of the Minamoto (Genji) led by Minamoto Yoritomo.</para></glossdef>
+</glossentry>    
+<glossentry id="Gennin">
+    <glossterm>Gennin </glossterm>
+    <glossdef><para>-Attendants to samurai, whose responsibilities included horse care, equipment maintenance, and so on.</para></glossdef>
+</glossentry>    
+<glossentry id="Genpuku">
+    <glossterm>Genpuku </glossterm>
+    <glossdef><para>-Coming of age ceremony generally celebrated on a boy’s 14th or 15th birthday.  Also known as genbuku.</para></glossdef>
+</glossentry>    
+<glossentry id="Genzoku">
+    <glossterm>Genzoku </glossterm>
+    <glossdef><para>- The act of a monk returning to lay life.  Most sengoku daimyo had rules regulating the return of monks to secular life, presumably because many defeated samurai are spared execution if they took up a monk's habit.  </para></glossdef>
+</glossentry>    
+<glossentry id="Gesu">
+    <glossterm>Gesu </glossterm>
+    <glossdef><para>-Estate/SHOEN manager, administrator of the Heian Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Ginza">
+    <glossterm>Ginza </glossterm>
+    <glossdef><para>-Silver guild in the Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Giri">
+    <glossterm>Giri </glossterm>
+    <glossdef><para>-A term implying a debt of gratitude, obligation, or a sense of honor; duty.</para></glossdef>
+</glossentry>    
+<glossentry id="Go">
+    <glossterm>Go </glossterm>
+    <glossdef><para>-Ancient board game with an emphasis on careful strategy, popular throughout Japanese history.</para></glossdef>
+</glossentry>    
+<glossentry id="Gorinso">
+    <glossterm>Gorinso </glossterm>
+    <glossdef><para>-Work on the principles of sword fighting composed by the swordsman Miyamoto Musashi in the early to mid-16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Goson">
+    <glossterm>Goson </glossterm>
+    <glossdef><para>-Village; self-governing village important in the later 16th Century and Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Goyoshokunin">
+    <glossterm>Goyoshokunin </glossterm>
+    <glossdef><para>-Performers or artisans kept on a retainer by a daimyo and allowed special privileges.</para></glossdef>
+</glossentry>    
+<glossentry id="Gumin">
+    <glossterm>Gumin </glossterm>
+    <glossdef><para>-"Stupid commoners"; Edo Period samurai phrase for peasants and townspeople.</para></glossdef>
+</glossentry>    
+<glossentry id="Gunkimono">
+    <glossterm>Gunkimono </glossterm>
+    <glossdef><para>-‘War tale’; type of written work that dealt primarily with warriors and their deeds.</para></glossdef>
+</glossentry>    
+<glossentry id="Gunsen">
+    <glossterm>Gunsen </glossterm>
+    <glossdef><para>-Folding war fan often made out of metal.</para></glossdef>
+</glossentry>    
+<glossentry id="Gunyaku">
+    <glossterm>Gunyaku </glossterm>
+    <glossdef><para>-A military service levy or tax.</para></glossdef>
+</glossentry>    
+<glossentry id="Gunyakushu">
+    <glossterm>Gunyakushu </glossterm>
+    <glossdef><para>-Taxpayers in the 16th century who rendered military service or provided soldiers in return for an exemption on rice/money taxation.</para></glossdef>
+</glossentry>    
+<glossentry id="Gunyuukakkyo">
+    <glossterm>Gunyuukakkyo </glossterm>
+    <glossdef><para>-A rivalry of powerful warlords.</para></glossdef>
+</glossentry>    
+<glossentry id="Gyobushô">
+    <glossterm>Gyobushô </glossterm>
+    <glossdef><para>- Ministry/Minister of Justice; court rank/office estalished as part of the Taiho Code </para></glossdef>
+</glossentry>    
+<glossentry id="Gyorin">
+    <glossterm>Gyorin </glossterm>
+    <glossdef><para>- Battle formation; 'fish scale'.  Supposedly tilized by some daimyô in the 16th Century, the gyorin was intended to make an army appear as if it are preparing to retreat-thereby tricking an enemy into attacking.</para></glossdef>
+</glossentry>    
+<glossentry id="Hachimaki">
+    <glossterm>Hachimaki </glossterm>
+    <glossdef><para>- Traditional white head cloth worn with armor and acting as a helmet pad or cushion.  </para></glossdef>
+</glossentry>    
+<glossentry id="Hagakure">
+    <glossterm>Hagakure </glossterm>
+    <glossdef><para>-Early 18th Century text complied by Tashiro Tsuramoto from the recollections and precepts of Yamamoto Tsunetomo. Considered one of the foremost works of samurai thought.</para></glossdef>
+</glossentry>    
+<glossentry id="Haiboku">
+    <glossterm>Haiboku </glossterm>
+    <glossdef><para>-Defeat.</para></glossdef>
+</glossentry>    
+<glossentry id="Haidate">
+    <glossterm>Haidate </glossterm>
+    <glossdef><para>-Thigh guard additions to suits of armor that became popular in the 16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Hakama">
+    <glossterm>Hakama </glossterm>
+    <glossdef><para>-Large, skirt-like pants worn over a kimono, typically worn by samurai-especially in the Edo Period.  A shorter version, a han- bakama, could be found among lower-class samurai and outside classes.</para></glossdef>
+</glossentry>    
+<glossentry id="Han">
+    <glossterm>Han </glossterm>
+    <glossdef><para>-A Daimyo’s domain in the Edo Period, a relatively modern term.</para></glossdef>
+</glossentry>    
+<glossentry id="Hanran">
+    <glossterm>Hanran </glossterm>
+    <glossdef><para>-Rebellion.</para></glossdef>
+</glossentry>    
+<glossentry id="Hanzei">
+    <glossterm>Hanzei  </glossterm>
+    <glossdef><para>-A tax or obligation that called for one half of the income of a particular holding to be rendered to the Daimyo.</para></glossdef>
+</glossentry>    
+<glossentry id="Hara">
+    <glossterm>- Hara </glossterm>
+    <glossdef><para>- Plain (example: Mikata ga Hara).</para></glossdef>
+</glossentry>    
+<glossentry id="Hara-ate">
+    <glossterm>Hara-ate </glossterm>
+    <glossdef><para>- Traditional armor type normally reserved for the lower classes that protected only the front of the torso. \</para></glossdef>
+</glossentry>    
+<glossentry id="Hara-kiri">
+    <glossterm>Hara-kiri </glossterm>
+    <glossdef><para>-‘Belly-slitting’; a term for SEPPUKU, considered somewhat vulgar and rarely used by samurai.</para></glossdef>
+</glossentry>    
+<glossentry id="Haramaki-do">
+    <glossterm>Haramaki-do </glossterm>
+    <glossdef><para>-Style of armor developed during the 14th Century that was more form fitting than previous armor types and was opened in the back.</para></glossdef>
+</glossentry>    
+<glossentry id="Hatamoto">
+    <glossterm>Hatamoto </glossterm>
+    <glossdef><para>-‘Bannerman"; retainers close to the Daimyo/Shogun and accorded certain privileges and special status.</para></glossdef>
+</glossentry>    
+<glossentry id="HeikeMonogatari">
+    <glossterm>Heike Monogatari </glossterm>
+    <glossdef><para>-‘The Tale of the Heike’; a ‘war tale’ relating the fall of the Heike clan composed around 1220.</para></glossdef>
+</glossentry>    
+<glossentry id="Hikan">
+    <glossterm>Hikan </glossterm>
+    <glossdef><para>-A retainer/attendant of lowly rank; a personal retainer of the Ashikaga shogun who filled an ostensibly low-ranking post.</para></glossdef>
+</glossentry>    
+<glossentry id="Hirajiro">
+    <glossterm>Hirajiro </glossterm>
+    <glossdef><para>-‘Castle on the plain’, ‘Plain castle’, a castle built on flat ground (as opposed to a YAMASHIRO).</para></glossdef>
+</glossentry>    
+<glossentry id="Hirayamajiro">
+    <glossterm>Hirayamajiro </glossterm>
+    <glossdef><para>-'Flatland Mountain Castle', a castle built on a rise surrounded by plains.</para></glossdef>
+</glossentry>    
+<glossentry id="Hoko">
+    <glossterm>Hoko </glossterm>
+    <glossdef><para>-Military service, especially after 1590.</para></glossdef>
+</glossentry>    
+<glossentry id="Hokucho">
+    <glossterm>Hokucho </glossterm>
+    <glossdef><para>-The Northern court.</para></glossdef>
+</glossentry>    
+<glossentry id="Honjin">
+    <glossterm>Honjin </glossterm>
+    <glossdef><para>-The headquarters of a daimyo or general on a campaign.</para></glossdef>
+</glossentry>    
+<glossentry id="Honjin-Hatamoto">
+    <glossterm>Honjin-Hatamoto </glossterm>
+    <glossdef><para>-A samurai responsible for the guard of a field headquarters; commander of a headquarters’ staff.</para></glossdef>
+</glossentry>    
+<glossentry id="Honjô">
+    <glossterm>Honjô </glossterm>
+    <glossdef><para>-A primary castle mutually supported by satellite castles (Shijo). </para></glossdef>
+</glossentry>    
+<glossentry id="Horagai">
+    <glossterm>Horagai </glossterm>
+    <glossdef><para>-Conch-shell used as a signaling device on the battlefield and for ceremonial purposes.</para></glossdef>
+</glossentry>    
+<glossentry id="Hori">
+    <glossterm>Hori </glossterm>
+    <glossdef><para>-Water-filled moat.</para></glossdef>
+</glossentry>    
+<glossentry id="Horo">
+    <glossterm>Horo </glossterm>
+    <glossdef><para>-Large, cape-like armor accessory worn mainly in the Heian Period whose exact purpose is unknown.</para></glossdef>
+</glossentry>    
+<glossentry id="Hoshi">
+    <glossterm>Hoshi </glossterm>
+    <glossdef><para>-Battle formation; 'arrowhead'.  A 16th Century formation, the 'hoshi' was intended for a charge-probably a standard formation.</para></glossdef>
+</glossentry>    
+<glossentry id="Hyakushô">
+    <glossterm>Hyakushô </glossterm>
+    <glossdef><para>-Farmer, villager, cultivator.</para></glossdef>
+</glossentry>    
+<glossentry id="Ichi">
+    <glossterm>Ichi </glossterm>
+    <glossdef><para>-Market, marketplace.</para></glossdef>
+</glossentry>    
+<glossentry id="Ie">
+    <glossterm>Ie </glossterm>
+    <glossdef><para>-A household; family.</para></glossdef>
+</glossentry>    
+<glossentry id="Ikki">
+    <glossterm>Ikki </glossterm>
+    <glossdef><para>-A league or alliance.  Also, a generic term for a rebellious or riotous peasant group, from the 15th Century into the Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Imayo">
+    <glossterm>Imayo </glossterm>
+    <glossdef><para>-Type of singing style popular in the late Heian Period.</para></glossdef>
+</glossentry>    
+<glossentry id="In">
+    <glossterm>In </glossterm>
+    <glossdef><para>-A retired emperor.</para></glossdef>
+</glossentry>    
+<glossentry id="Inka">
+    <glossterm>Inka </glossterm>
+    <glossdef><para>-Certificates awarded by a Zen master to a student that signified the holder had achieved some degree of enlightenment in Zen.</para></glossdef>
+</glossentry>    
+<glossentry id="Insei">
+    <glossterm>Insei </glossterm>
+    <glossdef><para>-Modern term describing a system whereby retired/abdicated emperors continued to rule from behind the scenes.  Once commonly translated as ‘government by cloistered emperors’, the term ‘cloistered’ is now considered misleading.</para></glossdef>
+</glossentry>    
+<glossentry id="Inuomono">
+    <glossterm>Inu o-mono </glossterm>
+    <glossdef><para>-Archery sport in which live dogs are chased and shot from horseback.</para></glossdef>
+</glossentry>    
+<glossentry id="Ishigaki">
+    <glossterm>Ishigaki </glossterm>
+    <glossdef><para>-Stone castle walls.</para></glossdef>
+</glossentry>    
+<glossentry id="Ishiku">
+    <glossterm>Ishiku </glossterm>
+    <glossdef><para>- Stone mason.</para></glossdef>
+</glossentry>    
+<glossentry id="Ji">
+    <glossterm>-Ji </glossterm>
+    <glossdef><para>-Affix indicating a temple (i.e. Enryakuji: Enryaku Temple).</para></glossdef>
+</glossentry>    
+<glossentry id="Jibushô">
+    <glossterm>Jibushô </glossterm>
+    <glossdef><para>- Ministry/Minister of Civil Affairs; court rank/office estalished as part of the Taiho Code (702) and later a ceremonial title.</para></glossdef>
+</glossentry>    
+<glossentry id="Jinai">
+    <glossterm>Jinai </glossterm>
+    <glossdef><para>-Temple complexes that included religious, militant, and economic dimensions; especially those associated with the Jodo Shinshu sect.</para></glossdef>
+</glossentry>    
+<glossentry id="Jinbaori">
+    <glossterm>Jinbaori </glossterm>
+    <glossdef><para>-Surcoat, or sleeveless jacket, worn over armor, often by important samurai, especially in the 16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Jingasa">
+    <glossterm>Jingasa </glossterm>
+    <glossdef><para>-Simple iron helmet used by foot soldiers in the 16th Century that doubled as a shallow pot for cooking rations in the field.</para></glossdef>
+</glossentry>    
+<glossentry id="Jito">
+    <glossterm>Jito </glossterm>
+    <glossdef><para>-A lower-level official charged with the collection of taxes and the enforcement of laws on an estate level.  The jito, created by the Kamakura Bakufu, answered to the SHUGO.</para></glossdef>
+</glossentry>    
+<glossentry id="Jizamurai">
+    <glossterm>Jizamurai </glossterm>
+    <glossdef><para>-‘Samurai of the land’, ‘samurai of the soil’-rural samurai who often lived close to the land and are not entirely removed from the peasantry.</para></glossdef>
+</glossentry>    
+<glossentry id="Jo">
+    <glossterm>-Jo </glossterm>
+    <glossdef><para>- Affix indicating a castle (i.e. Osaka-Jo, Chihaya-jo).</para></glossdef>
+</glossentry>    
+<glossentry id="Jodan">
+    <glossterm>Jodan </glossterm>
+    <glossdef><para>-Room with a raised floor-used by important figures.</para></glossdef>
+</glossentry>    
+<glossentry id="Jokamachi">
+    <glossterm>Jokamachi </glossterm>
+    <glossdef><para>-Castle town, especially one of the late16th-17th Century and beyond.</para></glossdef>
+</glossentry>    
+<glossentry id="Joro">
+    <glossterm>Joro </glossterm>
+    <glossdef><para>-Prostitute, especially those catering to the lower classes.</para></glossdef>
+</glossentry>    
+<glossentry id="Joshu">
+    <glossterm>Joshu </glossterm>
+    <glossdef><para>-A castellan; a castle keeper-a prestigious posting for the retainer of a Daimyo in the 16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Junshi">
+    <glossterm>Junshi </glossterm>
+    <glossdef><para>-The act of following one’s late lord in death through suicide.  Generally applied to peacetime incidents of such suicides, junshi was expressly outlawed in the Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Kaburaya">
+    <glossterm>Kaburaya </glossterm>
+    <glossdef><para>-"Turnip head’-bulbous arrow head that produced a distinctive noise in flight.</para></glossdef>
+</glossentry>    
+<glossentry id="Kabuki">
+    <glossterm>Kabuki </glossterm>
+    <glossdef><para>-Popular form of theater developed in the early Edo Period.  The Bakufu attempted on six occasions to ban Kabuki (which was considered vulgar) without success.  Kabuki did evolve over time, however - featured female players</para></glossdef>
+</glossentry>    
+<glossentry id="Kabuto">
+    <glossterm>Kabuto </glossterm>
+    <glossdef><para>-The traditional helmet of the samurai, often decorated with a sometimes-elaborate crest.  The most common sort of kabuto by the 16th Century was the so-called hachi-mai-bari, or ‘eight applied plates’.  This cheap, conservative design was a descendant of the often- ornate kabuto worn by earlier Heian and Kamakura samurai that are designed for using a bow and protecting against arrows.</para></glossdef>
+</glossentry>    
+<glossentry id="Kagemusha">
+    <glossterm>Kagemusha </glossterm>
+    <glossdef><para>-"Shadow warrior’; an individual who acted as the double for a daimyo when his appearance on the battlefield or elsewhere needed to be feigned.</para></glossdef>
+</glossentry>    
+<glossentry id="Kagura">
+    <glossterm>Kagura </glossterm>
+    <glossdef><para>-Ancient form of dance-drama that predates NO.</para></glossdef>
+</glossentry>    
+<glossentry id="Kaho">
+    <glossterm>Kaho </glossterm>
+    <glossdef><para>-Daimyo house law, the set of guidelines and/or rules by which the daimyo and his retainers operated.  </para></glossdef>
+</glossentry>    
+<glossentry id="Kaishaku">
+    <glossterm>Kaishaku </glossterm>
+    <glossdef><para>-A ‘second’; an assistant to the act of suicide, whose job it was to behead the samurai committing suicide after he had cut his belly, so as to minimize the suffering he would have to endure.</para></glossdef>
+</glossentry>    
+<glossentry id="Kakuyoku">
+    <glossterm>Kakuyoku </glossterm>
+    <glossdef><para>-Battle formation; 'crane's wing'.  Used by certain daimyô in the 16th Century (notably Takeda Shingen at Kawanakajima in 1561), the kakuyoku was supposedly intended to envelop a retreating or surprised enemy.</para></glossdef>
+</glossentry>    
+<glossentry id="Kamikaze">
+    <glossterm>Kamikaze </glossterm>
+    <glossdef><para>-‘Divine Wind’, term given to a typhoon that destroyed the Rhelanian Invasion fleet in 1281 </para></glossdef>
+</glossentry>    
+<glossentry id="Kamishimo">
+    <glossterm>Kamishimo </glossterm>
+    <glossdef><para>-Formal samurai attire consisting of a KIMONO, HAKAMA, and KATAGINU</para></glossdef>
+</glossentry>    
+<glossentry id="Kamon">
+    <glossterm>Kamon </glossterm>
+    <glossdef><para>-See Mon.</para></glossdef>
+</glossentry>    
+<glossentry id="Kan">
+    <glossterm>Kan </glossterm>
+    <glossdef><para>-Unit of cash-equivalent to 1000 MON.</para></glossdef>
+</glossentry>    
+<glossentry id="Kana">
+    <glossterm>Kana </glossterm>
+    <glossdef><para>-Phonetic syllabary popular in and after the Heian Period, though generally reserved for the common people and women.  Edicts and codes commoners are expected to understand are often written in kanna, as are popular books and the like.</para></glossdef>
+</glossentry>    
+<glossentry id="Kanadaka">
+    <glossterm>Kanadaka </glossterm>
+    <glossdef><para>-The value of a holding expressed in a cash sum.</para></glossdef>
+</glossentry>    
+<glossentry id="Kanjo">
+    <glossterm>Kanjo </glossterm>
+    <glossdef><para>-A letter of commendation, often issued by a daimyo to a valued retainer, especially one who had preformed some meritorious deed or service.</para></glossdef>
+</glossentry>    
+<glossentry id="Kanpaku">
+    <glossterm>Kanpaku </glossterm>
+    <glossdef><para>-Imperial Regent; </para></glossdef>
+</glossentry>    
+<glossentry id="Kanshi">
+    <glossterm>Kanshi </glossterm>
+    <glossdef><para>-The act of committing suicide in remonstration to a lord or in protest; commiting suicide to get a point across.</para></glossdef>
+</glossentry>    
+<glossentry id="Karo">
+    <glossterm>Karo </glossterm>
+    <glossdef><para>-Clan elders; those trusted retainers of a daimyo whose service is long and loyal.</para></glossdef>
+</glossentry>    
+<glossentry id="Kashin">
+    <glossterm>Kashin </glossterm>
+    <glossdef><para>-Retainer.</para></glossdef>
+</glossentry>    
+<glossentry id="Kashindan">
+    <glossterm>Kashindan </glossterm>
+    <glossdef><para>-A daimyo’s retainer band.</para></glossdef>
+</glossentry>    
+<glossentry id="Kataginu">
+    <glossterm>Kataginu </glossterm>
+    <glossdef><para>-Stiff-shouldered sleeveless jacket worn by samurai over a kimono along with HAKAMA in formal circumstances, especially in the Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Katana">
+    <glossterm>Katana </glossterm>
+    <glossdef><para>-Traditional long sword of the samurai constructed through the folding and refolding of a bar of hot metal thousands of times. Reknowned for its toughness and cutting ability, the katana-or tachi-replaced the bow as the primary weapon of the samurai during the later Kamakura period, although it was often secondary to a short spear (YARI) in battle.</para></glossdef>
+</glossentry>    
+<glossentry id="Katanakaji">
+    <glossterm>Katanakaji </glossterm>
+    <glossdef><para>-Swordsmith.</para></glossdef>
+</glossentry>    
+<glossentry id="Kawa">
+    <glossterm>- Kawa </glossterm>
+    <glossdef><para>- River (also, gawa).</para></glossdef>
+</glossentry>    
+<glossentry id="Kebiki-odoshi">
+    <glossterm>Kebiki-odoshi </glossterm>
+    <glossdef><para>-Type of close lacing used to construct armor.</para></glossdef>
+</glossentry>    
+<glossentry id="Kegutsu">
+    <glossterm>Kegutsu </glossterm>
+    <glossdef><para>-Boots made with fur (often from bears) popular among ranking samurai in the Heian Period but rare by the 16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Keiseimachi">
+    <glossterm>Keiseimachi </glossterm>
+    <glossdef><para>- 'Courtesan district'; literally meaning 'district of destroyers of cities'; otherwise known as 'pleasure districts', these areas are grudgingly allowed by the Tokugawa bakufu during the Edo Period and catered to all classes. </para></glossdef>
+</glossentry>    
+<glossentry id="Ken">
+    <glossterm>Ken </glossterm>
+    <glossdef><para>-A unit of distance equal to 1.818 meters or 6 SHAKU.</para></glossdef>
+</glossentry>    
+<glossentry id="Kenchi">
+    <glossterm>Kenchi </glossterm>
+    <glossdef><para>-Cadastral study, land surveys conducted by many daimyo in the 16th Century to maximize the lands registered for taxation. Toyotomi Hideyoshi organized the greatest of the land surveys between 1587-1597.  Land surveys are patently unpopular with the peasantry and local samurai, sometimes prompting riots and resistance.</para></glossdef>
+</glossentry>    
+<glossentry id="Kenjutsu">
+    <glossterm>Kenjutsu </glossterm>
+    <glossdef><para>-The study and practice of swordsmanship.</para></glossdef>
+</glossentry>    
+<glossentry id="Keppan">
+    <glossterm>Keppan </glossterm>
+    <glossdef><para>-'Blood seal', the act of cutting the fourth finger on one's left hand with a knife and smearing the resultant blood on an oath, below the signer's signature or monogram</para></glossdef>
+</glossentry>    
+<glossentry id="Kerai">
+    <glossterm>Kerai </glossterm>
+    <glossdef><para>-Female Attendant Retainer.</para></glossdef>
+</glossentry>    
+<glossentry id="Kesa">
+    <glossterm>Kesa </glossterm>
+    <glossdef><para>-A monk's ritual shawl or cloak, sometimes worn over armor by samurai who are also Buddhist monks.</para></glossdef>
+</glossentry>    
+<glossentry id="Kimono">
+    <glossterm>Kimono </glossterm>
+    <glossdef><para>-Standard every-day wear throughout Japanese history, designed in part to keep its wearer cool during the summertime.  Kimonos are made from cotton, hemp, or silk, depending on the station of the wearer, and changed styles frequently over the centuries.  Formal kimono-as a court noble or important samurai might wear-was made of fine silk and was bilious, with especially long sleeves and reaching to the floor.  Peasants and foot soldiers often wore half-kimonos-which allowed easy movement and-perhaps more importantly-are cheap.</para></glossdef>
+</glossentry>    
+<glossentry id="Kinsei">
+    <glossterm>Kinsei </glossterm>
+    <glossdef><para>-Scholarly term describing the"Early Modern' period in Japanese history; the time between the Momoyama and Meiji Periods.</para></glossdef>
+</glossentry>    
+<glossentry id="Kirisutogomen">
+    <glossterm>Kirisutogomen </glossterm>
+    <glossdef><para>-The right of a samurai to slay disrespectful members of the lower classes in the Edo Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Kiseru">
+    <glossterm>Kiseru </glossterm>
+    <glossdef><para>-Long handled wooden pipe popular among samurai in the late 16th Century after the introduction of tobacco to Japan.</para></glossdef>
+</glossentry>    
+<glossentry id="Kô">
+    <glossterm>Kô </glossterm>
+    <glossdef><para>-Filial piety, especially to one's lord.</para></glossdef>
+</glossentry>    
+<glossentry id="Kobaya">
+    <glossterm>Kobaya </glossterm>
+    <glossdef><para>-Small, open roof ship found in medieval navies, manned by 20 oarsmen.</para></glossdef>
+</glossentry>    
+<glossentry id="Kodokan">
+    <glossterm>Kodokan </glossterm>
+    <glossdef><para>- Samurai school established by the Mito Tokugawa house that became well-known and controversial.</para></glossdef>
+</glossentry>    
+<glossentry id="Kôgeki">
+    <glossterm>Kôgeki </glossterm>
+    <glossdef><para>-Attack, offensive strike.</para></glossdef>
+</glossentry>    
+<glossentry id="Kôkei">
+    <glossterm>Kôkei </glossterm>
+    <glossdef><para>-A succesor.</para></glossdef>
+</glossentry>    
+<glossentry id="Kokka">
+    <glossterm>Kokka </glossterm>
+    <glossdef><para>-A daimyo’s realm, his direct sphere of influence-the land a daimyo ruled.</para></glossdef>
+</glossentry>    
+<glossentry id="Koku">
+    <glossterm>Koku </glossterm>
+    <glossdef><para>-A unit of rice (44.8 gallons/180 liters) that was used to measure an individual’s wealth and a place’s theoretical productivity.  In the 16th Century, a simple samurai might be awarded a stipend of 100 koku a year, while in the Edo Period an income of 10,000 koku was considered Daimyo status.  One koku was held to be enough rice to feed one man for a year.</para></glossdef>
+</glossentry>    
+<glossentry id="Kokudaka">
+    <glossterm>Kokudaka </glossterm>
+    <glossdef><para>-The value of a holding expressed in koku of rice.</para></glossdef>
+</glossentry>    
+<glossentry id="Kokujin">
+    <glossterm>Kokujin </glossterm>
+    <glossdef><para>-"Man of the province","provincial"; term used to describe locally powerful samurai families during the Muromachi Period.  As they are often not far removed from the peasantry in terms of priorities and concerns, kokujin are very much like jizamurai-if not the same, for all intents and purposes.</para></glossdef>
+</glossentry>    
+<glossentry id="Konidatai">
+    <glossterm>Konidatai </glossterm>
+    <glossdef><para>-The baggage/supply train for an army in the field.</para></glossdef>
+</glossentry>    
+<glossentry id="Kori">
+    <glossterm>Kori </glossterm>
+    <glossdef><para>-District, a subsection of a KUNI (province).</para></glossdef>
+</glossentry>    
+<glossentry id="Koto">
+    <glossterm>Koto </glossterm>
+    <glossdef><para>-13-stringed board zither popular from the early Heian Period onward, especially in the Court.</para></glossdef>
+</glossentry>    
+<glossentry id="KoyoGunkan">
+    <glossterm>Koyo Gunkan </glossterm>
+    <glossdef><para>-History of the Takeda clan in the Sengoku Period possibly complied in part by Kosaka Masanobu sometime before 1578 but more recently attributed to Obata Kagenori; one of the first texts to mention the term BUSHIDO.</para></glossdef>
+</glossentry>    
+<glossentry id="Kubibukuro">
+    <glossterm>Kubi bukuro </glossterm>
+    <glossdef><para>-'Head bag'; a netted bag used to carry the heads of defeated enemies.</para></glossdef>
+</glossentry>    
+<glossentry id="Kuge">
+    <glossterm>Kuge </glossterm>
+    <glossdef><para>-Court noble(s).</para></glossdef>
+</glossentry>    
+<glossentry id="Kugyo">
+    <glossterm>Kugyo </glossterm>
+    <glossdef><para>-Highly placed court nobles.</para></glossdef>
+</glossentry>    
+<glossentry id="Kuji">
+    <glossterm>Kuji </glossterm>
+    <glossdef><para>-Dues levied in corvee labor, a requirement to send men for provincial work.</para></glossdef>
+</glossentry>    
+<glossentry id="Kuni">
+    <glossterm>Kuni </glossterm>
+    <glossdef><para>-Province.</para></glossdef>
+</glossentry>    
+<glossentry id="Kuruwa">
+    <glossterm>Kuruwa </glossterm>
+    <glossdef><para>-Term for a castle compound.</para></glossdef>
+</glossentry>    
+<glossentry id="Machi">
+    <glossterm>Machi </glossterm>
+    <glossdef><para>-Communities within a city; a large town; a division (block) of a city.</para></glossdef>
+</glossentry>    
+<glossentry id="Machi-bugyo">
+    <glossterm>Machi-bugyo </glossterm>
+    <glossdef><para>-Edo Period town or city magistrates that handled many civil tasks for their daimyo, especially when he was away serving in Edo.  Edo itself counted two machi-bugyo.</para></glossdef>
+</glossentry>    
+<glossentry id="Makimono">
+    <glossterm>Makimono </glossterm>
+    <glossdef><para>-A scroll.</para></glossdef>
+</glossentry>    
+<glossentry id="Makoto">
+    <glossterm>Makoto </glossterm>
+    <glossdef><para>-Sincerity, pureness of intention.</para></glossdef>
+</glossentry>    
+<glossentry id="Maku">
+    <glossterm>Maku </glossterm>
+    <glossdef><para>-Camp curtains enclosing a leader’s headquarters while on campaign or on an outdoor excursion.  Maku are essentially silk walls and are not ‘roofed’.  Also known as jinmaku and tobari.</para></glossdef>
+</glossentry>    
+<glossentry id="Mandokoro">
+    <glossterm>Mandokoro </glossterm>
+    <glossdef><para>-The chief governing body of an important family or monastic complex; </para></glossdef>
+</glossentry>    
+<glossentry id="Mempo">
+    <glossterm>Mempo </glossterm>
+    <glossdef><para>-Face mask or plate worn with armor</para></glossdef>
+</glossentry>    
+<glossentry id="Metsuke">
+    <glossterm>Metsuke </glossterm>
+    <glossdef><para>-Lesser officials who in the Edo Period appear to have handled under-cover police work and acted as spies for the Tokugawa government.</para></glossdef>
+</glossentry>    
+<glossentry id="Michiyuki">
+    <glossterm>Michiyuki </glossterm>
+    <glossdef><para>-A depiction of a journey and the emotions that accompany it in a song, poem, or book.</para></glossdef>
+</glossentry>    
+<glossentry id="Minka">
+    <glossterm>Minka </glossterm>
+    <glossdef><para>- 'House/houses of the people', a broad term for a variety of residential housing.</para></glossdef>
+</glossentry>    
+<glossentry id="Minatomachi">
+    <glossterm>Minatomachi </glossterm>
+    <glossdef><para>- Port town.</para></glossdef>
+</glossentry>    
+<glossentry id="Minbushô">
+    <glossterm>Minbushô </glossterm>
+    <glossdef><para>- Ministry/Minister of Popular Affairs; </para></glossdef>
+</glossentry>    
+<glossentry id="Mon">
+    <glossterm>Mon </glossterm>
+    <glossdef><para>-Family crest, often displayed on flags, formal clothing, and armor - especially after the 15th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Monogatari">
+    <glossterm>Monogatari </glossterm>
+    <glossdef><para>-‘The Tale of…’, ‘The Story of…’ when affixed to a title (i.e. Heike Monogatari).  Also used to describe Japanese fictional prose between the 9th and 16th Centuries in general.</para></glossdef>
+</glossentry>    
+<glossentry id="Motodori">
+    <glossterm>Motodori </glossterm>
+    <glossdef><para>-Topknot.</para></glossdef>
+</glossentry>    
+<glossentry id="Mujodaimyô">
+    <glossterm>Mujo daimyô </glossterm>
+    <glossdef><para>-Edo period daimyo who held an income of 10,000-20,000 koku but no castle.</para></glossdef>
+</glossentry>    
+<glossentry id="Mura">
+    <glossterm>Mura </glossterm>
+    <glossdef><para>-Village.</para></glossdef>
+</glossentry>    
+<glossentry id="Myo">
+    <glossterm>Myo </glossterm>
+    <glossdef><para>-A land holding registered to a cultivator family that taxation and service came to be based upon in the Shoen system.</para></glossdef>
+</glossentry>    
+<glossentry id="Myoden">
+    <glossterm>Myoden </glossterm>
+    <glossdef><para>-The rice fields contained within a given MYO.</para></glossdef>
+</glossentry>    
+<glossentry id="Myoshu">
+    <glossterm>Myoshu </glossterm>
+    <glossdef><para>-Rights holders to a MYO; a patriarchal family of cultivators that managed a MYO and paid taxes on it to their governor.</para></glossdef>
+</glossentry>    
+<glossentry id="Naginata">
+    <glossterm>Naginata </glossterm>
+    <glossdef><para>-A mid-sized pole-arm topped with a curving blade popular in the Heian Period.  Originally the weapon of a foot soldier, the naginata came to be known as the favored weapon of the warrior monks (SOHEI) and women.  The naginata was not otherwise in general use by the 16th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Namban">
+    <glossterm>Namban </glossterm>
+    <glossdef><para>-‘Southern Barbarians’, term applied to Westerners, especially in the 16th century-presumably in reference to the fact that most arriving Spanish, Dutch, and Portuguese ships came from ports south of China.</para></glossdef>
+</glossentry>    
+<glossentry id="Nanushi">
+    <glossterm>Nanushi </glossterm>
+    <glossdef><para>-A term sometimes applied to village elders.</para></glossdef>
+</glossentry>    
+<glossentry id="Nawabari">
+    <glossterm>Nawabari </glossterm>
+    <glossdef><para>-The planning of a castle’s defensive lay-out-in particular the placement of the outer walls.</para></glossdef>
+</glossentry>    
+<glossentry id="Nengo">
+    <glossterm>Nengo </glossterm>
+    <glossdef><para>-Year Period or reign name - dating practiced borrowed from the Rhelanian</para></glossdef>
+</glossentry>    
+<glossentry id="Nengu">
+    <glossterm>Nengu </glossterm>
+    <glossdef><para>-An annual land tax or rent.</para></glossdef>
+</glossentry>    
+<glossentry id="Nidome">
+    <glossterm>Nidome </glossterm>
+    <glossdef><para>-A policy whereby daimyo would refuse to allow certain commodities to cross their borders; essentially a form of economic warfare.</para></glossdef>
+</glossentry>    
+<glossentry id="No">
+    <glossterm>No </glossterm>
+    <glossdef><para>-Traditional form of theater popular among the court and samurai that makes use of dance, costumes, music, and a chorus to portray an often-complex tale.</para></glossdef>
+</glossentry>    
+<glossentry id="No-bori">
+    <glossterm>No-bori </glossterm>
+    <glossdef><para>-Long, vertical flag popular in Japan after the 15th Century; carried by the retainers of a daimyo in battle (and the daimyo himself) and displaying individual family crests, patterns, or written characters.</para></glossdef>
+</glossentry>    
+<glossentry id="No-dachi">
+    <glossterm>No-dachi </glossterm>
+    <glossdef><para>-‘Field Sword’; an extremely large two-handed sword </para></glossdef>
+</glossentry>    
+<glossentry id="NoKami">
+    <glossterm>- No Kami </glossterm>
+    <glossdef><para>-‘Lord of…’; originally given to the lord of a certain place, by the 16th Century –no Kami was largely honorific, being dispensed frequently by all daimyô and regardless of whoever else might happen to be ‘lord’ of the province ‘awarded’.  The term 'no kami' was literally translated 'Spirit of', and also applied to Shinto deities (Amaterasu no kami, for instance).</para></glossdef>
+</glossentry>    
+<glossentry id="Nôson">
+    <glossterm>Nôson </glossterm>
+    <glossdef><para>- Farming village.</para></glossdef>
+</glossentry>    
+<glossentry id="NoSuke">
+    <glossterm>- No Suke</glossterm>
+    <glossdef><para>'Deputy Lord of...'; another honorific title </para></glossdef>
+</glossentry>    
+<glossentry id="Nushi">
+    <glossterm>Nushi </glossterm>
+    <glossdef><para>- Lacquerers</para></glossdef>
+</glossentry>    
+<glossentry id="Okegawa-do">
+    <glossterm>Okegawa-do </glossterm>
+    <glossdef><para>-A relatively simple suit of armor extremely common in the 16th Century, constructed by riveting together strips of metal. Probably introduced sometime around 1555, the Okegawa-do could be produced cheaply, easily maintained, and was well suited to Sengoku warfare.  Like most armor of the period, Okegawa-do was tapered to allow the wearer’s waist to support the armor’s weight.</para></glossdef>
+</glossentry>    
+<glossentry id="Ôkurashô">
+    <glossterm>Ôkurashô </glossterm>
+    <glossdef><para>- National Treasury; court rank/office estalished as part of the Taiho Code </para></glossdef>
+</glossentry>    
+<glossentry id="Ometsuke">
+    <glossterm>Ometsuke </glossterm>
+    <glossdef><para>-Inspector general in the Tokugawa Shogunate.</para></glossdef>
+</glossentry>    
+<glossentry id="Onchi">
+    <glossterm>Onchi </glossterm>
+    <glossdef><para>-A reward of land given by a daimyo to a retainer for exceptional service.</para></glossdef>
+</glossentry>    
+<glossentry id="Oni">
+    <glossterm>Oni </glossterm>
+    <glossdef><para>-An Ogre, or particularly violent and brutal person.</para></glossdef>
+</glossentry>    
+<glossentry id="Onmyoshi">
+    <glossterm>Onmyoshi </glossterm>
+    <glossdef><para>-Astrologer.</para></glossdef>
+</glossentry>    
+<glossentry id="Oshiro">
+    <glossterm>Oshiro </glossterm>
+    <glossdef><para>-A castle.</para></glossdef>
+</glossentry>    
+<glossentry id="Otemon">
+    <glossterm>Otemon </glossterm>
+    <glossdef><para>-A castle’s main gate.</para></glossdef>
+</glossentry>    
+<glossentry id="O-Yoroi">
+    <glossterm>O-Yoroi </glossterm>
+    <glossdef><para>-Elaborate suit of armor in general use during the Heian Period and among important figures into the Sengoku Period.  Often constructed with many thousands of strips of laminated bamboo, the O-Yoroi was expensive and box-like, intended for use by samurai on horseback.  It was impractical for fighting on foot and therefore fell out of favor as the samurai went from bowman to spear- and swordsman. Daimyo continued to wear variants of the traditional O-Yoroi, however, up until the 19th Century.</para></glossdef>
+</glossentry>    
+<glossentry id="Rappa">
+    <glossterm>Rappa </glossterm>
+    <glossdef><para>-Term used, especially among the Go-Hojo, for irregular troops otherwise described as NINJA.</para></glossdef>
+</glossentry>    
+<glossentry id="Ransen">
+    <glossterm>Ransen </glossterm>
+    <glossdef><para>-a confused, wild battle (lit., chaos battle).</para></glossdef>
+</glossentry>    
+<glossentry id="Renga">
+    <glossterm>Renga </glossterm>
+    <glossdef><para>-Linked verse poetry, often composed of 31 syllables in two parts.</para></glossdef>
+</glossentry>    
+<glossentry id="Ri">
+    <glossterm>Ri </glossterm>
+    <glossdef><para>-A unit of linear measure equal to 2.445 miles.</para></glossdef>
+</glossentry>    
+<glossentry id="Rinji">
+    <glossterm>Rinji </glossterm>
+    <glossdef><para>-An emperor’s personal edict.</para></glossdef>
+</glossentry>    
+<glossentry id="Ronin">
+    <glossterm>Ronin </glossterm>
+    <glossdef><para>-‘Wave Man’; a masterless samurai.  Many samurai are made ronin by the vicissitudes of the sengoku Period, and so formed the basis for many bandit groups and outlaw bands that plagued the countryside into the Edo Period.  Though not employed by a daimyo, a ronin was still entitled to wear his swords.</para></glossdef>
+</glossentry>    
+<glossentry id="Roto">
+    <glossterm>Roto </glossterm>
+    <glossdef><para>-Generic term applied to both civil and military servants.</para></glossdef>
+</glossentry>    
+<glossentry id="Ryo">
+    <glossterm>Ryo </glossterm>
+    <glossdef><para>-Unit of gold currency.</para></glossdef>
+</glossentry>    
+<glossentry id="Ryogoku">
+    <glossterm>Ryogoku </glossterm>
+    <glossdef><para>-"Dominal Province"; a Daimyo’s territory.</para></glossdef>
+</glossentry>    
+<glossentry id="Saihai">
+    <glossterm>Saihai </glossterm>
+    <glossdef><para>-Baton carried by leaders to aid in the direction of troops; worn at the waist when not in use.</para></glossdef>
+</glossentry>    
+<glossentry id="Sakayaki">
+    <glossterm>Sakayaki </glossterm>
+    <glossdef><para>-Describes the portion of the head shaved by many samurai.</para></glossdef>
+</glossentry>    
+<glossentry id="Sakê">
+    <glossterm>Sakê </glossterm>
+    <glossdef><para>- Rice wine.  Sakê was traditionally produced in the winter months by brewers and created through a process of the breakdown of rice grains by a fungus and fermentation.</para></glossdef>
+</glossentry>    
+<glossentry id="Samisen">
+    <glossterm>Samisen </glossterm>
+    <glossdef><para>-Three-stringed lute introduced from China and popular from the late-16th Century on.  Best-known as a woman’s instrument.</para></glossdef>
+</glossentry>    
+<glossentry id="Samurai">
+    <glossterm>Samurai </glossterm>
+    <glossdef><para>-"One who serves"; the traditional warrior class of Japan until 1876.  While of obscure origins, the samurai emerged as a powerful force by the 10th Century and after 1192 acted as the de facto rulers of Japan.  Until the 1590’s, the status of samurai was somewhat fluid, and within the grasp of those born in the lesser classes-especially in times of war.  In the 16th century, many samurai worked alongside the peasantry until they are called to service.  After Toyotomi Hideyoshi’s clampdown on social mobility, all men who carried arms are considered samurai (or varying ranks) and made to live in the castle town of their daimyo.  With no more battles to fight, the Edo samurai refined their ways of thinking and in many ways shaped the romantic way in which samurai history is now perceived.</para></glossdef>
+</glossentry>    
+<glossentry id="Sanshunojingi">
+    <glossterm>Sanshu no jingi </glossterm>
+    <glossdef><para>-The Imperial Regelia, The Three Treasures: The Mirror, Sword, and Bead Strand whose ownership was necessary for a legal imperial succession.</para></glossdef>
+</glossentry>    
+<glossentry id="Sarugaku">
+    <glossterm>Sarugaku </glossterm>
+    <glossdef><para>-‘Monkey music’, a term that theater was commonly known by in the early 15th Century.  The phrase Sarugaku no no meant, roughly, ‘theater of the best kind’ and provided the better known title of NO.</para></glossdef>
+</glossentry>    
+<glossentry id="Sashimono">
+    <glossterm>Sashimono </glossterm>
+    <glossdef><para>-Small banner affixed to the back of a suit of armor, for battlefield recognition purposes</para></glossdef>
+</glossentry>    
+<glossentry id="Satori">
+    <glossterm>Satori </glossterm>
+    <glossdef><para>- a sudden enlightenment.</para></glossdef>
+</glossentry>    
+<glossentry id="Seiryakukekkon">
+    <glossterm>Seiryaku kekkon </glossterm>
+    <glossdef><para>-Political marriage.</para></glossdef>
+</glossentry>    
+<glossentry id="Seki-bune">
+    <glossterm>Seki-bune </glossterm>
+    <glossdef><para>-Medium-sized ship operated by a 40-man crew.</para></glossdef>
+</glossentry>    
+<glossentry id="Sekisho">
+    <glossterm>Sekisho </glossterm>
+    <glossdef><para>-Toll barriers.  One of the ways sengoku daimyo gathered income. Tollbooths are particularly unpopular. </para></glossdef>
+</glossentry>    
+<glossentry id="Sendai-do">
+    <glossterm>Sendai-do </glossterm>
+    <glossdef><para>-Style of 16th century armor otherwise known as Yukinoshita-do made famous by its extensive use in the army of Date Masamune (of Sendai, Mutsu).  Also known as kanto-do and oshu-do.  This style of armor was notable for its ease of construction and the ability to customize its appearance based on the rank of the owner.</para></glossdef>
+</glossentry>    
+<glossentry id="SengokuPeriod">
+    <glossterm>Sengoku Period </glossterm>
+    <glossdef><para>-Sengoku Jidai, ‘The Country at War’.  1477-1600.  The term Sengoku jidai is taken from a roughly comparable episode in Chinese history.</para></glossdef>
+</glossentry>    
+<glossentry id="Seppuku">
+    <glossterm>Seppuku </glossterm>
+    <glossdef><para>-Ritual suicide: the act of killing one's self by slitting open his belly.  Possibly first carried out by Minamoto Yorimasa in 1180, seppuku came to be the 'official' manner of suicide for a samurai, and was prohibited for all other classes.  In time, seppuku came to take on religious connotations, but in essence the exceedingly painful manner of dying it brought was a mark of grime pride to the samurai-a final test of his bravery.  By the 16th Century a 'second' (or KAISHAKU) had been added to the ritual, to limit the amount of suffering the samurai who was to die would experience.  When a female member of a samurai house committed seppuku, she almost always did so by slitting her own throat.</para></glossdef>
+</glossentry>    
+<glossentry id="Shaku">
+    <glossterm>Shaku </glossterm>
+    <glossdef><para>-A unit of linear measure equal to 0.995 feet, or 10 SUN.</para></glossdef>
+</glossentry>    
+<glossentry id="Shijô">
+    <glossterm>Shijô </glossterm>
+    <glossdef><para>- Satellite castle or fort that acts as part of a defensive system anchored by a primary castle (Honjô).  The average shijo was a simple stockade constructed from wood and making use of earthen walls, and often fully garrisoned only in emergencies.</para></glossdef>
+</glossentry>    
+<glossentry id="Shiden">
+    <glossterm>Shiden </glossterm>
+    <glossdef><para>-'Hall for sleeping'; the central structure in residencial complexes that gave its name to the overall style of such establishments: shiden zukuri.</para></glossdef>
+</glossentry>    
+<glossentry id="Shikken">
+    <glossterm>Shikken </glossterm>
+    <glossdef><para>-Regency</para></glossdef>
+</glossentry>    
+<glossentry id="Shikki">
+    <glossterm>Shikki </glossterm>
+    <glossdef><para>-Under the Shoen system, rights to a particular holding that entitles the owner a fixed percentage of the annual crop.</para></glossdef>
+</glossentry>    
+<glossentry id="Shikibushô">
+    <glossterm>Shikibushô </glossterm>
+    <glossdef><para>- Ministry/Minister of Ceremonies</para></glossdef>
+</glossentry>    
+<glossentry id="Shikoro">
+    <glossterm>Shikoro </glossterm>
+    <glossdef><para>-Neck guard that hands from the bowl of a samurai’s KABUTO.</para></glossdef>
+</glossentry>    
+<glossentry id="Shingon">
+    <glossterm>Shingon </glossterm>
+    <glossdef><para>-‘True Word’: Buddhist sect founded by Kukai in the early 9th Century.  Shingon is sometimes described as ‘esoteric Buddhism’ due to the stress it placed on mysticism and ritual.</para></glossdef>
+</glossentry>    
+<glossentry id="Shintô">
+    <glossterm>Shintô </glossterm>
+    <glossdef><para>-Japan’s indigenous religion, based in part on the worship of spirits.</para></glossdef>
+</glossentry>    
+<glossentry id="Shite">
+    <glossterm>Shite </glossterm>
+    <glossdef><para>-Actor, especially in NO.</para></glossdef>
+</glossentry>    
+<glossentry id="Shizoku">
+    <glossterm>Shizoku </glossterm>
+    <glossdef><para>-Term used after 1869 to refer to former samurai.</para></glossdef>
+</glossentry>    
+<glossentry id="Shoen">
+    <glossterm>Shoen </glossterm>
+    <glossdef><para>-Private estate exempted from central government control and often subject to a multi-layered proprietorship.  </para></glossdef>
+</glossentry>    
+<glossentry id="Shoji">
+    <glossterm>Shoji </glossterm>
+    <glossdef><para>-Japanese chess.</para></glossdef>
+</glossentry>    
+<glossentry id="ShokuNihongi">
+    <glossterm>Shoku Nihongi </glossterm>
+    <glossdef><para>- The second of Japan's national histories.</para></glossdef>
+</glossentry>    
+<glossentry id="Shokunin">
+    <glossterm>Shokunin </glossterm>
+    <glossdef><para>- Craftsman, one who worked with their hands.</para></glossdef>
+</glossentry>    
+<glossentry id="Shosen">
+    <glossterm>Shosen </glossterm>
+    <glossdef><para>-The first attack in a battle or war.</para></glossdef>
+</glossentry>    
+<glossentry id="Shu">
+    <glossterm>-Shu </glossterm>
+    <glossdef><para>-An affix meaning ‘unit’, or ‘formation’-as in teppo-shu (rifle unit) or Kuni-shu (Provincial unit).</para></glossdef>
+</glossentry>    
+<glossentry id="Shugo">
+    <glossterm>Shugo </glossterm>
+    <glossdef><para>-Provincial governors assigned by the Minamoto Shogunate in the 1190s and an important part of Bakufu control until the Onin War (1467-77).  Many of the older shugo families are weakened in the Onin fighting, and then over-thrown or destroyed in the Sengoku Period. During the Kamakura Period, the shugo are largely responsible for upholding the will of the Bakufu, defeating rebels, and overseeing the activities of provincial JITO.  Shugo could be roughly translated as ‘Protector’, and in the Muromachi Period a given shugo might control a number of far-flung provinces.  The term shugo can be found in records as late as the 1560 in certain provinces (such as Satsuma).</para></glossdef>
+</glossentry>    
+<glossentry id="Shukubamachi">
+    <glossterm>Shukubamachi </glossterm>
+    <glossdef><para>- Post town, a village or town that catered to traffic along one of Japan's primary road circuits.</para></glossdef>
+</glossentry>    
+<glossentry id="Shukuro">
+    <glossterm>Shukuro </glossterm>
+    <glossdef><para>-Universal Bakufu term for ‘elders’.</para></glossdef>
+</glossentry>    
+<glossentry id="Sohei">
+    <glossterm>Sohei </glossterm>
+    <glossdef><para>-Warrior monks; relatively modern term describing the armed warriors that acted as military muscle for major religious establishments</para></glossdef>
+</glossentry>    
+<glossentry id="Sokotsu-shi">
+    <glossterm>Sokotsu-shi </glossterm>
+    <glossdef><para>-The act of committing suicide to make up for an offense or failure to one’s lord.</para></glossdef>
+</glossentry>    
+<glossentry id="Sugoroku">
+    <glossterm>Sugoroku </glossterm>
+    <glossdef><para>-Backgammon, popular in medieval Japan.</para></glossdef>
+</glossentry>    
+<glossentry id="Sukiya">
+    <glossterm>Sukiya </glossterm>
+    <glossdef><para>- 'Abode of refinement', a style of architecture that stessed understatement and irregularity.</para></glossdef>
+</glossentry>    
+<glossentry id="Sumo">
+    <glossterm>Sumo </glossterm>
+    <glossdef><para>-Traditional form of wrestling that was once part of religious festivals</para></glossdef>
+</glossentry>    
+<glossentry id="Sun">
+    <glossterm>Sun </glossterm>
+    <glossdef><para>-A unit of linear measure equal to 1.193 inches.</para></glossdef>
+</glossentry>    
+<glossentry id="Tachi">
+    <glossterm>Tachi </glossterm>
+    <glossdef><para>-Term for sword, specifically the long sword carried by the samurai; KATANA.</para></glossdef>
+</glossentry>    
+<glossentry id="Tabi">
+    <glossterm>Tabi </glossterm>
+    <glossdef><para>-Short socks, designed with a split toe so as to be worn with sandals.</para></glossdef>
+</glossentry>    
+<glossentry id="Taiheki">
+    <glossterm>Taiheki </glossterm>
+    <glossdef><para>-Chronicle of the Nambuchuko Period compiled by the monk Kojima and others around 1370-1372.</para></glossdef>
+</glossentry>    
+<glossentry id="TaihoCode">
+    <glossterm>Taihô Code </glossterm>
+    <glossdef><para>-'Great Treasure', a sweeping law code.</para></glossdef>
+</glossentry>    
+<glossentry id="Taiko">
+    <glossterm>Taiko </glossterm>
+    <glossdef><para>- Retired Imperial Regent</para></glossdef>
+</glossentry>    
+<glossentry id="Taikokenchi">
+    <glossterm>Taiko kenchi </glossterm>
+    <glossdef><para>-The national land surveys </para></glossdef>
+</glossentry>    
+<glossentry id="Taisho">
+    <glossterm>Taisho </glossterm>
+    <glossdef><para>-General, captain, commander.</para></glossdef>
+</glossentry>    
+<glossentry id="Tanka">
+    <glossterm>Tanka </glossterm>
+    <glossdef><para>-Style of Japanese poetry consisting of 31 syllables in five lines, organized as 5-7-5-7-7.  The term waka is a synonym for Tanka, but may be applied to a form more courtly in nature than common.</para></glossdef>
+</glossentry>    
+<glossentry id="Tansen">
+    <glossterm>Tansen </glossterm>
+    <glossdef><para>-A cash tax levied against the value of a holding by a shugo or daimyo.</para></glossdef>
+</glossentry>    
+<glossentry id="Tanto">
+    <glossterm>Tanto </glossterm>
+    <glossdef><para>-Short bladed knife.</para></glossdef>
+</glossentry>    
+<glossentry id="Tatakai">
+    <glossterm>Tatakai </glossterm>
+    <glossdef><para>-Battle (as in Nagashino no Takakai-the Battle of Nagashino).</para></glossdef>
+</glossentry>    
+<glossentry id="Tatamido">
+    <glossterm>Tatami dô </glossterm>
+    <glossdef><para>-A type of armor common in the 16th Century that could be folded up for easy of storage.</para></glossdef>
+</glossentry>    
+<glossentry id="Tatamiya">
+    <glossterm>Tatamiya </glossterm>
+    <glossdef><para>- TATAMI makers.</para></glossdef>
+</glossentry>    
+<glossentry id="Tendai">
+    <glossterm>Tendai </glossterm>
+    <glossdef><para>-"Heavenly Platform": Gakusho sect </para></glossdef>
+</glossentry>    
+<glossentry id="Tenkyu">
+    <glossterm>Tenkyu </glossterm>
+    <glossdef><para>-Minister of Horses</para></glossdef>
+</glossentry>    
+<glossentry id="Tennô">
+    <glossterm>Tennô </glossterm>
+    <glossdef><para>-The emperor.</para></glossdef>
+</glossentry>    
+<glossentry id="Tensen">
+    <glossterm>Tensen  </glossterm>
+    <glossdef><para>-To fight in various battles.</para></glossdef>
+</glossentry>    
+<glossentry id="Tenshu">
+    <glossterm>Tenshu </glossterm>
+    <glossdef><para>-Donjon,Castle keeps, Tenshus are ultimately designed as much for appearance as defensive capability.</para></glossdef>
+</glossentry>    
+<glossentry id="Tôge">
+    <glossterm>- Tôge </glossterm>
+    <glossdef><para>-A mountain pass (example: Mimase ga tôge).</para></glossdef>
+</glossentry>    
+<glossentry id="Tokusei">
+    <glossterm>Tokusei </glossterm>
+    <glossdef><para>-‘Virtuous Government’; originally referring at any act of government reform; in the 16th Century the act of canceling debts owed moneylenders as a way to settle discontent among the debtors.</para></glossdef>
+</glossentry>    
+<glossentry id="Torii">
+    <glossterm>Torii </glossterm>
+    <glossdef><para>-Distinctive Shinto gateway, the most famous of which stands on Miyajima Island as part of the Itskushima Shrine.  </para></glossdef>
+</glossentry>    
+<glossentry id="Tozama">
+    <glossterm>Tozama </glossterm>
+    <glossdef><para>-‘Outer lord’</para></glossdef>
+</glossentry>    
+<glossentry id="Tsuba">
+    <glossterm>Tsuba </glossterm>
+    <glossdef><para>-Sword guard.</para></glossdef>
+</glossentry>    
+<glossentry id="Tsukai-ban">
+    <glossterm>Tsukai-ban </glossterm>
+    <glossdef><para>-Term used in some daimyo family to distinguish their messenger corps.</para></glossdef>
+</glossentry>    
+<glossentry id="Uijin">
+    <glossterm>Uijin </glossterm>
+    <glossdef><para>-One's first military campaign.</para></glossdef>
+</glossentry>    
+<glossentry id="Uji">
+    <glossterm>Uji </glossterm>
+    <glossdef><para>-Clan, family - from the Yamato Period.</para></glossdef>
+</glossentry>    
+<glossentry id="Ujikami">
+    <glossterm>Ujikami </glossterm>
+    <glossdef><para>-Chief deity or spirit of a clan</para></glossdef>
+</glossentry>    
+<glossentry id="Uma">
+    <glossterm>Uma </glossterm>
+    <glossdef><para>-Horse.</para></glossdef>
+</glossentry>    
+<glossentry id="UmaI">
+    <glossterm>Uma I </glossterm>
+    <glossdef><para>-Horse physician, veteranarian.</para></glossdef>
+</glossentry>    
+<glossentry id="UmaJirushi">
+    <glossterm>Uma Jirushi </glossterm>
+    <glossdef><para>-‘Horse standard’; large rectangular banner often used to mark a daimyo or important general’s presence on the battlefield.</para></glossdef>
+</glossentry>    
+<glossentry id="Umeboshi">
+    <glossterm>Umeboshi </glossterm>
+    <glossdef><para>-Pickled plums.</para></glossdef>
+</glossentry>    
+<glossentry id="Utsu">
+    <glossterm>Utsu </glossterm>
+    <glossdef><para>-To attack.</para></glossdef>
+</glossentry>    
+<glossentry id="Utsubo">
+    <glossterm>Utsubo </glossterm>
+    <glossdef><para>-Arrow quiver.</para></glossdef>
+</glossentry>    
+<glossentry id="Wakizashi">
+    <glossterm>Wakizashi </glossterm>
+    <glossdef><para>-Short sword carried with the katana by the samurai.</para></glossdef>
+</glossentry>    
+<glossentry id="Waraji">
+    <glossterm>Waraji </glossterm>
+    <glossdef><para>-Straw sandals.</para></glossdef>
+</glossentry>    
+<glossentry id="Yabusame">
+    <glossterm>Yabusame </glossterm>
+    <glossdef><para>-A form of archery practice conducted from horseback.</para></glossdef>
+</glossentry>    
+<glossentry id="Yakuza">
+    <glossterm>Yakuza </glossterm>
+    <glossdef><para>-Criminals, gangsters of the Edo Period. </para></glossdef>
+</glossentry>    
+<glossentry id="Yamabushi">
+    <glossterm>Yamabushi  </glossterm>
+    <glossdef><para>-Members of the Shugendo sect of Buddhism thought to have mysterious powers, such as the ability to cast out demons.</para></glossdef>
+</glossentry>    
+<glossentry id="Yamashiro">
+    <glossterm>Yamashiro </glossterm>
+    <glossdef><para>-Hilltop fortification, </para></glossdef>
+</glossentry>    
+<glossentry id="Yari">
+    <glossterm>Yari </glossterm>
+    <glossdef><para>-Lance, spear.</para></glossdef>
+</glossentry>    
+<glossentry id="Yojimbo">
+    <glossterm>Yojimbo </glossterm>
+    <glossdef><para>-Bodyguard</para></glossdef>
+</glossentry>    
+<glossentry id="Yoriki">
+    <glossterm>Yoriki </glossterm>
+    <glossdef><para>-Edo Period police official.  50 Yoriki operated in Edo at any given time and answered to the MACHI-BUGYO they are assigned under.</para></glossdef>
+</glossentry>    
+<glossentry id="Yoroihitatare">
+    <glossterm>Yoroi hitatare </glossterm>
+    <glossdef><para>-Set of silk shirt and pants worn under armor, primarily in the Hiean period.</para></glossdef>
+</glossentry>    
+<glossentry id="Yumi">
+    <glossterm>Yumi </glossterm>
+    <glossdef><para>-Bow.  The bow acted as the ‘official’ weapon of the samurai during the Heian Period but by the 15th Century had been more or less relegated to the common soldiery.  Made from laminated strips of bamboo composited over a core of wood, the Japanese bow was generally effective out to 80 meters.  In the later 16th Century, bowmen acted as skirmishers in most daimyo battle formations.</para></glossdef>
+</glossentry>    
+<glossentry id="YumiyanoMichi">
+    <glossterm>Yumiya no Michi </glossterm>
+    <glossdef><para>-The way of the bow and arrow.</para></glossdef>
+</glossentry>    
+<glossentry id="Za">
+    <glossterm>Za </glossterm>
+    <glossdef><para>-Trade or craft guild.  </para></glossdef>
+</glossentry>    
+<glossentry id="Zazen">
+    <glossterm>Zazen </glossterm>
+    <glossdef><para>-Passive Zen meditation. </para></glossdef>
+</glossentry>    			<glossentry id="daisho">
+				<glossterm>Daisho</glossterm>
+				<glossdef>
+					<para>Daisho literally translates as
+                    "big-little," and refers to a pair of swords, consisting of one long
+                    sword (daito) and a shorter sword (shoto).
+                    </para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="ryo">
+				<glossterm>Ryo</glossterm>
+				<glossdef>
+					<para>A Small gold coin</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		<glossdiv>
+			<title>Places</title>
+			<glossentry id="koyasan">
+				<glossterm>Koyasan</glossterm>
+				<glossdef>
+					<para>
+                    Koyasan is a mountaintop basin resting over 2400 feet above sea level and 
+                    measuring 2 miles  east to west, 1.5 miles north to south. The basin is surrounded by two 
+                    concentric rims of hills, each of which is comprised of eight peaks. The basin 
+                    thus resembles the shape of an unfolding lotus flower. The marvellously purplish 
+                    mists that drape the sacred peaks at dawn and dusk present a suitably sublime 
+                    figure
+					</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		<glossdiv>
+			<title>People</title>
+			<glossentry id="saicho">
+				<glossterm>Saicho</glossterm>
+				<glossdef>
+					<para>Founder of the Tendai Lotus Sect of the Sohei (became the judges)</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+	</glossary>
+</book>

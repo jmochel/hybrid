@@ -1,0 +1,48 @@
+.Name ATHOL
+.Title MAYOR						
+.Race HALFLING
+.Culture
+.Aspect 
+.PST 10
+.PEN 10		
+.DEX 19
+.PAG 13		
+.PAW 14
+.MST 6		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 3'8"      
+.WT 40		 
+.AGE ?
+.BeginDesc
+ PLUMP BROWN HAIRED STOUT
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale THE SHIRE HOUSE
+.BeginKnownAssoc
+ LEADER OF THE SHIRE
+.EndKnownAssoc
+.BeginSecretAssoc
+ THEIVES GUILDS OF RASAN,IRIDIN
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A SMART AND DESPERATE HOBBIT. DETYERMINED TO SEE HOBBITS OWN ALL OF THE
+RIVER VALLEY REGIONS AND THE TRADE INVOLVED THERE.
+.EndComment
+.BeginPossess
+ DAGGER OF VENOM,CLOAK OF ELVEN KIND
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

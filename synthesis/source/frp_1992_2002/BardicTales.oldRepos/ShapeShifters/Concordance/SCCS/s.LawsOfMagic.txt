@@ -1,0 +1,73 @@
+h37266
+s 00046/00000/00000
+d D 1.1 00/02/04 15:14:19 jmochel 2 1
+cK61313
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:14:15 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/Concordance/LawsOfMagic.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07861
+cPShapeShifters/Concordance/LawsOfMagic.txt
+cR84cc629c5cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+THE LAWS OF MAGIC
+
+There are eight laws of Magic. These laws apply to all magic and all casting of spells of any sort on the Earth. The only exception to this is the wild magic, which will not be discussed here.
+
+
+FIRST LAW:
+
+LAW OF SYMPATHY
+
+The Law of Sympathy states that what appears the same... is the same. It is also stated as the "smaller is like greater" principle. Sprinkling water on the ground in a rain spell is an example of this.
+
+THE SECOND LAW: THE LAW OF CONTAGION
+
+The Law of Contagion is best exemplified by "once whole, never apart." Anything that was once part of a greater whole is still in magical connection with that whole. All parts of something are in link with each other. Although not often employed by modern wizards this principle is the groundwork for many primitive magical systems.
+
+THE THIRD LAW: THE LAW OF SYMBOLS
+
+This Law states that the more widely used a symbol is over time the more powerful it is. This is, of course the ground work for all wizardry. Without the third law no wizardry would be possible. This is, possibly, the most powerful of the laws.
+There is a corollary to this law, much weaker, which states that the more meaning a symbol has to the user the more power and more control the user can have with it.
+
+THE FOURTH LAW: THE LAW OF POWER
+
+This is one of the most fundamental laws. It has, simply, two corollaries:
+One, one must have access to unbound power to use magic;
+Two, all things have power. Thaumaturges make a great deal of use of this law. It is the framework of their entire science. Alchemists also apply this law in many ways.
+
+
+THE FIFTH LAW: LAW OF PATTERNS
+
+Upon this Law all life rests. This is the Law that gives sentient beings the mastery of the universe. This Law states that the more complex a pattern is the more power and focus the pattern can generate. This is why invokations are so powerful, and why wiz-ards, who are masters of patterns, are so much more powerful than sorcerors.
+
+THE SIXTH LAW: LAW OF CHANNELING
+
+The Law of Channeling states that magic tends to gather together. As a result, when it is cast or bound it must be directed and focused. Some scholars describes these principles as the three corollaries of spellwork: Gathering, Focus, and Direction.
+
+SEVE LAW: LAW OF BALANCE
+
+The Law of Balance states that for every application of power there is a counter effect. It is this effect which causes backlashes when a mage loses control. This effect is also responsible for the "curses" which so often accompany bound magic.
+
+THE EIGHTH LAW: LAW OF BINDING
+
+This Law has two major corollaries: Attachment and Inertia.
+The corollary of attachment states that power will tend to stay attached to any point where it is projected.
+The corollary of inertia states that power will tend to retain its pattern so long as it is fixed to bound power at its foci and/or it is in a stable magical environment.
+
+
+E 2
+I 1
+E 1

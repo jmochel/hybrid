@@ -1,0 +1,258 @@
+.nj
+.nf
+.rm 78
+.in 5
+.he //^BPummeling Combat Rules Page - #^b//
+..
+.. Macro for table indent 
+.dm begtable
+.in +5
+.ce 1
+.em
+..
+..Macro for table de-indent
+.dm endtable
+.in -5
+.em 
+..
+The handling of proficiencies in Hand-to-Hand combat is a
+somewhat ticklish proposition : Watch out !
+      
+
+.begtable
+^BProficiencies Required for Skills in Unarmed ^b
+
+Prof           Resultant Skill      Damage
+----------------------------------------------------------
+ 0          General Skill(Natural)  (d4+1/2 str bonus)
+                                    Concussive
+                                    Attacker takes 1/4
+                                    damage unless
+                                    he is gauntleted.
+
+ 1          Fighter HTH Skill       (d4 + str) Concussive
+            This costs nothing for fighters
+            
+ 2          Monkish HTH Skill       (d6) Real Damage
+.endtable
+
+Concussive Damage: 1/4 is real
+
+    At the end of each round each entity who has taken concussive
+damage rolls 4d6 vs Constitution. If he succeeds he can gain back up
+to 3/4 of the hit points he or she lost that round. The roller gains
+back his success number in points.
+
+^BKnockout^b  
+
+    If an entity does more than 1/2 of an individuals hit points
+(concussive : single shot) the defender rolls 4d6 vs. Con. If he
+fails he falls unconcious for the number of segments equal to the
+number he failed by.
+
+.ce 1
+^BTraining Times For The Various Skill Levels ^b
+
+Fighter HTH : 8 months for Thieves,Clerics,and Assassins
+              12 months for MU and ILL
+
+Monkish HTH : 1.5 year all at once: no splitting of time
+               is allowed.
+
+.ce 1
+Benefits of Monkish Training:
+
+AC when not wearing armour is as 1st level monk. Move is as first
+level monk
+
+Each additional prof. adds a Special component to the characters skills
+
+.bp
+.he //^BGrappling Combat Rules - Pg #^b//  
+I.   The Base Grapple % = 1/2 * ( STR + DEX )^-att^+ * 5
+
+II.  The Grapple Defense % = 2 * DEX^-def^+
+
+III. A grapple takes one round unless the defender is suprised or the
+attacker is a monk. If the defender is suprised the attack and its
+resolution takes 1/2 Rnd. If the attacker is a monk the time for the
+attack and its resolution is based on the monk's normal number of
+attacks.
+
+IV.  A grapple situation is resolved in the following manner:
+
+^BClose ^b 
+In order to close to grapple an armed opponent a d10 is
+rolled versus the Speed Factor of the weapon. The speed
+factor of two weapons taken together is as follows:
+
+.ce 1
+SF = ( SF1 + SF2 )^+1/2^-
+
+Note that someone may chose to sacrifice 10% of his "To hit"
+percentage in order to gain a +1 to his chance to close. There
+is no limit on the percentage that the character may use in this 
+manner. Or, a character may abandon all caution and choose to
+ignore the fending attack and add 3 to his AC and lose all Dexterity
+bonuses to his AC.
+ 
+.begtable
+^BMODIFIERS TO CLOSE^b
+-------------------------------------------------------
+-2   For Suprise
+-3   For Attacking from Behind
++/-  Difference in Level between attacker and defender
+Effective Level = LVL + (Prof-1) + (NonProf Penalty) (If applicable)
+
+.endtable
+
+ATTEMPT THE GRAPPLE
+
+The attack is rolled on d100 with the following modifiers:
+
+.begtable
+^BMODIFIERS TO GRAPPLE^b
+
+Situation       Attacker  Defender  Damage
+-------------------------------------------------------
+No Armour       +20       -20       0
+Leather         +10       -10       -1
+Chain           +05       -05       -3
+Heavier Armour  -20       +20       -5 to -8
+
+Bigger          +5        -5        
+Much Bigger     +12       -12
+
+Injured(50%)    -10       +10
+.endtable
+
+.begtable
+^BCLASS MODIFIERS (per level)^b
+-------------------------------------------------------
+MONK            +9        -9
+FIGHTER         +5        -5
+THEIF           +3        -5
+CLERIC          +3        -3
+ASSASSIN        +5        -3
+MU/ILL          +1        -1
+.endtable
+
+The d100 roll is compared to the total % chance to strike. If the
+roll is less than the % needed a successful grapple has been rolled.
+Specific effects of the roll are covered under each specific type of
+grapple. 
+
+.bp
+.ce 1
+^B GRAPPLE : OVERBEAR ^b
+
+
+An overbear attack may only be attempted if the attacker is at least
+1/2 the height of the defender or stronger than the defender. An
+overbear attack costs one action. An overbear attack has the
+following results. 
+
+FAILED - The overbear has failed and two opponents are seperated
+again. Defender gains his dexterity reaction bonus to his initiative
+next round. 
+
+FAILED BY DEFENSE - The overbear has failed but if the defender does
+not roll his defense or less on d100 the two opponents are still
+engaged in close combat and may have fallen to the ground. Initiative
+must be rerolled at the end of the round.
+
+SUCCESS - The attack has succeeded and the defender is prone on the
+ground with all the comcomittant disadvantages. 
+
+NEAR CRITICAL SUCCESS - The overbear is a success and the defender is
+prone and adds 5 to his initiative the next round. If his initiative
+roll for the next round is greater than 10 he has lost initiative for
+the next round.
+
+CRITICAL SUCCESS - The overbear is a success and the defender is
+prone and he has lost initiative for the next round.
+
+.bp
+.ce 1
+^B GRAPPLE : HOLD ^b
+
+
+
+A hold attack costs one action. It has the following effects.
+
+FAILURE - Attack has failed. Defender gains his dexterity reaction
+bonus to his initiative next round. 
+
+FAILURE BY DEFENSE - Attack has failed but a one hand grab is
+achieved. If the attacker can gain the initiative the next round he
+can attempt to improve the hold by rolling the same attack at a +15 %
+modifier. 
+
+SUCCESS - Attack has succeeded and the defender may only spend his
+next initiative attempting to break the hold or attempting a
+nonphysical action. Any character may attempt also to use his feet
+unless held by two opponents.
+
+NEAR CRITICAL SUCCESS - Attack has succeeded and the defender may
+only spend his next initiative attempting to break the hold or
+attempting a nonphysical action. Any character may attempt also to use
+his feet unless held by two opponents. In addition, the attacker gets
+to add his dexterity reaction adjustment to his initiative during the
+next round. 
+
+CRITICAL SUCCESS - The attack inflicts damage as if it were a grapple
+throw success. 
+
+.ce 1
+^B BREAKS ^b
+
+The % chance to break is  50 +/-  3 * DIFF(STR + DEX)^-att-def^+
+
+.bp
+.ce 1
+^B GRAPPLE : THROWS ^b
+
+
+
+Grapple throw costs an action. It has the following effects.
+
+* Note that in all of he following the strength difference cannot
+become a negative modifier to the damage.
+
+
+FAILURE -  Attack has failed. Defender gains his dexterity reaction
+bonus to his initiative next round.
+
+FAILURE BY DEFENSE - Attack has failed but both opponents have gone
+tumbling to the ground. 
+
+SUCCESS - Attack has suceeded. Defender has been thrown to the ground
+and defender takes 
+
+.ce 1
+d4 + DIFF(STR)^-att-def^+ pts of damage.(Str diff is only one way )
+
+NEAR CRITICAL SUCCESS - Attack has suceeded. Defender has been thrown
+to the ground and defender takes 
+
+.ce 1
+d4 + DIFF(STR)^-att-def^+ pts of damage.
+
+The attacker gains his dexterity reaction adjustment to his
+initiative the next round.  
+
+CRITICAL SUCCESS - Attack has suceeded. Defender has been thrown to
+the ground and defender takes 
+
+.ce 1
+d4 + DIFF(STR)^-att-def^+ pts of damage.
+
+The attacker gains his dexterity reaction adjustment to his
+initiative the next round.  
+
+RECOVERY FROM FALLS      
+
+If a character is a fighter, a monk, or has a tumbling skill of some
+type, he may attempt to recover from the fall. If he  rolls
+successfully he takes only one half the normal damage.
+

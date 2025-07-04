@@ -1,0 +1,289 @@
+/*
+    @doc
+
+    .Contains: Tool to convert a sorted length delimited string list to a McTrie File
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $Author: $
+    $Revision: $
+    $Date: $
+*/
+
+#include <string>
+#include <list>
+#include <vector>
+#include <deque>
+#include <algorithm>
+
+#include "Reporter.hpp"
+#include "CmdLineParser.hpp"
+#include "McTrie.hpp"
+
+Rprtr	GlobalRprtr(__FILE__);
+
+class MkMcTrieCmdLineParser : public CmdLineParser
+{
+	public:
+
+		MkMcTrieCmdLineParser(int ArgC, char* ArgV[]) : CmdLineParser(ArgC, ArgV)
+		{
+			// register validation info
+
+			RegisterArgForValidation(ArgCriteria( "if", Arg::Filespec, Arg::Required));
+			RegisterArgForValidation(ArgCriteria( "of", Arg::Filespec, Arg::Required));
+			RegisterArgForValidation(ArgCriteria( "segsize", Arg::Numeric, Arg::Required));
+		}
+
+		string  GetInputFileName(void)
+		{
+			map<string, string, less<string>, allocator>::iterator i;
+
+			return(_TagAndValues[string("if")]);
+		}
+
+		string  GetOutputFileName(void)
+		{
+			map<string, string, less<string>, allocator>::iterator i;
+
+			return(_TagAndValues[string("of")]);
+		}
+
+		size_t  GetSegmentSize(void)
+		{
+			map<string, string, less<string>, allocator>::iterator i;
+
+			return(atoi(_TagAndValues[string("segsize")].c_str()));
+
+		}
+};
+
+struct WriteStr
+{
+    Stream* _OutStream;
+
+    WriteStr(Stream* OutStream)
+    {
+        _OutStream = OutStream;
+    }
+
+    bool operator()(string& Str)
+    {
+        UInt* LenBfr;
+        Byte* Bfr;
+
+        // Output the length
+
+        LenBfr = (UInt*) _OutStream->Alloc(sizeof(UInt));
+        *LenBfr = Str.length();
+        _OutStream->Free((Byte*) LenBfr);
+
+        // Output the string itself
+
+        Bfr = _OutStream->Alloc(Str.length());
+        memcpy(Bfr, Str.data(), Str.length());
+        _OutStream->Free(Bfr);
+
+        return(true);
+    }
+};
+
+
+struct ReadStr
+{
+    Stream* _InStream;
+
+    ReadStr(Stream* inStream)
+    {
+        _InStream = inStream;
+    }
+
+    bool operator()(string& str)
+    {
+        UInt* LenBfr;
+        Byte* Bfr;
+
+        // Get the length
+
+        LenBfr = (UInt*) _InStream->Alloc(sizeof(UInt));
+
+        // Get the String bytes
+
+        Bfr = _InStream->Alloc(*LenBfr);
+
+        str = string((const char*) Bfr, (size_t) *LenBfr);
+
+        _InStream->Free((Byte*) LenBfr);
+        _InStream->Free(Bfr);
+
+        return(true);
+    }
+};
+
+
+
+int main(int argc, char* argv[])
+{
+	McTrie							Trie;
+	McTrie							OptimalTrie;
+
+	FILE*							In;
+	FILE*							Out;
+
+	Byte							InputBfr[1024];
+	size_t							RecLen;
+	size_t							NumberOfBlocksWritten = 0;
+
+	list<string, allocator>			InputTerms;
+	string							NewTerm;
+	size_t							SegmentSize;
+    bool                            TermWasAdded;
+    
+	string							Usage("/if=<InputFile> /of=<OutputFile> /segsize=<SegmentSize>\n");
+
+	// Set up the command line parser
+
+	MkMcTrieCmdLineParser	  CmdLine(argc, argv);
+
+	// Validate command line
+
+	try {
+		CmdLine.Validate();
+	}
+	catch (const CmdLineParser::InvalidArgumentError& Error) {
+		cout << Error.what() << "\n";
+		cout << Usage;
+		exit(EXIT_FAILURE);
+	}
+	catch (const CmdLineParser::TooFewArgumentsError& Error) {
+		cout << Error.what() << "\n";
+		cout << Usage;
+		exit(EXIT_FAILURE);
+	}
+	catch (const CmdLineParser::TooManyArgumentsError& Error) {
+		cout << Error.what() << "\n";
+		cout << Usage;
+		exit(EXIT_FAILURE);
+	}
+
+	// Get the segment size
+
+	SegmentSize = CmdLine.GetSegmentSize();
+
+	// Open the appropriate files.
+
+	In = fopen(CmdLine.GetInputFileName().c_str(), "rb");
+
+    if ( In == 0 )
+    {
+        cout << "Unable to open " << CmdLine.GetInputFileName() << "\n";
+		exit(EXIT_FAILURE);
+    }
+
+	Out = fopen(CmdLine.GetOutputFileName().c_str(), "wb");
+
+    if ( Out == 0 )
+    {
+        cout << "Unable to open " << CmdLine.GetOutputFileName() << "\n";
+		exit(EXIT_FAILURE);
+    }
+
+	// For each NodeCnt worth of terms, add the terms to the set of nodes.
+
+	while ( !feof(In) )
+	{
+
+		//
+		// Read in terms
+		//
+
+		if (fread(InputBfr, 1, 1, In) == 0 )
+		{
+			break;
+		}
+
+		RecLen = *InputBfr & 0x00FF;
+		BreakIf ( fread ( InputBfr, 1, RecLen, In) < RecLen );
+
+		*(InputBfr + RecLen-7) = '\0';
+		NewTerm = (char*) InputBfr;
+
+		if ( !InputTerms.empty() && NewTerm == InputTerms.back() )
+		{
+			// Remove duplicates
+		}
+		else {
+			InputTerms.push_back(NewTerm);
+		}
+	}
+
+    //
+    // Add the terms to the trie
+	//
+
+    Trie.Init(SegmentSize);
+
+	size_t TermCnt = InputTerms.size();
+
+	for ( size_t i = 0; i < TermCnt; i++ )
+	{
+        try {
+            TermWasAdded = Trie.AddTerm(InputTerms.front(), string(2 + SegmentSize, 'X'));
+        }
+        catch (const range_error& Error)
+        {
+    		cout << Error.what() << "\n";
+    		exit(EXIT_FAILURE);
+        }
+
+		if ( TermWasAdded == false ) // The trie is full
+		{
+			// Finish off the trie
+
+			Trie.Deinit();
+
+            // Walk and display the results
+
+            Trie.WalkAndPrintTerms();
+            
+			// Write it out
+
+			fwrite(Trie.GetBlock(), 1, Trie.GetBlockSize(), Out);
+			NumberOfBlocksWritten++;
+			cout << NumberOfBlocksWritten << "\n";
+
+			// Reinit
+
+			Trie.Init(SegmentSize);
+		}
+		else {
+			InputTerms.pop_front();
+		}
+	}
+
+	//
+	// Clean up any remainder in the last trie
+	//
+
+	Trie.Deinit();
+	fwrite(Trie.GetBlock(), 1, Trie.GetBlockSize(), Out);
+
+	NumberOfBlocksWritten++;
+
+	fprintf(stdout, "%lu blocks were written out\n",  NumberOfBlocksWritten);
+
+	// Close down the files.
+
+	fclose(In);
+	fclose(Out);
+
+	// Return
+
+	return(EXIT_SUCCESS);
+}

@@ -1,0 +1,104 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206124222.170;
+          06 Dec 91 12:43:01 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206124222.170;
+          06 Dec 91 12:42:51 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02309; Fri, 6 Dec 91 12:44:10 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03466; Fri, 6 Dec 91 12:39:50 -0500
+Message-Id: <9112061739.AA03466@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 1980; Fri, 06 Dec 91 12:39:55 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9845;
+ Fri, 06 Dec 91 12:39:54 EST
+Date:         Fri, 6 Dec 1991 10:55:18 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Jason D Parker <jason%HERMES.CRAY.COM@uga.cc.uga.edu>
+Subject:      Re: Game Design
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <9112061542.AA00895@timbuk.cray.com>; from
+              "TELLEFSENGW%HIRAMB.BITNET@uga.cc.uga.edu" at Dec 6, 91 10:39 am
+
+>         1) An "optional" rule may, if the designer isn't careful, cascade and
+> require changes in fundamental rules as well.
+>
+>         2) If a designer has the talent to sidestep the simplicity/realism
+> problem through scalability -- i.e., by allowing the GM to choose the balance
+> he prefers -- I say great. But few designers do have that talent; most "lean
+> toward" one design philosophy or another, and as a result they can't
+> convincingly write a system, or a set of optional rules for a system, that
+> utilizes a different philosophy (even Paranoia's "advanced" rules, for
+ example,
+> are still simple and quick).
+
+Agreed.  Obviously a scalable system has to be well thought out.  I don't
+like the word "optional" though it does apply.  To me scalable should be
+like F=M*A where M=mass can be a complex thing that for the sake of simplicity
+(good enough for Newton and the rest of us) can be left alone.  But if
+you really want to get to the nitty gritty you can begin to expand how M gets
+calculated.
+
+That is the concept behind scalability, that the rules aren't "optional" so
+much as they *expand* when desired.
+
+> >One way that I've begun to approach this idea is by tying ATTRIBUTES (of
+> >characters or objects in the world) to the metaphysics of the the game
+> >universe.  This way (in theory) the same set of rules can apply for every
+> >possible entity in that universe - a sort of GRAND UNIFICATION THEORY of
+> >gaming!
+>
+>         A fine idea -- earlier today I posted a long message on TWERPS,
+> which is about as "grandly unified" as you can get (one attribute, STR, for
+> everything -- people, animals, cars, barns). By the time I'd finished writing
+> the message I'd persuaded myself that I like TWERPS better than Paranoia...
+> wow, I should be a professional orator.
+>         If you have the time, please post a more detailed description of how
+> you utilize "unification" in your system(s).
+>
+>                                                 Guy
+
+You're RIGHT!  The TWERPS STR attribute is great. I hadn't heard of TWERPS
+before (send me more detail..?)  This system would be scalable (maybe
+convertable - to tie in the thread on conversion compiliers) if STR could be
+broken down into... say CONS STR & AGILITY to fully describe a characters
+physical existence when the game needs more detail.
+
+>         If you have the time, please post a more detailed description of how
+> you utilize "unification" in your system(s).
+>
+>                                                 Guy
+
+Well...  The facts are that (as most philosophers) I have more to say than
+show.  Actually the idea really hinges on your particular metaphysical system.
+Pick your metaphysics and go from there. The idea of unification is simply
+that ATTRIBUTES and ways of manipulating them (RULES) apply equally to
+every object (& character) in the game universe.
+
+I don't have a detailed description, because I haven't been able to put this
+idea into practice.  I have lots of work in progress but don't feel right
+about splashing it over the net (qv BARN talk).  But I will say that finding
+the right combination of attributes and the concepts for making them
+apply to any possible situation is quite a challenge.  You want a small
+enough number of attributes (one is a good small number!) to allow the game
+to proceed easily at a good pace, but enough that you can still describe
+game situations with detail.  Scalability is one way to handle it.
+The problem (like CASE tools for you software types) is that when you change
+the world (manipulate attributes) at one level (the simple one has more
+problems) how do you determine how the world changed at the (a) more complex
+level?  IE What are the methods of EXPANDING or COMPACTING your rules or
+attributes?
+
+In the end its simply (no pun intended) a matter of biting the bullet and
+realizing that your system is a static set of rules and attributes destined
+to be incomplete.  After all a game system is really just a language designed
+to allow people to communicate their imaginations in a shared way.  A good
+system should stimulate imaginations, keep them together, but stay out
+of the way!
+
+-Jason		(c) 1991 Jason Parker
+jason@cray.com
+
+
+--

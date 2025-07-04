@@ -1,0 +1,1465 @@
+h28659
+s 01437/00000/00000
+d D 1.1 99/12/02 15:43:04 jmochel 2 1
+cC
+cK56815
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:43:00 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Discussions/rxn.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44898
+cPDiscussions/rxn.txt
+cReb4785395cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+From: uunet!juliet.ll.mit.edu!alexj
+
+	Yes- Shotokan.  While I agree that SHotokan uses a lot less
+defense than Aikido, it still teaches defense strongly.  I would like to see 
+that represented.  MAybe it is enough for it to be a tertiary....
+
+ALso I have been thinking of giving up the concept of "related skills"
+and handle the entire process of non-level_factor-based inter-skill
+relationships with:
+double-secondaries(5%{6%?} per rank, possibly adds full speed bonus!)
+full secondaries(3%?{4%?} per rank, adds half  speed bonus)
+partial secondaries(2% pr rank, adds quarter speed bonuses)
+tertiaries(1% per rnak, adds eigth speed bonuses{yes-you must have a ten!})
+
+JUst brainstorming - what do you think?
+
+
+       				Alex
+From: uunet!juliet.ll.mit.edu!alexj
+
+On Defense:
+Terms:(because I am confused)
+
+Unactive defense or Non-defending:  Opponents ignore your DEF secondary stat;
+              they are at +40 to hit you; you are at +30 to all physical 
+              actions.
+Active defense:  Opponents subtract your full DEF secondary stat as long as 
+              you are aware of them and not reacting.  PCF perception
+              acts as a tertiary to your DEF stat while you are active.
+              Your defense skill adds 3% per rank to your secondary stat.
+Applied Defense:  You are "using an action" to defend.  You may use your 
+              PCF percetion as a secondary to the roll to perform the
+              manuever.   Yor defesne skill is rolled as the primary skill.
+              It takes 4 counts to perform this manuever.  Your opponent
+              takes (-40-your DEF) or (-your DEF*2), whichever is higher.  
+
+      WHen you are activiating your defense it takes no time- you only have
+to announce it, and at the next reaction your defense will be activated.  
+You may use the speed bonuses due to rank from your Defense skill to activate 
+if you wish but then you must re-roll initiative.  The action will take a 
+default therefore of one count.  
+
+      When you are usaing applied defense you may use the full speed bonuses
+due to rank to the initiative roll leadsing up to the defense manuever.  
+
+SPEED BONUS for an applied defense equals =  SPD + (RANK in DEF-2) +
+                                      (Rank in G: MARTIAL_ART-2)/2
+Only add martial art if it is activated and if it applies to that martial art.
+
+      Does that answer your questions mark?  IS that how you thought it worked?
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	Yeah.  I think all combat styles I can think of generally recommend
+that you not let yourself get hit by your opponent.  They all get their
+style as a tertiary to base defense.  I think that's pretty good.  Remember
+that it can be doubled when using applied (active) defense.
+	I think you should outline forms in the following way:  Decide what
+skills they concentrate upon, what skills they teach, what skills they do
+not (in pure form) teach.  I think many dojos actually steal moves from 
+other styles to cover the weaknesses of their own, but you only need to deal
+with the pure style.  There is no reason that a Shotokan instructor can't
+teach all their students defense.  It just isn't one of the 5 (8, whatever)
+main skills of Shotokan (or maybe it is, and some other skill is not).
+	Perhaps what you ought to do is figure out what a 1 yr, 3 yr and
+5 yr student would have for BT skills in various martial arts styles.  This
+will help you decide what the main skills are, how many support skills a
+martial artist will have at different levels, and how many main skills they
+will have.  Then you can determine a flat number of main skills (and maybe
+also support skills) that the style can be applied to as a secondary.
+Anything else the style teaches will have the support of the style as a
+tertiary.  Other skills can be taken (and might still be useful), but the
+style would not add to them.
+
+	I don't like your proposal for changing secondaries and tertiaties.
+Part of this may just be your choice of terms, but I think you may be
+introducing too many levels as well.  (I know you run many levels now, but
+they are always at your discretion as GM.  If you are going to systematize
+this, you ought to make it playable, IMO).  I find that 3 levels, at 5%,
+3%, and 1% work out fairly well, although 3 levels is a bit cumbersome for
+my tastes.  You shouldn't have a problem with it :-)  but I'm not sure about
+four.  I would say that 5%, 3%, 1% gives you a good breakdown.  Skills should
+probably not add more than half their full chance (5%/rank) unless they are
+being used in place of the appropriate skill.
+	I also don't like the terms double and partial secondary.  Why have
+3 types of secondary and 1 type of tertiary.  I know you were just tossing
+out ideas, and this may sound like quibbling, but I think that concise terms
+will help reduce confusion (and apparent complexity).  How about secondary
+partial secondary, tertiary and partial tertiary (if you must have 4)?
+Or how about having "primary," "secondary," and "tertiary," "support skills?"
+I don't know--now I'm just tossing out ideas--but I think that terminology
+should be chosen carefully.
+
+							-Jeff
+From: uunet!juliet.ll.mit.edu!alexj
+
+I agree completely that terms have to be chosen carefully.  I also agree
+that partial-secondary and double-secondary are weak and aren't good terms.
+
+I don't think three levels of relationship is too much.  It may not be enough. But for game mechanics sake I would keep it that low.  
+
+Primary, secondary, tertiary, and "bonus" skill?;-) No, not really!  I don't
+know what I would call the last level- I think quadrary skills might be too
+awkward!  I am using "support skills" to indicate skills that are distinctly linked to  a specific primary or group of primaries.
+
+Okay so:
+NAME		CHANCE PER RANK		SPD BONUS	DAM BONUS
+Primary			10%		SPD = RANK-2	DAM = RANK-2
+Secondary		 5%		SPD/2		DAM/2
+Tertiary 		 3%		SPD/4		DAM/4
+Quadrary		 1%		SPD/8		DAM/8
+
+Support skills - they act as one of the three secondary
+
+What do you think about it.
+
+
+			Alex
+From: uunet!juliet.ll.mit.edu!alexj
+
+I do not actually intend to have each Genreal skill that developed.
+
+I think every Genrela SKill will have a list of things that it will 
+aid as a tertiary(secondary?- too gross?) and that is it.
+
+Like your list for Italian fencing(which I would change thus:)
+
+Sword
+  Lunge
+  Parry
+  Disarm
+  Feint
+  Retreat
+  Press
+  Called Shot: Small
+Lore
+
+General skills will NO longer be activated by roll.  No chance for 
+criticals.  
+
+			Ack!  BAck to work!
+				Alex
+From: uunet!juliet.ll.mit.edu!alexj
+
+Only skills that are primaries should be put in a general skill.
+
+Because support skills are modifiers of a primary skill.  
+I think all General skills should include a :
+
+Appropriate Lore skill
+Appropriate Perception skill
++ 5 or so Primary skills that make the pattern
+
+What do you guys think?
+
+			Alex
+From: uunet!juliet.ll.mit.edu!alexj
+
+It takes 4 counts or 8 SPD points to make a combat perception.  
+It lasts for [DRV + (RANK in appropriate perception)] counts.
+During that time you may make perception rolls as a full primary
+at every reaction at no speed penalties.  Or you can make specific
+perception rolls at 4 counts and have double your chance.  
+
+If you have not taken the time to fully activate your perception a 
+passive perception roll is allowed at reactions at half the normal 
+value.  
+
+Here are the levels of success:
+Crit Failure	- Beats you, you dope.
+Failure 	- Know that a strike is occuring.
+Partial Success -  Either know +- 30% when it is going to hit(in ten count 
+	action +-3 counts; in 5 count action +-2 counts); OR know
+	high/low/middle strike location; OR know if going to hit or miss
+Full Success	- Know +- 20% when it is going to hit OR know general location
+	(left arm/head/chest, etc.) OR know whether a swing is going to 
+	miss_by_a_lot, miss, hit, or hit well.
+Crit1		- Know +-10% when OR know specific location OR know if it is 
+	going to crit/crit miss or not.
+CRIT 2- more success levels to get all the stuff.  
+
+Player chooses how to apply the success levels- a Crit1 can allow a player 
+	to know the partial success info on all three types of info
+	(location, timing, and efficacy of the blow).
+
+Time mods to perception rolls(the character gets the most efficient time for
+him- if he/she does a 4 count perception tyhe timing is considered from 
+the last count!  If it is a passive perception it is considered from the
+count before the passive perception...
+
+1 count before action starts: 	-50 to perception
+1st count of action:		-25 to perception
+2nd count of action:		+00 to perception
+3rd count of action:		+25 to perception 
+4th count of action		+50 to perception
+5th count of action		+75 to perception
+
+Surprise results from a critical failure on a perception roll; or two 
+failures in a row on the same action; or a GM call that the person wasn't
+even expecting that kind of event(i.e. a sentry not expecrting trouble 
+might be surprised on a single failure when grabbed from behind...)
+
+
+
+There you go.....
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+
+Okay some things:  A passive perception takes no time- it occurs on reaction,
+and you can use the info in choosing the action...  One can also make 
+specific rolls at 4 counts per and double the chance!  
+
+
+>    Defense:  Question-- if I am undefending, and someone takes a shot at me,
+>and I perform an applied defense, do they still get the +40 for undefending?
+>If I activate my normal defense? (while they are swinging)
+
+You automatically activate your defense when you perform an applied defense.
+Otherwise you might be better off just activating your defense instead of applying it!  If you had it unactivated, it will unactivate again at the end 
+of the applied defense.
+
+>    It seems to me that <bias warning- we're talking Chuck here :-)> it will
+>always be easier to hit someone than it will be to avoid a hit. 
+
+	Yes.  The system is designed in such a way that if no active 
+defensive measures are taken the aggressor will win.  However, imagine 
+two people fighting. Both have 14s in their stats.  They will both have 20 PCFs and no other level factors(just for ease of calculation), both will
+have a base defense of 18(I am going to say the Karate does NOT add to 
+defense).  Both will have a base speed of 7.  THB for each will be +8. 
+One has a RNK 8 in KArate, a RANK 8 in punch, and RANK 8s in two secondaries.
+The other has a RANK 8 in Aikido, and RANK 8 in Defense with two secondaries 
+at RANK 8.
+
+This means:
+Punch = 80(primary) + 20(pcf) +10(mod) + 8(to-hit-bonus) + 46(secondaries) +
+	24(Karate) 	= 180% with a speed of 16
+
+Aikidoka can use aikido to add to defense and defense so has base defense 
+		of 18 + 8 + 24 = 50
+Defense=80(prim) + 20(pcf) + 46(second) + 24(AIkido)= 170% with a speed of 16
+
+
+It costs 20 speed points to make a punch a one count deal.  To defens against
+that  a defense would have to be a two count action.  (defense begins halfway
+through technique- at one count a two ocunt defense would start working and ties go to defender).  It costs ten speed points to reduce a defense to a 
+2 count action.  
+
+So on average initiative rolls:
+(if perfroming pre-sets) is 4.5.  So both roll a 5. 
+Both have a negative 11 inititiative.   The Karateka takes those 11 and needs
+to generate 9 more to make a one count punch.  That is a -45.  So his chance
+drops to 135%.  The Aikidoka uses 10 of his 11 and puts the last speed
+point into increasing his chance by 2%!;-) giving him a 182%.
+
+They both roll average- 50.  The AIkido ka has a complete success.  His 
+defense is now 100%.  The Karateka rollsa 50 and his chance is 135% -100%
+= 35%.  The Karateka misses.  Ther eis a 9% chance ther Karateka will 
+critical on the  AIkidoka and a 15% chance that he will critical miss.
+In this case the contest goes to the AIkidoka, except of course that
+the Karateka will eventually wear him down if he takes no preemptive action.
+
+I think the problem with the system lies in that a good martial artist will
+destroy anyone who is a little lower than them at the breakpoint where a lot 
+of negative initiative starts racking up.
+That breakpoint appears to be around an 12 to 14 SPD.  At that point martial
+art strikes can be dropped into the 2 count range- and that starts getting 
+to the edge of the system.  One thing that couold control tha  alittle is make speed of action more absolute- charge 10% per speed point instead of 5%.
+
+What do you guys think?
+
+				Alex
+
+From: uunet!umassmed!glhodge (Geoffrey L. Hodge)
+
+	I only had time to skim through all the letters you guys have written,
+but I have some gut reactions.  First, Alex, how about "quaternary" instead
+of "quadrary?"  Second, I think that the skill structure you outlined, and 
+the % chances they add looks good, but I don't know if you want to start 
+adding speed and damage/effect bonuses in.  I thought of doing that for class
+and area skills, and decided that we would spend half of every run just
+calculating the effects of secondary skills.  Yech.  I agree that it would
+be more realistic, but I'm not sure the complexity is worth the gain in
+realism.
+	Glad to hear that general skills will not be rolled against any more.
+	I think you might be well off to set down some numbers now.  You have
+already said (I think this is right) that any primary skill can have one
+general skill, two secondaries and two tertiaries backing it up.  If you
+adopt this new skill structure, you'll want to have a number (probably two)
+of quaternaries [ :-) ] as well.  Now I think you should decide how powerful
+you want general skills to be.  Then set a maximum number of skills that
+each general skill can support.  That will help give martial arts styles 
+their own unique flavor, and prevent general skills like "nursing" from
+popping up again.  I'd vote for 5.  I know you guys might think that's a
+bit low, but I'd rather not see general skills become too powerful.  Are 
+they still going to add 3%/rank?  Will they also add 1%/rank to other skills?
+Will they ever add 5%/rank?  (I hope not).
+	Mark:  I'd like to see all MA styles add to base defense as tertiaries
+(1% per rank), and some of them add 3% to "applied" defense, and others only
+1% per rank.  Depends upon whether or not a style adds to one pool of skills
+at 3% and another pool at 1%.  This could be a nice method for distinguishing
+between the central skills of the style, and the other skills that the style
+teaches.  An aikidoka would get the 3%, but a shotokan person would only get
+1% (and maybe also a 1% or even 3% to a "fight from retreat" skill).
+
+	Whew!  That was from skimming the letters.  I haven't even looked
+at the combat perception stuff yet!
+
+							-Jeff
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+Quaternary?  It is more correctbut iy sounds so wierd?  Opinions?
+Quaternary?  Quadrary?
+
+Alex
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+>I think there are a couple of fallacies in your argument--
+
+Oh come on- that's ridiculous!  How could that be? ;-) 
+
+>1)  If the kareteka does not activate his defense, he is at a +40.
+
+True- I assume that most people keep their defense activated.  It is
+not required though.  It would be good in a test of all-out defense vs.
+all-out offense.  But then the aikidoka would retreat and evade and...;-)
+
+>  The thrust of my initial comments was not really to compare defense 
+>vs offense, but a HARD defense (block) vs an applied defense.
+
+Hmmmm..... 
+BLOCK(with HAND)
+WSD:	2 counts
+MOD:	+10
+
+If the BLOCK is successful the DAMAGE of your BLOCK (same as PUNCH DAMAGE
+but using the BLOCK DAMAGE PER RANK mods with PUNCH MODS as Secondary-NEW 
+RULE) is subtracted from the DAMAGE of the strike.  Your arm then takes
+any leftover damage(minus armor absorption and PAB of course!)
+
+It is probably more effective than a defense- it is also higher committment
+and risks damaging you.  There is no doubt in my mind that a Hammerfist
+Block is a more direct and easier way to stop an incoming attack.
+But i think that is realistic!  Don't you guys? 
+
+How about this nomenclature:
+
+General skills		3% per rank	used against primary skills
+	SPD/DAM:  (RANK - 2)/2
+	Limit: one per primary
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Support skill		5% per rank	used for support skills specific to 
+	SPD/DAM:  (RANK - 2)/2		weapon(called shots, quickstrikes, 
+	Limit: one per primary		etc.); or for some general skills
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Secondary skill		3% per rank	used for related skills or secondary
+	SPD/DAM: (RANK - 2)/4		support skills
+	Limit: two per primary
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Tertiary skill		1% per rank	used for skills that are related
+	SPD/DAM: (RANK - 2)/8
+	Limit:	two per primary
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+
+
+????????
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+Even better:
+Taking level factors into account(that is what they are there for!  )
+Every skill donates a point per rank after rank 4- so lets cut it down by 
+1% on every scale- except for tertiaries becaus ethey are already 
+1% and except for general skills.  As for how many a General can directly 
+effect- I vote 5 + Lore + Appropriate Perception.  Any othe rskill
+that is generaly related it can effect as a tertiary!  It might apply
+as a secondary but probably not!  
+
+General skills		3% per rank	used against primary skills
+	SPD/DAM:  (RANK - 2)/2
+	Limit: one per primary
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Support skill		4% per rank	used for support skills specific to 
+	SPD/DAM:  (RANK - 2)/2		weapon(called shots, quickstrikes, 
+	Limit: one per primary		etc.); or for some general skills
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Secondary skill		2% per rank	used for related skills or secondary
+	SPD/DAM: (RANK - 2)/4		support skills
+	Limit: two per primary
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Tertiary skill		1% per rank	used for skills that are related
+	SPD/DAM: (RANK - 2)/8		above and beyond level factor 
+	Limit:	two per primary		contribution but not much more.
+*** *** *** *** *** *** *** *** *** *** *** *** *** ***
+
+
+This is really tough- I have been getting lazy about carefully doing 
+numbers out and maintaining the  fucking context I have so carefully 
+controlled thus far- these numbers reflect that better.  A first level 
+spy character can still pump out an 125% base chance on a skill(discounting
+level factor, to-hit bonus, and mods which could pump the specialist up to
+THB +16; LVF 21;MOD(if easy skill like punch) +10 so... 172% chance is 
+possible if the character puts two 18s in the right spot(for both THB and 
+the appropriate LVF) uses an easy skill, and dedicates all his skills to the 
+right set of interconnecting skills, including a specific support skill,
+a general skill, and two very related skills, and two pretty related skills.
+THat has a 5 in everything and a 6 in the primary.  Total cost: 44 points
+in ISL points, and all your stat points into those two stats.  
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+BTW Jim- I didn't get a chance to acknowledge how great I think Space 
+Hybrid is coming.  It is REALLY REALLY showing the tons and tons of work
+that you have put into it!  I was very impressed by what I saw.   
+
+It bothered me because it reminded me of how little I have been working
+on BT!  I hate the thought that I am now behind you in compilation and 
+formulation.  Pretty childish, huh?;-)  Great work!  It is turning into a 
+masterpiece!
+
+ON REACTION SPEED:
+These are my not so humble opinions:
+
+I think reaction speed can(for gaming purposes) be realistically said to
+be generated in this way:
+
+1) data comes in through the perceptions, no reaction to anything can occur
+until a perception roll of somekind is made, or it is not a REaction but
+an initiation.... as soon as the perception roll is made, then the time
+of reaction begins....Steps 2 and 3 are what I call reaction speed.
+
+2) the data is interpreted, and put into a framework the mind can understand
+
+3) the mind makes a decision to act based on the interpreted data
+
+4) the mind commands the body to go and the action speed of the decided
+action kicks in...
+
+Native Reaction Speed(NRS) is your mind's ability to process data and
+	tell your muscles or whatever  to perform a set task.
+	It is based on your  stats.  I think this can be improved but
+	I am not certain...
+
+Skill-based Reaction Speed(SRS) is based on being so familiar with a set
+	of skills and tasks that they can be mor equickly accessed and
+	initiated quicker.  THis is hard to study because ther eis the
+	question of muscle memory and how much "faster Actions" are based 
+	on the bodies training in the use of those systems(thus they are 
+	built up, etc.) and how much is in the nervous system. I think
+	both are important(maybe only half the speed bonus can go to 
+	initiative and at least half must go to speeding the action up,
+	or improving the chance?  )  
+
+
+Surprised: 
+	Neither has much bearing except...your native speed includes
+your mental agility.  I honestly think some people have higher processing 
+speeds.  I think surprise is a situation whereafter the reaction speed 
+is an indictaion of how fast the mind can do step 2.  I think this is 
+included in native reaction speed(NRS).  For that reason I think NRS
+does have a bearing.  I think the skill filter does not- because at this
+point the mind has no reason to be thinking in terms of the skill.  However
+at step 3 the skill template comes up quicker than if you have to think the 
+whole process through and you react to the stimuli as you have been trained.
+Thus the answer:  Both effect it!  I think NRS has mor eof an impact
+in surpirse situations but SRS is still significant.
+IN SUMMARY: NSR contributes significantly more than SRS
+
+Unengaged:
+	NSR is still a little more important, but certainly less than from 
+surprise!  SRS becomes important when you make the decision once more.
+ANd you are also more "used to" inteprreting offensive movements if you are a 
+martial artist and thus may process the data mor equickly but I honestly
+think that is a PERCEPTION question and not a SPEED question. 
+IN SUMMARY: NRS contributes a little more than SRS
+
+Engaged:
+	Here the template is up and running and ready to be applied.  The
+perceptions are also cued to recieve those specific stinmuli and push them
+through quickly(based on the skill the person has in that field)
+A slow person can be absurdly fast when doing somehting they have mastery in.
+IN SUMMARY: SRS contributes more than NRS.  
+
+Preset:
+	In this case reaction speed isn't even an issue- it is how fast 
+the mind can execute the chain of actions.  How often the person has 
+consciously done that chain of actions(i.e skill level and training) is
+going to be the main quetsion,  In this case SRS is much more important.
+IN SUMMARY: SRS contributes a lot more, NRS contributes a little.
+
+My 2 cents!
+
+					Alex
+
+Return-Path: <glhodge@umassmed.UMMED.EDU>
+
+Mark & Alex, (not discussion related):  I saw a couple of Mercedes coupes
+yesterday.  I knew they were bigger than the tiny cars (like Triumphs & MGs)
+but I didn't realize how much bigger.  Still definately smaller than a 
+Mustang.  They have a back seat.  That means, a place to put your butt.
+Leg room is optional.
+
+Quaternary not only sounds more correct to me, but more natural as well.
+Maybe that is because being correct comes so naturally to me ;-)
+I'd guess that it sounds more natural to Jim, too, he being a chemist and
+all...
+
+Block vs. Defense:  I am glad to see that blocking is superior to defense.
+I believe that is how it works in a real fight.  If I am correct about what
+Alex means by "defense," it is an evasive action performed *without*
+retreating.  If that is true, blocks are much much more common in any
+fighting styles I've seen (including Aikido, which usually combines the
+two, using them roughly equally).
+
+I do think, however, that one of the most common defensive moves is hardly
+every used in RPGs.  Both BT and Taliesin (and probably SH as well) have
+options for retreating, but nobody ever uses it.  I think that a quick
+retreat, followed by closing back into combat range, is an extremely common
+combat technique (comparable to blocking, and used much more often that
+defense).  I'd like to see an easy system to encourage people to use this
+option more in place of defense, but I'm not sure how to go about it.  (I'm
+supposed to be working on my magic system :-)
+
+Alex, I also think your format for blocking is unrealistic, although the
+realism may not be worth the trouble.  The idea of rolling damage for a
+block, and subtracting that from the attack is interesting, but doesn't
+take into account the fact that attack forms will be different.  The system
+works well if the attack is a swinging attack (like a shuto (sp?)), but
+a linear attack like a punch requires much less force to divert than a
+swinging attack would.  Is this actually a parry?
+
+Here is what I have been thinking about for Taliesin:  Parrys turn the 
+attack aside.  Each level of success cuts either the damage or the opponent's
+chance to hit (which do you guys think?) in half, cumulatively.  Blocks,
+if successful, completely stop the attack, but the blocking surface takes
+full damage (possibly reduced by levels of effect).  The big difference would
+be that blocking allows the defender to ignore the "parry mod" of the weapon.
+That will encourage people to block with heavy weapons rather than trying to
+parry with them (which I think is more realistic).  I am also thinking of
+having blocks be more effective for circular attacks (usually CH, CR or SL),
+and parries be more effective for linear attacks (usually P).  What do you
+think of this idea?
+
+I guess I'd better end this letter, and say the rest in another one--otherwise
+nobody will read through the whole thing...
+
+							-Jeff
+From: uunet!juliet.ll.mit.edu!alexj
+
+<Don't know if this will make it to Jim-- Pls fwd>
+ 
+I can pretty much see your definitions.  I would disagree that 
+native speed has no effect in a surpise situation.    If your 
+speed has any mental factors in it, those factors, at least, should 
+modify your initiative.  I'm also not sure that physical and skill 
+factors are not a factor even in a surprise situation.  What is your 
+reaction if someone throws, out of the blue, a punch at you?  I'll 
+give you 10 to 1 you'll block it.
+ 
+The whole thing, while accurate, seems a little finely grained.  
+Also, it seems to only cover _reactions_.  How do actions work??
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+What do you think of requiring that at least half of the rank bonus go to
+action speed.  That would slow down the drastic effect of RANK benefits 
+without actually losing.  Then RANK would speed up the reaction and the 
+action itself- might be more realistic!  Thoughts?
+
+Jeff - I am still pondering your posts!  I will get back to you!
+
+
+					Alex
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+ON RECOVERY
+
+I absolutely think ther eis recovery.  I am looking at half-weapon speed
+as the recovery.  I think the recovery does not require an initiative roll
+and begins immediately after(why?  Game mechanics - if we roll init for
+recoveries we will be there all day.  Recovery will be based on the weapon 
+speedof the weapon not on the speed of the strike!  With one exception:The force of the strike is modeleled by the base dmaage of the weapon, so
+if one quickstrikes by reducing damage then the recovery will be that much 
+faster, if one great blows and adds damage then the recovery will be 
+that much slower!
+
+Any action that FINISHES while recovering from another action will take -20.
+
+ON KATA/TASKS/FLORENTINE
+
+I think florentine is strictly the use of mulptiple actions simultaniously
+It hink what I have been calling a Kata is just a skill in doing a series
+of actions in sequence, and doing them quickly(or at least efficiently).
+I am changing the name form Kata to Tasks or something like that.  
+Kata, as we know them from martial arts are a method to teach sets of tasks 
+to people.  You learn certain combinations of tasks within the Kata and 
+these combinations are what you actually gain skill in through the kata.
+That is why it is so feasible to take a piece out of a Kata and execute it.
+It think the generic TASKS skillwe  will have to have rules as to how many 
+actions can be included in a TASK and how specific the actions have to be.
+Thw MG-MG-Rapier would be a task.  What do you think?
+
+					Alex
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	I guess that requiring half a skill's speed points be used toward
+reducing the action speed would be more realistic, but it would be more
+complicated too.  I think that would be a reasonable change.  If you do
+decide to go that route though, what do you think about giving characters
+rank # of speed points (instead of Rank-2)?  It is a little less confusing
+(it would help to balance out the splitting of points) and the extra 2 speed
+points probably wouldn't be felt as much if half are required to go into 
+action speed.
+
+	I agree that there is absolutely a recovery time.  Maybe I didn't 
+explain things well enough.  The way I have weapons listed currently, the
+weapon speed includes the recovery time.  That is why you may use half your
+weapon speed when you are "en garde."  What I am thinking of doing is not
+really adding a recovery time, but instead just changing the way weapon 
+speeds are listed on the Weapon Table.  It used to be safe to assume that
+in combat a character would typically use the same weapon and attack form
+over and over again.  Those days are long past now.  I was just talking about
+presenting the info in a more concise fashion.
+	I like the idea that quick strikes have faster recoveries and great
+blows have longer recoveries.  As to the -20% to any action which is completed
+while another is recovering (I am reading that correctly, right?)--I don't
+know if that is necessary.  I am not going to penalize people for recovering
+because I think that it is a relatively natural action, and requires little
+thought.  Do you think that keeping track of the recovery times of various
+weapons is going to get a bit hairy?  I think it will add to the flavor of
+combat enough that I am willing to do it anyway.
+
+	I have no idea what you were saying about kata and florentine! :-)
+Please try to re-explain your ideas.  I see florentine as a skill which
+allows a person to fight with two weapons completely independently of each-
+other--almost as if two different people were wielding the weapons (except
+that the tactics will be better coordinated).  I have expanded the martial
+arts term "kata" to mean any set of specific actions practiced in a specific
+order.  In Taliesin, a kata is basically like a quick strike skill for a
+series of actions.  The more actions you have, the smaller a bonus you get.
+Obviously, the more ranks you have, the higher a bonus you get.  To apply
+the kata bonus, the action performed must be preceeded by the action which
+preceeds it in the kata.  This requires people to "get into" their kata by
+executing the first move without the kata bonus.  They can pick up the kata
+at any point, and if they know several kata with the same moves, they can
+jump from kata to kata at the shared moves.  I think this is a fairly realistic
+model for allowing people the benefit of practicing a particular series of
+actions, restricting them to the patterns they practiced, but allow them to
+have some practical application to a real combat.
+	The concept I was trying to explain is far less specific than a kata,
+but considerably easier to learn than florentine fighting (as we have defined
+it).  It is practicing with two (or more) weapons to increase the speed and
+coordination of use (like florentine), but the particular weapons are used in
+a specific order, over and over again.  The idea being that it is much easier
+to learn to use weapons in a particular pattern than to have them act
+independently.
+
+							-Jeff
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+Here's #2.
+
+I talked a bit with Mark (live) yesterday, and came to some conclusions about
+General skills and forms.  First, I think the limit should be 5 primary skills
+*including* lore and perception.  Remember, not all gen skills will be MA forms
+so they will not all need lores and perceptions.  Also, as Mark pointed out,
+the primary skills for most Martial Arts will be Punch (hand), Kick (foot),
+Combat Per, and maybe Defense.  Everything else is a support skill.  I also
+think, btw, that it is very possible to become very good at one style without
+building up much lore.
+
+IMO, most styles will be defined by their support skills--not their primaries.
+(Excepion being hard vs soft styles).  I'd like to see forms add 3% to 5
+or maybe up to 8 skills--primary or support.  In the case of support skills,
+one rank in the form would actually add an extra rank to the secondary skill.
+(Instead of adding 3% to the "block" skill, which would get lost since "block"
+only adds 3% per RANK, the form would add 3% to the _chance to block_, and
+1/2 a point of speed, or whatever).  I like this idea because a limit of 5-8
+skills will define a style, and it allows support skills to be influenced by
+the form.  What do you think?
+
+Jim:  I roughly agree with your current view, (and Alex's breakdown of
+reactions), except that I am not sure there is a difference between engaged
+and unengaged.  Presets help to cancel out thinking, which means NRS doesn't
+count for much.  Surprise requires one to figure out what is going on before
+one can react.  Here, NRS (which I assume is the mental processing time) is
+very important.  In both engaged and unengaged situations, the person is
+neither surprised or has a preset.  I think both reaction speeds weigh roughly
+equally.  The only difference between engaged and unengaged is a matter of
+perception rolls.
+
+Speaking of perception rolls, Alex, what does Combat Perception do for you?
+I mean really?  I assume that I need to see an attack to block it.  How
+much do I need to know about the attack's timing and location?  When do I
+start getting plusses?  What do I get plusses to (defense, block, applied
+defense, parry, etc) and do the mods differ depending upon the skill they
+modify?  Also, what does a feint do for you?  I think they may be too gross,
+but I don't know the numbers well enough yet.  I'm having a tough time 
+deciding what to do with Combat Perc in Taliesin.  You all know that I think
+it is one of the most important skills used in a fight, but I'm not sure 
+how to model the fact that it works constantly and passively, but that some
+times you are all over an attack, and sometime it catches you by surprise.
+I don't want to have people make multiple rolls per attack (I had decided
+to give a +10% per segment after 1), but that doesn't model reality that
+well.  Sigh.
+
+Finally, I have been thinking about martial arts and hand techniques.  I
+would currently run two handed martial arts combats as a florentine action,
+or as two weapons reacting independently (but one at a time).  I have done
+some thinking about this, since I knew neither was a good model, and thought
+of a couple things.  The weapon speeds I have listed are the speed to attack
+and recover the weapon to a "ready" position.  That is why you can cut your
+weapon speed in half if you are waiting for a chance to attack.  I have toyed
+with the idea of splitting these in half and having the attacks go in three
+phases:  reaction, action, and recovery (which I believe is what Alex has
+decided to do).  This is pretty much how I ran things anyway.  It is just that
+it hardly ever comes into play.  I am beginning to think that there is more
+to is than that, though.
+
+I think there may be a technique halfway between a kata and florentine.  In
+a kata, you learn specific moves in a specific pattern.  In florentine fighting
+both hands work completely independently.  I think that many martial arts
+teach a specific pattern (left-right-left-right), that is not as specific as
+a kata, but more restrictive than a florentine.  This system might not be 
+worth modeling for martial arts because cutting out the reaction time will
+always make it more desirable to act with the "fresh" hand.  In a situation
+where the weapons are of uneven speed, however, I think it could come into
+play.  Say I have a rapier and a main gauche.  If P
+If I practice a pattern of actions, Main gauche, main gauche, rapier, I
+should get quicker at that pattern (like a florentine or kata).  I could
+parry/block or attack during any one of the actions, but breaking the
+MG-MG-Rapier pattern would break the "semi-florentine."  I'm not sure it is
+worth modeling, and I'm just throwing it out as a thought.  What do you
+think?
+
+							-Jeff
+
+From: uunet!shiloh.mitre.org!britt (Brittain McKinley)
+
+Jesus!  Don't you guys work anymore!!
+
+I just got swamped with mail!
+Well, here's my 6 cents worth.  WARNING:  I'm not a GM and therefore I 
+tend toward the simplistic / ease of play concepts.
+
+ON KATA:
+I always pictured ranks in a skill, particularly weapons, as learning 
+hoiw best to use the individual movements with the weapon.  Kata in 
+martial arts are studied ways of performing the movements but don't
+all weapon skills have built in sequences?  As a players goes up in a
+skill he learns how to put the movements together.  I think that the whole
+concept of kata should be worked into the weapon speed.  The higher the
+skill the faster it becomes, right?  Although, you can learn to physically
+move a sword (or hand) faster I think the majority of the increased speed
+associated with level comes from the characters knowledge of how the
+sequence one action into another with minimal recovery time.
+
+ON LORES:
+I think Alex overkills on the lore concept.  If lore equates to history 
+and it seems to then I think it is perfectly feasible for a character to
+know how to perform a skill without knowing where it comes from or how it
+was developed.  The martial arts push lore as part of the class but I think
+it is more a teaching style than a requirement.
+
+
+			Britt
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	On kata:  I just re-read your paragraph about kata.  I don't think
+that the best way to model a kata is by breaking it down into "tasks."  To
+do that, you would have to break each kata down into every set of sequential
+actions from 2 to the number in the kata.  I think what a kata teaches you
+is how to move from one specific action, quickly and accurately to another
+specific one.  Any time those two (or more) actions are used sequentially,
+the kata training will help make that transition quicker and more accurate.
+
+							-Jeff
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	Alex, were you in debater mode, on cheap drugs, or really tired when
+you responded to my last letter?  You wrote several pages in response to the
+several pages I wrote, but I don't think you directly addressed a single thing
+I brought up!  :-)
+
+	I suggested you drop the Rank-2 speed pts. formula for skills, and
+let skills give the character a number of speed points equal to their rank
+instead.  To this, you responded that they were "actually getting rank" 
+in speed points, you just set zero skill at a -2.  Hmmm.  Do you really see
+that as different?  Just curious. ;-)  Let me rephrase my request.  Perhaps,
+in light of the changes involving splitting speed points up between action
+and reaction times, you could afford to drop the -2 at rank 0.
+
+	Yes, I was talking about listing weapons on the Weapon Table without
+the reaction time included.  I think I will steal your modification of having
+the recovery time be proportional to the time of the strike (quick strike
+and great blow), although the recovery time in Taliesin will remain equal to
+the strike time (rather than 1/2 as you proposed for BT).  I do not intend to
+require people to react before recovering their weapon--it will start auto-
+matically as soon as the blow is finished.  Blocks, parries, and critical
+misses will (as they always have) increase recovery time.  Am I right in
+thinking that you will require people to react before covering weapons, but
+that it happens as a "free action" (like activating defense) whenever the next
+reaction occurs?  Can people preset weapon recoveries?  Would anyone not do
+that?
+
+	Yes, as you suspected, I was completely and utterly confused by Edgar
+the swordsman.  What the hell were you saying?  :-)
+
+	On kata:  I think the level of specificity (type of attact/defense,
+support skills used, and high/middle/low) is very reasonable.  I don't really
+see the reason for splitting kata up into "tasks."  You would have to generate
+such a huge number of tasks that they would never be recorded on paper
+individually.  I think they would just become extra conceptual baggage on what
+is already a marathon Bardic Tales journey.
+
+	The press/retreat ideas you have will, IMO, work well for you and BT.
+I am hoping to come up with something more streamlined yet still useful for
+Taliesin.  No brainstorms yet.
+
+	I think a mixed parry & block system might work well with BT.  If you
+are right that it would be "extrordinarily complicated," it might not be worth
+while, but if you can come up with a system that is merely "very complicated"
+and could be ignored by people who didn't care about it, that might be worth-
+while.  I don't remember if I included this in my last letter, but I will
+probably make block & parry the same skill in Taliesin.  They both have to do
+with predicting the path of the incoming blow, and meeting it at a particular
+angle with your own weapon.  The player will chose which technique to use.
+The difference will be that blocks stop all damage (it is taken by the blocking
+surface) and parries reduce the opponent's chance to hit (or maybe damage).
+Blocking will not be modified by parry mods, so heavy weapons will be better
+suited to blocking.  What do you think?
+
+	I guess I'll end here.  I want to discuss general skills, but I think
+that will be a letter by itself.
+
+							-Jeff
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	Okay, here we go.  Alex, you didn't really respond to my suggestion
+about how to run general skills.  Did you see & understand it?  The basic
+idea was to say that a general skill could enhance 5-8 skills at 3% per rank.
+Both primary and support skills would be enhanced by the general skill.  A
+support skill like "block" would not have 3% added to the block skill, but
+would instead have 3% added to the chance to block.  Anything not covered in
+the list of 5-8 skills would not get a 3% per rank bonus.
+
+	You listed several martial arts and the skills that were associated
+with them.  I think, first of all, that you included many more very specific
+skills in the martial arts (esp. Shotokan) that you know well, but generalized
+more on the others.  I also think that you included many skills that are
+taught by the style, but do not "define" it.  Sure, Shotokan uses quick strikes
+and called shot locations, but does that set it apart from other styles?  Are
+they the main focus of the style?  What martial art teaches its students to 
+strike slowly at random areas??  (Tai Chi maybe :-)  Do you really think that
+Shotokan puts as much emphasis on kicking as Tae Kwon Do?  Then how come you
+listed that many kicking skills?
+
+	The point is this:  Almost all martial arts will teach punch, kick,
+block, combat perception, quick strike, called shot, defense, press, retreat,
+great blow, etc, etc, at least to some degree.  What I am suggesting is thta
+you decide which 5-8 skills are the backbone of the style.  They alone would
+get the 3%/rank from the general skill: style.  Other skills taught by the
+skill would get 1% per rank.  I think you should be able to define most styles
+with 8 skills.  It won't cover everything you learn in that style, but it is
+not supposed to.  Here is what I would recommend (although I am drawing this
+only from descriptions & small familiarity with the styles):
+
+Shotokan:
+
+Shotokan:		Aikido:		Tae Kwon Do:
+Combat Percepiton	Comb. Per.	Comb. Per.
+Punch			Defense		Jump
+Block			Block (bnp)	Block (but not punch)
+Great Blow (hand)	Grapple Hold	Spin
+Lunge			Throw		Kick
+Fight from Retreat	Nerve/Joint 	Quick Strike Kick (maybe)
+			   Techniques
+			Breakfall
+
+	I think that Aikido and TKD emphasize blocking, but do not emphasize
+punching.  I gave TKD a quick strike kick because, although all martial arts
+encourage speed, TKD seems to be more concerned with speed of kicks than most
+(because that is a main form of attack).  That may or may not be valid.  The
+weakness of a kick is that it is slow, and TKD offsets this by teaching speed
+just as Shotokan offsets the weakness of punches (they are not as strong as
+kicks) by teaching great blow (and lunge).  A Kung-Fu style would improve
+punches with quick strikes and maybe called shot & nerve techniques.  This
+may not be a completely accurate portrayal of these martial arts (because I
+am not that widely versed), but I think you get the idea.  I think you could
+define a martial arts style fairly well with 6 skills.  Remember that they
+will not be the only 6 skills the student learns--they are just the ones that
+are emphasized.
+
+	I have to agree with Britt that you are a bit percetion and lore happy.
+It is certainly true that Stephen should know more about guitars than Chuck
+or Borealis, but does he really need a "guitar lore" skill?  Why not let the
+general skills double as lore skills if you feel that lore is so necessary?
+Creating millions of tiny lore skills will make nobody happy (except you and
+Stephen :-)
+
+	Does everything have a general skill?  If you critical a skill, can
+you put 1 of the 2+ EPs into the general skill?  If not, how do you establish
+them?
+
+	Once you have agreed with my ideas for general skills :-) we should
+define the skill lists for some of the more commonly used ones.  I have a
+G:Science skill.  Yesterday you mentioned a G:Biology skill.  What does that
+make G:Science, a "really general" skill?
+
+
+	About combat perception:  You wrote quite a bit, but all I really
+wanted to know is how well do I have to roll vs. my combat perception to get
+plusses to my applied defense/parry/block, etc.  What are the actual numbers?
+How beneficial is it to roll against the Combat Percepion skill instead of
+base perception?  Twice as good?
+
+	I guess that's it for today.  Talk to you later,
+
+							-Jeff
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+
+ON BLOCKS/PARRIES
+
+]Do you guys think it would be simple enough
+]to generate a mixed parry/block system?  When I was workjing on it I 
+]developed one that allowed you to choose whether the units of blocking 
+](measured in damage- brushblocks were given a "damage number") were applied
+]to to-hit of your opponent or damage.  I decided it would be too complicated.
+]WHat do you guys think?
+
+Here is my unified parry/block system:  You guys tell me if it is too much!
+
+You roll a parry against an attack you know is coming.  Your to-hit roll 
+is subtracted from by your opponents skill at their weapon * 3.  Otherwise
+it is straight.  If you suceed you roll full normal damage.   IF you critical
+then you figure that in.   Then you have a choice- you can either match the 
+guy point for point or you can subtract -5% for every point of damage or any
+combination.  
+
+ON REACTION SPEED/ACTION SPEED SPLIT
+
+I was thinking that half of your total SPD points that came from rank- 
+including General skills, secondaries and the primary- would go to 
+speeding up the action instead of subtracting form initiative.
+Do you think that would be that complicated?  It is adding a divided by two 
+to a process we already do... is it worth it? 
+
+ON RANK
+
+I did address it, Jeff! I don't think speeds need the help!
+I like the -2 init at 0 rank.  I don't know does anyone think we would 
+need more speed points?
+
+Jeff says:
+>(Instead of adding 3% to the "block" skill, which would get lost since "block"
+>only adds 3% per RANK, the form would add 3% to the _chance to block_, and
+>1/2 a point of speed, or whatever).  
+
+	I like the idea-but my original conception was to not have support 
+skills be included  in the limit- only primaries.  More on that later!
+
+ON KATA
+
+Jeff says:
+>  To do that, you would have to break each kata down into every set of 
+>sequential actions from 2 to the number in the kata.  I think what a kata 
+>teaches you is how to move from one specific action, quickly and accurately
+>to another specific one. 
+
+I agree - how else would you run a Kata?  You will always have a list of 
+actions in sequence.  How can you avoid that?
+
+Jeff says:
+>To this, you responded that they were "actually getting rank" 
+>in speed points, you just set zero skill at a -2.  Hmmm.  Do you really see
+>that as different?  Just curious. ;-)
+
+	I got it!  But they rae different- what I am trying to be careful of
+is losing the speed scale the system is built on.  Right now a person with
+a one skill is 1 count slower than their speed.  IF we give straight rank 
+then that perosn is one count faster than their speed.  Remeber the change
+isn't really going to reflect as much of a loss of speed- more of it will 
+just come out of the action!  I am leary(leery?) of giving away more speed!
+
+Jim says:
+>I am afraid I have to disagree with the idea that the pluses for kata
+>start in and gradually increase.
+
+It isn't clear to me that that is what Jeff had in mind.  The way i 
+interpreted it is that once you have the Kata going it is going full steam-
+i.e. you get full bonuses(whatever they are) - you just don't get any
+bonuses until you do one action of the kata because the skill is a 
+"transition skill between specific actions".  I like that!  
+
+DO you guys think Kata's give bonuses to the chances involved with any of 
+the skills as they do in my system now.  I am thinking maybe it should just
+be a tertiary(1% per rank) and give RANK to the INIT(or half to INIT and half 
+to action speed) roll inbetween the actions- I am almost convinced!
+
+ON RECOVERY
+
+>although the recovery time in Taliesin will remain equal to
+>the strike time (rather than 1/2 as you proposed for BT).
+
+Do you think it takes a slong to recover as it does to strike in real life? 
+ I am not at all convinced of that.  It appears to me to be significantly faster to pull back an attack than to launch it- unless the attack was high
+committment.  But that is handled in lunge rules.  Jim, Mark- how long
+do you guys think recovery takes compared to strike speed?
+
+Jeff says:
+> I do not intend to require people to react before recovering their weapon
+>--it will start automatically as soon as the blow is finished. 
+
+	Hmm.  Me neither.  It will run as a background action.  And this gets back to Edgar too...;-)  I propose that a person only rolls one reaction roll.
+He uses that number he rolled, say a 7 and a 4{11},  and uses it for his
+inti for his next action.  He also uses the "7"(because he rolle dit forst say,
+or it was the blue d8, or whatever distinguishing mechanism) as his pre-set init for his reocvery- to which he can apply his weapon skill and it takes 
+1/2 WSD to complete.  ANd it goes on WHILE he is reacting and acting on that 
+init roll.  I think that MIGHT be more realistic.  I was thinking that 
+florentine might be more REALISTICALLY done that way as well- one roll 
+spurring two actions.  
+	Just a thought!
+
+
+ON LORES
+
+Britt says(and Jeff similarly before him):
+
+>I think Alex overkills on the lore concept. 
+
+HUMPH!  
+
+>If lore equates to history 
+>and it seems to then I think it is perfectly feasible for a character to
+>know how to perform a skill without knowing where it comes from or how it
+>was developed.  
+
+	Lore is not quite history.  In any skill you pick up a body of 
+knowledge that goes along with it.  You learn how you address a master 
+mechanic, you learn slang words for various auto-parts, you learn the names
+of big auto supply stores- whatever- there is knowledge that goes with
+every skill.  IN most cases I am happy enough to have the skill contribute 
+that.  If you take auto-repair- you don't have to know that stuff- you could 
+have learned at home on your own car.  Hoever- when you are talking about
+GENERAL skills it is a little different.  You are tlaking about a set of skills
+ties together by some common theme.  Now- I absolutely agree that some guy
+could stand on a mountian by himself and develop a style of martial arts 
+by fighting every day.  He could have a genral skill and no lore.  
+
+Lore does not technically belong in general skills.  I added it because most 
+of the ones I thought of had it.   I withdraw the requirement for both
+Lore and Perception(same reasons).  I just think they are in most.  I do think
+that the three examples all include lore skills- Tae-Kwon-Do, AIkido, Shotokan,
+and Fencing all have Lores associate with them!  Oh never mind!  I hate being
+wrong! ;-)  
+
+>I think, first of all, that you included many more very specific
+>skills in the martial arts (esp. Shotokan) that you know well, but generalized
+>more on the others. 
+
+	Very true- the curse of all game design!  
+
+
+>I also think that you included many skills that are
+>taught by the style, but do not "define" it. 
+
+	I don't think you undesrstood what I was trying to describe in
+those lists!  Read on-
+
+> Sure, Shotokan uses quick strikes
+>and called shot locations, but does that set it apart from other styles?  Are
+>they the main focus of the style?  What martial art teaches its students to 
+>strike slowly at random areas??  
+
+	Actually you would be surprised- Shotokan emphasizes called shots
+more than any system I have ever studied(with the exception of the sub-form
+of SNAKE in KUng-Fu).  SHotokan does not quick strike especially- but I did not
+put that as a skill in SHotokan.  I put Instant Attack in SHotokan- which it
+does emphasize mor ethan other styles.  That is to attack without reacting.
+ALso to clear something up- I wrote the support skills in as limitations, not 
+as benefits.  Right now- only Primary skills are covered in my General Skills.
+The General skill would only be a tertiary if the person were not using those
+techniques.  To be more correct- In Tae-Kwon_DO is should have put ALL as one of the catagories so that it was clear that Tae-Kwon-Do gets the bonus for all foot techniques- Shotokan does NOT get the "all" in any techniques- it teaches 
+a very limited set of attacks!
+
+Tae-kwon-DO does not use called shots in general.  Students are taught to kick 
+hard to general areas.  (Mind you these are all generalizations that 
+differentiate the styles- in the end, a martial is a martial art is a martial 
+art...).  Shotokan people are taught to hit specific nerve bundles- with every
+shot! 
+
+> Do you really think that
+>Shotokan puts as much emphasis on kicking as Tae Kwon Do?  Then how come you
+>listed that many kicking skills?
+
+SO you see the Shotokan kick is severly limited(and thus distinguished from a Tae-Kwon-Do kick or Kung Fu kick) to get the bnuses you have to do a great 
+blow,lunging kick to a specific location)  MAybe that is too harsh- I don't 
+know.    But that is what I meant!
+
+>	The point is this:  Almost all martial arts will teach punch, kick,
+>block, combat perception, quick strike, called shot, defense, press, retreat,
+>great blow, etc, etc, at least to some degree.  What I am suggesting is thta
+>you decide which 5-8 skills are the backbone of the style. 
+
+What I am suggesting is that what will distinguish styles is by forcing the 
+techniques to utilize pareticular types of punches , kicks, etc.  SO
+link punch to called shot, or to great blow.  Then that has a specific game 
+defined meaning.  It will mean that sometimes people WON'T use their general 
+skills all the time- a SHotokan person might kick off a series of low committment punches to get a person in the position they want whatever- and then hit them with a SHOTOKAN punch.  This actually seems to model my 
+experience in sparring as well.
+
+What do you guys think?
+
+ALso - I put "Kata" in the list of things covered by the general skill. I thik the Kata would be mor elikely to be influenced by the genral skill.
+ACK!  I would even replace all the Lores with Katas!  THe lores might belong in
+the Shotokan fighter PACKAGE but probably not in the GENERAL skill!!!!
+A kata is so influenced by the genral understanding of the style that I can't 
+se eit not being covered.  I think I would allow any number of KAta to be 
+contributed by the general skill.  I would even genrealize that to non-fighting kata- TASKS- a skill ofr doing groups of actions using the general 
+skill would gain the bonus of the genrasl skill ayutomatically!  
+
+SO how does 8 work for people with KATA or its like being allowed to take one 
+slot for all such skills i nthe package... perception and lore would be possible but optional(as would KATA of course).  Thoughts?  
+
+Jeff's idea about general skills influencing secondaries is neat but I would
+prefer to have only the primaries be acted on if possible(keeping the skil system consistant.)
+
+>	Does everything have a general skill?  If you critical a skill, can
+>you put 1 of the 2+ EPs into the general skill?  If not, how do you establish
+>them?
+
+	I think most things have a general skill.  Yes you can generate it out 
+of criticals or out of training.   I have been thinking of making it s hard as stat training(taking a cue from Jeff's more eeps for area skills) so it would
+take 20 hours of trianing w/out a teacher, and two eeps to get a roll(brutal
+isn't it?).  Just a thought.  ALso instead of two eeps to get a roll for stats
+I have been thinking of a modified roll instead- like a -50 on the roll
+or something and letting it be normal time.  That wouild have a similar effect- thoughbe devastating on nay general skills over rank 5!  (Too devastating 
+actually-   oh well, another implemwetation biytes the duist!)
+
+
+>wanted to know is how well do I have to roll vs. my combat perception to get
+>plusses to my applied defense/parry/block, etc.  What are the actual numbers?
+
+Didn't you get my big post on combat perception?  That details out for each levleo f success what the information you get is.  In terms of what to do 
+with it the location thing is explained in that post, timing and effectiveness of opponents blow do not bestow numeric advantages ecxcept those you can 
+create- you know much you can great blow without risk- you can stop defending for 4 counts, whatever....
+
+>How beneficial is it to roll against the Combat Percepion skill instead of
+>base perception?  Twice as good?
+
+To roll against your combat perception instead of your PER allows you to
+drop one level of success in your favor.  I.e. a fail becomes a partial 
+success, a partial success becomes a full success, etc.   I said it was 
+twice as good and it isn't quite.  This implementation is the easist though
+and can be quite benficial if you look at the numbers!
+
+
+
+Oh well..... 
+
+
+					ALex
+
+
+
+
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	I told you guys not to get me going.  I'm supposed to be working on
+my magic system!  Well instead, I've been thinking a lot about the combat
+system in Taliesin (and BT).  Let me run some ideas by you and see what
+you think of them.
+
+	I have included Phil in this discussion since he seems to like 
+working on systems.  He even makes useful suggestions sometimes :-)
+
+	The first change I am thinking about is the parry/block idea.
+(Recap for Phil:  Block/parry becomes one skill.  Block takes all damage
+to blocking surface--may need to save vs. breaking.  Parry moves damage
+aside--decreases chance to hit of opponent.  Blocking not modified by
+parry mod of weapon--heavy & unbalanced weapons will be better for blocking
+than parrying.  Parries better at linear attacks, blocks better at arcing,
+swinging attacks).
+
+	I've been thinking about the idea of pressing.  I lifted the idea
+(along with many other combat options) straight from Bardic Tales (thanks,
+Alex).  Now that I think of it, though, I think fighting in a press should
+not increase the chance to hit or the amount of damage.  In fact, I think
+it should decrease them.  Since Taliesin has a fairly linear relationship
+between %chance to hit and damage, a negative mod to %chance to hit will
+decrease damage as well (on the average).  I am probably going to make 
+fighting in a press take negative mods to hit.  I may just have a different
+concept than Alex does of "normal" fighting ranges.  The "normal" range in
+Taliesin will be that where the weapon is most effective.  I think Alex has
+the normal range set at what I would call a light retreat.  I believe he is
+trying to model the fact that most normal people are a bit tenative about
+closing right into a slugfest (is that right, Alex?).  I would just as soon
+set the normal range as the most effective, then say that any change in that
+range (press or retreat) brings negative modifiers.  I think Ueichi, from
+what I have heard, teaches "fight in press" skills.  Shotokan sounds like
+it teaches "fight from retreat" skills.  What do you think?
+
+	I have also been thinking about getting rid of dice in weapon 
+damages.  This ties into something I have been discussing with Phil.  I 
+would like to decrease the effects of a normal success in all actions, then
+say that each level of success ("critical" in the old school :-) increases
+effect by +1x.  It is easier to calculate 1x, 2x, 3x damage than to have to
+deal with halves.  Just another attempt to streamline and make things more
+playable.  Since increasing levels of effect bring varying levels of damage,
+and the accuracy of the swing and the opponents ability to avoid or stop it
+are all accounted for by various combat skills, why roll dice for damage?
+What does it mean when a well executed sword swing does only 1 pt of damage?
+Not that the opponent dodged--that would be evasion.  Not that he parried or
+blocked--he would have rolled vs. the appropriate skill.  Not that it was a
+poor blow--it succeeded by 20% (lets say).  Why have varying damage?
+
+	The argument against this is 1) varying damage accounts for all the
+little things like sun in your eyes, gusts of wind, etc, and 2) rolling
+damage is fun.  I am also thinking of cutting the curves (the random part)
+way down, and having a base amount of guarenteed damage.  What do you guys
+think of that?  (I think Alex will like it since it is basically what he uses).
+I would still like to retain 2 dice to keep a bell curve though.
+
+	Is it necessary to separate grapple and overbear?  This is another
+thing I lifted from BT, but am now questioning.  I definately see a difference,
+but I'm not sure it is worth modeling (in Taliesin).  My idea is this:
+Grappling is a skill based on dexterity and strength.  (Dexterity meaning
+body-centered actions).  Currently, people overbear if they are strong, but
+grapple if they are weak.  Could it be reasonably modeled that everyone 
+grapples and strong people have an advantage, but that weak (and lightweight)
+people can make this up through skill levels?  How about this as an
+alternative:  Grapple is Dex based (maybe also Agl).  People get to modify
+their grapple chance upward if they are strong or heavy, but it is not part
+of the base (therefore would not be magnified with increasing ranks).  Do
+either of those systems seem reasonable?  I'd like to get rid of the duplicity
+in the grapple & overbear skills if possible.
+
+	Finally, I have come up with a list (sorry, it is not arranged 
+logically) of combat actions.  I would like to come up with an exhaustive
+list of hand to hand techniques.  From this list, I would like to be able
+to assemble any martial arts style in the known world.  (Alex & Mark--this
+is what I was talking about before the run).  Please look at this list and
+tell me if you can think of any techniques--unarmed only--that cannot be
+explained reasonably by some combination of these skills:
+
+	Hand (punch), foot (kick), elbow strike, knee strike, block (arm &
+leg), backfist, spearhand/phoenix eye, knife/ridgehand, claw strike, palm
+heel, roundhouse kick, crescent kick, axe kick, front (snap or thrust) kick,
+side/back kick, hook/slap kick, head butt, bite, body slam, hold, throw,
+release, sweep.    [These are the basic skills.  Most will be supports to
+"hand" or "foot."  What follows are the skills that modify how the technique
+is done in combat.]
+
+	Spin, jump, feint, quickstrike, greatblow, lunge, press, retreat,
+joint locks, nerve strikes, (combat anatomy???), snap*  [snap is an attempt
+to model the effects of rotating hips/shoulders during an attack.  It would
+account for the extra power of a (shotokan?) punch or a rear-leg kick].
+
+	This represents a complete list of all the skills I could come up
+with from GURPS Martial Arts, Palladium's Superspies and Ninja book, all our
+discussion about martial arts, and even a bit of real reading.  I have not
+included acrobatics or staples of combat like perception and evasion.  Can
+you guys think of anything I have missed or failed to cover?  If not, you
+may be looking at the prototype of Taliesin's new comprehensive martial arts
+system!
+
+	Thanks for your help guys,
+
+							-Jeff
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	Mark:  I think you are right.  People will never be happy if they
+can't roll their damage dice.  I'll probably opt for the small dice plus
+a guarenteed amount of damage.  Sigh, who said gamers were logical?
+
+	Alex:  Thanks for clearing up what you intended when you outlined
+the martial arts styles and the skills that made them up.  I thought that 
+it was a bit much to think that Shotokan had more kicking skills than Tae
+Kwon Do, but I wasn't sure how far your bias for Shotokan (and against 
+Tae Kwon Do) went ;-)  I appologize for the false accusation.
+	I don't think you should worry about making general skills consistant
+with the other types of support skills.  They already differ in that they can
+apply to several different skills.  Allowing them to increase support skills
+is not that great a step, or that confusing, and I think it would make for a
+nice system.  Besides, it's not like you to refuse an idea for the sake of
+conceptual ease.  :-)
+
+	I don't have a problem with recovery times being equal to 1/2 weapon
+speed.  I chose, however, to make them equal to weapon speed for several 
+reasons:  1)  It is really difficult to say exactly how long it takes to 
+recover a weapon.  It is probably no greater than the weapon speed, but no
+less than 1/2.  I use 1x weapon speed because it is easier and not necessarily
+less realistic.  2)  Linear attacks would, I believe, be able to be recovered
+only as quickly as they are made.  The weapon would follow the same path, but
+in reverse.  Swinging attacks could be recovered more quickly than the attack
+since the weapon takes a more direct route back to a ready position, but I'm
+not willing to complicate my system to make that distinction.  3)  Most 
+importantly, consider energy.  I think it may be *possible* to recover most
+attacks (the non-linear ones) more quickly than the weapon speed.  That does
+not mean that that is how it actually happens.  Fatigue is a major factor in
+most combats.  Usually it is worth burning the extra calories (=fatigue) to
+strike an opponent quickly, because you have to hit the target before it
+disappears.  It is not usually worth burning extra calories to pull your 
+weapon back as quickly as possible.  It is usually done fairly quickly anyway,
+and usually not done as concious action.  Maybe if you are fighting an
+aikidoka or someone with a main gauche it would be worth your while to make
+it a concious action, but generally I don't believe as much effort and energy
+is put into recovering a strike as launching it.  
+
+	I remembered another skill for the "comprehensive" list--sacrifice.
+I also thought of another thing I hadn't covered.  I'm not sure how to model
+this, but I would also throw in a skill or set of skills to cover fighting
+stance.  Can you guys think of any aspect of unarmed combat that I have
+failed to cover?
+
+							-Jeff
+
+From: uunet!juliet.ll.mit.edu!alexj
+
+Jeff suggests:
+>If you do decide to go that route though, what do you think about giving 
+>characters rank # of speed points (instead of Rank-2)?  It is a little less 
+>confusing (it would help to balance out the splitting of points)
+
+You are actually getting rank.  If you have no skill in something you are at
+-2 INIT with it.  Every rank adds a spd point.  I think i would keep
+the RANK -2 for that reason!
+
+>The way I have weapons listed currently, the
+>weapon speed includes the recovery time.  That is why you may use half your
+>weapon speed when you are "en garde." 
+
+	My weapon speeds do not really handle recovery- they are the time it 
+takes to strike with the weapon from a ready position.  I agree that it 
+would be good for you to change the weapon tables.  I assume you would be 
+differentiating out the recovery times, right?
+
+>As to the -20% to any action which is completed
+>while another is recovering (I am reading that correctly, right?)--I don't
+>know if that is necessary. 
+
+	I am not sure how complicated it is really going to be.  People 
+can probably handle it.  It won't even become an issue unless they are
+doing a very detailed combat and then it might be worth it.  ANd it will
+make fights tend to a more realistic time scale.  I was thinking of being fairly generous with recovery and let it take place as a background action.
+
+FOr instance Edgar with rank 8 in sword(giving him 3 init counts under the 
+new way), and a spd of 5, swings a 10 count long sword.  He rolls an
+initiative of 9.  He would normally react at 4.  But he can begin recovering
+at 1(4{rolled init -base spd}} - 3{init from sword skill}).  Thus he will be
+done recovering with the long sword at 6!  He can begin doing something else 
+at 4 though- with another limb or skill.    
+
+In other words you don't roll a seperate initiative for the recovery action but you use the next init you roll and run it in the background of whatever
+action the character is doing next.  This is I think more relaistic, and
+maybe even a better way to handle florentine as well since we are dealing 
+with one mind...  thoughts- or have I completely blown you guys away with 
+this?
+
+Another way to say:
+	If you are performing multiple actions, you still only roll
+one inititive roll and the INIT values for all the actions are derived using that one roll.  
+
+KATA:
+All I ma saying about this is that the normal size of KAta in many martial 
+arts is probably too big to handle as a single grouping of skills in a gaming
+system.  Often they are repetitive and only deal with a small group of skills.
+I was trying to universalize skill grouping and define the parameter sof
+many skills, and how specific they have to be(RIOGHT NOW a kata in BT has to 
+include whether the attack is upper, mid, or lower level; and has to include 
+what support skills it uses.  Is this specific enough? 
+
+I like Jeffs idea about activating a Kata by doing the first movement at no 
+bonuses and then having it be a linear stream.  
+
+			Alex
+
+		ACK!  BACK TO WORK!
+
+From: uunet!umassmed.UMMED.EDU!glhodge (Geoffrey L. Hodge)
+
+	Mark:  I think you are right.  People will never be happy if they
+can't roll their damage dice.  I'll probably opt for the small dice plus
+a guarenteed amount of damage.  Sigh, who said gamers were logical?
+
+	Alex:  Thanks for clearing up what you intended when you outlined
+the martial arts styles and the skills that made them up.  I thought that 
+it was a bit much to think that Shotokan had more kicking skills than Tae
+Kwon Do, but I wasn't sure how far your bias for Shotokan (and against 
+Tae Kwon Do) went ;-)  I appologize for the false accusation.
+	I don't think you should worry about making general skills consistant
+with the other types of support skills.  They already differ in that they can
+apply to several different skills.  Allowing them to increase support skills
+is not that great a step, or that confusing, and I think it would make for a
+nice system.  Besides, it's not like you to refuse an idea for the sake of
+conceptual ease.  :-)
+
+	I don't have a problem with recovery times being equal to 1/2 weapon
+speed.  I chose, however, to make them equal to weapon speed for several 
+reasons:  1)  It is really difficult to say exactly how long it takes to 
+recover a weapon.  It is probably no greater than the weapon speed, but no
+less than 1/2.  I use 1x weapon speed because it is easier and not necessarily
+less realistic.  2)  Linear attacks would, I believe, be able to be recovered
+only as quickly as they are made.  The weapon would follow the same path, but
+in reverse.  Swinging attacks could be recovered more quickly than the attack
+since the weapon takes a more direct route back to a ready position, but I'm
+not willing to complicate my system to make that distinction.  3)  Most 
+importantly, consider energy.  I think it may be *possible* to recover most
+attacks (the non-linear ones) more quickly than the weapon speed.  That does
+not mean that that is how it actually happens.  Fatigue is a major factor in
+most combats.  Usually it is worth burning the extra calories (=fatigue) to
+strike an opponent quickly, because you have to hit the target before it
+disappears.  It is not usually worth burning extra calories to pull your 
+weapon back as quickly as possible.  It is usually done fairly quickly anyway,
+and usually not done as concious action.  Maybe if you are fighting an
+aikidoka or someone with a main gauche it would be worth your while to make
+it a concious action, but generally I don't believe as much effort and energy
+is put into recovering a strike as launching it.  
+
+	I remembered another skill for the "comprehensive" list--sacrifice.
+I also thought of another thing I hadn't covered.  I'm not sure how to model
+this, but I would also throw in a skill or set of skills to cover fighting
+stance.  Can you guys think of any aspect of unarmed combat that I have
+failed to cover?
+
+							-Jeff
+E 2
+I 1
+E 1

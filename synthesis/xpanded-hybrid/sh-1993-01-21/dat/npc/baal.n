@@ -1,0 +1,49 @@
+.Name BAAL
+.Title EX HIGH PRIEST			   
+.Race HU
+.Culture
+.Aspect 
+.PST 10
+.PEN 15		
+.DEX 10
+.PAG 18		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 6'2"      
+.WT 190		 
+.AGE 76
+.BeginDesc
+ STRIKINGLY HAWK FEATURED WHITE HAIRED MAN WITH BROWN EYES AND A	 
+FANATIC LOOK .
+.EndDesc
+.BeginSkills
+Weapon: STAFF5				, 
+.EndSkills
+.Locale DEAD - IN GROD'S GROUP'S HANDS
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ BEFORE HE DIED OF AN ARROW BELONGING TO HAWKEYE BRIARSON BAAL SUCCEEDED
+IN RAISING A HOLY JJIHAD AGAINST THE NORTHERN STAES (SQUELCHED BY STRIPGEAR		
+HAMMERWIELDER AND CATBHACH GILMIR) AND LATER CHASED OFF PLANE.
+.EndComment
+.BeginPossess
+ STAFF OF STRIKING AUGMENTED(STORED IN HIS SMALL KEEP IN THE SAN SIR
+MOUNTAINS
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,46 @@
+.Name MIAT
+.Title THE MYSTIC					
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 10
+.PEN 10		
+.DEX 10
+.PAG 17		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 20
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 155		 
+.AGE ?
+.BeginDesc
+ DARK AND CRAGGY WITH BLUE EYES AND BROWN HAIR!
+.EndDesc
+.BeginSkills
+Weapon: NONE				  , 
+.EndSkills
+.Locale THE KAYLIN MOUNTAIN RANGES
+.BeginKnownAssoc
+ BREMEN
+.EndKnownAssoc
+.BeginSecretAssoc
+ THE BROTHERS OF TEMPUS
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A PSIONIC WITH ALL PSIONIC DISCIPLINES MINOR AND MAJOR
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

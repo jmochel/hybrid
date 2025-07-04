@@ -1,0 +1,40 @@
+%this file is an example of using postscript specials to give 
+% headings a gray background  
+
+\hsize=5.7in 
+\font\rm=ptmr at 10pt
+\font\norm=ptmr at 10pt
+\font\tenrm=ptmr at 10pt
+\font\twelverm=ptmr at 12pt 
+\font\twelvebb=ptmb at 12pt
+\font\fourteenbf=ptmb at 14pt
+
+\nopagenumbers
+
+
+\newdimen\grayht \newcount\grayheight
+\def\getgrayheight#1#2#3{\grayht=#1bp \grayheight=#1  \setbox0=\vbox{#3}
+
+\loop \ifdim\grayht < \ht0
+    \advance \grayht by\baselineskip \advance \grayheight by #2 \repeat}
+
+\def\graybar#1#2#3#4#5{\special{ps:gsave #1 setgray #2 #3 rmoveto #4 0 rlineto  0 -#5 rlineto
+-#4 0 rlineto 0 #5 rlineto  closepath fill grestore}}
+\def\grayhead{\graybar{.8}{-6}{13}{216}{\the\grayheight}}
+\def\graybhead{\graybar{.7}{-28.8}{15}{12}{\the\grayheight}}
+\def\graythead{\graybar{.8}{-6}{15}{380}{\the\grayheight}}
+\def\grayahead{\graybar{.7}{-28.8}{13}{12}{\the\grayheight}}
+
+\def\heada#1{{\hsize=210bp\vskip 24pt plus6pt minus4pt
+{\twelvebb\parindent=6pt \baselineskip=14bp
+\getgrayheight{20}{14}{#1}\item{}\grayhead #1\par}
+\vskip 24pt plus 6pt minus 4pt}}
+
+then \heada{this is a grayyed heading} would have a gray background.
+note however that many print shops can't use slicks with more than black
+and white (the photographing is the rub). this isn't a problem with ur
+laser of course but if the ps file is going to a linotronic then to a
+print shop, one should have the linotronic print directly to film if
+possible.
+
+\bye

@@ -1,0 +1,267 @@
+.BeginSkill 
+.Name Lore:
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis MST
+.BeginDesc
+ This is the skill of forming and remembering information on 
+ a specific topic.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Melee Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation SIMPLETOOL
+.StatBasis PCA
+.BeginDesc
+This is the use of a given simple melee weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Thrown Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation SIMPLETOOL
+.StatBasis ACC
+.BeginDesc
+This is the use of a given simple throwing weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Missile Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation SIMPLETOOL
+.StatBasis ACC
+.BeginDesc
+This is the use of a given simple missile weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+.BeginSkill 
+.Name Complex Melee Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation COMPLEXTOOL
+.StatBasis PCA
+.BeginDesc
+This is the use of a given simple melee weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Complex Thrown Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation COMPLEXTOOL
+.StatBasis ACC
+.BeginDesc
+This is the use of a given simple throwing weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Complex Missile Weapon:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation COMPLEXTOOL
+.StatBasis ACC
+.BeginDesc
+This is the use of a given simple missile weapon.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+.BeginSkill 
+.Name Language:
+.BasicType TECH
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis FCS
+.BeginDesc
+The use of a given language.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Evasion
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PAG
+.BeginDesc
+The ability to avoid taking damage while staying within 
+striking range of your opponent.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Dodge
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PAG
+.BeginDesc
+The ability to throw yourself out of harms way.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Unarmed Combat:
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PCA
+.BeginDesc
+THe use of a particular striking technique to do damage. 
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Manipulate Energy:
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PSI
+.BeginDesc
+The ability to connect with and manipulate a given type of energy.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+.BeginSkill 
+.Name Perceive Energy:
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PSI+MAW
+.BeginDesc
+The ability to perceive the state and flow of a given energy type.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill 
+.Name Control Energy:
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis MST
+.BeginDesc
+The ability to control larger than normal amounts of power.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Spell:
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis FCS
+.BeginDesc
+The skill for casting a specific sorcery spell.
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Stealth:(Magical)
+.BasicType MDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis MAG+MAW
+.BeginDesc
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name Stealth:(Visual)
+.BasicType PDISC
+.Interaction UNASSIST
+.Implementation NOTOOL
+.StatBasis PAG+PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+
+.BeginSkill 
+.Name 
+.BasicType (MDISC,ART,SCI,ENG,CRAFT,TECH,PDISC)
+.Interaction (UNASSIST, SINGLE, MULT)
+.Implementation (NOTOOL, SIMPLETOOL, COMPLEXTOOL)
+.StatBasis
+.BeginDesc
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+
+

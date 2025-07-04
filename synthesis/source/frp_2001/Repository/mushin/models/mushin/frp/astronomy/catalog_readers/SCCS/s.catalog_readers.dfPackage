@@ -1,0 +1,102 @@
+H41047
+s 00013/00001/00021
+d D 1.3 01/07/18 14:35:37 jmochel 4 3
+c Models added
+c Reader now uses table based reading of the file.
+cC
+cK14971
+e
+s 00002/00007/00020
+d D 1.2 01/07/17 09:07:22 jmochel 3 2
+c Checked in Together models
+c Cartesian Coordinate Calculations added and appear to work.
+cC
+cK20845
+e
+s 00027/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK44167
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK13469
+cPmodels/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage
+cR478b980d
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package id1fvwgcp4bi4jzcp4c16xo;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+I 4
+/**
+@__ref <oiref:java#Class#mushin.frp.astronomy.catalog_readers.HipparcosReader:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+E 4
+D 3
+/**
+@__ref <oiref:java#Class#mushin.frp.astronomy.catalog_readers.HipparcosReader:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}}/**
+E 3
+I 3
+}/**
+I 4
+@__ref <oiref:java#Class#mushin.frp.astronomy.catalog_readers.FieldDefinitionTable:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}}/**
+E 4
+E 3
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+D 3
+@__positions <oigroup:<oiref:java#Class#mushin.frp.astronomy.catalog_readers.HipparcosReader:oiref>=10,10,143,78,1:oigroup> 
+E 3
+I 3
+D 4
+@__positions 
+E 4
+I 4
+@__positions <oigroup:<oiref:java#Class#mushin.frp.astronomy.catalog_readers.HipparcosReader:oiref>=10,10,143,78,1:oigroup>
+<oigroup:<oiref:java#Class#mushin.frp.astronomy.catalog_readers.FieldDefinitionTable:oiref>=365,9,173,78,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mushin.frp.astronomy.catalog_readers.HipparcosReader#m_Fields:oiref>=153,48,365,48:oigroup>
+E 4
+E 3
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

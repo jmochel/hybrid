@@ -1,0 +1,34 @@
+h60386
+s 00006/00000/00000
+d D 1.1 99/12/02 15:39:01 jmochel 2 1
+cC
+cK21311
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:38:57 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/1st/plots.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44874
+cPCampaign/Karban/1st/plots.txt
+cReb4785fc5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Have the 13 year old attacked by a male on the ship.
+Alien Kontact
+Old Earth Culture connections in space
+Someone from Beltane's Past coming for the artifact.
+Pook's artifact is one of the items that Joe's builders do 	not want given to ?
+
+E 2
+I 1
+E 1

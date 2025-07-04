@@ -1,0 +1,276 @@
+h30896
+s 00248/00000/00000
+d D 1.1 99/12/02 15:51:44 jmochel 2 1
+cC
+cK58025
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:51:40 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Summaries/ma.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44950
+cPResearch/Summaries/ma.txt
+cReb4786a65cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911120092708.556;
+          20 Nov 91 09:27:25 -0500
+Received: From oak.oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911120092708.556;
+          20 Nov 91 09:27:08 +0500
+From uunet!umassmed.UMMED.EDU!lapolito Mon Nov 18 14:18 EST 1991 remote from oak.com
+Received: by oak.com.oak.com; Mon, 18 Nov 1991 14:18 EST
+Received: from umassmed.UMMED.EDU by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA19693; Sat, 16 Nov 91 16:48:28 -0500
+Received: by umassmed.UMMED.EDU (5.61/HCX-2.2)
+	(for @oak.com.:chaman@oak.com ) id AA01178; Sat, 16 Nov 91 16:54:50 -0500
+Return-Path: <lapolito@umassmed.UMMED.EDU>
+Date: Sat, 16 Nov 91 16:54:50 -0500
+From: uunet!umassmed.UMMED.EDU!lapolito (Joseph Lapolito)
+Message-Id: <9111162154.AA01178@umassmed.UMMED.EDU>
+To: Mark_Desmarais@DGC.ceo.dg.com, alexj@juliet.ll.mit.edu, chaman@oak.com,
+        glhodge@umassmed.UMMED.EDU
+Subject: MA and vamps
+Content-Type: text
+Content-Length: 11695
+
+Hiya guys,
+
+For all you guys interested in martial arts, there's someone on the Vampires
+game list that is making MA rules, thought I'd pass along a bit of it to pique
+your interest (or scorn *hah*)
+
+
+
+Lisa
+
+
+Date: Fri, 15 Nov 1991 14:41 EST
+From: BDAVIDSO@utkvx.utk.edu
+Subject: Martial arts in the world of the night.
+To: vampire@nerix.nerdc.ufl.edu
+
+
+	Got to thinking about oriental vampires the other day, decided to put my experience to work and come up with a martial arts system for this game.
+
+	I wanted something that would spook your average PC when he first gets
+knocked silly from a mortal's kick to the head, but not something that is so
+powerfull that it becomes a focus of the game.  (ie unless you've got some form of Karate, your dead meat).  Here's what I came up with.  I probably won't try it out too soon, so I don't have any feedback or knowlege of how it will work.
+
+	Gonna send it seperate.
+
+	I've been thinking that some gangrel should have a from of Martial arts. You know lerning form nature (like Bando or Some Kung fu styles, but havent' really put any of that into concrete yet.)
+
+		Zambia
+		getsomegoddude
+
+Date: Fri, 15 Nov 1991 14:44 EST
+From: BDAVIDSO@utkvx.utk.edu
+Subject: here it is.  no editing or anything.
+To: vampire@nerix.nerdc.ufl.edu
+
+
+			MARTIAL ARTS FOR VAMP.
+
+	This si not not a Perfect realistic system.  I don't wnt it to be. 
+What I wanted was to make normal humans who were good fighters give Vampyres a
+bit of a work out.  On the other hand, I didn't want to let Characters or NPC's 
+who had Specialties in Martial arts walk all over those who didn't.  I think
+this is balanced to the point where it works but isn't overbalanced.  I haven't
+playtested any of it, but if you want to use what I came up with, here ya go.
+
+	I run it like this.  When a player get his brawl up to three dots and
+picks his specialty in a Martial art, he gains some neat stuff.  I do this
+mainly for detail.  I don't want a Trained Boxer facing off with a Gangrel who
+learned to fight with Grizzly bear and both of them fighting the same.
+
+	Most of these skills take some time to learn and I would not let a
+player aquire four dots in Brawl(Judo) in three weeks.
+
+			COMMON MARTIAL ARTS (for USA)
+
+KARATE:  Karate includes all "hard style" martial arts.  Styles like
+Ishin-rhyu, Shotokan, Gojo-ryu, American Freestyle, and Wado-ryu all get
+grouped under Karate (for simplicity, if you want to seperate 'em go a head)
+	... Powerfull techniques.  Characters with a Karate specialty and three
+		dots may add one extra die to their damage pools for punches
+and kicks only.
+	.... Determined mind.  Through discipline and hard work, you have
+learned to control your thought better.  Add one to your Willpower pool.
+	..... Pain resistence.  You have learned to take blows that would floor
+your average person.  You resist Damage with Stamina + 4 instead of +3.
+(I'm not sure if this is potent enough. maybe to much so.)
+
+KUNG FU: Kung Fu includes all "Soft Style" martial arts.  The difference
+between hard and soft styles is that a hard style tends to blocck and soft
+styles tend to divert your opponents attack.  This is a very basic wy of
+seperating them.  You will probably tick off many stylists if you tell them
+this, but this definition will work for game purposes.  Very few styles can be
+strictly classified as hard or soft, but here, they all get file somewhere. 
+Kung fu includes Kung fu(surprise), Tai-chi, Chineese Kempo, etc.
+	... Flexibility: you may kick as high as your height +10%  Gain +1 die
+to rolls requiring flexibility and balance.
+	.... Catlike: The complex locking blocks and movements of Kung fu make
+it very difficult to hit it's experienced pratitioner.  Anyone attacking you is
+automatically considered to have one 1(botch) in his die pool.  In other words,
+they must accumulate at least two successes to hit you.  (Meele and Brawl only. 
+You aren't quite fast enough to dodge bullets)
+	..... Full Coordination:  You can use both arms and one leg
+simultaneous against multiple attackers.  Your Brawling attack may affect up to
+three people (all must be within arms reach, and all may defend).  You may not
+attack three times.  You just roll one attack and apply it to all three of your
+opponants.
+
+WRESTLING:  This is american wrestling.  If you want to put Sumo in here or WWF
+(boy, that would be an odd campaign) feel free to do so, but I did not have
+them in mind when I came up with this.
+	... Know lots of neat holds: Grappeling difficulty is five, instead of
+ six
+	.... Know lots of neat escapes: If you are grappeled, you may
+automatically loosen one level of hold per round.  This is in addition to any
+you can accumulate through normal rules.  If your opponant "Knows lots of neat
+escapes" as well, this does not work.  (or optionally, you make a contest of
+skill to see.)  Wrestlers, given time, can squirm out of about anything.  Your
+opponant may continue to grapple you, accumulating successes.
+	..... Break fall:  you may roll your Dex+brawl to soak Damage from
+throws and grapples only.  (Kindred with this skill do not get two soak rolls. 
+The may try Stamina+fortitude or Dex+Brawl if they are thrown.  not both.)
+
+JUDO:  I seperated this from wrestling namely because Judoka are tough chokes
+while Wrestlers are not.
+	... as wrestling
+	.... Choke: Choke is a seperate attack diff 7.  It works like
+grappeling except that every round a choke is applied the opponant must make a
+Stamina check.  the difficulty is The number of successes accumulated + The
+number of rounds that the choke has been in affect.  You must realease a
+grapple to apply a choke. (Remember, Kindred do not breath or need blood
+vessels.  If you wrap your arms around one's throat, you may be in for quite a
+surprise)
+	..... Break fall: as Wrestling
+
+BOXING:  Probably the only reason Mike Tyson isn't a Kindred combat monster by
+now, is that most of them are probably afraid of him.
+	... The old one two:  You may punch twice per round.  The first puch
+does 1/2 damage (round up).
+	.... Powerful Techniques: as Karate, but punches only.
+	..... Thick skulled:  The scariest thing about boxers, is the fact that
+they don't seem to feel any pain.  These are guys that get punched in the head
+for a half-hour and like it.  In game terms, they may ignore pain (as a frenzy)
+if they make a willpower check.  The difficulty is the number of levels 
+lost + 4.
+
+TAE KWON DO: Rare for a while, this is gaining popularity in the US.  
+	... Flexibility:  as kung fu
+	.... Powerful techniques: as Karate but kick only. (There are punches
+in Tae Kwon Do, but the emphasis is definately on kicking)
+	..... Double jump kick:  neat looking manuever.  effectively works like
+The boxers Old one two, just with kicks.
+
+			UNUSUAL STYLES
+
+	Theses are styles not usually found in the US, hard to learn, or just
+too neat to be easy for charachters to get.  Characters must have good reason
+to get these specialties
+
+Aikido:  Stephen Seagal uses a hybrid version of Aikido.  It is a very young
+martial art (founded less than one hundred years ago by Moriai uehshiba) it is
+part anatomy, part physics, part Jujitsu, and part waltz.  If you ever see it
+in action, it looks very staged and very fake.  It also takes forever to learn.
+	... Catlike: as kungfu
+	.... Joint locks: Special attack.  dif 8. Successe (even a single one),
+means opponant is imobilized. (one of their joint is twisted into some very
+unnatural position, they are off balance and the Akidoist is standing where
+they can't reach them).  Dmg is inflicted by using Intelligence + Successes + 1
+	..... Break fall: as wrestling
+	Akido is a very defensive art.  If a character specializes in Aikido,
+they may not use this skill to punch or kick.  Only grapple, throw, or lock. 
+Learning Aikido (to three dots) takes at least a year and requires and
+inteligence of three and a medicine (anatomy) of one.
+
+JEET KUN DO: Bruce Lee's style.  This is a hybrid of Chineese kung fu and
+anything that bruce lee thought might hurt some one.  It means The way of the
+intercepting fist.  Jeet Kun DO's philosophy is beating your opponant to the
+punch.  It relies on speed and can be very brutal.  Jeet Kun Do "Masters" are
+almost as common as Ninjitsu "Masters" and usually about as credible.  There
+are some practitioners around.
+	... Fast and alert: gain two automatic success on intiative rolls (only
+if you are brawling)
+	.... Intercepting fist:  You have learned to attack and counter
+simultaneously.  As Catlike but with two successes.
+	..... Bloody Quick: Effective Celerity of 1 (for brawling only) 
+	Jeet Kun Do is very over balanced.  But it should be VERY rare in a
+campaign.  I would probably charge extra xp for it.  Come to think of it, I
+would probably do the same for Aikido.  Pre-Requisits: Wits 3, Dex 3
+
+TAI KICK BOXING:  VERY VERY Brutal sport.  Tai Kick boxers have an average
+career of one year. At the end of this year they usually retire due to
+injuries.  They train six days a week and fight on the seventh.  They do not
+use gloves like there american counterparts.  They use fist, feet, head,
+elbows, and knees to batter their opponants into submission.
+	... Knee:  usually to the groin area, can be targetted to the head with
+a hop.  This is a practiced and powerful technique.  Don't let your average
+knee to the groin do this.  Diff 5, damage Str + 1
+	.... Thick skulled: as boxing
+	..... Quick healing:  you regain 2 wound levels per day instead of 1.
+(Sorry, kindred.  Not you)
+	Pre requisits: Stamina 4, willpower 7, Love of bruises.
+
+
+Date: Fri, 15 Nov 91 19:08:23 EST
+From: kzin@cc.gatech.edu (Kikai heno hanashite)
+Message-Id: <9111160008.AA01286@cloudgen1.cc.gatech.edu>
+To: BDAVIDSO@utkvx.utk.edu, vampire@nerix.nerdc.ufl.edu
+
+Hmm..  I had thought about re-doing the "brawling" skill myself.. but
+that was when my ST was saying that the skill roll was "str + brawl",
+which made no sense to me at all.. once we got to "dex + brawl, but str
+for damage", I said "still not perfect, but close enough for a non-combat
+game".
+
+I don't agree with all that you did for implimenting your martial arts
+system.. and I should probably formulate a long and drawn out way of doing
+it.. Mine was based heavily upon the one in Cyberpunk 2.0.2.0.
+
+Basically, certain arts get bonuses with certain moves, and not others
+(I extended the list of maneuvers in hand to hand combat).  There was one
+thing that I specifically didn't like about yours, and that's how you
+handled Aikido.  I myself am an Aikidoka (though, out of practice)..
+in order to do Aikido justice, you have to change a lot of things.. 
+
+For example, damage ought to be based upon how many dice the threw at you,
+not upon any of your own traits (in aikido, you can only hurt the guy as
+much as he intended to hurt you.. because his energy and momentum do a lot
+to determin what counters you can use on him).  Also, there ARE kicks in
+aikido.. but they're mostly 'unbalacing' as opposed to 'impact' oriented
+(if you're comming at me, and I do a rising kick to your upper chest,
+your torso will move backwards, but your legs keep moving forwards.. and you
+fall on your butt).
+
+I'll print yours up, look it over some more, and try to remember what mine
+was.. and I'll try to get it back to you.. tomorrow (saturday).. 
+(btw: not to say I'm any more qualified in the martial arts than yourself,
+but I have studied Shito-ryu Karate, Aikido, Hapkido, and a long time ago
+I was in a kung fu class whose style I don't remember [LONG time ago]..
+which is just to say that I've got exposure to a lot of different forms
+of martial arts)...
+
+oh.. and I thought your definition of hard-vs-soft was a little off..
+
+but anyways, I'll send more later.
+
+John
+
+E 2
+I 1
+E 1

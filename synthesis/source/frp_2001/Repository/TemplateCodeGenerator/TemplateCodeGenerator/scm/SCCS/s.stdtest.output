@@ -1,0 +1,45 @@
+H55563
+s 00000/00007/00000
+d D 1.2 01/09/14 15:19:29 jmochel 3 2
+c Added the redirect feature and extended exception handling
+cC
+cK00000
+e
+s 00007/00000/00000
+d D 1.1 01/08/31 16:31:44 jmochel 2 1
+cC
+cF1
+cK10821
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/31 16:31:44 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/TemplateCodeGenerator/scm/stdtest.output
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK09755
+cPTemplateCodeGenerator/scm/stdtest.output
+cR5518527b
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+D 3
+
+    PearsonsHash
+    PearsonsHash
+	mushin.util.hash.PearsonsHash
+	mushin.util.hash.PearsonsHash
+	mushin.util.hash
+	Object
+E 3
+E 2N
+I 1
+E 1

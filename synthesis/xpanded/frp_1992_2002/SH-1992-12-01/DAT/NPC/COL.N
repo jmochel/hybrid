@@ -1,0 +1,46 @@
+.Name COL
+.Title THE INDIFFERENT				
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 13
+.PEN 17		
+.DEX 13
+.PAG 16		
+.PAW 14
+.MST 12		
+.MEN 14
+.PSI 19
+.MAG 14
+.MAW 14
+.HT 5'7"      
+.WT 140		 
+.AGE 90
+.BeginDesc
+ SHORT SLIGHTLY PLUMP BALDING WHITE HAIRED MAN
+.EndDesc
+.BeginSkills
+Weapon: STAFF(3)			 , 
+.EndSkills
+.Locale BODIE'S WHEREABOUTS UNKNOWN
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+ BROTHERS OF TEMPUS.
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ HE WAS A GREAT MAGE AND AN INDIFFERENT MAN.
+.EndComment
+.BeginPossess
+ MANY MINOR MAGIC ITEMS.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

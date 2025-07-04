@@ -1,0 +1,1080 @@
+Hybrid 1 : Players Guide 
+Jim Mochel 
+November 12, 1997 
+1 Copyright 1988,1989,1990,1991,1992,1993,1997 
+
+Contents 
+1 Quick and Dirty Intro to the 
+mechanics 3 
+1.1 Types of Rolls . . . . . . . . 3 
+1.1.1 Open Ended Rolls . 3 
+1.1.2 Evaluating Success 
+and Failure . . . . . 3 
+2 Tasks and Skills 7 
+2.1 Tasks . . . . . . . . . . . . 7 
+2.1.1 Description . . . . . 7 
+2.1.2 Difficulty Factors . . 8 
+2.1.3 Stat Basis . . . . . . 11 
+2.1.4 Time . . . . . . . . . 11 
+2.1.5 Applicable Skills . . 11 
+2.2 Skills . . . . . . . . . . . . . 11 
+2.2.1 Description . . . . . 11 
+2.2.2 Ranking . . . . . . . 11 
+2.2.3 Stat Basis . . . . . . 13 
+2.2.4 Gaining Skills . . . . 13 
+2.2.5 Training . . . . . . . 17 
+2.2.6 Costs of unlisted skills 17 
+2.2.7 Relations Among 
+Skills . . . . . . . . . 17 
+2.2.8 Unfamiliar Tools . . 17 
+2.3 Types of Skills . . . . . . . 18 
+2.3.1 Specialization . . . . 18 
+2.3.2 Filter Skills . . . . . 18 
+2.3.3 Optional Rule:Skill 
+Pools . . . . . . . . 18 
+3 General Play 19 
+3.1 Time Scale . . . . . . . . . 19 
+3.2 Perception . . . . . . . . . . 19 
+3.3 Initiative (Who Goes First) 20 
+3.3.1 Speed Gains Due to 
+Rank in a Skill . . . 21 
+3.3.2 How to avoid the 
+math . . . . . . . . . 21 
+3.3.3 Preset Reactions . . 21 
+3.4 Actions . . . . . . . . . . . 21 
+3.5 Speeds of Actions . . . . . . 22 
+3.6 Drawing a Tool or Weapon 22 
+3.7 Resolving an Action . . . . 22 
+3.7.1 Results . . . . . . . 22 
+3.8 Modifiers . . . . . . . . . . 23 
+3.8.1 Unranked in the Skill 23 
+3.8.2 Set-up . . . . . . . . 23 
+3.8.3 Florentine . . . . . . 23 
+3.8.4 Physically Injured 
+or Tired . . . . . . . 24 
+3.8.5 Movement . . . . . . 24 
+3.8.6 Environmental 
+Conditions . . . . . 24 
+3.9 Fatigue and Exhaustion . . 25 
+3.9.1 Losing Fatigue . . . 25 
+3.9.2 Losing Exhaustion . 25 
+3.9.3 Restoring Fatigue 
+and Exhaustion . . . 26 
+3.10 Physical Movement . . . . . 26 
+3.10.1 Acceleration . . . . . 26 
+3.11 Mental Movement . . . . . 27 
+3.12 Opposing Skill Rolls . . . . 27 
+3.13 Stealth and Concealment . 27 
+3.14 Deception and Detection . . 27 
+4 Combat 29 
+4.1 Description . . . . . . . . . 29 
+4.2 First Action Determination 29 
+4.3 Attack . . . . . . . . . . . . 29 
+4.3.1 Closing to Attack . . 29 
+4.3.2 Calculating 
+Chances to Hit . . . 30 
+4.3.3 All out attack . . . . 30 
+4.3.4 Advance . . . . . . . 30 
+4.3.5 Called Shots . . . . 30 
+4.3.6 Hit Location . . . . 31 
+4.3.7 Indirect Fire . . . . 31 
+4.4 Damage . . . . . . . . . . . 31 
+4.4.1 General Notes . . . . 31 
+4.4.2 Critical Damage . . 31 
+4.4.3 Types of Damage . . 32 
+4.4.4 Secondary effects . . 32 
+4.5 Defenses . . . . . . . . . . . 33 
+4.5.1 Rolling with the blow 33 
+4.5.2 Normal Defense . . . 33 
+4.5.3 Retreating . . . . . . 33 
+i 
+
+ii CONTENTS 
+4.5.4 Evasion . . . . . . . 34 
+4.5.5 Dodging . . . . . . . 34 
+4.5.6 Dropping Prone . . 34 
+4.5.7 Crouching . . . . . . 34 
+4.5.8 Parrying . . . . . . . 34 
+4.5.9 Block . . . . . . . . 35 
+4.5.10 Disarm . . . . . . . 35 
+4.6 Fancy Maneuvers . . . . . . 35 
+4.6.1 Spinning . . . . . . . 35 
+4.6.2 Jumping . . . . . . . 35 
+4.6.3 Feint . . . . . . . . . 35 
+4.7 Close Conflict . . . . . . . . 36 
+4.7.1 Overbear . . . . . . 36 
+4.7.2 Throw . . . . . . . . 36 
+4.7.3 Grapple . . . . . . . 36 
+4.7.4 Hold . . . . . . . . . 36 
+5 NPC-PC Interaction 37 
+5.1 Outline . . . . . . . . . . . 37 
+5.2 Reaction Rolls . . . . . . . 37 
+5.3 Presence . . . . . . . . . . . 37 
+5.4 Morale . . . . . . . . . . . . 38 
+
+List of Tables 
+1.1 Critical Success Table . . . . . . . . . . . . . . . . . . . . . . . . 5 
+1.2 Critical Failure Table . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+2.1 Subjective Difficulty Factors . . . . . . . . . . . . . . . . . . . . . 9 
+2.2 Generic DFs for Actions . . . . . . . . . . . . . . . . . . . . . . . 10 
+2.3 Skill Ranks: What they mean . . . . . . . . . . . . . . . . . . . . 12 
+2.4 Costs of Skill Components . . . . . . . . . . . . . . . . . . . . . . 14 
+2.5 Skill Cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+2.6 Skill Relations . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+3.1 Perception Modifiers . . . . . . . . . . . . . . . . . . . . . . . . . 20 
+3.2 Speeds of Basic Actions . . . . . . . . . . . . . . . . . . . . . . . 22 
+3.3 General Modifiers . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 
+3.4 Physical Condition Modifiers . . . . . . . . . . . . . . . . . . . . 24 
+3.5 Mental Condition Modifiers . . . . . . . . . . . . . . . . . . . . . 24 
+3.6 Movement Modifiers . . . . . . . . . . . . . . . . . . . . . . . . . 24 
+3.7 Environmental Condition Modifiers . . . . . . . . . . . . . . . . . 25 
+3.8 PFT and PEX costs for activity . . . . . . . . . . . . . . . . . . . 25 
+3.9 MFT and MEX costs for activity . . . . . . . . . . . . . . . . . . 25 
+3.10 PFT and PEX gains for activity . . . . . . . . . . . . . . . . . . 26 
+3.11 Movement Types . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 
+3.12 Targeted Action Movement Modifiers . . . . . . . . . . . . . . . . 27 
+4.1 Called Shot Modifiers . . . . . . . . . . . . . . . . . . . . . . . . 30 
+4.2 Hit Location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 
+4.3 System Shock Effects . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+4.4 Melee Combat modifiers . . . . . . . . . . . . . . . . . . . . . . . 35 
+1 
+
+2 LIST OF TABLES 
+
+Chapter 1 
+Quick and Dirty Intro to 
+the mechanics 
+1.1 Types of Rolls 
+There is one main type of roll in SpaceHybrid . The roll is made with percentile 
+dice against a Success Chance (SC). If the roll is under or equal to the Success 
+Chance, then the roll is successful. If it is greater than the Success Chance then 
+it is a failure. 
+The Success Chance is the percentage chance to perform a given task This SC 
+is determined from the statistics and skill of the character and modified based 
+on the difficulty of the task. The most common modifier is called a Difficulty 
+Factor (DF). This is a number that typically ranges from -10 to +10. 
+SuccessChance = 3 \Theta The Stat + Rank \Theta 4 +Difficulty of Task \Theta 5 
+As an example if the player character has a Physical Strength (PST) of 
+15, a rank in weight lifting of 4 and is trying to lift half his weight in mass 
+( a Difficulty Factor or DF of -5). This means the Success Chance (SC) is 
+SC = 3 \Theta PST +Rank \Theta 4 +DF \Theta 5 In the case of the weightlifting this means 
+SC = 3 \Theta 15 + 4 \Theta 4 + 
+is 1-100. If you roll 00 (a 100) you roll again add the 
+second roll to the first to get our total. 
+When percentile dice are rolled and the result is under the success chance, that 
+is a normal success. When the rolled number is significantly lower than the 
+needed roll there is a chance the action may have a greater than normal success. 
+3 
+
+4 CHAPTER 1. QUICK AND DIRTY INTRO TO THE MECHANICS 
+This is called a ``Critical'' success. Table 1.1 on page on page 5 describes the 
+rolls needed. 
+As an example. If a character needed to roll a 40 or under to hit a target 
+with a rock and they rolled under 1=2 of 40 then they will do 1.25 times the 
+damage they would normally do. 
+In the case of very poor rolls there is a chance that the roll may be a critical 
+failure This is caused by rolling 50 above your success chance or rolling above 
+by 1=2 the success chance of the action, whichever is greater. 
+So someone with a success chance of 90 needs to roll a 140 or higher to 
+critically miss while someone with a success chance of 120 needs to roll a 180 or 
+higher to critically miss. 
+To determine the severity of the critical failure roll against the amount missed 
+by as a success chance and compare the result to table 1.2 on page 6. 
+
+1.1. TYPES OF ROLLS 5 
+Type of Success Value Subjective Value 
+One Half 1=2 1.25 Solid Success 
+One Quarter 1=4 1.5 Notable Success 
+One Tenth 1=10 2.0 Very Notable Success 
+1=100 3.0 Amazing Success 
+Table 1.1: Critical Success Table 
+
+6 CHAPTER 1. QUICK AND DIRTY INTRO TO THE MECHANICS 
+Type of Failure value Subjective Value 
+One Half 1=2 -0.25 Solid Failure 
+One Quarter 1=4 -0.75 Notable Failure 
+One Tenth 1=10 -1.0 Very Notable Failure 
+1=100 -2.0 Amazing Failure 
+Table 1.2: Critical Failure Table 
+
+Chapter 2 
+Tasks and Skills 
+A task is an action or a group of actions to be performed. Each task has a diffi- 
+culty associated with it. That combined with the knowledge of the character's 
+rank in the skill and their stats allows us to determine the percentile roll needed 
+to succeed. 
+To do a task the character determines the Difficulty Factor DF of the task 
+and what skill(s) may be used to do the task. A base chance to BC is determined 
+and modified by the difficulty factor of the task. 
+Forcing a locked door is a task that has some difficulty. If the character 
+has no skill in forcing doors then they are forcing the door based on using just 
+physical strength. Their chance to force the door is based on their physical 
+strength and how difficult the door is to force. The sum total chance to force 
+the door is called the Success Chance SC. 
+If the character has a skill in forcing doors then they will have knowledge 
+about how best to apply their physical strength to get the door open. 
+Most players will not see a task description such as this. The GM may use 
+it. 
+2.1 Tasks 
+2.1.1 Description 
+Name Self Explanatory 
+DF The difficulty of the task 
+SB The stat basis of the task 
+Time How long the task typically takes 
+Applicable Skills Any skills that may be applied to the task 
+7 
+
+8 CHAPTER 2. TASKS AND SKILLS 
+2.1.2 Difficulty Factors 
+The difficulty of a task is described by a number referred to as an ``Difficulty 
+Factor'' or DF. Difficulty Factors for tasks typically range from -10 to +4. 
+Throughout SpaceHybrid it is assumed that the base DF of an action is 0 
+unless otherwise stated. 
+The modifier for a task is simply 5% times the Difficulty Factor or: 
+Modifier = 5 \Theta Difficulty F actor 
+If there are a series of actions that can be lumped together in a single task 
+the DF for the task is the average of the DFs for all the tasks. 
+Jogging across the street and leaping a small fence are actions that are best 
+lumped together into one task. There is no reason to ask the character to roll 
+a task roll for each action. But if the character stands the chance of being 
+exposed to someone looking for him then a roll should be made for the entire 
+set of actions. 
+There are some common actions and ways of describing actions that have 
+standard DFs. 
+
+2.1. TASKS 9 
+Subjective DF 
+Trivial +2 
+Simple 0 
+Non-Trivial -2 
+Difficult -5 
+Very Difficult -7 
+Damned Difficult -10 
+Nearly Impossible -20 
+Table 2.1: Subjective Difficulty Factors 
+
+10 CHAPTER 2. TASKS AND SKILLS 
+Basic Identification of Actions Needed for a task +3 
+Judgement of Quality +2 
+Basic Perception Roll w/in area of Skill +1 
+Basic Action ( makes up 60% or more of the 0 
+actions made by someone using this skill) 
+Anyone of basic competence would know this 
+action well. 
+Table 2.2: Generic DFs for Actions 
+
+2.2. SKILLS 11 
+2.1.3 Stat Basis 
+The task has a stat basis that describes what stat or combination of stats can 
+be used to do the task. This is only used if the character has none of the skills 
+in the Applicable Skills entry. 
+The Base Chance for someone who has no skill is 
+(3 \Theta SB skill ) 
+2 
+. 
+2.1.4 Time 
+The task will have time associated with it. This is the average time the task 
+typically takes to perform. 
+2.1.5 Applicable Skills 
+This is a list of suggested skills that could be used to do the task. It is not 
+exhaustive. 
+2.2 Skills 
+2.2.1 Description 
+Name Self Explanatory 
+Stat Basis The stat, or combination of stats, that is used by the skill. 
+Difficulty Factor The modifier for doing any action with this skill. 
+Generation Cost The character generation cost of a skill or skill package. 
+Skills only cost 1 point. Skill packages typically vary from 1 to 10 points 
+in cost. 
+EP Cost The experience point cost is the amount of experience points it takes 
+to buy a roll in a skill. 
+2.2.2 Ranking 
+Proficiency in a skill is described by a number with a range of 0-20. The higher 
+the number, the greater the character's expertise. Someone is completely unfa- 
+miliar with a skill is considered to be unranked. Someone who is familiar with 
+the basics of the skill is rank 0. Other rankings are described in table 2.3. 
+
+12 CHAPTER 2. TASKS AND SKILLS 
+Rank Expertise 
+0 Familiar with the skill 
+1-3 Beginner 
+4-6 Dedicated Amateur 
+7-10 Solid Workaday Craftsman 
+11-14 Professional 
+15-18 Expert 
+19-25 Mastery 
+25+ Mystical Mastery 
+Table 2.3: Skill Ranks: What they mean 
+
+2.2. SKILLS 13 
+2.2.3 Stat Basis 
+Each skill has a stat or a combination of stats that is called the stat basis and 
+is used to calculate the base chance of using the skill. 
+To use a skill the GM determines what the Base Chance of the skill is and 
+adds in the modifiers for the task being performed. The Base Chance of using 
+a skill is three times the Stat Basis of the skill or 
+3 \Theta SB skill 
+For each rank the character has in the skill add 4%. The modifiers for the task 
+vary for each situation. 
+A character with rank:0 in Rock Throwing is throwing a rock across 
+the street. The character has a Accuracy (ACC) of 12. Their Base 
+Chance to hit is 3 \Theta 12 = 36%. 
+2.2.4 Gaining Skills 
+A character can gain experience points for roleplaying and use those experience 
+points to buy that skill. 
+
+14 CHAPTER 2. TASKS AND SKILLS 
+BasicType Cost DF 
+Mental Disciplines 3 -4 
+Art 3 -2 
+Science 7 0 
+Engineering 5 0 
+Crafts 4 -1 
+Technical Study 4 0 
+Physical Disciplines 2 0 
+Interaction Cost DF 
+Unassisted 0 0 
+Single Assisted 1 -1 
+Multiple Assisted 2 -2 
+Tool Use Cost DF 
+Non-Tool Based 0 0 
+Simple Tool Based 1 -1 
+Complex Tool Based 2 -2 
+Table 2.4: Costs of Skill Components 
+
+2.2. SKILLS 15 
+Each skill has a base cost associated with it. This base cost is listed with the 
+skill or it can be gotten from table 2.4 Included below is a list of some typical 
+types of skills and their costs. 
+ffl Lore Skills (Mental Discipline, No Assist, No Tools) Cost is 3 
+ffl Spoken Language Skills (Mental Discipline, No Assist, No Tools) Cost is 3 
+ffl Written Language Skills (Mental Discipline, No Assist, Simple Tools) Cost is 
+4 
+ffl Unarmed Weapon Skills (Physical Discipline, No Assist, No Tools) Cost is 2 
+ffl Primitive Weapon Skills (Physical Discipline, No Assist, Simple Tools) Cost 
+is 3 
+ffl Complex Weapon Skills (Physical Discipline, No Assist, Complex Tools) Cost 
+is 4 
+ffl Basic Science Skills (Science,No Assist, No Tools) Cost is 7 
+ffl Basic Engineering Skills (Engineering,No Assist, Complex Tools) Cost is 7 
+ffl Basic Technical Skills (Technical, No Assist, Complex Tools) Cost is 6 
+
+
+16 CHAPTER 2. TASKS AND SKILLS 
+Rank    0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25  26  27  28  29  30 
+B    2  4  4  4  4  6  6  6  8  8  10 10 12 12 14 14 16 16 18 18 20 20 22 22 24 24 26  26  28  28  30  30 
+a    3  6  6  6  6  9  9  9  12 12 15 15 18 18 21 21 24 24 27 27 30 30 33 33 36 36 39  39  42  42  45  45 
+s    4  8  8  8  8  12 12 12 16 16 20 20 24 24 28 28 32 32 36 36 40 40 44 44 48 48 52  52  56  56  60  60 
+e    5  10 10 10 10 15 15 15 20 20 25 25 30 30 35 35 40 40 45 45 50 50 55 55 60 60 65  65  70  70  75  75 
+     6  12 12 12 12 18 18 18 24 24 30 30 36 36 42 42 48 48 54 54 60 60 66 66 72 72 78  78  84  84  90  90 
+     7  14 14 14 14 21 21 21 28 28 35 35 42 42 49 49 56 56 63 63 70 70 77 77 84 84 91  91  98  98  105 105 
+     8  16 16 16 16 24 24 24 32 32 40 40 48 48 56 56 64 64 72 72 80 80 88 88 96 96 104 104 112 112 120 120
+
+Table 2.5: Skill Cost 
+
+2.2. SKILLS 17 
+To determine the cost of raising a skill from one rank to the next rank up 
+find the row in table 2.5 that has the base cost of the skill. Find the column 
+with your current rank in that skill. The cost in each column to the right is the 
+cost it takes to raise a skill from the current rank. To go up in Weapon:Fist 
+(base cost 2) from rank 0 to rank 1 costs 4 EEPs. To go from rank 1 to rank 2 
+is another 4 EEPs and so on. 
+2.2.5 Training 
+For each 10 hours of training with a teacher the character gets 1 EEP. For each 
+20 hours of training with a partner the character gets 1 EEP. For each 30 hours 
+of self-training with a the character gets 1 EEP. 
+There are all sorts of modifiers so ask.... 
+2.2.6 Costs of unlisted skills 
+When figuring out the cost of previously unlisted skill use table 2.4 simply add 
+together all of the costs that appear to apply. 
+2.2.7 Relations Among Skills 
+In situations where the character does not have a skill that is directly applicable 
+to the task being performed the character may choose to use a related skill. 
+A typical example would be in using two different types of handguns. The 
+character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun 
+weapon is fairly different from the Slug Pistol so the character can only apply 
+1/5 of his expertise in Slug Pistol to using this pistol. So he has an effective 
+rank 2 in the weapon. 
+As a rule the following relations apply. 
+Similiar in many respects 2/5 
+Dissimiliar in many respects 1/5 
+Really Stretching it 1/10 
+Table 2.6: Skill Relations 
+2.2.8 Unfamiliar Tools 
+If the skill requires the use of tools and the tool that the character is utilizing 
+is unfamiliar, then the action occurs at a DF -2. This usually only happens if 
+the differences between the version of the tool the character normally uses and 
+the current one actual effect how it is used. A gun with a different mass than 
+the entity is used to is unfamiliar, whereas a gun of the same model and same 
+manufacturer is not. To eliminate this unfamiliarity modifier requires that the 
+entity familiarize himself with the tool with a DF -3 roll against the SB of the 
+skill with a gain of 1 DF per roll. 
+
+18 CHAPTER 2. TASKS AND SKILLS 
+2.3 Types of Skills 
+The section on skills describes the basic way that skills are handled but there 
+are a variety of special types of skills that are used for special circumstances. 
+2.3.1 Specialization 
+Skills that are described as general skills cover a wide range of tasks with very 
+little depth. A person who has learned a general skill such as Throw Object is 
+able to throw just about anything they can get their hands on ( knives, spoons, 
+rocks, chairs) with a lesser success chance than someone who has a specific skill 
+in throwing a particular object. 
+In addition, there are skills known as support skills that are solely designed to 
+increase the success chance when doing one type of action with a skill. Someone 
+who uses their sword to parry weapon attacks may wish to train specifically in 
+parrying with a sword. So they would have a ``Long Sword' skill and a ``Long 
+Sword : Parry'' skill. 
+General skills only give 1%/rank to the success chance. Specific skills (the 
+SpaceHybrid norm), give 4%/rank. Support Skills add 2%/rank. 
+2.3.2 Filter Skills 
+There is a category of skills which affects the use of other skills in an environment 
+different from the one they were learned in. These skills are called filter skills. 
+A Filter skill is any skill that can allow for the full expression of other skills in 
+an environment other than that for which those skills were designed for. 
+Typical filter skills include the following: 0-g maneuver, Tech Level Lore, 
+Culture Lore, Mounted Combat, Vehicular Combat skills, Armor Wearing, and 
+Computer operations. 
+For situations in which the character is attempting to apply a skill in a 
+environment he is not familiar with and that skill must interact with that 
+environment, then the rank in the filter skill becomes the upper limit on the 
+effective rank of the skill being used. 
+As an example, if someone has a mounted combat skill at rank 5, he or she 
+may use their archery skill up to rank 5 without making any rolls against their 
+mounted combat. If the character has a higher archery skill and wants to bring 
+it all to bear on a shot, they must roll against their mounted combat first in 
+order to get the full use of the archery skill. 
+2.3.3 Optional Rule:Skill Pools 
+P oolBonus = RankHighestSkill + 1%=(SkillofMrankbeyondthefirstNskills) 
+where M = 1=2RankHighestSkill and N = RankHighestSkill 
+Pools may be grouped according to training style, SB, or character prefer- 
+ence. 
+
+Chapter 3 
+General Play 
+This chapter discusses various pieces of the game system that effect every char- 
+acter. These rules are not specific to either combat or non-combat situations. 
+The model of tasks and actions in SpaceHybrid is based on a series of re- 
+actions and actions. When a character first enters a scene they determine how 
+much they see and understand of the situation perception roll. Then they deter- 
+mine how quickly they can react initiative roll. The character will react faster 
+when they know what is going on and slower when they don't. If a character 
+is expecting something to happen they can prepare for that occurrence preset 
+reactions and speed up their response. 
+Once the character has reacted they determine what they will do and then 
+do the action. 
+There are a variety of things that can modify the chance of doing an action 
+successfully. The character can mentally prepare for the action set-up to increase 
+their chances. The action can be sped up by decreasing the chance of success 
+rushing an action. Actions can be performed simultaneously floretine. There 
+are additional modifiers for doing something while moving or while tired and so 
+on. . . 
+3.1 Time Scale 
+Time is referred to by the units we are used to, Hours, minutes, and seconds 
+and one that is new: Pulses. A pulse is 1/10th of a second. Pulses are used in 
+combat and other time critical activities. 
+3.2 Perception 
+Most of the time a situation is self evident. A character automatically knows 
+that there is a bar in the room and how many people are in it. But if something 
+could go unnoticed by the character, such as a suprise attack or something 
+hidden, the player should make a perception roll. A perception roll is typically 
+19 
+
+20 CHAPTER 3. GENERAL PLAY 
+h 
+Situation DF 
+Blinded -5 
+Deafened -3 
+Drunk/Stoned -5 
+Asleep -4 
+Poor Lighting -3 
+Not Alert -3 
+Alert 0 
+Actively Watching +3 
+Table 3.1: Perception Modifiers 
+SB = PAW, DF=0, with modifiers for how alert the character is trying to be. 
+A perception roll takes 8 pulses. A Passive Perception Roll can be made during 
+any action at 1/4 the success chance of a normal perception roll. A passive 
+perception roll takes no time and takes no modifiers for simultaneous actions. 
+The critical success and failure effects are fairly straight forward. 
+Amazing Success - Total Understanding, 300% Detail, +-0% Timing 
+Very Notable Success - Total Identification, 200% Detail, +-5% Timing 
+Notable Success - Total Identification, 150% Detail, +-10% Timing 
+Solid Success - Able to Identify exactly what is happening, 125% Detail, +-25% Timing 
+Success - Basic Identification, 100% Detail, +-50% timing 
+Failure - Vague Identification, 25% Detail, +-75% timing 
+Solid Failure - No real clue, 0 Detail, 0 Timing 
+Notable Failure - Inaccurate Identification, +-125% Detail, +-175% Timing 
+Very Notable Failure - Inaccurate Identification, +-150% Detail, +-200% Timing 
+Amazing Failure - Wildly Inaccurate Identification, +-250% Detail, +-300% Timing 
+Task: Active Physical Perception 
+DF: 0 
+Time: 8 cts. 
+Skills: General Perception, Combat Perception 
+Notes: 
+Task: Passive Physical Perception 
+DF: 0 
+Time: 0 cts. 
+Skills: General Perception, Combat Perception 
+Notes: Done at 1/4 the normal chance 
+3.3 Initiative (Who Goes First) 
+When a character first enters a situation where action may be required they 
+must determine how much they know and how quickly they react. 
+
+3.4. ACTIONS 21 
+When a character first becomes involved in a conflict they roll a perception 
+roll. Then the PC rolls an Initiative roll. The Initiative roll is simply 2d6 + 8 
+haracter 0 s Speed 
+Initiative = 2d6 + 8 
+roll is lower than 1 the excess speed goes toward speed points 
+and can be applied to a number of seperate tasks. 
+3.3.1 Speed Gains Due to Rank in a Skill 
+The character may add Rank=2 points to their speed points when using a skill. 
+This may only be done once the character has decided to use a given skill. 
+3.3.2 How to avoid the math 
+There is a set of tables that the GM can provide that can be used to simplify 
+this. 
+3.3.3 Preset Reactions 
+When a character is waiting for something specific to happen and intends to 
+react a certain way when it does the charcetr is presetting an action. A gun- 
+fighter waiting for someone else to start drawing their weapon is a preset action. 
+Having a preset action allows the character to increase the chance of detecting 
+the triggering action and speeds up the preset action. Holding a preset action 
+can be fatiguing over long periods of time. 
+Declaring an action to be preset allows an DF +4 to a perception roll. If the 
+perception roll is successful, the character gets to apply their 2 \Theta Speed Reaction . 
+A Preset reaction may only be held for MST in the time scale that the players 
+are working in before a cost of 1 MFT must be expended. 
+3.4 Actions 
+Actions normally begin at the count given by the initiative roll. The must be 
+made at this point. The speed of the action is determined and the character 
+takes this action on a pulse given by Initiative + The speed of the action. 
+
+22 CHAPTER 3. GENERAL PLAY 
+3.5 Speeds of Actions 
+Most actions have a speed associated with them. All simple actions , unless 
+otherwise noted, have a standard speed of 10 counts. 
+Action Speed 
+Sitting 15 
+Standing 20 
+Kneeling(1 Knee) 10 
+Arising(1 Knee) 12 
+Kneeling(2 Knee) 26 
+Arising(2 Knee) 28 
+Lift Light object 10 
+Lift Heavy Object 40 
+Any Simple Physical Action 10 
+Turning 10 
+Perception 8 
+Table 3.2: Speeds of Basic Actions 
+Actions can be performed faster. Speeding up an action lowers the chance 
+of success. Generally half the time to act means you have half the chance to 
+succeed. 
+For each percentage of time units the action is sped up a corresponding 
+percentage is removed from the success chance. Thus an action performed in 
+1/4 the time has 1/4 the success chance. 
+Actions can be sped up using speed points. 
+3.6 Drawing a Tool or Weapon 
+This most often applies to drawing a weapon but can also apply to other tools. 
+In general, when a weapon is in hand, all normal weapon speeds apply. In order 
+to get a weapon into ones hand it takes 2 \Theta Speedweapon in pulses. 
+In order to get a weapon in hand faster than 2 \Theta Speedweapon requires a fast 
+draw roll against the weapon's skill. A successful ready roll brings the tool or 
+weapon to bear at Speedweapon . 
+3.7 Resolving an Action 
+Actions usually require only a skill roll to be made. 
+3.7.1 Results 
+The end result of a roll is either a numeric value or a simple subjective result. 
+See the table 1.1 
+
+3.8. MODIFIERS 23 
+3.8 Modifiers 
+This section describes the common Difficulty Factors for various situations. All 
+these modifiers are culmulative. 
+3.8.1 Unranked in the Skill 
+A character who has training or experience in an action is unranked in the 
+required skill. Any character performing an action using a skill they have no 
+rank in has 1/2 the normal base chance and adds 2 pulses to their initiative. 
+3.8.2 Set-up 
+Waiting and prepping oneself for a task is called Setting-Up. It will generally 
+increase the chance to do something at a cost of increased time to get it done. 
+Setting Up for an action takes as long as it takes to perform the action. The 
+end effect is a bonus to the Success Chance of 
+20% + 2%=rank 
+. 
+To set-up an action with a time scale of pulses or seconds (and sometime 
+minutes) the total time taken is 1 \Theta Speed Action . To set-up an action with 
+a time scale of many minutes, hours, days, or weeks the total time taken is 
+1=4 \Theta Speed Action . 
+3.8.3 Florentine 
+Performing two actions at the same time is called Florentining. 
+One of the two actions is the primary action and it recieves a DF -3. The 
+secondary action recieves a DF -6. This is only true if the two actions are both 
+physical or both mental. If one action is a mental action and the other is a 
+physical one the modifiers go down to DF -2 and DF -4. 
+Situation DF Modifier Other Modifier 
+No rank in skill 1=2BC 
+Florentine Action 
+Mental Mental -4/-6 DF -2 Awareness 
+Physical Physical -4/-6 DF -2 Awareness 
+Mental Physical -2/-4 DF -2 Awareness 
+Setup 20% + 2% \Theta Rank 
+Table 3.3: General Modifiers 
+
+24 CHAPTER 3. GENERAL PLAY 
+3.8.4 Physically Injured or Tired 
+A character that is injured or fatigued has DF modifiers to their actions. Phys- 
+ical fatigue has the greatest effect on physical actions and Mental fatigue has 
+the greatest effect on Mental actions. 
+Situation DF Modifier 
+Out of PEX -6 physical 
+Out of PEX -3 mental 
+25% wounded in PBD -2 Physical 
+25% Wounded in PBD -1 Mental 
+50% Wounded in PBD -4 Physical 
+50% Wounded in PBD -2 Mental 
+Table 3.4: Physical Condition Modifiers 
+Situation DF Modifier 
+Out of MEX -6 mental 
+Out of MEX -3 physical 
+25% wounded in MBD -2 Mental 
+25% wounded in MBD -1 Physical 
+50% wounded in MBD -4 Mental 
+50% wounded in MBD -2 Physical 
+Table 3.5: Mental Condition Modifiers 
+3.8.5 Movement 
+When performing an action the character may be affected by his rate of move- 
+ment. If the character is moving faster than a walk the DF due to movement 
+applys to any physical action they are attempting. ANy mental action they 
+perform is subject to 1/2 the listed DFs. 
+Double Move: jog DF -2 
+Triple Move: Run DF -4 
+Fast move: Dash DF -6 
+Vehicular Movement DF -10 
+Table 3.6: Movement Modifiers 
+3.8.6 Environmental Conditions 
+This is a catchall area. Characters generally are at their best performance in 
+conditions similiar to the environment in which they were raised. Any dras- 
+tic modifications from that environment in terms of light, gravity, humidity, 
+etc. . . can lower the character's performance. 
+
+3.9. FATIGUE AND EXHAUSTION 25 
+Situation DF Modifier 
+Lighting 50% off -3 
+Lighting 75% off -4 
+Gravity 50% off -3 
+Gravity 100% off -4 
+Table 3.7: Environmental Condition Modifiers 
+PFT and PEX costs for activity 
+Activity PFT PEX 
+Crawling 
+Walking 1/min 6/hr 
+Jogging 1/min 
+Running 6/min 
+Dash 2/sec 
+Chopping Wood 3/min 18/hr 
+Table 3.8: PFT and PEX costs for activity 
+3.9 Fatigue and Exhaustion 
+A character using energy to perform actions draws from two different types of 
+reservoirs: Fatigue and Exhaustion. For physical actions the stats are Physical 
+Fatigue and Physical Exhaustion (PFT and PEX). For mental actions the stats 
+are Mental Fatigue and Mental Exhaustion (MFT and MEX). 
+Fatigue is the quick access pool of energy a character can use. Exhaustion 
+is the reserve pool of energy a character can use. 
+3.9.1 Losing Fatigue 
+A character loses fatigue as the result of physical activity or combat. A character 
+that has lost all their fatigue has no modifiers to their actions. Fatigue will come 
+back quickly. For each 10 points of fatigue used the character also loses 1 point 
+of exhaustion. 
+3.9.2 Losing Exhaustion 
+A character loses Exhaustion by performing strenous activity or by losing fa- 
+tigue. There are modifiers for being low in Exhaustion. 
+Characters lose MFT and MEX in the same manner. 
+Activity MFT MEX 
+Studying 1/min 6/hr 
+Spell Research 3/min 18/hr 
+Table 3.9: MFT and MEX costs for activity 
+
+26 CHAPTER 3. GENERAL PLAY 
+Activity PFT PEX 
+Sitting/Talking 1/sec 2/hr 
+Resting(prone) 1/sec 5/hr 
+Sleeping 1/sec 10/hr 
+Eating (Large Pasta like meal) 1/sec 6 
+Table 3.10: PFT and PEX gains for activity 
+Movement Type Rate of Movement (meter/second) 
+No Move 0 \Lambda Movement 
+crawls, slow walks 0:50 \Lambda W alk 
+Walking 0:50 \Lambda Jog 
+Jog 0:50 \Lambda Run 
+Run 0:50 \Lambda Dash 
+Dash 1:00 \Lambda Movement 
+Table 3.11: Movement Types 
+3.9.3 Restoring Fatigue and Exhaustion 
+The restoration of Fatigue is usually very quick. Exhaustion and Fatigue restore 
+themselves independently of each other. 
+3.10 Physical Movement 
+Each character has a statistic named Physical Movement. This is the character's 
+movement in meters/second at a dash. There are a total of five different types 
+of movement that a character may utilize. Each type of movement has its own 
+movement rate which is derived from the character's movement statistic. Ideally 
+the player will have the full range of movements listed on his character's sheet. 
+If the movement is being resolved during a time scale of greater than every 
+pulse one can get the distance traveled by simply multiplying the movement 
+of the individual times the time spent moving. The time spent accelerating is 
+ignored as being negligible. 
+Let us say that Joe Daring spends 15 seconds running down a de- 
+serted street. If he doesn't run out of street he will have covered 4 
+* 15 = 60 meters. If this seems a bit short, keep in mind that a run 
+is not a full dash. At a full dash Joe would have covered twice the 
+distance and would be slowing down pretty drastically due to losing 
+wind. 
+3.10.1 Acceleration 
+It is important to remember 
+that the accelleration rules 
+should only be used when 
+the distance travelled by the 
+characters over a short pe- 
+riod of time is important 
+In dealing with movement on a pulse by pulse scale we need to actually deal with 
+acceleration. The sequence is quite simple. Whatever the final movement rate is 
+
+3.11. MENTAL MOVEMENT 27 
+Slow move: crawls, slow walks (combat ) DF -2 
+Normal move: Walking DF -4 
+Double Move: jog DF -6 
+Triple Move: Run DF -8 
+Fast move: Dash DF -10 
+Vehicular Movement DF -14 
+Table 3.12: Targeted Action Movement Modifiers 
+that the character intends to use is considered the target movement rate. When 
+the character first starts moving he makes an skill roll in order to start moving 
+at the movement rate just below the target movement rate. Once the roll is 
+made the character is now moving at that lower rate. On his next initiative 
+the character may attempt to accelerate to the target movement. Note that the 
+gain number is the movement rate. If an acceleration roll is failed the end result 
+is that the character drops to the next lowest available movement rate. 
+Reed Johnson has a movement of Dash 10, Run 5, Jog 2.5, Walk 
+1.3, Crawl .6 
+3.11 Mental Movement 
+This is a measure of the character's speed of mental travel. It is usually only 
+used in Psionics and Computer usage. 
+3.12 Opposing Skill Rolls 
+An opposing skill roll in a roll in which the character attempts to undo an action 
+done previously by another character. Typically the SN of the original action 
+is taken as a negative modifier to the current skill roll. 
+3.13 Stealth and Concealment 
+Opposing Skill Rolls 
+3.14 Deception and Detection 
+Opposing Skill rolls 
+
+28 CHAPTER 3. GENERAL PLAY 
+
+Chapter 4 
+Combat 
+The combat section details the types of actions that may be taken while in 
+combat. The chapter on General Play must be understood before working with 
+the combat details. 
+4.1 Description 
+Combat normally occurs on a pulse by pulse basis. The process is fairly simple: 
+Determine First Reaction. For each of those reactions in order determine the 
+action or attack, the damage from the attack ( if any), the secondary effects of 
+that damage ( if any). Take a breath. Continue. 
+4.2 First Action Determination 
+As detailed in the chapter on General Play mechanics. Perception is rolled, 
+initiative is determined and actions are chosen. 
+4.3 Attack 
+4.3.1 Closing to Attack 
+When attacking someone with a weapon of greater reach than their own an 
+attacker must close to get in range to strike. If the defender is aware of the 
+attack and has a usable initiative the may actively resist the closing action. 
+To do so they must make an skill roll using a weapon to fend the attacker off. 
+Fending does not require a re-roll of initiative, the time taken for the fend (same 
+as block and parry) is simply added to the defender's current initiative. 
+A fend is treated as any other attack form and all active defenses can be 
+performed against it. If the fend is successful and the attacker chooses to ignore 
+it the fend does normal damage for the weapon. 
+29 
+
+30 CHAPTER 4. COMBAT 
+Target Size DF 
+Eye 1 sq'' -18 
+Hand -15 
+Head 1 sq' -12 
+Leg/Arm -9 
+Chest -6 
+Table 4.1: Called Shot Modifiers 
+If a character that has closed with their opponent is unarmed they may 
+proceed to grapple, to throw, or to overbear. 
+If the defender wishes to simply retreat they may do so. They may do so 
+by rolling to fend off the closing action at a DF +6. Of course, they do end up 
+moving backwards. 
+If an attacker has been closed upon they may choose to drop their current 
+weapon and use a shorter one, they may choose to use their current weapon as 
+if it were a club, or they may attempt to retreat. 
+4.3.2 Calculating Chances to Hit 
+The attack has a chance to hit that comes from the SC of the weapon and is 
+modified by the DF of the environment and also the defense of the person being 
+attacked. Melee weapons base all their attacks on PCA. Missile and thrown 
+weapons base all their attacks on ACC. 
+Mental actions performed against inanimate objects is based on FCS and 
+mental attacks against an entity are based on MCA. 
+4.3.3 All out attack 
+An all out attack means that the character is attacking without any attempt to 
+defend themself. 
+A character may choose to perform an all out attack and thus gain their 
+MDF or PDF to their attacks and lose his MDF or PDF for defense. This is 
+simply an extension to the concept of applying Total Concentration as detailed 
+in the General Play Mechanics chapter. 
+4.3.4 Advance 
+A character may choose to press in on an opponent. In doing so they gain 
+DF +4 to all offensive actions and DF -4 to all defensive actions. This is only 
+possible if the attacker has a weapon of greater or equal length to the defender. 
+4.3.5 Called Shots 
+In any physical targeted action there is the potential to specify the location of 
+the strike. That of course entails DF modifiers to the action. 
+
+4.4. DAMAGE 31 
+Roll Location 
+01-06 Head (DF -6 to System Shock) 
+07-30 Chest 
+31-48 Abdomen 
+49-56 Groin ( DF -4 to System Shock) 
+57-72 Upper Leg 
+73-84 Lower Leg 
+85-86 Foot 
+87-92 Upper Arm 
+93-98 Lower Arm 
+99-100 Hand 
+Table 4.2: Hit Location 
+4.3.6 Hit Location 
+The target number is calculated, the roll is made. If the attack is a success then 
+the damage is applied against the armour and then the target. 
+All hits are checked against the hit location table. 
+If any result on the Hit Location table indicates a target for which there is 
+a right and a left, the one's value of the die roll determines the side. If the die 
+is odd, the hit was against the left. If the die is even, the hit was against the 
+right. 
+4.3.7 Indirect Fire 
+Indirect fire (i.e. a Lob) requires an additional DF -2. Range is the PST in 
+meters. 
+4.4 Damage 
+4.4.1 General Notes 
+All damage is calculated and then applied to the location specified by the hit 
+location table. If that area is armored the damage is first applied to that armour. 
+If the damage is great enough to get past the armour, the damage is then applied 
+against the appropriate type of Fatigue such as PFT or MFT and then against 
+the PBD or MBD of the entity. 
+If the weapon has any secondary effects such as knockback or radiation they 
+are applied and calculated. 
+4.4.2 Critical Damage 
+Any attacks that cause critical damage apply the additional damage to the PBD 
+or MBD after armour. 
+
+32 CHAPTER 4. COMBAT 
+4.4.3 Types of Damage 
+There are several types of damage. There is Crushing, Cutting, Piercing, Pro- 
+jectile, Laser, Energy, and explosive damage. Each one is typically associated 
+with a specific weapon type. 
+Crushing Damage Crushing damage is damage caused by low speed blunt 
+weapons such as a club, a staff, a fist, or a chair. 
+Cutting Damage Cutting damage is caused by the use of slicing or chopping 
+motions with an edge weapon. 
+Piercing Damage Piercing damage is caused by low speed pointed objects 
+entering the body along the axis of the point. 
+Projectile Damage Projectile damage is caused by objects moving at high 
+speeds. The only real difference between piercing or crushing and projec- 
+tile damage is that the weapon moves at a high speed and imparts a high 
+amount of kinetic energy to the target. 
+Laser Damage Laser damage is caused by optical lasers. Damage caused by 
+non-optical lasing devices such as Masers and X--lasers is classified as 
+Energy damage. 
+Energy Damage Energy damage (abbrev. NRG) is typically associated with 
+non-optical electromagnetic weapons. 
+Explosive Damage Explosive damage is, quite logically, caused by explosions. 
+It is the result of a expanding wave front of gasses or minute particles. 
+4.4.4 Secondary effects 
+There are several types of secondary effects. There is knockback, bleeding, and 
+Shock. 
+Knockback 
+When a character has been hit by a something with large amount of kinetic 
+energy they can fall down or lose their balance. This is called Knock-Back. 
+It happens when more than 1/2 of the entities PFT or 1/4 of their PBD is 
+taken away in a single crushing or projectile strike. It can also happen with 
+any explosive attack. The Knockback resistance roll is DF -2. If successful the 
+character is unaffected. If failed the entity has fallen to the ground. The stat 
+basis is typically PST or PAG whichever is greater. 
+Bleeding 
+Bleeding is the result of a cutting or piercing attack that has done actual PBD 
+damage. The Bleeding resistance roll is DF -3. If failed the end result is 1 point 
+of PFT loss to bleeding per 20 pulses. The stat basis is PEN. 
+
+4.5. DEFENSES 33 
+Roll Effect DF 
+Normal Failure Jolted/Startled -2 
+Failed by 25+ Stunned -4 
+Failed by 50+ Badly Stunned -6 
+Failed by 75+ Unconscious - 
+Table 4.3: System Shock Effects 
+Shock 
+Shock is the state brought on by massive disruption of the senses or nervous 
+system of the character. Shock effects range from the minor (startled) to the 
+major (being unconscious). 
+A System Shock roll is necessary when an attack does either PBD or MBD 
+damage or when a successful attack is made with energy weapons such as 
+Charged particle or TASER weapons. A System Shock roll is made against 
+PEN or MEN. 
+Recovering from being stunned or shocked means rolling every initiative roll 
+pulses at not speed 2d6 + 45. 
+4.5 Defenses 
+4.5.1 Rolling with the blow 
+OK, you know you are going to get hit, you have no time for any other defense 
+then to try and roll with the blow and thus avoid being stunned or knocked out. 
+The act of rolling with the blow involves an attempt to take the alloted 
+damage but absorb it in such a way that the normal secondary effects such as 
+stun or knockback do not take effect. The action requires no time but does 
+require that the defender be aware of the attack and declare that he wishes to 
+roll with the attack. The base roll goes against PAG for physical attacks and 
+MAG for mental attacks. It adds DF +5 to the System Shock roll if any is 
+made. The act of rolling with the blow causes a reroll of initiative. 
+4.5.2 Normal Defense 
+There are a number of forms of active defense. All entities, if they are aware of 
+an attack, may apply their normal defense against that attack. This does not 
+count as an action ! 
+4.5.3 Retreating 
+A character may choose to retreat any time they have the initiative to do so. 
+A retreat may be performed simultaneously with any other action at no mods. 
+Retreat will add DF +6 to any defensive action and DF -6 to any offensive 
+action. 
+
+34 CHAPTER 4. COMBAT 
+4.5.4 Evasion 
+Weaving back and forth and trying to actively avoid attacks is called evading. 
+For as long as a PC is evading an attack or series of attacks their defense is 
+2 \Theta PDF orMDF . The character need only declare that they are evading and 
+it takes effect at their first action point. Of course the character can perform 
+other actions at the same time but they will be considered as florentine actions. 
+The character is at a DF +3 when performing a dodge from an evading state. 
+4.5.5 Dodging 
+OK, just moving out of the way is not enough, you want to be out of the area ! 
+Dodging is one way to achieve that. It gives you a better defense then evading 
+but it does require you to pick yourself up afterwards. 
+Dodging is an extension of the normal defensive technique of getting out of 
+the way. Dodging implies that the PC is actively throwing himself out of the 
+path of an attack. Dodging takes 5 pulses to start, 10 pulses of movement, and 
+5 pulses of deceleration. A Dodge leaves the character in the act of a controlled 
+fall. A skilled individual may roll to acrobatically recover. A dodging character 
+has 2 \Theta PDF during the first part of the dodge, 3 \Theta PDF during the second 
+part of the dodge and normal PDF for the recovery portion of the dodge. 
+4.5.6 Dropping Prone 
+A specialized form of Dodge that only works within a strong gravity field. It is 
+a 5 pulse action that leaves the character in a prone position. During the action 
+the character has a defense of 3 \Theta PDF Once down the character has 1/2 the 
+normal PDF. 30 pulses are required to get back up. 
+4.5.7 Crouching 
+Crouching down can be used as a one time evasive maneuver against an incoming 
+attack. It is a five pulse action that gives 2 \Theta PDF against the attack. This is 
+in lieu of full evasion. 
+4.5.8 Parrying 
+Parrying an attack involves redirecting an attacker's weapon with the character's 
+own. A parry is done with a shield or weapon. DF -3, SB = Wpn SB, Speed as 
+per 1/2 weapon speed. DF -5 against Thrown, DF -30 against Projectile, DF 
+-40 against NRG. This is simply a skill opposition roll. 
+Binding Weapons 
+If a defender succeeds in a parry by less than 5% the two weapons are assumed 
+to have become ``Bound'' and the attacker has advanced on the defender. See 
+
+4.6. FANCY MANEUVERS 35 
+Spinning DF -2 DAM 1.5* SPD 1.5* 
+Jumping DF -3 DAM 1.5* SPD 1.5* 
+Table 4.4: Melee Combat modifiers 
+rules on advance. The defender may roll at their next initiative to release the 
+weapon. This is a skill opposition roll. 
+Overrunning 
+If the attacker fails to avoid a parry by more than 25% then the attacker is 
+effectively off balance and is subject to DFs just as if they had failed a system 
+shock roll. 
+4.5.9 Block 
+A block is an attempt to use a weapon or a shield to provide addition armor 
+against damage. DF -2. If the block is successful the defender rolls damage with 
+the weapon and can apply that damage as armor. Speed as per 1/2 weapon 
+speed. 
+4.5.10 Disarm 
+DF = -4, Skill opposition roll., Speed as per weapon speed. 
+4.6 Fancy Maneuvers 
+4.6.1 Spinning 
+Any action performed while spinning has a DF -2, a damage modifier of 1:5 \Theta 
+Normal Damage, and is 1.5 times slower than a normal attack. 
+4.6.2 Jumping 
+A jumping attack is as per spinning with a DF -3. 
+4.6.3 Feint 
+A feint is used to distract an opponent or to trigger an opponents preset actions. 
+The main thing to remember that a feint is, in effect, a deception roll. It 
+involves a weapon skill roll to convince the other individual that an attack is 
+being made. The feint roll takes a DF -6. All who are within range may roll to 
+save against being fooled by the feint. 
+This is considered an opposing skill roll so the amount the feinted makes 
+their roll by is subtracted from the feintee's perception roll. 
+
+36 CHAPTER 4. COMBAT 
+4.7 Close Conflict 
+Once someone has closed to within arms reach they may choose to do any of 
+the following. 
+4.7.1 Overbear 
+An overbear is simply performed by closing with an opponent and then making 
+a normal attack using SB=PCA. Like any other attack it may be repulsed or 
+actively countered. 
+The gain for such an attack is to have the opponent on the ground. Damage 
+for an overbear attack is simply equal to the attackers PSE. 
+4.7.2 Throw 
+A throw is simply performed by closing with an opponent and then making 
+a normal attack using SB=PCA. Like any other attack it may be repulsed or 
+actively countered. 
+The gain for such an attack is to have the opponent on the ground. Damage 
+for a throw attack is simply equal to the attackers PSE \Theta 2. DF -5. 
+4.7.3 Grapple 
+A grapple is simply an attempt to get a hand hold on the opponent. It is like 
+any other attack in that it may be countered normally. 
+A successful grapple gives a DF +5 modifier to any other close combat attack 
+such as throw, overbear, and any attempts to increase the hold. 
+4.7.4 Hold 
+A hold is initiated by a grapple action and the initial strength of a hold is given 
+by the SN of the grapple. If the attempt to hold or immobilize someone is the 
+sole aim of the attack then the attacker may choose to improve the hold by 
+rolling again. For each attempt to improve the hold the attacker may only add 
+1/2 of the SN of the roll. No hold may be greater in strength than 5 * PST of 
+the holder. The opponent may reduce the strength of a hold by the SN of any 
+grapple skill rolls he makes. 
+
+Chapter 5 
+NPC-PC Interaction 
+5.1 Outline 
+This chapter discusses the rules for the various ways that the player characters 
+may interact with non-player characters. 
+5.2 Reaction Rolls 
+A reaction roll is a roll made to determine a Non player character's reaction to 
+some action on the part of a PC or NPC. It should never be rolled by a PC. 
+A Reaction Roll upon encountering a PC for the first time has horrendous 
+numbers of variables attached to it but as a rule of thumb the roll is DF 0, 
+SB=GAW with a gain of getting the NPCs basic respect. 
+5.3 Presence 
+Presence is the outward reflection of an person's awareness of his environment. 
+It is also known as Aura and Charisma. Presence is usually the end result of 
+the player's role playing but it can be enhanced by the intentional decision to 
+''make an entrance'' or ''make an impression''. 
+To do so the character must decide whether he wishes to make a general 
+attempt at establishing a presence or whether he wants to establish himself as a 
+physical or mental personality of note. Remember that Albert Schwietzer had 
+as much of a presence as Darth Vader. 
+The actual presence roll is made at an DF-3, SB = GAW or PAW or MAW 
+or any other statistic depending on the type of presence the character wishes to 
+establish. 
+37 
+
+38 CHAPTER 5. NPC-PC INTERACTION 
+5.4 Morale 
+Morale rolls are typically made when an NPC realizes that a conflict ( physical, 
+Mental, or verbal ) is not going as planned. At that point, usually after a 
+perception roll, the NPC has to make a morale roll. Morale rolls are SB = 
+GAW, MAW, PAW. 
+

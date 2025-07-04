@@ -1,0 +1,47 @@
+.Name LICENT
+.Title LORD HIGH PRIEST LICENT		  
+.Race HU
+.Culture
+.Aspect 
+.PST 11
+.PEN 14		
+.DEX 16
+.PAG 15		
+.PAW 14
+.MST 17/19  
+.MEN 14
+.PSI 12
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 160		 
+.AGE 41
+.BeginDesc
+ GRAYING DARK HAIRED AND LIGHT BROWN EYED WITH WORN FEATURES.
+.EndDesc
+.BeginSkills
+Weapon: MACE				  , 
+.EndSkills
+.Locale DHARMAK
+.BeginKnownAssoc
+ LEADER OF THE CHURCH OF ULLER IN DHARMAK
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A RATHER TIRED BUT BRASH LEADER OF A RATHER TIRED BUT BRASH LAND. A	
+BOWMAN OF DHARMAK CAN SHOOT AS NO OTHER.
+.EndComment
+.BeginPossess
+ CARRIES THE " BOW OF ULLER", WEARS THE CIRCLET OF WISDOM
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,174 @@
+h63477
+s 00146/00000/00000
+d D 1.1 99/12/02 15:39:44 jmochel 2 1
+cC
+cK23976
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:40 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/portlin.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44878
+cPCampaign/Karban/npc/portlin.npc
+cReb4785f15cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Aramis Portlin
+.Nomen  Title Commander
+.Nomen  ID MID:CSS-CP,MP,AS,NV-09029776
+.Species Base:Sub:Sub
+.Gender  Male
+.Culture Base:Sub:Sub
+.BeginStats
+.PST
+.PEN
+.DEX
+.PAG
+.PAW
+.MST
+.MEN
+.PSI
+.MAG
+.MAW
+.HT 1.8
+.WT 90
+.AGE 52
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build 
+.Bone
+.Tone
+.Text
+.EndFrame
+
+.BeginHair
+.Length
+.Color
+.Texture
+.Style
+.Curl
+.Ornament
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+Qualifications
+	Master Class Pilot, Unlimited Tonnage, Combat Qualified.
+	Navigator, 1st Class
+	Astrogator, 1st Class
+	
+Historical Profile
+	Education
+		CSS Acamdemy, Terra Luna.
+
+	Commendations
+		Confederation Council Award : For Special Services
+        6 Meritorius Conduct Awards
+        
+	Downchecks
+    	None Known
+
+Personal
+	Strong (lvl 4) Aversion to Proxima Centaurans
+
+
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+E 2
+I 1
+E 1

@@ -1,0 +1,10 @@
+% FILE Targeted Action Movement Modifiers
+% REF 
+\begin{stable}{Targeted Action Movement Modifiers}{ll}
+	Slow move: crawls, slow walks (combat )   & EF -1 \\
+	Normal move: Walking                      & EF -2 \\
+	Double Move: jog                          & EF -3 \\
+	Triple Move: Run                          & EF -4 \\
+	Fast move: Dash                           & EF -5 \\
+	Vehicular Movement                        & EF -6 \\ 
+\end{stable}

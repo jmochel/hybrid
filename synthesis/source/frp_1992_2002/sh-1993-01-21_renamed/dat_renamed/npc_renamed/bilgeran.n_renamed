@@ -1,0 +1,46 @@
+.Name BILGERAN
+.Title								
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 10
+.PEN 10		
+.DEX 15
+.PAG 15		
+.PAW 14
+.MST 21		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 5'6"      
+.WT 140		 
+.AGE 80
+.BeginDesc
+ SMALL DRIED UP DARK HAIRED ASCETIC
+.EndDesc
+.BeginSkills
+Weapon: MACE(3)				 , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ JELICAN,THE PROPHET
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends JELICAN
+.EndFriends
+.BeginComment
+ PATRON ADVOCATE OF THE PIOUS AND THE FRIGHTENED
+.EndComment
+.BeginPossess
+ A MACE OF DISRUPTION
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

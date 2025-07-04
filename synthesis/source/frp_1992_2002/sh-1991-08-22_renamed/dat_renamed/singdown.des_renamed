@@ -1,0 +1,15 @@
+.Name SingDownTheMoon
+.NRG Starlight
+.ACT Summon
+.ACT Concentrate
+.ACT Bind
+.CCOMP Verbal
+.CCOMP Somatic
+.TARGET AOE
+.EC 10
+.CEF 4
+.RES 0
+.RNG 5
+.RNGSCALE 1m
+.CTSCALE  Sec
+.QE 10

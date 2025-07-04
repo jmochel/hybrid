@@ -1,0 +1,31 @@
+<!-- Keys for version 4.0 and later -->
+<WEBLOGIC-LICENSES>
+  <LICENSE PRODUCT="WebLogic"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="bf4abc2d9598f027d36f8b0027740199"
+  />
+  <LICENSE PRODUCT="WebLogic/SSL"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="6ff3ca9bb68be1b752edb541865455c7"
+  />
+  <LICENSE PRODUCT="jdbcKona/MSSQLServer4"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="b6d8c20b07003b33c8694d8bf3b980ff"
+  />
+  <LICENSE PRODUCT="jdbcKona/Informix4"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="ed0d62ecba24b49f029261957fe89998"
+  />
+  <LICENSE PRODUCT="jdbcKona/Oracle"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="4fed48a66cc573533a3b2edf3b37914d"
+  />
+  <LICENSE PRODUCT="jdbcKona/Sybase"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="0c0a15a006730264655dc32d2d6b96a4"
+  />
+  <LICENSE PRODUCT="jdbcKona/MSSQLServer"
+    IP="any"  UNITS="unlimited"  EXPIRATION="02-Oct-2000"
+    KEY="a7825d5ae4825e12ec296491332e57e1"
+  />
+</WEBLOGIC-LICENSES>

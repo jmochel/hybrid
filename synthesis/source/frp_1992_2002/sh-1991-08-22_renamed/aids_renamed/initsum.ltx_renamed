@@ -1,0 +1,27 @@
+\documentstyle[relate]{report}
+\begin{document}
+
+{\center \fbox{{\LARGE Initiative System Summary}}}
+\vspace{3cm}
+
+\fbox{{\large Perception}}
+\begin{relate}
+	\item[{\bf Step 1}] Roll Against GAW,PAW, or MAW (up to three times)
+	\item[{\bf Step 2}] At the first successful roll, or at 
+	the final roll, the characters unengaged speed is 
+	determined by	\[ SuccessNumber/10 \]
+\end{relate}
+
+
+\fbox{{\large Unengaged Initiative}}
+\begin{relate}
+	\item[{\bf Normal}] \( 2d10 - CharactersUnengagedSpeed - RankSpeed\) 
+	\item[{\bf Preset}] \( 1d10 - CharactersUnengagedSpeed - RankSpeed\)
+\end{relate}
+
+\fbox{{\large Engaged Initiative}}
+\begin{relate}
+	\item[{\bf Normal}] \( 2d10 - CharactersSpeed - RankSpeed\) 
+	\item[{\bf Preset}] \( 1d10 - CharactersSpeed - RankSpeed\)
+\end{relate}
+\end{document}

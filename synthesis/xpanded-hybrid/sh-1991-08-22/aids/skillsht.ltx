@@ -1,0 +1,78 @@
+% SKILLSHT.LTX
+\documentstyle{shart}
+\begin{document}
+
+\newcount\n
+\def\monkeycopy#1#2{
+	\n=0
+    \loop\ifnum\n<#2 \advance\n by1
+    	#1
+        \endgraf
+	\repeat
+}
+
+\hbox{{\large \SH\ Skill Sheet}}
+\vspace{1cm}
+\hrule width 15cm depth 2pt 
+\vspace{2cm}
+\hbox{
+	\vbox{
+    	\hbox to 1cm{Rank}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+
+	\vbox{
+    	\hbox to 4cm{Name}
+		\monkeycopy{\hbox to 4cm{\hrulefill}}{40}
+	}
+
+	\vbox{
+    	\hbox to 2cm{SB}
+		\monkeycopy{\hbox to 2cm{\hrulefill}}{40}
+	}
+
+	\vbox{
+    	\hbox to 1cm{2}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{3}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{4}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{5}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{6}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{7}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{8}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+	\vbox{
+    	\hbox to 1cm{9}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+
+	\vbox{
+    	\hbox to 1cm{RB}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+
+	\vbox{
+    	\hbox to 1cm{Spd}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{40}
+	}
+
+}
+\end{document}

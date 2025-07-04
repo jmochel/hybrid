@@ -1,0 +1,92 @@
+h45335
+s 00064/00000/00000
+d D 1.1 99/12/02 15:46:45 jmochel 2 1
+cC
+cK07434
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:46:41 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ltx
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44920
+cPDoc/PlayersGuide/pg.ltx
+cReb47857b5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+% pg.ltx
+% SH Players Guide
+% 12/31/91	JSM	Created
+% 07.05.94	JSJ-M Modified to LaTeX 2e
+
+\documentclass{book}
+\usepackage{multicol}
+\usepackage{makeidx}
+\usepackage{minitoc}
+
+\usepackage{sh}
+
+% Title Page
+
+\title{\large{Hybrid}\thanks{Copyright 1998} \large{: Players Guide} }
+\author{Jim Mochel}
+\date{\today}
+
+\makeindex
+
+
+% Begin the Document
+
+\begin{document}
+\maketitle
+
+
+% The TOC
+
+\pagenumbering{roman}
+\begin{multicols}{2}
+{\small
+\tableofcontents
+}
+\end{multicols}
+
+\listof{SHTable}{Tables}
+
+\pagenumbering{arabic}
+
+% Include Introduction Chapter
+
+\input{intro}
+
+% Include skill notes
+
+\input{skills}
+
+% Include simplified chapter on play mechanics
+
+\input{gpm}
+
+% Include Chapter on Combat Mechanics
+
+\input{combat}
+
+% Include Non-Combat Mechanics
+
+\input{npcpc}
+
+\printindex
+
+\end{document}
+
+E 2
+I 1
+E 1

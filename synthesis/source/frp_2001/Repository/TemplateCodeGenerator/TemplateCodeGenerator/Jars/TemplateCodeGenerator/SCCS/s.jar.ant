@@ -1,0 +1,151 @@
+H06996
+s 00000/00000/00105
+d D 1.3 01/06/22 13:00:50 jmochel 4 3
+c Removed build subdir 
+cC
+cK32397
+cPTemplateCodeGenerator/Jars/TemplateCodeGenerator/jar.ant
+e
+s 00000/00000/00105
+d D 1.2 01/05/29 12:35:43 jmochel 3 2
+c mvdir
+cC
+cHdevilmountain.corp.foliage.com
+cK33276
+cPTemplateCodeGenerator/Jars/TemplateCodeGenerator/build/jar.ant
+cZ-04:00
+e
+s 00105/00000/00000
+d D 1.1 01/03/14 22:43:34 jmochel 2 1
+cC
+cF1
+cK11243
+cO-rw-rw-r--
+e
+s 00000/00000/00000
+d D 1.0 01/03/14 22:43:34 jmochel 1 0
+c BitKeeper file i:/Repository/TemplateCodeGenerator/Jars/TemplateCodeGenerator/build/jar.ant
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHmordanith.ne.mediaone.net
+cK29068
+cPJars/TemplateCodeGenerator/build/jar.ant
+cR847caa94
+cV4
+cX0xa1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0xa1
+t
+T
+I 2
+<?xml version="1.0"?> 
+<!--
+
+	Copyright U.S. Department of the Treasury
+	Washington, DC.  All rights reserved.
+	Copyright (c) 2001
+
+	Unpublished work, created 2001.
+
+	$Author: Jmochel $
+	$Date: 12.05.00 2:29p $
+	$Revision: 5 $
+
+-->
+
+<!DOCTYPE project [
+    <!ENTITY GlobalConfig SYSTEM "file:../../../../../../build/config.ant">
+    <!ENTITY DocLintTarget SYSTEM "file:../../../../../../build/jar.doclint.target.ant">
+    <!ENTITY PrepareTarget SYSTEM "file:../../../../../../build/jar.prepare.target.ant">
+    <!ENTITY CompileTarget SYSTEM "file:../../../../../../build/jar.compile.target.ant">
+    <!ENTITY JTestTarget SYSTEM "file:../../../../../../build/jar.jtest.target.ant">
+    <!ENTITY CollectJavadocTarget SYSTEM "file:../../../../../../build/jar.collectjavadoc.target.ant">
+    <!ENTITY CleanTarget SYSTEM "file:../../../../../../build/jar.clean.target.ant">
+    <!ENTITY AssembleTarget SYSTEM "file:../../../../../../build/jar.assemble.target.ant">
+    <!ENTITY UnitTestClassesTarget SYSTEM "file:../../../../../../build/jar.unittestclasses.target.ant">
+    <!ENTITY UnitTestDeployablesTarget SYSTEM "file:../../../../../../build/jar.unittestdeployables.target.ant">
+    <!ENTITY DeployTarget SYSTEM "file:../../../../../../build/jar.deploy.target.ant">
+]>
+
+<!-- 
+    =============================================================
+
+	Class Jar Project
+
+    =============================================================
+-->
+
+<project name="templatecodegenerator"  default="compile">
+
+	<!-- 
+		Includes the common configuration items 
+	-->
+
+	 &GlobalConfig;
+
+	<!-- 
+		Given Information about the items to be built. May need to be changed upon project creation.
+
+		parentProject: The name of the parent "project" that owns the "subproject" that owns this jar.
+
+		parentPackage: The name of the parent package that "owns" this jar.
+
+		packageList: The comma separated list of packages to be documented. Used by the javadoc rules
+
+	-->
+
+	<property name="parentProject" value="templatecodegenerator" />
+	<property name="parentPackage" value="org.mushin" />
+	<property name="parentPackagePath" value="org/mushin" />
+
+	<property name="packageList" value="${parentPackage}.${ant.project.name}" />
+	<property name="packagePaths" value="${parentPackagePath}/${ant.project.name}/**" />
+
+	<!--
+		Given information that rarely needs to be changed , even when the project is created.
+
+		srcDir: The source directory for the subproject that owns this jar. This should almost never need to be modified.
+
+		jarName: The name of the jar to be created
+	-->
+
+	<property name="srcDir" value="${basedir}/../../../Src" />
+	<property name="jarName" value="${parentProject}.${ant.project.name}.jar" />
+
+    <!-- Include the common unittestclasses target -->
+    &UnitTestClassesTarget;
+
+    <!-- Include the common unittestdeployables target -->
+    &UnitTestDeployablesTarget;
+
+    <!-- Include the common deploy target -->
+    &DeployTarget;
+
+	<!-- Include the common assemble target -->
+	&AssembleTarget;
+
+	<!-- Include the common clean target -->
+	&CleanTarget;
+
+	<!-- Include the common collectjavadoc target -->
+	&CollectJavadocTarget;
+
+	<!-- Include the common compiler target	-->
+	&CompileTarget;
+
+	<!-- Include the common doclint target 	-->
+	&DocLintTarget;
+
+	<!-- Include the common jtest target -->
+	&JTestTarget;
+
+	<!-- Include the common prepare target -->
+	&PrepareTarget;
+
+</project> 
+E 2
+I 1
+E 1

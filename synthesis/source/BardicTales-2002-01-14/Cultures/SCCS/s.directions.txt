@@ -1,0 +1,67 @@
+H39212
+s 00037/00000/00000
+d D 1.1 02/01/14 20:17:32 jmochel 2 1
+cC
+cF1
+cK10383
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/14 20:17:32 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/directions.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK62921
+cPCultures/directions.txt
+cRaf936152
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+Hi Folks,
+    The name of the restaurant is "Saigon" and
+    we should be meeting there at 5:30
+
+Saigon
+16 Exchange St # D
+Millis, MA 02054
+(508) 376-2414
+
+Directions from 495 heading south
+
+4.Take the RT-109 exit, 
+    exit number 19, towards MILFORD/MEDWAY.     0.1 mi
+
+5.Keep LEFT at the fork in the ramp.            0.0 mi
+6.Turn LEFT onto MA-109.                        0.4 mi
+7.MA-109 becomes MA-109/MILFORD ST.             2.3 mi
+8.Turn RIGHT onto MA-109/HIGHLAND ST.           0.0 mi
+9.Turn LEFT onto MA-109/MAIN ST.                4.0 mi
+10.Turn SLIGHT LEFT onto EXCHANGE ST.
+
+
+Directions from 495 heading North
+
+8:Take the RT-126 exit- exit number 18- 
+    towards MEDWAY/BELLINGHAM.                  0.21 miles
+9:Keep RIGHT at the fork in the ramp.           0.06 miles
+10:Merge onto HARTFORD AVE/MA-126.              1.73 miles
+11:HARTFORD AVE/MA-126 becomes MAIN ST/MA-126.  0.10 miles
+12:Stay straight to go onto MAIN ST.            0.76 miles
+13:MAIN ST becomes MAIN ST/MA-109.              3.96 miles
+14:Turn SLIGHT LEFT onto EXCHANGE ST.           0.03 miles
+
+
+I can't wait to see you guys.
+
+    JIm
+E 2
+I 1
+E 1

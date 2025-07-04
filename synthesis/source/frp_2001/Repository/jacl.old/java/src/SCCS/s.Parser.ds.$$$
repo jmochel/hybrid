@@ -1,0 +1,40 @@
+h59309
+s 00012/00000/00000
+d D 1.1 99/11/17 12:51:02 jmochel 2 1
+cC
+cK22610
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:59 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/Parser.ds.$$$
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45338
+cPjava/src/Parser.ds.$$$
+cR2f93d7fe5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+|| A simple set of classes for managing text as a transaction database
+
+Parser
+{ 
+	RequiredArgCount:int, 
+    Lexer:Lexer,
+    ArgSemantics:[ArgSemantic],
+    ExitOnFailure:boolean,
+    ParsedArguments:[Object],
+    Validation:Validation,
+    Abbrevs:[String]
+};
+E 2
+I 1
+E 1

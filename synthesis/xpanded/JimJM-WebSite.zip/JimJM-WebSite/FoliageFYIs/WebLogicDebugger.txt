@@ -1,0 +1,42 @@
+
+With the Kawa development team's help, I was able to run WebLogic Server
+under the debugger.  The procedure described below assumes that your
+JDK is installed in %JAVA_SDK% (g:\jdk1.2.2 on chiswick).
+
+    1.  First, you must download and install JPDA (Java Platform Debugging
+        Architecture) 1.0 from Sun.  Under both Solaris and Win32, this
+        package is compatable with JDK 1.2 and higher.
+
+        I've got a copy of this download in \\CHISWICK\I\jpda1_0-win.zip
+        Extract the contents of this archive into %JAVA_SDK%.
+
+    2.  Run debugWebLogic.cmd.  It will produce several lines of output, then
+        the JVM will suspend waiting for a debugger connection.
+
+    3.  Next, download the latest changes from Source Safe.  Minimally, you
+        should pick up a new version of the Spider.kwx workspace, and a new
+        project (Cmd\WebLogicDebug.kpx).
+
+    4.  Start Kawa and configure it for remote debugging:
+
+         a.  Open the WebLogicDebug project.
+
+         b.  Under Customize | Options | Directories | Advanced Paths,
+             enable the check box for "JVMDI  Debug".
+
+	     Under Project | Interpreter Options | Advanced make sure the system 
+             in "Remote Debugging Host" is set to "-host localhost -port 7081".
+
+         c.  Start the Kawa debugger using F5 or Build | Debug | Run.
+             The WLS session you started earlier in the DOS window should
+             resume its startup.
+
+         d.  Once WLS startup completes, use Kawa to set your breakpoints.
+             You may not need to wait, but I haven't had an opportunity yet
+             to experiment with alternate procedures.
+
+   5.  Start your WLS client (i.e. Netscape or a command-line client) in
+       another window.  If necessary, you can start a second Kawa session
+       run your client under the debugger.
+
+

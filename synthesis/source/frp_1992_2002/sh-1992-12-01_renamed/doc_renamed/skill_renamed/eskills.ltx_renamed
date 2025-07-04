@@ -1,0 +1,35 @@
+\documentstyle[sh,relate]{report}
+\begin{document}
+\title{ Engineering Skills}
+\date{\today}
+\author{J.Mochel}
+\maketitle
+\begin{flushleft}
+\hbadness=10000
+\hfuzz=\maxdimen
+\topmargin=0in
+\textheight=9in
+\textwidth=7in
+\headsep=20pt
+\marginparsep=0in
+\marginparwidth=0in
+\small
+ Aeronautics Engineering  SB:  FCS Cost: 300  DF: -1\break
+ Applied Linguistics  SB:  FCS Cost: 250  DF: 0\break
+ Aquaculture Tech  SB:  FCS Cost: 150  DF: 0\break
+ Archeology, Field  SB:  FCS Cost: 250  DF: 0\break
+ Astrogation  SB:  FCS Cost: 150  DF: 0\break
+ Biomedicine  SB:  FCS Cost: 250  DF: 0\break
+ Chemical Engineering  SB:  FCS Cost: 250  DF: 0\break
+ Chemical Tech  SB:  FCS Cost: 150  DF: 0\break
+ Civil Engineering  SB:  FCS Cost: 250  DF: 0\break
+ Civil Tech  SB:  FCS Cost: 150  DF: 0\break
+ Clinical Psychology  SB:  FCS Cost: 250  DF: 0\break
+ Combat Engineering  SB:  FCS Cost: 250  DF: 0\break
+ Combat Operations:(Environment)  SB:  FCS Cost: 150  DF: 0\break
+ Communications Operations  SB:  FCS Cost: 200  DF: -1\break
+ Computer Engineering  SB:  FCS Cost: 250  DF: 0\break
+ Computer Tech  SB:  FCS Cost: 150  DF: 0\break
+ Demolitions Operations  SB:  FCS+PDX Cost: 150  DF: 0\break
+\end{flushleft}
+\end{document}

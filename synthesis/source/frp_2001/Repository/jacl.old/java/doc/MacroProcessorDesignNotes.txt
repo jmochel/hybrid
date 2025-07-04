@@ -1,0 +1,103 @@
+Macro Processor Design Notes
+
+Basic Language Description
+
+We have TYext, Commands (general, flow of control, macros) , and Expressions
+
+
+Every variable is a list (even if it contains one element)
+
+
+General
+=======
+
+	Comments
+	--------
+
+		.. This is comment
+
+
+	Includes
+	--------
+
+		.include <expression>
+
+	
+	Redirections
+	------------
+
+		.redirect <expression>
+	
+Flow of Control
+===============
+
+	If/Else If/Else
+	---------------
+
+		.if  <expression>
+			Text
+		.elif <expression>
+			Text
+		.else
+			Text
+		.endif
+
+	While Loops
+	-----------
+
+		.while <expression>
+			Actions
+		.endwhile
+
+
+	For Loops
+	---------
+
+		.for <elt> in <expression>
+			Actions
+		.endfor
+		
+	Exit
+	-----
+		.exit <code>
+
+Macros
+======
+
+	Define
+	------
+		.beginmacro <macroname> <macrovariables>
+			Code...
+		.end
+
+	Invoke 
+	------
+		$macroname("arg1", "arg2")
+
+		.set var2 = $macroname("arg1", "arg2")
+
+
+		
+
+
+Expressions/Variables
+=====================
+
+	Variables
+	----------
+
+		.set volare = "schmoo"
+		.set volare += "schmoo"
+
+		$volare
+
+		${volare}
+
+	Uses Java classes as objects inline
+	-----------------------------------
+
+		$volare.method
+
+
+
+		

@@ -1,0 +1,31 @@
+This is emTeX (btexp), Version 3.1415 [3c-beta11] (preloaded format=latex 94.6.14)  21 JUL 1994 08:26
+**&latex mordan.tex
+(mordan.tex
+LaTeX2e <1994/06/01> patch level 2
+! I can't find file `manmac.tex'.
+l.1 \input manmac
+                 
+Please type another input file name: 
+! I can't find file `.tex'.
+l.1 \input manmac
+                 
+Please type another input file name: nul
+! I can't find file `nul.tex'.
+l.1 \input manmac
+                 
+Please type another input file name: null
+(d:/emtex/texinput/null.tex
+! Interruption.
+l.2 
+    \endinput
+? x
+ 
+Here is how much of TeX's memory you used:
+ 8 strings out of 6069
+ 43 string characters out of 16933
+ 41737 words of memory out of 262143
+ 2867 multiletter control sequences out of 10000
+ 3640 words of font info for 14 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 4i,0n,3p,45b,7s stack positions out of 300i,100n,60p,5000b,1000s
+No pages of output.

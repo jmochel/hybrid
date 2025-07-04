@@ -1,0 +1,1534 @@
+h46984
+s 01506/00000/00000
+d D 1.1 99/11/17 12:49:54 jmochel 2 1
+cC
+cK08008
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:49:51 jmochel 1 0
+c BitKeeper file e:/jacl/C++/support/tm/EnvelopeLetter.ct
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45331
+cPC++/support/tm/EnvelopeLetter.ct
+cR2f93d7d15cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.. EnvelopeLetter.ct
+.. Defines the standard class member functions and
+.. so on for a Envelope/Letter Pattern
+.. JSJM
+.. 05.01.97
+
+..
+.. Generate the root name of the files to be created
+..
+
+.. Translates the string given to an appropriate type
+
+.set ndx ${strindex . ${dsfilename}}
+.set ndx ${- $(ndx) 1}
+.set fileroot ${strpad ${dsfilename} $(ndx) _ }
+
+..
+..
+..
+..
+.. Envelope Class Declaration
+$(fileroot).hpp : Envelope Class Declaration
+..
+..
+..
+..
+
+.. Header #ifndefs
+
+.redirect $(fileroot).hpp
+#ifndef ${toupper $(fileroot)}_HPP
+#define ${toupper $(fileroot)}_HPP
+
+.. Header comment
+
+/*
+    @doc
+
+    .Contains Declaration of <???>, and Envelope class
+
+    .Author Jim Jackl-Mochel
+
+    .Date <???>
+
+    .Copyright  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. List of things to do
+
+#pragma message("$(fileroot).hpp : Check API Naming")
+#pragma message("$(fileroot).hpp : Check API Types")
+#pragma message("$(fileroot).hpp : Check API Returns")
+#pragma message("$(fileroot).hpp : Check API Exceptions")
+#pragma message("$(fileroot).hpp : Check API Exception Specifications")
+#pragma message("$(fileroot).hpp : Check Comments")
+
+.. Headers and such
+
+// JACL Library Headers
+
+#pragma warning(disable:4786)  // remove warning about brain dead debug symbol limit
+
+#ifndef TYPES_HPP
+#include "Types.hpp"
+#endif
+
+#ifndef UTIL_HPP
+#include "Util.hpp"
+#endif
+
+#ifndef EXCEPTIONS_HPP
+#include "Exceptions.hpp"
+#endif
+
+#ifndef DATETIME_HPP
+#include "Datetime.hpp"
+#endif
+
+#ifndef ${toupper $(fileroot)}IMP_HPP
+#include "$(fileroot)Imp.hpp"
+#endif
+
+.. Class declaration
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set lclassname $T
+
+// Declarations
+
+typedef $(classname)Imp* (*$(classname)InitFxn)($(classname)Cfg& Cfg);
+
+#ifndef ${toupper $(fileroot)}PLATFORM_HPP
+#include "$(fileroot)Platform.hpp"
+#endif
+
+/*
+	@ClassDesc
+
+        $(classname) <???>
+
+	@ClassNotes
+
+        <???>
+
+*/
+
+class $(classname)
+{
+    // @Access Public
+
+    public:
+
+        // Typedefs, enums
+
+.foreach A ${ctypelist}
+        // @MemberDesc    <???>
+
+        enum ${capitalize $A}
+        {
+.foreach B ${conslist $A}
+           ${capitalize  $B},
+.endforeach
+        };
+.endforeach
+
+        // @MemberDesc    Void Constructor
+
+        $(classname)();
+
+        // @MemberDesc    Copy Constructor
+
+        $(classname)(const $(classname)& $(lclassname));
+
+        // @MemberDesc    Constructor
+
+        $(classname)($(classname)Cfg& Cfg, $(classname)InitFxn initFxn = Def$(classname)InitFxn);
+
+        // @MemberDesc    Destructor
+
+        virtual ~$(classname)();
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string&"
+.endif
+
+        // @MemberDesc    Gets $(eltname)
+
+        const $(elttype) Get$(eltname)(void) const;
+
+.endforeach
+
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+.set vareltname $E
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string"
+.endif
+
+        // @MemberDesc    Sets $(eltname)
+
+        void Set$(eltname)(const $(elttype)& $(eltname));
+
+.endforeach
+
+        // @MemberDesc    Assignment Operator
+
+        $(classname)& operator =(const $(classname)& $(lclassname));
+
+        // Logic operators
+
+        // @MemberDesc    Generic compare for $(classname)
+
+        signed int  CompareTo(const $(classname)& $(lclassname));
+        #pragma message(__FILE__ "(1) :"  "$(classname)::CompareTo needs to be implemented or removed")
+
+        // @MemberDesc    Equality operator
+
+        bool operator ==(const $(classname)& $(lclassname));
+        
+
+    // @Access Protected
+
+    protected:
+
+        // @MemberDesc Sets the Default values for the objects data members
+
+	    void SetDefaults(void);
+
+    // @Access Protected
+
+    protected:
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+
+        // @MemberDesc <???>
+
+        $(elttype)  _$(eltname);
+
+.endforeach
+        // @MemberDesc
+        //      Platform specific implementation of $(classname)
+
+        $(classname)Imp*    _Imp;
+
+        // @MemberDesc
+        //      Platform specific initialization function.
+
+        $(classname)InitFxn _InitFxn;
+
+        // @MemberDesc
+        //      Platform specific imp configuration info
+
+        $(classname)Cfg     _Cfg;
+};
+
+.endforeach
+#endif  // ${toupper $(fileroot)}_HPP
+.endredirect
+
+..
+..
+..
+..
+.. Envelope Class Implementation
+$(fileroot).cpp : Envelope Class Implementation
+..
+..
+..
+..
+
+.redirect $(fileroot).cpp
+.. File comment
+
+/*
+    @doc
+
+    .Contains: $(fileroot) Implementation
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. Check List
+
+#pragma message("$(fileroot).cpp : Check that all Exceptions are thrown.")
+#pragma message("$(fileroot).cpp : Check that all Exceptions are caught and/or rethrown.")
+#pragma message("$(fileroot).cpp : Check that all caught exceptions return us to a known state.")
+#pragma message("$(fileroot).cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot).cpp : Check Pre and Postconditions")
+#pragma message("$(fileroot).cpp : Lint")
+#pragma message("$(fileroot).cpp : Profile")
+
+.. Include header
+
+.. Include header
+
+#ifndef EXCEPTIONS_HPP
+#include "Exceptions.hpp"
+#endif
+
+#ifndef CONDITION_HPP
+#include "Condition.hpp"
+#endif
+
+#ifndef REPORTER_HPP
+#include "Reporter.hpp"
+#endif
+
+#ifndef ${toupper $(fileroot)}_HPP
+#include "$(fileroot).hpp"
+#endif
+
+.. Class Methods
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+    ===============================================================================
+
+                                    Constructors/Destructor
+
+    ===============================================================================
+
+*/
+
+
+/*
+    @MethodDesc
+        
+          Void constructor
+
+    @MethodNotes
+        
+        <???>
+*/
+
+
+$(classname)::$(classname)()
+{
+	SetDefaults();
+}
+
+/*
+    @MethodDesc
+        
+          Copy constructor
+
+    @MethodNotes
+        
+        <???>
+*/
+
+$(classname)::$(classname)(const $(classname)& $(varclassname))
+{
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+    _$(eltname) = $(varclassname)._$(eltname);
+.endforeach
+
+}
+
+/*
+    @MethodDesc
+        
+          Constructor
+
+.foreach E ${telmlist $T}
+.set eltname $E
+.set elttype ${ttypename $T $E}
+    @Parm        <???>
+.endforeach
+
+    @MethodNotes
+        
+        <???>
+*/
+
+$(classname)::$(classname)($(classname)Cfg& cfg, $(classname)InitFxn initFxn = Def$(classname)InitFxn)
+{
+    try 
+    {
+    	SetDefaults();
+
+        _InitFxn = initFxn;
+        _Cfg = cfg;
+        _Imp = initFxn(cfg);
+    }
+    catch (...)
+    {
+        throw;
+    }
+}
+
+
+
+/*
+    @MethodDesc
+        
+          Destructor
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+
+
+$(classname)::~$(classname)()
+{
+    if ( _Imp != 0 )
+    {
+        delete(_Imp);
+    }
+}
+
+
+/*
+    ===============================================================================
+
+                                    Initialization
+
+    ===============================================================================
+
+*/
+
+/*
+    @MethodDesc
+        
+          Sets the class to the default state.
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+
+void $(classname)::SetDefaults(void)
+{
+.foreach E ${telmlist $T}
+.set eltname _${capitalize $E}
+.set elttype ${ttypename $T $E}
+.if ${eq $(elttype) string}
+    _$(eltname) = "";
+.else
+    _$(eltname) = 0;
+.endif
+.endforeach
+}
+
+
+/*
+    ===============================================================================
+
+                                    Accessors
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+
+/*
+    @MethodDesc
+        
+          Gets $(eltname)
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+const $(elttype) $(classname)::Get$(eltname)(void) const
+{
+    return(_$(eltname));
+}
+
+.endforeach
+
+/*
+    ===============================================================================
+
+                                    Mutators
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+/*
+    @MethodDesc
+        
+          Sets $(eltname)
+
+    @MethodNotes
+        
+        <???>
+*/
+
+void $(classname)::Set$(eltname)(const $(elttype)& $(eltname))
+{
+	_$(eltname) = $(eltname);
+}
+
+.endforeach
+
+/*
+    ===============================================================================
+
+                                    Logic Operators
+
+    ===============================================================================
+
+*/
+
+/*
+    @MethodDesc
+
+        Compares two $(classname) objects
+    
+    @ReturnDesc
+    
+        -1 if *this falls into sequence before a$(classname)
+        0 if the two objects are equal.
+        +1 if *this falls into sequence after a$(classname)
+    
+    @MethodNotes
+    
+        Explain the collating sequence. 
+*/    
+    
+signed int  $(classname)::CompareTo(const $(classname)& $(varclassname))
+{
+    #pragma message(__FILE__ "(1) :"  "$(classname)::CompareTo needs to be implemented or removed")
+
+    return(0);
+}
+
+/*
+    @MethodDesc
+
+        Checks two $(classname) objects for equality
+    
+    @ReturnDesc
+    
+        true if the two objects are equal false if they are not
+    
+    @MethodNotes
+    
+        Explain the equality criteria.
+*/
+
+bool $(classname)::operator ==(const $(classname)& $(varclassname))
+{
+    return(CompareTo($(varclassname)) == 0);
+}
+
+/*
+    ===============================================================================
+
+                                    Assignment
+
+    ===============================================================================
+
+*/
+
+/*
+    @MethodDesc
+        
+          Assignment Operator
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+$(classname)& $(classname)::operator =(const $(classname)& $(varclassname))
+{
+    if ( this == &$(varclassname) )
+    {
+        return(*this);
+    }
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+    _$(eltname) = $(varclassname)._$(eltname);
+.endforeach
+
+    return(*this);
+}
+
+.endforeach
+.endredirect
+
+..
+..
+..
+..
+.. Letter Class Declaration
+$(fileroot)Imp.hpp : Letter Class Declaration
+..
+..
+..
+..
+
+
+
+.redirect $(fileroot)Imp.hpp
+.. File comment
+
+
+.. Include header
+
+#ifndef ${toupper $(fileroot)}IMP_HPP
+#define ${toupper $(fileroot)}IMP_HPP
+
+/*
+    @doc
+
+    .Contains: $(fileroot)Imp Definition, a letter class for $(fileroot)
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+
+#pragma warning(disable:4786)  // remove warning about brain dead debug symbol limit 
+
+.. List of things to do
+
+#pragma message("$(fileroot).hpp : Check API Naming")
+#pragma message("$(fileroot).hpp : Check API Types")
+#pragma message("$(fileroot).hpp : Check API Returns")
+#pragma message("$(fileroot).hpp : Check API Exceptions")
+#pragma message("$(fileroot).hpp : Check API Exception Specifications")
+#pragma message("$(fileroot).hpp : Check Comments")
+
+#ifndef ${toupper $(fileroot)}CFG_HPP
+#include "$(fileroot)Cfg.hpp"
+#endif
+
+// Declarations
+
+
+.. Class declaration
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+	@ClassDesc
+
+		$(classname) is a base class for platform specific implemenation 
+
+	@ClassNotes
+
+        <???>
+
+*/
+
+
+class $(classname)Imp
+{
+    // @Access  Public
+
+    public:
+               
+        // @MemberDesc    Void Constructor
+
+        $(classname)Imp();
+
+        // @MemberDesc    Copy Constructor
+
+        $(classname)Imp(const $(classname)Imp& $(varclassname));
+
+        // @MemberDesc    Constructor
+
+        $(classname)Imp($(classname)Cfg& cfg);
+
+        // @MemberDesc    Sets the default state
+
+	    void SetDefaults(void);
+
+        // @MemberDesc    Destructor
+
+        virtual ~$(classname)Imp();
+
+        // Accessors
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+        // @MemberDesc    Gets $(eltname)
+        const $(elttype) Get$(eltname)(void) const;
+.endforeach
+
+        // Mutators
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+        // @MemberDesc    Sets $(eltname)
+        void Set$(eltname)(const $(elttype)& $(eltname));
+.endforeach
+
+        // @MemberDesc    Assignment operator
+
+        $(classname)Imp& operator =(const $(classname)Imp& $(varclassname)Imp);
+
+        // @MemberDesc    Generic compare for $(classname)
+        
+        signed int  CompareTo(const $(classname)Imp& $(varclassname)Imp);
+        #pragma message(__FILE__ "(1) :"  "$(classname)imp::CompareTo needs to be implemented or removed")
+
+        // @MemberDesc    Equality operator
+
+        bool operator ==(const $(classname)Imp& $(varclassname)Imp);
+
+    // @Access Protected
+
+    protected:
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+        // @MemberDesc
+        //      <???>
+
+        $(elttype)  _$(eltname);
+.endforeach
+
+        // @MemberDesc
+        //      Platform specific imp configuration info
+
+        $(classname)Cfg     _Cfg;
+};
+.endforeach
+#endif  // ${toupper $(fileroot)}IMP_HPP
+.endredirect
+
+..
+..
+..
+..
+.. Letter Class Implementation
+$(fileroot)Imp.cpp :  Letter Class Implementation
+..
+..
+..
+..
+
+.redirect $(fileroot)Imp.cpp
+.. File comment
+
+/*
+    @doc
+
+    .Contains: $(fileroot)Imp Implementation
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. Check List
+
+#pragma message("$(fileroot).cpp : Check that all Exceptions are thrown.")
+#pragma message("$(fileroot).cpp : Check that all Exceptions are caught and/or rethrown.")
+#pragma message("$(fileroot).cpp : Check that all caught exceptions return us to a known state.")
+#pragma message("$(fileroot).cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot).cpp : Check Pre and Postconditions")
+#pragma message("$(fileroot).cpp : Lint")
+#pragma message("$(fileroot).cpp : PRofile")
+
+.. Include header
+
+#ifndef ${toupper $(fileroot)}IMP_HPP
+#include "$(fileroot)Imp.hpp"
+#endif
+
+.. Class Methods
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+    ===============================================================================
+
+                                    Constructors/Destructor
+
+    ===============================================================================
+
+*/
+
+/*
+    @MethodDesc
+        
+          Void constructor
+
+    @MethodNotes
+        
+        <???>
+*/
+
+$(classname)Imp::$(classname)Imp()
+{
+	SetDefaults();
+}
+
+/*
+    @MethodDesc
+        
+          Copy Constructor
+
+    @MethodNotes
+        
+        <???>
+*/
+
+$(classname)Imp::$(classname)Imp(const $(classname)Imp& $(varclassname)Imp)
+{
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+    _$(eltname) = $(varclassname)Imp._$(eltname);
+.endforeach
+
+}
+
+/*
+    @MethodDesc
+        
+          Constructor
+
+    @MethodNotes
+        
+        <???>
+
+.foreach E ${telmlist $T}
+.set eltname $E
+.set elttype ${ttypename $T $E}
+    @Parm        <???>
+.endforeach
+
+*/
+
+
+$(classname)Imp::$(classname)Imp($(classname)Cfg& cfg)
+{
+    try 
+    {
+    	SetDefaults();
+        _Cfg = cfg;
+    }
+    catch (...)
+    {
+        throw;
+    }
+}
+
+
+/*
+    @MethodDesc
+        
+          Destructor
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+
+$(classname)Imp::~$(classname)Imp()
+{
+}
+
+
+/*
+    ===============================================================================
+
+                                    Initialization
+
+    ===============================================================================
+
+*/
+
+/*
+    @MethodDesc
+        
+          Sets the class to the default state.
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+void $(classname)Imp::SetDefaults(void)
+{
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+.if ${eq $(elttype) string}
+    _$(eltname) = "";
+.else
+    _$(eltname) = 0;
+.endif
+.endforeach
+}
+
+
+/*
+    ===============================================================================
+
+                                    Accessors
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+
+/*
+    @MethodDesc
+        
+          Gets $(eltname)
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+const $(elttype) $(classname)Imp::Get$(eltname)(void) const
+{
+    return(_$(eltname));
+}
+
+.endforeach
+
+/*
+    ===============================================================================
+
+                                    Mutators
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+/*
+    @MethodDesc
+        
+          Sets $(eltname)
+
+    @MethodNotes
+        
+        <???>
+
+*/
+
+void $(classname)Imp::Set$(eltname)(const $(elttype)& $(eltname))
+{
+	_$(eltname) = $(eltname);
+}
+
+.endforeach
+
+.endforeach
+.endredirect
+
+
+..
+..
+..
+..
+.. Envelope/Letter Class Platform Configuration Header
+$(fileroot)Platform.hpp : Envelope/Letter Class Platform Configuration Header
+..
+..
+..
+..
+
+.redirect $(fileroot)Platform.hpp
+.. File comment
+
+.. Include header
+
+#ifndef ${toupper $(fileroot)}PLATFORM_HPP
+#define ${toupper $(fileroot)}PLATFORM_HPP
+
+/*
+    @doc
+
+    .Contains: $(fileroot) Platform Specific Initialisation Function Definitions
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+#pragma warning(disable:4786)  // remove warning about brain dead debug symbol limit 
+
+.. List of things to do
+
+#pragma message("$(fileroot)Platform.hpp : Check API Naming")
+#pragma message("$(fileroot)Platform.hpp : Check API Types")
+#pragma message("$(fileroot)Platform.hpp : Check API Returns")
+#pragma message("$(fileroot)Platform.hpp : Check API Exceptions")
+#pragma message("$(fileroot)Platform.hpp : Check API Exception Specifications")
+#pragma message("$(fileroot)Platform.hpp : Check Comments")
+
+
+#ifndef PLATFORM_HPP
+#include "Platform.hpp"
+#endif
+
+.. Class declaration
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+
+#if ( JACL_OS == JACL_WINNT )
+#pragma message("Info: JACL $(classname) is being configured for use on WinNT platform")
+extern $(classname)Imp* WinNT$(classname)InitFxn($(classname)Cfg& cfg);
+const $(classname)InitFxn Def$(classname)InitFxn = WinNT$(classname)InitFxn;
+#elif ( JACL_OS == JACL_WIN32 )
+#pragma message("Info: JACL $(classname) is being configured for use on Win32 platform")
+extern $(classname)Imp* Win32$(classname)InitFxn($(classname)Cfg& cfg);
+const $(classname)InitFxn Def$(classname)InitFxn = Win32$(classname)InitFxn;
+#elif ( JACL_OS == JACL_GENERICUNIX )
+#pragma message("Info: JACL $(classname) is being configured for use on Generic UNIX platforms")
+extern $(classname)Imp* Unix$(classname)InitFxn($(classname)Cfg& cfg);
+const $(classname)InitFxn Def$(classname)InitFxn = Unix$(classname)InitFxn;
+#else
+#	error "There is no Def$(classname)InitFxn defined for the $(classname)s classes on this platform"
+#endif
+.endforeach
+
+#endif  // ${toupper $(fileroot)}PLATFORM_HPP
+.endredirect
+
+
+..
+..
+..
+..
+.. Win 32 Letter Class Initialization Function
+$(fileroot)Win32Ini.cpp : Win 32 Letter Class Initialization Function
+..
+..
+..
+..
+
+.redirect $(fileroot)Win32Ini.cpp
+.. File comment
+
+.. Include header
+/*
+    @doc
+
+    .Contains: $(fileroot) Win32 Platform Specific Initialisation Function 
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+#pragma warning(disable:4786)  // remove warning about brain dead debug symbol limit 
+
+#pragma message("$(fileroot)Win32Ini.cpp : Check that all Exceptions are thrown.")
+#pragma message("$(fileroot)Win32Ini.cpp : Check that all Exceptions are caught and/or rethrown.")
+#pragma message("$(fileroot)Win32Ini.cpp : Check that all caught exceptions return us to a known state.")
+#pragma message("$(fileroot)Win32Ini.cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot)Win32Ini.cpp : Check Pre and Postconditions")
+#pragma message("$(fileroot)Win32Ini.cpp : Lint")
+#pragma message("$(fileroot)Win32Ini.cpp : PRofile")
+
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set classname $T
+
+#include "w32/$(fileroot)ImpWin32.hpp"
+
+/*
+    @ProcDesc
+
+        Creates a platform specific $(classname)Imp class
+
+    @ProcNotes
+
+        A Factory procedure that creates a platform specific $(classname)Imp class
+        appropriate to the platform and the requested Cfg.
+*/    
+
+$(classname)Imp* Win32$(classname)InitFxn($(classname)Cfg& cfg)
+{
+    $(classname)Imp*  Imp;
+
+    try
+    {
+        Imp  = new Win32$(classname)Imp(cfg);
+    }
+    catch(...)
+    {
+        throw;
+    }
+
+    return(Imp);
+}
+
+.endforeach
+.endredirect
+
+
+..
+..
+..
+..
+.. Letter class - Win32 specific Declaration 
+$(fileroot)ImpWin32.hpp : Letter class - Win32 specific Declaration 
+..
+..
+..
+..
+
+.redirect $(fileroot)ImpWin32.hpp
+
+.. File comment
+
+#ifndef ${toupper $(fileroot)}IMPWIN32_HPP
+#define ${toupper $(fileroot)}IMPWIN32_HPP
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+    @doc
+
+    .Contains Win32$(classname)Imp
+
+    .Author Jim Jackl-Mochel
+
+    .Date DateGoesHere
+
+    .Copyright  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+#pragma message("$(fileroot)ImpWin32.hpp : Check API Naming")
+#pragma message("$(fileroot)ImpWin32.hpp : Check API Types")
+#pragma message("$(fileroot)ImpWin32.hpp : Check API Returns")
+#pragma message("$(fileroot)ImpWin32.hpp : Check API Exceptions")
+#pragma message("$(fileroot)ImpWin32.hpp : Check API Exception Specifications")
+#pragma message("$(fileroot)ImpWin32.hpp : Check Comments")
+
+// Standard Library Headers
+
+#include <cstdlib>
+
+#include <windows.h>
+
+// Local Library Headers
+
+#ifndef TYPES_HPP
+#include "Types.hpp"
+#endif
+
+// Local Headers
+
+#include "$(fileroot)Imp.hpp"
+
+/*
+    @ClassDesc
+
+        The Win32 implementation of a $(classname) class.
+
+    @ClassNotes
+*/
+
+class Win32$(classname)Imp : public $(classname)Imp
+{
+    // @Access Public
+
+    public:
+
+        // Constructors
+
+        Win32$(classname)Imp($(classname)Cfg& cfg);
+
+        // Destructor
+
+        ~Win32$(classname)Imp(void);
+
+    // @Access Private
+
+    private:
+
+        // Assignment 
+
+        Win32$(classname)Imp& operator = (const Win32$(classname)Imp& win32$(classname)Imp);
+};
+#endif  // ${toupper $(fileroot)}IMPWIN32_HPP
+
+.endforeach
+.endredirect
+
+..
+..
+..
+..
+.. Letter class - Win32 specific Implementation
+$(fileroot)ImpWin32.hpp : Letter class - Win32 specific Implementation
+..
+..
+..
+..
+
+.redirect $(fileroot)ImpWin32.cpp
+
+.. File comment
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+    @doc
+
+    .Contains: Win32$(classname)Imp  Implementations
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+#pragma warning(disable:4786)  // remove warning about brain dead debug symbol limit 
+
+
+#pragma message("$(fileroot)ImpWin32.cpp : Check that all Exceptions are thrown.")
+#pragma message("$(fileroot)ImpWin32.cpp : Check that all Exceptions are caught and/or rethrown.")
+#pragma message("$(fileroot)ImpWin32.cpp : Check that all caught exceptions return us to a known state.")
+#pragma message("$(fileroot)ImpWin32.cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot)ImpWin32.cpp : Check Pre and Postconditions")
+#pragma message("$(fileroot)ImpWin32.cpp : Lint")
+#pragma message("$(fileroot)ImpWin32.cpp : PRofile")
+
+
+#include <iostream>
+
+#include <windows.h>
+
+#include "w32/$(classname)ImpWin32.hpp"
+
+/*
+    @ProcDesc
+
+        <???>
+
+    @ProcNotes
+
+        <???>
+*/
+
+Win32$(classname)Imp::Win32$(classname)Imp($(classname)Cfg& cfg) : $(classname)Imp(Cfg)
+{
+}
+
+/*
+    @ProcDesc
+
+        <???>
+
+    @ProcNotes
+
+        <???>
+*/
+
+Win32$(classname)Imp::~Win32$(classname)Imp(void)
+{
+}
+
+.endforeach
+.endredirect
+
+..
+..
+..
+..
+.. Envelope class - Unit Test
+$(fileroot)UnitTest.cpp : Envelope class - Unit Test
+..
+..
+..
+..
+
+
+.redirect $(fileroot)UnitTest.cpp
+.. File comment
+
+/*
+    @doc
+
+    .Contains: $(fileroot) Unit Test Function
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. Checklist
+
+#pragma message("$(fileroot)UnitTest.cpp : Check that all Exceptions are caught and handled.")
+#pragma message("$(fileroot)UnitTest.cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot)UnitTest.cpp : Lint")
+#pragma message("$(fileroot)UnitTest.cpp : PRofile")
+
+.. Include headers
+
+#include <cstdlib>
+
+#include "$(fileroot).hpp"
+
+.. Now the unit test
+
+
+/*
+    @ProcDesc
+
+        Unit test of $(fileroot)
+
+    @ProcNotes
+
+        <???>
+*/
+
+int $(classname)UnitTest(int argCnt, char* argValues[])
+{
+    $(classname)*   aDynamic$(classname);
+
+    try
+    {
+        $(classname)    aStack$(classname);
+    
+        // Test the dynamic allocation 
+    
+        aDynamic$(classname) = new $(classname)();
+
+        delete(aDynamic$(classname));
+    }
+    catch (...)
+    {
+        // Clean up to known state
+
+        delete(aDynamic$(classname));
+
+        throw();
+    }
+
+    return(EXIT_SUCCESS);
+}
+
+.endredirect
+
+.redirect $(fileroot)UnitTestMain.cpp
+.. File comment
+
+/*
+    @doc
+
+    .Contains: $(fileroot) Unit Test Main 
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. Checklist
+
+#pragma message("$(fileroot)UnitTestMain.cpp : Check that all Exceptions are caught and handled.")
+#pragma message("$(fileroot)UnitTestMain.cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot)UnitTestMain.cpp : Lint")
+#pragma message("$(fileroot)UnitTestMain.cpp : PRofile")
+
+.. Include headers
+
+#include <cstdlib>
+
+#ifndef REPORTER_HPP
+#include "Reporter.hpp"
+#endif
+
+#include "$(fileroot).hpp"
+
+.. Now the unit test
+
+extern int $(classname)UnitTest(int argCnt, char* argValues[]);
+
+// Unit Test 
+
+Reporter GlobalReporter(AppInfo(string("${tolower $(fileroot)}unittest"),string("1.00.00")));
+
+/*
+    @ProcDesc
+
+        Main for unit test of $(fileroot)
+
+    @ProcNotes
+
+        <???>
+*/
+
+int main(int argCnt, char* ArgValues[])
+{
+    try
+    {
+        return( $(classname)UnitTest(argCnt,argValues));
+    }
+    catch (...)
+    {
+        // Get out of this
+
+        return(EXIT_FAILURE);
+    }
+
+    return(EXIT_SUCCESS);
+}
+
+.endredirect
+E 2
+I 1
+E 1

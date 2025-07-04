@@ -1,0 +1,48 @@
+.Name MIANA AN RHYS
+.Title VAI FEM						  
+.Race G.ELF
+.Culture
+.Aspect 
+.PST 12
+.PEN 11		
+.DEX 12
+.PAG 15		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 140		 
+.AGE 14041
+.BeginDesc
+ 15: A SILVER HAIRED ARISTOCRATIC WOMEN MUCH GIVEN TO THE WEARING OF 
+GOLDEN AND AMETHYST JEWELRY.
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale CULMAIEA
+.BeginKnownAssoc
+ MATE TO KARN ISTARI
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A GRACEFUL AND SETTLED WOMAN. A TRULY NOBLE MEMBER OF THE RHYSLIAN		
+CLAN.
+.EndComment
+.BeginPossess
+ SEVERAL POTS OF KEOGHTOMS OITMENT. ALSO A SET OF ELFIN CHAIN MAIL.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

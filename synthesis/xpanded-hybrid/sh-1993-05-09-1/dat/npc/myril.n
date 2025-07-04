@@ -1,0 +1,46 @@
+.Name MYRIL
+.Title CLERIC OF THE PROPHET		
+.Race HALF ORC
+.Culture
+.Aspect 
+.PST 15
+.PEN 15		
+.DEX 12
+.PAG 07(09) 
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 09
+.MAG 14
+.MAW 14
+.HT 5'5"      
+.WT 131		 
+.AGE 24
+.BeginDesc
+ 9: SHORT DARK HAIR CROPPED IN THE ROMAN FASHION.
+.EndDesc
+.BeginSkills
+Weapon: MORNING STAR		, 
+.EndSkills
+.Locale CURRENTLY JUST BELOW HELLION CHASM
+.BeginKnownAssoc
+ QUARRY HOLEMONGER
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ TROUBLE,TROUBLE,TROUBLE
+.EndComment
+.BeginPossess
+ CHAIN,SHIELD,SMALL HELM, HORSE (16HP)
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

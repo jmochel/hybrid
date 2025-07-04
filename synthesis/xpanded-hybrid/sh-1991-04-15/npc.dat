@@ -1,0 +1,50 @@
+.Name
+.Title
+.Race
+.Culture
+.PST
+.PEN
+.DEX
+.PAG
+.MST
+.MEN
+.PSI
+.MAG
+.HT
+.WT
+.AGE
+.BeginSkills
+Name, Rank
+.EndSkills
+.BeginDescription
+.EndDescription
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+
+.Name Leslie Lamport
+.Title Ships Commander
+.Race Terran
+.Culture Terran British
+.PST 16
+.PEN 14
+.DEX 16
+.PAG 12
+.MST 18
+.MEN 19
+.PSI 12
+.MAG 19
+.HT 
+.WT
+.AGE
+.BeginSkills
+Name, Rank
+.EndSkills
+.BeginDescription
+.EndDescription
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+

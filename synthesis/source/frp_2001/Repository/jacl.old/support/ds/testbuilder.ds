@@ -1,0 +1,11 @@
+|| A whole slew of classes for test code building
+
+SwiftEventbase = { 
+	CategoryID:CATEGORYID, 
+	NameID:NAMEID, 
+	DescriptionID:DESCRIPTIONID,
+        SenderDomainID:SENDERDOMAINID,
+        SenderNicknameID:SENDERNICKNAMEID ,
+        EventTime:CComDateTime,
+        Milliseconds:LONG
+};

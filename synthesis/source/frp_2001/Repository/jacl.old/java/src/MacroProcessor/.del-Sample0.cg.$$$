@@ -1,0 +1,8 @@
+.include "test"
+For compiling with the Pure C compiler on the Atari ST, you must compile
+and install the packages in the order 'libtmc', 'tm', 'tmc'.  See the
+README files in each of the directories. Note that as of version 1.2,
+the Atari ST version is no longer supported (I have sold my ST).
+For compiling with the Borland C++ compiler under MSDOS/MS-Windows, you must
+compile and install the packages in the order 'libtmc', 'tm', 'tmc'.
+See the README files in each of the directories.

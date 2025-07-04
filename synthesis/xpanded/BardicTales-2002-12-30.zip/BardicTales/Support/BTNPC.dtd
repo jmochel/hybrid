@@ -1,0 +1,193 @@
+<!-- ====================================================================== -->
+<!--
+    BT NPC DTD
+
+    This code was last modified on $Date: 2002/06/24 19:22:11 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.1.1.1 $
+-->
+<!-- ====================================================================== -->
+
+<!-- A set of NPCs -->
+
+<!ELEMENT characters (names,  ( character )*) >
+
+<!-- A specific character -->
+
+<!ELEMENT character ( names , cultures, species, stats, desc, skills, possessions, associations?, history?, status, commentary, summary? ) >
+<!ATTLIST character 
+    status ( fateless | nearfateless | fated ) "fated">
+
+<!-- Names of the NPC -->
+
+<!ELEMENT names ( nomen )+ >
+
+<!ELEMENT nomen ( #PCDATA ) >
+<!ATTLIST nomen
+    category ( person | group ) "person"
+    type     ( origin | usename ) "usename" 
+    disclosure  ( public | private ) "public"
+>   
+
+<!-- Names of the NPCs cultures -->
+
+<!ELEMENT cultures ( nomen )+ >
+
+<!-- Names of the NPCs species -->
+
+<!ELEMENT species ( nomen ) >
+<!ATTLIST species
+    gender ( male | female | na ) "male"
+>
+
+<!-- Physical and Mental statistics -->
+
+<!ELEMENT stats EMPTY >
+<!ATTLIST stats 
+    strength CDATA "12"
+    constitution CDATA "12"
+    dexterity CDATA "12"
+    agility CDATA "12"
+    build CDATA "12"
+    aura CDATA "12"
+    drive CDATA "12"
+    discernment CDATA "12"
+    intelligence CDATA "12"
+>
+
+<!-- Description of the NPC -->
+
+<!ELEMENT desc ( physical , psychological ) >
+
+<!ELEMENT physical ( frame , hair , eyes , skin , facialhairs , ears , nose , teeth , idmarks , voice , clothing ) >
+
+<!ELEMENT frame ( #PCDATA) >
+<!ATTLIST frame 
+    build ( lithe | slight | medium | hefty ) "medium"
+    bone  ( small | med | big ) "med" 
+    tone  ( poor | avg | well ) "avg"
+>
+
+<!ELEMENT hair ( #PCDATA | ornamentation )* >
+<!ATTLIST hair 
+    length ( feet | calf | knees | thigh | butt | lowerback | midback | upperback | shoulder | neck | ears | buzz ) "shoulder"
+    color ( blond | blonde | white | black | silver | red | auburn | brown | grey | saltpepper )  "brown"
+    texture ( veryfine | fine | average | coarse | verycoarse ) "average"
+    curl CDATA "average"
+    style CDATA "straight"
+>
+
+<!ELEMENT ornamentation ( #PCDATA ) >
+
+
+<!ELEMENT eyes ( #PCDATA )* >
+<!ATTLIST eyes 
+    color CDATA "brown"
+>
+
+<!ELEMENT skin (#PCDATA | ornamentation )* >
+<!ATTLIST skin 
+    color CDATA "caucasion"
+    texture CDATA "average"
+>    
+
+<!ELEMENT facialhairs ( facialhair )* >
+<!ELEMENT facialhair ( #PCDATA )* >
+<!ATTLIST facialhair 
+    type ( beard | mustache | eyebrow | eyelashes ) "beard"
+    color CDATA "brown"
+>
+
+<!ELEMENT ears ( #PCDATA | ornamentation )* >
+<!ATTLIST ears 
+    size ( verysmall | small | average | large | verylarge ) "average"
+>
+
+<!ELEMENT nose ( #PCDATA | ornamentation )* >
+<!ATTLIST nose 
+    length ( veryshort | short | average | long | verylong ) "average"
+    conformation CDATA "average"
+>
+
+<!ELEMENT teeth ( #PCDATA | ornamentation )* >
+<!ATTLIST teeth 
+    condition (verypoor | poor | average | good | verygood ) "average" 
+    color CDATA "white" 
+    conformation CDATA "straight"
+>
+
+<!ELEMENT idmarks ( mark )* >
+<!ELEMENT mark ( #PCDATA ) >
+<!ATTLIST mark 
+    type ( birthmark | scar | tattoo ) "scar"
+>
+
+
+
+<!ELEMENT voice ( #PCDATA | habits )* >
+<!ATTLIST voice 
+    type ( soprano | tenor | bass | alto ) "tenor"
+    volume ( low | medium | high ) "medium"
+    clarity ( clear | average | husky ) "average"
+>
+<!ELEMENT habits ( #PCDATA)  >
+
+<!ELEMENT clothing ( #PCDATA ) >
+<!ATTLIST clothing 
+    weight ( light | middle | heavy ) "middle"
+    worth  ( expensive | average | poor ) "average"
+    age    ( new | worn | wellworn ) "worn"
+>
+
+
+<!ELEMENT psychological ( personalkeynote | socialkeynote | energy | bearing | mannerisms | humor | senseofself | sex | logicparadigm | habits? )* >
+
+<!ELEMENT personalkeynote ( #PCDATA)  >
+
+<!ELEMENT socialkeynote ( #PCDATA)  >
+
+<!ELEMENT energy ( #PCDATA)  >
+
+<!ELEMENT bearing ( #PCDATA)  >
+
+<!ELEMENT mannerisms (#PCDATA) >
+
+<!ELEMENT humor ( #PCDATA)  >
+
+<!ELEMENT senseofself ( #PCDATA)  >
+<!ATTLIST senseofself 
+    strength CDATA "strong"
+>
+
+<!ELEMENT sex ( #PCDATA)  >
+<!ATTLIST sex 
+    appeal ( vlowappeal | lowappeal | averageappeal | highappeal | vhighappeal ) "averageappeal"
+    drive  ( vlowdrive | lowdrive | averagedrive | highdrive | vhighdrive ) "averagedrive"
+    orientation ( hetero | homo | bi ) "hetero"
+>
+
+<!ELEMENT logicparadigm ( #PCDATA | para )*  >
+
+<!ELEMENT possessions ( possession )* >
+<!ELEMENT possession ( #PCDATA)  >
+<!ATTLIST possession 
+    name CDATA "noname" 
+    type ( magical | speciallycrafted | normal ) "normal"
+>
+
+<!ELEMENT skills ( skill )* >
+<!ELEMENT skill  (#PCDATA)* >
+<!ATTLIST skill
+    name CDATA "noname" 
+    factor ( AGF | DXF | DVF | MCF | PCF | SCF | INF | CTF | KIF | SKF )  "PCF"
+    rank CDATA "4"
+>
+
+<!ELEMENT associations ( #PCDATA | para )*  >
+<!ELEMENT commentary ( #PCDATA | para )*  >
+<!ELEMENT history ( #PCDATA | para )*  >
+<!ELEMENT status ( #PCDATA | para )*  >
+<!ELEMENT summary ( #PCDATA | para )*  >
+
+<!ELEMENT para ( #PCDATA )*  >

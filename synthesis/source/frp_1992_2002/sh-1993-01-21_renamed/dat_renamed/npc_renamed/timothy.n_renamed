@@ -1,0 +1,59 @@
+.Name Timothy Silverlock
+.Title Warrior/Rutterkin			 
+.Race Half-Orc
+.Culture
+.Aspect 
+.PST 18/00
+.PEN 19		
+.DEX 18
+.PAG 4		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 68"       
+.WT 170		 
+.AGE 28
+.BeginDesc
+ Wears black and silver studded leather exclusively, with midnight	 
+blue hooded cape.  Has black hair with a streak of silver in it and green eyes. 
+He has a scar of his order (the Silver Hand) on the back of his neck.  He uses a
+small wooden medallion as his signature, a silver hand turning a key in a silver
+lock.
+.EndDesc
+.BeginSkills
+Weapon: Bastard Sword		 , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ Member of the Silver Hand
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends Myril, Feawen McCallan, Svarth Nemerol
+.EndFriends
+.BeginComment
+ Has respect for life insofar as it is a commodity for which people will
+exchange money. Spent some time in a local militia before being inducted into	
+the Guild.  Believes in no particular power except the presence of death.		
+Considers assassination to be the highest of art forms and the most noble of	
+callings.  The cleaner the job, the better.  He despises bullies, although he is
+not beyond bulling himself if it will suit his ends.  He also believes in law	
+and order.  While he appreciates a job done without unnecessary violence, he is 
+also cognizant of the value of intimidation.
+.EndComment
+.BeginPossess
+ Dagger (x4), Bastard Sword, 10' pole, Thieves Tools, Quiver with 15
+normal and 5 silver arrows, Long Bow, Rope, Spikes, Hammer, Grapple, Candles
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+ Attachment:
+.EndSpells
+.EndNPC

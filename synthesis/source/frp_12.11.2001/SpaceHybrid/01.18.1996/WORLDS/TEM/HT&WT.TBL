@@ -1,0 +1,28 @@
+         MASSES OF LARGE HUMANOIDS BASED ON HUMAN PROPORTIONS
+         ---------------------------------------------------
+                   HEIGHT          WEIGHT
+
+                   5'8"            160
+                   6'              185
+                   7'              300
+                   8'              450
+                   9'              630
+                   10'             875
+                   11'             1,175
+                   12'             1,510
+                   13'             1,930
+                   14'             2240
+                   15'             2950
+                   20'             7,000
+                   25'             13,700
+                   30              23,660
+
+
+         FORMULAE
+         -------------------------------------------------
+         CHEST SIZE = HEIGHT(INCHES) * .5588
+         TORSO LENGTH = HEIGHT(INCHES) * .2647
+
+         WT = 723982.63 * TORSO LENGTH * (CHEST SIZE / 6.28 )2
+
+

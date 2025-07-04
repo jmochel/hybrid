@@ -1,0 +1,43 @@
+.Name MI SHANG
+.Title OF THE PROPHET			   
+.Race HU
+.Culture
+.Aspect 
+.PST 16
+.PEN 15		
+.DEX 15
+.PAG 13		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 11
+.MAG 14
+.MAW 14
+.HT 5'5"      
+.WT 115		 
+.AGE 22
+.BeginDesc
+ 16:
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

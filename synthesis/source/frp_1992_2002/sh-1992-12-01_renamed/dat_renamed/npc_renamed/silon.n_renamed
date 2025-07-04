@@ -1,0 +1,56 @@
+.Name Silon
+.Title 
+.Race One Half Grey Elf
+.Culture 
+.PST 16
+.PEN 19		
+.DEX 17
+.PAG 15		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 14
+.MAG 16
+.MAW 14
+.HT 6'0"      
+.WT 150		 
+.AGE 32
+.BeginDesc
+A TALL SILVER HAIRED HUMAN WITH DARK BLUE EYES. HER HAIR IS	 
+SHORN SHORT IN A BOWL CUT.
+.EndDesc
+.BeginSkills
+Weapon:LONGSWORD, 7
+Weapon:Dagger, 5
+Weapon:Lance, 9
+Mounted Combat, 10
+Riding:Horse, 10
+Animal Husbandry:Horse, 5
+First Aid, 5
+Total Concentration, 7
+Meditation, 8
+.EndSkills
+.Locale Traveling with Koreal and Ezra.
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+DESPITE HER ARRAIGNMENT AND EYE SOOTHING APPEARANCE THIS BEAUTY IS
+ENDOWED WITH AN ALMOST MIMBRATE SAVAGERY AND BLOODLUST.
+.EndComment
+.BeginPossess
+A VERY GOOD SET OF PLATE ARMOUR,A SUIT OF ELVEN CHAIN.				
+A HEAVY WARHORSE (SHIVANAK), THE HORSE HAS ELVEN CHAIN BARDING.
+A SILVERED LONGSWORD WITH A HILT INSET WITH TOURMALINE.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

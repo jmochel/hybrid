@@ -1,0 +1,234 @@
+H22351
+s 00001/00000/00135
+d D 1.9 01/08/31 15:24:54 jmochel 10 9
+c Delete: src/mushin/metamodel/package.uml
+cC
+cK55742
+e
+s 00010/00000/00125
+d D 1.8 01/08/31 15:24:16 jmochel 9 8
+c Delete: src/mushin/metamodel/TestableModel.java
+cC
+cK55077
+e
+s 00007/00000/00118
+d D 1.7 01/08/31 15:22:53 jmochel 8 7
+c New BitKeeper file ``scm/mushin.ant''
+cC
+cK47944
+e
+s 00010/00000/00108
+d D 1.6 01/08/29 07:38:55 jmochel 7 6
+c Discarded old files...
+cC
+cK17016
+e
+s 00007/00000/00101
+d D 1.5 01/07/18 14:35:38 jmochel 6 5
+c Models added
+c Reader now uses table based reading of the file.
+cC
+cK34281
+e
+s 00007/00000/00094
+d D 1.4 01/07/17 09:07:23 jmochel 5 4
+c Checked in Together models
+c Cartesian Coordinate Calculations added and appear to work.
+cC
+cK49852
+e
+s 00002/00000/00092
+d D 1.3 01/07/16 15:56:45 jmochel 4 3
+c Added in libraries.
+c Made many interfaces into classes.
+c File now reads correctly.
+cC
+cK49823
+e
+s 00090/00000/00002
+d D 1.2 01/07/13 18:14:31 jmochel 3 2
+c Import changeset
+cC
+cK49797 
+e
+s 00002/00000/00000
+d D 1.1 01/07/13 18:04:15 jmochel 2 1
+c Initial repository create
+cC
+cF1
+cK29804
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:04:15 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/ChangeSet
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK54911
+cPChangeSet
+cRc62b2c90
+cV4
+cX0x1061
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0x1061
+t
+T
+I 10
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/package.uml|20010713221423|45648|47e21e36 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-package.uml~47e21e36|20010831192430|50634
+E 10
+I 9
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Ctor.java|20010713221423|26508|47d9a7f4 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Ctor.java~47d9a7f4|20010831192353|39083
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Function.java|20010713221423|56307|47dc2d23 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Function.java~47dc2d23|20010831192353|04808
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/TestableModel.java|20010713221423|23996|47ec0eb4 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-TestableModel.java~47ec0eb4|20010831192353|63240
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/ParmList.java|20010713221423|34318|47e6034d jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-ParmList.java~47e6034d|20010831192353|48874
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Mthd.java|20010713221423|18950|47e02fd5 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Mthd.java~47e02fd5|20010831192353|21665
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/RecursiveClassDump.java|20010713221423|57258|47ea050f jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-RecursiveClassDump.java~47ea050f|20010831192353|31420
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Range.java|20010713221423|30783|47e80321 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Range.java~47e80321|20010831192353|18985
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Type.java|20010713221423|17947|47ee065c jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Type.java~47ee065c|20010831192354|08173
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Parm.java|20010713221423|04072|47e40523 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Parm.java~47e40523|20010831192353|17367
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Model.java|20010713221423|24823|47de35ba jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Model.java~47de35ba|20010831192353|29076
+E 9
+I 8
+jmochel@devilmountain.corp.foliage.com|lib/crimson.jar|20010831192252|17441|e35f4afa jmochel@devilmountain.corp.foliage.com|lib/crimson.jar|20010831192253|26938
+jmochel@devilmountain.corp.foliage.com|scm/mushin.ipr|20010831192252|36709|e36d664c jmochel@devilmountain.corp.foliage.com|scm/mushin.ipr|20010831192253|27716
+jmochel@devilmountain.corp.foliage.com|lib/optional.jar|20010831192252|27547|e3659ab6 jmochel@devilmountain.corp.foliage.com|lib/optional.jar|20010831192253|19476
+jmochel@devilmountain.corp.foliage.com|lib/jaxp.jar|20010831192252|33884|e362977c jmochel@devilmountain.corp.foliage.com|lib/jaxp.jar|20010831192253|07242
+jmochel@devilmountain.corp.foliage.com|lib/ant.jar|20010831192252|40196|e35c26db jmochel@devilmountain.corp.foliage.com|lib/ant.jar|20010831192253|50990
+jmochel@devilmountain.corp.foliage.com|lib/parser.jar|20010831192252|24307|e368904f jmochel@devilmountain.corp.foliage.com|lib/parser.jar|20010831192253|03183
+jmochel@devilmountain.corp.foliage.com|scm/mushin.ant|20010831192252|20298|e36b18f7 jmochel@devilmountain.corp.foliage.com|scm/mushin.ant|20010831192253|22716
+E 8
+I 7
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Nomen.java|20010713221423|51402|47cb59e3 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Nomen.java~47cb59e3|20010829113514|17168
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/Type.java|20010713221422|48497|47c0ba2e jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Type.java~47c0ba2e|20010829113555|06325
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/IType.java|20010713221423|18572|47ced2b4 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-IType.java~47ced2b4|20010829113259|54600
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/Type.java|20010713221423|27002|47d4142c jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Type.java~47d4142c|20010829113259|20867
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/FieldDefinitionTable.java|20010718183538|05915|c47b2898 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-FieldDefinitionTable.java~c47b2898|20010829113124|41452
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/location/Epoch.java|20010713221423|29664|47d08b64 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Epoch.java~47d08b64|20010829113442|03198
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Type.java|20010713221423|02730|47cd10df jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Type.java~47cd10df|20010829113514|32058
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/CatalogID.java|20010713221422|22930|47bec9aa jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-CatalogID.java~47bec9aa|20010829113555|50964
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/StellarObject.java|20010713221423|08934|47d24441 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-StellarObject.java~47d24441|20010829113259|12513
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221422|30442|47b7af23 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-HipparcosReader.java~47b7af23|20010829113118|61014
+E 7
+I 6
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage|20010713221422|06868|4793edc7 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage|20010718183537|57657
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010713221421|24410|478d390a jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010718183537|41739
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010713221421|13469|478b980d jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010718183537|14971
+jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010713221422|64218|47b29745 jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010718183537|00804
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/FieldDefinitionTable.java|20010718183538|05915|c47b2898 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/FieldDefinitionTable.java|20010718183539|40664
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage.wmf|20010718183538|35691|c4778286 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage.wmf|20010718183539|57712
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221422|30442|47b7af23 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010718183537|15231
+E 6
+I 5
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/frp.dfPackage|20010713221422|54641|47977fd3 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/frp.dfPackage|20010717130722|07994
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010713221421|13469|478b980d jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010717130722|20845
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010713221421|24410|478d390a jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010717130722|11265
+jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010713221422|64218|47b29745 jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010717130722|53099
+jmochel@devilmountain.corp.foliage.com|models/mushin.tws|20010713221422|58855|47b561f0 jmochel@devilmountain.corp.foliage.com|models/mushin.tws|20010717130722|31766
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/stellarobject.dfPackage|20010713221422|39404|4795ab7b jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/stellarobject.dfPackage|20010717130722|63667
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221422|30442|47b7af23 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010717130723|30069
+E 5
+I 4
+jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010713221422|64218|47b29745 jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010716195644|23324
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221422|30442|47b7af23 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010716195644|26557
+E 4
+I 3
+jmochel@devilmountain.corp.foliage.com|C++/dump.bsh|20010713221420|00122|474845ff jmochel@devilmountain.corp.foliage.com|C++/dump.bsh|20010713221421|35555
+jmochel@devilmountain.corp.foliage.com|C++/h/McTrie.hpp|20010713221420|35025|474aa2d6 jmochel@devilmountain.corp.foliage.com|C++/h/McTrie.hpp|20010713221421|43796
+jmochel@devilmountain.corp.foliage.com|C++/h/Platform.hpp|20010713221420|41354|474c7956 jmochel@devilmountain.corp.foliage.com|C++/h/Platform.hpp|20010713221421|54306
+jmochel@devilmountain.corp.foliage.com|C++/h/Portable.hpp|20010713221420|50473|474e0883 jmochel@devilmountain.corp.foliage.com|C++/h/Portable.hpp|20010713221421|01434
+jmochel@devilmountain.corp.foliage.com|C++/h/Types.hpp|20010713221420|58692|475150ec jmochel@devilmountain.corp.foliage.com|C++/h/Types.hpp|20010713221421|62448
+jmochel@devilmountain.corp.foliage.com|C++/h/Util.hpp|20010713221420|04063|4752dd65 jmochel@devilmountain.corp.foliage.com|C++/h/Util.hpp|20010713221421|46375
+jmochel@devilmountain.corp.foliage.com|C++/src/mctrie/McTrie.cpp|20010713221420|30297|47554560 jmochel@devilmountain.corp.foliage.com|C++/src/mctrie/McTrie.cpp|20010713221421|20911
+jmochel@devilmountain.corp.foliage.com|C++/src/mctrie/McTrieUnitTest.cpp|20010713221420|26082|475910c8 jmochel@devilmountain.corp.foliage.com|C++/src/mctrie/McTrieUnitTest.cpp|20010713221421|33716
+jmochel@devilmountain.corp.foliage.com|C++/temp/cdbbtree.cpp|20010713221421|23373|475acaa1 jmochel@devilmountain.corp.foliage.com|C++/temp/cdbbtree.cpp|20010713221422|11789
+jmochel@devilmountain.corp.foliage.com|C++/temp/cdbbtree.h|20010713221421|06482|475c97a3 jmochel@devilmountain.corp.foliage.com|C++/temp/cdbbtree.h|20010713221422|08491
+jmochel@devilmountain.corp.foliage.com|C++/temp/date.h|20010713221421|43514|475eaf8e jmochel@devilmountain.corp.foliage.com|C++/temp/date.h|20010713221422|53717
+jmochel@devilmountain.corp.foliage.com|C++/temp/fib.h|20010713221421|43469|4760388f jmochel@devilmountain.corp.foliage.com|C++/temp/fib.h|20010713221422|50541
+jmochel@devilmountain.corp.foliage.com|C++/temp/inpiter.h|20010713221421|44812|4761c63a jmochel@devilmountain.corp.foliage.com|C++/temp/inpiter.h|20010713221422|13015
+jmochel@devilmountain.corp.foliage.com|C++/temp/ptraits.h|20010713221421|48312|47635cef jmochel@devilmountain.corp.foliage.com|C++/temp/ptraits.h|20010713221422|22102
+jmochel@devilmountain.corp.foliage.com|C++/temp/refcnt.h|20010713221421|50271|4764edff jmochel@devilmountain.corp.foliage.com|C++/temp/refcnt.h|20010713221422|47915
+jmochel@devilmountain.corp.foliage.com|C++/temp/usecdbt.cpp|20010713221421|54897|47668341 jmochel@devilmountain.corp.foliage.com|C++/temp/usecdbt.cpp|20010713221422|62503
+jmochel@devilmountain.corp.foliage.com|docs/CodingGuidelines.htm|20010713221421|51128|476fa262 jmochel@devilmountain.corp.foliage.com|docs/CodingGuidelines.htm|20010713221422|63128
+jmochel@devilmountain.corp.foliage.com|docs/CodingVerbAndNounGlossary.txt|20010713221421|05837|47717934 jmochel@devilmountain.corp.foliage.com|docs/CodingVerbAndNounGlossary.txt|20010713221422|47716
+jmochel@devilmountain.corp.foliage.com|docs/CommandLine.htm|20010713221421|14039|4773245e jmochel@devilmountain.corp.foliage.com|docs/CommandLine.htm|20010713221422|02516
+jmochel@devilmountain.corp.foliage.com|docs/DebuggingProcess.htm|20010713221421|39283|47759465 jmochel@devilmountain.corp.foliage.com|docs/DebuggingProcess.htm|20010713221422|00703
+jmochel@devilmountain.corp.foliage.com|docs/DefectTrackingPriorityAndSeverityDescriptions.txt|20010713221421|48088|47773d5d jmochel@devilmountain.corp.foliage.com|docs/DefectTrackingPriorityAndSeverityDescriptions.txt|20010713221422|32602
+jmochel@devilmountain.corp.foliage.com|docs/DirectoryStructure.txt|20010713221421|59967|4778f329 jmochel@devilmountain.corp.foliage.com|docs/DirectoryStructure.txt|20010713221422|30408
+jmochel@devilmountain.corp.foliage.com|docs/McTrie.htm|20010713221421|01232|477a95d4 jmochel@devilmountain.corp.foliage.com|docs/McTrie.htm|20010713221422|55924
+jmochel@devilmountain.corp.foliage.com|docs/ProcessPhilosophy.htm|20010713221421|17586|477c5d55 jmochel@devilmountain.corp.foliage.com|docs/ProcessPhilosophy.htm|20010713221422|37337
+jmochel@devilmountain.corp.foliage.com|docs/Articles/Address.txt|20010713221421|57744|476816b2 jmochel@devilmountain.corp.foliage.com|docs/Articles/Address.txt|20010713221422|04411
+jmochel@devilmountain.corp.foliage.com|docs/Articles/Biography.txt|20010713221421|60686|4769a9a3 jmochel@devilmountain.corp.foliage.com|docs/Articles/Biography.txt|20010713221422|16700
+jmochel@devilmountain.corp.foliage.com|docs/Articles/JavaCommandLine/CommandLineParser.xml|20010713221421|09535|476bf07a jmochel@devilmountain.corp.foliage.com|docs/Articles/JavaCommandLine/CommandLineParser.xml|20010713221422|20563
+jmochel@devilmountain.corp.foliage.com|docs/Articles/JavaCommandLine/Proposal.ddj.txt|20010713221421|31268|476dd1db jmochel@devilmountain.corp.foliage.com|docs/Articles/JavaCommandLine/Proposal.ddj.txt|20010713221422|54468
+jmochel@devilmountain.corp.foliage.com|lib/antlr.jar|20010713221421|38871|477eb0c1 jmochel@devilmountain.corp.foliage.com|lib/antlr.jar|20010713221422|21261
+jmochel@devilmountain.corp.foliage.com|lib/junit.jar|20010713221421|03590|4780aea8 jmochel@devilmountain.corp.foliage.com|lib/junit.jar|20010713221422|28500
+jmochel@devilmountain.corp.foliage.com|models/default.dfPackage|20010713221421|03120|4782c8b0 jmochel@devilmountain.corp.foliage.com|models/default.dfPackage|20010713221422|60776
+jmochel@devilmountain.corp.foliage.com|models/default.dfPackage.wmf|20010713221421|12676|4784a79f jmochel@devilmountain.corp.foliage.com|models/default.dfPackage.wmf|20010713221422|27121
+jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010713221422|64218|47b29745 jmochel@devilmountain.corp.foliage.com|models/mushin.tpr|20010713221423|23508
+jmochel@devilmountain.corp.foliage.com|models/mushin.tws|20010713221422|58855|47b561f0 jmochel@devilmountain.corp.foliage.com|models/mushin.tws|20010713221423|36262
+jmochel@devilmountain.corp.foliage.com|models/mushin/mushin.dfPackage|20010713221422|01591|479cc5ba jmochel@devilmountain.corp.foliage.com|models/mushin/mushin.dfPackage|20010713221423|38473
+jmochel@devilmountain.corp.foliage.com|models/mushin/mushin.dfPackage.wmf|20010713221422|24296|479e997a jmochel@devilmountain.corp.foliage.com|models/mushin/mushin.dfPackage.wmf|20010713221423|37003
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/frp.dfPackage|20010713221422|54641|47977fd3 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/frp.dfPackage|20010713221423|00138
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/astronomy.dfPackage|20010713221421|63436|4789d77e jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/astronomy.dfPackage|20010713221422|35317
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010713221421|13469|478b980d jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage|20010713221422|44167
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010713221421|24410|478d390a jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/catalog_readers/catalog_readers.dfPackage.wmf|20010713221422|54220
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/stellarobject.dfPackage|20010713221422|39404|4795ab7b jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/stellarobject.dfPackage|20010713221423|64943
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/catalog/catalog.dfPackage|20010713221421|04238|478f9f33 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/catalog/catalog.dfPackage|20010713221422|22950
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/identification/identification.dfPackage|20010713221422|55938|4791603b jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/identification/identification.dfPackage|20010713221423|22914
+jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage|20010713221422|06868|4793edc7 jmochel@devilmountain.corp.foliage.com|models/mushin/frp/astronomy/stellarobject/location/location.dfPackage|20010713221423|22998
+jmochel@devilmountain.corp.foliage.com|models/mushin/IR/IR.dfPackage|20010713221422|03452|47993d21 jmochel@devilmountain.corp.foliage.com|models/mushin/IR/IR.dfPackage|20010713221423|30185
+jmochel@devilmountain.corp.foliage.com|models/mushin/metamodel/metamodel.dfPackage|20010713221422|18847|479af8f4 jmochel@devilmountain.corp.foliage.com|models/mushin/metamodel/metamodel.dfPackage|20010713221423|48501
+jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/testcases.dfPackage|20010713221422|47943|47a08c56 jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/testcases.dfPackage|20010713221423|33232
+jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/testcases.dfPackage.wmf|20010713221422|63215|47a246ed jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/testcases.dfPackage.wmf|20010713221423|60211
+jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/util.dfPackage|20010713221422|25982|47a7e731 jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/util.dfPackage|20010713221423|26587
+jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/commandline/commandline.dfPackage|20010713221422|20196|47a43053 jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/commandline/commandline.dfPackage|20010713221423|54376
+jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/commandline/commandline.dfPackage.wmf|20010713221422|05237|47a5f7f3 jmochel@devilmountain.corp.foliage.com|models/mushin/testcases/util/commandline/commandline.dfPackage.wmf|20010713221423|10306
+jmochel@devilmountain.corp.foliage.com|models/mushin/util/util.dfPackage|20010713221422|33297|47afc99e jmochel@devilmountain.corp.foliage.com|models/mushin/util/util.dfPackage|20010713221423|40768
+jmochel@devilmountain.corp.foliage.com|models/mushin/util/commandline/commandline.dfPackage|20010713221422|48950|47a9d27e jmochel@devilmountain.corp.foliage.com|models/mushin/util/commandline/commandline.dfPackage|20010713221423|39056
+jmochel@devilmountain.corp.foliage.com|models/mushin/util/commandline/commandline.dfPackage.wmf|20010713221422|16421|47abcac7 jmochel@devilmountain.corp.foliage.com|models/mushin/util/commandline/commandline.dfPackage.wmf|20010713221423|44246
+jmochel@devilmountain.corp.foliage.com|models/mushin/util/hash/hash.dfPackage|20010713221422|13659|47addbe1 jmochel@devilmountain.corp.foliage.com|models/mushin/util/hash/hash.dfPackage|20010713221423|61438
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221422|30442|47b7af23 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/catalog_readers/HipparcosReader.java|20010713221423|35887
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/IType.java|20010713221423|18572|47ced2b4 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/IType.java|20010713221424|06647
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/StellarObject.java|20010713221423|08934|47d24441 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/StellarObject.java|20010713221424|04725
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/Type.java|20010713221423|27002|47d4142c jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/Type.java|20010713221424|01104
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/CatalogID.java|20010713221422|22930|47bec9aa jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/CatalogID.java|20010713221423|18133
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/Type.java|20010713221422|48497|47c0ba2e jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/catalog/Type.java|20010713221423|08439
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Nomen.java|20010713221423|51402|47cb59e3 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Nomen.java|20010713221424|15236
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Type.java|20010713221423|02730|47cd10df jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/identification/Type.java|20010713221424|62662
+jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/location/Epoch.java|20010713221423|29664|47d08b64 jmochel@devilmountain.corp.foliage.com|src/mushin/frp/astronomy/stellarobject/location/Epoch.java|20010713221424|31526
+jmochel@devilmountain.corp.foliage.com|src/mushin/ir/McTrie.java|20010713221423|27677|47d75616 jmochel@devilmountain.corp.foliage.com|src/mushin/ir/McTrie.java|20010713221424|29972
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Ctor.java|20010713221423|26508|47d9a7f4 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Ctor.java|20010713221424|51815
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Function.java|20010713221423|56307|47dc2d23 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Function.java|20010713221424|12272
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Model.java|20010713221423|24823|47de35ba jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Model.java|20010713221424|34223
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Mthd.java|20010713221423|18950|47e02fd5 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Mthd.java|20010713221424|17154
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/package.uml|20010713221423|45648|47e21e36 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/package.uml|20010713221424|51886
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Parm.java|20010713221423|04072|47e40523 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Parm.java|20010713221424|56635
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/ParmList.java|20010713221423|34318|47e6034d jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/ParmList.java|20010713221424|32332
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Range.java|20010713221423|30783|47e80321 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Range.java|20010713221424|62274
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/RecursiveClassDump.java|20010713221423|57258|47ea050f jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/RecursiveClassDump.java|20010713221424|07966
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/TestableModel.java|20010713221423|23996|47ec0eb4 jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/TestableModel.java|20010713221424|57476
+jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Type.java|20010713221423|17947|47ee065c jmochel@devilmountain.corp.foliage.com|src/mushin/metamodel/Type.java|20010713221424|32690
+jmochel@devilmountain.corp.foliage.com|src/mushin/testcases/util/commandline/LexerUnitTest.java|20010713221423|56691|47f0226e jmochel@devilmountain.corp.foliage.com|src/mushin/testcases/util/commandline/LexerUnitTest.java|20010713221424|26914
+jmochel@devilmountain.corp.foliage.com|src/mushin/testcases/util/commandline/ParserUnitTest.java|20010713221423|33964|47f278d3 jmochel@devilmountain.corp.foliage.com|src/mushin/testcases/util/commandline/ParserUnitTest.java|20010713221424|26636
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/IOFilterParser.java|20010713221423|13386|480238fc jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/IOFilterParser.java|20010713221424|42870
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Lexer.java|20010713221424|15263|480441de jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Lexer.java|20010713221425|40749
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/LexerCreationException.java|20010713221424|11563|480628f6 jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/LexerCreationException.java|20010713221425|41425
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Parser.java|20010713221424|33722|48080aaf jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Parser.java|20010713221425|21196
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/ParsingException.java|20010713221424|27006|480afc65 jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/ParsingException.java|20010713221425|41683
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/PosixStyleLexer.java|20010713221424|49072|480d8543 jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/PosixStyleLexer.java|20010713221425|53306
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/SlashEqualsLexer.java|20010713221424|58079|48100cb7 jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/SlashEqualsLexer.java|20010713221425|31051
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Validation.java|20010713221424|18094|4811fc93 jmochel@devilmountain.corp.foliage.com|src/mushin/util/commandline/Validation.java|20010713221425|45482
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/Hash.java|20010713221424|06766|4813db28 jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/Hash.java|20010713221425|38743
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/PearsonsHash.java|20010713221424|31146|4815c521 jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/PearsonsHash.java|20010713221425|23585
+jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/PearsonsHashUnitTest.java|20010713221424|59101|4817b75c jmochel@devilmountain.corp.foliage.com|src/mushin/util/hash/PearsonsHashUnitTest.java|20010713221425|35458
+jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/logging_ok|20010713221431|64631|499acc38 jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/logging_ok|20010713221432|03839
+E 3
+I 2
+jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/config|20010713220415|23237|c62e360f jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/config|20010713220416|62156
+jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/ignore|20010713220415|05391|c63347f7 jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/ignore|20010713220416|01695
+E 2
+I 1
+E 1

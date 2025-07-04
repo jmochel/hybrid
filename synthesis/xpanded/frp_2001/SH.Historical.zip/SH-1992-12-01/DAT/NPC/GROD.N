@@ -1,0 +1,50 @@
+.Name Grod
+.Title Lord of Tor Tirith
+.Race Dwarven
+.Culture Just Yeast
+.PST 25
+.PEN 23
+.DEX 21
+.PAG 17
+.PAW 15
+.MST 14
+.MEN 15
+.PSI 8
+.MAG 16
+.MAW 13
+.HT 
+.WT 
+.AGE 
+.BeginDesc
+.EndDesc
+.BeginSkills
+Weapon:LongSword, 2
+Weapon:Axe, 5
+Weapon:Hammer, 10
+Weapon:Thrown Hammer, 15
+Weapon:Short Bow, 6
+Physical Defense, 8
+System Shock, 8
+Movement:Armour, 15
+Artillery, 4
+Appraisal:Jewelry, 4
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

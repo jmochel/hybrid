@@ -1,0 +1,378 @@
+H51553
+s 00000/00000/00251
+d D 1.4 01/09/14 15:32:38 jmochel 5 4
+c Delete: TemplateCodeGenerator/src/org/mushin/testcases/templatecodegenerator/TemplateCodeGeneratorTestCase.java
+cC
+cK40067
+cPBitKeeper/deleted/.del-TemplateCodeGeneratorTestCase.java~9253d539
+e
+s 00012/00051/00239
+d D 1.3 01/06/22 13:00:50 jmochel 4 3
+c Refactoring for XML namespaces and using XML APIs internally
+cC
+cK41763
+e
+s 00000/00000/00290
+d D 1.2 01/05/29 12:33:56 jmochel 3 2
+c mvdir
+cC
+cHdevilmountain.corp.foliage.com
+cK36606
+cPTemplateCodeGenerator/src/org/mushin/testcases/templatecodegenerator/TemplateCodeGeneratorTestCase.java
+cZ-04:00
+e
+s 00290/00000/00000
+d D 1.1 01/03/14 22:46:48 jmochel 2 1
+cC
+cF1
+cK61414
+cO-rw-rw-r--
+e
+s 00000/00000/00000
+d D 1.0 01/03/14 22:46:48 jmochel 1 0
+c BitKeeper file i:/Repository/TemplateCodeGenerator/src/org/mushin/testcases/templatecodegenerator/TemplateCodeGeneratorTestCase.java
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHmordanith.ne.mediaone.net
+cK12819
+cPsrc/org/mushin/testcases/templatecodegenerator/TemplateCodeGeneratorTestCase.java
+cR9253d539
+cV4
+cX0xa1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0xa1
+t
+T
+I 2
+/*
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "Template Code Generator".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+
+D 4
+/*
+ *
+ * $Source$
+ * $Author$
+ * $Revision$  %K%
+ * $Date$
+ *
+ */
+ 
+E 4
+package org.mushin.testcases.templatecodegenerator;
+
+import junit.framework.*;
+
+import org.mushin.templatecodegenerator.TemplateCodeGenerator;
+I 4
+import com.sun.javadoc.RootDoc;
+E 4
+
+/**
+ *  
+ */
+ 
+public class TemplateCodeGeneratorTestCase extends TestCase 
+{
+D 4
+	static String exampleTemplateBfr = "<class><qualifiedName/></class>";
+	static String exampleOutputBfr = "";
+	
+E 4
+I 4
+
+E 4
+	/**
+	 *
+	 *
+	 * @param   name  The name of this test run
+	 */
+	 
+	public TemplateCodeGeneratorTestCase(String name)
+	{
+		super(name);
+	}
+	
+	/**
+		Main for executing the test out of hand
+
+	    @see junit.framework.TestCase
+	*/
+
+	public static void main(String args[]) 
+	{ 
+		junit.textui.TestRunner.run(suite());
+	}
+
+
+	/**
+	 *
+	 *
+	 */
+	 
+	protected void setUp()
+	{
+I 4
+            m_RootDoc = new RootDoc();
+
+            m_RootDoc.
+E 4
+	}
+
+
+	/**
+	 *
+	 *
+	 */
+	 
+	protected void tearDown() 
+	{
+	}
+
+	/**
+	 *
+	 *
+	 * @return     
+	 */
+	 
+	public static Test suite() 
+	{
+		return new TestSuite(TemplateCodeGeneratorTestCase.class);
+	}
+	
+    /**
+     *  Proves that the classes behave as they should under non-stressful conditions.
+     *
+     */
+
+    public void testBasicFunctionality()
+    {
+	    TemplateCodeGenerator codeGenerator = null;
+	    
+	    // 
+	    //  Constructors
+	    //
+
+D 4
+	    try
+	    {
+	    	codeGenerator = new TemplateCodeGenerator();
+	    } 
+	    catch (Throwable e)
+	    {
+	    	// We intentionally catch the base class Exception to insure 
+	    	// that no failure of the constructor goes unnoticed.
+	    	// The test can not continue if the constructor failed.
+	    	
+	    	super.fail("testBasicFunctionality() - Constructor failed.");
+	    }
+E 4
+I 4
+    	codeGenerator = new TemplateCodeGenerator();
+E 4
+	    
+	    // 
+	    //  Properties  - Attributes of the class that are manipulated through accessor and mutator methods
+	    //
+
+	    // N/A
+	    		
+	    // 
+	    //  CoreMethods - Methods that are common to the group of classes to be tested (toString() , hash(), etc..)
+	    //
+
+	    try
+	    {
+			// Equals operator
+			
+	    	if ( codeGenerator.equals(codeGenerator) == false)
+			{
+		    	super.fail("testBasicFunctionality() - .equals method failed.");
+			}
+	    	
+			// toString
+					
+	    	if ( "".equals(codeGenerator.toString()) )
+			{
+				super.fail("testBasicFunctionality() - .toString method returned an empty string.");			
+			}
+
+			if ( codeGenerator.toString() == null)
+			{
+				super.fail("testBasicFunctionality() - .toString method returned a null.");			
+			}
+	    	
+			// hashCode
+			
+	    	if ( codeGenerator.hashCode() == 0 )
+			{
+				super.fail("testBasicFunctionality() - .hashCode method returned a 0");			
+			}
+	    } 
+D 4
+	    catch (Exception e)
+E 4
+I 4
+	    finally
+E 4
+	    {
+D 4
+	    	// We intentionally catch the base class Exception to insure 
+	    	// that no failure of the core methods goes unnoticed.
+
+	    	super.fail("testBasicFunctionality() - Core methods failed.");
+	    }
+	    
+	    // 
+	    //  KeyMethods - Key methods deliver the functionality that the class was created for in the first case
+	    //
+
+	    try
+	    {
+			// 
+			// I am not trying to emulate the Javadoc tool method of command line processing 
+			// here. That can be easily tested w/o a lot of work. I am providng a separate 
+			// start up method that takes a stream for the input
+			//
+			
+	    	// codeGenerator.start(
+	    } 
+	    catch (Throwable e)
+	    {
+	    	// We intentionally catch the base class Exception and do nothing 
+	    	
+	    	super.fail("testProofForExistence() - Key methods failed.");
+E 4
+	    }
+
+	    codeGenerator = null;
+    }
+
+    /**
+     *  Boundary tests exercise a feature under conditions that are at the edge of legal according to the API. 
+     *
+     */
+
+    public void testBoundaryFunctionality()
+    {
+        // 
+        //  Constructors
+        //
+
+        // 
+        //  Properties  - Attributes of the class that are manipulated through accessor and mutator methods
+        //
+
+		// 	N/a
+		
+        // 
+        //  CoreMethods - Methods that are common to the group of classes to be tested 
+		// 		Usually only applied to special common methods that are part of a project. In other words
+		//		we don't typically do boundary tests on the standard core methods (toString() , hash(), etc..).
+		//
+		
+		// N/A
+		
+        // 
+        //  KeyMethods - Key methods deliver the functionality that the class was created for in the first case
+        //
+
+    }
+
+    /**
+     *  Beyond Boundary tests exercise a feature under conditions that are beyond the edge of legal according to the API. 
+     *
+     */
+
+    public void testBeyondBoundaryFunctionality()
+    {
+	    // 
+	    //  Constructors
+	    //
+
+	    // 
+	    //  Properties  - Attributes of the class that are manipulated through accessor and mutator methods
+	    //
+
+	    // 	N/a
+	    
+	    // 
+	    //  CoreMethods - Methods that are common to the group of classes to be tested 
+	    // 		Usually only applied to special common methods that are part of a project. In other words
+	    //		we don't typically do boundary tests on the standard core methods (toString() , hash(), etc..).
+	    //
+	    
+	    // N/A
+	    
+	    // 
+	    //  KeyMethods - Key methods deliver the functionality that the class was created for in the first case
+	    //
+
+    }
+
+    /**
+     *  Destructive conditions include passing in null for objects,putting the methods under extreme load, etc.
+     *
+     */
+
+    public void testDestructiveFunctionality()
+    {
+	    // 
+	    //  Constructors
+	    //
+
+	    // 
+	    //  Properties  - Attributes of the class that are manipulated through accessor and mutator methods
+	    //
+
+	    // 	N/a
+	    
+
+	    // 
+	    //  CoreMethods - Methods that are common to the group of classes to be tested 
+	    // 		Usually only applied to special common methods that are part of a project. In other words
+	    //		we don't typically do boundary tests on the standard core methods (toString() , hash(), etc..).
+	    //
+	    
+	    // N/A
+	    
+	    // 
+	    //  KeyMethods - Key methods deliver the functionality that the class was created for in the first case
+	    //
+
+
+    }
+D 4
+	
+E 4
+I 4
+
+    static String exampleTemplateBfr1 = "<class><qualifiedName/></class>";
+    static String exampleOutputBfr1 = "";
+
+    RootDoc m_RootDoc;
+E 4
+}
+E 2
+I 1
+E 1

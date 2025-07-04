@@ -1,0 +1,17 @@
+name      Meercat 
+intell    V.High
+armour    2
+ht        5    10
+wt        2    6
+ps        6    10
+md        6    8  
+ag        5    8
+tmr       2    3
+en        6    10
+fat       25   45
+wp        8    25
+ma        0    0   
+pc        12   18
+pb        4    8
+attack1   15   -3
+attack2   10   -1 

@@ -1,0 +1,61 @@
+.Name Nikki Goshku
+.Title Three Sword
+.Race Human
+.Culture Eyodin
+.PST 20
+.PEN 18
+.DEX 16
+.PAG 14
+.PAW 15
+.MST 14
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 15
+.HT 5'7"
+.WT 140
+.AGE 29
+.BeginDesc
+Very quiet and very smooth
+.EndDesc
+.BeginSkills
+Iajutsu:Katana, 6
+Iajutsu:Shuriken, 7
+Weapon:Katana, 14
+Weapon:Katana Parry, 9
+Weapon:Katana Block, 9
+Weapon:Katana Disarm, 9
+Weapon:Katana Fend, 9
+Weapon:Wakazashi, 7
+Weapon:Tanto, 9
+Weapon:Naginata, 6
+Weapon:Dai-Kyu, 14
+Lore:Tactics, 4
+Lore:Strategy, 2
+Lore:Fortification, 1
+Lore:Weaponry, 9
+Bajutsu, 12
+Horse Riding, 12
+Meditation, 6
+Movement:Armoured, 14
+Zen Bow, 8
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

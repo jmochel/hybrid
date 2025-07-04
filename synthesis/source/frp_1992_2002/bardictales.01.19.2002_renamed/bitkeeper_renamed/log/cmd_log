@@ -1,0 +1,230 @@
+jmochel 976286542: sfio -i = 0
+jmochel 976286543: sfiles -pAC = 0
+jmochel 976286543: sfiles -D = 0
+jmochel 976286543: parent /f:\Repository\BardicTales = 0
+jmochel 976286559: edit - = 0
+jmochel 976286559: sfind = 0
+jmochel 976295997: edit - = 1
+jmochel 976295997: sfind = 1
+jmochel 976296685: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976296689: sfiles -vg -xcpA -oG:/Temp/bk_cilist1296 . = 0
+jmochel 976296689: clean ChangeSet = 0
+jmochel 976296691: sinfo CharacterSheets/Mordan6.xls = 1
+jmochel 976296691: diffs -u CharacterSheets/Mordan6.xls = 0
+jmochel 976296698: sinfo ShapeShifters/Concordance/Glossary.xml = 1
+jmochel 976296698: diffs -u ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296698: sinfo ShapeShifters/FarmTeams/NightTeam.xml = 1
+jmochel 976296698: diffs -u ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296699: sinfo ShapeShifters/Concordance/Glossary.xml = 1
+jmochel 976296699: diffs -u ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296701: sinfo ShapeShifters/FarmTeams/NightTeam.xml = 1
+jmochel 976296701: diffs -u ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296702: sinfo ShapeShifters/History/History.xml = 1
+jmochel 976296702: diffs -u ShapeShifters/History/History.xml = 0
+jmochel 976296713: sinfo CharacterSheets/Mordan6.xls = 1
+jmochel 976296713: diffs -u CharacterSheets/Mordan6.xls = 0
+jmochel 976296715: sinfo ShapeShifters/Concordance/Glossary.xml = 1
+jmochel 976296715: diffs -u ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296715: sinfo ShapeShifters/FarmTeams/NightTeam.xml = 1
+jmochel 976296715: diffs -u ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296715: sinfo ShapeShifters/History/History.xml = 1
+jmochel 976296716: diffs -u ShapeShifters/History/History.xml = 0
+jmochel 976296717: lock -s = 0
+jmochel 976296718: lock -s = 0
+jmochel 976296718: _logging = 0
+jmochel 976296718: sfind -pC CharacterSheets/Mordan6.xls = 0
+jmochel 976296718: sfind -pC ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296718: sfind -pC ShapeShifters/History/History.xml = 0
+jmochel 976296718: sfind -pC ChangeSet = 0
+jmochel 976296718: sfind -pC ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296718: _keysort = 0
+jmochel 976296718: idcache -q = 0
+jmochel 976296719: cset -M1.0.. = 0
+jmochel 976296719: gethelp -s clean E:/BITKEE~1 = 0
+jmochel 976296719: help -s clean = 0
+jmochel 976296719: clean -u ChangeSet = 1
+jmochel 976296719: delta -qyJust a few tweaks CharacterSheets/Mordan6.xls = 0
+jmochel 976296719: get -q CharacterSheets/Mordan6.xls = 0
+jmochel 976296719: delta -qyJust a few tweaks ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296719: get -q ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296719: delta -qyJust a few tweaks ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296719: get -q ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296719: delta -qyJust a few tweaks ShapeShifters/History/History.xml = 0
+jmochel 976296719: get -q ShapeShifters/History/History.xml = 0
+jmochel 976296720: _citool G:/Temp/bk_cilist1296.sorted = 200
+jmochel 976296720: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976296721: sfiles -vg -xcpA -oG:/Temp/bk_cilist1296 . = 0
+jmochel 976296721: clean ChangeSet = 0
+jmochel 976296721: prs -h -d$each(:C:){(:C:)
+} -r1.2 CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976296721: prs -h -d$each(:C:){(:C:)
+} -r1.2 ShapeShifters/Concordance/Glossary.xml@1.2 = 0
+jmochel 976296721: prs -h -d$each(:C:){(:C:)
+} -r1.2 ShapeShifters/FarmTeams/NightTeam.xml@1.2 = 0
+jmochel 976296722: prs -h -d$each(:C:){(:C:)
+} -r1.2 ShapeShifters/History/History.xml@1.2 = 0
+jmochel 976296727: prs -hr1.2 -d:PARENT: CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976296727: diffs -u -r1.1..1.2 CharacterSheets/Mordan6.xls = 0
+jmochel 976296734: lock -s = 0
+jmochel 976296736: lock -s = 0
+jmochel 976296736: _logging = 0
+jmochel 976296736: sfind -pC ShapeShifters/FarmTeams/NightTeam.xml = 0
+jmochel 976296736: sfind -pC CharacterSheets/Mordan6.xls = 0
+jmochel 976296736: sfind -pC ChangeSet = 0
+jmochel 976296736: sfind -pC ShapeShifters/Concordance/Glossary.xml = 0
+jmochel 976296736: sfind -pC ShapeShifters/History/History.xml = 0
+jmochel 976296737: cset -q -YG:/Temp/cmt432 = 0
+jmochel 976296737: _keysort = 0
+jmochel 976296737: cset -r+ = 0
+jmochel 976296737: sccslog - = 0
+jmochel 976296738: sfind -S -sx,c,p = 0
+jmochel 976296738: cset -c -r1.1..1.3 = 0
+jmochel 976296738: _citool G:/Temp/bk_cilist1296.sorted = 200
+jmochel 976296760: log http://www.bitkeeper.com/cgi-bin/logit logging@openlogging.org BitKeeper ChangeSet log: Bardic Tales gaming Archive G:/Temp/commit_log1344 = 0
+jmochel 976296760: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976296762: sfiles -vg -xcpA -oG:/Temp/bk_cilist1296 . = 0
+jmochel 976296762: clean ChangeSet = 0
+jmochel 976296769: _citool G:/Temp/bk_cilist1296.sorted = 0
+jmochel 976296769: citool = 0
+!jmochel 1010688507 20010709210512: parent = 0
+!jmochel 1010688624 20010709210512: parent /f:/Repository/bardictales = 0
+!jmochel 1011104296 20010709210512: sfind -sx = 0
+!jmochel 1011104298 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104298 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104298 20010709210512: status -v = 0
+!jmochel 1011104309 20010709210512: sfind -sx = 0
+!jmochel 1011104310 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104310 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104310 20010709210512: status -v = 0
+!jmochel 1011104313 20010709210512: sfind -sx = 0
+!jmochel 1011104314 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104314 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104314 20010709210512: status -v = 0
+!jmochel 1011104333 20010709210512: add Dal-Kon-Riff.txt Dalkan.txt Edit10.txt Edit2.txt Edit4.txt Edit5.txt Edit6.txt Edit7.txt Edit8.txt Vocabulary.txt names.txt = 0
+!jmochel 1011104344 20010709210512: stastus -v = 0
+!jmochel 1011104349 20010709210512: sfind -sx = 0
+!jmochel 1011104350 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104351 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104351 20010709210512: status -v = 0
+!jmochel 1011104362 20010709210512: add Culture.Template.xml Dal-Kon.xml DalKanClans.xml Rhizak.xml = 4
+!jmochel 1011104401 20010709210512: sfind -sx = 0
+!jmochel 1011104402 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104402 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104403 20010709210512: status -v = 0
+!jmochel 1011104440 20010709210512: add CharSheet6.xls Kalarina6.xls KalarinaWeapon.xls Kay6.xls Menahan6.xls MenahanWeapon.xls Morag6.xls Mordan6.xls Osumi.xls Pelleas.xls Pelleas6.xls PelleasWeapon.xls Wei-Lee6.xls = 4
+!jmochel 1011104452 20010709210512: add frp.txt = 0
+!jmochel 1011104459 20010709210512: sfind -sx = 0
+!jmochel 1011104460 20010709210512: sfind -g -s,c = 0
+!jmochel 1011104460 20010709210512: sfind -g -s,,p -C = 0
+!jmochel 1011104460 20010709210512: status -v = 0
+!jmochel 1011105116 20010709210512: add *.csv = 0
+!jmochel 1011105121 20010709210512: add BT.txt.CSV IronAndSilkk.txt.CSV ShapeShifters.txt.CSV = 0
+!jmochel 1011105132 20010709210512: sfind -s,,p -C = 0
+!jmochel 1011105132 20010709210512: _sort -u = 0
+!jmochel 1011105132 20010709210512: sccslog -CA - = 0
+!jmochel 1011105140 20010709210512: cset -YG:/Temp/bk_commit25 = 0
+!jmochel 1011105140 20010709210512: _probekey = 0
+!jmochel 1011105144 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = 0
+!jmochel 1011105144 20010709210512: _keysort = 0
+!jmochel 1011105144 20010709210512: _adler32 = 1
+!jmochel 1011105144 20010709210512: _keysort = 0
+!jmochel 1011105144 20010709210512: _adler32 = 1
+!jmochel 1011105144 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = 0
+!jmochel 1011105144 20010709210512: log -q http://www.openlogging.org:80////LOG_ROOT/// = 0
+!jmochel 1011105148 20010709210512: _probekey = 0
+!jmochel 1011111982 bk-2.1.3: sccscat -h ChangeSet = 0
+!jmochel 1011111982 bk-2.1.3: _keysort = 0
+!jmochel 1011111982 bk-2.1.3: sane = 0
+!jmochel 1011111994 bk-2.1.3: _probekey = 0
+!jmochel 1011113018 bk-2.1.3: edit config = 1
+!jmochel 1011113057 bk-2.1.3: regression = 1
+!jmochel 1011271422 bk-2.1.3: sccscat -h ChangeSet = 0
+!jmochel 1011271422 bk-2.1.3: _keysort = 0
+!jmochel 1011271422 bk-2.1.3: sane = 0
+!jmochel 1011301453 bk-2.0.4b: acf - = 0
+!jmochel 1011301453 bk-2.0.4b: sfind = 1
+!jmochel 1011301465 bk-2.0.4b: sccscat -h ChangeSet = 0
+!jmochel 1011301465 bk-2.0.4b: _keysort = 0
+!jmochel 1011301479 bk-2.0.4b: xflags - = 1
+!jmochel 1011301479 bk-2.0.4b: sfind = 1
+!jmochel 1011301479 bk-2.0.4b: sfind = 2
+!jmochel 1011301492 bk-2.0.4b: edit - = 1
+!jmochel 1011301492 bk-2.0.4b: sfind = 1
+!jmochel 1011301501 bk-2.0.4b: _probekey = 0
+!jmochel 1011301617 bk-2.0.4b: _probekey = 0
+!jmochel 1011301645 bk-2.0.4b: parent = 0
+!jmochel 1011301669 bk-2.0.4b: parent /f/Repository/BardicTales = 0
+!jmochel 1011301673 bk-2.0.4b: _probekey = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_VERSION=bk-2.0.4b = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_UTC=20011112193709 = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_TIME_T=1005593829 = 0
+!jmochel 1011301673 bk-2.0.4b: putenv _BK_USER=jmochel = 0
+!jmochel 1011301673 bk-2.0.4b: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_LEVEL=1 = 0
+!jmochel 1011301673 bk-2.0.4b: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011301673 bk-2.0.4b: cd /f/Repository/BardicTales = 1
+!jmochel 1011301703 bk-2.0.4b: parent f/Repository/BardicTales = 0
+!jmochel 1011301706 bk-2.0.4b: _probekey = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_VERSION=bk-2.0.4b = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_UTC=20011112193709 = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_TIME_T=1005593829 = 0
+!jmochel 1011301706 bk-2.0.4b: putenv _BK_USER=jmochel = 0
+!jmochel 1011301706 bk-2.0.4b: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_LEVEL=1 = 0
+!jmochel 1011301706 bk-2.0.4b: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011301706 bk-2.0.4b: cd g:/BardicTales/f/Repository/BardicTales = 1
+!jmochel 1011303743 bk-2.1.3: _probekey = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303743 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303743 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303743 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303743 bk-2.1.3: cd g:/BardicTales/f/Repository/BardicTales = 1
+!jmochel 1011303755 bk-2.1.3: parent = 0
+!jmochel 1011303778 bk-2.1.3: parent file://f:/Repository/BardicTales = 0
+!jmochel 1011303780 bk-2.1.3: parent = 0
+!jmochel 1011303782 bk-2.1.3: _probekey = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303782 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303782 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303782 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303786 bk-2.1.3: _probekey = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303786 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303786 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303786 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303830 bk-2.1.3: _probekey = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303830 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303830 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303838 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303838 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303838 bk-2.1.3: _listkey -q = 0
+!jmochel 1011303838 bk-2.1.3: takepatch -mvvv = 1

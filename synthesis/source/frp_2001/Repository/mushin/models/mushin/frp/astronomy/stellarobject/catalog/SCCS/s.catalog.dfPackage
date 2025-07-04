@@ -1,0 +1,87 @@
+H63251
+s 00057/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK22950
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/frp/astronomy/stellarobject/catalog/catalog.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK04238
+cPmodels/mushin/frp/astronomy/stellarobject/catalog/catalog.dfPackage
+cR478f9f33
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package id4w3zycp4bi4jzcp4fu5q9;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3y2ejcp4bi4jzcp4c03am.diagram:oiref><oihard>
+@automatic 
+*/
+class link {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1gabscp4bi4jzcp4c0609.diagram:oiref><oihard>
+@automatic 
+*/
+class link108 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1h5bgcp4bi4jzcp4fu5lj.diagram:oiref><oihard>
+@automatic 
+*/
+class link109 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3c3c8cp4bi4jzcp4c14kk.diagram:oiref><oihard>
+@automatic 
+*/
+class link110 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3419zcp4bi4jzcp4c07tn.diagram:oiref><oihard>
+@automatic 
+*/
+class link111 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

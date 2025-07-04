@@ -1,0 +1,40 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210161129.388;
+          10 Dec 91 16:11:49 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210161129.388;
+          10 Dec 91 16:11:43 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04626; Tue, 10 Dec 91 16:13:20 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA26213; Tue, 10 Dec 91 15:27:53 -0500
+Message-Id: <9112102027.AA26213@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2147; Tue, 10 Dec 91 15:27:59 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 8968;
+ Tue, 10 Dec 91 15:27:57 EST
+Date:         Tue, 10 Dec 1991 15:24:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Greg Porter <PORTERG%VCUVAX.BITNET@uga.cc.uga.edu>
+Subject:      Experience/time
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+At the risk of introducing a game mecahnic ;), why not do the following.
+Assume all characters automatically accrue a certain amount of xp/training
+time per year.  Then, subtract an aging factor, and an experience factor,
+the latter of which would be based on say the total number of skill levels
+or the total of the five highest skills.
+
+Example - You get 10 points towards attributes and and 40 points per skills
+per year.  But, you are 35, so you lose 5 attribute points and 20 skill points
+due to age.  Your five highest skills total to...lets see...uh..50.  We'll
+divide that by 5, getting 10, so you lose 10 more skill points simply maintain-
+ing your proficiency, leaving you with 5 attribute points and 10 skill points.
+
+An older character would have negative numbers, and would have to get other
+xp/training simply to maintain themselves, which would get harder and harder.
+
+The biggest advantage is that characters only have to worry about it once
+per year.  How's it sound?
+
+(c) 1991 by Greg Porter (or at least by someone using his account)

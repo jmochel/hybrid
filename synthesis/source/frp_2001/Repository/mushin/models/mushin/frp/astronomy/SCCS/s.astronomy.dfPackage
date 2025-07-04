@@ -1,0 +1,114 @@
+H06209
+s 00084/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK35317
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/frp/astronomy/astronomy.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK63436
+cPmodels/mushin/frp/astronomy/astronomy.dfPackage
+cR4789d77e
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package id3c3c8cp4bi4jzcp4c14kk;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3yod5cp4bi4jzcp4fu5t1.diagram:oiref><oihard>
+@automatic 
+*/
+class link {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3tg9vcp4bi4jzcp4fu5tl.diagram:oiref><oihard>
+@automatic 
+*/
+class link96 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3y2ejcp4bi4jzcp4c03am.diagram:oiref><oihard>
+@automatic 
+*/
+class link97 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1gabscp4bi4jzcp4c0609.diagram:oiref><oihard>
+@automatic 
+*/
+class link98 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1h5bgcp4bi4jzcp4fu5lj.diagram:oiref><oihard>
+@automatic 
+*/
+class link99 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id4w3zycp4bi4jzcp4fu5q9.diagram:oiref><oihard>
+@automatic 
+*/
+class link100 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3419zcp4bi4jzcp4c07tn.diagram:oiref><oihard>
+@automatic 
+*/
+class link101 {
+}/**
+@__ref <oiref:design#Class#id1h5bgcp4bi4jzcp4fu5lj.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#mushin.frp.astronomy.stellarobject:oiref> 
+*/
+class reference {
+}/**
+@__ref <oiref:design#Class#id1fvwgcp4bi4jzcp4c16xo.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#mushin.frp.astronomy.catalog_readers:oiref> 
+*/
+class reference142 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:design#Class#id1fvwgcp4bi4jzcp4c16xo.diagram:oiref>=126,10,103,63,1:oigroup>
+<oigroup:<oiref:design#Class#id1h5bgcp4bi4jzcp4fu5lj.diagram:oiref>=10,10,96,148,1:oigroup> 
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

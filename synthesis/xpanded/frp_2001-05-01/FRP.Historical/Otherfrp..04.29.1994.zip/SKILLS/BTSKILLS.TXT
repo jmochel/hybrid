@@ -1,0 +1,237 @@
+From alexj@juliet.ll.mit.edu Wed Dec 15 15:39:21 1993
+Date: Fri, 16 Jul 93 16:39:52 EDT
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM,
+    71342.3143@compuserve.com, 72144.743@compuserve.com,
+    Joe=Lapolito%IRD%PEOPLES@BANYAN.UMMED.EDU, alexj@juliet.ll.mit.edu,
+    britt%shiloh@mbunix.mitre.org, ghodge@nyx.cs.du.edu,
+    hicks@milkwy.enet.dec.com, jb@gauss.math.brown.edu,
+    jmochel@world.std.com, markd@ill.ceo.dg.com, morphus@mathworks.com,
+    pmt@sbcs.sunysb.edu
+Subject: Re: General skills
+
+Jeff says: 
+
+
+>    I don't think you are overestimating the power of general skills, but
+>I think you are underestimating the relative power of primary/secondary 
+>skills.  Take a look at some character sheets.  I think you may find that
+>most characters have trouble finding two high ranking secondaries for
+>most of their skills.  For these characters, a primary skill that can also
+>provide bonuses as a secondary skill is a much better deal than a general
+>skill, even if the general skill costs the same.  Maybe that's why I haven't
+>bothered with general skills.
+
+Hmmm.... I haven't forgotten secondaries.  
+
+I do think that I would rather have General skills be rare- I don't want
+people to have a plethora of them...
+
+Effectively what doubling the ep cost does is subtract 40 from the ep role.... 
+maybe I should just have it ep normally but subtract 30 or 20....
+
+
+
+From alexj@juliet.ll.mit.edu Wed Dec 15 15:39:36 1993
+Date: Mon, 19 Jul 93 10:42:26 EDT
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM,
+    71342.3143@compuserve.com, 72144.743@compuserve.com,
+    Joe=Lapolito%IRD%PEOPLES@BANYAN.UMMED.EDU, alexj@juliet.ll.mit.edu,
+    britt%shiloh@mbunix.mitre.org, ghodge@nyx.cs.du.edu,
+    hicks@milkwy.enet.dec.com, jb@gauss.math.brown.edu,
+    jmochel@world.std.com, markd@ill.ceo.dg.com, morphus@mathworks.com,
+    pmt@sbcs.sunysb.edu
+Subject: DES: BT Skills and Panic
+
+
+*AHEM!*
+
+To clear up a misunderstanding first- let me clear up three points....
+
+
+(1) I made a mistake- as has strongly been pointed out to me the 
+    double cost rule is not YET in effect.  So General skills are
+    still costing 1 for 1, and it won't change until rev 5, whenever that
+    will be.
+
+(2)  James makes his point well, albeit rudely.  I am forced to 
+     reconsider the double cost for Geenral skills.  More on that below.
+
+(3) People should not panic during these discussions.   Most of you have
+    a much better grasp of BT than you might think.  WHen we are going back
+    and forth, sometimes mistakes happen and somethimes we are brainstorming.
+    Sometimes I make mistakes....  I have found that people are doing pretty 
+    well at calculating accurate chances in BT.  SO don't worry. 
+
+ 
+>>  James
+>   Alex
+    Alex
+
+
+> Here are the benefits of BT general skills:
+> 
+> (1)The RANK bonus to success chance(3% per rank) is applied to all 
+> 	the skills that fall under its umbrella.  This
+> 	is above and beyond the normal maximum of two secondaries.
+> (2)(RANK-2)/2 in both SPD and DAM to ALL those skills.
+> (3)Full familiarity with the skills that fall under the umbrella of
+> 	the general skill.
+> (4)Even if you don't have it there is an intrinsic lore/perception 
+> 	skill that goes with each General skill.  The chance,
+> 	if you don't have the skill is 3% per RANK in general
+> 	skill with the following modifieres: +80 for basic, 
+> 	bottom-line quetsions and awarenesses in that domain, +40
+> 	for simple questions/awarenesses, +20 for standard but
+> 	more complicated ones, +0 for questions of medium difficulty.
+
+>	This is meaningless without a comparison of the modifiers
+>given to a sage that has just the general skill.  If the modifiers are
+>the same, then this is just repeating 3 above.
+
+Hmm.. yes it is in a sesne repeating of three above.  I wanted to highlight 
+though how useful that is.
+
+> (5) It adds to the Level Factor like any other skill
+
+>>	No, it doesn't.  That's the problem.
+
+Umm.. yes it does.  Whatdo you mean by this - rank for rank it does.  It won't
+roll for roll if it is double.
+
+
+> 
+> Here are the disadvantages of BT General skills:
+> 
+> NOw- let us take James example of CLASS A:3 10's in General skills and 
+> CLASS B: 6 10s in primary skills.  First off this is the most disadvantageous way to look 
+> at primary skills but that is fine... Let's do it:
+
+>	No, actually a more disadvantageous way to look at it would be
+>the case of 8 5.0 generals vs. 16 5.0 specifics.  A really sucky case
+>that may be buried in back letters is that of raising a general skill
+>from an 8.0 to a 10.0.  The higher you talk the stupider it is to
+>raise general skills.
+
+One thing that you seem to be consistently forgetting is that you can only use 
+two secondaries.   The other thing is the purpose of the general skill- it is 
+to support a series of skills.  It is not to compete against primaries.  I
+am not being evasive here.  A general skill is intended as a support skill of
+a set of skills.  If you have a 10 in Long Sword, an 8 in Short sword and an 8 
+in 2-handed sword, having a General skill in sword becomes worth it because
+it is the cheapeast way to get higher to-hits AND you get SPD and DAM bonuses!
+
+> 
+> (1)
+> CLASS B give one a 60 SCF.  And you have six 160% chances to hit.
+> 
+> CLASS A give one a 30 SCF, and +30 to approximately 18 skills (your standard
+> general skill umbrella's over about 5-6 skills).   So their chance in
+> this closed artificial environment is 60%.  SO in terms of chance you have three
+> skills that have 100% more chance than six of the umbrella'd skills and
+> the generalist has a 60% chance to do 12 MORE skills at 60%.
+
+>>	WRONG, check again, the generalist has NO better chance to do
+>>the other skills, thats why I cooked up this example.  The +30% due to
+>>general skill is KO'ed by the loss of 30 factor.  In terms of skill
+>>chance, the generalist is better at NOTHING, 100% worse at 6 skills
+>>and 30% worse at the hundreds of skills in the factor outside of the
+>>three areas.
+
+Well.. ain't that a hoot- you are quite right there...IN TERMS OF RAW CHANCE,
+and when the perosn doesn't already have secondaries- remember you can only 
+use two...
+
+GEN: 8  =  +24%(GEN) + 6%(LVF) = +30%
+PRIM: 8,8 = +48%(SECondaries) + 12(LVF) = +60%
+
+Definitley superior there... (in to-hit- I am igmnoring the familiarity, SPD 
+and DAM bonuses- all of which give the edge to General skills)
+
+GEN: 7	= +21% + 4% = 25%
+PR: 7,7 = +42% + 8% = 50%
+
+6	= +18% + 3% = 21%
+6,6	= +36% + 6% = 42%
+
+It will be double the bonus to buy two secondaries rather than a general skill 
+- UNLESS the character already has two strong secondaries!  This all just might 
+mean that you don't take a genral skill unless it is a field you will be doing 
+a lot in!;-)  I have no objection to that!;-)
+
+> 
+> (2)
+> CLASS A has advantages that don't show up in the other skills-
+> like (RANK-2)/2 in SPD and DAM.  So CLASS A has +4 SPD points and +4 DAM in 
+> 18 skills.  CLASS B has +8 SPD and +8 DAm in six skills.  (s)he also has 
+> +1-3 more spd based on the level factor sdifference(and which level factor).  
+
+>>	Right, so in terms of SPD and SCF skills, you get that,
+>>relative to B, A (aka last months general skill poster child) is 9.5
+>>SPD worse in 6 skills, 2.5 SPD better in 12 skills and 1.5 SPD worse
+>>in all other skills.  So, just in the three areas, our poster child is
+>>out 27 SPD*skill.  That comes to an average loss of 1.5 SPD in the
+>>area as well.  So what general skills do to SPD is to canabalize some
+>>skill in the area to feed the others while dropping your average SPD
+>>everywhere.  (send your donations now @;-)
+
+Yes- your math is good- a general skill make syou better in a specific area 
+at a cost everywhere else.  Not necessarily a problem.
+
+> 
+> (3)
+> CLASS A has whatever advantage 30 more level factor points bring one.  In
+> SCF that is 60 MEN, +15 MAP; in PCF it is +3 SPD, +30 PER.  This is an 
+> advantage.   But what makes CLASS A gross is that it applies to !18! skills.
+> It gives you familiarity, extra pluses to effect and speed and bonuses to 
+> hit above and beyond the usual BT limitations. 
+
+>>	I think you mistyped here, class B gets the advantage of 30
+>>more level factors.  Last time I knew, that gave you 60 MEN, 30 MAP,
+>>and 1.5 SPD.  What makes class B gross is that the factor bonus
+>>applies to !100's! of skills.  The bonuses that B gets even in the
+>>!18! skills pretty much wipes out the bonuses that A gets in those
+>>skills.  Thats why high level general skills at twice cost are for
+>>losers and girly mages.  Right Franz'lar?  @;-]
+
+That actuially isn't true as you yourself demonstrated- be careful with 
+statements like "pretty much wipes out.."  The fact is you get more SPD,
+MORE DAM, and, if you already had secondaries, more to-hits.  The factis
+it is a posuitive effect in that domain under the umbrella of the genreal skill.
+That is not to say that it might not be over-all more valuable to not use 
+them but let us keep it straight.  If I were a specialist swordsman with four 
+skills sword skills I would take the General skill at double cost.
+
+ 
+> A more complimentary example for general skills is to look at them in the 
+> perspective they wer eintended to be used in- as complementary skills-
+> I a sniper has a 10 in rifle, the absolute best thing they can do is get a 
+> 10 in G: Guns.  Why?  Becasue before they even achieve an 11 with hteir rolls 
+> they will achieve a 10 in G:guns and that is worth a +40, +4.5 SPD and +4 DAM.
+> OBSCENE!  If they bought two tens in primary skills in the same area they
+> would get +20(because of mcf), +1 SPD, and no damage bonuses--- AND G:guns
+> will giv eits bonus to 5 othe rkinds of guns!!!!!!   Is it expensive?  Yes.
+
+>	But the generalist is at -10%, with all other missle weapons
+>and -1/2 SPD with everything from nuking the Kremlin to wiping his sorry
+>little nose.  Right Hanz'lar?  @;-)
+
+Incorrect Franzlar!  That is rev3: Unfamiliarity has been -30.  It used to be 
+(over two years ago) -10 and 4/5 of the related skill but that is no longer true.
+The specialist also gets the SPD and DAM mods with those guns!!!
+
+> Is it clealry worth it?  Not clearly- it may or may not be- depending on your 
+> skill distribution..  and that's fine with me.
+
+>>Maybe if you only specialize in one area, but I for one have
+>>multiple Wizardries and suspect that I am not alone.
+
+I may not double the cost.  But I may- I am not sure yet.  I am amazed though 
+by the to-hit effect created by secondaries and am impressed by that!  It will 
+make me re-think.
+
+
+> 		Alex
+> 
+

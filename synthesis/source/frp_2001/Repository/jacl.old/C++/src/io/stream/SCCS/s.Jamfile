@@ -1,0 +1,50 @@
+h19370
+s 00022/00000/00000
+d D 1.1 99/11/17 12:47:28 jmochel 2 1
+cC
+cK47476
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:47:24 jmochel 1 0
+c BitKeeper file e:/jacl/C++/src/io/stream/Jamfile
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45316
+cPC++/src/io/stream/Jamfile
+cR2f93d7ba5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+# Jamfile for the JACL stream classes
+#
+# $Header $
+#
+
+# The SubDir rule simply tells Jam that all paths are relative to the given path.
+
+SubDir TOP src stream ;
+
+# Library from objects denotes the library to be built and its dependents
+
+DirectedLibrary j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) :
+    Stream.cpp
+    StreamInfo.cpp
+    StreamRegion.cpp
+    StreamSpec.cpp
+    StreamWithStdHdr.cpp
+    Substream.cpp
+;
+
+DirectedMain StreamUnitTest : StreamUnitTest.cpp ;
+DirectedLinkLibraries StreamUnitTest : $(LibDir)$(SLASH)j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+E 2
+I 1
+E 1

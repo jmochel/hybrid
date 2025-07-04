@@ -1,0 +1,276 @@
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [
+<!--ArborText, Inc., 1988-1995, v.4001-->
+<!NOTATION drw SYSTEM "DRW">
+<!ENTITY www "World Wide Web">
+]>
+<book>
+    <title>
+    Culture Description
+    </title>
+    <chapter>
+        <title>
+        Layout Example
+        </title>
+        <sect1>
+            <title>
+            Physical Resources
+            </title>
+            <sect2>
+                <title>
+                Noticeable Raw Materials
+                </title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>
+                Hidden Assets
+                </title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>
+                Neighboring Assets
+                </title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>
+            Technology
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Subsistence Patterns
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Values and Kinship
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Language
+            <title>
+            <sect2>
+                <title>
+                Language Tree
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Mapping
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Dialects
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Literacy
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Writing Forms
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Sounds
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Vocabulary and Grammer
+                </title>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>
+            Religion,Myths,and History
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Cosmology and Dieties
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Tradition
+            <title>
+            <sect2>
+                <title>
+                Wedding
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Bedding
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Birthing
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Battle
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Other
+                </title>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>
+            Clergy
+            <title>
+            <sect2>
+                <title>
+                Rites and Rituals
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Religious Norms
+                </title>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>
+            Institutions
+            <title>
+        </sect1>
+
+        <sect1>
+            <title>
+            Art, Architecture, and Symbolism
+            <title>
+            <sect2>
+                <title>
+                Symbolism
+                </title>
+                    <sect3>
+                        <title>
+                        Common Motifs
+                        </title>
+                    </sect3>
+                    <sect3>
+                        <title>
+                        Significant Numbers
+                        </title>
+                    </sect3>
+            </sect2>
+            <sect2>
+                <title>
+                Art
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Architecture
+                </title>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>
+            Politics
+            <title>
+            <sect2>
+                <title>
+                Leadership
+                </title>
+                    <sect3>
+                        <title>
+                        Stated
+                        </title>
+                    </sect3>
+                   <sect3>
+                        <title>
+                        Actual
+                        </title>
+                    </sect3>
+            </sect2>
+            <sect2>
+                <title>
+                Class Controls
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Judicial Structure
+                </title>
+            </sect2>
+        </sect1>
+
+      > Legal Code
+          . Ownership of Goods
+          . Land
+          . Male and Female Roles
+          . Church and State
+          > Death
+              . By Suicide
+              . By Anothers Hand
+              . In Self Defense
+
+        <sect1>
+            <title>
+            Military
+            <title>
+            <sect2>
+                <title>
+                Standing
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Command
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Routine
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Arms
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Outfitting
+                </title>
+            </sect2>
+            <sect2>
+                <title>
+                Theory
+                </title>
+            </sect2>
+        </sect1>
+
+    </chapter>
+</book>
+
+

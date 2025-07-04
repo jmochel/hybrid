@@ -1,0 +1,28 @@
+!  Contains script 
+!
+!  Author Jim Jackl-Mochel
+!  Date <???>
+!
+!  Copyright - This code is in the public domain
+!
+!  Revision Information 
+!  ==================== 
+!  $Author: $
+!  $Revision: $
+!  $Date: $
+!
+
+! Set the wrapping and margins of the output
+
+\B=@set-wrap{132;\t\t\t}
+
+\\index{*}=
+\\ndx{*}=$1
+\L\N\W\n=
+\\begin{quote}=\t\t\t<quote>
+\\end{quote}=\t\t\t</quote>
+\<\/event\>=$0\n
+
+!
+!  EOF
+!

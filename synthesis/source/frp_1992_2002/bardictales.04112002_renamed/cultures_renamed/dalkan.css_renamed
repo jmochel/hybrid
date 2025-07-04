@@ -1,0 +1,8 @@
+SPAN.BOOK, SPAN.AUTHOR, SPAN.SECTION2, SPAN.P, SPAN.SECTION1, SPAN.CHAPTER, SPAN.TITLE {
+  font-family: Times New Roman,serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 10pt;
+  color: #000000;
+}
+DIV { margin-top: 0pt; margin-bottom: 0pt; margin-left: 0pt; margin-right: 0pt }

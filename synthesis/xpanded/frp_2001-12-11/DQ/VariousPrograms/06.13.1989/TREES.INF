@@ -1,0 +1,743 @@
+Name	Silver Pine
+Type	V(Tree)
+Avail	C
+Habitat	LWD,FLD,RGH
+Potloss	1%/y
+Uses	PO,AL,FD
+DescStart
+Avg Height = 75 feet
+Avg Diameter = 3 feet
+Each years growth marked by an additional whorl of side branches 
+DescEnd
+CommentStart
+Cones take two years to mature
+PO 
+AL 
+FD Used to produce a chewy candy
+CommentEnd
+
+Name	Scarlet Pine
+Type	V(Tree)
+Avail	UC
+Habitat	WST,LWD,WTL
+Potloss	1%/y
+Uses	DY,WD,FD,HL,PO
+DescStart
+Avg Height = 65 feet
+Avg Diameter = 4 feet
+Short and stubby for a conifer this tree has bright red needles 
+in the fall and early spring.
+DescEnd
+CommentStart
+DY (Rundam) A bright orange dye 
+WD Good for waterwheels and small boats
+FD The dried needles make a good snack 
+HL (Dagaslin) 
+PO  
+CommentEnd
+
+Name	Tamarack
+Type	V(Tree)
+Avail	UC
+Habitat	RGH,HWD,LWD,WTL
+Potloss	1%/y
+Uses	PO,MG,WD,OT
+DescStart
+Avg Height = 65 feet
+Avg Diameter = 1.5 feet
+Light blue gray needles in an open ended cylinder
+DescEnd
+CommentStart
+OT Used in tanning leathers
+WD Used in ship building and ski making
+CommentEnd
+
+Name	Spruce
+Type	V(Tree)
+Avail	C
+Habitat	WTL,FLD,HWD
+Potloss	1%/y
+Uses	DY,HL,WD,FD
+DescStart
+Avg Height = 65 feet
+Avg Diameter = 1.5 feet
+TRee is tall and straight with a conical crown which ,
+in open grown trees, reaches nearly to the ground. In HWD 
+and LWD the trunk is clear of branches.
+DescEnd
+CommentStart
+WD general lumber, pulp, musical instrument sounding boards, ship masts
+DY Used in making a fixative
+HL Sap used in sterilizing bandages
+FD Spruce Beer
+CommentEnd
+
+Name	Hemlock Tree
+Type	V(Tree)
+Avail	UC
+Habitat	HWD,LWD,RGH,WTL
+Potloss	1%/y
+Uses	DY,HL
+DescStart
+Avg Height = 65 feet
+Avg Diameter = 2.5 feet
+Ragged branch developement with a weak tip that tends to 
+be bent away from the prvailing winds.
+DescEnd
+CommentStart
+DY Red dye for leather and wool
+HL Poultice for severe injuries and burns
+CommentEnd
+
+Name	Balsam Fir
+Type	V(Tree)
+Avail	VR
+Habitat	FLD,LWD,HWD
+Potloss	1%/y
+Uses	WD,AL,HL,MG
+DescStart
+Avg Height = 45 feet
+Avg Diameter = 1.5 feet
+Tends to be bare trunked
+DescEnd
+CommentStart
+WD Pulp
+AL Resin used in a optically pure glue and in light magiks
+HL Used in general coughs and soothing smoke damaged throat
+MG 
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	R
+Habitat	WTL,FLD,RGH,HWD
+Potloss	1%/y
+Uses	FD,HL,AL,WD,PO
+DescStart
+Avg Height = 91 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	C
+Habitat	FLD,HWD,RGH
+Potloss	1%/y
+Uses	DY,MG,WD
+DescStart
+Avg Height = 39 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	C
+Habitat	FLD,WTL,RGH
+Potloss	1%/y
+Uses	DY,FD,MG,HL,PO,AL
+DescStart
+Avg Height = 38 feet
+Avg Diameter = 4 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	R
+Habitat	WST,LWD,FLD,HWD
+Potloss	1%/y
+Uses	WD,DY
+DescStart
+Avg Height = 146 feet
+Avg Diameter = 2 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	R
+Habitat	WST,HWD,RGH,LWD,FLD,WTL
+Potloss	1%/y
+Uses	MG,PO,DY,FD,AL,HL,WD
+DescStart
+Avg Height = 32 feet
+Avg Diameter = 4 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	VR
+Habitat	HWD,FLD,LWD,WTL,RGH
+Potloss	1%/y
+Uses	PO,AL
+DescStart
+Avg Height = 60 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	UC
+Habitat	FLD,RGH,WST
+Potloss	1%/y
+Uses	WD,AL
+DescStart
+Avg Height = 48 feet
+Avg Diameter = 4 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	UC
+Habitat	FLD,LWD,HWD,WST
+Potloss	1%/y
+Uses	DY,AL,WD,MG,PO,FD,HL
+DescStart
+Avg Height = 110 feet
+Avg Diameter = 4 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	UC
+Habitat	WTL,HWD,LWD,WST
+Potloss	1%/y
+Uses	DY,PO,HL,MG,FD,WD
+DescStart
+Avg Height = 57 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	R
+Habitat	LWD,HWD,FLD,WTL,WST,RGH
+Potloss	1%/y
+Uses	AL,MG,DY
+DescStart
+Avg Height = 73 feet
+Avg Diameter = 2 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	UC
+Habitat	WTL,RGH,LWD,HWD,FLD,WST
+Potloss	1%/y
+Uses	WD,HL,FD
+DescStart
+Avg Height = 120 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	C
+Habitat	FLD,LWD
+Potloss	1%/y
+Uses	MG,PO
+DescStart
+Avg Height = 33 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	R
+Habitat	WST,HWD,LWD,FLD
+Potloss	1%/y
+Uses	PO,MG,WD
+DescStart
+Avg Height = 139 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	GenericTree
+Type	V(Tree)
+Avail	VR
+Habitat	RGH,FLD,WST,WTL,HWD
+Potloss	1%/y
+Uses	DY
+DescStart
+Avg Height = 36 feet
+Avg Diameter = 3 feet
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sago Palm Tree
+Type	V(Tree)
+Avail	C
+Habitat	DST,WST
+Potloss	NONE
+Uses	FD
+DescStart
+Height to 10' Large branching leaves with course bark on trunk. 
+DescEnd
+CommentStart
+FD The seeds form a good flour or can be eaten raw.
+FD Seeds contain a good cooking oil
+CommentEnd
+
+Name	Maiden Hair Tree
+Type	V(Tree)
+Avail	UC
+Habitat	WST,RGH,DST
+Potloss	NONE
+Uses	FD,HL,PO,WD
+DescStart
+Height to 80' . Staright and slender with relatively few branches. 
+Small almost round leaves approx 5" in diameter. 
+DescEnd
+CommentStart
+FD Seeds are edible but the fruit smells awful
+HL Ginkona : PL-PK-1(d2)-4(d4)-38.  Oil of the fruit can be rendered 
+down to a powerful pain killer. Note that the painkiller does not heal 
+any damage but it does ake it possible to ignore the damage taken.
+PO Granda : CN-DD-2(d3)-2(d6)-13 Fruit can be rendered down and mixed 
+with salt to produce a skin damaging poison called Granda
+WD Rarely used because of its lightness. 
+CommentEnd
+
+Name	Tea Bush
+Type	V(Tree)
+Avail	C
+Habitat	DST,RGH,WST
+Potloss	NONE
+Uses	FD,HL
+DescStart
+Small scrub shrub up to 5' tall. Flower bundles form at the base of 
+each set of stems.  
+DescEnd
+CommentStart
+FD Used to make a good tea.
+HL DC-FH-2(d6)-3(2d6)-16 Tea used to restore energy.
+CommentEnd
+
+Name	Yew Tree (Bow Tree) (Calen Alda)
+Type	V(Tree)
+Avail	UC
+Habitat	HWD,LWD,FLD,RGH
+Potloss	3%/wk
+Uses	PO,MG,WD
+DescStart
+Height up to 90' and trunk up to 8' in diameter. Bright red berries seen 
+for much of the year. 
+DescEnd
+CommentStart
+PO Taxin : IG-DD-3(d4)-4(d3)-16 Raw seed and Bark are poisonous when ingested.
+MG Used as the basis of a number of magical amulets.
+WD Often used in good bows because of its flexibility
+CommentEnd
+
+Name	Morning Tree
+Type	V(Tree)
+Avail	C
+Habitat	WTL
+Potloss	NONE
+Uses	FD,WD 
+DescStart
+A 30-40 ' tall willow like tree. One of the most common River trees
+DescEnd
+CommentStart
+FD During high summer it bears nuts that are very filling and delicious
+WD limber and flexible fine grained wood.
+CommentEnd
+
+Name	Prophet Tree (Aliantha)
+Type	V(Tree)
+Avail	UC
+Habitat	SSH,RGH,WST
+Potloss	NONE
+Uses	FD,HL,MG,WD
+DescStart
+15-30 ft in height and well protected by 1' long thorns. A bright 
+yellow fruit is seen during fall and winter. 
+DescEnd
+CommentStart
+FD The Fruit is the basis of a brandy called Raven Eyes. A black liqour 
+that is expensive and mildy addictive
+HL RW-FH-2(d6)-4(d5)-1d4 The raw Aliantha berry heals fatigue damage
+HL PL-FH-2(d2)-4(d3)-1d3 The flowers when crushed,help heal burn and cold damage
+HL DC-AN-1(1)-5(d6)-3d12 A brandy decoction, similiar to raven eye,can 
+be used as an antidote to Kasreeline
+MG Used to create a poison ward
+WD Dried and cured Aliantha makes an excellent glowing wood. 
+Much prized for staves.
+CommentEnd
+
+Name	Grandfather Tree
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	WD
+DescStart
+A large 300 - 350' tree. and over 30' in diameter at the base. The tree 
+is sacred to Correlan. 
+DescEnd
+CommentStart
+WD One of the better lumber tress. It grows quickly even in poor soil 
+so that a new tree can be grown in less than 15 years. It is immune to 
+most plant diseases and can live on when portions of the trunk are 
+hollowed out. It is often used as a home by wood elves.
+CommentEnd
+
+Name	Shadowcaster Tree (Wathin) (Belegor)
+Type	V(Tree)
+Avail	Rare
+Habitat	HWD
+Potloss	NONE
+Uses	MG,WD
+DescStart
+300+ ft tall. Usually found only in the densest of woods. Typically 
+Elhayns Deep,The Val-Tiers and some isolated vales of the western island.  
+It is said that a living shadow caster is immune to all magics. 
+DescEnd
+CommentStart
+MG Can be used to remove a Gaeas at midsummers eve. 
+WD Very few people have seen a Shadow Caster ,much less used it for lumber.
+CommentEnd
+
+Name	Hair
+Type	on
+Avail	Branch Tree (Finalda)
+Habitat	V(Tree)
+Potloss	C
+Uses	WTL,SSH-NONE-WD
+DescStart
+A 100-150+ tree that is typically found in bogs and Swamps. The 
+swamps and salt marshes around Caithnard and Kaylin Mtns. are filled 
+with them. They often float in bogs. There name derives from the long 
+hair moss often found on them.  
+DescEnd
+CommentStart
+WD A spongy wood. Not used as lumber but it dries to a nice tinder.
+CommentEnd
+
+Name	Gloom Tree (Feagor)
+Type	V(Tree)
+Avail	UC
+Habitat	RGH,WST,SSH
+Potloss	NONE
+Uses	WD,MG
+DescStart
+A Twisted gnarled 20 - 70' tall tree with rough gray flowers. It has a 
+dark black trunk and the leaves are double grown in such a way that when 
+the wind blows above 20 knots they raise a fearful and debilitating 
+racket. They can quite easily panic horses. 
+DescEnd
+CommentStart
+MG The flowers (which only bloom for a one week period) are used in 
+making a fear potion 
+WD The wood is in much demand for the making of harps and other instruments.
+CommentEnd
+
+Name	Mast Tree (Baradin)
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	FD,WD
+DescStart
+This straight gray barked tree ( 70 -80 ') is prized for its lumber 
+which makes excellent tree masts. 
+DescEnd
+CommentStart
+FD The inner bark can be used as a simple trail food. It is tasteless 
+but very sustaining. 
+WD Used in making ship masts.
+CommentEnd
+
+Name	Kudana Tree
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	WD,AL
+DescStart
+A tall conifer,(50 -100') this tree is used as firewood by a great number 
+of cultures. It is fast growing and its resin burns very hotly. 
+DescEnd
+CommentStart
+AL The resin is the basis of a large number of potions
+WD Used as a firewood
+CommentEnd
+
+Name	QuikLeaf Tree (Bragol Alda)
+Type	V(Tree)
+Avail	C
+Habitat	SSH,WTL,PLN,WST,RGH,HWD,LWD
+Potloss	NONE
+Uses	WD
+DescStart
+This conifer (70-80') is one of the first to reseed itself after a fire.  
+DescEnd
+CommentStart
+WD The wood is much sought after because it dries to a bright 
+yellow and is very waterproof.
+CommentEnd
+
+Name	Minya (Cul Alda)
+Type	V(Tree)
+Avail	UC
+Habitat	RGH,WST,LWD,HWD,SSH
+Potloss	NONE
+Uses	FD,MG,WD
+DescStart
+This short 50-60 ft tall tree has a dark brown bark and a bright 
+green leaf. The nuts are  walnut shaped .
+DescEnd
+CommentStart
+FD The nuts are collected and serve as both a staple and as a source of a 
+fragrant edible oil. 
+MG The oil of the nuts is the basis of several magical inscences
+WD It is very hard to work as a lumber or as a firewood. 
+CommentEnd
+
+Name	Fox Wood Tree (Curic Alda)
+Type	V(Tree)
+Avail	C
+Habitat	SSH,RGH,LWD,HWD
+Potloss	NONE
+Uses	PO,WD
+DescStart
+This 25-45' tall tree tends to spiral upward and its dark brown bark 
+is covered with 2-4" spikes. Most people are allergic to the bark and 
+are unwilling to follow a fox underneath the tree.
+DescEnd
+CommentStart
+PO Tyrani : IN-O-2(d6)-2(d4) The bark can be used to make a distracting 
+material called Tyrani,used to cause severe itching all over the skin.
+WD A good lumber but rarely used. It make a poor firewood because the 
+smoke has the same effect as the bark.
+CommentEnd
+
+Name	Loner Tree (Eren Alda)
+Type	V(Tree)
+Avail	Very Rare
+Habitat	LWD,HWD,RGH,WST
+Potloss	NONE
+Uses	WD
+DescStart
+20-50 ft tall. These light gray or green trees are very odd. 
+They only grow in regions above 6'0000 in wild vales near cold springs. 
+They often house a "Savitch" or shape changing Dryad. They count NONE 
+as fried except Druids. ( And damn few of them). 
+DescEnd
+CommentStart
+WD The wood is ideal for making strength rated (Composite) bows. 
+Difficult to gather because of the Savitch.
+CommentEnd
+
+Name	Burning Nut Tree (Ur Alda)
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD,RGH
+Potloss	NONE
+Uses	FD,HL,WD
+DescStart
+This 20-60 tall evergreen is the provider of Ur Nuts or "Heat Nuts" Spicy 
+and Filling,these are a staple throughout Oen,Osterland,and Temoroth. 
+DescEnd
+CommentStart
+FD Ur Nuts are used as a spice and as a soup foundation. 
+HL PL-AI-2(d6)-5(2d4) A poultice of Ur Nuts acts as a antiseptic.
+WD Generally a poor lumber or firewood. Though the nuts burn very well
+CommentEnd
+
+Name	Adamant Tree (Anga Alda)
+Type	V(Tree)
+Avail	UC
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	FD,WD
+DescStart
+A short 20-60 ft tree with a dark ,smooth  bark and a fine grain. 
+DescEnd
+CommentStart
+FD The tree bears some nuts which make a good flour and a good trail munchie.
+WD Wood is poor but it make good tinder.
+CommentEnd
+
+Name	She Oak Tree
+Type	V(Tree)
+Avail	C
+Habitat	LWD,HWD,SSH
+Potloss	NONE
+Uses	WD
+DescStart
+A 150+ tall tree. With pale green drooping branches. Wood is a bright red 
+DescEnd
+CommentStart
+WD Wood is a bright red ,drying to a blood red. The wood itself is known as 
+Ironwood. It is dense enough to sink in fresh water.
+CommentEnd
+
+Name	Quaking Aspen Tree
+Type	V(Tree)
+Avail	C
+Habitat	LWD,FLD
+Potloss	NONE
+Uses	WD
+DescStart
+Up to 80' in HT. With heart shaped leaves. Name	comes from tendency to 
+shake and rattle in the wind. 
+DescEnd
+CommentStart
+WD Wood is used for making paper,boxes,and pails.
+CommentEnd
+
+Name Bayberry Tree
+Type	V(Tree)
+Avail	UC
+Habitat	SSH,LWD,WTL
+Potloss	NONE
+Uses	FD,HL,PO,WD
+DescStart
+Tree or shrub up to 40' high but usually shorter. Leaves are aromatic 
+DescEnd
+CommentStart
+FD The Berries are boiled to remove a pale blue wax for candles
+HL Wax is used to cover wounds
+PO Wax is used to form basis of many insinuative poisons
+WD Of no real value.
+CommentEnd
+
+Name	Butternut Tree
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD,FLD
+Potloss	NONE
+Uses	FD,DY,WD
+DescStart
+Usually up to 100' high with a 4' thick trunk.  
+DescEnd
+CommentStart
+FD Sap used in making a sweet syrup
+FD Nuts are good once pickled in vinagar and spice.
+FD Nuts often eaten raw
+DY A bright yellow dye is made from the Nut husks
+WD Used in making furniture
+CommentEnd
+
+Name	Walnut Tree
+Type	V(Tree)
+Avail	C
+Habitat	HWD,LWD,RGH
+Potloss	NONE
+Uses	FD,WD
+DescStart
+Tree is up to 110' tall. Up to 8' in diameter.  
+DescEnd
+CommentStart
+FD Nuts are excellent raw or cooked
+FD Oil cold pressed from the nuts is an excellent cooking oil.
+WD Excellent furniture wood. 
+CommentEnd
+
+Name	Hop
+Type	V(Vine)
+Avail	C
+Habitat	LWD,FLD
+Potloss	10%mo
+Uses	FD,HL
+DescStart
+Climbing vines up to 20' in length. 
+DescEnd
+CommentStart
+FD Used in making Beer
+HL PL-AI-3-3 Poultice used as an antiseptic
+CommentEnd
+
+
+Name	Sweet Fern Tree
+Type	V
+Avail	UC
+Habitat	RGH,LWD,HWD
+Potloss	1%/10y
+Uses	FD,MG,WD
+DescStart
+A short (3') tall tree.Used in making tea and some special tinders
+DescEnd
+CommentStart
+Very expensive simply because of its value in making special tinders and charcols
+CommentEnd
+
+Name	Nigeran Wall Nut
+Type	V(Tree)
+Avail	UC
+Habitat	RGH,PLN,FLD,HWD,LWD
+Potloss	NONE
+Uses	FD,PO,HL,WD,DY,SPC
+DescStart
+A tall (80+) tree with trunk up to 8' in diameter. Large nuts and heavy black bark as well as very dark wood.
+DescEnd
+CommentStart
+Valuble as a wood plant as well as for food and oils.
+CommentEnd
+
+Name	Pecan
+Type	V(Tree)
+Avail	UC
+Habitat	WTL,LWD,HWD
+Potloss	NONE
+Uses	FD,WD,AL
+DescStart
+Height to 120' with trunk to 4' in diameter. Bark smooth and brown. Wood is clse grained and durable. Favors warmer climates
+DescEnd
+CommentStart
+Nuts favored for food as is the oil from the nuts. The wood is fairly valuble and the bark yields several interesting dyes.
+CommentEnd
+
+Name	Mockernut
+Type	V(Tree)
+Avail	C
+Habitat	WTL,LWD,FLD
+Potloss	NONE
+Uses	HL,MG,AL
+DescStart
+Tree to 90' but typically between 50-75' with trunk up to 3' in diameter.
+Crown commonly round topped .
+DescEnd
+CommentStart
+Well prised by Alchemists for its nut. The mockernut nut exudes a small amount of a sap used in making a very strong painkiller
+and an aphrodisiac
+CommentEnd
+
+Name	Pignut
+Type	V(Tree)
+Avail	C
+Habitat	WST,RGH,WTL,LWD
+Potloss	NONE
+Uses	FD,DY,MG
+DescStart
+Tree up to 90' in height and to 4' in diameter. Usually a slender tree with few branches. Berk is dark brown and fairly smooth.
+DescEnd
+CommentStart
+Used as firewood, nuts are edible but not tasty. 
+CommentEnd

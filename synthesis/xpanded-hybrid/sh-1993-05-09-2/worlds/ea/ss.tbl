@@ -1,0 +1,79 @@
+             DETERMINE AREA OF BIRTH - AFFECTED BY SOCIAL
+             STANDING AND RACE
+
+                       SOCIAL STANDING
+             --------------------------------------------------
+
+                     GRAY ELVEN
+
+                  01-05     SCUM,BRIGANDS
+                  06-15     TOWNSMAN MERCHANT
+                  16-25     TRAVELLING MERCHANT
+                  26-39     FARMER
+                  40-65     HUNTER
+                  66-80     ADVENTURER
+                  81-90     MAGE
+                  91-97     ARTISAN
+                  98-99     LESSER NOBLE
+                  00-00     GREATER NOBLE
+
+
+                     ELVEN
+
+                  01-06     SCUM,BRIGANDS
+                  07-17     TRAVELLING MERCHANT
+                  18-25     TOWNSMAN MERCHANT
+                  26-35     ADVENTURER
+                  36-41     MAGE
+                  41-69     HUNTER
+                  70-90     FARMER
+                  91-97     ARTISAN
+                  98-99     LESSER NOBLE
+                  00-00     GREATER NOBLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     DROW
+
+
+                  01-05     SLAVE,DRUDGE (USUALLY NOT DROW)
+                  06-09     MERCHANTS
+                  10-35     FARMER
+                  36-49     HUNTER
+                  50-65     ARTISAN
+                  66-70     DROW OF THE SILVER LIVES
+                  71-85     MAGE
+                  86-95     ASSASSIN
+                  96-98     LOWER CLERICAL
+                  99-00     HIGHER CLERICAL
+
+
+                     DWARVISH
+
+
+                  01-10     SCUM,BRIGANDS
+                  11-12     SLAVES
+                  13-27     SERFS
+                  28-45     PEASANTS
+                  46-69     FREEMAN PEASANTS
+                  70-75     ADVENTURER
+                  76-83     ARTISAN
+                  84-90     TRAVELLING MERCHANT
+                  91-96     TOWNSMAN MERCHANT
+                  97-99     LESSER NOBLE(30%) OR CITY GOVERNMENT(70%)
+                  00-00     GREATER NOBLE(ROLL AGAIN)
+
+             ROLL IMPLIES PAST DEEDS OF A FAMILY. NOBLES ARE THOSE
+             WITH GREAT WARRIOR OR ARTISAN HERITAGES.
+
+

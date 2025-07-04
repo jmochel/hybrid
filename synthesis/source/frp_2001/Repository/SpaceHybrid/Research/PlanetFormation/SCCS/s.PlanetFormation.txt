@@ -1,0 +1,80 @@
+h12430
+s 00052/00000/00000
+d D 1.1 99/12/02 15:51:02 jmochel 2 1
+cC
+cK35648
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:50:58 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/PlanetFormation/PlanetFormation.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44946
+cPResearch/PlanetFormation/PlanetFormation.txt
+cReb4786b25cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+09:12 E23.07 A NEW MODEL FOR PLANETARY SYSTEM FORMATION
+     Fred M. Johnson (California State University, Fullerton)
+
+
+
+                         Bibleography of Articles related to Planet Formation
+
+
+
+     Here is a listing of the various articles that were useful in providing information about the theories of planet formation. Some provided details used in the algorithms of my
+     program to model certain effects. Others provided background information useful in understanding the process by which a solar nebula evolves into a system of planets. If
+     you have an interest in this area I recommend them to you. Also try NASA ADS Article Service to find articles on this topic.
+
+     note: the first two articles by James Arnold were essential in providing algorithms to determine the probability of an encounter between two bodies in intersecting orbits.
+
+
+  J. R. Arnold, "The Origin of Meteorites as Small Bodies. II. The Model", Astrophysical Journal, 141, 1536, (1965) 
+  J. R. Arnold, "The Origin of Meteorites as Small Bodies. III. General Considerations", Astrophysical Journal, 141, 1548, (1965)
+
+  S. H. Dole, "Computer Simulation of the Formation of Planetary Systems", Icarus, 13, 494, (1970)
+  P. Goldreich and W. Ward, "The Formation of Planetesimals", Astrophysical Journal, 183, 1051, (1973) 
+  A. W. Harris, "Dynamics of Planetesimal Formation and Planetary Accretion", The Origin of the Solar System, S. F. Dermott Ed., Wiley, Chichester NY, 1978 
+  W. K. Hartmann, "Planet Formation: Mechanisms of Early Growth", Icarus, 33, 50, (1978) 
+  L. P. Cox, J. S. Lewis, M. Lecar, "A Model for Close Encounters in the Planetary Problem", Icarus, 34, 415, (1978) 
+  R. Greenberg, J. F. Wacker, W. K. Hartmann, C. R. Chapman, "Planetesimals to Planets: Numerical Simulation of Collisional Evolution", Icarus, 35, 1, (1978) 
+  G. W. Wetherill, "Steady State Populations of Apollo-Amor Objects", Icarus, 37, 96, (1979) 
+  R. Greenberg, "Growth of Large, Late-Stage Planetesimals", Icarus, 39, 141, (1979) 
+  L. P. Cox and J. S. Lewis, "Numerical Simulation of the Final Stages of Terrestrial Planet Formation", Icarus, 44, 706, (1980) 
+  G. W. Wetherill, "Formation of the Terrestrial Planets", Annual Review of Astronomy and Astrophysics 1980, 18, 77, (1980) 
+  D. C. Black, "A Simple Criterion for DeterminingThe Dynamical Stability of Three-Body Systems", The Astronomical Journal, 87, 1333, (1982) 
+  G. W. Wetherill and L. P. Cox, "The Range and Validity of the Two-Body Approximation in Models of Terrestrial Planet Accumulation. I. Gravitational Perturbations", Icarus, 60, 40, (1984) 
+  G. W. Wetherill and L. P. Cox, "The Range and Validity of the Two-Body Approximation in Models of Terrestrial Planet Accumulation. II. Gravitational Cross Sections and Runaway Accretion", Icarus, 63, 290, (1985) 
+  G. W. Wetherill, "Occurrence of Giant Impacts During the Growth of the Terrestrial Planets", Science, 228, 877, (1985) 
+  J. Wisdom, "Meteorites May Follow a Chaotic Route to Earth", Nature, 315, 731, (1985) 
+  Protostars & Planets II, D. C. Black and M. S. Matthews Eds., University of Arizona Press, Tucson, 1985 
+  P. Bodenheimer and J. B. Pollack, "Calculations of the Accretion and Evolution of Giant Planets: The Effects of Solid Cores", Icarus, 67, 391, (1986) 
+  Origin of the Moon, W. K. Hartmann, R. J. Phillips, G. J. Taylor Eds., Lunar & Planetary Institute, Houston, 1986 
+  G. W. Wetherill, "Accumulation of Mercury from Planetesimals", Mercury, C. Chapman and F. Vilas Eds., Univerity of Arizona Press, Tucson, 1988 
+  D. J. Stevenson and J. Lunine, "Rapid Formation of Jupiter by Diffusive Redistribution of Water Vapor in the Solar Nebula", Icarus, 75, 146, (1988) 
+  G. W. Wetherill and G. R. Stewart, "Accumulation of a Swarm of Small Planetesimals", Icarus, 77, 330, (1989) 
+  G. W. Wetherill, "Occurrence of Earth-Like Bodies in Planetary Systems", Science, 253, 535, (1991) 
+  A. P. Boss, "Evolution of the Solar Nebula II. Thermal Structure During Nebula Formation", Astrophysical Journal, 417, 351, (1993) 
+  Protostars & Planets III, E. H. Levy and J. I. Lunine Eds., University of Arizona Press, Tucson, 1993 
+  A. P. Boss, "Proximity of Jupiter-Like Planets to Low-Mass Stars", Science, 267, 360, (1995) 
+
+Back to Planet Formation Page
+
+Back to my homepage 
+
+Maintained by Kevin Sagarsee // Created Dec. 19, 1995 Updated Jan. 04, 1997 
+
+e-mail address: ksagars@netusa1.net
+E 2
+I 1
+E 1

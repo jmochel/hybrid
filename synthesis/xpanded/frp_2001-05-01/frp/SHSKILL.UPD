@@ -1,0 +1,69 @@
+Todo:
+
+	Detailed Notes on how to handle EEPS, INcluding Training EEPS
+
+	What about linking speed of advancement to SB
+		i.e. SB 3-15 => 1 rank gainable per run
+		     SB 16-24 => 2 rank gainable per run
+			 SB 25-35 => 3 rank gainable per run
+
+	Notes on Tasks
+
+	Feedback from skills to speed
+
+	General versus Specific Skills
+
+	Data Sheets
+
+	Detail Filter Skills
+
+	Add in DF relation to Skill Type
+		More Abstract => harder to do
+		More Lore => Harder to learn
+
+	Packages
+
+	Data Analysis, is it a skill
+
+Tasks.1
+
+	Describing Tasks
+
+	Desc/Name		DF		Time	Skills Applicable
+    	Any Special Notes
+
+		Time gives some base task times. Should allow for scalable
+        task times. The GM may want control over how long it takes
+
+EEPS.1
+
+	Base EEPS (You Ran )
+    Character EEPS ( How well you roleplayed )
+    Skill Use EEPS ( How well you manipulated the game )
+    Scenario EEPS (Special )
+
+	Character EEPS and Skill Use EEPS should be equal in magnitude
+
+Filter Skills.1
+
+	Filter Skills allow you to use skills in an evironment other
+    than the one they are normally used in.
+
+	Typical Filter Skills:
+    Computer Operations
+    Mounted Combat
+    Vehicular Combat
+    Acrobatic Combat
+    0-G Combat
+    ME:(Energy Type)
+
+	if Rank(Filter) >= Rank(Skill)
+    	All of the skill can be used
+
+	if Rank(Filter) < Rank(Skill)
+    	A roll must be made to use the skills in the filter skill environment
+
+
+	
+
+

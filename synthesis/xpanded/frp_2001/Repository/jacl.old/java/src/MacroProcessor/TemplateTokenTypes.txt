@@ -1,0 +1,7 @@
+// $ANTLR 2.7.0: TemplateLexer.g -> TemplateTokenTypes.txt$
+Template    // output token vocab name
+COMMANDBEGIN=5
+COMMANDEND=6
+EXPRESSIONLEADIN=7
+IGNORE=8
+IDENTIFIER=9

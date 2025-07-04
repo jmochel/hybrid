@@ -1,0 +1,1430 @@
+H36387
+s 01401/00000/00000
+d D 1.1 02/01/08 23:02:35 jmochel 2 1
+cF1
+cK08576
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/08 23:02:35 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/Dal-Kon.xml
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK43363
+cPCultures/Dal-Kon.xml
+cR2ffe846a
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+<?xml version="1.0"?>
+<!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Foliage Engineer (IT) -->
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<?xml-stylesheet type="text/xsl" href="F:\docbook-xsl-1.45\fo\docbook.xsl"?>
+<book>
+	<bookinfo>
+		<title>Dal-Kon</title>
+		<author>
+			<firstname>Jim</firstname>
+			<surname>Jackl-Mochel</surname>
+		</author>
+	</bookinfo>
+	<chapter>
+		<title>General Description</title>
+		<epigraph>
+			<attribution>Emperor Sunjuro in the Pond of Hirosawa</attribution>
+			<para>The Moon in the Water, the doctrine of Mushin</para>
+			<para>The moon has no intent to cast its shadow anywhere, nor does the pond design to lodge the moon: How serene the water of Hirosawa!</para>
+		</epigraph>
+		<sect1>
+			<title>The Islands</title>
+			<para>
+            Dal-Kon is a volcanic archipelago with about 
+            70% of its total land, most of which mountainous, covered with woodlands and 
+            forest plantations.  Within the relatively small area of its land, Dal-Kon has three 
+            climates - temperate, alpine and sub-tropical, and in most of is 
+            regions it has four distinctive seasons.  Temperate regions, which occupy most 
+            of its land, and also sub-tropical regions, enjoy relatively warm temperatures 
+            and sufficient precipitation to enable a great variety of agriculture even though 
+            rice is the primary food crop.
+			</para>
+        </sect1>
+		<sect1>
+			<title>The Surrounding Seas</title>
+			<para>
+            The Seas are uniformly warm and life abounds. The reefs are treacherous and the 
+            shoals sharply limit the paths of approach for boats. Despite this fishing 
+            and kelp gathering are very common ways of making a living all along the seacoast.
+			</para>
+        </sect1>        
+    </chapter>
+	<chapter>
+		<title>Flora and Fauna</title>
+		<para>
+		The Dal-Kon soil is incredibly fertile. This seems to be a direct side effect 
+		of the runoff from various volcanoes. It is especially good for rice and mulberry 
+		bushes as well as a variety of fruit trees (Cherry, pear, apple, and plum).
+		</para>
+		<sect1>
+			<title>Flora</title>
+			<para>
+			Silk culture makes up the majority of the exportable goods that leave Dal-Kon. Cultivating the 
+			mulberry and the silk worms are considered to be a woman's domain.
+			</para>
+			<para>
+            Dal-Kon grows a variety of woods from near scrub plants 
+            such as Bamboo, and Painted Fern to the majestic 
+            Cedar and Red Greatwood. From Bamboo and Cedar to Mulberry 
+            and Cherry the woods of Dal-Kon are varied and 
+			used for the majority of all building and other construction.            
+			</para>
+            <para> 
+            Seaweeds and Kelp abound in the coastal waters. Many of these are gathered 
+            for food as well as medicinal purposes.
+            </para>
+            <para>
+            Dal-Kon has many types of fruit trees. 
+            Dalk-Kon dami plums are soft and juicy, with flesh that ranges from tart 
+            to sweet. These large, round plums are best eaten fresh, and 
+            not for drying.
+            </para>
+            <para>
+            Dalk-Kon cherry plum have small, tart fruit, 
+            and are used for making jams, jellies, 
+            and preserves. These plums are cold hardy and 
+            will survive in cool storage bins for the winter
+            </para>
+            <para>
+            Dal-Kon of the Bonsai Tomo grow plums as a favored Bonsai
+            in an open vase form (the middle of the tree has no central leader), 
+            in an informal fan-trained shape, or in pyramidal shapes. 
+            </para>
+            <para>
+            Red Dawnwood is a large-growing deciduous conifer with fern-like foliage that contrasts 
+            beautifully with its deep red wood. It is an excellent choice for providing 
+            shade, as well as beauty. Ultimate size is 80-120 feet with 40 feet at 20 years 
+            </para>
+            <para>
+            Bald Cypress grows naturally in swamps and 
+            bogs but the tree can thrive in any soil condition. Its smooth red bark contrasts 
+            beautifully with its light-green, thread-like foliage. Ultimate size is up to 100 
+            feet with 35 feet at 20 years
+            </para>
+            <para>
+            Kitayama sugi or red cedar takes the soaring temperatures 
+            of a Dal-Kon seaside summer in stride. This large 
+            evergreen is blue foliaged and fast growing. Ultimate size: Up to 50 feet Growth rate
+            </para>
+            <para>
+            River Birch is a large-growing tree that will grow in all conditions - and its 
+            ornamental peeling bark. The tree is found naturally 
+            in flood plains, but will also flourish in dry soil. 
+            Ultimate size: 75 feet; 40 feet at 20 years 
+            </para>
+            <para>
+            Sugar Maple has deep green summer foliage that turns 
+            vibrant orange and red in autumn. It is revered for its hard woods and in the 
+            more temperate hill regions, for its maple syrup.
+            Ultimate size: 80 feet; 30 feet at 20 years
+            </para>
+            <para>
+            batatas or cinnamon vine is a vine that grows up to 10' 
+            A vigorous, long-lived twining vine. Much cultivated in Dal-Kon for the large, 
+            edible, tuberous roots. The roots are said to remain edible and mild-flavored 
+            even when they reach a large size. The small flowers, which appear in summer, 
+            are cinnamon scented. Also bears small aerial tubers in the leaf axils. These 
+            are edible and can be planted to start new plants.
+            </para>
+            <para>
+            Wild yam's appearance is distinctive in that the leaves grow in whorls of 
+            four or more at each node along the vine's lower length. Toward the top, the 
+            number of leaves decreases to one or two per node.
+            </para>
+            <para>
+            Juncus Rush. Found mostly in temperate regions, typically occurring 
+            on moist or wet soil. ht 2-3' . The Juncus provides a soft rush; 
+            This common plant of wetlands is leafless, with round, 
+            hollow, green stems. Somewhat similar, in overall appearance, to a 
+            large, evergreen chives plant with stiff, slender leaves. The stems 
+            are used to weave tatami, the traditional floor covering of 
+            Dal-Kon homes.
+            </para>
+            <para>
+            Bamboo. Grasses with perennial, woody stems and, almost always, 
+            evergreen leaves. max ht 20' max culm dia 1"  The young shoots 
+            are of good quality for eating, and the culms are sturdy and useful 
+            for stakes, staves, furniture, and other purposes. 
+            </para>
+		</sect1>
+
+		<sect1>
+			<title>Fauna</title>
+			<para>Fish</para>			
+            <para>
+            The Dal-Kon coastal waters are surrounded by Coral reefs. Coral is used as an 
+            ornamental material and as a polishing agent. 
+            </para>
+            <para>
+            Ivory is found both from the sea in the form of walrus tusk and
+            from the land in the form of Ontabe horn. Ontabe are a large horned 
+            rabbit like creature that uses its horn for digging roots.
+            </para>
+            <para> 
+            The Dal-Kon coastal waters abound in fish and shells. 
+            Ama (Women divers of the Ama Tomo) search for abalone deep on the ocean floor. (Dal-Kon
+            abalone almost inhabit on the rocks of the seabed, not on the kelp bed). It's 
+            very dangerous works, so Ama wear a special amulet called Seman Doman that 
+            protects them from peril.            
+            </para>
+            <para>
+            Dal-Kon abalones can grow up to 8 inches long and are often 
+            covered with worm growths. The outside of the shell is thin and 
+            greyish-brown. The blue and green inner shell is covered with an 
+            iridescent (a pearl-like shine or luster) mother of pearl layer. 
+            </para>
+            <para>
+            The abalone itself is eaten as a prized seafood. The shells of abalone 
+            provide mother of pearl for decorations. Especially prized are the 
+            Imperial island black abalone that provide a glowing white mother of pearl
+            used in decorating sword racks with cherry blossoms.
+            </para>
+            <para>
+            The viscera of 
+            abalone can harbor a poisonous substance which causes a burning, 
+            stinging, prickling and itching over the entire body. It does not 
+            manifest itself until exposure to sunlight - if eaten outdoors in 
+            sunlight, symptoms occur quickly and suddenly. Skin lesions may 
+            occur on body parts exposed to the sunlight. It is believed the 
+            poison may come from seaweed ingested by the abalone. 
+            </para>
+            <para>
+            Glitter Quills from a puffer fish. Several types of puffer fish in Dal-Kon waters
+            provide the Dal-Kon with hollow but flexible needle tipped tubes that are used to 
+            inject medicine as well as serving as the basis of decorative beadwork.
+            </para>
+
+		</sect1>
+
+		<sect1>
+			<title>Mineral and other</title>
+			<para>
+			The imperial island especially has small but pure iron deposits.
+			</para>
+            <para>
+            Pumice
+            </para>
+            <para>Obsidian</para>            
+            <para>Pottery Clay</para>            
+		</sect1>
+		
+		<sect1>
+			<title>Noticeable Other Assets</title>
+			<para>Hot Springs</para>
+		</sect1>
+
+	</chapter>
+	
+	<chapter>
+		<title>Technology</title>
+		<para>Text</para>
+		<sect1>
+			<title>General</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Medical</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Weapon</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	
+	<chapter>
+		<title>Magic</title>
+		<para>Text</para>
+		<sect1>
+			<title>General</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Medical</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Weapon</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+
+	<chapter>
+		<title>Subsistence Patterns</title>
+		<para>Money is relatively scarce</para>
+		<para>Land is relatively Fertile</para>
+		<para>Rice and Silk are primaries</para>		
+	</chapter>
+	<chapter>
+		<title>Values and Kinship</title>
+		<para>Uji - membership in the clan.</para>
+	</chapter>
+
+	<chapter>
+		<title>Language</title>
+		<para>Text</para>
+	</chapter>
+
+	<chapter>
+		<title>History</title>
+		<para>Text</para>
+		<sect1>
+			<title>The Diaspora</title>
+			<para>Teh leaving from the Golden Empire foloowed by the long trek to Dal-Kon</para>
+		</sect1>
+		<sect1>
+			<title>The Settling</title>
+			<para>Settling into the first alluvial basin.</para>
+		</sect1>		
+		<sect1>
+			<title>Expansion</title>
+			<para>Battles with the Oni and existing Relanian settlers</para>
+			<para>First Shogun, Tamura Moro</para>
+			<para>
+			Tamura Moro injured in the last major battle with the Rhelanian settlers,
+			his wife finishes leading the armies.
+			</para>  
+			<para>Council rule was breaking down, none could stand alone.</para>
+		</sect1>		
+		<sect1>
+			<title>The Compact</title>
+			<para>Acknowledgement of Imperial Rule</para>
+			<para>The move of the Capital</para>
+		</sect1>		
+		<sect1>
+			<title>Consolidation</title>
+			<para>Gradual aligning of the clans</para>
+			<para>Creation of Ninja</para>
+			<para>Creation of Sohei</para>
+		</sect1>
+		<sect1>
+			<title>The Troubles</title>
+			<para>Increasing influence of the Clans via concubines</para>
+			<para>Patronage system of land tax immunities</para>
+			<para>Death of Emperor in a duel</para>
+			<para>Failed Ascension of Empress Shigei</para>
+			<para>Sohei brought to heel</para>
+		</sect1>
+		<sect1>
+			<title>Modern Era</title>
+			<para>Kay and the Silk mission</para>
+		</sect1>												
+	</chapter>
+
+	<chapter>
+		<title>Religion and Myths</title>
+		<para>Text</para>
+		<sect1>
+			<title>Religion</title>
+			<para>There are many</para>
+			<sect2>
+				<title>Cosmology</title>
+				<para>
+				Genesis starts from Chaos. The gods come later (i.e. subject to 
+				the rules of the universe)
+				</para>
+				<para>
+                Of old, Heaven and Earth were not yet separated, and the In and 
+                Yo not yet divided. They formed a chaotic mass like an egg which 
+                was of obscurely defined limits and contained germs. The purer 
+                and clearer part was thinly drawn out, and formed Heaven, while 
+                the heavier and grosser element settled down and became Earth. 
+                The finer element easily became a united body, but the 
+                consolidation of the heavy and gross element was accomplished 
+                with difficulty. Heaven was therefore formed first, and Earth 
+                was established subsequently.				
+				</para>
+				<para>
+				After the creation of Heaven and earth, Divine Beings were 
+				produced between them.	Hence it is said that when the world 
+				began to be created, the soil of which lands were composed 
+				floated about in a manner which might be compared to the 
+				floating of a fish sporting on the surface of the water.
+				</para>
+				<para>
+				There is a natural order or Li. An offence against that natural order causes spiritual distractions
+				or taints known as pollution. Offence and pollution are inseparable ideas. Pollutions
+				are taints that much be removed before man or woman can resume their full role in the life of the 
+				community. Death, Birth, sex, disease or causing wounds can all result in such pollution. 
+				</para>				
+				<para>
+				Certain offences such as murder, assault, rape, incest, bestiality all leave a stain that 
+				must be ritually expatiated and carry also the need of restitution for the offended individual.
+				</para>
+				<para>
+				The permission of the Samurai to cut down those that stand inthe ways of their duties
+                is pragmatic, as it brings the causing of death from a ritual process and restitution 
+                to a normal cleansing on the part of the Samurai.
+				</para>
+			</sect2>
+		</sect1>
+		<sect1>
+			<title>Shinto</title>
+			<para>The way of the gods. Attuned to the agrarian common man</para>
+		</sect1>
+		<sect1>
+			<title>Shizendo</title>
+			<para>The way of the ways. Derives into a series of belief codes </para>
+			<para>A great deal of stress is placed on the individual's word and way.</para>
+            <para>Bushido</para>
+            <para>Merchant-do</para>
+            <para>Advisor Do</para>
+            <para>Gakusho-do</para>            
+            <para>Shukenja-do</para>
+		</sect1>		
+		<sect1>
+			<title>Ancestor Worship</title>
+			<para>
+			Strong worship of the ancestor who established the way of the clan 
+			or family. They are assumed to represent and preserve the family, 
+			line, clan, or ruling family.
+			</para>
+			<sect2>
+				<title>Deities</title>
+                <para>Zenncha - Heimdall</para>
+                <para>Amaterasu - Correllan</para>
+                <para>? - Dau-Pen</para>                        
+			</sect2>
+		</sect1>
+		<sect1>
+			<title>Myths</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	
+	<chapter>
+		<title>Shinto</title>
+		<para>The Way of the Gods, also Kannagara: "the way of the kami ." </para>
+		<sect1>
+			<title>Beliefs</title>
+        	<para>			
+            All Shinto cults believe in kami, which generally refers to the "divine." 
+            Individual clans (uji ), which 
+            were simultaneously political, military, and religious units, worshipped a 
+            single kami in particular which was regarded as the founder or principal 
+            ancestor of the clan. As a clan spread out, it took its worship of a particular 
+            kami with it; should a clan conquer another clan, the defeated clan was subsumed 
+            into the worship of the victorious clan's kami . What the kami consists of is 
+            hard to pin down. Kami first of all refers to the gods of heaven, earth, and the 
+            underworld, of whom the most important are creator gods. But 
+            kami also are all those things that have divinity in them to some degree: the 
+            ghosts of ancestors, living human beings, particular regions or villages, 
+            animals, plants, landscape-in fact, most of creation, anything that might be 
+            considered wondrous, magnificent, or affecting human life. This meant that the 
+            Dal-Kon feel themselves to be under the control not only of the clan's 
+            principal kami, but by an innumerable crowd of ancestors, spiritual beings, and 
+            divine natural forces. As an example of the potential for divinity: there is a 
+            story of an emperor who, while travelling in a rainstorm encountered a cat on a 
+            porch that waved a greeting to him. Intrigued by this extraordinary phenomenon, 
+            the emperor dismounted and approached the porch. As soon as he reached the 
+            porch, a bolt of lightning crashed down on the spot his horse was standing and 
+            killed it instantly. From that point on, cats were, in Shinto, worshipped as 
+            beneficent and protective kami; if you walk into a Dal-Kon restaurant, you are 
+            sure to find a porcelain statue of the waving cat which protects the 
+            establishment from harm. 			
+			</para>
+			<para>
+            Shintoists believe that the trees of the forest have souls, known as kodama, and 
+            that the Kodama-Kami protect the more exalted of them.
+			</para>
+			<para>			
+            There are Shinto shrines where huge trees hundreds of years old are encircled 
+            with shimenawa, straw "belts" that designate them as sacred objects. Each tree 
+            represents purity and a divine persona, which explains why its wood is revered 
+            even after the tree has fallen. In this regard, the unadorned trunks of trees, 
+            which have had little more than the bark removed, may be used in shrine 
+            architecture and festivals.
+			</para>
+			<para>			
+			Carrying a handful of soil from one part of the island to the tree is an established custom 
+            among worshippers.
+			</para>			
+			<para>			
+            All Shinto involves some sort of shrine worship, the most important is the 
+            Izumo Shrine on the coast of the Dal-Kon Sea. These shrines are often 
+            a piece of unpolluted land surrounded by trees (himorogi ) or a piece 
+            of unpolluted ground surrounded by stones (iwasaka ). Shinto shrines are 
+            usually a single room (or miniature room), raised from the 
+            ground, with objects placed inside. One worships the kami inside the shrine. 
+            Outside the shrine is placed a wash-basin, called a torii , where one cleans 
+            one's hands and sometimes one's face before entering the shrine. This procedure 
+            of washing, called the misogi , is one of the principal rituals of Shinto, which 
+            also included prayer and spells. One worships a Shinto shrine by "attending" it, 
+            that is, devoting oneself to the object worshipped, and by giving offerings to 
+            it: anything from vegetables to great riches. Shinto prayer (Norito ) is based 
+            on koto-dama , the belief that spoken words have a spiritual power; if spoken 
+            correctly, the Norito would bring about favorable results. 
+			</para>		
+
+		</sect1>
+		
+		<sect1>
+			<title>Practices</title>
+			<para>
+			The practices of Shinto are normally performed by the worshippers themselves or
+			by Gakusho (spirit priests) in someones name. Thus there is a large body 
+			of common practices that a farmer would in a year without any intervention on the 
+			part of an intermediary.
+			</para>
+            <sect2>
+                <title>Sangaku or Offering Tablets</title>
+                <para> 
+                The custom of hanging tablets at shrines was established in Dal-Kon 
+                centuries before sangaku came into existence. Shintoism
+                is populated by "eight hundred myriads of 
+                spirits," the kami. Because the kami, it was said, love horses, 
+                those worshipers who could not present a living horse as an 
+                offering to the shrine might instead give a likeness drawn on 
+                wood. As a result, many tablets dating from the founding of Dal-Kon 
+                depict horses. 
+                </para> 
+                <para> 
+                The tablets seem to be distributed fairly uniformly 
+                throughout Dal-Kon, in both rural and urban districts, with about 
+                twice as many found in Shinto shrines as in Sohei or Deitic temples. 
+                </para> 
+    			<para>
+    			Recently, devotees of math, evidently samurai, merchants and some farmers
+    			, would solve a wide variety of geometry problems, inscribe their efforts in 
+    			delicately colored wooden tablets and hang the works under the roofs 
+    			of religious buildings. These sangaku are often acts of homage--a thanks to a 
+    			guiding spirit--or in some communitities they have been brazen 
+    			challenges to other worshipers: Solve this one if you can! For the most part, sangaku 
+    			deal with ordinary Euclidean geometry. Circles and ellipses play 
+    			a prominent role: circles within ellipses, ellipses within 
+    			circles. Some of the exercises are quite simple and others are 
+    			nearly impossible. 
+    			</para>
+                <para> 
+                Most of the sangaku contain more than one theorem and 
+                are frequently brightly colored. The proof of the theorem is 
+                usually not given, only the result. Other information typically 
+                includes the name of the presenter and the date. Not all the 
+                problems deal solely with geometry. 
+                </para>
+			</sect2>
+		</sect1>
+
+	</chapter>
+	
+	<chapter>
+		<title>Class Structure</title>
+		<para>
+		From the outside it would appear that Dal-Kon's society is compartmentalised into four distinct classes by birth: the Samurai (shi),
+		farmers (no), artisans (ko), and merchants (sho). The reality is far more complex. It is true that 
+		that is indeed the general ordering of status among the people engaged in those tasks. 
+		Careers are hereditary though there is some natural mobility up and down groupings of careers.
+		Acclaim can raise the status of someone (especially in a martial class) up to that of Samurai.
+		A child's life choice may be changed by a marriage contract that gives over the daughter or 
+		, more rarely, the son to the new family. 
+		</para>
+		<para>
+        There are those that gain mobility by being spirit called to a craft or class other than they were born to. 
+        It is rare but it does happen (usually several times in a generation per village).
+		Thus a son born to an Ashigaru father may become a Samurai by acclaim, or by Kami-kan. A son born to 
+		a dyer may be able to become a potter with Kami-kan or contract among the families involved.
+		</para>
+		<para>
+		There are some life choices that wash away most issues of birth class. The Judges pick and choose those that become 
+		Judges, Gakusho, and Shukenja without regard to class, only ability. Only the Judges evaluate those that
+		believe they are Kami-Kan.
+		</para>
+	</chapter>
+	
+	<chapter>
+		<title>Tradition</title>
+		<para>Text</para>
+		<sect1>
+			<title>Womens Roles</title>
+			<para>
+            Samurai women are expected to exhibit loyalty, bravery, and take on the 
+    		duty of revenge. As her warrior husband is often absent, the samurai 
+    		wife also has important duties at home. Her responsibility is the food 
+    		and all the household supplies. She oversaw the harvesting of crops, 
+    		managed all the servants, and takes over all financial business. 
+    		In matters which concerned the well-being of the family, 
+    		her advice is sought and her opinions respected. On her, too, fell the 
+    		burden of providing the proper education of her children. She is  to 
+    		instill in them a strong sense of loyalty to the samurai ideals of 
+    		courage and physical strength.			
+			</para>
+			<para>
+			All brokered marriages are done through the Samurai women with the exact roles 
+			taken in the negotiation dependent on the status of the nearest living female 
+			relative.
+			</para>	
+            <para>
+            In wartime Samurai women have to defend their homes. Trained in 
+            weaponry, women carry a dagger in their sleeves or sashes and can throw 
+            with deadly aim. The naginata, a long, curved polearm, is  considered 
+            the weapon most suitable for women. All Samurai girls learn the art of 
+            naginatajutsu 
+			</para>								
+			<para>
+            Sometimes Saumrai women have joined their men in battle, fighting alongside them 
+            or directing the troops. Like their husbands, women are expected 
+            to commit suicide if the family is dishonored in any way. Some Samurai women 
+            use suicide as a form of protest against injustice, as in the case of 
+            one woman who killed herself when her husband mistreated her.
+			</para>	
+            <para>
+            Most Dal-Kon traditions and styles of family life have women in a much more subservient role. 
+            Unlike the male children have a household, the female rarely has any say about who or 
+            when she marries. 
+            </para>
+            <para>
+            There are a few traditions that give women some openings for self destinatiuon. Some
+            Tomo are mother/daughter concerns only and have some protection for the choices they 
+            make from within their craft. Geisha, Ama, and Weavers are a few exmples.
+            </para>                        
+		</sect1>		
+
+		<sect1>
+			<title>Wedding</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Bedding</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Birthing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Battle</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Diaspora</title>
+			<para>
+			Dal-Kon Commons and Nobles have a special celebration for the successful landing and settlement immediately
+			following the collapse of the Golden Empire.
+			The Imperial family has its own celebration on the same day that represences the compact to 
+			the imperial family.
+			</para>			
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Institutions</title>
+		<para/>
+		<sect1>
+			<title>The Emperor</title>
+			<para>
+			His word is law.His speaking is distributed in several ways.
+			</para>		
+			<para>
+			Mi-Kyo-Sho or letters of Advice about policies. These are general statements 
+			of goals that ministers and agents use as guidelines for resolving disputes about 
+			turf and tactics. Typically conceived by the Emperor, crafted by the Emperor's Judges,
+			and Sealed by the Emperor. 
+			</para>					
+			<para>
+			Kudashi-Bumi or letters of instruction. These are the explicit commands that ministers 
+			issue to their agents descrivbing what should be done.
+			</para>
+			<para>
+			Miyo- or Letters In His Voice. These are letters that the Emperor signs for his agents giving them 
+			power to resolve or investigate an issue. A similar concept is the "Power of His Hand" carried by 
+			the Kaishakunin
+			</para>
+		</sect1>
+		
+		<sect1>
+			<title>Land Grants: Han, Shoen and Shiki</title>
+			<para>
+			More or less autonomous, the shoen is under the 
+			rule of person (kon-ke) or organiztion (ryo-ke). A Kon-ke may be a 
+			Daimyo in whose land the Sho resides or another noble born.
+			A ryo-ke is often a great temple. Their interest is in 
+			the keeping of their agent residing in the sho. Under 
+			these agents are arranged the various tenures of land 
+			and the classes of people who hold them.
+			</para>
+			<para>
+			Associated with each sho is a series of "profit rights" or shares 
+			called shiki. A shiki of land is a
+			separate right or profit derivable from it that is vested in a person --- after
+			whom it is named; as, for instance: the Kon-ke-shiki, 
+			tenant-shiki, or the like.
+			</para>
+			<para>
+			Sho-tenures. There are three tenures that are recognized in Dal-Kon for 
+			land. There are free tenures of possession which have been derived from the first
+			cultivation of the soil, or from purchase or other modes of out-right
+			acquisition, and which can therefore be bequeathed or disposed of at will, the
+			Kon-ke or Ryo-ke exercising little interference with them. These 
+			include outright sale to other Kon-ke or Ryo-ke. 
+			</para>
+			<para>
+			When, however, the holder of a free land gives up the 
+			title over it to the Kon-ke or Ryo-ke for the purpose of 
+			protection or immunity, a second class of tenure 
+			results - that of the commended land. Here the Kon-ke
+			becomes the titular owner, but is in fact normally merely 
+			entitled to certain dues from the land, for the commendor 
+			usually remains as its possessor and user, and continues 
+			to dispose of it as he pleases. Though of course, in general the shoen
+			is typically commended to the Han's Daimyo.
+			</para>
+			<para>
+			The third class of tenure comprises shiki that have been granted 
+			either by the seignior or by the proprietor
+			and are usually hereditary but presumably at least at the 
+			beginning inalienable without permission
+			</para>
+			<para>			
+            A rice tax is levied on the produce of the paddies, and a head tax 
+            is levied on adult males or adult females of all female Tomo. The 
+            rice tax is low (about 3 percent of the crop), but the head tax, 
+            payable in handicrafts such as silk and hemp can impose a 
+            significant burden. Moreover, the transport of the goods from the 
+            provinces to the capital is the responsibility of the taxed, which 
+            involves an enormous labour for those living in distant parts. 
+			</para>
+			<para>
+            Adult males are also obliged to give military service and to provide labour for public works 
+            at the command of the local Daimyo or Imperial Agent, amounting to not more than 60 days 
+            per year.
+            </para>
+		</sect1>
+		
+		<sect1>
+			<title>Guilds (Tomos)</title>
+			<para>
+			The Dal-Kon maintain a complicated set of craft and other guilds called Tomo.
+			The Tomo exist at Imperial grant and cover all the crafts of Dal-Kon. Membership in Tomo
+			are father/son or Mother/Daughter relations.
+			</para>
+			<para>
+            Ritualists, Armorers, Ricefield Workers, Weavers, Potters, Scribes, Interpreters, Reciters,
+            Grooms, Husbanders, Ironworkers, Smiths, Bowyers, Fletchers, Brewers, Acrobats, Fishers, Amas,
+            Geisha, etc..
+            And in some cases the tomo may be more general such as "Quiver Bearers" or military support groups 
+            for a specific clan.
+			</para>
+			<para>Most are born into a tomo, some are contracted into a tomo, and a few are Kami-Kan (spirit called). 
+			Typically a ritualist will handle the once a year ritual for each Tomo that inducts 
+			a son/daughter into the Tomo. A Judge will be preent if there is a question of Kami-Kan.
+			</para>
+			<para>
+			Geisha are one of the few Tomo that habitually learn the skills and crafts of other tomos
+			with contracts being negotiated often. Geisha especially have close ties with the ritualists and 
+			musical instrument tomos.
+			</para>			
+		</sect1>
+		<sect1>
+			<title>Sohei</title>
+			<para>
+			The Sohei are warrior monks. Monastic orders of martial practitioners
+			who at one time rivaled the Judges and Inner Clans for power.
+			Many Sohei form the basis of a martial tradition and may act as the trainers for 
+			a specific clan. Some Sohei owe alleigience to a clan.
+			</para>
+			<para>
+            Some few Sohei live in more isolated locales for the pursuit of mental disciplines and
+            mystical powers. Such Sohei are know as Yamabushi or Hijiri. Literally a "Mountain Monk". 
+            Said to posses a great deal of mystical powers against the supernatural due to they're 
+            extreme ascetic lifestyle. They practiced the art of SHUGENDO to attain supernatural powers.
+			</para>
+			<para>
+			It is said that the Judges maintain a Sohei monastary in the Imperial Island
+			</para>
+		</sect1>				
+		<sect1>
+			<title>Gakusho</title>
+			<para>
+            By nature, Shinto is focused on purification and the living, but Shinto Priests 
+            must also act as a buffer between the living and the Kami or deities that 
+            protect mankind and also demand tribute or become angered. Also, not all Kami 
+            are helpful to man and must mere be placated into not showing anger.
+			</para>
+			<para>
+            Most Gakusho are male but a few (about 10%) are female.
+			</para>
+			<para>
+			The Gakusho wield a varied set of powers and abilities. Some of 
+			the Gakusho become masters of Tantric or Mantric magic. 
+			Based on Shingon or "True Word" it acts most often as a soul 
+			shaping craft magic. It is typically constrained to being used 
+			on the gakusho themself except when healing is required. 
+			These are simply called the Shingon.
+			</para>
+			<para>
+			In addition the Gakusho act as assesors of the Karmic debt that 
+			one has accumulated, able to see the threads of the past life as they 
+			affect the present and future. In some circumstances they can intervene 
+			to alter or lessen the debt. Those who are skilled in this are called Karmic Masters.
+			</para>
+			<para>
+			The Dal-Kon language is said to hold power in it's very structure. Some Gakusho 
+			have becoime Masters of the Power of Words, or the craft of Kotodama. Not
+            quite true magic in that he must say verses or write down the words of power.
+            nonetheless, he or she has the ability to bend the very fabric or reality. This
+            works on all creation - not just supernaturals but humans as well. These are called 
+            the Kotodama Masters.
+			</para>
+            <para>
+            Some temples shelter blind wise women known as Miko. Miko hold the ability of 
+            Powerful Prognostication. They can tell a client the day they will die and 
+            why if the client is brave enough. They often 
+            come into they're power at puberty but must remain 'pure' to be at they're most 
+            powerful. In they're youth they channel Spirits of the Dead and Kami and wield a 
+            great deal of power. They go blind in they're 40's as a result but live to be 
+            very old. Some say because they see things no mortal is meant to see.            
+            </para>			
+			
+		</sect1>
+		<sect1>
+			<title>Judges</title>
+			<para>Seven great monastaries</para>
+			<para>The Judges have a labour levee that replaces all land taxes and rice levees
+			but is porportional to the number of judges available.
+			</para>
+			<para>The Judges actually sponsor one small specialised Sohei</para>
+			<para>The Judges oversee and work with the Gakusho</para>
+		</sect1>		
+		<sect1>
+			<title>Rites and Rituals</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Religious Norms</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Crafts and Arts, Architecture, and Symbolism</title>
+		<para>
+		There is no culture more oriented toward fine craft work than the Dal-Kon
+		</para>
+		<sect1>
+			<title>Utilitarian Hand Crafts</title>
+			<para>
+			Pottery
+			</para>
+			<para>
+			Papermaking
+			</para>
+			<para>
+			Swordsmithing
+			</para>			
+			<para>
+			Fletcher
+			</para>			
+			<para>
+			Armourer
+			</para>			
+			<para>
+			Lacquer
+			</para>			
+		</sect1>
+
+
+		<sect1>
+			<title>Arts</title>
+			<para>
+			Ikebana or Flower Arranging. Kika Shibata is the Patron Kami of the Ikebana Tomo.
+			</para>
+			<para>
+            Suminagashi-literally, 
+            "spilled ink" or "ink-floating"-is a Dal-Kon technique for creating 
+            free-form marbled patterns on paper or similar surfaces. The design 
+            is formed by floating pigments--ink or paint--on the surface of 
+            water and then carefully laying a sheet of paper onto the colors, 
+            which adhere to the paper and transfer the design to its surface. 
+			</para>
+			<para>
+            kumihimo is the process of creating silk or hemp belts through 
+            different methods of braiding, typically done on a takadai loom
+			</para>			
+			<para>
+			Ategami is the art of woodblock printing.
+			</para>			
+		</sect1>
+
+
+        <sect1>
+            <title>Music</title>
+			<para>
+            Dal-Kon has a rich musical tradition. This tradition is displayed in 
+            part in popular songs and in Shinto ritual and chant as well as the 
+            court music and dances 
+			</para>			
+			<para>
+            Music is not a separable element from any other components of a 
+            performance. Music is almost always accompanied by some work, story, 
+            pantomime, dance, and/or acrobatics and all the musical styles are 
+            understood as music and some other component. 
+			</para>			
+			<para>
+            The dominant secular musical style of Dal-Kon is gigaku or Kure-gaku 
+            . This is the style of music for the popular dances and pantomimes 
+            of Ricefield workers and other manual workers. Later, however, it 
+            has risen to become the lowest form of official music 
+			</para>			
+			<para>
+            Sangaku is the most active and exciting of the musics-interspersed 
+            between songs were acrobatics and energetic pantomimes. It arose 
+            from the original Sohei traditions of battle theater and song.
+			</para>			
+			<para>
+            Shinto chant is chanting performed largely in prayers, the norito , 
+            or "divine words." Shinto musical performance is exoteric, designed 
+            to be performed and comprehended by anyone with little musical 
+            training.
+			</para>			
+			<para>
+            Perhaps the most permanent and complex musical culture developed in 
+            Dal-Kon is the gagaku, or court instrumental music. 
+			</para>			
+			<para>
+            In Dal-Kon, gagaku means "refined" (ga ) "music" (gaku ) and so is 
+            perfectly in line with the Dal-Kon Courts cultural value of miyabi , 
+            or "courtly refinement." Since the emphasis is on refinement or 
+            taste, gagaku is largely experienced as an elite or esoteric music, 
+            a "high culture" music in contrast to other Dal-Kon musical 
+            traditions. Like other Dal-Kon musical traditions, gagaku is not 
+            "music alone" but rather music and dance or pantomime. The entire 
+            gagaku experience, from the music to the singing to the story to the 
+            dance is regarded as refined and elegant. It's important to 
+            understand that gagaku is not a distinct musical classification but 
+            is a category that subsumes several musical and performance genres. 
+            It is largely a distinction between music for refined, courtly 
+            tastes, and all other types of music. 			
+			</para>			
+			<para>
+            The daily life of the Dal-Kon imperial court is filled with gagaku. 
+            All ceremonies, weddings, funerals, affairs of state, all are 
+            accompanied by the musical style most appropriate to the occasion. 
+			</para>			
+			<para>
+            Dal-Kon musical theory is based on the eight categories of sound : 
+            metal (bells), stone (stone chimes), earth (ocarina), leather 
+            (drums), silk (stringed instruments), wood (double reed wind 
+            instruments), gourd (sho, or mouth organ), and bamboo (flute). 
+			</para>			
+			<para>
+            Dal-Kon think of musical instruments as two distinct categories: 
+            percussion and all others. The instruments associated with gagaku 
+            are stringed instruments and wind instruments similar to the flute; 
+            the percussion instruments, however, are seen as lesser instruments.
+			</para>			
+			<para>
+            Principle among the stringed instruments is the biwa, which, like so 
+            much else in Dal-Kon music culture, is imported from Rhelania. It is 
+            not only the most important instrument in court orchestras, the biwa 
+            is also a work of fine art as the biis that are used are among the 
+            finest crafted works of the Dal-Kon instruments. 
+			</para>			
+			<para>
+            The biwa is a four-stringed instrument. In gagaku orchestras it is 
+            common but tends to be used for the grunt work-the bulk of the 
+            musical work is done by the six- stringed wagon and the thirteen-
+            stringed koto with their more complex and rich modes. 			
+			</para>			
+			<para>
+            Among the wind instruments, the principle instruments are the 
+            shakuhachi, a bamboo flute, and the sho , a mouth organ built of 
+            seventeen bamboo pipes arranged in a circle. The shakuhachi flute is 
+            played with the flute dangling down in front of the performer; 
+			</para>			
+			<para>
+            Percussion is a standard part of Dal-Kon ensemble music. Three of 
+            the tonal categories in Dal-Kon musical theory are taken up by 
+            percussion: metal, stone, and leather. The Dal-Kon employed three 
+            percussion instruments: a side drum (kakko ), a bronze gong (shoko 
+            ), and a large, hanging drum struck by two large, heavy drumsticks 
+            (taiko ). As with most percussion, taiko music is very close to the 
+            origins of music in the movement of the body and a real experience 
+            requires seeing as well as hearing the performance. Taiko 
+            performance is based on the modulation between the "female" (left 
+            hand) and "male" (right hand) strokes of the drumsticks-the female 
+            stroke is always soft and the male is always a strong stroke. The 
+            modulation between soft and strong is the primary component of taiko 
+            performance. In addition to court music, percussion is a vital part 
+            of Shinto ceremonies and processions. The instruments and rhythms 
+            are different than court music, but Shinto life and ceremony is 
+            filled with percussive richness.    
+			</para>			
+        </sect1>
+                    
+		<sect1>
+			<title>Symbolism</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Common Motifs</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Significant Numbers</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Art</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Architecture</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	
+	<chapter>
+		<title>Clothing and Color</title>
+        <para>
+        Love of colour resurfaces again and again throughout Dal-Konese costume history.
+        The colours have relationships with Dal-Kon philosophy and superstition.	
+        Blue-green represents wood, Spring, and the East.	 Red stands for 
+        fire, Summer, and the South.	 White is for Autumn, Metal, and the
+        West. The North aligns with Winter, Water, and Black.	 And Yellow
+        is the Center and Earth.	 
+        </para>
+        <para>
+        The Dal-Kon practice the use of distinction by colour.	Luckily for most 
+        the distinctions are combinations of clothing type and color rather than color alone.
+        </para>
+        <para>
+        Clothing and color among the court and the Inner Clans are more ornate 
+        than among the Outer Clans. In fact it can be said that there are two 
+        distinct clothing cultures among the Dal-Kon. The Court or Inner Clan 
+        Culture and the Outer Clan culture. 
+        </para>
+        <para>
+        In the Dal-Kon Court colours are strict indicators of rank.	 In Dal-Kon, courtiers take the 
+        native appreciation of colour and its subtlety to a higher level.	 Although men's court clothing 
+        is regulated by rank, a man in casual dress showed his refinement and sensitivity by pairing 
+        colours according to the season, the occasion, or his mood.	 And if Dal-Kon men excel at this 
+        practice, Dal-Kon women are masters.	 Less restricted by rank colours than men, a Dal-Kon lady can 
+        make or break her reputation with her choice of colours to wear in combination. Indeed, the mistress 
+        of the household (that is, the principle wife) is responsible for all the dyeing that goes on.
+        The Dyers Tomo associated with a Han is beholden and reports to the ranking woman of the Han.
+        It is no surprize that the Imperial post of Mikushige-dono, Mistress of the Wardrobe, is often 
+        held by the oldest Imperial concubine.
+        </para>
+        <para>
+        The
+        ranking colours had to be produced precisely using the correct materials.	
+        These colours are purple, blue, red, yellow, white and black.
+        </para>
+        <para>
+        In the Dal-Kon court there are several official clothing colours in addition
+        to white. These colors, when combined, with specific types of court costume are 
+        used to denote ranking within the court. Each color is produced with 
+        dyestuffs referenced in the Dal-Kon Classics.	Yellow is made from gardenia hulls and bark
+        of the Amur cork tree.	Purple is from Murasaki roots. Red
+        is from madder root. Blue-green is from indigo overdyed with yellow
+        for green. Black is produced from the shell of the Abalone.
+        </para>
+        <para>
+        The Imperial Household has authorized an official Dyers Tomo or Naisenshi for the official colors.	 
+        </para>
+        <para>
+        Murasaki is native to Dal-Kon. In some periods this beautiful but 
+        non-lightfast purple was restricted to Imperial ladies only.	 In 
+        addition to its ephemerality, a careful process of premordanting 
+        had to be followed in order to produce the correct shade.
+        Often called simply iro ("colour" in Dal-Kon), there is no doubt that it is 
+        THE colour of the Court.
+        </para>
+        <para>
+        Suo is imported from Rhelania as dried wood chips 
+        from the Suo or Sappanwood tree.	 This redwood is of the same species as the 
+        basilwood and produces the same dyestuff.	 Again, its lack of lightfastness makes this 
+        colour desirable.	 By manipulating the dyebath by the addition of wood ash water 
+        of vinegar, the imperial dyers can produce everything from deep eggplant to 
+        lavender and maroon to ox-blood red.
+        </para>
+        <para>
+        Benibana or safflower is probably the most fleeting of all the dyes.
+        Like murasaki, benibana is also a restricted dye, though courtiers favoured by 
+        the Emperor were often given special permission to wear it.	 Dyeing with 
+        safflower requires careful manipulation of the acid dyebath.	 Anyone can produce 
+        yellow from the petals.	 Orange requires more skill.	 But pink ( kurenai) 
+        is the restricted colour.	 
+        </para>
+        <para>
+        The colour combinations (called kasane no irome in Dal-Kon) are stylised 
+        and many combinations have a name.	 Late Dal-Kon period texts such as Masasuke's 
+        "Notes on Costume" catalog these outfits.	 
+        </para>
+        <para>
+        Austerity is the hallmark of the Outer Clans.	 Fashion reflects this rebellion against the 
+        perceived decadence of the Dal-Kon court. Instead of many layered silk garments, Outer Clan 
+        ladies wear "underwear." White kosode and red hakama, which on the Dal-Kon Inner Clan noblewoman is rarely seen, 
+        became the utilitarian garb of the Outer Clan.	 There is strong significance in the names of the main 
+        garment - ko-sode (small sleeve) as opposed to hiro-sode (wide sleeve) or o-sode (big sleeve) 
+        as the Dal-Kon Inner Clan layers are sometimes called.	There is even an anecdote that relates how an
+        Outer Clan Daimyo chopped off his own brother's big sleeves with a sword because he believed him to 
+        be reverting to courtly decadence.	 
+        </para>
+    </chapter>	
+	
+	<chapter>
+		<title>Politics</title>
+		<para>Text</para>
+		<sect1>
+			<title>Leadership</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Fellowship?</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+
+	<chapter>
+		<title>Judicial Structure</title>
+		<para>Text</para>
+		<sect1>
+			<title>Making the Laws</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Enforcing the Laws</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+
+	<chapter>
+		<title>Legal Code</title>
+		<para>Text</para>
+		<sect1>
+			<title>Ownership of Goods</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Land</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Male and Female Roles</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Church and State</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death by Suicide</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death by Anothers Hand</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Death in Self Defense</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Military</title>
+		<para>Text</para>
+		<sect1>
+			<title>Standing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Command</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Routine</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Arms</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Outfitting</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Theory</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+
+	<chapter>
+		<title>Military</title>
+		<epigraph>
+			<attribution>Takeda Toshiro, founder of Clan Takeda, in his clan </attribution>
+			<para>
+			I was flinging drops of sweat when I completed the dance. I felt full of power;
+			like a glowing lump of iron fresh from the forge. All the rage had accumulated in 
+			the middle. This was a imperial rage, a righteous wrath. At the center of my mind 
+			, wreathed in fire, was the image of the Emishi general. There lay the deepest inner 
+			rage, radiating fury: Emishi, through all these years, true source of these atrocities.
+			</para>
+			<para>
+			I stripped off my inner robe. I was vageuly aware of soldiers that had gathered to 
+			sit on hay bales and watch. I drew my Swords with a hard strike-draw combination and
+			saluted the air with a flourish of edges. In that air hung the face of an Emishi. An
+			Emishi general of great skill. Yes, clever man, with his priests behind him.
+			</para>
+			<para>
+			I began the Bladestorm. I was tired and that drove me at an even greater pace than my 
+			teacher ever used - which was foolish. The swords whined in the air with a sound I 
+			had never heard from them before, the droning whine of the legendary Bladestorm of 
+			my teacher's own teachers. Bladestorm was for the suicidal idiot whirling in a 
+			light footed fight across the unstable scree of a cliff, over loose rocks, 
+			among multiple enemies. An error in timing or breath control with the whirling blades
+			caused the dancer to slash himself. Such was the concentration required that a dancer did not 
+			bleed from cuts. There stories of dancers bowshot, gutted and gashed and never noticing it, 
+			never stopping, until the end of the dance - when they dropped dead over their 
+			shredded victims.
+			</para>
+			<para>
+			The hilts of the swords slapped my hands lightly, spun and reversed hands, and 
+			rose to salute the air, and I was done. I stood there blinking a moment before 
+			I could break myself from the rhythm. My breath came in great regular heaves. 
+			The air felt to thick for breathing. Somehow my body, arrogant in the sight of so
+			many eyes, pulled itself upright. I sheathed my blades and reached for a rag to 
+			wipe the sweat from my shoulders. To me, the sound of my breathing was deafening. 
+			My nephew Higaru reached forth a hand with a flask of sake spiked water. I had 
+			just touched it to my lips when stirrings at the edge of the camp announced 
+			what we had waited for. The Emishi marched to meet us. 
+			</para>
+			<para>
+			As I prepared my armor and immersed myself in the chatter of a camp preparing to 
+			march, I wondered whether I had become a great master or an even greater fool. 
+			The only answer to come to hand was that I didn't know. It was the barest beginnings
+			of wisdom.
+			</para>
+		</epigraph>		
+		<para>Text</para>
+		<sect1>
+			<title>Standing</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Command</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Routine</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Arms</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Outfitting</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Theory</title>
+			<para>Text</para>
+		</sect1>
+	</chapter>
+	<glossary>
+		<glossdiv>
+			<title>Institutions</title>
+			<glossentry id="shoen">
+				<glossterm>shoen</glossterm>
+				<glossdef>
+					<para>The generic name applied to several species of private domains</para>
+					<para>
+    			    Each shoen is a corporation of villa (sho), land (en) and 
+    			    people (semmin) managed under the patronage of some person 
+    			    of influence or of an institution, known as the hon-ke and 
+    			    ryo-ke. 
+    			    </para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="en">
+				<glossterm>en</glossterm>
+				<glossdef>
+    				<para>
+        			Each en is a tract of land associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>			
+			<glossentry id="semmin">
+				<glossterm>semmin</glossterm>
+				<glossdef>
+    				<para>
+        			A semmin is the body of people bound or associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>									
+			<glossentry id="sho">
+				<glossterm>sho</glossterm>
+				<glossdef>
+    				<para>
+        			Each shoÂ	is a villa associated with a shoen.
+        			</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="honke">
+				<glossterm>hon-ke</glossterm>
+				<glossdef>
+					<para/>
+				</glossdef>
+			</glossentry>
+			<glossentry id="jizo">
+				<glossterm>jizo</glossterm>
+				<glossdef>
+					<para>Handhewn roadside guardian deities representing the attainment of enlightenment for the sake of others</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="sohei">
+				<glossterm>Sohei</glossterm>
+				<glossdef>
+					<para>Warrior Monks</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="han">
+				<glossterm>Han</glossterm>
+				<glossdef>
+					<para>A feudal province considered the dwelling place or property of a clan</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="jito">
+				<glossterm>jito</glossterm>
+				<glossdef>
+					<para>Stewards of a Sho</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="compact">
+				<glossterm>The Compact</glossterm>
+				<glossdef>
+					<para>
+					The Dal-Kon imperial family is said to maintain a compact or contract with the Dragons 
+					of Dal-Kon that allows the imperial family to preserve and maintain the country. What the 
+					Dragons would get out of this compact is unknown.
+					</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="ujikami">
+				<glossterm>Ujikami</glossterm>
+				<glossdef>
+					<para>
+					The object of clan veneration is the Ujikami, or clan god. They may be a forefsather,
+					departed leader, local god or Kami, OR in one case a greater deity.
+					</para>
+				</glossdef>
+			</glossentry>			
+		</glossdiv>
+		
+		<glossdiv>
+			<title>Ranks</title>
+			<glossentry id="daimyo">
+				<glossterm>Daimyo</glossterm>
+				<glossdef>
+					<para>A feudal overlord of a clan's Han</para>
+					<para>A Daim-yo can have as few as three Cho-hans and as many as twenty if he is insanely powerful</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="samurai">
+				<glossterm>Samurai</glossterm>
+				<glossdef>
+					<para>Samurai (that can control 20 - 200 Bushi)</para>
+				</glossdef>
+			</glossentry>			
+			<glossentry id="kaishakunin">
+				<glossterm>kaishakunin</glossterm>
+				<glossdef>
+					<para>A emperor's officer charged with acting as a executioner at a Daimyo's act of seppuku</para>
+					<para>Only a kaishakunin may so act for a Daimyo.</para>
+				</glossdef>
+			</glossentry>			
+			<glossentry id="chohan">
+				<glossterm>Cho-Han</glossterm>
+				<glossdef>
+					<para>A Military rank. A commander of Samurai. Cho-han can command up to 50 Samurai and up to 1000 Bushi</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		
+		<glossdiv>
+			<title>Concepts</title>
+			<glossentry id="kanjo">
+				<glossterm>Kanjo</glossterm>
+				<glossdef>
+					<para>Concept of warfare defining the soldiers of a lord as the shield of the castle</para>
+					<para>Kan, The Shield. The Shield, the Soldier. The Soldier, the Castle.</para>
+				</glossdef>
+			</glossentry>
+
+    		<glossentry id="kamikan">
+				<glossterm>Kami-Kan</glossterm>
+				<glossdef>
+					<para>
+					Spirit called. (literally Spirit House) 
+					When a young man or woman believes they have been called to 
+					another Tomo than the one they have been born into.
+					</para>
+				</glossdef>
+			</glossentry>	
+		</glossdiv>
+		
+		<glossdiv>
+			<title>Objects</title>
+			<glossentry id="mon">
+				<glossterm>mon</glossterm>
+				<glossdef>
+					<para>A Small copper coin</para>
+				</glossdef>
+			</glossentry>
+			<glossentry id="ryo">
+				<glossterm>Ryo</glossterm>
+				<glossdef>
+					<para>A Small gold coin</para>
+				</glossdef>
+			</glossentry>
+
+		</glossdiv>
+		
+
+		<glossdiv>
+			<title>Places</title>
+			<glossentry id="koyasan">
+				<glossterm>Koyasan</glossterm>
+				<glossdef>
+					<para>
+                    Koyasan is a mountaintop basin resting over 2400 feet above sea level and 
+                    measuring 2 miles  east to west, 1.5 miles north to south. The basin is surrounded by two 
+                    concentric rims of hills, each of which is comprised of eight peaks. The basin 
+                    thus resembles the shape of an unfolding lotus flower. The marvellously purplish 
+                    mists that drape the sacred peaks at dawn and dusk present a suitably sublime 
+                    figure
+					</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>
+		
+		<glossdiv>
+			<title>People</title>
+			<glossentry id="saicho">
+				<glossterm>Saicho</glossterm>
+				<glossdef>
+					<para>Founder of the Tendai Lotus Sect of the Sohei (became the judges)</para>
+				</glossdef>
+			</glossentry>
+		</glossdiv>		
+	</glossary>
+</book>
+E 2
+I 1
+E 1

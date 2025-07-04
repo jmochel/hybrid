@@ -1,0 +1,80 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210111558.359;
+          10 Dec 91 11:16:17 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210111558.359;
+          10 Dec 91 11:16:09 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04481; Tue, 10 Dec 91 11:17:49 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11465; Tue, 10 Dec 91 11:00:40 -0500
+Message-Id: <9112101600.AA11465@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0182; Tue, 10 Dec 91 11:00:46 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 1630;
+ Tue, 10 Dec 91 11:00:45 EST
+Date:         Mon, 9 Dec 1991 17:35:00 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: JW9131A%DRAKE.BITNET@uga.cc.uga.edu
+Subject:      RPG: Attributes
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+        The following is my contribution to what stats could be used
+in the RPG.  My feeling is why use some neat mystical name for a
+stat? Just call it what it is.
+
+
+Attribute descriptions:
+Physical Strength (PS) is a measure of a character's muscle co-
+ordination and strength.
+
+Manual Dexterity (MD) is a measure of a character's digital
+control.  This represents the characters hand-to-eye
+coordination, the speed at which he may perform a complex task
+with his hands.
+
+Agility (AG) is a measure of a character's ability to maneuver
+his body and the speed at which he moves.
+
+Endurance (EN) is a measure of the punishment a character's body
+can absorb before he becomes unconscious, sustains mortal wounds,
+or dies.  It is also used to determine if a person will be able
+to be Raised after being killed.
+
+Magic Aptitude (MA) is a measure of a character's ability to
+harness and direct magical energies.  A character must have an MA
+of at least 5 to perform magic and if MA is 0 can never learn it.
+MA is also used to determine if a character may use items that
+have charges and items that must become attuned to a person (i.e.
+a person with an MA of 5 will probably only be able to use items
+that have continuous functions, i.e. a +5 sword).
+
+Willpower (WP) is a measure of a character's control of his mind
+and body, especially in stressful situations.
+
+Intelligence (IN) is a measure of a character's reasoning
+ability.  Also how well a person is able to learn things.  I.e. a
+new skill or even increasing proficiency with an old one.
+
+Fatigue (FT) is a measure of the length of time that a character
+can sustain activities requiring a great deal of physical or
+mental exertion.
+
+Knowledge (KN) is a measure of a person's worldly knowledge and
+his chance to know something he may have heard previously.
+
+Manipulation (MN) is a measure of a character's ability to
+convince other people to do something that they want them to do.
+
+Perception (PC) is a measure of a character's intuition developed
+as a result of his experience.
+
+Physical Beauty (PB) is a measure of a character's exterior
+attractiveness (or repulsiveness), as perceived by a member of a
+humanoid race.
+
+                                                Jason Winter
+
+        Any questions, Comments, etc Mail to
+                                                Bitnet: JW9131A@DRAKE
+                                                INTERNET: JW9131A@ACAD.DRAKE.EDU

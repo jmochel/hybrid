@@ -1,0 +1,266 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911211111254.429;
+          11 Dec 91 11:13:32 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911211111254.429;
+          11 Dec 91 11:13:19 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA05113; Wed, 11 Dec 91 11:14:42 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA29562; Wed, 11 Dec 91 09:43:19 -0500
+Message-Id: <9112111443.AA29562@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 7056; Wed, 11 Dec 91 09:43:27 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9443;
+ Wed, 11 Dec 91 09:43:24 EST
+Date:         Wed, 11 Dec 1991 09:41:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Revisions (Guide, Order, Tasks, Attr)
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+===============================================================================
+ GMAST-L Role-Playing Game Designers' Guidelines (Proposed)      Revised 12/11
+===============================================================================
+
+
+These Guidelines are intended to be the model by which we compare and criticize
+others' ideas.  Instead of saying that an idea is stupid or won't work, point
+out that it doesn't account for such-and-such in the Guidelines, and we can
+discuss from there.
+
+
+
+I. Goal
+
+Discuss the problems of creating a role-playing game (RPG) and conceive a
+well-designed RPG.
+
+
+
+II. Subject
+
+We will create a game that can be used as a generic, or universal,
+role-playing system.  However, such a generic RPG is not very playable (and
+not very interesting), so we will simultaneously create a Fantasy module to
+supplement it.
+
+Choosing a single genre allows us to choose some skills and weapons to deal
+with, so that we have concrete examples with which to work.
+
+Fantasy was chosen because most designers are quite familiar with the
+concepts of the Fantasy genre, and the problems inherent in creating such a
+game.  Also, this genre includes a wide range of intriguing problems to
+solve, such as weapon, hand-to-hand, and ranged combat; magic and casting;
+deities and monsters; and so on.
+
+However, every effort should be made to make the RPG as general as possible, so
+that new modules can be added to the RPG for other genres.  The only reason we
+are limiting ourselves to Fantasy is to reduce the amount of work and provide a
+narrower focus.
+
+
+
+III. Aspects
+
+As discussed, we will strive to satisfy many different aspects or mini-goals
+that we find desirable in RPGs in general.  These aspects are detailed below.
+
+
+A. Clarity
+
+The rules -- and proposed rules! -- should be clearly written and easily
+understood.
+
+B. Efficiency
+
+Whenever possible, rules should be in their _simplest form_.  This does not
+imply that the rules cannot be complex, just that we need to strip away extra
+baggage that is not necessary.  Game mechanics should be easy to use.
+Eliminate tables, charts, and formulas whenever possible.  Mark optional rules
+as such.
+
+C. Skill-based
+
+The foundation of the game system will be the attribute and skill systems.
+There will be no _forced_ "classes" or "archetypes."  All other game systems
+will be founded on the concept of skills.
+
+D. Basis
+
+Every term will be reduced, whenever possible and desirable, to its simplest
+forms.  That means Dexterity might be reduced to Agility, Manual Dexterity,
+Grace and Reflex, if this is desirable.
+
+E. Modularity
+
+The game should be composed of separate sections that can be removed and
+replaced easily.  The sections should be independent of each other, but all
+based on the same skill/attribute system.  It should be easy to add-in new
+systems, such as a new type of magic system, and so on.
+
+F. Scalability
+
+As much as possible, the game should allow the players and GM to scale the
+various systems to the levels of detail that they prefer.
+
+G. Unification
+
+The systems created should apply to as many different creatures, beings,
+and items as possible.  Thus characters, monsters, and divine beings should
+all be describable using the same rules.  Animals, characters, and objects
+should all have similar characteristics and attributes, as much as
+possible.
+
+
+
+IV. Copyrights, etc.
+
+All contributions to this project go into the Public Domain.  The final
+project becomes part of the Public Domain.  All contributors should receive
+a mention in the credits.  No one may copyright all or part of the GMAST-L
+RPG design project.
+
+
+
+===============================================================================
+ Order of Business (Proposed)                                    Revised 12/11
+===============================================================================
+
+The following Order of Business should serve as a step-by-step checklist for
+our game designing efforts.  We should attempt to limit our posts to the
+current subject.  If you have an idea for a later topic, write it up and _save
+it_ to send later.  Please stay on-topic, so as to not create chaos, wreak
+havoc, or release Bthulhu (the ancient cow demon lord of entropy).
+
+
+A. Concepts and Guidelines
+B. Foundation systems
+    1. Attribute names & definitions
+    2. Task resolution system
+    3. Temporal concerns (game turns, combat rounds)
+C. Skill lists & definitions
+D. Combat system
+    1. Hand-to-hand (HTH)
+    2. Ranged
+    3. Special cases
+E. Advancement or experience system
+    1. Normal advancement
+    2. Between-session training
+F. Magic system
+    1. Types of magic, magic theory
+    2. Adjudication of casting
+    3. Examples, guidelines, spell lists (if necessary)
+G. Character Generation
+H. Development
+
+
+
+===============================================================================
+ Task Resolution System (Proposed)                               Revised 12/11
+===============================================================================
+
+Credits
+
+This is a look at my proposed difficulty system.  I first saw this system in
+Adventure Quest/Jaern, a fantasy RPG published by Lafayette Simulations, a
+small game company out of Valparaiso, Indiana.  The game was released at GenCon
+'91 this last August by the designers, Daniel Lawrence and Robert Blake.
+
+This is what I'd call an inverse difficulty system.
+
+Character stats are numeric (rated 0 to some number).  Task difficulties are
+rated in terms of DICE -- an easy task might be rated "1d6" and a hard task
+might be rated "5d6".
+
+
+Task Resolution
+
+To resolve tasks, the dice described by the difficulty rating (e.g., 4d6) are
+rolled and compared to the skill or attribute stat.
+
+If the roll is equal to or less than the stat, the roll succeeds.  If the roll
+is more than the stat, the roll fails.
+
+Example:
+
+X has a Strength of 12, and wants to lift a heavy rock.  The GM sets the
+difficulty of this task at 4 (4d6).  X rolls 4d6 and compares it to his
+Strength.
+
+If he rolls between 4 and 12, X succeeds.  If he rolls greater than 12 (13-24),
+X fails.  X rolls a 24 (all sixes!) and the GM rules that X herniates himself
+in the effort.  =)
+
+
+Opposing Rolls
+
+In situations where two characters are doing opposing actions -- e.g., arm
+wrestling, or combat -- they make opposing rolls.
+
+The character with initiative would choose a number of dice and make a task
+roll with those dice.  If he succeeds, his opponent must make a similar task
+roll using the same number of dice, and succeed to avoid losing against the
+character with initiative.
+
+The player's choice of dice can indicate his character's attitude toward the
+task.
+
+Example:
+
+X and Y are arm wrestling.  X has a Strength of 11.  Y has a Strength of 8.
+X has initiative.
+
+X chooses to roll 3 dice, rolls 3d6, and gets a 10 (success).  Y rolls 3d6 and
+manages to get a 6, which succeeds (6 < 8).  Nothing happens that round.
+
+Y has initiative the 2nd round, and chooses to roll 2 dice, rolls 2d6 and gets
+a 7 (success).  X rolls 2d6, and rolls an 11 which barely succeeds.  Nothing
+happens.
+
+X chooses to roll 4 dice to get this over with, rolls 4d6, getting a 14 --
+failing his Strength roll.  Nothing happens.
+
+Y chooses to roll 3d6 and manages to succeed with another 7.  X rolls 3d6 and
+gets a 12 -- tough luck!  X fails that roll and loses the arm wrestling match.
+
+
+
+===============================================================================
+ Attributes (Proposed)                                           Revised 12/11
+===============================================================================
+
+The categories are listed only for discussion's sake; they wouldn't be included
+in the final game, except as GM trivia and design notes...
+
+
+CATEGORY            PHYSICAL               MENTAL
+-----------------+-----------------------------------------------------
+STRENGTH         |  Strength (P)           Command (S)
+HEALTH           |  Health (P)             Memory (M)
+ENDURANCE        |  Endurance (P)          Willpower (M)
+COORDINATION     |  Coordination (P)       Reason (M)
+SPEED            |  Quickness (P)          Perception (M)
+BEAUTY           |  Appearance (S)         Charm (S)
+GRACE            |  Agility (P)            Empathy (S)
+-----------------+-----------------------------------------------------
+
+Strength (P)     |  pure physical power
+Health (P)       |  body's ability to repair itself
+Endurance (P)    |  ability to take damage and pain, withstand hardship
+Coordination (P) |  hand-eye coordination, manual dexterity
+Quickness (P)    |  quickness of muscle and reflex
+Appearance (S)   |  attractiveness (body, face, etc.)
+Agility (P)      |  dexterity and efficiency of motion
+
+Command (S)      |  leadership ability
+Memory (M)       |  mental recall and capacity
+Willpower (S)    |  strength of character and mental fortitude
+Reason (M)       |  logical and mathematical ability, plus creativity
+Perception (M)   |  instinct, awareness, sharpness of senses
+Charm (S)        |  personality, "likeability"
+Empathy (S)      |  understanding, ability to pick up others' feelings
+
+           Notes |  P Physical,  M Mental,  S Social
+                 |  Abbreviate attributes with first three letters.

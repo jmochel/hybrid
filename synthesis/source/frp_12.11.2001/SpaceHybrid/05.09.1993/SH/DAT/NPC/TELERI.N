@@ -1,0 +1,49 @@
+.Name TELERI RATHIEL SEREGON
+.Title LORD OF OVERLOOK				 
+.Race 1/2LING
+.Culture
+.Aspect 
+.PST 14
+.PEN 16		
+.DEX 17
+.PAG 15/16  
+.PAW 14
+.MST 11		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+ 14 A FOP OF A HALFLING
+.EndDesc
+.BeginSkills
+Weapon: RAPIER				, 
+.EndSkills
+.Locale OVERLOOK : OVERLOOK KEEP
+.BeginKnownAssoc
+ LORD OF OVERLOOK:
+.EndKnownAssoc
+.BeginSecretAssoc
+ CONNECTIONS WITH THE ASSASINS GUILD
+.EndSecretAssoc
+.BeginFriends LERRYS ELHAYN, STRIPGEAR HAMMERWIELDER, CATBHATCH GILMIR, ROUNDGOLD
+.EndFriends
+.BeginComment
+ FEW KNOW OF LORD TELERI'S VOCATION AS AN ASSASSIN. HE IS GENERALLY A   
+FAIR AND JUST LORD.
+.EndComment
+.BeginPossess
+ THE MAGICAL RAPIER/SCABBARD COMBINATION (HEAREU/LAERN), RING OF THE
+ANDROSPHINX
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

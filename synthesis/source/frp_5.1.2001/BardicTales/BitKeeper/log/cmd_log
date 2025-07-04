@@ -1,0 +1,79 @@
+jmochel 976322763: sfio -i = 0
+jmochel 976322764: sfiles -pAC = 0
+jmochel 976322764: sfiles -D = 0
+jmochel 976342286: edit - = 0
+jmochel 976342286: sfind = 0
+jmochel 976368898: cittol = 0
+jmochel 976368903: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976368905: sfiles -vg -xcpA -oC:/TEMP/bk_cilist217 . = 0
+jmochel 976368906: clean ChangeSet = 0
+jmochel 976368909: sinfo CharacterSheets/Mordan6.xls = 1
+jmochel 976368909: diffs -u CharacterSheets/Mordan6.xls = 0
+jmochel 976368920: lock -s = 0
+jmochel 976368921: lock -s = 0
+jmochel 976368921: _logging = 0
+jmochel 976368921: sfind -pC CharacterSheets/Mordan6.xls = 0
+jmochel 976368921: sfind -pC ChangeSet = 0
+jmochel 976368921: _keysort = 0
+jmochel 976368922: idcache -q = 0
+jmochel 976368922: cset -M1.0.. = 0
+jmochel 976368922: gethelp -s clean D:/BITKEE~1 = 0
+jmochel 976368922: help -s clean = 0
+jmochel 976368922: clean -u ChangeSet = 1
+jmochel 976368923: delta -qyUpdated CharacterSheets/Mordan6.xls = 0
+jmochel 976368923: get -q CharacterSheets/Mordan6.xls = 0
+jmochel 976368923: _citool C:/TEMP/bk_cilist217.sorted = 200
+jmochel 976368923: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976368926: sfiles -vg -xcpA -oC:/TEMP/bk_cilist217 . = 0
+jmochel 976368926: clean ChangeSet = 0
+jmochel 976368926: prs -h -d$each(:C:){(:C:)
+} -r1.2 CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976368927: prs -hr1.2 -d:PARENT: CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976368927: diffs -u -r1.1..1.2 CharacterSheets/Mordan6.xls = 0
+jmochel 976368935: prs -hr1.2 -d:PARENT: CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976368935: diffs -u -r1.1..1.2 CharacterSheets/Mordan6.xls = 0
+jmochel 976368936: prs -hr1.2 -d:PARENT: CharacterSheets/Mordan6.xls@1.2 = 0
+jmochel 976368936: diffs -u -r1.1..1.2 CharacterSheets/Mordan6.xls = 0
+jmochel 976368940: lock -s = 0
+jmochel 976368941: lock -s = 0
+jmochel 976368941: _logging = 0
+jmochel 976368941: sfind -pC CharacterSheets/Mordan6.xls = 0
+jmochel 976368941: sfind -pC ChangeSet = 0
+jmochel 976368941: cset -q -YC:/TEMP/cmt216 = 0
+jmochel 976368941: _keysort = 0
+jmochel 976368941: cset -r+ = 0
+jmochel 976368941: sccslog - = 0
+jmochel 976368943: sfind -S -sx,c,p = 0
+jmochel 976368943: cset -c -r1.1..1.3 = 0
+jmochel 976368943: _citool C:/TEMP/bk_cilist217.sorted = 200
+jmochel 976368944: log http://www.bitkeeper.com/cgi-bin/logit logging@openlogging.org BitKeeper ChangeSet log: Bardic Tales gaming Archive C:/TEMP/commit_log233 = 0
+jmochel 976368945: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+jmochel 976368947: sfiles -vg -xcpA -oC:/TEMP/bk_cilist217 . = 0
+jmochel 976368947: citool = 0
+jmochel 976368957: parent = 0
+jmochel 976368957: prs -r1.0.. -bhad:KEY:
+ ChangeSet = 0
+jmochel 976368957: version = 0
+jmochel 976368957: cd i:/Repository/BardicTales = 0
+jmochel 976368969: parent = 0
+jmochel 976368969: prs -r1.0.. -bhad:KEY:
+ ChangeSet = 0
+jmochel 976368969: version = 0
+jmochel 976368969: cd i:/Repository/BardicTales = 0
+jmochel 976368971: parent = 0
+jmochel 976368971: prs -r1.0.. -bhad:KEY:
+ ChangeSet = 0
+jmochel 976368971: version = 0
+jmochel 976368995: prs -r1.0.. -had:KEY:
+ ChangeSet = 0
+jmochel 976368995: _keysort = 0
+jmochel 976369010: _adler32 = 0
+jmochel 976369010: cset -m -vv - = 0
+jmochel 976369714: gethelp -s export D:/BITKEE~1 = 0
+jmochel 976369714: help -s export = 0
+jmochel 976369714: export = 1
+jmochel 976369725: rset -hl+ = 0
+jmochel 976369727: export ..bt = 0

@@ -1,0 +1,55 @@
+h16453
+s 00024/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK48791
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/lib/example.jt
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK18268
+cPlib/example.jt
+cR87a4e402
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+<hasPackage>package <packageName/>;</hasPackage>
+
+import java.util.Observer;
+
+public class <className/>Impl
+  implements <className/>
+{
+   Observer obs;
+
+   public <className/>Impl(Observer obs)
+   {
+     this.obs = obs;
+   }
+   
+   <publicMethod>
+   public <returnType/> <methodName/>(<parameter><type/> <name/><comma/></parameter>)
+      <hasExceptions>throws <exception><type/><comma/></exception></hasExceptions>
+   {
+      System.out.println("Observer was called");
+      <returnResult/> obs.<methodName/>(<parameter><name/><comma/></parameter>);
+   }
+   
+   </publicMethod>
+}
+E 2N
+I 1
+E 1

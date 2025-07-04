@@ -1,0 +1,90 @@
+H62771
+s 00060/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK30408
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/docs/DirectoryStructure.txt
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK59967
+cPdocs/DirectoryStructure.txt
+cR4778f329
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+/*
+    JACL Directory Structure
+
+    This is a brief description of the directory structure.
+
+    $Id $
+*/
+
+\jacl\doc
+\jacl\support
+\jacl\output
+\jacl\c++
+\jacl\java
+\jacl\temp
+\jacl\scm
+
+\jacl\c++\support
+\jacl\c++\scm
+\jacl\c++\doc
+\jacl\c++\h
+\jacl\c++\src
+\jacl\c++\output
+
+\jacl\c++\h\w32
+\jacl\c++\h\nt
+\jacl\c++\h\unx
+
+\jacl\c++\src\util
+\jacl\c++\src\commandline
+\jacl\c++\src\hash
+\jacl\c++\src\date
+\jacl\c++\src\reporter
+\jacl\c++\src\version
+\jacl\c++\src\appinfo
+\jacl\c++\src\string
+\jacl\c++\src\system
+\jacl\c++\src\mctrie
+\jacl\c++\src\callbackmanager
+\jacl\c++\src\io
+\jacl\c++\src\posix
+\jacl\c++\src\io\stream
+\jacl\c++\src\io\streams
+\jacl\c++\src\io\stream\w32
+\jacl\c++\src\io\stream\unx
+\jacl\c++\output\obj
+\jacl\c++\output\lib
+\jacl\c++\output\obj\m11w32d
+
+\jacl\java\support
+\jacl\java\scm
+\jacl\java\src
+\jacl\java\doc
+\jacl\java\output
+\jacl\java\support\tm
+\jacl\java\src\util
+\jacl\java\src\util\commandline
+\jacl\java\src\util\hash
+\jacl\java\src\util\date
+\jacl\java\src\util\appinfo
+\jacl\java\output\class
+E 2
+I 1
+E 1

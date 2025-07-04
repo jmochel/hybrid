@@ -1,0 +1,14 @@
+% PFT Loss Numbers for a given activity
+\begin{table}[h]
+\centering
+\caption{PFT Loss Numbers for a given activity}
+	\begin{tabular}{||l|r||} \hline
+	Activity		&	LN	\\ \hline	
+	Close Combat	&	8	\\
+	Melee Combat	&	6	\\
+	Walk			&	2	\\
+	Jogging			&	4	\\
+	Running			&	8	\\
+	Dash			&	10	\\ \hline
+	\end{tabular}
+\end{table}

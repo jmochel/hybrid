@@ -1,0 +1,100 @@
+H59006
+s 00071/00000/00000
+d D 1.1 02/01/08 23:03:35 jmochel 2 1
+cF1
+cK31237
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/08 23:03:35 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/Dalkan.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK20430
+cPCultures/Dalkan.txt
+cR343ec899
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+JimJacklM: DalKan vocabulary questions ?
+DragonSoaring: Ask...
+JimJacklM: Chohan, Johan, Gohan ?
+DragonSoaring: Chohan
+JimJacklM: And chohan command how many ?
+DragonSoaring: Or rather- Cho-Han (two characters
+DragonSoaring: A Cho-han can command up to 50 Samurai and up to 1000 Bushi.
+DragonSoaring: But those ar ehigh end numbers.  The Dal-Kon don't usually have Big armies.
+JimJacklM: Any other ranks other than Daimyo I should know about ?
+DragonSoaring: A Daim-yo can have as few as three Cho-hans and as many as twenty if he is insanely powerful.  
+DragonSoaring: The Daim-yo that is your host- (The p;adin of Heimdell) has 14.
+DragonSoaring: I folow your lea don the question odfother ranks...
+JimJacklM: Have you thought about by Shogun suggestion ?
+DragonSoaring: You are the Dal-kon student right now! :-) 
+JimJacklM: lol
+DragonSoaring: I don't understand about YOU starting aSHogunate.
+JimJacklM: no no no :-)
+DragonSoaring: How would YOU have the EMporer selct you for that poosition?
+JimJacklM: No I meant that I, Jim, was strating a concept called a shogun for DalKan
+DragonSoaring: I like the idea- and it can be implemented as you sugessted and I am ofr their having been one or two in the past.
+DragonSoaring: PLease go wild!
+JimJacklM: Menahan is not Shogun material
+JimJacklM: !
+DragonSoaring: I give you liciense (though I of course retain editing and veto rights!) :-)
+JimJacklM: what a suprise 
+JimJacklM: :-
+JimJacklM: :-)
+DragonSoaring: My thinking was that a really big army would have 
+JimJacklM: Holly is planning on giving it a very thoroough once over !
+
+DragonSoaring: Samurai (that can control 20 - 200 Bushi)
+DragonSoaring: CHo-han that can contro up to 50 Samurai and have their own 20-200 Bushi
+DragonSoaring: Daim-you would have 3-20 Cho-han
+DragonSoaring: Ther ewould be thirteen Daim-yos in Dalkon and one Emporer.
+JimJacklM: 13 Daimyos ? 
+DragonSoaring: I have mad ehtis up- itn is not becadon any research on my part except maybe memory of books I have read.
+JimJacklM: Hmmm. 
+DragonSoaring: Too many or too few?
+JimJacklM: Daimyos act as clan heads ?
+JimJacklM: To few.
+DragonSoaring: Clan heads could be Daim-yos - rthere are way more Clanheads than there are Daim-yos
+DragonSoaring: SOme CLanheads ar eonly Samurai.
+DragonSoaring: or "only" Cho-han.
+DragonSoaring: Does that make sense?
+DragonSoaring: Maybe it should be 23 Daim-yos
+DragonSoaring: or 30?
+DragonSoaring: WHat do you think?
+DragonSoaring: I haven't enumerated them yet.
+JimJacklM: let me think about that. I am drastically simplifying the count from the Japanese but I have figured on 90 odd clans each with 2-7 lines answering to them.
+DragonSoaring: Hmmmm...... I was thinking that there were three- four million Dalkon in the world.
+DragonSoaring: What would that imply?
+JimJacklM: Did daimyos result from people establishing protection over groups of other dalkan ?
+DragonSoaring: Yes.
+JimJacklM: that some clans are very large.
+DragonSoaring: And form Emporers granting certain Dal-Kon over acrhing authority. 
+JimJacklM: then there must bne some close to one to one mapping between Daimyos and regions . You have DalKna brokjen up into some damn small islands.
+DragonSoaring: Hmmm.... Nod. 
+JimJacklM: Why not go with the concept of lesser and greater daimyos
+DragonSoaring: Well- I figur ethere are 5-10 thousand Dal-Kon in Begalli.
+DragonSoaring: Maybe 2-3 thousand in TOlnia
+DragonSoaring: I have no problem with greater and lesser Daimyos.  Or even if you ocme up with a mor ehistorialc accurate title for a "lesser Daimyo that is okay.
+DragonSoaring: Maybe ther eare only a million Dal-Kon. 
+DragonSoaring: Oh well- I hsould get bnack to work./ 
+JimJacklM: ok. Tell you what. Lets assume 3-4 million for now. Also, I am assuming that DalKan is fertile but treacherous. Let me work out the numbers based on that and the land area of DalKan on the map . Does that work ?
+DragonSoaring: That is fine.  I ouwld love it if you could do that !  
+JimJacklM: ok
+JimJacklM: done !
+
+JimJacklM: well . Started anyway
+JimJacklM: lol
+JimJacklM: ttyl
+E 2N
+I 1
+E 1

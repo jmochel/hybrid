@@ -1,0 +1,163 @@
+
+
+
+since it is based only on a few varieties of known creatures. To check for encounters, use the following steps:
+
+(i) Determine whether an animal encounter takes place at all. The GM may simply assign a percentage chance of such an encounter taking place, and roll dice. The Danger Table (63.1) is ? good guide here. If an encounter takes place, continue to the Encounter Table given below. Otherwise, go on.
+
+.      (ii) De:termine the type of animal encountered. Roll Dl00. On  a result of 01-50, a land creature is encountered.
+On 51-80, an air creature is encountered. On 81-100 a water creature is encountered. If an impossible result is achieved (i.e. , water in the desert) roll again.
+
+(iIi) Determine the niche of the animal encountered by rolling on the table below. Note that a resul? of 96-100 indicates ''adjacent ecology.'' The GM should roll again, using the Ecology Ch?rt of the nearest ?dj?cent ecology.
+A creature from th?t area has wandered into the territory
+
+
+
+
+ in question. Again,  discard any absurd or impossible results, such as killer whales in the jungle.
+
+(iv) Determine the species of the creature encountered.
+If there is only one species in the niche,  this is automatic.
+If there are several, each one is assigned a percent proba-bility equal to its freq:uency in that niche, and Dl00 is rolled. For example, if a niche contains wolves 60?, lions 30%, and pythons 10%, then a result of 01-60 would indicate a wolf (or wolves), 61-90 would indicate lions, and 91-100 would indicate pytb?ns. If a species is so rare as to be listed in parentheses, with no given percentage, it will not be found by a random encounter.
+
+(v) By reference to the s?eet (or description in section 65) for that p?rticular creature, determine the number encountered.
+
+
+
+encounters for several ????? in advance,  letting them seem more like a part of the ongoing story, and less like the product of random die-rolling.
+
+
+
+
+ ENCOUNTER ?ABL?
+die roll                             niche of creature(s) 01-06                giant predator ?7-16                giant omnivore 17 - 26              giant herbivore 27 - 31              giant scavenger 32 - 39              lar?e predator 40 - 44              large omnivore 45 - 69              large herbivore 70 - 71              large scavenger 72 - 78              medium / small predator 79 - 83              medium / small omnivore 84 - 93              medium / small herbivore 94 - 95              medium / small scavenger 96 - 100             go to nearest adjacent ecology and recheck
+
+Any result which indicates an empty niche should be re-rolled until an occupied niche is indicated.
+
+
+
+
+
+
+
+
+ PLAYERS MAY ATT?MPT TO DETERMINE THE NATURE OF NEW CREATURES THEY MAY SEE OR ENCOUNTER.  Certain skills and magical abilities will be of assistance.
+
+A Beast Master of any Rank may determine a creature's general nature (its niche and probable habits) from an examination of the caged living creature or a dead specimen. The higher his Rank,  the more information the GM should pro-vide.  A Rank 1 Beast Master, encountering a bear for the first time, might be told that it was clearly an omnivore and that those claws looked dangerous. A Rank 10 Beast Master would be able to deduce any number of things, including the creature's preferred diet, the fact that it hibernated in winter - indeed, practically anything he might ever need to know.                                      ?
+
+A Beast Master has a chance of acquiring information merely from observation o? an animal in the wild. Multiply his Rank by 2 for a brief glimpse, 3 for repeated glimpses, 5 for brief observation while the animal is unaware it is being seen,  and 10 for prolonged (more than 30 minutes) observatio:?. The C?! must r?ll under this number on lDl00. A successful roll will result in the information being supplied,  as per the seeker's Rank. A failed roll will result
+
+
+
+ in no information; a badly failed roll should result in mis-leading information. Each character may attempt this once per day.
+Any Beast Master, on observing a living or dead animal for more than the briefest period of time, will know whether or not it belongs to the class(es) of animal with which he has learned to work.  This will be true even if he cannot learn anything else about the animal.
+
+
+A Ranger may also learn about a creature by seeing it in the wild.   Follow the same procedure described above for a Beast Master.  However, a Ranger's chances of acquiring data thusly are always 15% better than those of a Be?st Master of corresponding Rank, because the Ranger is oriented toward t?e study of creatures in the wild, whereas the Beast Master is
+
+
+
+ ori?nted t?ward their domestication.
+
+If an individual has Rank in both Ranger and Beast Master skills, his chances of learning from observation in the wild are equal to the better of the two chances allowed by his separate skills - plus 3% for each Rank achieved in the other skill.
+
+
+
+
+
+the various spells for detecting and reading an Aura; etc.
+
+The ''Spell of Com?unication with Greater Sentients'' will work on any intelligent creature, including those not listed under the description of the spell (93.5, S-11).
+If attempted on an unintelligent creature, a backlash may leave the wizard or other vict?? under the temporary delusion that he/she is a talking dog or s??ilar beast.
+
+The ''Spell of Bodily Possession'' can be used to a?tain a great deal of information in a short time.  If an unintellige creature is possessed, its memory will not be an ''open book'' to the Adept, but he will get a good idea of its likes and dislikes. He can also use the possessed body to observe other members of the species, if he is careful and lucky.
+
+The ''Ritual of Sending'' will work in s?:ilar fashion, giving the Rune ?!agic Adept a good idea of the likes and dislikes of the creature, and oossibly allowing answers to simple questions. Thc less intelligent the creature , and th? less similar it is to the spell-caster in species, the less useful this ?nd similar spells will be.
+
+
+
+
+Many other spells have potential use to the player 
+
+In the case of a totally unfamiliar kind of organism,  the GM may simply base attempts to understand its nature on the characters' Perception scores, modifying upwards as he sees fit for their various talents and abilities.   Creative attempts at commu?ication should always be rewarded.  In general, when up against s wholly new sort of creature, all players ?hould be treated as untrained observers - watching patiently or experimenting blindly. A new sort of creature can thus be ?:ade to present a puzzle to the players.                                '
+
+
+
+
+
+
+ 
+Untrained observers studying a new type of creature should be told no more than what they see. A bear is large and hairy, with dangerous cl?ws. Any untrained observer will see this much.  A caged creature can be offered food in an attempt to determine its diet - but remember that some animals won't eat in c?ptivity, and others may get hungry enough to eat food they would not touch in the wild.
+
+The only way an untrained observer may hope to gain more than the most general information about a new creature is by seeing it in the wild - and not just a brief glimpse. Magical observation by a wizard not Ranked in the Beast Master or Ranger skills definitely counts as ''untrained.''  To determine the success of untrained observation, multiply (watcher's Perception) by (hours of secret observation) , with a maximum 50% chance of success. Each character may attempt observation once per day. A successful roll will yield ??? item?of data about the creature;  a failed roll will yield no data or even false hints.   (The CM will probably wish to require a.roll against ??nual Dexterity to deter?ine the f???'?? ch?nces of snc?king up on the anim?l in the first pl?ce.)
+
+
+
+
+
+PLA?ERS ENTERING A NEW AREA MAY REQUEST INFORMATION ON THE DO?INANT CREATURES THERE FR?? NATIVES OF TH?T OR ADJACENT AREAS. As noted under the descriptions of the various niches, natives of an area are likely to know a good deal about the animals therein, especially the larger and more dangerous (or useful) ones. Natives of surrounding areas will possess less co?plete information.
+
+The amount and quality of information gained this way depends on the Perception of the askers and the knowledge of the informants. A local Ranger would be able to give essentially complete information (assuming, of course, that he was truthful.) In a primitive area, no skilled informant is likely to be available. Partial information may be gathered beforehand (i.e. , by study in the? libraries of appropriate guilds). Once on site, there may be no one more knowledgeable than some poor farmer who never enters the wilderness.
+
+WHEN DEALI?G WITH UNTRAINED INFORMANTS,  THE VALUE OF DATA IS BASED ON PERCEPTION. Add the questioner' s Perception to that of the informant and roll DlO0. A successful result yields atruthful answer; a failed roll yields ignorance or a lie. The CM may modify this roll as he deems appro?riate.
+
+
+
+
+
+THE FIRST AND MOST IMPOR?A?T THING TO B? LEARNED ?  ABOUT A NEW KIND OF CREATURE IS ITS CLASSIFICATION. There are ?? creature classifications given in Sections ?6 through 76.   Classification of creatures is ??portant for several reasons, the most notable being magic.  The first thing the C?! should inform the players about, when they have successfu observed a creature, is its classification,
+
+SOME CREATURES FALL INTO NONE OF THE EXISTING CLASSIF? CATIONS. This determination is up to the GM - see below, A creature may be left permanently unclassified, or it may be put, with others of its type, into a new classification.
+Players would then be free to attempt to develop spells to affect this new classification.
+
+A CONTROL OR OTHER SPELL ATTEMPTED AGAINST A CREATUR? OF THE WRONG CLASSIFICATION WILL BACKLASH.  It is ha?ardous for a wi?ard to attempt magic involving a creature about which he knows little. If  for instance? an Adept of the College of Lesser Sum?onings attempts a ''Spell of Sum?oning Small ?!ammals'' against a platypus ?which is a marsupial? he would incur ? backlash, A backlas!? related to the spell is likcly to take thc form of a temporary delusion, on the part of the backlash victim,  that he or she is the animal involved.
+.
+
+
+ .          The following guidelines will assist the GM in placing new creatures into the appropriate classifications:
+
+APES AND PREHUMANS: Creatures standing over ? fe?t tall, tailless, and generally ape- or human-related would fit into this category. Monkeys (smaller, tailed creatures) would be classified as Small Land Mammals.  No creature of full human intelligencebelongs in this group.
+
+FELINES: Any cat- or cat-derived creature. A GM could choose to put an intelligent feline race into this category, or to keep it separate.
+
+GREAT LAND MA?MALS: Any land mam?al weighing more than a man and not fitting into the Feline or Riding Animal ?.e. , hors? categories. Again, intelligent creatures might be classified separately.
+
+SMALL LAND MA??ALS: Any land mammal weighing as much as a man, or less, and not fitting into another classificatio Note that marsupials, for instance, are not mam?als; ?hey would have their own classification if encountered.   In??l-ligent specimens might be classed with thi? group or treated separately
+.
+
+
+
+CO?MON AVIANS:  any non?agical bird that weighs less than a man. Other flying creatures (i,e. , dinosaurs, fly??g squirrels) are not included in this category.
+
+FANTASTICAL AVIANS: Any flying creature of magical nature or origins, OR any very large bird, even if not magica (i.e. , Diatryma, ostriches) .
+?.
+FISH: Any variety of non-magical fish, shark, or ray.
+
+AQUATIC MAM?ALS:  Any warm-blooded sea-going creature.
+(For game purposes, dinosaurs of all types will be considered as ''Lizards and Kindred''  (see below) , even though they may have been warm-blooded.) Warm-blooded magical creatures are included in this category.
+
+OTHER AQUATICS:  Any other aquatic creature, magical or otherwise.
+
+LIZARDS AND KI?DR?D: All reptiles other than snakes.
+This category includes magical creatures of a reptilian nature, as well as dinosaurs.  It does not include dr?gons, but would prob?bly incl??c any other intelligent reptile.
+
+
+
+
+
+SNAKES: All legless repti??s, magical or otherwise.
+Quetzalcoatl, the ''featherered se?pent,'' might fit into this category, in?o Fantastical Avian?, or both - GM's discretion.
+
+INSECTS AND SPIDERS:  In ge?eral, any land-dweller with six or more legs. This category ?ould take in similar creature not actually insect-related, suc? as centipedes, sowbugs, and land crabs.
+
+GIANT H??ANOIDS: Any intelligent or semi-intelligent humanoid creature more than ten feet tall.
+
+FAIRY FOLK: Aa described i? Section  70.2. The GM may add any creature to ?his cate?ory that he feels is similar to those described. All are intelligent and magical.
+
+EARTH DWELLERS: As describ?d in Section 70.3. The GM may add any race that he f?els is similar to those described. All are intelligent; ??ne are innately magical.
+
+FANTASTICAL MONSTERS: Gene??lly, any magical creature that is intelli?ent ?nd part-hum?:. in aopearancc will fit into this category. Howe?er, the ??tegory also includes such diverse creatures as the Ciant A???ba and the Unicorn.
+
+
+
+

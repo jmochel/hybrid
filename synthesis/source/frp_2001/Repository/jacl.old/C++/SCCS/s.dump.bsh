@@ -1,0 +1,60 @@
+h04970
+s 00032/00000/00000
+d D 1.1 99/11/17 12:50:09 jmochel 2 1
+cC
+cK35555
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:06 jmochel 1 0
+c BitKeeper file e:/jacl/C++/dump.bsh
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45332
+cPC++/dump.bsh
+cR2f93d7cd5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+bk new doc
+bk new h
+h/nt
+h/unx
+h/w32
+bk new output
+output/lib
+output/obj
+output/obj/m11w32d
+bk new scm
+bk new src
+src/appinfo
+src/appinfo/w32
+src/callbackmanager
+src/commandline
+src/date
+src/hash
+src/io
+src/io/stream
+src/io/stream/unx
+src/io/stream/w32
+src/mctrie
+src/posix
+src/reporter
+src/reporter/w32
+src/string
+src/system
+src/util
+src/version
+bk new support
+support/general
+support/tm
+E 2
+I 1
+E 1

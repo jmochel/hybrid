@@ -1,0 +1,7 @@
+|| A whole slew of classes for short tour testing
+
+treadmill == ( className:String, class:Class, operations:OperationArray, argLists:Hashtable  );
+argTypeRange == ( type:String, typeClass:Class, values:ObjectArray );
+argList == ( args:ObjectArray, argCount:int );
+argDataSet == ( argLists:operationArgListArray, argListCount:int );
+operation == ( name:String, method:Method, returnValue:Object );

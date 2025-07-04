@@ -1,0 +1,223 @@
+!jmochel 995061855 20010709210512: new -Pq BitKeeper/etc/ignore = 0
+!jmochel 995061855 20010709210512: sfiles -pC = 0
+!jmochel 995061855 20010709210512: cset -q -yInitial repository create - = 0
+!jmochel 995061855 20010709210512: get -qkp ChangeSet = 0
+!jmochel 995061856 20010709210512: _lconfig = 1
+!jmochel 995062406 20010709210512: pwd = 0
+!jmochel 995062406 20010709210512: _exists = 1
+!jmochel 995062406 20010709210512: _g2sccs = 0
+!jmochel 995062406 20010709210512: _exists = 1
+!jmochel 995062460 20010709210512: sfio -im -q = 0
+!jmochel 995062464 20010709210512: ci -1i -q - = 0
+!jmochel 995062464 20010709210512: sfiles = 0
+!jmochel 995062464 20010709210512: admin -hhhq - = 0
+!jmochel 995062465 20010709210512: idcache -q = 0
+!jmochel 995062465 20010709210512: sfind -s,,p -C = 0
+!jmochel 995062471 20010709210512: new -Pq BitKeeper/etc/logging_ok = 0
+!jmochel 995062473 20010709210512: cset -YG:/Temp/bk_commit7 = 0
+!jmochel 995062473 20010709210512: _probekey = 0
+!jmochel 995062473 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 995062473 20010709210512: _keysort = 0
+!jmochel 995062473 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = 0
+!jmochel 995062473 20010709210512: _keysort = 0
+!jmochel 995062473 20010709210512: sane = 0
+!jmochel 995062473 20010709210512: check -ac - = 0
+!jmochel 995062473 20010709210512: sfind = 0
+!jmochel 995062474 20010709210512: _adler32 = 0
+!jmochel 995062474 20010709210512: makepatch -e -s - = 0
+!jmochel 995062474 20010709210512: _keysort = 0
+!jmochel 995062474 20010709210512: _adler32 = 0
+!jmochel 995062474 20010709210512: makepatch -e -s - = 0
+!jmochel 995062474 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = 0
+!jmochel 995062474 20010709210512: log -q http://www.openlogging.org:80////LOG_ROOT/// = 0
+!jmochel 995287840 20010709210512: sfio -o -q - = 0
+!jmochel 995287840 20010709210512: sfind = 0
+!jmochel 995313439 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 995313439 20010709210512: _listkey = 0
+!jmochel 995313439 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995313439 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995313439 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995313439 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995313439 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995313439 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995313439 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995313439 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 995313440 20010709210512: takepatch -vvv -c = 0
+!jmochel 995313440 20010709210512: sane = 0
+!jmochel 995313440 20010709210512: sfind RESYNC = 0
+!jmochel 995313440 20010709210512: sfio -omq = 0
+!jmochel 995313440 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 995313440 20010709210512: clean models/SCCS/s.mushin.tpr = 0
+!jmochel 995313440 20010709210512: clean src/mushin/frp/astronomy/catalog_readers/SCCS/s.HipparcosReader.java = 0
+!jmochel 995313440 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 995313440 20010709210512: _keysort = 0
+!jmochel 995313442 20010709210512: sane = 0
+!jmochel 995313442 20010709210512: check -a - = 0
+!jmochel 995313442 20010709210512: sfind = 0
+!jmochel 995313442 20010709210512: resolve -t -c = 0
+!jmochel 995313448 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 995313448 20010709210512: _probekey = 0
+!jmochel 995313448 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995313448 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995313448 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995313448 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995313448 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995313448 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995313448 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995313448 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 995375262 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 995375262 20010709210512: _listkey = 0
+!jmochel 995375262 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995375262 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995375262 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995375262 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995375262 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995375262 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995375262 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995375262 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 995375263 20010709210512: takepatch -vvv -c = 0
+!jmochel 995375263 20010709210512: sane = 0
+!jmochel 995375264 20010709210512: sfind RESYNC = 0
+!jmochel 995375264 20010709210512: sfio -omq = 0
+!jmochel 995375264 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 995375264 20010709210512: clean models/SCCS/s.mushin.tpr = 0
+!jmochel 995375264 20010709210512: clean models/SCCS/s.mushin.tws = 0
+!jmochel 995375264 20010709210512: clean models/mushin/frp/SCCS/s.frp.dfPackage = 0
+!jmochel 995375264 20010709210512: clean models/mushin/frp/astronomy/catalog_readers/SCCS/s.catalog_readers.dfPackage = 0
+!jmochel 995375264 20010709210512: clean models/mushin/frp/astronomy/catalog_readers/SCCS/s.catalog_readers.dfPackage.wmf = 0
+!jmochel 995375264 20010709210512: clean models/mushin/frp/astronomy/stellarobject/SCCS/s.stellarobject.dfPackage = 0
+!jmochel 995375264 20010709210512: clean src/mushin/frp/astronomy/catalog_readers/SCCS/s.HipparcosReader.java = 0
+!jmochel 995375264 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 995375264 20010709210512: _keysort = 0
+!jmochel 995375265 20010709210512: sane = 0
+!jmochel 995375265 20010709210512: check -a - = 0
+!jmochel 995375265 20010709210512: sfind = 0
+!jmochel 995375265 20010709210512: resolve -t -c = 0
+!jmochel 995481348 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 995481348 20010709210512: _listkey = 0
+!jmochel 995481348 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995481348 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995481348 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995481348 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995481348 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995481348 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995481348 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995481348 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 995481350 20010709210512: idcache -q = 0
+!jmochel 995481351 20010709210512: takepatch -vvv -c = 0
+!jmochel 995481351 20010709210512: sane = 0
+!jmochel 995481351 20010709210512: sfind RESYNC = 0
+!jmochel 995481351 20010709210512: sfio -omq = 0
+!jmochel 995481351 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 995481351 20010709210512: clean models/SCCS/s.mushin.tpr = 0
+!jmochel 995481351 20010709210512: clean models/mushin/frp/astronomy/catalog_readers/SCCS/s.catalog_readers.dfPackage = 0
+!jmochel 995481351 20010709210512: clean models/mushin/frp/astronomy/catalog_readers/SCCS/s.catalog_readers.dfPackage.wmf = 0
+!jmochel 995481351 20010709210512: clean models/mushin/frp/astronomy/stellarobject/location/SCCS/s.location.dfPackage = 0
+!jmochel 995481351 20010709210512: clean src/mushin/frp/astronomy/catalog_readers/SCCS/s.HipparcosReader.java = 0
+!jmochel 995481351 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 995481351 20010709210512: _keysort = 0
+!jmochel 995481352 20010709210512: sane = 0
+!jmochel 995481352 20010709210512: check -a - = 0
+!jmochel 995481352 20010709210512: sfind = 0
+!jmochel 995481352 20010709210512: resolve -t -c = 0
+!jmochel 995717887 20010604201538: sfio -o - = 0
+!jmochel 995717887 20010604201538: sfind = 0
+!jmochel 996589280 20010709210512: sfio -o -q - = 0
+!jmochel 996589280 20010709210512: sfind = 0
+!jmochel 996717250 20010604201538: cd d:/Repository/mushin = 0
+!jmochel 996717258 20010604201538: _probekey = 0
+!jmochel 996717259 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 996717259 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 996717260 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 996717261 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 996717261 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 996717262 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 996717262 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 996717263 20010604201538: putenv BK_ROOT=g:/workspace/mushin = 0
+!jmochel 999085140 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 999085141 20010709210512: _listkey = 0
+!jmochel 999085141 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999085141 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999085141 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999085141 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999085141 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999085141 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999085141 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999085141 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 999085142 20010709210512: takepatch -vvv -c = 0
+!jmochel 999085142 20010709210512: sane = 0
+!jmochel 999085142 20010709210512: sfind RESYNC = 0
+!jmochel 999085142 20010709210512: sfio -omq = 0
+!jmochel 999085143 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/catalog/SCCS/s.CatalogID.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/location/SCCS/s.Epoch.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/catalog_readers/SCCS/s.FieldDefinitionTable.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/catalog_readers/SCCS/s.HipparcosReader.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/SCCS/s.IType.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/identification/SCCS/s.Nomen.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/SCCS/s.StellarObject.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/catalog/SCCS/s.Type.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/identification/SCCS/s.Type.java = 0
+!jmochel 999085143 20010709210512: clean src/mushin/frp/astronomy/stellarobject/SCCS/s.Type.java = 0
+!jmochel 999085143 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999085143 20010709210512: _keysort = 0
+!jmochel 999085144 20010709210512: sane = 0
+!jmochel 999085144 20010709210512: check -a - = 0
+!jmochel 999085144 20010709210512: sfind = 0
+!jmochel 999085144 20010709210512: resolve -t -c = 0
+!jmochel 999285780 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 999285780 20010709210512: _listkey = 0
+!jmochel 999285780 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999285780 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999285780 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999285780 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999285780 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999285780 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999285780 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999285780 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 999285782 20010709210512: idcache -q = 0
+!jmochel 999285783 20010709210512: takepatch -vvv -c = 0
+!jmochel 999285783 20010709210512: sane = 0
+!jmochel 999285783 20010709210512: sfind RESYNC = 0
+!jmochel 999285783 20010709210512: sfio -omq = 0
+!jmochel 999285783 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 999285784 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999285784 20010709210512: _keysort = 0
+!jmochel 999285784 20010709210512: sane = 0
+!jmochel 999285784 20010709210512: check -a - = 0
+!jmochel 999285784 20010709210512: sfind = 0
+!jmochel 999285784 20010709210512: resolve -t -c = 0
+!jmochel 999285943 20010709210512: cd f:/Repository/mushin = 0
+!jmochel 999285943 20010709210512: _listkey = 0
+!jmochel 999285943 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999285943 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999285943 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999285943 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999285943 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999285943 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999285943 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999285943 20010709210512: putenv BK_ROOT=g:/mushin = 0
+!jmochel 999285943 20010709210512: takepatch -vvv -c = 0
+!jmochel 999285943 20010709210512: sane = 0
+!jmochel 999285944 20010709210512: sfind RESYNC = 0
+!jmochel 999285944 20010709210512: sfio -omq = 0
+!jmochel 999285944 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Ctor.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Function.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Model.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Mthd.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.package.uml = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Parm.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.ParmList.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Range.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.RecursiveClassDump.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.TestableModel.java = 0
+!jmochel 999285944 20010709210512: clean src/mushin/metamodel/SCCS/s.Type.java = 0
+!jmochel 999285944 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999285944 20010709210512: _keysort = 0
+!jmochel 999285944 20010709210512: sane = 0
+!jmochel 999285944 20010709210512: check -a - = 0
+!jmochel 999285944 20010709210512: sfind = 0
+!jmochel 999285944 20010709210512: resolve -t -c = 0
+!jmochel 1010174317 20010709210512: sfio -o -q - = 0
+!jmochel 1010174317 20010709210512: sfind = 0

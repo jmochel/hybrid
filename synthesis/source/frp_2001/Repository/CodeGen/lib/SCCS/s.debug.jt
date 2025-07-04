@@ -1,0 +1,59 @@
+h43845
+s 00028/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK11023
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/lib/debug.jt
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK23089
+cPlib/debug.jt
+cR87a36ebf
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+// This code has been generated on <now/>. Do not modify!
+<hasPackage>package <packageName/>;</hasPackage>
+
+/*
+ *  This is a template for debugging classes. It implements a given interface and upon 
+ *  method call it delegates to another object of the same interface and write some debug info
+ *  to System.err. It is very useful for debugging control flow.
+ */
+public class <className/>Debug
+  implements <className/>
+{
+   <className/> obj;
+
+   public <className/>Debug(<className/> obj)
+   {
+     this.obj = obj;
+   }
+   
+   <method>
+   public <returnType/> <methodName/>(<parameter><type/> <name/><comma/></parameter>)
+      <hasExceptions>throws <exception><type/><comma/></exception></hasExceptions>
+   {
+      System.out.println(obj+".<methodName/>("+<parameter><name/>+"<comma/>"+</parameter>")");
+      <returnResult/> obj.<methodName/>(<parameter><name/><comma/></parameter>);
+   }
+   
+   </method>
+}
+E 2N
+I 1
+E 1

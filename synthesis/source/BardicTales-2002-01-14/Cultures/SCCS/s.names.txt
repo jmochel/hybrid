@@ -1,0 +1,1000 @@
+H30088
+s 00971/00000/00000
+d D 1.1 02/01/08 23:03:37 jmochel 2 1
+cF1
+cK02425
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/08 23:03:37 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/names.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK47013
+cPCultures/names.txt
+cR34579aa2
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+.clan Shirai
+Shioya
+Higo
+Ohka
+Shikuk
+.clan Mifune
+Chishu
+Kinashita
+Kikutake
+.clan Mishima
+Hino
+Mihashi
+.clan Mitsubishi
+Hiroyuki
+Nishiwaki
+Nitta
+.clan Kitamura
+Kitao
+Ijichi
+Miyahara
+Nishio
+.clan Mizoguchi
+Miyazawa
+Mitsukuri
+.clan Okita
+Okada
+Hiyama
+Mizuno
+Aizawa
+.clan Okano
+Akutagawa
+Okakura
+Hirota
+Omori
+Okazawaya
+.clan Hideki
+Chikamatsu
+Sen
+Shimohira
+Shibukji
+.clan Yamaha
+Hamaguchi
+Kanada
+Yamanoue
+Yakuta
+.clan Hamamoto
+Yamakage
+Mazuka
+.clan Hitomi
+Jo
+Inouye
+Kokan
+Modegi
+.clan Kobayashi
+Nogushi
+Togo
+Hokusai
+Miyajima
+Yoemon
+.clan Kodama
+Tommii
+Hohki
+Kogo
+Soga
+Ooka
+
+.clan Shizuma
+Shiokawa
+Iijima
+.clan Shimazu
+Shigeki
+Shiroyama
+Oichi
+.clan Shirokawa
+Shirahata
+Shinko
+Ohmiya
+.clan Shimamura
+Hida
+Shiratori
+Shiraishi
+Shunsen
+Shionoya
+Ohmae
+Kikkawa
+.clan Iida
+Shirasu
+Kihara
+Shunji
+Shiomi
+.clan Shimada
+Shinozuka
+Choshi
+Shirane
+.clan Ohishi
+Siagyo
+Ii
+Higuchi
+.clan Hirano
+Kido
+Shiskikura
+Nijo
+Ui
+.clan Ki
+Higoshi
+Higashikuni
+.clan Hideyoshi
+Kishi
+Kijmuta
+Shikitei
+Minabuchi
+.clan Shobo
+Shimizu
+Kikuchi
+Hike
+Kijimuta
+Hiratasuka
+.clan Kimura
+Higashiyama
+Kira
+Hideaki
+.clan Aida
+Minatoya
+Minami
+Kimiyama
+Nishikawa
+Kikugawa
+Miki
+Hishikawa
+.clan Niijima
+Aihara
+Kimio
+Hiraga
+Jippensha
+.clan Shiotani
+Jimbo
+Kikui
+Oinuma
+Ninomiya
+.clan Hiro
+Nishi
+Hiraoka
+.clan Mimasuya
+Miwa
+Kinugasa
+.clan Minobe
+Oishi
+Kitano
+Hirose
+Kita
+Nishimuraya
+.clan Kinoshita
+Mizumaki
+Shibanuma
+Hirase
+Chikanatsu
+.clan Ogiwara
+Shiganori
+Mitsuwa
+Shimaoka
+.clan Hirata
+Miyamae
+Kitabatake
+Shima
+.clan Hira
+Nishimura
+Ohira
+Hiraki
+.clan Hishida
+Shintaro
+Iitaka
+Minamoto
+Nishimoto
+Nishihara
+Hisamatsu
+.clan Kitagawa
+Hirasi
+Mitzusaka
+.clan Shimazaki
+Shichirobei
+Miyake
+Kitoaji
+.clan Mitsuya
+Mitsui
+Miyoshi
+Miura
+Hirayama
+.clan Kiski
+Akatsuka
+Miyamoto
+Mitsuharu
+.clan Miyagi
+Ijiri
+Mizutani
+.clan Hiranuma
+Okanaya
+Okamoto
+Akaike
+Okubo
+.clan Ikeda
+Okazaki
+Uno
+Okanao
+.clan Takeda
+Akamatsu
+Amaya
+Okui
+.clan Okimoto
+Ekiguchi
+Akechi
+.clan Ikoma
+Ko
+Okuda
+Ajibana
+Ikina
+.clan Okimasa
+Imagawa
+Endoso
+Okuma
+Umari
+Nogi
+.clan Umehara
+Okasawa
+Amagawa
+.clan Okawa
+Anami
+Inoue
+Imoo
+.clan Okumura
+Akimoto
+Inihara
+Okuma
+.clan Inaba
+Ukiyo
+Umeki
+Ando
+Ino
+.clan Okura
+Onohara
+Ina
+.clan Amori
+Inoguchi
+Imamura
+Onishi
+.clan Inokuma
+Anzai
+Tochikura
+.clan Akita
+Omura
+Imaizumi
+Akera
+.clan Enoki
+Onoe
+Ono
+Nobunaga
+.clan Onoda
+Noguchi
+Enomoto
+Inao
+.clan Miyazaki
+Okabe
+Godo
+Noda
+.clan Tomonaga
+Doi
+Sohda
+Komatsuzaki
+Yokoyama
+Koga
+.clan Tojo
+Koizumi
+Hojo
+Kondo
+.clan Komatsu
+Yokokawa
+Horigome
+.clan Tomori
+Koiso
+Someya
+.clan Kojima
+Komagata
+Honami
+Momotani
+Komine
+.clan Tokaji
+Kono
+Koguchi
+Soma
+Kon
+.clan Momotami
+Horiuchi
+Tomimoto
+.clan Tomika
+Yoshifumi
+Torii
+Tokuda
+Nonomura
+.clan Tomosai
+Sonoda
+Yoshitomi
+Yoshikawa
+.clan Soho
+Tokuoka
+Toru
+Kogara
+.clan Komiya
+Yonai
+Mori
+.clan Moriguchi
+Joshuyo
+Morri
+Konoe
+Yoshinobu
+.clan Yoshimatsu
+Torisei
+Hori
+Koruba
+.clan Horri
+Toshishai
+Hachirobei
+.clan Nakagawa
+Kuwabara
+Futabatei
+Sakamoto
+.clan Yano
+Fuse
+Iwasaki
+Kwakami
+.clan Kada
+Ozu
+Kyubei
+.clan Takamura
+Oyama
+Nakasato
+Iwahashi
+Ezakiya
+.clan Ozawa
+Fuschida
+Iwasa
+Tanuma
+Maehata
+Sada
+.clan Tabuchi
+Haga
+Nagano
+Kagabu
+.clan Iwahara
+Tansho
+Suzuki
+Muso
+Hyata
+Muruyama
+.clan Yunokawa
+Kurofuji
+Fuwa
+.clan Shinozaki
+Shimura
+Kobi
+Ryusaki
+.clan Tadeshi
+Endo
+IzumiOzaki
+Suzambo
+.clan Okamura
+Kusonoki
+Mushashibo
+Nakazawa
+Maeno
+.clan Kano
+Kagawa
+Nagase
+Nagai
+Inukai
+Saga
+Matsumoto
+.clan Tayama
+Kusunoki
+Nakanoi
+Nakadai
+.clan Sakata
+Takasu
+Shimedzu
+.clan Hattori
+Nakasawa
+Ayabito
+.clan Iwakura
+Takishida
+Nakata
+.clan Nakajima
+Kawatake
+Kawasawa
+Nakayama
+.clan Kakinomoto
+Saeki
+Nagumo
+Kawayama
+Kawasie
+.clan Kawasaki
+Kawamura
+Hayuata
+Takewaki
+.clan Takeshita
+Takashi
+Takarabe
+Takemitsu
+.clan Takei
+Takayama
+Nakatoni
+Takenouchi
+.clan Takudo
+Taku
+Dazai
+Kawamata
+.clan Makiguchi
+Taketomo
+Takemura
+Makuda
+Sakoda
+.clan Yamagata
+Hamacho
+Ibuka
+Hayakawa
+Takudome
+.clan Sakubara
+Takizawa
+Yamada
+Takimoto
+Tamazaki
+.clan Kamata
+Takaoka
+Sakiyurai
+.clan Hamada
+Yamabe
+Yamana
+Sakuraba
+.clan Yamura
+Yamamura
+Wakatsuki
+Makino
+Yamhata
+Yamawaki
+.clan Yamashita
+Yamanouchi
+Kamo
+Handa
+.clan Namiki
+Takeuchi
+Sakurai
+Tamuro
+.clan Kamon
+Kamisaka
+Kaminaga
+Yanagita
+.clan Sano
+Hanabusa
+Takekawa
+Yamaguchiya
+.clan Sanda
+Nanami
+Yanagimoto
+Kanagaki
+.clan Dan
+Hara
+Santo
+.clan Kamioka
+Yamahata
+Yanagi
+.clan Tankoshitsu
+Taniguchi
+Kanesaka
+.clan Bando
+Kamio
+Kurkawa
+.clan Tanaka
+Yanagawa
+Nakao
+Sanjo
+Tani
+.clan Maeda
+Narahashi
+Hasegawa
+Masaoka
+.clan Narato
+Marusa
+Haruguchi
+Yamazaki
+Gushiken
+.clan Yamato
+Yamaoka
+Kase
+.clan Karamorita
+Hoshino
+Morisue
+Hotate
+.clan Hosokawa
+Tokudome
+Noro
+.clan Yoshioka
+Koshin
+Moto
+.clan Soseki
+Nosaka
+Toyoda
+Royama
+.clan Morishita
+Hosokaya
+Toyota
+.clan Morimoto
+Goto
+Yoshizaki
+Morita
+Irie
+.clan Araki
+Yoshida
+Yosano
+Toshusai
+.clan Toyama
+Komon
+Motoori
+Yoshihara
+Konda
+.clan Asahara
+Yoshizawa
+Toshitala
+.clan Hotta
+Sotomura
+Sone
+Nozara
+.clan Joshuya
+Horigoshi
+Arita
+Motoyoshi
+.clan Kotoku
+Ippitsusai
+Nozaki
+Toyotomi
+.clan Ariwara
+Uoya
+Arihyoshi
+.clan Konishi
+Kotara
+Morioka
+.clan Nomura
+Aoki
+Koyama
+.clan Tono
+Arai
+Asano
+Konae
+.clan Koyanagi
+Nose
+Arishima
+Arato
+.clan Arakawa
+Kozu
+Toyoshima
+Ishihara
+Ariwa
+.clan Tomioka
+Arakida
+Asanuma
+.clan Asai
+Osagawa
+Iriye
+.clan Monomonoi
+Tsucgimoto
+Isayama
+.clan Honda
+Asahi
+Urogataya
+.clan Ishida
+Tsukawaki
+Iseki
+Asari
+Asuhara
+.clan Oshima
+Erizawa
+Ashida
+Ashia
+Ise
+Itagaki
+.clan Ishimura
+Ishikawa
+Tsumura
+Ishibashi
+Iseya
+.clan Tsukada
+Kaneko
+Tsuji
+Tsushima
+.clan Karubo
+Tsurimi
+Ishiyama
+Tange
+.clan Itami
+Tsujimura
+Tsuruya
+Tsunoda
+Eto
+.clan Ashikaga
+Tsumemasa
+Fuchida
+Hanari
+Tsuruga
+Ishiguro
+.clan Tsukehara
+Otani
+Tsujimoto
+Tsuchie
+Isozaki
+.clan Isobe
+Ito
+Tsukahara
+Utagawa
+Tsutomu
+Fujimoto
+.clan Otaka
+Tsukioka
+Tsukatani
+.clan Sugitani
+Suenami
+Tsutaya
+Yuasa
+.clan Isoda
+Ishinomori
+Fugunaga
+Tsukade
+.clan Ota
+Fukumitsu
+Tsubouchi
+Atshushi
+.clan Oshin
+Tsukamoto
+Otsu
+Fukuoka
+.clan Sugihara
+Otsuka
+Jumonji
+.clan Yuhara
+Otake
+Sugimura
+Sugase
+.clan Jukodo
+Sunada
+Sumitimo
+Ishimaru
+.clan Fukuzawa
+Fukusaku
+Ushiba
+Fukao
+Fujishima
+Fujikage
+.clan Murakami
+Kunomasu
+Sugita
+.clan Ouchi
+Fujiwara
+Kudo
+.clan Numata
+Kumagae
+Fukushima
+Kudara
+.clan Kurmochi
+Fujita
+Munakata
+Kumasaka
+.clan Itoh
+Kuno
+Kunikida
+.clan Funaki
+Funakoshi
+Muraoka
+Numajiri
+.clan Kuramochi
+Munkata
+Kuga
+Etsuko
+.clan Sugiyama
+Sugisata
+Fumihiko
+.clan Fukuda
+Fukunaka
+Kurogane
+Kunda
+.clan Fujimaki
+Murase
+Kuramoto
+.clan Muraguchi
+Nagahama
+Kunisada
+.clan Funabashi
+Taguchi
+Fukuyama
+Bunya
+.clan Murasaki
+Kurohiko
+Kuroda
+.clan Kahaya
+Kurata
+Sugawara
+Naito
+.clan Kurosawa
+Kubota
+Tsuda
+Muro
+.clan Murkami
+Usami
+Hagino
+Takagawa
+.clan Otomo
+Kuroki
+Murata
+Tagawa
+.clan Nakamura
+Baisotei
+Nakane
+Nakadan
+Mutsu
+Sugai
+.clan Takahashi
+Kajahara
+Kusatsu
+Raikatuji
+.clan Kajiwara
+Takashita
+Nakahara
+Nagatsuka
+.clan Marugo
+Nakanishi
+Saiki
+Kajitani
+Sakai
+.clan Takahama
+Sarumara
+Takano
+Saionji
+.clan Ayugai
+Nakasone
+Hagiwara
+Takagi
+Sakanoue
+.clan Nakano
+Hyobanshi
+Nakamoto
+Wakai
+.clan Furusawa
+Takemago
+Takagaki
+Karube
+.clan Harada
+Kanegawa
+Sasada
+Marubeni
+.clan Narita
+Kasamatsu
+Kasai
+Masudu
+Yasujiro
+.clan Maruyama
+Saromi
+Masanobu
+.clan Sasaki
+Kasahara
+Maruya
+Hasimoto
+.clan Shosaki
+Takasugi
+Matano
+Hashimoto
+.clan Tamura
+Sammiya
+Sasakawa
+.clan Yasuhiro
+Sassa
+Kashiwagi
+Hasekura
+.clan Date
+Yasuda
+Tarumi
+Tanizaki
+Masoni
+.clan Mashita
+Nataga
+Yasutake
+Masuko
+Katsu
+.clan Satake
+Kakutama
+Hatakeda
+.clan Watabe
+Kasuse
+Kataoka
+Hatakeyama
+Matokai
+Matsuoka
+.clan Watnabe
+Kasaya
+Kato
+.clan Matsuda
+Satoya
+Satoh
+.clan Sato
+Tatenaka
+Kawagichi
+Katsukawa
+Yasui
+.clan Hatayama
+Watoga
+Tatsuno
+Natsume
+.clan Tatsuko
+Matsukata
+Matsuya
+Katsushika
+Katoaka
+Matsumura
+.clan Katsumata
+Matsuki
+Matsuzawa
+Matsushita
+.clan Nagasawa
+Matsura
+Hayata
+Kaibara
+Hayami
+.clan Matsumara
+Nagata
+Tatsuya
+Matsushina
+.clan Kawakami
+Kawaguchi
+Kamachi
+.clan Hatoyama
+Tawaraya
+Sawamatsu
+.clan Takabe
+Kawaii
+Kawagishi
+Nawabe
+Kawashima
+Taira
+.clan Matsuo
+Kawai
+Kawazu
+Eda
+.clan Hama
+Gakusha
+Yamakazi
+.clan Yamaguchi
+Makioka
+Kawachi
+Yamanaka
+.clan Daishi
+Kaima
+Saigo
+Taka
+.clan Sakakibara
+Saitoh
+Maita
+Mazaki
+.clan Nakae
+Nakada
+Kajiyama
+Saji
+.clan Saito
+Takara
+Sakagami
+Yamamoto
+Yamakawa
+.clan Sawamura
+Sayuki
+Hayashida
+Ibu
+.clan Obinata
+Abe
+Mazawa
+Ichihara
+.clan Ochida
+Hayashi
+Uboshita
+.clan Ebina
+Kazuyoshi
+Ichimonji
+Ichigawa
+Ochiai
+.clan Deguchi
+Ebisawa
+Ibi
+Ichisada
+.clan Ichikawa
+Uchida
+Yasukawa
+Katayanagi
+.clan Watari
+Watanabe
+Matoke
+Masuzoe
+.clan Masuno
+Kate
+Katayama
+Abukara
+.clan Segawa
+Odaka
+Kenkyusha
+Ichiro
+.clan Kaza
+Sekozawa
+Uehara
+.clan Temko
+Sekigawa
+Eguchi
+Gensai
+Ichiyusai
+.clan Ienari
+Nemoto
+Serizawa
+Terajima
+.clan Kentaro
+Kenmotsu
+Ieyasu
+Uesugi
+Iemochi
+Terauchi
+.clan Terada
+Tenshin
+Ugaki
+Deushi
+.clan Ueshima
+Kawabata
+Shiba
+Terakado
+Katsura
+.clan Sekine
+Igarashi
+Kawate
+Ieyoshi
+.clan Uetake
+Ogyu
+Egami
+.clan Chiba
+Iesada
+Shibasawa
+Shibaguchi
+.clan Mayuzumi
+Ohba
+Ogura
+Ogata
+.clan Ueda
+Adachi
+Uchiyama
+Chino
+.clan Teshigahara
+Seo
+Obuchi
+Idane
+.clan Senmatsu
+Genda
+Uemura
+Shiga
+.clan Shoda
+Shibasaki
+Ihara
+Shigi
+.clan Genji
+Shige
+Shidehara
+Shibata
+Shimakage
+.clan Teshima
+Shigemitsu
+Shimanouchi
+E 2N
+I 1
+E 1

@@ -1,0 +1,475 @@
+.he //Paradigm - Character Generation//
+.fo //Pg. -#-//
+.in 5
+.rm 80
+.nj
+.nf            
+.ce 1
+^B^UCharacter Generation^u^b
+
+1    4d6 drop the lowest
+
+2    Specify barbarian or centaur - roll seperately
+          If barbarian roll as per oa
+          If centaur roll as per centaur rules
+
+3    Determine appearence
+          Roll 2d10  +1 if half elvish, +3 if elvish
+
+4    Determine race,sex.handedness,ht and wt
+          Race by choice
+
+5    Determine gender
+          Gender is determined by choice
+
+6    Determine handedness
+          Handedness is determined by d20 vs d8 rolls
+
+7    Determine ht and wt
+          Use external tables
+
+8    Determine character class
+          Flavor of specific class may be influenced by area of birth.such
+     as mages in the rannock area. consult player's wishes.
+
+9    Determine age
+          Use external tables
+
+10   Determine social standing
+          Use external tables
+
+11   Determine psionics
+          See psionics rules
+
+12   Determine mentor
+          Again, this is influenced by all of the above factors. 
+  
+13   Determine Monies
+          Use PH tables and modify for SS and Mentor
+          
+14   Determine Proficiencies
+          Non Spell casters add 2 over the book value. Spell Casters add 3
+     over the book value.
+
+15   Determine religion
+          Determine any formal training in religion.
+
+16   Determine Hit Points
+          Monks use d6. 
+
+.he //Paradigm - Combat//
+.bp             
+.ce 1
+^B^U Combat ^u^b
+
+^Bsuprise^b
+     Chance of suprise is as per ph though dm will almost always
+determine this. 1/3 is normal.
+
+^BMonks^b
+     Monks roll for suprise as per monks in OA
+
+^BSleeping humans^b
+     Sleeping humans are suprised on a 19/20 or below
+     Sleeping elves art suprised on a 17/20 or below
+
+^BAnimal guards^b
+     Animals are suprised on a 3/20
+     Sleeping animals are suprised on a 6/20
+     Sleeping guard animals are suprised on a 5/20
+
+.ce1
+^B^UInitiative^u^b
+
+^BInititative^b
+     Initiative is rolled on a d10. the number rolled denotes the segment
+of action for the character. dexterity bonus applies to initiative rolls
+during "suprise" situations. all calculated initiatives below a 1 count as
+a one with precedence within segment 1 established by the sequence of the
+calculated numbers. 
+
+^BFighters^b
+     A fighter's actions normally occur on the segment indicated by the
+initiative roll. 
+
+^BSpell casters^b
+     A caster's spell action begins on the segment indicated by the
+initiative roll. thus a caster's spell is cast on the segment indicated by
+the initiative roll + the casting time. If this total is greater than 10
+the spell goes off at the appropriate time in the next round. The mage 
+must add one segment between spells. If the casting of a spell is
+disrupted the mage may roll initiative for the next round. The only
+exceptions to this rule are magical wands staves, etc.
+
+Thieves
+     Thieves who have rolled a successful hide in shadows percentage
+during the previous round and have not yet attacked gain a -3 to their
+initiative rolls. 
+
+^BIajutsu^b
+     In suprise situations an individual with an iautsu proficiency will
+gain a -3 to all initiative rolls. 
+
+^BTies in initiative rolls^b
+     These actons are resolved simultaneously.
+
+^BAttacks from behind^b
+     Attacks from behind go first in any given segment.
+
+^BHasted creatues^b
+     Hasted individuals roll two initiatives: one for the first half of
+the round and one for the second half. 
+
+.bp             
+.ce 1
+^B^UAttacking^u^b
+
+^BAttacking^b
+     All attacks are resolved using d20s except unarmed combat. All rolls
+greater than 20 are treated by the " 5 greater than 20 = 21" rule. 
+
+^BDisarming^b
+An attempt to disarm necessitates an attack against the speed factor ( as
+an armour class) of the weapon being dismanned. Any magical plusses of the
+attacked weapon count as AC adjustments as do any other magical
+adjustments to AC (other than armour) such as protection rings etc. The
+attacker must roll damage greater than that of the weapon's speed factor .
+A positive or negative modifier is applied to the damage for the
+difference in the levels of the two combatants. Any magical weapon being
+attacked adds its plusses to its speed factor for the purposes of
+determining the amount of damage necessary to disman it. If an individual
+is disarmed he suffers 1 point of damage. 
+
+.in 15
+summary:
+To hit: strength,magic plusses
+To AC : magical plusses
+To damage: difference in levels + die roll vs 
+mansized + attacking magical bonuses - defending magical bonuses. 
+.in 
+
+Any attempt to disarm with a bow is governed under "called shots" 
+
+^BCalled shots^b
+
+     Called shots with a missile weapon may be attempted with the
+following provisions: 
+
+     Only one such attempt may be made per round and it takes the
+equivalent of two normal shots. so,for an individual with three shots in a
+round he could only attempt one called shot and one normal shot per round.
+
+     Each target is assigned a size. For each 10% smaller than mansized
+the object is a -1 penalty is applied to the shooter. Any object that is
+5% of mansized is a flat -12 penalty. A moving target subtracts 5 from the
+shooters roll. A target moving faster than 24" subtracts 8 from the
+shooter's to hit roll. The target is considered to be AC 5 for
+determinations of to hit rolls. 
+
+.bp
+^BFighting with two weapons^b
+     There is a standard subtraction of -2/-4 to any set of two attacks
+made in a round. Anyone who has a proficiency in fighting florentine is
+subject to a -1/-2 penalty on his two attacks. The above applies to only
+the weapons the fighter has trained in this proficiency for.  
+
+     An ambidexterous individual is subject to a -1/-2 to any two attacks
+made with any weapons. if he/she trains in fighting florentine any attacks
+made with the weapons trained in ( and only those weapons ) will be
+subject to no modifiers.
+     An ambidexterous individual may use a wpn. to attack and defend in
+such a way that his attacks are at no minuses, and his AC is lowered by
+one. 
+
+     Multiple attacks taken in a round by a character untrained in this
+form of fighting are not subject to bonuses to hit due to specialisation.
+Thus a fighter without specialization attacks at a -2/-4 ! ( plus strength
+and magic). no more than one additional attack per round may be made using
+a multiple attack and only then if time (* initiative allows). 
+
+A theif may only backstab w/one of his two attacks.
+Primary and Secondary attacks can be used to disarm.
+
+^BCritical hits^b
+A percentage to critical is generated by a percentage equal to 5% *
+(actual roll - needed roll) versus the success table.
+
+^BCritical misses^b
+     Critical misses are generated in much the same way as critical hits. 
+
+^BStrength to hit plusses^b
+     Apply only to melee weapons.
+
+^BStrength to damage plusses^b
+     Similiar to above except 1/2 str bonus applies to thrown weapons. 
+
+.bp
+.ce 1
+^B^UDefending^u^b
+
+^BEvasion^b
+Any individual who chooses not to attack during a round of combat may "
+evade " and subtract 3 from his armour class. This bonus is in addition to
+any applicable dexterity and magical plusses. Anyone declaring evasion
+must do so before rolling initiative or he will start evasion on his
+initiative.
+
+^BParrying^b
+In order to parry a character must have a weapon with a speed factor less
+than his opponents. Hands may be used to parry only if the defender is
+wearing bagk nagh,cestus, or metal gauntlets. If a defender is using his
+hands to parry he automatically takes 1 hp/round/attacker he is facing. 
+Parrying with a weapon gives a  character an additional -2 to his ac.
+Parrying with a sai,jitte, or gunsen allows for an additional chance to
+disarm on all attacks which miss by 5 or more. One cannot evade and parry
+at the same time. One cannot parry and fight florentine at the same time. 
+
+.ce 1
+^B^UMissile combat^u^b
+
+^BStrength rated bows^b
+     Strength rated bows allow an archer to apply his strength bonuses to
+hit and damage in missile combat. 
+
+.in 15
+Cost           Strength   Time to make
+
+3000-5000      16         4-6 weeks
+6000-8000      17         5-7 weeks
+9000-10,000    18:01-:50  10-30 weeks
+12k-13k        18:51-:00  15-35 weeks
+not for sale   19-20      ------------?
+.in
+
+^BDexterity to hit bonuses^b
+     Apply only to missile combat.
+
+^BThrowing grenades^b
+     Non giant projectiles and the like are thrown versus an AC of 10 with
+magical and dexterity plusses applying. no AC type except shield will
+effect a "to hit" roll. 
+
+.bp 
+.ce 1
+^B^UArmour^u^b
+
+^BPiece armour^b
+     As per OA
+
+^BCustom armour^b
+                                    
+.in 15
+Armour Material     Value          Encumbrance
+                                   Fxr.
+--------------------------------------------------
+none                0.0            0.0
+shield              1.0            .5
+leather             2.0            0.0
+leather w/studs     3.0            3.0
+ring                3.5            3.0
+scale               4.0            6.0
+chain               5.0            4.0
+splint              6.0            6.0
+banding             6.3            5.0
+plate mail          7.0            6.5
+plate armour        7.5            6.0
+lacquer plate       4.0            3.0
+.in 
+
+overlays of one type on another can be done with
+chain,leather,lacquer,studded leather in one of two manners: 
+
+     type one + .1*armour value  : no increase in
+                                    encumbrance
+     type two +.2*armor value    : (-.1*ef)
+
+**note** encumbrance factor is based on human movement rate of 12" 
+
+.in 15
+gains from special materials
+--------------------------------------------------
+meteorite steel     +1.0 av        +1.0 ef
+mithril             +1.5 av        +1.0 ef
+savarin             +2.5 av        +1.5 ef
+black adamantium    +3.0 av        +4.0 ef
+green adamantium    +2.0 av        +2.0 ef
+red     "   "       +2.5 av        +3.0 ef
+blue    "   "       +4.0 av        +6.0 ef
+true    "   "       +4.0 av        +2.0 ef
+dragon hide         +2.0 av        +0.5 ef
+iron wood           +0.5 av        +0.5 ef
+.in 
+
+.bp
+example: .74% chain(5.0av) = 3.75
+         .25% plate armour(7.5) = 1.88
+overlay type 1 lacquer plate= +.4
+total: 6.03 = ac4 with 4.5 ef or movement 7.5"
+
+^BBarding^b
+     The same process can be done for barding
+
+^BCombat from horseback^b
+     As per OA
+
+^BPsychic duel^b
+     As per OA
+
+^BHTH combat : striking^b
+      see external striking combat rules
+
+^BHTH combat : grappling^b
+      see exrternal grappling combat rules
+
+.he //Paradigm - Healing//
+.bp          
+.ce 1
+^B^UHealing^u^b
+
+^BNatural^b
+     Natural healing occurs at the rate of 1 pt + constitution
+bonus/night. the night of rest must be without any exertion. Traveling
+during this time slows the rate down to one half of above.
+
+^BDruidic,Clerical^b
+     Clerical cure spells heal 1d8 + 1
+     Cure serious will cut down the healing time of broken bones by half.  
+     Cure critical wounds will restore broken bones and restore damage
+     from most internal injuries. 
+
+     Clerical healing will have no effect on the damage caused by trey
+wights and black unicorns. only druids may have any effect on such
+injuries. 
+
+^BMagery^b
+     Mage healings have full book effect.
+
+^BMoonsinger^b
+     Because of their divinatory nature, moonsingers will often be able
+to tell what has caused a wound and also determine whether an individual
+has contracted lycanthropy. 
+
+^BHerbal^b
+     Individuals with the herbalist skill may attempt to relieve infection
+and speed healing through the use of herbs. The base chance to do  either
+is listed under the skill in oa. 
+
+.he //Paradigm - Resurrection and Reincarnation//
+.bp
+.ce 1
+^B^UResurrection^u^b
+
+     Resurrection is an attempt to rejoin the soul of a character with its
+body. A major wish spell may be used in the same manner as a raise dead
+spell, but not a resurrection spell. Note that a cleric may choose to
+"throw" the resurrection and subtract 30% from his survival roll. this may
+bring a cleric into contention with his diety if not done with good
+reason. 
+
+^BWho can be,who can't be ^b
+     All non humans cannot be ressurected with the exception of
+human-nonhuman hybrids. Further, any paladin who dies without his
+paladinhood gains a +15% to his resurrection survival roll. Any
+samurai,kensai,or honor based characters who die dishonored may choose to
+have a -20% applied to their resurrection survival roll.
+
+^BCost^b
+     of clerics church,known follower -           4000
+     of cleric's church,unknown follower -        6000
+     of other church,not a bad sort -             8000
+     of other church,no visible redeeming value - 12,000
+
+^BReincarnation^b
+
+     Reincarnation spells are tricky. If done within certain areas, such
+as Elhayn's deep, even a mage reincarnation will be forced to roll on the
+druidic charts. Character comes back with an ingrained memory of his
+skills(including any spells memorized when he died) but no real knowledge
+of his past other than his name. The memories can be brought to the
+surface by a moonsinger or a witch but it is somewhat dangerous.
+
+.he //Paradigm - Poisons//
+.bp
+.ce 1
+^B^UPoisons^u^b
+
+^BClassification system^b
+     see poison.doc
+
+^BAntidotes^b
+     Antidotes can usually be obtained for most poisons. The cost and
+amount available is dependent upon the area. An alchemist, given a sample
+of the poison in question, can generate a comparable antidote for 1/2  the
+normal price of the poison. An assassin can generate poison antidotes for
+most poisons he is capable of producing. Notable exceptions are kasreeline
+and nikitaa. Entdraught is a powerful antidote versus most poisons except
+nikitaa. Prophylactic antidotes can be obtained for all poisons. again,
+costs vary. 
+
+.ce 1
+^B^USaving throws^u^b
+
+^BVersus poison^b
+     The only modifiers to this roll are racial and spell derived: also,
+any who have ingested entdraught within 10 rounds gain a +3 to poison
+saving throws. 
+
+^BMonks^b
+     Monks save as per thieves and apply their st results as per OA
+
+^BVersus directed spells^b
+     Any player character applies their dexterity bonus(react) to this
+roll. 
+
+.he //Paradigm - Proficiencies and Training//
+.bp
+.ce 1
+^B^UTraining^u^b
+
+^BInitial weapon proficiencies^b
+     Each character in the players handbook (not the oa) gains
+two additional proficiencys at first level. Each Spell Caster gains three
+additional proficiencies at first level.
+
+^BUse of experience points for creating a proficiency slot.^b
+
+     experience points needed = e^+-x/4^-*l
+
+     Where x = level and l = top limit of that level in experience points.
+
+.ce 1
+^B^UUse of proficincies.^u^b
+
+^BSpecialization^b
+     Specialisation is an option open only to fighters,rangers,bushi,and
+samurai. All bonuses gained apply only to the specific weapon of
+specialisation! Specialisation will be used as delineated in the OA with
+the following exceptions. 
+
+1. Iajutsu is a separate skill that the player may learn. it is not
+included in any specialisation bonus. 
+
+2. A player may choose to specialise only during his initial( pre - 1st
+level ) training. 
+
+3. a player specialising in a melee weapon may use two proficiencies to
+gain either a +1/+2 bonus or an increase in ranking on the  multiple
+attack tables. a third proficiency may be added on to the first situation
+in order to gain a +2/+3 on all attacks. the second choice cannot be
+enhanced with the addition of a third proficiency. 
+
+^BSecondary skills^b
+     Secondary skills may be improved by the addition of a proficiency as
+per oa. 
+
+^BVarious skills^b
+
+Each skill has a base amount of time necessary to study it.
+     time = (base time + (20-int)* 5 )/(1 + class bonus)
+As an example tracking has a base time of four months. or 160 days. so a
+"10 intell" fighter requires a base time of (160 +50 )/1+1 = 105 days =<3
+months 
+       
+^BSuccess^b
+     Success in using a skill is based on success table below 
+     see external table : success table

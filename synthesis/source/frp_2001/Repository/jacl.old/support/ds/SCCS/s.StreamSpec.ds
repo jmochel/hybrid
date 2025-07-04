@@ -1,0 +1,53 @@
+h05224
+s 00025/00000/00000
+d D 1.1 99/11/17 12:57:02 jmochel 2 1
+cC
+cK33082
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:56:58 jmochel 1 0
+c BitKeeper file e:/jacl/support/ds/StreamSpec.ds
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45374
+cPsupport/ds/StreamSpec.ds
+cR2f93d75a5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+||    .Contains Declaration of StreamSpec
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+streamSpec ==
+(
+    folderSpec:FolderSpec,
+    canonical:streamSpec,
+    root:string,
+    ext:string,
+    name:string
+);
+
+E 2
+I 1
+E 1

@@ -1,0 +1,63 @@
+.Name Archetypal Tenogon High Priest
+.Title High Priest
+.Race 
+.Culture
+.PST 12
+.PEN 15
+.DEX 14
+.PAG 15
+.PAW 15
+.MST 18
+.MEN 16
+.PSI 21
+.MAG 19
+.MAW 17
+.HT 5'7"
+.WT 125
+.AGE 40
+.BeginDesc
+.EndDesc
+.BeginSkills
+Dodge, 7
+Evade, 9
+Sickle, 8
+Chain and Hook, 9
+Riding, 7
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+Staff of Death Control, Glass Steel chain, Throwing Sickle.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+ME:Death, 15
+ME:Decay, 10
+ME:Power, 11
+ME:Psi, 9
+ME:Earth, 12
+ME:Water, 11
+ME:Fire, 7
+ME:Dark, 8
+Bolt of Decay, 11
+Bolt of Death, 14
+Blindness, 9
+Staff of Flying Fire, 8
+Force Wall, 7
+Firewall, 6
+Distortion, 6
+Death Giving, 12
+.EndSpells
+.EndNPC
+

@@ -1,0 +1,81 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210191255.404;
+          10 Dec 91 19:13:22 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210191255.404;
+          10 Dec 91 19:13:10 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04715; Tue, 10 Dec 91 19:14:43 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA07075; Tue, 10 Dec 91 18:02:46 -0500
+Message-Id: <9112102302.AA07075@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 3267; Tue, 10 Dec 91 18:02:52 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9336;
+ Tue, 10 Dec 91 18:02:51 EST
+Date:         Tue, 10 Dec 1991 18:00:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      Re: RPG: Attributes
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+>From: TOLLEJX@UNCG.BITNET
+>
+>        Is it really neccesarry to have attributes.  If we are to have a
+>skill based game why not make it all skills.  [...]
+
+I understand what you mean, and all, but I don't like it much.  Though
+attributes and skills can be treated similarly, I don't think they can be
+treated equivalently.
+
+One major weakness of your system is that all PCs would be identical, unless
+they took skills.  And how would you differentiate between two characters who
+both had the Strength/brawn skills?  Which is stronger?
+
+Also, skills and attributes BOTH add to a character's chance of success.
+Attributes affect a wide range of situations and are generally trait-like
+(acquired in some part from birth).  Skills are more specifically applied, and
+are generally learned.
+
+>        The benifit of this system is in my book, once you have a charater
+>made, there is little figguring during actual play.  It may take time to
+>get going, but once its up and running it will move fairly quickly
+
+Having both attributes and skills doesn't impose much figuring.  Only simple
+arithmetic is needed -- if my system (AQ's) is used, then just add an attribute
+and a skill stat, roll some dice, and compare.  Easy!
+
+
+
+
+>From: Hades <hades@COOS.DARTMOUTH.EDU>
+>
+>    If I had to make the choice I would definately lean towards just plain
+>Strength. If nothing else it will remove all doubt to the nature of the
+>attribute.
+
+Right-o.  Let's go with "Strength," then.  Tomorrow, I'll repost the
+"RPG: Attributes" message with all the suggested changes.
+
+
+>    Well, some way to measure running speed is important, so I think that
+>Quickness is a good choice for the attribute.
+>
+>    Hm... I can see Perception modifying some reaction type situations, but
+>the kind of Reflex I'm talking about is the doctor tapping your knee. There
+>is no real Perception component to this direct stimulus. It's more a matter
+>of how easily you are surprised if I jump out and yell BOO! Perception
+>would be helpful in something like Dodging an attack, because you might see
+>it coming before it actually is (sort of reverse telegraphing).
+
+So, should I leave it as Quickness, and just change the Quickness description
+to include Reflex?
+
+There would be surprise situations where you might add-in Quickness,
+Perception, or both.  Right?
+
+I think Perception should be kept out of dodge rolls, just to keep it simple.
+
+
+						Adam.

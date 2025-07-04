@@ -1,0 +1,188 @@
+h39186
+s 00160/00000/00000
+d D 1.1 99/12/02 15:43:56 jmochel 2 1
+cC
+cK01670
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:43:53 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Design/wpndes.ltx
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44903
+cPDoc/Design/wpndes.ltx
+cReb47852a5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+% wpndes.ltx
+% SH Weapon Design Notes
+% 01/24/92      JSM     Created
+
+
+\documentstyle[stable]{report}
+\title{SH Weapon Design}
+\author{Jim Mochel}
+\maketitle
+
+\begin{document}
+\section{Weapon Types}
+\SH\ has several weapon types: Hand-to-Hand, Melee, and Missile.
+Hand-to-Hand weapons are simply descriptions of techniques used 
+in hand-to-hand combat. Melee weapons are any hand held 
+and non-thrown weapon. Missile weapons are any weapon that 
+projects its damage at a distance.
+
+\section{Weapon Speed}
+
+Weapon speed is the time needed to bring a weapon to bear on a 
+target. For melee weapons this includes the actual process of striking.
+
+
+\section{Simplified View of Damage}
+
+Damage is caused by the transfer of energy to the body by the injury
+causing element. The main energy involved is the so called
+``Energy of Deformation''. It is calculated as below:
+
+\[ \Delta E = \frac{1-{\epsilon}^{2}}{2} \frac{M_{1} \times M_{2}}{M_{1} + M_{2}} \nu^{2} \]
+
+where \( \Delta E \) is the Energy of Deformation and \( \epsilon \) is the
+coefficient of restitution. \( \epsilon \) is 1 for inelastic collison
+and 0 for an elastic collision.
+
+\section{Hand to Hand}
+
+Kicks and Punches have an energy derived from the velocity and mass of
+the objects involved. From measurements in biomechanics literature we can
+get a fairly good feel for the energies involved in most strikes.
+
+\subsection{Velocities of Karate Strike}
+
+In general trained Karate-ka have average punch speeds that are
+25-30\% greater than non-trained.
+
+\begin{stable}{Velocities of Karate Strikes}{ll}
+	Technique			& Velocity \( M/S\)  \\
+\TableSubtitleRule
+	Front Punch		&	5.7 - 9.8 \\
+	HammerFist		&	10 - 14 \\
+	KnifeEdge		&	10 - 14 \\
+	Wheel Kick		&	7.3 - 10 \\
+	RoundHouse		&	9.5 - 11 \\
+	BackKick		&	10.6 - 12 \\
+	FrontKick		&	9.9 - 14.4 \\
+	SideKick		&	9.9 - 14.4 \\
+\end{stable}
+
+\subsection{Body Masses Involved}
+
+Assuming that the average person masses in at 70 kg.
+
+For Hand Techniques it is assumed that \(M_{1}\) is the mass
+of the forearm-fist couple and has a mass of
+\( M_{1} = 0.10 \times {Body\ Mass} \) or 7 kg.
+The mass of the target (In this case I choose the
+head as the standard target) \( M_{2} \) is assumed to be the
+\( M_{2} = 7kg \).
+
+For foot techniques the mass of the foot-lower-leg couple and the
+head are 14 kg and 7 kg. respectively.
+
+\subsection{Energies of Deformation}
+
+\begin{stable}{Deformation Energies of Various Strikes}{lllll}
+Technique	& \(\Delta E\) & \(\Delta E\) & \(\Delta E\) &	\(\Delta E\) \\
+\TableSubtitleRule
+			& Untrained	  & Untrained	 & Trained		&  Trained		\\
+			& Lo			&  Hi		  &  Lo			 &  Hi			  \\
+Front Punch	& 32			 &  95		  &  56			 &  168			\\
+HammerFist  & 98			 &  193		  & 175			 &  343			\\
+KnifeEdge	& 98		   &  193		  & 175			 &  343			\\
+FrontKick	& 128			 &  271			& 228			  &  483		  \\
+SideKick	& 128			&  271			& 228		  &  483		 \\
+RoundHouse  & 118			  &  158		  & 210			 &  282			 \\
+BackKick	& 147			&  189			& 261		  &  335		 \\
+\end{stable}
+
+All energies are expressed in joules.
+
+The relative \( \Delta Es \) for HTH techniques are described below.
+I am using the Average/Untrained punch as the 1.0 baseline. This
+is approximately 65J
+
+\begin{stable}{Relative Energies of Various Strikes}{lllll}
+Technique	& \(\Delta E\) & \(\Delta E\) & \(\Delta E\) &	\(\Delta E\) \\
+\TableSubtitleRule
+			& Untrained	  & Untrained	 & Trained		&  Trained		\\
+			& Lo			&  Hi		  &  Lo			 &  Hi			  \\
+Front Punch	& 0.5			  &  1.5		  & 0.9			 &  2.6			\\
+HammerFist  & 1.5		 &  3.0			& 2.8		   &  5.4		  \\
+KnifeEdge	& 1.5		 &  3.0			& 2.8			 &  5.4		  \\
+FrontKick	& 2.0			 &  4.3			& 3.6			  &  7.6		  \\
+SideKick	& 2.0			&  4.3			& 3.6		  &  7.6		 \\
+RoundHouse  & 1.9			  &  2.5		  & 3.3			 &  4.4			 \\
+BackKick	& 2.3			&  3.0			& 4.1		  &  5.3		 \\
+\end{stable}
+
+\section{Projectiles}
+
+In dealing with projectile damage we are dealing with two ways that energy is
+transferred into damage. The first is the crushing of tissue by the slug
+and the second is the temporary displacement of the tissue which often
+causes "shockwave" effects further into the body cavity. I am not yet going
+attemp to quantify the shockwave. The permanent tissue damage can be measured
+and most of my notes deal with it.
+
+\subsection{Major Misconceptions}
+
+The following sections discuss the major misconceptions that have arisen in the
+study of projectile damage.
+
+\subsubsection{Velocity Effects}
+
+Contrary to popular belief, faster is not always better. When dealing with
+simple Full Metal Jacket slugs that don't fragment a higher velocity simply
+increases the speed with which the slug exits the body.
+
+Fragmentation has been demonstrated to be of much more importance than
+the velocity of the slug . This assumes of course that the slug does havce
+enough power to penetrate in the first place.
+
+\subsection{Tumble in Flight}
+
+Bullets do not tumble in flight. The actual angle of yaw for a slug impacting
+a target should be no more tha 1-5\%.
+
+Bullets do yaw after impact in tissue. This does not cause as much damage
+as the same slug would if it fragments in the wound but it is still notable.
+Of course this effect is typically seen to start after 15-20cm penetration in
+the target. Most targets on the body would allow the bullet to exit before that point.
+
+\subsubsection{Wounding Mechanism}
+
+While energy transfer is an important part of the process , the size of the
+projectile it very important. A large slow projectile will cause a great deal
+more tissue damage than a small much higher velocity projectile with the
+same kinetic energy.
+
+\end{document}
+
+
+
+
+
+
+
+
+E 2
+I 1
+E 1

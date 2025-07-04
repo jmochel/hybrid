@@ -1,0 +1,71 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911205144212.107;
+          05 Dec 91 14:42:39 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911205144212.107;
+          05 Dec 91 14:42:27 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA01749; Thu, 5 Dec 91 14:43:57 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03296; Thu, 5 Dec 91 14:37:02 -0500
+Message-Id: <9112051937.AA03296@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0202; Thu, 05 Dec 91 14:36:11 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9941;
+ Thu, 05 Dec 91 14:35:15 EST
+Date:         Thu, 5 Dec 1991 13:30:52 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Jason D Parker <jason%HERMES.CRAY.COM@uga.cc.uga.edu>
+Subject:      Re: Game design
+X-To:         GMAST-L%UTCVM.BITNET@uga.cc.uga.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <9112051824.AA10215@timbuk.cray.com>; from
+              "TELLEFSENGW%HIRAMB.BITNET@uga.cc.uga.edu" at Dec 5, 91 1:21 pm
+
+ODE TO A BARN:  (c) Copyright 1991 Jason Parker
+
+Guy writes:
+
+> Game design fascinates me. It's a very difficult question: how
+> do you balance realism with playability? And how do you decide what issues
+> to address?
+
+I think that this pretty much sums up the problems with gaming simulation,
+and really any form of reality simulation that you may care to attempt.
+
+I have been pondering these problems in Adventure gaming for about 8 years
+now (VERY OFF and some ON).  I think that one approach that has been hinted
+at in some of the responses and has been my focus, is SCALABILITY.
+
+A scalable design allows for simple playable rules that can be modularly
+made more complex as a situation or desire requires.  The players can
+make adjustments to complexity or realism vs. simplistity or playability as
+interest demands.  A complex situation could be seen as a "slow mo" scene in a
+movie where you really want to catch all the gory (or not so gory detail).
+
+I don't really consider myself much of an expert when it comes to the
+various game systems already available - so if this describes your system,
+GREAT!  I'd like to hear about what aspects of it's scalability work for you
+and which don't.
+
+I think that games when played are made more scalable by the act of playing
+them.  GMs or players speed up or slow down the game with their interest
+level already.  A good scalable designed game should allow this to happen
+very easily and without jarring mind shifts.
+
+---
+
+One way that I've begun to approach this idea is by tying ATTRIBUTES (of
+characters or objects in the world) to the metaphysics of the the game
+universe.  This way (in theory) the same set of rules can apply for every
+possible entity in that universe - a sort of GRAND UNIFICATION THEORY of
+gaming!
+
+Of course in the little amount of time I've had to spend on this project
+all that previous has been easier said than done.  But I'd be interested in
+responses or ideas along these lines...
+
+-Jason Parker
+jason@cray.com
+
+--

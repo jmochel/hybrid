@@ -1,0 +1,88 @@
+h14131
+s 00060/00000/00000
+d D 1.1 99/12/02 16:04:23 jmochel 2 1
+cC
+cK42239
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:04:19 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/ea/protect.nr
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45026
+cPworlds/ea/protect.nr
+cReb4787945cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+
+
+
+
+				THE PROTECTORATE
+
+	 A GROUP OF ENCHANTERS DEDICATED TO THE GATHERING OF EXTREME
+	 PROFITS.  THEY SPECIALIZE IN TELEPORTALS AND DEFENSIVE
+	 MAGICS.
+
+	 DEMON SHIELDS,FIRE SHIELDS,TELEPORTAL BLOCKS,DOOR WARDS.....
+
+	 THEY HAVE TAKEN ROOT IN THE MOUNTAINS OF THE KASAN DESERT.
+	 THEY HAVE A WELL GUARDED AND WARDED KEEP.  THEY HAVE 6 MAGES
+	 OF HIGH MAGE LEVEL OR ABOVE BUT THEY HAVE GENERALLY DEPENDED
+	 ON MERCENARIES FOR THEIR PROTECTION.
+
+	 1ST PRINCIPLE:  NONE SHALL BUY AN OFFENSIVE MAGICK.
+
+	 2ND PRINCIPLE:  NONE WHO SLAY A PROTECTORATE MEMBER SHALL
+	 LIVE TO SEE THE NEXT MOON.  OR ANY MOON AFTER THAT.
+
+	 3RD PRINCIPLE:  NEUTRALITY IS GOLDEN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E 2
+I 1
+E 1

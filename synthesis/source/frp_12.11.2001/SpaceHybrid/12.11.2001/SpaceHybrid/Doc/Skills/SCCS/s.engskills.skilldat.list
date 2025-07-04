@@ -1,0 +1,49 @@
+h59077
+s 00021/00000/00000
+d D 1.1 99/12/02 15:49:13 jmochel 2 1
+cC
+cK18908
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:49:10 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Skills/engskills.skilldat.list
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44935
+cPDoc/Skills/engskills.skilldat.list
+cReb4786915cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+============================================
+ Engineering Skills
+============================================
+
+ Aeronautics Engineering                           SB:FCS        Cost:7    DF:-2   
+	Applied Linguistics                               SB:FCS        Cost:5    DF:0    
+	Aquaculture Tech                                  SB:FCS        Cost:5    DF:-1   
+ Archeology, Field                                 SB:FCS        Cost:6    DF:-1   
+ Astrogation		                                     SB:FCS        Cost:5    DF:-1   
+	Biomedicine                                       SB:FCS        Cost:5    DF:0    
+ Chemical Engineering		                            SB:FCS        Cost:6    DF:-1   
+	Chemical Tech                                     SB:FCS        Cost:5    DF:-1   
+	Civil Engineering		                               SB:FCS        Cost:6    DF:-1   
+	Civil Tech                                        SB:FCS        Cost:5    DF:-1   
+	Clinical Psychology                               SB:FCS        Cost:5    DF:0    
+	Combat Engineering                                SB:FCS        Cost:6    DF:-1   
+	Combat Operations:(Environment)                   SB:FCS        Cost:5    DF:-1   
+	Communications Operations                         SB:FCS        Cost:6    DF:-2   
+	Computer Engineering		                            SB:FCS        Cost:6    DF:-1   
+ Computer Tech                                     SB:FCS        Cost:5    DF:-1   
+ Demolitions Operations                            SB:FCS+PDX    Cost:5    DF:-1   
+E 2
+I 1
+E 1

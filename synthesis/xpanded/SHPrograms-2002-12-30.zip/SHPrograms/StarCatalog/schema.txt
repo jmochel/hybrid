@@ -1,0 +1,62 @@
+              Table "sc_system"
+ Attribute |         Type          | Modifier 
+-----------+-----------------------+----------
+ hip       | integer               | 
+ hd        | integer               | 
+ hr        | integer               | 
+ gliese    | character varying(11) | 
+
+         Table "sc_system_components"
+ Attribute |         Type          | Modifier 
+-----------+-----------------------+----------
+ hip       | integer               | 
+ ccdm      | character varying(10) | 
+ n_sys     | integer               | 
+
+           Table "sc_system_location"
+     Attribute     |       Type       | Modifier 
+-------------------+------------------+----------
+ hip               | integer          | 
+ prox              | character(1)     | 
+ ra                | double precision | 
+ de                | double precision | 
+ plx               | double precision | 
+ dist              | double precision | 
+ x_gal             | double precision | 
+ y_gal             | double precision | 
+ z_gal             | double precision | 
+ dist_from_sol     | double precision | 
+ dist_from_proxima | double precision | 
+ dist_from_alpha   | double precision | 
+
+            Table "sc_system_names"
+  Attribute  |         Type          | Modifier 
+-------------+-----------------------+----------
+ hip         | integer               | 
+ common      | character varying(80) | 
+ designation | character varying(80) | 
+ confed      | character varying(80) | 
+ proximan    | character varying(80) | 
+ alphan      | character varying(80) | 
+
+           Table "sc_system_visuals"
+  Attribute  |         Type          | Modifier 
+-------------+-----------------------+----------
+ hip         | integer               | 
+ med_vis_mag | double precision      | 
+ med_abs_mag | double precision      | 
+ max_abs_mag | double precision      | 
+ min_abs_mag | double precision      | 
+ var_period  | double precision      | 
+ var_type    | character(1)          | 
+ bv_ci       | double precision      | 
+ sptype      | character varying(12) | 
+
+              Table "sc_systems"
+ Attribute |         Type          | Modifier 
+-----------+-----------------------+----------
+ hip       | integer               | 
+ ra_hms    | character varying(11) | 
+ de_dms    | character varying(11) | 
+ plx       | double precision      | 
+

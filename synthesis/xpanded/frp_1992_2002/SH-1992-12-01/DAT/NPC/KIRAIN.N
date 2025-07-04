@@ -1,0 +1,45 @@
+.Name KIRAIN
+.Title								
+.Race DWF
+.Culture
+.Aspect 
+.PST 15
+.PEN 14		
+.DEX 14
+.PAG 08		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 4'7"      
+.WT 150		 
+.AGE 220
+.BeginDesc
+ 13:
+.EndDesc
+.BeginSkills
+Weapon: BATTLEAXE			  , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ CAPTAIN OF IRON HAND MERCANARY GROU.
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ JEWELED BATTLE AXE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,88 @@
+This is emTeX (btexp), Version 3.1415 [3c-beta11] (preloaded format=latex 94.6.14)  21 JUL 1994 08:27
+**&latex hist.ltx
+(hist.ltx
+LaTeX2e <1994/06/01> patch level 2
+(d:/emtex/texinput/latex209.def
+File: latex209.def 1994/06/01 Standard LaTeX file
+
+Entering LaTeX 2.09 compatibility mode.
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+(d:/emtex/texinput/tracefnt.sty
+Package: tracefnt 1994/05/29 v2.3k Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 113.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 179.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 180.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 187.
+LaTeX Info: Redefining \em on input line 197.
+ (d:/emtex/texinput/latexsym.sty
+Package: latexsym 1994/05/27 v2.1e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 262.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 264.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 266.
+)
+(d:/emtex/texinput/report.cls
+Document Class: report 1994/06/02 v1.2s Standard LaTeX document class
+(d:/emtex/texinput/size10.clo
+File: size10.clo 1994/06/02 v1.2s Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+\bibindent=\dimen105
+) (d:/emtex/texinput/makeidx.sty
+Package: makeidx 1994/05/01 v1.0h Standard LaTeX package
+Standard package `makeidx' <1994/05/29>.
+)
+
+! LaTeX Error: File `relate.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Interruption.
+<to be read again> 
+                   }
+l.2 \makeindex
+              ^^M
+? x
+ 
+Here is how much of TeX's memory you used:
+ 312 strings out of 6069
+ 2869 string characters out of 16933
+ 45844 words of memory out of 262143
+ 3147 multiletter control sequences out of 10000
+ 3640 words of font info for 14 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 19i,0n,19p,181b,38s stack positions out of 300i,100n,60p,5000b,1000s
+No pages of output.

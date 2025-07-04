@@ -1,0 +1,2250 @@
+H48984
+s 02220/00000/00000
+d D 1.1 00/12/08 09:40:44 jmochel 2 1
+cC
+cF1
+cK19187
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:44 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/History/HIST.LTX
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK01946
+cPShapeShifters/History/HIST.LTX
+cR67a38c26
+cV4
+cX0x1a1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+\documentstyle[makeidx,relate]{report}
+\makeindex
+\title{{Shape-Shifteren\thanks{Being a compendium of our many
+experiences} History}}
+\author{Jim Mochel}
+\newcommand{\Day}[2]{\noindent{\bf #1}{\em\small #2}}
+\newcommand{\ndx}[1]{#1 \index{#1}} 
+\newcommand{\subndx}[2]{#1 \index{#1!#2}} 
+\newcommand{\LWON}{Linking Ward of Nureyev\ } 
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\topmargin}{-0.5in}
+
+\begin{document}
+\maketitle
+
+\twocolumn
+In this history, each of the characters will be represented by the following
+symbols:
+
+\Day{111}{Mordanith}
+Mordanith travels into the human city of
+Marden and encounters the \ndx{Orange Mage}.
+\index{Mage!Orange}
+\index{City!Marden}
+
+\Day{114}{Mordanith}
+Applied via the \ndx{Orange Mage} for Theriden Imperial Research
+grant involving the use of the \ndx{Orb of Abjuration}.
+\index{Orb!Abjuration}
+
+\Day{115}{Mordanith}
+Mordanith patterns to \ndx{Thespesian} and the \ndx{Temple of Usul} there.
+He talks with a nice older archivist named Marius.
+He studies in the library there until day 122
+\index{Usual!Thespesian temple of}
+\index{City!Thespesian}
+
+\Day{122}{Mordanith}
+Creates a mage battery of type 1:50 pts and then patterns out to
+talk to \ndx{Drell}(Said to be Healer,thief, and Warrior )
+
+\Day{ 123 }{Mordanith}
+Conjured by \ndx{Narene} to Marden. Met with some Dock Workers
+
+\Day{ 124 }{Mordanith}
+Get a job as a scribe at 2 sp/day get lodging for 3 sp/wk
+
+\Day{ 144 }{Mordanith}
+Having collected near enough money to join the mage's guild
+Mordanith decides to talk to the guild members.
+He talks to the \ndx{Orange Mage} regarding his application to use the
+Orb of Abjuration and learns of the Abjuration phobia of the area.
+He learns of the \ndx{Dissenta} - a set of southern ritual mages
+He learns of the \ndx{Black Cloud} Assassins - who may still have
+contracts out for Abjurationists.
+\index{Assassins!Dissenta}
+\index{Assassins!Black Cloud}
+
+He learns that in Tolnia - Abjuration is a death sentence
+The Orange Mage gives Mordanith a gold coin in order that
+Mordanith may join the guild as a first class member. In
+exchange he wants to receive information over the next several
+months. The Orange Mage says that he is one of the nine Elders.
+Taj Med. The Cost of guild membership is  1 pence per week or
+1/20th share per week. Guild duties consist of Dues, 3 Weeks Service, Meetings 1/month
+
+I meet with a student who is interested in learning the \ndx{Tolnedran}
+Runes.
+\index{Runes!Tolnedran}
+
+Note that the following colleges require \ndx{Tolnedran} runes:
+Abjuration, Alteration, Enchantment, Healing, Divination,
+Illusion, Air.
+\index{Runes!Tolnedran!Colleges Using}
+
+\Day{ 145 }{Mordanith}
+Mordanith meets Raven AKA Raven. I Receive a note from a
+friend in the mages guild that indicates that their may be a
+mage of interest in the Inn of the 3 Moons. We head to visit
+that Inn. We encounter a press gang. We frighten them off with
+a brief show of magery ( and some shapechanging). We pass by
+the usual city sights such a human beating another human. We
+leave them alone to their entertainments.
+
+\begin{quote}
+{\sc Scene:} \ndx{Inn of the 3 Moons}. 10' Ceiling, 5 lamps, smokey, 4 tables,
+\index{Inn!of the Three Moons}
+3 booths, small bar, bartender with a rose tattoo on forehead, dual
+tulwars. Morphus is seated here.
+\end{quote}
+
+I meet with the elderly mage who calls himself Morphus. We are
+joined by a older human who calls himself \ndx{Zacalatar} of the
+Bright One . He inquires as to whether we are mages and what
+we are planning. He claims that the Bright One is a patron
+of mages. Later it was disclosed to Mordanith that the person
+was a cleric of \index{Loki!Priest of}. We are recruited by a Bengali mercenary
+to help as guards for a caravan to excavate a forbidden city
+and when we meet with a human about the jobs Morphus is challenged
+to prove that he is a mage. Morphus blows a brazier to kingdom come
+and we are asked to market our skills elsewhere.
+
+We return to the Inn but Mordanith returns to the Bazaar and
+convinces the human who hires for the caravan that he would do
+well to hire us all. He consents to take us back but Morphus is
+my responsibility ( Though they will feed him ).
+
+When Mordanith returns to the \ndx{Inn of the 3 Moons} he is accosted
+by a dwarf. The dwarf challenges Mordanith to a single combat.
+Mordanith returns to the Inn for witnesses. The two face off outside
+the inn and Mordanith blasts the Dwarf a 80 point Psi Blast.
+The dwarf staggers and attacks Mordanith. Mordanith dodges but
+is also attacked by several of the dwarves' companions. Mordanith
+survives, thanks in great part to his companions and a critical
+matter blast against the axe handle of one the his attackers. The
+blast vaporizes the haft of the axe.
+
+The Booty Collected from the dwarf includes
+A Gold medallion with a black circle and inset red claw.
+5 Gold Pieces. 5 bones. Long for finger bones. The dwarfs armour.
+
+We collect the weapons and booty from the bodies after waiting in vain
+for some sort of city guard. Mordanith, Morphus, the Volga Dogman,
+his dog, and Raven head back and get instructions regarding where we are
+going and why.
+
+We are to head 30 miles SW from Marden to the \ndx{Burghers road}. We
+are to travel 20 miles down this road to a town called \ndx{Grozz's
+End}. \index{Towns!Grozz's End} It should be a small village. There
+should be a small church
+of Hercules. There, we will talk with the priest and then investigate
+the rumor that there is a new buried city. We will be supplied
+with expenses. We are given 1 Gold and 16 sp up front.
+\index{Hercules!Church of in Grozz's End}
+
+\Day{ 145 }{Morphus}
+An elf walks in and introduces himself as Mordanith Etc. A man
+past middle age joins us and says he is \ndx{Zacalatar} of the Bright
+One. He asks if we are mages and whether we have plans. He claims
+that the Bright One is a patron of mages.So What?
+
+We move about Marden, inquire about a buried city (\ndx{Zakatlin})
+\index{City!Buried!Zakatlin}
+we've heard  about. We go to \ndx{Narvi}, a caravan master, for employment
+and possibly some interesting information at the end of the trip. I
+attempt to show him my worth by lighting his brazier. Unfortunately,
+Mordanith helps me and we both critical. We obliterate the brazier.
+\ndx{Narvi} sends us packing. We go back to the Inn but Mordanith returns
+gets us back in good graces, and convinces Narvi to hire us, \dots er
+well, him, and I get to come along, food but no pay.
+
+When Mordanith comes back, he calls us to be witness' at a duel. The
+dwarf who challenged him gets blasted, attacks, and when Mordanith
+dodges, he is attacked by the dwarf's companions. We join in and help
+and he blows up one of the dwarves axe handles. They either die or
+scatter. The dwarf and his party were members of the \ndx{Fire Claw}
+Mercenaries. We retrieve a gold medallion with a black circle and an
+\index{Mercenaries!Fire Claw}
+inset red claw, 5 gold pieces, 5 bones(long finger bones), the
+dwarf's armour, gold ring, silver necklace. We encounter an old
+beggar who offers a prophecy. I know I can do better. I challenge him
+to a prophesy duel.
+
+I \ndx{Prophesy}
+
+\begin{quote}
+{\sc PROPHECY:}
+Fire, Blood, Gold, Blade \\
+Beware, the Stone of Fire \\
+Will lead into damnation \\
+and for the same reasons. \\
+Like a cat.
+\end{quote}
+\index{Fire!Stone of}
+\index{Stone of Fire}
+
+The other Prophesies
+
+\begin{quote}
+{\sc PROPHECY:} The Purge will return, is coming again.
+\end{quote}
+
+Mordanith gives silver to both of us. We negotiate for \ndx{ghurka},
+decide not to get them.
+
+No guard appears, so we take our booty and get our instructions
+regarding our trip. We are to head 30 miles SW from Marden, to the
+Burghers road. Travel 20 miles down this road to a small village
+\index{Road!Burgher's}
+called \ndx{Grozz's End}. We are to find the Church of Hercules, speak to
+the priest, and investigate the rumor of part of a buried city. Paid
+on return, 1 gold piece per two week period. In addition, 1 gold piece and 16 sp for
+food and lodging for two weeks on the road.
+
+\Day{ 146 }{Mordanith}
+We go Ghurka shopping. We trade a simple warding cast for a lower
+price and we head out. We spend the evening camped out and warded.
+
+\Day{ 146 }{Morphus}
+We meet CatBird who turns into a cat. The temple of \ndx{Archon} gets
+\index{Archon!Temple of}
+trashed by a tall gold guy with a black shield. Mordanith interrupts
+priest of Archon during ethereal travel.
+\index{Archon!Priest of}
+
+Mordanith \& Morphus cast a Major Ward with magelocks around the
+Ghurka dealer. Anyone not mageborn cannot open without password.
+Keyed on dealer and his staff.
+
+Go to \ndx{Uncle Toms} (weird). He sells everything. Buy equipment, provisions,
+and clothes.
+
+\Day{ 148 }{Morphus}
+
+The \index{Dullo} falls from a great height and breaks. Mordanith Binds him
+together, I heal him (Life and Earth magic). He becomes a real rock.
+We get accosted by  Mage Guild. I get fined for Shaping, is
+suspended. We exit the city. Red dragon fighting greek god of war
+over city. 20 miles till we camp. No encounters that night.
+\index{Dragon!Red}
+
+\Day{ 149 }{Mordanith}
+We travel on and encounter a \ndx{Demon of Possession}. We deal with
+one and then send to the city of Marden for a priest of \ndx{Aurioch}
+to help with the others.
+\index{Demon!of Possession}
+
+\Day{ 149 }{Morphus}
+Great Heal to myself. Met Singing Warrior (What a pain in the
+ass!) in next town. Left real fast. We are attacked by a Major \ndx{Demon
+of Possession} (Nasty).  We don't do so good, but Mordanith heads into
+the aether for help. He brings back a Paladin of Arioch. The Paladin
+\index{Aurioch!Paladin of}
+Kicks Ass! We learn they travel in threes, so the Paladin goes after
+one and we say we'll take care of the other. They turn into some
+kind of powder(yuc!)
+
+We encounter and talk a small creature called a \ndx{Ringman}.
+
+We go back to the village and meet the singing warrior. The
+Priest of \ndx{Dal Pan} welcomes us and we rest. I fail a silence
+\index{Dal Pan}{Priest of}
+spell and summon air elementals. The priest dispels the
+whirlwind and creates an area of Null Air. I drink a lot, cast a
+telekinesis spell, blow self across room. Attempt to remove
+alcohol, end up doubling it, become comatose.  Bandits are
+approaching on ghurka back.
+
+Mordanith helps me, uncovers some of my hidden power. I attempt
+to Meditate (No Skill of course =>02) and see a swordsman,
+someone wielding 2 swords, an elven mage wearing green robes;
+sometime in the past or future I  see a high vaulted room, falcon
+laid out on altar. Creature, big tattered black robe, black
+fangs, talons, long black hair, red eyes, pointed ears. Long obsidian
+knife, sprinkles red liquid over unconscious bird. He sees me and
+starts to  move toward me. I back out, go forward, and then
+dissipate it. Critical Meditate when I try to set up shield for
+Mordanith. Shield disappears. I turn into cardinal (true
+alteration) fly to ruins, avoid blue mist, break into tower,
+find Mordanith, CatBird, dark aura, Foresee past Abjuration
+symbols on green robe elf, break down binding on mind, leave
+weak, release power, attempt to  shape change and shape remaining
+power to put peg back in. Go unconscious.  Wake up and use points
+to go astral, flap to Mordanith, use all but 1 POW to heal
+Mordanith with Light and Air (09 on heal) Must drop back to
+regular plane. Go into mage trance to conserve power.
+CatBird picks me up in mouth and flies out of tower.
+
+Time passes, the Dullo helps me regain Morphus. I get Mordanith
+and heal him. A few days go by, CatBird gets elvish priest,
+cures Mordanith and does it in the other priest's church which
+destroys the priest's wards. We leave  quickly. We ride south. As
+we set up camp that evening the dogs (Jaws and Dullo) go
+hunting. The Elf sets up wards. During the night the Falcon spots
+a group of glowing eyed Targs.
+
+Save caravan from \ndx{Targs}.
+
+1 month along crescent road. Cashon Seek Large Statue 9ft. 6
+arms. Goddess of death. Black. Scimitar and Living  Flame in top
+hands, Rod 2'x1" carved and bowl in middle hands, bottom hands
+behind back with kris and empty hand. At the Gate in Caromar
+Passive evocative power grid detected Casotul
+
+Full power after encounter with teeth/claw creature (from woman
+or grid)(helena blond) blue sphere circling us with pulses
+returning to it from  grid (shape changed bat-thing killed earlier
+had same blue) I draw in full  power, release into grid, overload
+dot and it blows up. Five person party sighted, two heavy
+armored, two light armored, one black  robed with rune carved
+staff. Coming from divination direction. I foresee big
+reptilian hand giving staff to black robe and 2 orcs, Mage,
+Martial Artist. I get it  from behind, blast attacker, not good
+enough \- I fall unconscious. Time Passes Priest of \ndx{Hercules}
+\index{Hercules!Priest of}
+comes, Dullo removes "soul wrap", priest heals,I sleep.
+
+I wake up at Hercules temple.
+I have \index{ambrosia} and do Helena again. The ambrosia causes
+flashbacks. Pass near silver rune inscribed arch. I critical vision, 1 mile
+abjuration, wave encompassed  entire grid=> unbinding, a wizardry
+older than any I have used. I foresee roof falling in. We begin
+moving toward pulse source. We enter the hall of Kings. Two
+guardian statues. One moves as we enter but stills. Statues
+inside explode as black eats yellow on pedestals and blue
+retreats. Two statues move, one leaves immediately the other
+is Sigmund. Mordanith casts, Vartigan hits, it shoots blue/green
+spiral at Dullo, Mordanith fails to deflect, I shape to Life
+(trying for light). Good roll not critical. Dullo  changed into real
+dog. Morphus possessed and hit by 30 point loss to power. Wake
+up statue destroyed. Come back to Check statue area and hall of
+Kings  for  library. (endurance, Storing=> crystal)
+
+Possessed by \ndx{Demon Lord}, \index{Demon!Lord!Altzar} approx
+6000 years old "\ndx{Altzar}", Love of
+violence,  antipathy to elves, violent temper, contemptuous of
+humans, frightened of Mordanith, but try to remain hidden. From
+Abyss, Sargasso sea of Soul (Black  Hole) from 3rd level(radius)
+come from another age, before humans. A \ndx{Lethar}. Humans possessed
+by the Lethar are \ndx{werewolves} and \ndx{vampires}. Lethar are from realm
+of death. Shapechangers. Derive sustenance from Life energy. Wants me
+to grow in power.
+
+Morphus wakes up, feels disoriented. Prisoner leads CatBird
+through gate. I  see flare of power, head towards bamboo "gate",
+I know dark key word. I urge  Mordanith through. Think there is a
+better chance if I go too. Nethar Plane. We arrive see Cedric's
+entrails in pentacle. Morphus draws dark power. Says hello (in
+Lethar) to black cat shape=>\ndx{Altzar}, Demon Lord of
+Possession.(lord of Demons of Possession) \index{Demons of Possession!Lord of}
+take 3 gold from CatBirds payment.
+
+Three weeks prior I speak to Sigmund about mind work, tap
+Mordanith's head and his shield goes up. There is an
+Altzar\-cation. Telepathy gets knocked back and  forth. He
+detects me, I stomp off. The kids throw a discus at me, I blow it up.
+CatBird yells at me and I attempt to manipulate matter to create
+a discus  (which I intend to throw into orbit). I fail bigtime.
+\ndx{Altzar} projects his pattern into one of the gold coins. The next
+time it is touched\dots\dots Sigmund makes power batteries, draws
+power diagrams with ease, (was a wizards  familiar 17000 years
+ago)
+
+Sigmund, Mordanith and Myself perform a rite of summoning.
+Classic success.  Setup for 4 hours, cast at noon, 6 hours of
+casting and 40\-100 horses (sort of)  show up. Lead by 20 hand
+high black stallion. I take full notes on the symbols  for my
+notebook and also write down all that I can remember about the
+actual spell.
+
+Mordanith and Morphus link\-> Morphus only makes it because
+Mordanith does.  We recall the urchins memories, I get too
+involved. After many memories we  stop and I think that I'm
+CatBird. When Mordanith attempts to snap me out, I  shift to
+falcon (4 Auras)(Purple power)
+
+The Net begins to decay, I am at the city of \ndx{Kuresh}, the
+\index{City!Kuresh}
+\ndx{abjuration net} is  disintegrating. It's much too soon. I must
+reweave it or I'm doomed. I set off  one of a number of pre\-set
+responses (green) and become me again with a  gentle transform.
+Sigmund is a \ndx{Guardian} \- created by immensely powerful
+Alterationist\- Evocationist
+
+I recall a guardsman of \ndx{Tantir} during a flashback. He is hit by a
+black arrow  meant for me while I am in the process of
+strengthening the walls of Marden  during a siege. I am using an
+\index{City!Marden}
+Earthstate spell. I make notes when I recover. 7 riders.
+Something tracking horses?
+
+Get scimitared in chest, critical miss foresee. Mordanith heals
+me. I am still casting. I stop. I faint.
+
+\begin{quote}
+{\sc Vision} I am in the hall of the \ndx{Wizard King}, \ndx{Numedides}. It has a
+400'\-500' high ceiling.  Hellish walls, ribcage columns. On a
+throne of human bone sits a small grey  robed, grey gloved,
+powerful figure. Huge trolls stand on either side of the  throne
+as well as mages in purple robes. There are others there in black
+robes.  A human sacrifice is in progress; I detect life draining
+magic and \ndx{Nedron} words  of summoning. I am the Arch\-Mage \ndx{Kheldar}
+and with me is \ndx{Falstaff}, a Master  Conjuror and Evocationist,
+gold robed and with a white staff. We are here about  the
+\ndx{Necromancy Stone}.
+\index{Stone!Necromancy}
+\end{quote}
+
+Morphus rides a gelding, 16 hands, black horse with white sock.
+The horse  from the herd is 19 hands, a pinto with a long
+mane. The three dryads, at my request, each give me a branch from
+their grove,  Helena a birch twig two feet long with yellowish
+leaves, Deirdre a redwood  twig two feet long heavy brown with
+heart shaped leaves, M\-\-\-\-\- an oak twig two  feet long with
+green leaves.
+
+{---}
+We encounter the temple of hercules
+
+\Day{ 191 }{Mordanith}
+Mordanith's current horse is a 16 hands high brown gelding.
+The horse he is heading for is a Mare at 18 Hands.
+The Singing Warrior is wearing a light brown tunic with metal
+armor, Cloak, and a longbow.
+
+\Day{ 192 }{Mordanith}
+It is the middle of the summer. We start out to the south from
+the Vale. We head out to see the King \ndx{Kaleth}. We leave the
+\index{King!Kaleth}
+borders of the Vale. and break for lunch. We rest that evening
+and are attacked by \ndx{Kresh}. We slay one and Dullo scares the rest
+away. Thus ruining Mordanith's Mage battery ritual.
+
+\Day{ 192 }{Morphus}
+We ride and Dullo appears in horse form. We left the valley, we come
+to the  Great Crescent road, turn right, ride till twelve, stop at
+\index{Road!Great Crescent}
+lunch. I am in considerable pain, slide off back of horse, cold
+fruit and steaks in pack. Have  trouble remounting. Ride till we see
+someone in the road, kneeling. Many  weapons. Executioner Arak comes
+with us. At 500 we arrive at stream. Some  weapons are there. We
+camp. I attempt to approach pinto after grooming my  horse. I fail. I
+practice staff. Exhausted wake up at night=> \ndx{Kresh} lead shadow wolves
+
+\Day{ 193 }{Mordanith}
+We leave the gypsies and travel on.
+
+\Day{ 193 }{Morphus}
+Nothing specific; Like serrengeti plains; Five days of riding and
+training.
+
+\Day{ 198 }{Mordanith}
+We arrive at the city of Chipewing . We talk to the city militia
+\index{City!Chipewing}
+We meet with the diviner \ndx{Oleander}.  She says that CatBird is not
+a shapechanger. She is not a human. She is three with the same
+mind but not the same soul. Oleander states that CatBird should
+go to the \ndx{Tower of Temorth} in Al Kahar or to the \ndx{Citadel of the
+Seven} or she can just ask Mordanith later on during his Quest.
+\index{Tower!of Temorth}
+\index{Citadel!of the Seven}
+\index{City!Al Kahar}
+
+To Morphus she says . Will stand in the court of \ndx{Gazadlath} when
+the net may be broken. Sigmund recognizes that Gazadlath as a
+chieftain mage of a semi-nomadic tribe helping to rebel against
+the golden empire. She says that Morphus will be there One year
+and two months from now.
+
+We look at the things we captured on the road. Card with brand
+displays and image of a Trellis covered with Vines in a chair.
+Person with a purple robe, white jaw and black gloves.
+
+\Day{ 198 }{Morphus}
+Walled town, Chippawing, no smoke coming from chimneys. There are
+people. We meet a diviner and she gives me this information and gets
+a big headache doing it
+
+\begin{quote}
+{\sc Prophecy:}
+I will stand in the court of Gazad\-Lath when the NET may be
+removed. Wizard Chieftain of semi\-nomadic tribes to south of Golden
+Empire. Wild magics hide 1 year 2 months. Vartigan should be there.
+\end{quote}
+
+Sue's card Vines coming up over trellis seat. person in purple robes,
+hands in black gloves, hood, white jaw.
+
+\Day{ 199 }{Mordanith}
+The next morning the Dullo summons all the water in the area. All
+the wine casks are broken and left with a dry powder.
+Mordanith discovers that his fine elven wine is now a fine elven
+powder .
+
+We head  out to the south. We travel past and a Butte. The butte
+houses a monastery full of Orange robed Monks. We travel on and
+pass another butte. We stop for lunch. We see a town laid out in
+front of us. We appear to have been attacked by a flaming bird. A
+fast critical power blast destroys it. We see a town with a
+temple of \ndx{Dal Pan}. \index{Dal Pan!Temple of}
+The high priest of the temple is \ndx{Rorik
+Kambeeleon Tenser of Family Arthel}.
+
+We meet with a \ndx{General Nasant} of the Northern Tactical Command.
+\index{Nasant}
+Vartigan wanders out among the crowd and argues.
+
+Our target is a brazier 3' across, bronze, $ \approx 200 lbs. $ It is being
+delivered by a Caravan with two wagons with a driver, cook and
+teamster  crew. 10 warriors with leather jazeraint on ghurkas. 4
+adepts for controlling gates. and one alterationist or
+pyromancer. 2 scouts.
+
+We meet with the master Diviner \ndx{Regis Galtoon} IV. We meet and we
+plan, we get info from the diviner, we discuss a great deal.
+
+Mordanith buys 14 lbs of powdered amber.
+
+\Day{ 199 }{Morphus}
+Finally taking care of Pinto. Dullo summons water (what a
+disaster). Five good sized containers of powdered wine.
+
+We ride and see white walls on a butte. Monastery, possibly
+friends of \ndx{Jarek}.  Priest creates flaming bird. A larger flaming
+bird is blown up by Mordanith. We ride on and come to \ndx{Taleth}.
+
+We meet General Nasant, Northern TAC commander, at the gate. He
+perceives a lot about us. He brings us to the temple of \ndx{Dal Pan}.
+We see swords under pilgrims robes. Priest casts truth spell and
+we are asked questions. High Priest Rorek Cambelian Tensor of
+the family of Arthelian (\ndx{Carethon Horses}) 5 Mages of the 6th
+\index{Riding Animals!Horses!Carethon}
+circle in monastery, 6 other monasteries, trained adepts
+channeling power. Possible task intercept new brazier installation.
+
+\begin{verbatim}
+Typical caravan personnel
+1 brazier 200 lbs. 3 feet across
+10  Warriors leather with metal,
+    shortbows and light spear
+4   Adepts  gate specialists
+2   Wagons  brazier, driver, adepts,cook \&
+    teamster, food
+1   Mage Pyromancer or Alterationist or Enchanter
+2   Scouts horseback, Diviner and outriders
+    flaming hand sigil
+\end{verbatim}
+
+\ndx{Regis Galtoon} the IV \- Diviner (I know him?) speaks with
+Mordanith
+
+I speak with \ndx{Corian the Pyromancer} who learned from the Firelords
+\index{Jarek!Firelord}
+\index{Jarek Firelord}
+school,  \ndx{Numeste}. The braziers channel 500 pts at a time, up to
+2000 pts per hour,  1200 pts per day. Each additional brazier
+adds a non\-linear amount. The max  is 20 braziers which can
+provide 40000 pts at any one time. This link is  reversible from
+either side. From the master others can be destroyed. Others  can
+be linked to each other. Transport is possible in fire form. Each
+brazier is  warded against physical damage and a 20 pt ward
+sealed against magic and the  fey. It requires 3 days to cast A
+ritual of setting, ritual of opening, ritual of  linking, and a
+ritual of permanence. The adepts are thaumaturges, a ritual of
+closing should deactivate it. Firelord uses them as eyes and
+mouth.  His temple  is 400' on a side, octagonal in shape, and a
+pillar of flame 600' in the air  coming from it. Corian has 30
+books on his shelf, one is by Aicroven (sp?) of  the seven
+towers.
+\index{Aircroven of the Seven Towers}
+
+See high priest and ask for book from Corians shelf after
+advising that they be removed from his possession. I make a list
+of the books written in \ndx{Multath} and  get a list of the books
+\index{Runes!Multath} written in Hetasian.
+
+\Day{ 200  }{Mordanith}
+We head out. We are confronted by a small mob of
+humans. We bluff them with a bit of flash. They back off. We head
+on. We are stopped at the gate and we wait for the gates-men to find
+out about our status. We are then allowed to travel on.
+
+We exit the city. A poor thief tries to steal from us. The poor
+guy gets his clothes repulsed from him as Vartigan beheads him.
+
+We find a river bed. Morphus casts a major ritual; and then the
+falcon sees a group of people in the distance on the other side of
+the river bed. Vartigan and the two dogs go to investigate.
+
+Steam rises from the ground, Morphus does a three hour ritual.
+He brings up out of the ground a 400' long, 50' wide bridge with
+4' side walls. We see Regis's divination orb above us. We also see a
+summoned creature of Jarek's attack the orb. Both disappear.
+
+Arak and Mordanith both find the horses and return to camp. We
+leave the region abruptly and head north.
+
+\Day{ 200 }{Morphus}
+We start out at 5:00 am. The temple guards knock people out of the
+courtyard to clear our path.
+
+Morphus and the party come to a 20' wide gap with a stream at the
+bottom (10' down). While others decide what to do, Morphus dismounts
+and begins a spell to create a small bridge of stone. The results are
+a 50' wide rock bridge, 60 ft high at the center, 400' long, side
+walls 4' above bridge surface, shallow angle roughened surface. Regis
+long "sees" us and shields us from the firebird. I add a Rune of
+direction and a Rune of Penetration to my notes. (I called
+Sigmund \ndx{Nygold} during the casting. My apprentice?) 07 on my memory
+roll to remember Earth State.
+
+When the horses return I tell the Pinto that I can't have a mount
+that runs away. We mount up and ride. We stop and camp. I rub down
+horse. Night passes. When we wake we travel till sighting plateau and
+arrive at midday. Sigmund informs us that we have been traveling in
+old ocean bed. We come upon refugees and pass through them.
+
+\Day{ 201  }{Mordanith}
+We reach the plateau we were siting on.
+
+\Day{ 201 }{Morphus}
+Stop and camp, no training
+
+\Day{ 202 }{Mordanith}
+We pass some refugees.
+We make it to the valley and the peak. Mordanith sets a ward
+against scrying.
+
+\Day{ 202 }{Morphus}
+We sight men in red \& white livery, we ride toward ridge
+(north). We arrive at  final plateau at 400 in the afternoon.
+Mordanith sets divination ward. It gets set off.
+
+\Day{ 203 }{Mordanith}
+We wake up. Mordanith inspects the area of the ward that has
+been set off.
+
+Dullo changes into a perfect version of the bush he studied at
+the temple of hercules.
+
+He so perfectly mimicks the bush that he summons up some faery.
+Mordanith aids the summoning by granting it power. Morphus
+takes advantage of the this to grow three trees (Oak, Birch,
+Redwood) and uses them to produce a staff with three woods.
+
+Mordanith calls his father and tells him of his travels.
+Father sends two scrolls , a pouch with 10 platinum wires in it.
+A message from dad. A silver Holy Symbol, new clothes.
+
+Meanwhile Vartigan and CatBird go to see what is happening with a
+vulture circling above a point three miles away.
+
+They encounter and slay a priest feeling up a dead body. The
+priest had 2 pals whom they also slay. \dots
+As the second fireball impacts on the grove, Morphus absorbs its
+power and feeds it to the golden tree. Mordanith , the archer, and
+Vartigan ride towards the nearest plateau. We ride, we stop, we see a
+\ndx{firehawk} fly overhead. Mordanith casts a power shield over
+himself. Vartigan heads back towards the grove.
+
+\dots We succeed in getting a very good distance away. We ride
+desperately and then dismount. Mordanith figures that the
+\ndx{FireHawk} is between 88-60 minutes away.
+
+I fail my dismount but land nicely. When Mordanith's dignity has
+recovered He crosses the stream he starts casting at the river's
+edge.
+
+\begin{quote}
+The summon water spell went something like this : Take out amber
+Charge Amber, Fill the chalice with water and dust it with the
+amber. Roll \dots
+\end{quote}
+
+another gap in time \dots
+
+\Day{ 204 }{Morphus}
+Sunrise. There is minor interaction, Vartigan puts on full armor,
+sees black bird. Dullo uses many types of magic and transforms
+into bush.  I plant my three  twigs and prepare to pump Nature,
+Life, and Light  into my creation (and summon water). They flower
+(birch has golden  leaves) temperature lowers. Mordanith has
+opened a door to faery. I have planted in faery. I reclaim three
+twigs. Mage trance, setup,  wizardry. Hold tree magic back, a
+small spring  appears at each tree.  I link with Sigmund and ask
+him to wait. Sigmund accesses the power the Linking Ward of \ndx{Nureyev} was
+\index{Ward!Linking Ward of Nureyev}
+created with. Mordanith's father  casts a spell and the trees grow
+more rapidly. Dullo regains shape but leaves  most of the bush
+behind. A shooting star impacts, Sigmund channels to  me and  the
+excess to his power source (sink?), space enclosed with  rock. He
+deactivates, but I shape twice and bind it to the rock that
+Sigmund threw into  the Faery area. I change it into a
+crystalline  form. ( it glows and the trees don't want to be anywhere
+near the  fire energy.) 7 hours go by.
+
+Another fire ball approaches. I setup for a shape of fire to
+light. I do so but fail to channel it to the tree. Good thing,
+because it takes only a portion of a  potential overdose.
+
+All three trees now have the same growth amount. The stone is
+glowing  brighter, its form more compact. I have used a lot of
+spell points. I feel that I am currently at 15 spell points. I
+drop into mage trance and telepath Mordanith.  We will attempt to
+create a shaping ward to shield against future fireballs.
+Mordanith says he can't spare the power. I realize that I can't
+maintain for the 1.5 hours needed to complete the spell. I setup
+for a last ditch attempt to finish in minutes. I will need to
+summon water, shape and bind. I summon  water and shape the stone
+into an oblate spheroid. I address each tree in turn  and ask for
+help from its Dryad. I shape the power of faery and my own POW
+and create the staff, surrounding the stone at the crown. I fail
+a willpower roll  however. I finish my binding. I am one with all
+three trees and the staff  (physically one). I manage to separate
+the staff from the trees. I draw power  from outside and from
+Mordanith. I reach earth and trees and shape earth into the  old
+form of Morphus. The grove of trees stops growing, with the pool
+still off-center, and the bush in the center. Between the trees
+is an elvish pattern of  transfer.
+
+Morphus unconscious, Mordanith and CatBird put me on horse. I wake
+up on  ground, mount and ride. I have 1 POW and 3 HTK. The
+firebird fans a fire  towards us. We run into a gulley. I try to
+stop, but the horse goes forward. I  hang on for dear life,
+realize that the horse won't make it and let go. Magic  grasps
+me, my staff glows golden, I land softly on the other side. We follow
+the  gulley. We find Vartigan and he sees the cut on my horse. I
+had put something on the cuts. The horses leg is starting to
+swell. I dismount, spread my bedroll,  enter a mage trance and
+sleep. I wake up to see a \ndx{Dissenta}, hobble in back of him as he
+and Sigmund fight. When I get in back of him I attempt to stab
+him in the back with my staff, miss and as he turns to me, Jaws
+gets him. I get up and the Singing Warrior starts to attack me.
+( He has been hit by a Dissenta  dagger) I hobble to Mordanith,
+warn him, and slip into mage trance, sleep.  I go back to the
+horses, mount and mage trance and after a while I slip into
+healing trance. for the four days necessary for the trip back to
+the  city.
+
+\Day{208}{Mordanith}
+We travel away from the site of the gate disaster. We
+encounter an encampment of Dorean military. We try to convince
+the commander that we have a right to cross the bridge.
+
+Mordanith Aura bashes the commander and we meet a blonde red
+robed mage with an SCF of $ \approx 18$. The commander is called
+\ndx{Draego} the Padishah of \subndx{Taleth}{Padishah of}.
+
+We travel on.
+
+\Day{208}{Morphus }
+Three uneventful days go by (up to 2 POW). We get up and ride for
+an hour and  see the bridge and many tents in the distance. We
+reach the end of the bridge.  I come out of trance. We are
+greeted suspiciously. The leader is Dragon \-  Padishah of Taleth
+\- we talk with him.
+
+\Day{209}{Mordanith}
+\index{City!Taleth}
+We head into Taleth. A mage (Necromancer) jumps in front of us
+and threatens us. Mordanith powershields. Vartigan goes forward
+to slay the Necromancer in one slash. Mordanith attempts to flush
+the death magic from the body.
+
+As Mordanith flushes the Body of death magic the body releases
+three tendrils of dark power that lash out at Mordanith and does 7
+points HTK. Mordanith flushes the body of power and then
+cleanses himself of the Dark power, blinding CatBird, Morphus and
+the Singing Warrior.
+
+CatBird shifts into cat and ends up in a tent. She leads
+Mordanith to this tent and are attacked by an elderly human woman .
+Mordanith grapples and throws the old woman.
+We ride on and encounter the guard and then head in.
+
+Dullo gets locked into a small magic storage area. In trying to
+get out he critically unbinds himself. Mordanith critically saves
+and thus lives.
+
+{\large SHIT HAPPENS}
+
+We have seven days to recover and leave.
+
+\Day{ 209 }{Morphus}
+We have been riding through the refugees. Death/Dark is cast from
+a man in  tattered black. A hedge witch "curses" Dullo, binds him
+in air form. We start  moving. We enter the city. We enter the
+stable. We enter the mosque and are  brought to our quarters. I
+KI trance
+
+Dullo unbinds his spell, his self, and a good portion of the
+temple. All except Morphus and his possessions. \ndx{Dal Pan}
+\index{Dal Pan!Temple of!Taleth}
+intercedes and puts everything  together. All magic items are
+dead, all evil gone completely. Dullo is gone. All  power is gone
+from here. Vartigan is healed. The Patriarch gives us 7 days
+until we must leave the church. We are not kicked out of the kingdom
+of Taleth. We Decide to head to see the "Seer" we met back north
+and then make  plans to destroy \ndx{Jarek Firelord}. Morphus will KI
+trance for 7 days except to  speak to regis about his staff and
+priests about Dal Pan. 216  We go to the bazaar to buy Mordanith
+a Magic Cloak(cool) Star night hood to  morning on bottom rim. He
+gets it for the price of taking the weavers  apprentice with us.
+They charge Mordanith 20 gold pieces for a Ghurka. We have  trouble in
+town. We ride.
+
+\Day{ 216  }{Mordanith }
+We go shopping. As we travel out from the temple we are
+approached by one beggar with some semblance of power. Mordanith
+gives her 4 silver. We travel on to the bazaar and get some rope.
+We get two black scarves.
+
+We encounter and Talk to a Gaudily dressed will worker who claims
+to live in the tower of truth.
+
+We encounter a craft magicker of leather goods. (Illania of
+Kalasan ). (\ndx{Illania Kaldaer Farlane Karahal}).
+
+We meet a human Air mage of good skill. He offers an enchanted
+cloak in exchange for taking his apprentice with us. The
+apprentice bears the name Erithmaen. With Erithmaen we travel to
+the north to the small town that contains \ndx{Oleandar the Diviner}.
+We stay overnight and talk to her of prophecy and what may be
+done for the Grove of Morphus.
+
+\Day{ 216 }{Morphus}
+We go to the bazaar to buy Mordanith a Magic Cloak(cool) Star
+night hood to morning on bottom rim. He gets it for the price of
+taking the weavers apprentice with us. They charge Mordanith 20 GOLD
+for a Ghurka. We have trouble in town. We ride.
+
+\Day{ 217  }{Mordanith}
+We travel on. We encounter and pick up \ndx{Mala}, a slave
+refugee. She is very confused because she keeps referring to
+Erithmaen as a great one. We travel for 4 days.
+
+\Day{ 217 }{Morphus}
+We find a pond on a hill, stop and see an approaching figure
+singing in feudal Mearan. Gold robed, white rune carved staff,
+sword. Names himself \ndx{Yosdovan}(which in ancient Dal Shao means
+'white staff'). I name myself \ndx{Yosnergen} (Staff of three woods).
+Some of the Runes on his staff are \ndx{Bodak}. He  speaks modern Noble
+Dal Shao. He speaks cat. Tolnedran warding runes on  sheath.
+\index{runes!Tolnedran}
+Mentions Marden and the \ndx{Evocation Key}. He plane shifts to find
+info about CatBird. He says \ndx{Kalil} is dead. The grove will fall
+in two weeks and a day. I commune with trees.
+
+\Day{ 221  }{Mordanith}
+CatBird does a search for game.
+Brown and dark dead grasses with some blue and red flowers
+growing along a 15-20' wide river. Vartigan wants to bell the
+bird. Arak cleans the area and we camp. We discuss things with
+Vartigan. Vartigan and Mordanith exchange insults and slights.
+Vartigan leaves.
+
+\Day{ 221 }{Morphus}
+I wake up in Diviners village. A prophesy is mentioned about 2
+mages, the  waking of the dragon, man \& sword
+
+\Day{ 222 }{Morphus}
+We leave the town at 300 pm. We have trouble. Morphus casts a lightning
+shield and a Bolt of Damnation (Blow hole through attacker and house behind
+him and wall behind it\dots.) We ride at full speed for 4 hours. We stop and make
+camp. We bump into \ndx{Falstaff}.
+
+We travel for 9 days. We pass a trail, we see a cut in the mountains. Snow
+everywhere. On day 226 we split with Vartigan (see Morphus and Vartigan
+document). We prepare for a ritual of summoning. Nothing untoward happens
+but it gets very cold. We arrive at site.
+
+\Day{ 228  }{Mordanith}
+We perform the ritual of summoning for the \ndx{Vordak}. It
+comes and takes up its duties as hoped. The ritual ends with
+only CatBird, the Singing Warrior, and Mordanith in any fit shape to
+act. We head down the mountain to find shelter. As we are riding
+across an ice bridge Morphus links to the Grove while it is being
+destroyed. We are stunned as Morphus is lifted from his saddle by
+an explosion and a sheet of flame. His horse is killed. He is
+very close to a post toastie. Mordanith pours healing power into
+him while the others find a place to crash.
+
+CatBird finds a comfortable mage retreat. We train and study for five weeks.
+
+\Day{ 232 }{Morphus}
+Using a Greater Summoning we summon a guardian (from Faery) to shepherd the
+growth of the Threefold Wood.
+
+{\bf Qualities of an Ideal Guardian}
+Must be strong enough to guard the Trees, their seedlings,
+the Dryads, and the other future creatures of the Wood from
+enemies Material and Magic, from the  Powers of Death, Dark,
+Decay, and Fire.
+
+Must be capable of conversing with the inhabitants of
+the Wood.
+
+Must be skilled in the nurturing of Trees.
+
+Must be tolerant of visitors so long as they do not
+harm its charges.
+
+Must be patient and long lived. (in keeping with trees)
+
+Must consider my summoning as a great opportunity and
+take the job of Guardian more because of interest than the
+summoning.
+
+Should be able to draw its sustenance and power from Earth,
+Light, and Nature.
+
+Spell was very successful. A bronze dragon observes our actions
+\index{Dragon!Bronze}
+and a mage comes down to clean up our mess afterwards. I write
+down the patterns and all the words and movements. I open a
+mental gate to the grove just as it is  getting annihilated. I
+get seriously incinerated. I speak with the Vordak  while
+unconscious. See "While we rest in Stasis\dots" in Morphus and
+Vordak discussion document)
+
+\Day{ 264  }{Mordanith}
+
+\Day{ 270 }{Morphus}
+I cast three Life/alterations per day for 7 days and reduce my
+scarring  dramatically. I have woken up in a cabin. Some sort of
+mages rest stop. It has  funky controls. I make notes. I practice my
+language skills with anyone who  will talk with me. A caravan
+goes by. My companions invite them to stop for the  night and we
+will travel with them the next day. They say that they are
+followers of  \ndx{Dal Pan} journeying to \ndx{Kalentorah} (a major earth
+center) There a doctor treats me. A walker goes by. A creature of
+Death. They destroy it.
+
+\Day{ 274 }{Mordanith}
+CatBird and GoldenThroat travel in to
+a small town and buy (extort) a sled. They bargain viciously and
+CatBirds pays One Dorian gold for a good sled.
+
+\Day{ 275 }{Mordanith}
+We travel on with the caravan.
+
+\Day{ 276 }{Morphus}
+We set out with me asleep in a sled. I have a nightmare at some
+point. A \ndx{Ferthan bird}
+\index{Bird!Ferthan} with a \ndx{Dissenta} arrow in it. \ndx{Vordak}
+crucified. Amulet with open  scroll with quill on one side and a
+man in robes with sash and crown (marden).  (Old gold coin that
+the demon was in). I am in the wizard king's hall, the \ndx{Wizard
+King} is there in black, many dissenta with red sashes. In comes
+Vartigan with a jet Black scimitar, artifact class, in his hands. He
+tells me that he will take the \ndx{Dissenta} and I should take the wizard king.
+
+\Day{ 280  }{Mordanith}
+CatBird sees a gold dragon. \index{Dragon!Gold}
+
+\Day{283 }{Morphus}
+When I wake up it is very cold and my scarring is much better
+
+\Day{287 }{Morphus}
+Still travelling. The Mana level is increasing. We approach a
+circle of big large  stone pillars (12\-13) radius 200', 5 node
+line crossing, 4 are artificial in some  way. SCF PER, Detect
+Power, Identify Power
+
+This is the highest point where the earth line comes to the
+surface. It is a  place of earth Summonings, Earth elemental Lords.
+An entrance to \ndx{Kalentorah}. I  have spoken with the gold dragon
+\index{Dragon!Gold}
+here. The markings are wardings of the  Ring. The pilgrims
+perform a variant of the ritual of Summon EarthPower. The  last
+time I was here was the 5th year of the Dragon, 10th Decade of
+the  orange  time. By the reckoning of the people of the 5th
+outer plane. (\ndx{Kerestaen}).  Today's date is the 24th decade of the
+orange time. The three moons are  known as the Dragon, the Snake,
+and the Messenger. An event know as the  waking of the dragon
+occurred 14 days ago.
+
+\Day{287}{Morphus}
+We encounter a set of gates.
+
+\Day{ 288 }{Morphus}
+Sigmund carries me into the circle so that I can worship. I
+commune with earth (non\-magically) and my inner voice tells me
+to leave. The earth node is  stronger than the last time I was
+here. We descend to the gate. Someone who  speaks. Faer Han,
+Dorian, Golden Empire, cat, Dal Shao. We see a small  hairless
+grayed man in a white shift. We stay for a while and then
+Mordanith  says that we have to leave. Sigmund links with the
+ward  and the little guy goes nuts. He knows me and wants to
+help me. We leave. (Sigmund is a \ndx{Fortu})
+
+\Day{ 288  }{Mordanith}
+We make it to the bottom of the cliff.
+Mordanith does a simple foreseeing to determine the next safe
+location.
+
+Morphus finds a food cache. He drinks from it.
+We head left 2.3 miles, turn left to an oasis and continue on to
+the village.
+We ride into an oasis. There is a \ndx{Dissenta} buried near the oasis.
+We encounter Bel, a guide to the desert. He teaches us a few
+words of the language used in the desert.
+
+\begin{relate}
+	\item {\it Ya-D\={e}} means Hello.
+	\item {\it Ke-sh\={u}} means Welcome.
+	\item {\it Na-V\={e} ben Ku-sar-\={e}} means No Spika da Kusari.
+	\item {\it Kol-leer} means Water.
+	\item {\it Kaf-fa } means Food.
+	\item {\it Na Spa\={e} Dorean} We speak only Dorean.
+\end{relate}
+
+Mordanith does a simple foreseeing for Bel.
+
+\begin{quotation}
+He will be attacked by several men with long knives  underneath a
+large overhanging stone.
+\end{quotation}
+
+\Day{ 290  }{Mordanith }
+After traveling a good portion of the
+night we come within sight of a small village. On the way we
+encounter a dark robed individual that is able to dance a dance
+of {\it Comprehend Languages} that allows us to communicate.
+
+We go into the village and trade the villagers horses for
+mammalian ghurka-like beasts that resemble aircraft carriers
+{\it (\ndx{Lotas})} and others that walk upright {\it (\ndx{LaVitien})}.
+\index{Riding Animals!Lotas}
+\index{Riding Animals!LaVitien}
+
+We obtain 1 Ghurka, IIII Lotas, and II LaVitien.
+
+Mordanith performs a critical foreseeing.
+
+\begin{quotation}
+{\sc Foreseeing} What is the best path for us to take in order to
+meet with Nadi, a guide ? Travel South East along the path of
+living Snakes.
+\end{quotation}
+
+We stay overnight.
+
+\Day{ 291 }{Mordanith}
+We travel on that morning. We encounter and are
+attacked by some death and dark individuals in robes near a
+deserted building.
+
+We counter by drawing on a great deal of earth power from a
+nearby node. We are then attacked by a glowing, flying, godlet
+who opens fire at us with power that is barely stopped by the
+wards around Mordanith. Between Mordanith's wards and batteries
+we seem to be holding him but not much more. When we seem to be
+bothering him he appears to call for aid. Meanwhile, Sigmund, in
+stealth mode, moves slowly towards him and sneaks next to him.
+
+We are approached by a \ndx{Firehawk} that Erithmaen grants the
+courtesy of a severe downdraft that brings it into the earth
+stream (Giant Sand Blast) we have been directing at the Godlet.
+
+{\large BOOM ! }
+
+Sigmund backstabs the imp riding on the godlet's shoulder.
+Godlet smashes Sigmund to the ground as he gets badly burned by
+earth power flooding over him from the PASED. Power Amplification
+by the Stimulated Emission of Dirt. Godlet takes to the air as we
+extend our PASED to reach over 500'. We nick him in mid-air but
+he escapes.
+
+We travel on.
+
+\Day{ 292 }{Mordanith}
+Mordanith remembers that he is related to \ndx{Marius Two-Blade}.
+\ndx{Krell} - Leader of the Wizards council. Often appears as a
+high elf with the features of a wood elf.
+
+\Day{ 293  }{Mordanith}
+We have come to an Oasis. Small bushes and
+Blue sky. Mordanith places 50pt spell battery reinforced power shields on
+GoldenThroat, CatBird, Morphus(Power and Matter), and E-man (Power and Matter)
+and Mordanith.
+
+CatBird's Power Shield gives 195 pts of protection.
+Morphus's Matter Shield gives 160 pts of protection.
+All others are 120 pts of protection.
+Will last unaltered until 307.
+
+That evening Erithmaen casts a summoning and gets a glowing bird of red
+and yellow light.
+
+\Day{ 294 }{Mordanith }
+That morning Morphus succeeds in shapechanging into a bird of
+light. Morphus jumps out of the plane. Morphus barely avoids a
+\ndx{Dragon} of the Greater Dark. He also freaks out a greater
+Air Elemental.
+\index{Dragon!Greater Dark}
+
+{UNKNOWN }
+Mordanith contacts the mind of the creature dwelling below
+and it is so alien that Mordanith pulls back from the spell.
+In doing so he creates a telepathy ritual !
+
+\Day{ 304  }{Mordanith}
+We talk to Arak. We sleep. We talk to the
+Kwato (A wonderful, tension filled moment for all). We ask about the Black
+sword and the Dragon Sword. We find out somethings about the Black Sword.
+\index{Sword!Black}
+\index{Sword!Dragon}
+
+{\it AT SOME LATER DATE }
+Mordanith talks to the \ndx{Orange Mage} and asks for
+a Teleport Skyhook.
+
+We talk to the Orange Mage about are various Stories.
+We meet with the master healer. She is a half-Sindar, Half-Quenyan
+named \ndx{Anthea}. Her name is in full : Lady Anthea Whisper
+Star Aliendrill Thentyaren Moontago Ephasion, Student of the
+Crescent Moon, Master Healer of the Council of Marden.
+We go to an inn. We exchange the casting of a ward
+against fire on the innkeeper's wagon.
+
+{\it LATER}
+We head out the next morning to see the Mages guild.
+Morphus blows the testing crystal to Kingdom Come. We deal with
+the weapons master Triam Hellsplitter.
+CatBird gets 10 Shuriken and 10 Shaken. She also buys extra claws
+for Cheetah. Erithmean buys a whip. GoldenThroat gets a Bow and Arrows.
+Sigmund buys Boomerang and Chabats including a returning chabat with
+a gem in the hilt. Mordanith buys a magery neutral staff.
+
+{\it LATER}
+CatBird and Sigmund head out for training. They head to the place
+where they met the guild person before.
+There is a nude woman there. They enter the room they were in before. The
+young guide they met is still there. ``You are here! Now what would you like to
+study ?''. They talk  to him for awhile. ``CatBird, there is a blue marble
+somewhere on my person, I would like you to acquire it sometime in the next
+4 hours''. They practice with various tricky testing procedures such as
+``Identify the  mark''.
+
+They head back around 4 am and go to sleep for awhile. Sigmund practices
+using his zoom lenses. Somewhere starts singing the distance at sunup.
+Mordanith notices that the human morning-singer is late in his call that
+morning. Golden Throat and Morphus clean their blades. Morphus is convinced
+not to use his robe as a polishing cloth. Erithmaen is woken up by Mordanith
+attempting to telekinese his pillow. The group gets up and gets mobile. They
+head out to the weapon trainers.
+
+At the weapons trainer. The young female is there and says hi to Morphus.
+The trainer is a block of black muscle with mohawk type haircut. 6'2'' -
+6'3''. Obviously Ex-gladiator. \ndx{Bodrox} is his name. Sigmund is training
+in Chabat and axe. CatBird is training in knives, Grapple HTH. Erithmaen
+gets training
+in defense and whip. Mordanith trains in grappling, defense, and staff.
+CatBird asks about training for cats. Morphus trains in sword and staff.
+Golden Throat trains in Unarmed Combat and Staff (Golden Throat is ranked to
+the 3rd level in the Marden Fighters Guild in Greatsword and to the 4th level
+in longbow). The trainer mentions that he knows an elven gladiator he can talk
+to. CatBird changes into a cat in the weapons shop and discusses things
+with the trainer. The trainer thinks that CatBird needs to train with a beast
+handler.
+
+After training most of them head to the mage's guild in order to
+do research and train in Tolnedran runes. Morphus watches for babes.
+Morphus spots a babe. The rest of them try to cover for his
+indiscretions. Morphus woos while Sigmund keeps watch.
+Her: ``That must have been some time old man, before the cataclysm''.
+``I have heard some pick up lines in my time, and that was pretty good''.
+
+Erithmaen talks to the Orange Mage about what work he can do. One of the
+librarians leaves off some books with Erithmaen and asays that the master
+alterationist Karban has asking after Mordanith.
+
+CatBird attempts to shapechange into Cat. She KIF meditates and then
+attempts a change. She appears in a spherical bubble and then ``pop''
+she's a hawk.
+
+She sleeps.
+
+{\bf THE NEXT DAY}
+We meet with the Master Alterationist and a Frankish Priest
+and a Frankish Knight. There is also a locksmith with them and a ranger.
+They are on a quest to recover the keys of Heimdall.
+
+{\bf The Next Day}
+Notes on Thieves in Marden: Every once in a while the Kakahn will
+clean up the thieves. A really good thief avoids having a name that
+can be used as a divination handle.
+
+At CatBird's and Sigmund's training they get the usual greetings and hints on
+what information the guild rep will pay for.
+
+CatBird's thief friend Mario exchanges statue jokes with Sigmund.
+He details out what happened to Jessey when she was stealing from
+a temple. She got torched.
+
+A man walks up behind them. Dressed in a long black robe. The robe is magical.
+He has a sight avoider spell on him. A red sash , black wrapped sandals. He has
+rank markings of the red sash on his robe and a bronze ring on his
+left hand.
+
+He heads through a doorway into a well appointed room and gestures them to sit.
+``I am Minkuwar, I am the local representative of the Red Sash. I understand
+that you have had several run-ins with Jarek Firelord''.
+
+``Discretion was one of the reasons you were chosen. We are talking about
+50,000 Dorean Gold and the magic item of your choice. The target is the
+ambassador Keerlin of Jarek Firelord who is staying at the Sultan's palace. He
+has five crystals that contain information on how to link to the monastery fire
+pits.  You have one week to succeed''.
+
+``The Red Sash are contracted not to enter the Sultan's palace. We have
+detailed room layout and personal habits. The ambassador is a 8th rank mage
+and a skilled martial artist. Jarek has declared formal war against Marden.
+The crystals contain 300 Mage Units of power. We don't care about the
+ambassador's life or other casualties.
+
+Minkuwar gives details on how to contact him through the guild and he gives
+CatBird a scroll. He leaves.
+
+CatBird buys a contact in the palace. A buyer of silks and linens.
+
+The Sultan's Palace is 27 buildings , 2 stories on average. Most of the palace
+is barred to all but the upper crust of the nobility. The inner palace is open
+only to the Sultan and his family.
+
+Mario has a hissy fit about the task. Mario does know someone who has gotten in
+and out of the palace.
+
+Meanwhile Mordanith does a divination on the best investment for CatBird's
+money.
+
+\begin{quote}
+{\sc Foreseeing: } There is a merchant, Abu, leaving the city in two weeks.
+He will travel across the Phelosian plains, through Dau Shao, to Pentarra. He
+will be transporting Dorean Silks and Rugs (155 time there buying price here).
+It will tie up the funds for 12 months and he will return to Marden in two
+years. He is honest.
+ \end{quote}
+
+Mordanith sleeps and sigmund and CatBird come back. CatBird shuts the windows
+and wakes all of the party up. ``We have been given a most unusual
+commissions \dots
+
+\Day{ 307 }{Mordanith}
+
+CatBird goes to see Palis the diviner, recommended by the Mage Guild.
+
+He first tries some straight divining.
+
+``I see a bird, I see a green man, I see a world with two suns,
+I see seven towers''.
+
+He then pulls out a set of cards and he has CatBird touch them.
+She leaves no magical imprint.
+
+``The Wizard King will play a tremendous part in your future. I sense
+the prophecy but it is obscured, does it involve a Grey Elf ?''
+
+CatBird changes her shape in the room in front of him and then changes back.
+
+``You don't have a soul, at least not here''.
+
+``The answer lies in the past with the fall of the \ndx{Citadel of the Seven}.
+The answers can be found in the places from which the forms come. Especially that
+of the cat. And if you ever meet someone there tell them that you are Etra''.
+
+``I would discover more about you but it would involve a spell that I have not cast
+in many years. It is a dangerous spell for it places much stress on the space
+time fabric. I do not think it advisable at this time. I will have some time
+in six months. For a price I could be convinced to cast this spell. I would
+require the aid of the master conjurer.''
+
+``Where \ndx{Muriel} is is extremely unclear''.
+
+``You are you, not a demon, not a construct''.
+
+At that point the diviner gets a headache trying to figure it all out.
+
+That same day we travel as a crowd to the other side of the city to visit the
+caravaneer Abu Tanji. We give him money to buy new equipment, guards, and wagons.
+We advise Abu to buy silks and rugs.
+
+We travel to a decent area of town with Abu and deposit the money with a
+money lender. The money lender is named Devin. We are offered tea while
+Devin grovels. Devin has several slaves with Theridden abjurational crystals
+embedded. Devin tries to eavesdrop on a conversation between CatBird and
+Mordanith.
+
+{\it While in Marden the group does a variety of standard things
+each day: Morphus spends time doing book research, weapon training, and studying
+Hetasian with the singing warrior. He chases babes and practises speaking
+Cat and Bird with CatBird.
+
+Sigmund hangs out at the repossession guild and trains. Practises Ward Disarming
+and Grounding Power.
+
+CatBird hangs out at he repo guild and trains there. She studies Tolnidren and Weapons.
+Renews old Marden contacts and teaches the Singing Warrior to do Rap.
+
+Erithmaen spends his time talking with his old master and doing Weapons training
+as well as taking remedial Alteration classes. Lots of research and
+translation work.
+
+}
+
+That evening the Master Healer of Marden, the Lady Anthea, visits Mordanith.
+She asks why Mordanith travels with Kheldar . Mordanith explains the
+circumstances of their meeting and describes what links Morphus and the rest of
+the party together. In addition Mordanith describes all the prophecies
+and paths associated with Kheldar/Morphus.
+
+She decides not to interfere with Morphus/Kheldar. She aso answers some
+of Mordanith's questions about Kheldar   .
+
+He rises to challenges quickly, he believes he is capable of more than
+he actually is. He has little skill with Light. He is a sex fiend. He
+is a drunkard.
+
+Kheldar  has enemies among the Greens.
+
+Mordanithtalks with Morphusabout her visit. We then talk of other things.
+
+Morphus has no clue about any connection between Muriel, a Monastery and
+CatBird. He has not been able to come up with a copy of the story of the
+Black Rose. The Black Rose is a story supposedly about Kheldar  and Muriel.
+He digs out a Black Rose from his bag. His shell stretches and then relaxes.
+
+\Day{Later}{Mordanith}
+
+Morphus visits Palis the diviner to ask questions about a bronze ring he
+pulls out of his bag. The Diviner cracks his stone trying to take a peek
+at Morphus's future, against the good advice of Morphus.
+
+{\it Palis\ } ``The ring is the key to a place, it opens a specific
+door to a castle''
+
+{\it Morphus\ } `` Is that all, what would happen if I put the ring on my
+finger'' ?
+
+{\it Palis\ } ``You would have a ring on your finger ! I don't think you
+are supposed to use it like a magic item where you say a magic word and
+a fireball comes out !''
+
+Morphus puts the ring on and is immediately aware that it is the real ring.
+He senses a pattern and decides to talk with it.
+
+{\it Ring\ } ``Hello''
+
+{\it Morphus\ } ``Hi''
+
+{\it Ring\ } ``Hello''
+
+{\it Morphus\ } ``You know I don't know who you are in a concise sort of
+way. So are you my memories that I don't have ?''
+
+{\it Ring\ } ``No''
+
+{\it Morphus\ } ``Are you my soul ?''
+
+{\it Ring\ } ``No ! I am an artificial pattern of abjuration that contains
+your personality.''
+
+{\it Morphus\ } ``At what date were you inset, I have changed.''
+
+{\it Ring\ } ``That is true''.
+
+{\it Morphus\ } ``When'' ?
+
+{\it Ring\ } ``Right after your last meeting with the Gray Wanderers''.
+
+{\it Morphus\ } ``The one where we decided not to meet again?''
+
+{\it Ring\ } ``Yes.''
+
+{\it Morphus\ } ``Do you have the minutes of the meeting ?''
+
+The ring does but the date is 980, roughly 35 years after Morphus thought
+it was. The ring also discovers that it has been inactive longer than
+it expected. Kheldar    was worried that one of the Gray Wanderers was a traitor
+but he did not know which one it was. The ring and Morphus argue over who
+is the real Kheldar  ! The ring and Morphus argue over the locale of the Ice Castle. It
+doesn't have any mental coordinates.
+
+The ring is known to the Gray Wanderers and they may know when the ring
+is being used. They will definitely know when the ring is being used to
+open the Ice Castle.
+
+The ring notes that the only bound sentience that it knows that
+doesn't glow like a fucking neon sign is the sword MistSlicer, the
+Sword of Light. Guardians don't count because they are elementals.
+
+{\it Ring\ } ``Don't be afraid to use me except when Gray Wanderers
+are around.''
+
+{\it Palis\ } ``So what does it do ?''
+
+{\it Morphus\ } ``It has my personality but not my memories so
+it is annoying the hell out of me.''
+
+Morphus gives Palis the minutes of the last meeting of the Gray Wanderers.
+Kheldar and the Ice Wolf were breaking the contract. Kheldar had damaged the
+mind of someone the ring's personality was stored in. Morphus promised to
+tell Palis what really happened at the last meeting of the Gray Wanderers.
+
+{\it Ring } ``Once we get tothe Ice Castle you can figure out what 
+happened to you. It's where all of your items are. I know where the 
+Ice Castle is.
+
+{\it Palis\ }
+The ring is an artifact that the other Gray Wanderers know about and 
+they may know when it is being used.
+
+Mordanith contacts Uncle Tom's Habadashery and orders Silver and Silk thread from him.
+
+Later Morphus pulls the ring out again.
+He asks bout the \LWON . The ring
+tells him that it shapes power and mana. Kheldar    helped Nureyev design and
+implement the linking ward and Sigmund. Nureyev was a master Alterationist/
+Evocationist.
+
+Kheldar    did this when he was in his desperation phase. Of course, that was
+before the Icelord came. Kheldar    established certain portals and connections
+to allow him to access the Linking Ward. Sigmund was one, the Lizard Fortu was
+another. As far as we can determine, the Linking Ward is a distributed network.
+
+We also confirm that the \LWON contains the keys to
+the Bifrost.
+
+Mordanith boggles at the thought of CatBird walking the pattern.
+
+Morphus, Sigmund and Erithmaen analyze the ring's design.
+The ring is composed of :
+
+\begin{description}
+        \item An abjurational shaping pattern
+        \item An evocation pattern (offensive)
+        \item An Alteration shaping pattern
+        \item All linked to a single trigger spell
+\end{description}
+
+The pattern is similiar to that of Morphus and there is an
+active energy source.
+
+Mordanith picks up the ring and the ring attempts to zap him.
+
+Ring `` You let a bad guy touch it!''
+
+Morphus `` Are Elves bad guys ?''
+
+Ring ``Clearly !''
+
+The ring queries Morphus as to why he's running around with the Bad Guys.
+
+Morphus `` I am worried about the Bad Guys who want to destroy everything
+ and everyone.''
+
+Ring (In a scornful voice)  ``Ohhhhhhh, so your sleeping with them now to get
+at the other !''
+
+Morphus ``Think about who we are.''
+
+Ring ``Yeah ?''
+
+Morphus ``Well, we've never had any trouble sleeping with anybody !''
+
+Ring ``I hate it when you are right !''
+
+Ring (muttered) ``Never go to the elves for answers, cause they will tell
+        you, that's what I always say..''
+
+Morphus announces to all of the party that he had talked with Falstaff.
+He discovered that Kheldar  helped in the design of the \ndx{Ward of Dof
+Sifrin}.  Supposedly Falstaff and Kheldar  voluntarily warded their memories
+so that they could no longer use the \ndx{Gates of Chronos} and thus bypass
+the \ndx{Ward of Dof Sifrin}. Kheldar  and Falstaff learned how to mainpulate
+time from the \ndx{Karestaen}.
+
+Also, the Rainbow Order was started to give people purpose and sort of
+snowballed.
+
+Falstaff has told Morphus that Kay as well as Vartigan, Sigmund,
+Mordanith, and himself will face the Wizard King. Falstaff will
+pick us up on the way.
+
+Kay and Falstaff helped design the \LWON .
+They modified the notes that Nureyev wrote. After the notes were done,
+Kheldar helped create the linking ward \footnote{This was done without Falstaffs
+knowledge}. He also helped Nureyev design Sigmund during his desperation phase.
+The \LWON was based on neural patterns and may have become sentient. The ward
+allows the user to alter time flow without damaging the Ward of Dof Sifrin.
+There are no passwords to the \LWON, it decides who may link with it. There
+are 15 access ports to the \LWON, among them Sigmund and the Lizard Fortu.
+Nureyev made the Power Grid of Alkresh. The Bronze Ring that Morphus carries
+has a structure similiar to that of the \LWON.  According to the ring, the
+\LWON is alive , abjurational, and can shape and transfer power. The ring
+also has detailed design notes on Sigmund. \index{Sigmund!Design notes on}.
+
+The Citadel of the Seven fell 700 years ago. It was located in Dau
+Shao. There are currently many demons in the citadel. Someone was working on
+CatBird's style of shapechanging. Muriel was connected to the Tower of
+the Seven and studied under Petras, a master of conjuring and dreamwalking.
+She learned to DreamWalk  with Kheldar   .There is some sort of tragedy
+associated with their relationship. The tragedy was the inspiration
+for the play ``The Black Rose''. Nygold, Kheldar's apprentice, was
+one of the Seven. Acrivan wrote some books.
+
+There are many Kheldars in Marden history. There are records of 54
+different Kheldars being born, 38 are artists, priests, historians, etc.
+One priest led an unsuccessful  revolt against the sultan. There is also one
+gladiator. 5 mages from Tolnia, 8 mages from Marden, 3 mages from Dal Shao.
+One may have been born on a summer solstice. That one was involved in the
+overthrow of the Pentarate. Kheldar had many famous offspring.
+\ndx{Koral the Sunlord} was his daughter. \ndx{Corel the Enchanter King}
+was his son. He is also rumoured to have mated with the
+\ndx{Elf Queen of the Blue Sea}. Kheldar is also rumored to
+have grown up in the Garden district of Marden, raised by the Order
+of Pro Sensus. The \ndx{Order of Pro Sensus} was destroyed in a holy war.
+\index{Pro Sensus!Order of}
+
+The Gray Wanderers were aided by \ndx{Aurioch}. The GW were given an
+\ndx{Ice Castle} by Aurioch. \index{Castle!Ice} All GW were required
+to be swordsman. The charter of the GW was fairly basic: They were to
+preserve mankind, foment revolution, and ensure that nobody gains the
+an upper hand. After the Purge the GW agreed that they would not meet again
+for a long time and three of them would go underground. The \ndx{Storm Lord},
+the \ndx{Blade of Stone}, and \ndx{Tunbaxas}. Falstaff would adopt a high
+profile. \ndx{Tollen} was known as the \ndx{Gray One}.  \ndx{Ignatius} was the
+Gray Wanderer known as the \ndx{Ice Wolf}.
+
+At this point we have five months to Gazadlath.
+
+We next head out to get a map of the path to Dao Sho.  On the way Erithmaen
+breaks up a fight between two merchants by flexing his aura. We make it to
+the mages guild. The attendant, a mage floating 6 feet above the ground,
+is gracious enough to entertain CatBird while Mordanith and the Orange Mage
+talk. After Mordanith gets the name of an excellent mapmaker and CatBird
+has grown tired of stalking the mage we head on. CatBird spends her time
+herding the group.
+
+We finally head to the MapMaker's Shop in the Sages District. We encounter a
+processional of the Sultan. Many humans with weapons and some
+human mages pass by. We get to the mapmaker's district and we find the shop
+of Mapmaker \ndx{Aramar}.
+\index{Mapmaker!Aramar}
+
+According to Aramar, ``The \ndx{Citadel of the Seven} is found in the
+northeastern wastes just to the north of the city of \ndx{Kiev}.
+\index{Cities!Kiev} We get a map that shows how to get to Dau Shao as well as
+a map of the area around the Citadel of the Seven and the city of Kiev.
+Aramar the mapmaker promises to refund the cost of the maps (7 gold) if we
+back with information about the area. The map cases are enchanted for
+protection against water and physical damage. \index{DEBTS!Mapmaker in Marden}
+
+We next go to the animal area of the Bazaar. The Singing Warrior leads us to
+a dealer in exotic riding beasts. We settle on 12 Plains Cats. We promise the
+Pack leader that we will release them when we reach the plains of Dau Shao.
+We have the antiviolence bindings released. The other bindings are still in
+effect until we free the cats , at which time we will release the bindings.
+The dealer gives us the details of the bindings.
+
+We next purchase 50 skeins of silk and 2 skeins of silver thread. Erithmaen
+talks with his master about \ndx{Cloth of Steel}. One of the components is
+Giant Spider Silk. We pay for two suits of cloth armour from Erithmaen's
+master. One for the Singing Warrior and one for a robe for Morphus (Done up
+in heavy brocade). We buy enough material to make four additional suits of
+armour.
+
+CatBird buys some heavy leathers for the colder regions. Mordanith buys 5
+more silk robes. We buy dried fruits and vegetables.
+
+We then head to a tent seller and buy tents for the grup. Two 20' by 20'  by
+15' high with a controllled environment up to 130 degrees and down to -30
+degrees. Both have mana filters, compact into a small package and the
+materials are mana permeable. We also purchase two supply tents . 10' by 10'
+and weather proof. We get a large tent 40' by 30' for the cats. Erithmaen
+also purchases a mana lint collector.  It is a mirror with a crystal in the
+center. The crystal glows when it is full. Erithmaen knows how to clean it
+out.
+
+We pick up Arak. Anthea grants Mordanith the right to court her. Mordanith
+owes Anthea for the healing of Arak. \index{DEBTS!Anthea, Healer in
+Marden.}
+
+
+\Day{The Next Day}{Mordanith} We go to a sweet stand. \ndx{Tev} walks up in a
+long brown robe and a gray cloak. He looks like a wrinkled version of
+Charleston Heston.  He hastwo gaurdless knives.  He sits down to a stool next
+to Morphus. Morphus gives a signal to a higher initiate of the \ndx{Order of
+the Rainbow}. The term is ``\ndx{Thalasa}''( A place). Mordanith asks him his
+name. Tev asks ``Are you here to injure me in any fashion ?'' When we say no,
+he jumps away from the candy stand. He changes into a black cat. CatBird
+pursues him as Cheetah. Mordanith changes into a white panther. Morphus
+changes into a falcon. CatBird continues chasing him in Bird Form when he
+changes into a monkey.
+
+Tev leads us on a very  merry chase until Morphus summons us into a locale
+where we surround him. He agrees, under extreme coercion, to meet with
+CatBird and tell her want she wants to know.
+
+\Day{Next Day}{Mordanith} We go again to the upper markets of the Bazaar. We
+go to a thread shop. CatBird plays with the thread and exchanges insults with
+the merchant's imp familiar. Mordanith purchases 1000' of Star Sapphire thread.
+The merchant asks that we mention his name to those who deal in our travels.
+\index{PROMISES!Thread Merchant in Marden}
+
+We visit several bookshops and Mordanith buys 4 texts on Will Working.
+\index{Will Working!Books} We look for a book by ``\ndx{Bagar the
+Elder}'' . He is a master DreamWalker.  Bagar is mentioned in a book Morphus
+finds by Muriel.  The group next heads to a shop that sells healing
+magic.  The shop is run by a priestess of \ndx{Madras}.  Mordanith greets the
+priestess with the bow of an older acolyte to a younger acolyte of her
+church.
+
+We buy a potion from the Church of the \ndx{Law Giver}. \index{Law
+Giver!Church of} \index{Church!of the Law Giver} It restores an entity to its
+optimal state. An acolyte brings out a bowl of milk for CatBird. She also
+brings out Herbie the Plump White Furball. Herbie and CatBird carry on a
+learned discourse. We purchase 10 heal shape potions (5d/vial) and 2  vials
+of \ndx{poison antidote} (4d/vial). We get two bags of holding ( 40 lb
+limit).  They give us 6 gold tablets worth 100gp apiece.
+
+The group goes to the weaponers and orders a short sword and a polearm for
+Sigmund. Short sword is made of dwarven steel and modeled on a Tolnian
+thrusting blade. The polearm is 4' long, Dwarven steel. The weaponers sublet
+out their work to a dwarven smith.
+
+We then head to the Messengers temple to a holy book of the
+messenger for Sigmund. We get to the Messengers temple and the
+acolyte we meet at the temple tells
+us to come back later and talk to a high level priest. Morphus does some name
+dropping and shows him the Medallion we were given by the messenger. The
+acolyte pales and passes us on. We get the book.
+
+The group then heads over
+to a high elven shop.  Mordanith gets 200' of Elven Rope, a shaped necklace
+and a shaped cat toy.  The rope will only respond to high elven commands.
+Mordanith also picks up three bottles of Faer Han Air Essence Liquor.
+
+We then head to a shapechanger specialty shop.  The owner of the shop is a
+large, caustic, cigar smoker named Amak. Erithmaen and Morphus spend their
+time stariing at his wife. He loans us his nephew \ndx{Malki} as a guide.
+
+Meanwhile at the safe house: The guard brings books for Sigmund. \ndx{Daryl},
+the head of the local thieve's chapter, comes in and talks with Sigmund.
+Daryl offers to sell off Sigmunds statuary (27 carvings ). They discuss how
+to get Sigmund out of the city. According to Daryl, Jarek Firelord's
+ambassador is furious about the theft of his gems. Daryl expects that the
+ambassador will be terminated in a week or two. He also mentionmes that the
+\ndx{Red Sash} do not always give full warning . Daryl continues Sigmund's
+training.
+
+Mordanith finishes with the Wards on the BattleMasters Buildings. Full
+protection for dvination/damage up to 2,000 points of power. He
+also finishes the wards on the hotel keeper's cart (500 points of Fire
+Damage).
+
+Erithmaen gets the Singing Warriors suit of Cloth Armor ( Black on Black ?).
+
+That evening, CatBird goes to meet \ndx{Tev}. Tev says that they are born. By
+the time puberty comes the ``others'' have gone from the mearest dreams to
+reality. \ndx{Amak} the Shapechanger runs a neighborhood in Marden. ``Your
+mother was having an affair with a warrior of the Sunloard, he may have been
+your father. He came and took you to the monastery of Oriel. ''
+\index{Oriel!Monastery of} ``None of our family have lived to raise a family
+except those that have hidden the curse.'' ``It is because of that man
+and \ndx{Muriel} that we live as we do. Them and
+their sweeping arrogance.'' ``I know that Muriel bears us no ill will, bears
+you no ill will''. Muriel is a master of being there suddenly. ``When I have
+completed my task I will follow your mother''. ``Muriel shifts like the wind,
+I never know what form she will come in''.  CatBird comes back and describes
+the conversation.
+
+Morphus goes to see \ndx{Illia} the Battle Mage. \index{Battle Mage!Illia}
+They go to a play.  Morphus goes back to Illia's apartment and they have very
+rough sex all night long.  The next morning, Mordanith and CatBird are unable
+to get a hold of Morphus and have to go looking for him. The next four times
+Morphus goes on a date with her he gets introduced to much of the play crowd in
+Marden.  We head back to the inn and discover that the frankish priest and
+company are heading on despite our warnings and offers. Mordanith, annoyed,
+visits the temple of Corellan and talks with a priest of Labelas. The priest
+mentions that the church of Heimdell will be upset if Mordanith maims or kills
+the priest or paladin. Mordanith heads back to the inn and does a 450 point
+will working designed to prevent the priest and company from reaching their
+goal.
+
+\Day{The Next}{Mordanith}
+We go to see Knowledge. We are called through to the prayer meeting.  We go
+to the prayer meeting room. We see \ndx{Kevarian}, the Godlet who accosted us in
+the desert. Mordanith and he exchange nods. Knowledge is small old man with
+a square cut white beard and close cropped hair. We get in a line in order to
+see him. Death and Justice are also there.
+
+Justice looks at Mordanith and tells him not to interfere with the priest
+and paladin. Knowledge comes over to us. CatBird, in cat form, asks if she
+has a forth form. He says she will be able to use it soon {\it This area of
+the tape was noisy, does anyone have clearer answers ?}.  Mordanith asks
+knowledge how the Wizard King's wards were originally designed. Knowledge
+claims that we have someone here who already knows.
+
+We go to see Arak. He has already left. Mordanith gives Anthea the
+shaped necklace and she gives him permission to court her.
+
+Erithmaen sends flowers to Amak's wife. A week before we leave.
+
+The temple archivist of Aurioch promises to have a book ready on Kheldar when
+we come back from our trip.
+\ndx{Promises!Temple Archivist}
+
+The thieve's guild gives us a token to be used to retrieve Sigmund. It is a
+silver coin with an inset crystal.
+
+We get the riding cats. We can apply Horsemanship as a tertiary skill and
+Ghurkamanship as a secondary.
+
+At the safe house: The dumb guard gives Sigmund the holy book of the
+messenger. They party in his room.
+
+\Day{Next}{Mordanith}
+
+The monastery \ndx{Sevaston} \index{Monastery!Sevaston} . We head through the
+garden district.  WE see a person shifting while walking. We see a number of
+poor people being herded off the grass. We see a thief booking  along running
+from some guards. We start heading into some poorer regions of town.  we see
+more abandoned temples. We smell decay and the stench of magic is much thicker.
+We see the usual scavengers....  We enter a completely unpopulated area.
+CatBirds memory starts to stir.  \ndx{Malki} \index{Amak!His nephew Malki} says
+that we are in the monastery region.  This is the area that you go to when you
+want to avoid the guard. It has a fearsome reputation . Vampires and ghouls
+have been seen.
+
+We see the monastery. CatBird starts remembering. She remember standing at
+this gate with someone . She remembers playing in the yard. There
+was a monk in rainbow robes. We are interrupted by sound above us.
+There is old magic all around. This was the site of a magic battle.
+Mordanith offers Malki magical protection, he declines.
+
+There are four towers around a central courtyard with walls.
+The sun is starting to go down. There are twenty foot walls
+crumbled around us. There are gargoyles 30' above us on the
+gateway walls. We head through the gate. We are being watched
+by someone or something above us. Golden Throat forces the gate
+somewhat open. We head through. Mordanith senses nothing
+with a mind in the immediate area. We look around. The group
+scans through SCF, KIF, awareness, sounds. Cat Bird shifts into
+girl.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+CatBird walks into the courtyard, the children are playing. Some of the
+brothers are talking. Others are tending the garden. CatBird sees one of
+the brothers gesturing towards her.
+}
+\end{quotation}
+
+We see a fountain, broken, with a skeleton lying in the middle of it.
+CatBird heads toward the body. She stumbles on some rubble.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+He is blond, has a mustache, a stern expression, rainbow
+robes with a green hood .
+}
+\end{quotation}
+
+She flashes back to reality.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+She hears a shuriken thunk into a target. She sees Tev
+reach into his sleeve and sling another toward the target.
+He turns and looks at her. He treats her like an other orphan.
+}
+\end{quotation}
+
+\begin{quotation}
+{\sl {\bf Flashback}
+She is back in her room, she wakes to see Tev backed into a
+corner , sweating. He is staring at her. She is scared. He backs out of the
+room.
+}
+\end{quotation}
+
+She comes back. Morphus detects a darkness in the bodies around us.
+There are undead gathering around us. the are minor minds but hungry.
+There is a dead thing watching us from the roof. Two leve;ls down
+there is a large powerful darkness. Mordanith insists that we fly out.
+CatBird shifts and takes wing. Morphus shifts to bird. Hawk is shifted to
+a conjuring circle. There are stone walls, a skeletal monk with
+rainbow robes he is pinned to the desk by a \ndx{Dissenta} sword. There
+is a slimy hole above here.  One of the walls has a crack in it.
+
+CatBird shifts to bird, she Dreamwalks back to us. As we lift we see a
+dark humanoid jump out from a wall at Morphus. It crashes into the
+fountain with a sickening thud. Another ghoul is vaporized by a light
+blast from the morphus/hawk's eyes. (Morphus, Tie Fighter). We
+levitate above into the setting sun. We head toward the garden
+district. We come down in a garden.
+
+An elderly mage in green robes comes out and offers us tea while he
+listens to our apologies. We exchange pleasantries and bid each other
+adieu. We pay the kid off and send him on his way. CatBird explains what
+she saw and heard. The Singing Warrior notes that he heard a young girl playing
+ball but he looked again and she was gone.
+
+We are interrupted by a visitor. We are visited by Estalsis.
+He asks about the power we have used.  He tells of permits for
+hunting in the district. He asks about Sigmund. He leaves.
+
+Mordanith suggests ripping the top off the tower and then
+blasting down the hole with the sunbane. Morphus doesn't want to
+because he wants to get some info out of it. Alex can't stop laughing
+about our style of adventuring. Most parties either sneak in or blast
+the door down. But these guys rip the dungeon roof off and dump a
+piece of the sun  down it and nuke it off. Mordanith loads up with
+2,500 worth of batteries.
+
+We go looking for a permit at 9 am. at the mages guild. A bored mage
+clerk suggests that we go carefully. It is a high mana zone. We get a
+AAA permit. We cannot level an area greater the a two block radius
+around the monastery and no aftershocks are permitted. We visit the
+demonologist of the mage guild. We glean little of real use.
+
+{\sc Called shot dark with SunBane at close range -60 at range  -120}
+
+We go in loaded for bear. We take rickshaws to the monastery.
+The Singing Warrior jumps out of the rickshaw and gets some flares.
+It will stay burning for 30 seconds , 3 heartbeats before it goes off.
+
+We pull up outside the garden district. We hire a guide who looks
+like a reject from the cast of ``Mad Max ''. Festooned with swords
+and daggers. He demands two gold up front. He leads us through a
+tunnel and then up into a cellar and we are there. He is going to
+stay in the cellar and watch us. Only a ``living'' thing can follow
+us back through the tunnel. He preps for fallout.
+
+Mordanith blesses his holy symbol (Go with the glow). Morphus
+dusts off his carpet bag.
+
+We advance out of the cellar towards the monastery.
+
+A small blond girl comes from around the corner. Mordanith sees
+only a 20 point creature of power (Maybe a life elemental.)
+She drops the ball she is holding, a sword stabs into her from
+behind.
+
+We walk into the courtyard.
+
+We hear a voice calling from the building ahead of us.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+CatBird is practising sitting, leaning forward on her knees with
+her hands out in front of her, and thinks it is stupid. ``Christine, Talia,
+Maria, stronger, lower deeper''
+}
+\end{quotation}
+
+We hear that voice, and see the face at the window.
+
+Morphus Flashbacks by divining the history here.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+The Dissenta captain drives his sword through his
+chest...and then he breaks free of it. He was a mage at the time.
+}
+\end{quotation}
+
+CatBird remembers that she lived on the second floor.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+She is in her room. An old man with a bright sword over his
+shoulder picks her up. She can't make a sound. She hears a scream down the
+hall.
+}
+\end{quotation}
+
+We sees a black robed dissenta sigil on a decayed body.
+Morphus uses DarkSight.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+CatBird sees a man in black robes with a sword approaches up the
+stairs.  The man who is carrying her extends his hand and knocks him back down
+the stairs with a bolt of light. He then jumps out a window. A clawed
+hand reaches for him and misses... The fall with him under her.
+}
+\end{quotation}
+
+The black robed body is the she saw killed.
+
+We see a child's skeleton. We see a body with a scorch mark
+near its body and it is pinned to the wall with a Dissenta
+dagger.
+
+Christine is standing outside the room. Darkness starts to rise up
+around her and focusing on her. Blood starts to leak from the wall.
+Morphus hits it with light. The darkness retreats. It appears very
+ordered. Christine runs down the hall. CatBird remembers that she and
+Maria roomed together.
+
+CatBird hears ``Talia, come and play''. We all spot her. Morphus holds
+life toward her and she becomes firmer. The dark starts to rise.
+Mordanith forces it away with light. Morphus offers her some
+life power and starts feeding her power. She becomes firmer. CatBird talks to
+Christine. Mordanith fences with the dark. Darkness starts to rise
+through the first floor.
+
+We release the ghost.
+
+CatBird goes to look at her room.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+... Maria swinging her legs on the bed...Miriel...
+Maria and she are standing in their room. One of the elder
+teachers is there (CatBird can't remember his name and hopes she
+doesn't have to address him ) . He is with a woman. She is very
+pretty. She smile at CatBird and says ``hello child'' ''You don't seem
+like you belong here child, maybe you should leave''. The elder asks
+why she would say that. She says ``Nothing, she will know what I mean''.
+``We should leave now.''.She stalks out of the room.
+\index{Muriel!At Sevaston}
+}
+\end{quotation}
+
+\begin{quotation}
+{\sl {\bf Flashback}
+.. Wondering if Maria was coming with out as she ran..
+}
+\end{quotation}
+
+We are disturbed by the sound of an old man yelling up and saying
+``Hello, anybody there''. He runs when we yell back. Darkness begins
+to center on us and surround us. Morphus notes where four power
+anchors intercept the node lines under the monastery. Morphus
+attempts to check the condition of the wards of the monastery.
+
+\begin{quotation}
+{\sl {\bf Flashback}
+CatBird is five, and remembers a monk bringing her to a
+place with a mirror. Tev is next to the mirror and the monk says ``Are you sure
+?'' Tev hands her some jewelry and says that this is her soul and she should
+keep it by her. She does not remember having it at the Oriel monastery. The
+mirror was downstairs.
+}
+\end{quotation}
+
+Morphus starts connecting all the nodes. The dark recedes into the
+last anchor. Morphus fights mind to mind with the dark. Mordanith
+starts summoning power and runs for the tower door. Morphus continues
+to struggle with it. Morphus turns on the Wards. The wards contact
+Morphus and say that designated hostiles have been identified.
+Morphus authorizes countermeasures. Mordanith gets struck by a power
+arc. Mordanith is down 3 points of power and is down. He heads down
+the tower.
+
+Morphus keeps arguing with the ward which insists that its
+maintenance contract be re-evaluated. Extensive damage has been
+taken. Singing Warrior follows Mordanith down into the tower.
+The ring suggests
+looking in the library. The library says that all ``Divinatory
+functions are disabled''.Information sub-system comes online and
+says that ``The maintenance system is hosed''.
+
+Mordanith comes to a blank wall. The Singing Warrior comes running down.
+Morphus tells Mordanith how to open the secret doorway. There is a spiral
+stairway and Morphus talks Mordanith down the stairways. Mordanith
+preps the SunBane. The Singing Warrior runs back up the stairs.
+
+The ward asks permission to defend itself. Permission is granted but
+the protections are dead. Mordanith prepares to do a called shot
+darkness. He walks toward the room it is in. The dark abandons
+the anchor and floods toward Mordanith. Mordanith releases the
+SunBane and the little voice in Morphus's head goes ``EEK''. Mordanith is
+blown unconscious. The entire tower lights up. The Singing Warrior
+comes diving out of the tower smoking, blinking his eyes  and yelling
+``Too late !'' He then yells ``Shit'' and goes back in. He and CatBird
+go back down and pull Mordanith back out of the burning tower.
+Morphus tries to activate fire counter measures. The little voice in
+his head says to back off on that since ``Black hole, Wormhead will
+fuckin' try that for the rest of his life''
+  CatBird leads Singing Warrior out. CatBird starts to cough and the
+Singing Warrior picks
+up both of us. Morphus telekinetically wakes Mordanith and he uses the Fire
+Globes to put out some of the fire.
+
+{\sc Mordanith is 75\% wounded mental and physical.
+It was a 750 point creature. It was dematerialized.
+}
+
+Morphus runs down the tower and puts out the fire. And then comes up
+and heals Mordanith. Mordanith offers up a small libation of Air
+Essence Liquor.
+
+We go and take a look at the library. CatBird recognizes this place.
+The library is stripped.  Info system ``10 years , 2 months, 4 days ago I 
+got shut off''
+
+
+\Day{Somewhere in There}{Morphus}
+Morphus has an encounter withthe Weapon Mistress of Aurioch in the 
+Marden Temple.
+
+Morphus changes himself into a female and tries to seduce her. The 
+seduction failed but she did recomend that he do any of his forging 
+of the stone sword by visiting a month with Vulcan. When he is ready 
+to go to forge mountain she will give him a token. 
+
+Morphus remembers that Sigmund contains a Passkey binding for the 
+Wizard Kings Wards.
+
+The WK has soe control over Sgmund. His Tyrethi Security monitors can 
+tturn sigmund off if Sigmund violates his programming.
+
+\Day{Somewhere in There}{Sigmund}
+Daryl brings Sigmund a set of learning crystals for the Du Shoan language.
+
+\Day{Our Last Day}{Mordanith}
+Mor gets bananas on the way
+as we are heading out the gates we encounter the
+sight of a mage threatening a cart stuck across the gates with destruction.
+We shift the cart aside with telekinesis and move onward
+
+\Day{342}{Mordanith}
+A couple of days later Daryl shows up and says that the group is leaving so
+wait a little while and we will send you through. ``The heat should die off
+in a month or so.'' Sigmund's sculptures sold like hotcakes.
+They were sold as artistic creations of fire elementals.
+
+Sigmund waits with the conjurer for
+the signal to port out to us. While the are waiting the dumb guard
+comes up yelling that the ambassador is dead ad two dissenta were
+found dead with him in the garden of the palace. We were heading out
+when it happened. The ambassador was killed by an enchanted sword.
+One of the Dissenta had a broken back and the other had his throat cut.
+Arak shows up at the Safe House and says he wants to come back
+with Sigmund.
+
+Arak walks in. He is dressed in black leather armour with
+zig-zag lightning designs on it. A small silver medallion on one shoulder
+a brown cape, two large knives in his sash, a broadsword slung
+on his back, and a whip. Wearing a leather cap. A dragon tattoo
+over one ear.
+
+"It is time" the conjurer says. (Sigmund worries that his luggage
+will end up in the ethereal.) The conjurer turns and starts humming.
+A line of orange opens up vertically in front of the. They see CatBird and
+the crew waiting on the plains.
+
+The group turns and looks as Arak and Sigmund step though from thin air.
+There is a noisy greeting exchanged. Arak is astounded by Morphus'
+physique. The cats seem to like Sigmund and Arak. The beastmaster
+starts training the new members.
+
+Sigmund reads the note from the weapon makers. "You are the
+best student of stone I have ever had. The weapon has three forms.
+command 1 : The end of the weapon will become a spearpoint and
+add a 1.5' to the end of the weapon. The second command will shift
+the length to 2' , the third will cause all the blades to melt into the
+staff. The weapon is a 4' piece of wood with metal caps. It has a huge blade.
+The value of this item is approximately 1000 gp. I would appreciate
+it if you would consider yourself as owing me a favor.
+                                            Bodok ?????
+
+Sigmund reveals the interesting method of learning Dau Shao
+he has discovered. Arak warns against prolonged use of the crystals.
+
+\Day{Somewhere in there}{Mordanith}
+
+Erithmaen designs the Cloth Armor suits.
+
+Arak - Tunic; garnet, with obsidian trim.
+Leggings; obsidian.
+Possible Symbol of Arioch on it (raised weave). Possibly have Arak
+help with creation, add power.
+
+Erithmaeon - Robe; white opal.
+Very well woven, suitable for advertising. No "loose ends" to interfere
+with other weavings.
+
+Mordanith - Robe; star sapphire.
+Able to get along with Cloak.
+Very resistant to high power flows.
+Possibly have Mordanith help with creation, attune.
+
+Sigmund - Toga; smoky quartz.
+Very resistant to high levels of Earth magic. Able to survive the "
+Sigmund plane."
+
+CatBird - Tunic; tigereye, very silk-like, loose.
+Pants; dark citrine (brown), tougher weave, tighter. Both
+designed to "stretch" as she grows.
+
+I have listed them in order of difficulty, should probably be
+woven in roughly that order, so I will have higher skill levels for the
+trickier ones.
+
+\Day{343}{Mordanith}
+\Day{353}{Mordanith} We encounter a tower of power of dark and an enrollment
+attempt.
+
+\Day{356}{Mordanith} We come to a city.
+\Day{357}{Mordanith} We follow the road that arcs to the left rather than go
+into the city.
+
+\Day{359}{Mordanith} We enter a city.
+
+{\quote 
+Yesterday, Today, Tommorrow : Time has to exist so that you can 
+collect interest 
+}
+
+{\quote 
+In cold weather , don't lick the Fortu.
+}
+
+Goals for this City:
+
+Be memorable
+See CatBird's Sister
+Order a Klein Bottle.
+
+We order 4 Andalarn Pots to be ready for us in 5 months.
+
+\Day{InThe7Citadels}
+
+We encounter a construct of Nygold. We attack him and then dismiss 
+him. 
+
+We look outside, it is gray.
+
+We finally teleport out via the node line.
+
+A more powerful mind warps the node line towards himself.
+
+CatBird went elsewhere.
+
+We find a prisoner who said we were near the abyss (60 - 100 x 10^6) 
+points of power needed to destroy.
+
+Dragon asks if we are one of the Gray Wanderers.
+
+Sometime later:
+
+From jaw@tii.com Wed Dec 15 15:38:29 1993
+Date: Tue, 22 Jun 93 12:30:48 EDT
+From: Jim Wilson <jaw@tii.com>
+To: jmochel@world.std.com
+Subject: Not My Fault
+
+Well, I don't know how much of a synopsis of last night you have
+received by now but I just want to stress one thing.  It's not my fault.
+Actually everything seemed to go quite well, everyone worked closely 
+together as a team and we were far more effective than anyone (especially
+alex) expected.  The one exception was morphus who (as usual) blew his
+own brains to pieces without any impact whatsoever on the opponent, although
+for a change he did not significantly harm any of the party members.  In 
+general morphus was the only casualty and there was nothing we could have
+done to prevent that (no matter how much firepower we had).
+
+In any case here is a short summation of the results at the end of the night:
+o	Lythar is toast
+o	Paladin of Heimdal is dead but managed to get one good strike in -
+	at his request we managed to arrange that he did not kick it
+	while still in the Abyss.
+o	As a dieing act the paladin gave the sword "Deathbane" to Eoman
+	(of course catbird gave it to him in the first place but it's
+	the thought that counts)
+o	Singing warrior was completely uninjured (to my knowledge) and gave
+	an extremely good accounting of himself.
+o	Morphus conjured what he thought was the orb of enchantment to himself,
+	it ended up being an "Orb of Souls?" I don't know what that means
+	yet.
+o	Otherwise everything went fine and we are just a little tired.
+
+
+Mordanith visits home.
+
+Picks up 15 platinum wires, a warning not to adversely affect the 
+economy of the humans, and lots of advice !
+
+Note: We should send Mannean MacClair a cloak.
+he gives us essence of Sea Elf, essence of Sylvan Elf,
+Wei Leis and Sephus Goldstars names.
+
+
+\Day{The Next day} 
+Morphus unpegs himself from the demon and KIF shapechange to a female 
+Morphette.
+
+We design and create a ritual to recreate Kilsoranna. 
+
+As we travel we are approached by a Dao Shaon rider who says we are 
+not welcome in their city and we will be supplied with what we need. 
+He calls us Dark mages and Mordanith doesn't atomize him !
+
+We are attacked by an Owl Bear and confound it until it attacks a
+tree.
+
+Morphette gets her period and shaechanges back to Morphus.
+
+\Day{At the monastery of the Seeing Eye}
+
+We meet brother Griffin the Cnjourer and Sigmund talks with Griffin 
+about himself.
+
+We also talk with the Diviner about the prophecy.
+
+The Battle will occur in 28 days.
+
+Mordanith Picks up Wei Lei.
+
+
+Those who will be actively opposing us in the upcoming battle.
+
+Dissenta Captain Keshok. Directly intends to defeat us.
+along with 50 Dissenta (40 jr) (10 sr).
+
+Deathlord Palock.
+
+Wizard King.
+
+Death Knight Jason Senthane. He will be at the portal when Mordanith 
+brings down the wards.
+
+Nazgul (Padros). In charge on the fith power of the Citadel.
+
+The Ravers.
+
+Fortu Karketh is opposing you.
+
+\onecolumn
+
+\printindex
+\end{document}
+E 2
+I 1
+E 1

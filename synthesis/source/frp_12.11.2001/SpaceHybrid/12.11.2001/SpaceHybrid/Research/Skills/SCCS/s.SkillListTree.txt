@@ -1,0 +1,627 @@
+h52121
+s 00599/00000/00000
+d D 1.1 99/12/02 15:51:16 jmochel 2 1
+cC
+cK12074
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:51:12 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Skills/SkillListTree.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44947
+cPResearch/Skills/SkillListTree.txt
+cReb4786ae5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+ 
+
+     Physical Skills 
+          Frame Skills 
+               Animal handling 
+               Bricklaying 
+               Carrying 
+               Dogsledding 
+               Freight carrier 
+               Jogging 
+               Lifting 
+               Masonry 
+               Mountaineering 
+               Running 
+               SCUBA diving [Modern] 
+               Sports (usually coupled with other Physical skills, listed generally) 
+                    Badminton [Modern] 
+                    Baseball [Modern] 
+                    Basketball 
+                    Biathlon [Modern] 
+                    Decathlon 
+                    Football, American [Modern] 
+                    Golf [Modern] 
+                    Gymnastics 
+                    Handball 
+                    Heptathlon 
+                    Hockey, field [Modern] 
+                    Hockey, ice [Modern] 
+                    Ice skaking, figure [Modern] 
+                    Ice skating, racing [Modern] 
+                    Lacrosse 
+                    Polo [Modern] 
+                    Racquetball [Modern] 
+                    Rollerblading [Modern] 
+                    Rollerskating [Modern] 
+                    Rugby [Modern] 
+                    Skiing 
+                    Soccer (football) [Modern] 
+                    Squash [Modern] 
+                    Tennis 
+                    Ultimate Frisbee [Modern] 
+                    Volleyball [Modern] 
+                    Water polo 
+               Wilderness survival 
+               Stonemasonry 
+               Swimming 
+               Tanning 
+               Throwing 
+          Endurance Skills 
+               Breath Control 
+               Combat endurance 
+               Running endurance 
+               Sport endurance 
+               Wilderness survival 
+          Dexterity Skills 
+               Accupressure 
+               Accupuncture 
+               Acrobatics 
+               Animal handling 
+               Armorer 
+               Arrowsmith 
+               Barber 
+               Barrelmaking 
+               Bellfounder 
+               Bicycling [Modern] 
+               Blacksmithing 
+               Bowmaking 
+               Brassworker 
+               Calligraphy 
+               Candlemaking 
+               Carpentry 
+               Cartwright 
+               Charioteering 
+               Climbing 
+               Climbing claws 
+               Clockmaking 
+               Clothier 
+               Cobbling 
+               Combat driving [Modern] 
+               Contortion 
+               Cooking 
+               Coppersmithing 
+               Dancing 
+               Demolitions [Modern] 
+               Disguise 
+               Dodging 
+               Driving [Modern] 
+                    All-terrain vehicle [Modern] 
+                    Hovercraft, land [Future] 
+                    Hovercraft, water [Modern] 
+                    Motorcycle driving [Modern] 
+                    Passenger vehicle driving (cars) [Modern] 
+                    Rail vehicle [Modern] 
+                    Semi truck driving [Modern] 
+                    Small truck driving [Modern] 
+                    Snowmobile [Modern] 
+                    Tracked vehicle [Modern] 
+               Embroidery 
+               Engraving 
+               Escape 
+               Falconry 
+               Fine hand motor control 
+               Firebuilding 
+               Firefighting 
+               Fishing 
+               Fletcher 
+               Forgery 
+               Gemcutting 
+               Glassblowing 
+               Goldsmithing 
+               Golfing [Modern] 
+               Hatter 
+               Hiding 
+               Hunting 
+               Juggling 
+               Leatherworking 
+               Lockpicking 
+               Marblework 
+               Mechanics [Modern] 
+               Medicine, Western 
+               Mimicry 
+               Mining 
+               Mountaineering 
+               Musical instrument 
+                    Other instrument 
+                    Percussion instrument 
+                         Drums 
+                         Other percussion 
+                         Piano, harpsichord, glass harmonica, etc. 
+                    Reed instrument 
+                         Bassoon, oboe, serpent, etc. 
+                         Clarinet, etc. 
+                         Other reed 
+                    String instrument 
+                         Guitar, mandolin, lute, harp, etc. 
+                         Other string 
+                         Viola, violin, violincello, etc. 
+                    Wind or horn instrument 
+                         Flute, piccolo, recorder, etc. 
+                         Other wind/horn 
+                         Trombone 
+                         Trumpet, tuba, saxophone, etc. 
+               Nursing 
+               Painting, realist 
+               Parachuting [Modern] 
+               Paramedic [Modern] 
+               Pickpocket 
+               Plumbing 
+               Pottery 
+               Riding 
+                    Air-based (specify) 
+                    Land-based (specify) 
+                    Water-based (specify) 
+               Roping 
+               Sculpture 
+               Seamanship/Sailing 
+                    Rowing 
+                    Sailing 
+                         Double mast 
+                         Single mast 
+                         Triple mast 
+               Shadowing 
+               Silversmithing 
+               Singing 
+               Sleight of hand 
+               Space suit [Future] 
+               Sports 
+               Stealth 
+               Stonemasonry 
+               Tailoring 
+               Ventriloquism 
+               Veterinarian 
+               Weaving 
+               Zero Gravity Maneuvering [Modern/Future] 
+          Reaction Time Skills 
+               Combat initiative 
+               Fast draw 
+               Free fall/Break fall 
+               Speed load 
+               Sport initiative 
+          Combat Skills 
+               Defense 
+                    Aikido [Modern] 
+                    Body shields 
+                    Bucklers 
+                    Self-defense techniques (from anti-harrassment classes) 
+                    Standard shields 
+               Offense 
+                    Blowguns 
+                    Bolas 
+                    Boomerangs 
+                    Bows 
+                    Chakrams 
+                    Climbing claws 
+                    Clubs and maces 
+                    Crossbows 
+                    Darts 
+                    Energy blade [Future] 
+                    Energy haft [Future] 
+                    Energy whip [Future] 
+                    Full moons 
+                    Grenades 
+                    Gunsens 
+                    Hafted weapons 
+                    Kicking 
+                    Knives and daggers 
+                    Kusarigamas 
+                    Kyoketsu-shogis 
+                    Lariats 
+                    Machine guns 
+                    Martial Arts (fighting styles) 
+                         Aikido [modern] 
+                         Boxing, Bare-handed 
+                         Boxing, Gloved 
+                         Fencing 
+                         Jiu-jitsu 
+                         Karate 
+                         Kickboxing 
+                         Kung Fu 
+                         Ninjitsu 
+                         Pugilism 
+                         Savate 
+                         Tai chi 
+                         Wrestling 
+                    Nunchaku 
+                    One-handed swords 
+                    Pistols 
+                    Polearms 
+                    Punching 
+                    Ranged energy weapons [Future] 
+                    Ranged slug weapons [Future] 
+                    Rifles 
+                    Shaper blade [Future] 
+                    Shaper haft [Future] 
+                    Shaper pole [Future] 
+                    Shaper whip [Future] 
+                    Shotguns 
+                    Shuriken 
+                    Slings 
+                    Spears 
+                    Submachine guns 
+                    Sword shields 
+                    Tiger claws 
+                    Tonfa 
+                    Two-handed swords 
+                    Whips and flails 
+     Emotional Skills 
+          Frame Skills 
+               Acting 
+               Conversation 
+               Debate 
+               Etiquette 
+               Interrogation 
+               Intimidation 
+               News anchor 
+               Oration 
+               Social engineering 
+               Persuasion 
+               Trading 
+          Endurance Skills 
+               Conversation 
+               Debate 
+               Interrogation 
+               Leadership 
+          Dexterity Skills 
+               Acting 
+               Bard 
+               Barter 
+               Bribery 
+               Conversation 
+               Debate 
+               Diplomacy 
+               Etiquette 
+               Game show host 
+               Hypnotism 
+               Interrogation 
+               Leadership 
+               News anchor 
+               Oration 
+               Persuasion 
+               Seduction 
+               Social engineering 
+               Talk show host 
+               Trading 
+          Reaction Time Skills 
+               Conversation 
+               Diplomacy 
+               Interrogation 
+               Leadership 
+               Persuasion 
+               Social engineering 
+          Phobias (check out our Phobia Finder!) 
+               Acrophobia (high places) 
+               Agoraphobia (open spaces) 
+               Ailurophobia (cats) 
+               Androphobia (men) 
+               Astraphobia (lightning) 
+               Bathophobia (depths) 
+               Claustrophobia (enclosed places) 
+               Ecophobia (home) 
+               Gephyrophobia (crossing a bridge) 
+               Gynophobia (women) 
+               Hemophobia (blood) 
+               Hydrophobia (water) 
+               Lunaphobia (moon) 
+               Musophobia (mice) 
+               Nyctophobia (darkness) 
+               Ophidiophobia (snakes) 
+               Pyrophobia (fire) 
+               Solophobia (sun) 
+               Teratophobia (monsters) 
+               Thanatophobia (death) 
+               Triskaidekaphobia (the number 13) 
+     Mental Skills 
+          Frame Skills 
+               Accounting 
+               Administration 
+               Advertising 
+               Agriculture 
+               Agronomy 
+               Aircraft piloting [Modern] 
+                    Aircraft, heavy (747, B-52, etc.) [Modern] 
+                    Aircraft, medium [Modern] 
+                    Balloon [Modern] 
+                    Dirigible [Modern] 
+                    Aircraft, light (Cessna, Sopwith, etc.) [Modern] 
+                    Glider [Modern] 
+                    Helicopter, heavy (military, medical) [Modern] 
+                    Helicopter, light (civilian) [Modern] 
+                    Ultralight [Modern] 
+               Alchemy 
+               Animal husbandry 
+               Animal training 
+               Anthropology 
+                    Culture studies (specify) 
+                    Ethnography 
+                    Sociology 
+               Appraisal 
+               Archaeology 
+               Architecture 
+               Art appreciation 
+               Astrogation [Future] 
+               Astrology 
+               Astronomy 
+               Biology 
+                    Animal Biology 
+                    Biochemistry [Modern] 
+                    General Biology 
+                    Genetics [Modern] 
+                    Microbiology [Modern] 
+                    Neuroscience [Modern] 
+                    Physiology 
+                    Plant Biology (botany) 
+                    Zoology 
+               Chemistry 
+               Cinematography [Modern] 
+               Clerical work 
+               Climatology 
+               Computer Science 
+                    Artificial intelligence 
+                    Logic 
+                    Operating systems 
+                    Programming language theory 
+               Cooking 
+               Criminology 
+               Ecology 
+               Economics 
+               Engineering 
+                    Computer Engineering [Modern] 
+                    Electrical Engineering [Modern] 
+                    Mechanical Engineering 
+               Environmental Science 
+               Etiquette 
+               Gambling 
+                    Blackjack [Modern] 
+                    Poker [Modern] 
+               Gaming 
+                    Chess 
+                    Go 
+                    Roleplaying games [Modern] 
+               Geography 
+               Geology 
+               General education (high school equivalent) 
+               Healer (usually coupled with Physical:Dex and Mental:Tech skills, not listed here) 
+                    Accupressure 
+                    Accupuncture 
+                    First Aid [Modern] 
+                    Herbalism 
+               Heraldry 
+               History 
+                    Ancient history 
+                    Recent history 
+                    Specific regional history 
+                    Specific subject history 
+               Home electronics 
+               Horticulture 
+               Innkeeping 
+               Interior Design 
+               Languages (some real-world examples) 
+               Law 
+                    Civil law 
+                    Corporate law [Modern] 
+                    Criminal law 
+                    Tax law 
+               Library science 
+               Linguistics 
+               Mathematics 
+                    Calculus [Modern] 
+                    Cryptology 
+                    Discrete mathematics [Modern] 
+                    Game theory [Modern] 
+                    Geometry 
+                    Logic 
+                    Multivariable Calculus [Modern] 
+                    Non-Euclidean geometry [Modern] 
+                    Statistics [Modern] 
+                    Trigonometry 
+               Medicine, Western (usually coupled with Physical:Dex and Mental:Tech skills, listed generally) 
+                    Allergy 
+                    Cardiovascular Medicine 
+                    Chiropractic 
+                    Denistry 
+                    Endocrinology 
+                    Forensic Medicine 
+                    General Practice 
+                    Geriatric Medicine 
+                    Gynecology 
+                    Obstetric Medicine 
+                    Pediatric Medicine 
+                    Pharmacology 
+                    Podiatric Medicine 
+                    Surgical Medicine 
+                         Cardiovascular surgery 
+                         Neurosurgery 
+                    Trauma 
+               Meteorology 
+               Mining 
+               Music 
+                    Composition 
+                    Conducting 
+                    Ethnomusicology 
+               Genre training 
+                    Big band 
+                    Blues 
+                    Classical (individual periods) 
+                    Country 
+                    Disco 
+                    80s pop 
+                    Jazz 
+                    90s pop 
+                    Opera 
+                    Ragtime 
+                    60s pop 
+                    Music history 
+                    Music theory 
+                    Opera [Modern] 
+               Naturalist 
+               Navigation 
+               Nursing (usually coupled with Physical:Dex and Mental:Tech skills, listed generally) 
+                    General Practice 
+                    Geriatric Nurse 
+                    Gynecology 
+                    Obstetric Nurse 
+                    Pediatric Nurse 
+                    Surgical Nurse 
+                    Trauma 
+               Paramedic 
+               Philosophy (usually coupled with Mental:Dex skills, listed generally) 
+                    Ethics 
+                         Environmental ethics 
+                         Medical ethics 
+                    Logic 
+                    Metaphysics 
+                    Philosophy of religion 
+               Photography [Modern] 
+               Physics [Modern] (usually coupled with Mental:Dex skills, listed generally) 
+                    Astrophysics [Modern] 
+                    Biophysics [Modern] 
+                    Geophysics [Modern] 
+                    Modern physics [Modern] 
+                    Newtonian physics [Modern] 
+                    Nuclear physics [Modern] 
+                    Quantum physics [Modern] 
+               Plumbing 
+               Poisons 
+               Police training 
+               Politics (academic) 
+               Prospecting 
+               Psychology [Modern] (usually coupled with Mental:Dex skills, listed generally) 
+                    Clinical psychology [Modern] 
+                    Psychiatry [Modern] 
+                    Psychotherapy [Modern] 
+               Religion 
+               Research techniques 
+               Seamanship 
+                    Rowing 
+                    Sailing 
+               Security systems [Modern] 
+               Seismology 
+               Ship design/Shipbuilding 
+               Spacecraft piloting [Modern/Future] 
+                    Fighter [Future] 
+                    NASA vessel [Modern] 
+                    Shuttle [Future] 
+                    Spaceship, capital [Future] 
+                    Spaceship, small [Future] 
+               Tactics 
+               Theology 
+               Veterinarian 
+               Wilderness Survival 
+          Endurance Skills 
+               Accounting 
+               Economics 
+               Mathematics 
+               Philosophy 
+               Physics 
+          Dexterity Skills 
+               Astrology 
+               Cooking 
+               Detective training 
+               Gambling 
+               Lip reading 
+               Mathematics 
+               Medicine 
+               Metallurgy 
+               Nursing 
+               Philosophy 
+               Physics 
+               Psychology 
+               Teaching 
+               Writing arts 
+                    Fiction 
+                    Journalism 
+                    Poetry 
+          Reaction Time Skills 
+               Combat initiative 
+               Fast talk 
+          Technology Skills 
+               Alchemy 
+               Bookbinding 
+               Brewing 
+               Carpentry 
+               Cartography 
+               Clockmaking 
+               Computing 
+                    Computer hacking [Modern] 
+                    Computer operation [Modern] 
+                         General PC OS operation [Modern] 
+                              Text-only systems , by OS (command-line) [Modern] 
+                              Windowing systems , by OS (graphical) [Modern] 
+                         Graphics and presentation packages , by package [Modern] 
+                         Mainframe operation , by OS [Modern] 
+                         Spreadsheets , by package [Modern] 
+                         Word processing , by package [Modern] 
+                    Computer programming, by language [Modern] 
+                    Computer security [Modern] 
+               Demolitions [Modern] 
+               Drafting 
+               Electronics, simple [Modern] 
+               Mechanics [Modern] 
+               Medicine, Western 
+               Nursing 
+               Paramedic (Emergency Medical Technician) 
+               Photography [Modern] 
+               Reading and writing 
+               Seamanship 
+                    Rowing 
+                    Sailing 
+               Sewing 
+               Small plane piloting [Modern] 
+               Weaponsmithing 
+     Spiritual Skills 
+          Frame Skills 
+               Bard 
+               Feng Shui (Chinese art of house arrangement and decoration) 
+               Meditation 
+               Torture 
+          Endurance Skills 
+          Dexterity Skills 
+               Painting, non-realist 
+               Sculpture 
+               Writing arts 
+                    Fiction 
+                    Journalism 
+                    Poetry 
+          Reaction Time Skills 
+          Detection Skills 
+               Art appreciation 
+               Cinematography 
+               Detect lies 
+               Hearing 
+               Photography 
+               Smell 
+               Targeting 
+               Taste 
+               Touch 
+               Tracking 
+               Vision 
+E 2
+I 1
+E 1

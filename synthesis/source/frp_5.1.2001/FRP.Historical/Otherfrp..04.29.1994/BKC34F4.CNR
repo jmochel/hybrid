@@ -1,0 +1,84 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210161153.391;
+          10 Dec 91 16:12:18 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210161153.391;
+          10 Dec 91 16:12:06 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04632; Tue, 10 Dec 91 16:13:40 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA06384; Tue, 10 Dec 91 16:08:30 -0500
+Message-Id: <9112102108.AA06384@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2549; Tue, 10 Dec 91 16:08:31 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 2038;
+ Tue, 10 Dec 91 16:05:09 EST
+Date:         Tue, 10 Dec 1991 16:01:29 EST
+Reply-To: hades%coos.dartmouth.edu@uga.cc.uga.edu
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Hades <hades%COOS.DARTMOUTH.EDU@uga.cc.uga.edu>
+Subject:      Re: RPG: Difficulty Level (Proposed)
+X-To:         GMAST-L%UTCVM.bitnet@dartcms1.dartmouth.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <no.id>; from "1667D876%KSUVXB.KENT.EDU@DARTCMS1.DARTMOUTH.EDU"
+              at Dec 10, 91 2:58 pm
+
+-- Adam Dray writes --
+> This is what I'd call an inverse difficulty system.
+>
+> Character stats are numeric (rated 0 to some number).  Task difficulties are
+> rated in terms of DICE -- an easy task might be rated "1d6" and a hard task
+> might be rated "5d6".
+>
+> To resolve tasks, the dice described by the difficulty rating (e.g., 4d6) are
+> rolled and compared to the skill or attribute stat.
+>
+> If the roll is equal to or less than the stat, the roll succeeds.  If the
+> roll is more than the stat, the roll fails.
+>
+> I did some computer calculations to show you what the curves end up looking
+> like for various skill levels and difficulty ratings:
+
+    Ok, so this is good. I mean really good. I like the way it takes an old
+method of resolution and turns things around a little. It might take a
+little getting used to concept wise. I'm sure that most people could handle
+rolling under their skill or attirbute score, but the idea of rolling
+differnet numbers of dice for different levels of difficulty might need
+some mental adjusting too.
+
+> -------------------------------------------------
+> NOTE: This chart would never be used in play; it
+> is only here to show you the probability curves!
+> -------------------------------------------------
+> [Chart Sacrificed to the God of Bandwidth]
+
+    Well, I suppose the only question I have about this so far, is how do
+we control the increase of skills under this system? Would the player
+always roll the highest number of dice (6d6) to see if a skill or attribute
+increased? This is kind of a logical solution, since that is the only way
+to increase a score beyond 30 to the maximum of 36, but if 36 is no the
+maximum (still working for the open-ended system) then how do you decide
+what to roll for skill increase?
+
+>
+> Example:
+> Looking at part of the table below, we can predetermine what the player's
+> chances of success will be.  Using the "10" row and the "4d6" column, we see
+> that the player has about a 16% chance of accomplishing the task (marked with
+> *asterisks*). If the GM sets the difficulty level lower, say at 3d6, the
+> player's chances will increase (in this case, to 50%).
+>
+> Skill  -------- Difficulty Level -------
+> Lvl    1d6   2d6   3d6   4d6   5d6   6d6
+> ---- ----- ----- ----- ----- ----- -----
+>  9   100.0  88.9  49.5  15.8   3.2   0.4
+> 10   100.0  94.4  62.0  23.8   5.9   1.0
+> 11   100.0  97.2  73.6  33.5   9.8   2.0
+
+    Just picking a nit here, but the % values that you use are for a skill
+level of 9 and not 10...
+
+--
+-Hades  (Brian V. Hughes)   | "Impossible odds, mentally unbalanced foes,
+ Mac Database Administrator |  cramped quarters for a good punch-up. And
+ Cancer & Leukemia Group B  |  they say Iest has no night life!" - Cerebus
+ Dartmouth Medical School   | -Internet: hades@Coos.Dartmouth.Edu

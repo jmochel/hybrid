@@ -1,0 +1,423 @@
+\chapter{Skills}
+
+\section{Outline}
+This chapter discusses one of the most important parts of the system. 
+Skills form the basis of almost every action a player character 
+performs. It is discussed seperately from other subjects
+because it is a broad topic and one that will need to be referred to 
+many times.
+
+\section{Definitions}
+Proficiency in a skill is delineated by a range of 0-20. Initially 
+the character is given a set number of skill points which represent 
+the skills that can be gained as part of his educational background. 
+In addition the character can choose to become a member of a military 
+service, continue his education, go into an immediate job, or wander. 
+Each of these options will be covered in the appropriate section.
+
+\section{Skill Format}
+Skills have a simple format for describing them. The format described 
+here is fairly detailed but most players will not need to concern 
+themselves with most of the detail. 
+
+Most players will only need to know the Name, the SB, the RB, and the cost 
+of a skill.
+
+\begin{figure}[hb]
+\centering
+\caption{Skill Format}
+	\begin{tabular}{|l|} \hline
+	Name   \\
+	Type = (Basic Type, Implementation, Interaction, Focus) \\
+	Stat Basis \\
+	Rank Bonus \\
+	Cost \\
+	Begin Detail \\
+	\dots
+	End Detail \\
+	Typical Ease Factors \\ \hline
+    \end{tabular}
+\end{figure}
+
+\section{Skill Format Explanation}
+\begin{description}
+	\item[Name]
+	Self Explanatory
+	\item[Type]
+	The concept of type is detailed by a root word that describes the base
+	type and modifiers that describes the level of other interaction. So
+	typically a skill type would be Basic Type, Interaction, Implementation.
+	A simple Ballroom Dancing skill would have a Skill Type of
+	Art, Assisted, Non-Tool Based . See below for descriptions of the
+	categories.
+	\item[Stat Basis]
+	The stat , or combination of stats, that represents the majority of the
+	entities qualities utilized by that skill.
+	\item[Rank Bonus]
+	The additional gain in the success chance per rank in the skill. This can
+	usually be inferred from the skill type but it is usually explicitly
+	stated in order to save time and energy.
+	\item[Cost]
+	The experience point cost is the amount of experience points it takes to
+	buy a roll in a skill. Typically , it also can be inferred from the type
+	of the skill, but it is easier to have it explicitly listed.
+	\item[Typical Ease Factors]
+	This is just a list of things that characters might want to do with a
+	given skill, and what the typical Ease Factor is for that occurence.
+	\item[Basic Type]
+	The overall term that described the very broad area of
+	endeavour that the skill falls into. The basic type may be any of the 
+	following:
+	\begin{description}
+		\item[Art ]
+		An activity that has as its aim an affect upon the aesthetic senses of its
+		audience.
+		\item[Craft]
+		An activity that is intended to mix Art with the production of some
+		utilitarian object or effect.
+		\item[Science]
+		A series of disciplines intended to increase a codified body of
+		knowledge.
+		\item[Engineering]
+		Any area of endeavour that attempts to apply a codified body of
+		knowledge to the production of a desired physical effect.
+		\item[Technical Study]
+		An area of endeavour that is focused upon creating and maintaining the
+		end result of the corresponding engineering discipline
+		\item[Physical Discipline]
+		Any area of endeavour based on muscle memory training.
+		\item[Mental Discipline]
+		Any area of endeavour based on purely mental manipulations without 
+		reference ...\footnote{How in the world do I describe this one}
+		\end{description}
+		\item[Interaction]
+		This area describes the various modifications upon the broad themes
+		described above. Interaction may be any of the following:
+		\begin{description}
+			\item[Assisted]
+			Requires the work of one or more additional entity.
+			\item[Un-Assisted]
+			Requires only one entity.
+		\end{description}
+	\item[Implemetation]
+	Implementation describes any tools that need to be utilized in order 
+	to perform an action using the skill. It is based on the most common
+	usage of a skill. It can be any of the following.
+	\begin{description}
+		\item[Complex Tool Based]
+		Requires some additional tools of a moderately complex nature that have been
+		made especially for the skill.
+		\item[Simple Tool Based]
+		Requires some additional tools other than the entities mind or body. 
+		Computers and calculators are good examples.
+		\item[Non Tool Based]
+		Requires no additional tools other than the entities mind or body.
+	\end{description}
+	\item[Focus]
+	Focus is only associated with the sciences and it refers to whether 
+	the character studies the full science or specializes in some sub 
+	section of that science.
+	\begin{description}
+		\item[Non Directed]
+		Intended to add to a general body of knowledge
+		\item[Directed]
+		Intended to add to a specific area of a body of knowledge.
+	\end{description}
+\end{description}
+
+\section{Using Skills}
+\subsection{Making A Skill Roll}
+
+To make a skill roll involves determing the Ease Factor for the action
+you wish to perform, multiplying it by the Stat Basis of the applicable skill,
+and adding in the Rank Bonus * Rank. In other words, Acrobatics is based on
+a SB of PAG/2. For an average individual that is a 7. Assuming that the 
+character is attempting a simple forward roll the EF is 7. \(7*7 =
+49\%\). If the character is RNK 4 in the skill then 
+the overall chance to perform the action is \(49 + 4 * 5 = 69\%\).
+All skills have a rank bonus of 5%
+
+\subsection{Modifiers to Using Skills}
+Obviously, a great deal of the work involved in determining the
+percentage chance to perform a skill is dependent on the EF assigned to the
+action. Most modifiers to that action will be added or subtracted from
+the actions EF. There is a wide range of modifiers that can affect the EF 
+of the skill roll\footnote{Add rules about the players being told the 
+EF. The concept of faint unease enters here}.
+
+\subsubsection{Knowledge of the skill}
+A character may be attempting to use a skill he has no familiarity 
+with such as firing a pistol for the very first time. At such moments 
+the character is subject to modifiers to his action for his lack of 
+knowledge regarding that skill. Having no rank in a skill gives EF -4
+on the skill roll\footnote{Note that this is different from not 
+having familiarity with the specific tool you are dealing with}.
+
+\subsubsection{Setup}
+The term setup means to wait and prepare for a given action. Typically it
+takes as long to set up for the action as it does to perform the action itself.
+This normally adds double the normal rank bonus to the percentage chance
+to perform the skill as well as adding 2 to the EF of the action.
+
+% Include General Modifiers Table
+\input{tskill1.tex}
+
+\subsubsection{Physical Condition}
+The character may attempt to use skills when he is injured or 
+fatigued. Physical fatigue has the greates effect on physical actions 
+but can also effect mental activities.
+
+% Include Physical Condition Modifiers Table
+\input{tskill2.tex}
+
+\subsubsection{Mental Condition}
+Much as physical condition affects the physical actions, so too does 
+mental condition affect mental actions. Mental condition can also 
+affect the efficiency of physical actions.
+
+% Include Mental Condition Modifiers Table
+\input{tskill3.tex}
+
+\subsubsection{Movement}
+When performing a physical action the character may be affected by 
+his rate of movement or the rate of movemnt of some other object 
+\footnote{Place the movement modifier tables here}.
+
+\subsubsection{Environmental Conditions}
+This is a catchall area. Characters generally are at their best 
+performance in conditions similiar to the environment in which they 
+were raised. Any drastic modifications from that environement in 
+terms of light, gravity, humidity, etc\dots can lower the character's 
+performance.
+
+% Environmental Condition Modifiers
+\input{tskill4.tex}
+
+\subsection{Relations Among Skills}
+
+In situations where the character does not possess a skill that
+directly relates to the action to be performed the entity may choose to use
+a related skill.
+
+A typical example would be in using two different types of handguns. The
+character has rank 10 in Slug Pistol but is using a Stun Weapon. The stun
+weapon is fairly different from the Slug Pistol so the character can only
+apply 1/5 of his expertise in Slug Pistol to using this pistol. So he has
+an effective rank 2 in the weapon.
+
+As a rule the following relations apply.
+
+% Skill Relations Table
+\input{tskill5.tex}
+
+\subsection{Unfamiliar Tools}
+
+If the skill requires the use of tools and the tool that the character is
+utilizing is unfamiliar, then the action occurs at a -2 EF. This usually
+only happens if the differences between the version of the tool the
+character normally uses and the current one actual effect how it is
+used. A gun with a different mass than the entity is used to is
+unfamiliar, whereas a gun of the same model and same manufacturer is
+not. To eliminate this unfamiliarity modifier requires that the entity
+famaliarize himself with the tool with a EF -3 roll against the SB of 
+the skill with a gain of +0.5 EF. The character may never reduce the 
+unfamiliarity modifier below -0.5 unless he takes a skill in using 
+that tool.
+
+\section{Gaining Skills}
+
+There are two ways to gain skills. The first is to use a skill and have
+its usage give you enough experience points to buy a roll for that
+skill. The Second is to use general experience points to use in
+training for that skill.
+
+\section{Advancing in Skills}
+
+Advancement is always due to EPS. Character gains EPS. Spends EPS in order
+to get a roll in his skills. The cost of going up in a skill is listed with
+the skill.         
+
+\subsection{Experience Points Gain from usage.}
+
+Each character that sucessfully uses a non-ranked skill for the first 
+time ever or who uses that skill critically  gains 25 experience 
+points or EEPS. A character who uses a non-ranked skill successfully 
+or who critically fails in the non-ranked skill gains 15 experience 
+points. A character who succeeds normally in using a ranked skill gains
+10 EEPS \footnote{What is the rate of gain ?}.
+
+\subsection{Learning Rolls}
+
+The EF for making a Learning Roll in a skill is (10 - Rank) + (Training
+Mods). This is multiplied by the SB of the skill in order to get the
+percentage chance to go up in the skill. All the normal success table rolls
+apply.
+
+\subsection{Training in Skills}
+
+\begin{description}
+	\item[Training Alone]
+	Adds \(+.05 EF/10 hours\)
+	\item[Training under Teacher]
+	Adds \(+(.1 * Teachers Rank)/10 hours\)
+\end{description}
+
+Training in a skill has the directly modifies the Ease Factor of the 
+Learning roll for that skill.
+
+\section{Designing Skills}
+
+If a character wishes to learn a skill not supplied by the rule 
+system the GM must figure out the appropriate values for that skill. 
+Typically the GM will break the skill down into its basic type, 
+implementation, interaction, and focus. After doing so he will use 
+that breakdown to calculate its experience point cost.
+
+The first step is to determine the skill's stat basis. In order to do 
+so the GM must decide what action comprises 50\% or more of the activity
+the character undertakes when using that skill. Once he has determined 
+what that action is he must decide what stats are used by that activity.
+
+In general each skill is measured against the tertiary stats first , then the 
+secondary and finally the primary. MSE and PSE are never used as SB's.
+MVM based skills are self evident. 
+
+Most scientific or purely mental skills are FCS based.
+Lovemaking is PCA.
+
+For actions in which the character is non skilled the SB's are fairly
+simple. For perception rolls use GAW or MAW or PAW. For analysis rolls use
+MCA for entity manipulated situations. Use FCS for non-entity
+manipulated situations. For memory rolls roll MST. 
+
+If the most common action is a mental one but has a physical component then
+the skill is not based on FCS,MCA, or MDF alone.
+
+If the action is a physical skill but has a mental component then the
+skill is not based on ACC,PCA, or PDF alone.
+
+Skills that are not based on the tertiary stats are usually either MAW
+or PAW. Any skills where the most common action is a perception roll has
+to be based on one of the awareness stats. If the action could not be
+performed at all if the entities primary physical sense were removed
+then the skill is PAW based\footnote{Is the last really true}. 
+
+% Include Generic EFs for Actions
+\input{tskill6.tex}
+
+\subsection{Experience point costs}
+
+% Include Costs of Skill Components Tables
+\input{tskill7.tex}
+
+Note that the Appropriate Tech Index that the skill was learned at 
+must be recorded.\footnote{ How to handle upgrading skills for new TI's ?}
+
+\section{Filter Skills}
+
+There is a category of skills which affects the use of other skills 
+in an environment they were not designed to be used in. These skills 
+are called filter skills. A Filter skill is any skill that can allow 
+for the full expression of other skills in an environment other than 
+that for which those skills were designed for.
+
+Typical fiolter skills include the following: 0-g maneuver, Tech 
+Level Lore, Culture Lore, Horsemanship and other vehicular combat 
+skills, Armor Wearing, Computer operations.
+
+For situations in which the character is attempting to apply a skill 
+in a environment he is not familiar with and that skill \em{ must }
+interact with that environment, then the rank in the filter skill 
+becomes the upper limit on the effective rank of the skill being 
+used.
+
+\chapter{Skill Packages}
+
+\section{Introduction}
+What we have discussed up till now has been single skills.
+Quite often though it may be better to offer skill packages.
+A skill package is a collection of conceptually related 
+skills that have an experience point cost less than the total 
+cost of all the skills. All skills in a skill package may be 
+used normally with the exception that package skills have a lower
+Rank Bonus and an EF modifier of -2. 
+
+\section{Generation Cost}
+
+Something not previously discussed is the concept of generation 
+cost. Generation Cost is the cost in points it takes to raise a skill 
+or skill package to a given ranking during the character generation 
+process. The generation cost of single skills is always one. The 
+generation cost of each package varies with the number of skills 
+contained within it.
+
+\section{Experience Point Cost}
+
+Each skill package has an overall Experience point cost that is
+the result of adding the cost of the most expensive skill together
+with the cost of all the other skills times some factor. The actual value
+of this factor is used to name the type of skill package.
+
+\begin{itemize}
+	\item[Quarter Experience] \( 1 \times Most\ Expensive\ Skill + 1/4 \times All\ Others \)
+	All skills within this package have a RB = 2\%, EF = -2 
+	\item[Half Experience] \( 1 \times Most\ Expensive\ Skill + 1/2 \times All\ Others \)
+	All skills within this package have a RB = 3\%, EF = -2
+	\item[Three Quarter Experience] \( 1 \times Most\ Expensive\ Skill + 3/4 \times All\ Others \) 
+	All skills within this package have a RB = 4\%, EF = -2
+\end{itemize}
+
+\section{Making A Skill Roll}
+Skill rolls for skills within a package are made as normal with the appropriate 
+modifiers for the package skills.
+
+\section{Modifiers to Using Skills}
+All normal modifiers that apply to single skills apply to skills in a package.
+
+\section{Learning Rolls}
+The SB of the learning roll for a skill package is the least favorable 
+of all the SBs in the skills that make up the package. A skill package 
+suffers an additional EF -1 to Learning Rolls.
+
+\section{Modal Packages}
+
+Modal packages ( pronounced M\=o-dal ) are packages of Mental or Physical disciplines 
+that require concentration to maintain, leading to the exclusion of any action that
+requires skills outside the package. Many of the martial arts styles are modal
+packages.  Modal packages do not have the EF = -2 modifier that most packages do
+but they require a skill roll to enter and exit the mode of concentration.
+
+\section{Unfamiliar Tools}
+All normal modifiers for unfamiliar tools apply to package skills.
+
+\section{Gaining Skills}
+Skill Packages may only be gained by training in the package from
+someone who already has that skill package. \footnote{ Include rules for 
+actually designing skill packages. }
+
+\section{Experience Points Gain from usage.}
+
+All normal experience point gains from usage apply to skills in a skill
+package with the exception that a character may never get eeps for
+being non-ranked in a skill package\footnote{Put in notes on buying 
+out skills from a package}. 
+
+A typical skill package would be :
+
+\begin{verbatim}
+Aikido (3/4 package)
+
+	Dodging In       (SB=PAG)
+	Dodging Away     (SB=PAG)
+    Grapple	         (SB=PCA)
+    Balance Throw    (SB=PCA)
+    Joint Throw      (SB=PCA)
+
+	Cost ( 50 + 3/4(50+50+50+50) ) = 200
+    Generation Cost = 1+3/4(1+1+1+1) = 4
+
+	Skill PAckage SB: PAG|PCA
+	RB=4%
+
+\end{verbatim}
+

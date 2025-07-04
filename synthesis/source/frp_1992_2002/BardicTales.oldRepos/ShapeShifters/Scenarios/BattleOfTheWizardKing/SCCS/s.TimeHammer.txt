@@ -1,0 +1,56 @@
+h18222
+s 00029/00000/00000
+d D 1.1 00/02/04 15:13:01 jmochel 2 1
+cK38536
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:12:58 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/Scenarios/BattleOfTheWizardKing/TimeHammer.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07854
+cPShapeShifters/Scenarios/BattleOfTheWizardKing/TimeHammer.txt
+cR84cc63725cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Time Hammer Research Rolls
+
+Lib Research Rolls		19,24,96
+
+Ancestral Memory Rolls	Med:23, SDA:16, ANcestral Memory Roll:27
+
+Avisibility of Using Runes: 95,85,51
+
+Wizardry Rolls:
+	Will Working: 24
+    Shaping: 14
+    Warding: 63
+    Light: 03
+
+SDA Rolls in the Temple: 02, 16
+
+W: Wild Magic (Unranked) INF:31, FIF:20, Meditation(rank 8.0)
+	Meditation Roll:57
+    W:Wild Magic Roll:13
+
+Ritual Design ( Rank 3, INF 31) roll:15
+Analyse Wards (rank 3.2, INF 31, + one analyse ward spell designed)
+	roll: 03
+
+
+
+
+
+
+E 2
+I 1
+E 1

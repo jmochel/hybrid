@@ -1,0 +1,37 @@
+h04656
+s 00009/00000/00000
+d D 1.1 99/12/02 15:46:30 jmochel 2 1
+cC
+cK32342
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:46:27 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ilg
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44919
+cPDoc/PlayersGuide/pg.ilg
+cReb47857f5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+This is makeindex, portable version 2.12 [26-May-1993] (MiKTeX 1.09).
+Scanning input file pg.idx....
+!! Input index error (file = pg.idx, line = 60):
+   -- Illegal null field.
+done (110 entries accepted, 1 rejected).
+Sorting entries....done (764 comparisons).
+Generating output file pg.ind....done (173 lines written, 0 warnings).
+Output written in pg.ind.
+Transcript written in pg.ilg.
+E 2
+I 1
+E 1

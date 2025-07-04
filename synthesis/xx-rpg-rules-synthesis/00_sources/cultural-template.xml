@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Book of the XXXX</title>
+        <author>
+            <orgname>Jim Mochel</orgname>
+            <address>
+                <city>Bellingham, MA</city>
+                <street>7 Walter Morse Rd</street>
+                <postcode>02019</postcode>
+                <country>USA</country>
+            </address>
+            <email>jmochel@saltations.org</email>
+        </author>
+    </info>
+    <chapter xml:id="xxx-overview">
+        <title>Overview</title>
+        <subtitle>xxx</subtitle>
+        <para>...</para>
+        <formalpara>
+            <title>Population</title>
+            <para></para>
+        </formalpara>
+    </chapter>
+    <chapter xml:id="xxx-culture-setting">
+        <title>Physical Environment</title>
+        <para>The physical environment (climate, landscape, resources) 
+            shapes cultural practices, such as food, clothing, and housing.</para>
+        <section xml:id="xxx-culture-setting-geography">
+            <title>Geography</title>
+            <para>..</para>
+        </section>
+        <section xml:id="xxx-culture-setting-climate">
+            <title>Climate</title>
+            <para>..</para>
+            <formalpara>
+                <title>Winter</title>
+                <para>Averages temp range. Snowfall. </para>
+            </formalpara>
+            <formalpara>
+                <title>Spring</title>
+                <para>Averages temp range. Precipation..</para>
+            </formalpara>
+            <formalpara>
+                <title>Summer</title>
+                <para>Averages temp range. Precipation..</para>
+            </formalpara>
+            <formalpara>
+                <title>Autumn</title>
+                <para>Averages temp range. Precipation..</para>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-resources">
+            <title>Resources</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para>.
+                </para>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-flora-wild-trees">
+            <title>Wild Trees</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para>.</para>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-flora-cultivated-trees">
+            <title>Cultivated Trees</title>
+            <para>..</para>
+            <formalpara>
+                <title>Apple</title>
+                <para>
+                    Apples were grown for eating, cooking, and fermenting into cider (a staple beverage).
+                    Seeds and saplings were brought by Merova settlers and quickly became a staple of agriculture.
+                </para>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-flora-wild-plants">
+            <title>Wild Plants</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para/>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-flora-cultivated-plants">
+            <title>Cultivated Plants</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para/>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-wild-fauna">
+            <title>Wild Fauna</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para/>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-cultivated-fauna">
+            <title>Cultivated Fauna</title>
+            <para>..</para>
+            <formalpara>
+                <title>XXX</title>
+                <para/>
+            </formalpara>
+        </section>
+        <section xml:id="xxx-culture-setting-esoterica">
+            <title>Esoterica</title>
+            <para>Magical resources are ....</para>
+            <para>..</para>
+        </section>
+        <section xml:id="xxx-culture-setting-external-influences">
+            <title>External Influences</title>
+            <blockquote><para>In a rapidly changing world, the most dangerous words are 'We've always done it this way.'</para></blockquote>
+            <para>..</para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-history">
+        <title>XXX History</title>
+        <para>A culture’s history, including colonization, wars, migrations, and revolutions, impacts its identity and traditions..</para>
+        <section xml:id="xxx-culture-history-prehistory">
+            <title>XXX Pre History</title>
+            <para/>
+        </section>
+        <section xml:id="xxx-culture-history-meme">
+            <title>XXX Historical Memes</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-history-zzz3">
+            <title>XXX ZZZ</title>
+            <para/>
+        </section>
+        <section xml:id="xxx-culture-history-zzz4">
+            <title>XXX ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-beliefs-and-values">
+        <title>XXX Beliefs and Values</title>
+        <para>
+            The foundational principles and ideas that a culture holds to be true or important.
+            Examples: Concepts of morality, spirituality, freedom, equality, or honor.
+        </para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>Who are this culture’s historic heroes and villains (e.g.,
+                        Washington and Lincoln in the U.S.; Henry V in England, etc.)?</para>
+                </listitem>
+                <listitem>
+                    <para>Why are they admired as heroes/villains and what does this say about
+                        the people who admire them?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>ZZZ</title>
+            <para/>
+        </section>
+        <section>
+            <title>Memes</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-language-and-communication">
+        <title>Language and Communication</title>
+        <para>The primary means of communication, including spoken and written languages, dialects, and non-verbal cues (gestures, body language, etc.).
+            Language often reflects cultural priorities (e.g., Inuit languages have multiple words for snow).</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>How many languages are there? </para>
+                </listitem>
+                <listitem>
+                    <para>Which ones are related (e.g., the Romance languages) and why? </para>
+                </listitem>
+                <listitem>
+                    <para>Which languages borrow words or phrases from other languages?  </para>
+                </listitem>
+                <listitem>
+                    <para>Which is likely to be most widely spoken?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there a “trade language” that facilitates commerce between countries that don’t speak the same tongue? </para>
+                </listitem>
+                <listitem>
+                    <para>Is there a “universal language” spoken by educated or noble persons, as Latin was in the Middle Ages?</para>
+                </listitem>
+                <listitem>
+                    <para>What languages are spoken?, </para>
+                </listitem>
+                <listitem>
+                    <para>How is the language recorded?, </para>
+                </listitem>
+                <listitem>
+                    <para>How are messages and information passed along?, </para>
+                </listitem>
+                <listitem>
+                    <para>How is history recorded?,</para>
+                </listitem>
+                <listitem>
+                    <para>is the society literate or illiterate?, </para>
+                </listitem>
+                <listitem>
+                    <para>Who provides education?, </para>
+                </listitem>
+                <listitem>
+                    <para>Who receives education?, </para>
+                </listitem>
+                <listitem>
+                    <para>What is the "technology" involved in long distance communication?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there a “trade language” that facilitates commerce between countries that don’t speak the same tongue?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there a “universal language” spoken by educated or noble persons, as Latin was in the Middle Ages?</para>
+                </listitem>
+                <listitem>
+                    <para>Are some or all people bilingual?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there a common second language many people know?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there “secret” languages or codes known only by priests, soldiers, wizards, guild members, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>Why were they developed?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the variations in speech patterns, syntax, and slang from one social class to another?</para>
+                </listitem>
+                <listitem>
+                    <para>One occupation to another?</para>
+                </listitem>
+                <listitem>
+                    <para>One region to another?</para>
+                </listitem>
+                <listitem>
+                    <para>One race to another?</para>
+                </listitem>
+                <listitem>
+                    <para>What areas do local slang phrases come out of?</para>
+                </listitem>
+                <listitem>
+                    <para>What kinds of colorful turns of phrase do people use?</para>
+                </listitem>
+                <listitem>
+                    <para>What things in this culture would their language have many specific words for ?</para>
+                </listitem>
+                <listitem>
+                    <para>What do the people in this culture consider important enough to name?</para>
+                </listitem>
+                <listitem>
+                    <para>What does this say about the way they look at the world?</para>
+                </listitem>
+                <listitem>
+                    <para>What things would the people of this culture not have a name for, or have one word that covers numerous variations?</para>
+                </listitem>
+                <listitem>
+                    <para>What do they consider too unimportant to name?</para>
+                </listitem>
+                <listitem>
+                    <para>How does this affect the way they see the world?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there words that must never be spoken except at particular times, in ceremonies, or under particular circumstances?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there words that must not be spoken in polite company?</para>
+                </listitem>
+                <listitem>
+                    <para>Do these words differ from culture to culture or race to race?</para>
+                </listitem>
+                <listitem>
+                    <para>What will people swear a binding oath by?</para>
+                </listitem>
+                <listitem>
+                    <para>What do people use as curse words?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-language-and-communication-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-social-norms-and-behaviors">
+        <title>XXX Social Structures and Behaviors</title>
+        <para>The social mores and unwritten rules that govern acceptable behavior in a society.
+            Examples: Greetings, table manners, dress codes, and etiquette.</para>
+        <para>...</para>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-general-traditions-and-rituals">
+            <title>General Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-birth-social-traditions-rituals-and-expectations">
+            <title>Childbirth Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-childhood-social-traditions-rituals-and-expectations">
+            <title>Childhood Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-young-adult-social-traditions-rituals-and-expectations">
+            <title>Young Adult Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-adulthood-social-traditions-rituals-and-expectations">
+            <title>Adulthood Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-old-age-social-traditions-rituals-and-expectations">
+            <title>Old Age Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+        <section xml:id="xxx-culture-social-norms-and-behaviors-death-social-traditions-rituals-and-expectations">
+            <title>Death Social Traditions, Rituals, Expectations</title>
+            <para>...</para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-social-organization">
+        <title>XXX Social Organization</title>
+        <para>How a culture structures relationships and roles in society.
+            Includes family dynamics, gender roles, class systems, and community hierarchies</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>What are the rules? </para>
+                </listitem>
+                <listitem>
+                    <para>Who made the rules?</para>
+                </listitem>
+                <listitem>
+                    <para>How does society get its rules?</para>
+                </listitem>
+                <listitem>
+                    <para>How is justice dispensed?</para>
+                </listitem>
+                <listitem>
+                    <para>How are criminals apprehended?</para>
+                </listitem>
+                <listitem>
+                    <para>What punishments are used?</para>
+                </listitem>
+                <listitem>
+                    <para>Who are the rulers?</para>
+                </listitem>
+                <listitem>
+                    <para>How has the presence of magic and magicians affected law and
+                        government?</para>
+                </listitem>
+                <listitem>
+                    <para>Are wizards barred from certain kinds of government jobs or
+                        offices?</para>
+                </listitem>
+                <listitem>
+                    <para>Do some government jobs require that their holder be a wizard?</para>
+                </listitem>
+                <listitem>
+                    <para>What forms are used in neighboring countries, and why are they the same or
+                        different?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What services does the government or head of state provide: schools, wells,
+                        courts, an army to protect people from the Vikings?</para>
+                </listitem>
+                <listitem>
+                    <para>What services are provided locally or privately?</para>
+                </listitem>
+                <listitem>
+                    <para>Who has the right to levy taxes?</para>
+                </listitem>
+                <listitem>
+                    <para>For what?</para>
+                </listitem>
+                <listitem>
+                    <para>On what or whom?</para>
+                </listitem>
+                <listitem>
+                    <para>Can taxes be paid in kind, or do certain things require money?</para>
+                </listitem>
+                <listitem>
+                    <para>Who provides support services for the head of state?</para>
+                </listitem>
+                <listitem>
+                    <para>What are they called: King’s Counselors, Cabinet Ministers, Secretary of
+                        State, Good Ol’ Girls?</para>
+                </listitem>
+                <listitem>
+                    <para>Are they hereditary offices, civil servants, appointees, military,
+                        elected?</para>
+                </listitem>
+                <listitem>
+                    <para>Is the relative power of a country or ruler usually measured by the size of
+                        its army, the number and ability of its wizards, or the amount of money/trade
+                        flowing through it?</para>
+                </listitem>
+                <listitem>
+                    <para>Who is considered a citizen, with the rights and privileges
+                        thereof?</para>
+                </listitem>
+                <listitem>
+                    <para>What are those rights and privileges (voting, protection from thieves, the
+                        right to a hearing in Rome) and what responsibilities go along with them (jury
+                        duty, providing funds or knights for the lord’s army?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there certain classes of people (wizards, foreigners, children,
+                        peasants, women) who have fewer legal rights or less recourse than full
+                        citizens?</para>
+                </listitem>
+                <listitem>
+                    <para>Why?</para>
+                </listitem>
+                <listitem>
+                    <para>Are they considered mentally or morally deficient, a danger to the state, or
+                        is there some other rationale?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the easiest/most common ways to advance in status — amass more
+                        money, marry well, get the ruler’s eye, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>How much resistance is there to someone advancing in social status?</para>
+                </listitem>
+                <listitem>
+                    <para>Who will take over running the government if the current head of state is
+                        incapacitated?</para>
+                </listitem>
+                <listitem>
+                    <para>How is this determined?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there an heir apparent (either actual or political)?</para>
+                </listitem>
+                <listitem>
+                    <para>What happens if the heir is a minor?</para>
+                </listitem>
+                <listitem>
+                    <para>Who gives orders?</para>
+                </listitem>
+                <listitem>
+                    <para>How are they picked?</para>
+                </listitem>
+                <listitem>
+                    <para>Who is responsible for protecting the head of state?</para>
+                </listitem>
+                <listitem>
+                    <para>His personal guard, the Secret Service, an elite group affiliated with the
+                        regular military?</para>
+                </listitem>
+                <listitem>
+                    <para>What safeguards have they got against assassins, poisoning, direct assault,
+                        magical attack?</para>
+                </listitem>
+                <listitem>
+                    <para>Who can give orders (to military, to tax collectors, to servants, to
+                        ordinary folks on the street)?</para>
+                </listitem>
+                <listitem>
+                    <para>How are such people chosen?</para>
+                </listitem>
+                <listitem>
+                    <para>Who is responsible for coinage: the ruler, local barons, someone else
+                        (merchant guilds)?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there generally acceptable standards?</para>
+                </listitem>
+                <listitem>
+                    <para>How easy/common is counterfeiting?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there an organized system of education?</para>
+                </listitem>
+                <listitem>
+                    <para>If so, who provides it: government, churches, private persons?</para>
+                </listitem>
+                <listitem>
+                    <para>How is it supported?</para>
+                </listitem>
+                <listitem>
+                    <para>Who can call up men for an army, and how?</para>
+                </listitem>
+                <listitem>
+                    <para>Does the ruler ask the nobility for men, who in turn draft their peasants,
+                        or can the ruler go straight to the bottom?</para>
+                </listitem>
+                <listitem>
+                    <para>How much formal spying and intelligence gathering is normally done by
+                        governments?</para>
+                </listitem>
+                <listitem>
+                    <para>The military?</para>
+                </listitem>
+                <listitem>
+                    <para>Merchant guilds and wealthy tradesmen?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there actual organizations, or is spying done by diplomats and/or
+                        freelance agents?</para>
+                </listitem>
+                <listitem>
+                    <para>How effective is it currently?</para>
+                </listitem>
+                <listitem>
+                    <para>Do relations between countries depend mainly on the relations between the
+                        heads of state, or can two rulers hate each other’s guts without being able to
+                        just declare war and drag their countries into it?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there times when people are expected to fast, or feast (e.g., before
+                        solstice, after the birth of a child, during Lent or Ramadan, after the death of
+                        a ruler, etc.)?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there occasions when the ruler is expected to provide a celebration or
+                        spectacle for the people to enjoy, (e.g., the Roman gladiatorial
+                        games)?</para>
+                </listitem>
+                <listitem>
+                    <para>How much influence do “special interest groups” such as merchants, wizards,
+                        or various religions, have on court politics?</para>
+                </listitem>
+                <listitem>
+                    <para>How do they exercise their influence — indirectly (by talking nobility or
+                        council members into taking their sides) or directly (by bribery, coercion,
+                        having their own representatives on the council)?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there any shaky political alliances between disparate groups?</para>
+                </listitem>
+                <listitem>
+                    <para>Why were they formed?</para>
+                </listitem>
+                <listitem>
+                    <para>How long is it likely to be before they fall apart?</para>
+                </listitem>
+                <listitem>
+                    <para>When they do, what will the effects be?</para>
+                </listitem>
+                <listitem>
+                    <para>What ancient rivalries and hatreds still affect current attitudes and
+                        political positions (examples: Scottish and Welsh separatist groups; Catholics
+                        vs. Protestants vs. Muslims; dwarves vs. elves; Hatfields vs. McCoys)?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-social-organization-power">
+            <title>Power</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>What is the source of power?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What groups have power and who are the players?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What groups have the most political power?</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-government-type">
+            <title>Type of Government</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>What is the basic style of government: feudal, aristocratic, oligarchy,
+                        absolute ruler, democracy, what?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who are the rulers?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How are the rulers chosen?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How is power passed on to the next leaders?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What is the basic style of rule</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who will take over running the moeity if the current ruler is incapacitated?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How is this determined?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Is there an heir apparent (either actual or political)?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What happens if the heir is a minor?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who gives orders?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How are they picked?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who is responsible for protecting the ruler?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What safeguards have they got against assassins, poisoning, direct assault, magical attack?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What impact on the above does Magic or Magic Users have?</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-government-executive-power">
+            <title>Executive Power</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>Who or what is the recognized head of your government?</para>
+                    </listitem>
+                    <listitem>
+                        <para>King, President, Council of Regents, Office of Bureaucratic Muckety-Mucks, High Priestess, Supreme Warchief, guy with the biggest stick, guy with the biggest brain?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Is the executive office a figurehead office, or one with real power?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How does your leader delegate power?</para>
+                    </listitem>
+                    <listitem>
+                        <para>To whom does your leader willingly listen and from whom does he willingly take advice? Why?</para>
+                    </listitem>
+                    <listitem>
+                        <para>To whom does your leader unwillingly listen, and from whom does he unwillingly take advice? Why?</para>
+                    </listitem>
+                    <listitem>
+                        <para>If your leader is a figurehead, who holds the real power?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How did that person or group get real power?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How does he or the group hold it?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who opposes your leader? Why?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How deep does the power of your head of government go?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Is he responsible for the gathering and ordering of armies? </para>
+                    </listitem>
+                    <listitem>
+                        <para>The making of laws? </para>
+                    </listitem>
+                    <listitem>
+                        <para>The dispensing of justice to individuals? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Can he go into individual homes and claim property or people? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Is he above the law, or must he, too, obey it?</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-legislative-power">
+            <title>Legislative Power</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>Who makes the laws in your culture?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How did this person or group get the job?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How do they deal with old laws?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Do they have a guiding principle around which they must form their laws (a constitution, a religious book, a historic epic poem, a collection of antiquated laws)?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Are there areas or subjects about which they may not make laws (religion, sex, pregnancy and childbirth, composition of additives to coffee, availability of booze)?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Are the laws required to represent everyone, or do separate laws apply to separate people?</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-judicial-power">
+            <title>Judicial Power</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>What sort of justice system prevails in your culture?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Who judges presumed criminals? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Are there checks and balances–a mandated government or private representative for the accused, a jury of peers? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Or is guilt presumed with the judge holding the role of judge and jury, and the accused forced to speak for himself and prove his own case?</para>
+                    </listitem>
+                    <listitem>
+                        <para>How are sentences given?</para>
+                    </listitem>
+                    <listitem>
+                        <para> Is there a code with fixed sentences for certain crimes? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Are there restrictions in the form of sentencing, or can the judge require the convicted criminal to run in circles naked in the town square because he thinks it would be funny?    </para>
+                    </listitem>
+                    <listitem>
+                        <para>Who carries out sentences? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Is there a prison system, a series of work farms, a mandatory slavery system, automatic execution? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Are there guards, bailiffs, slave markets, overseers? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Is the family of a criminal subject to the same punishment as the criminal? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Can, for example, an entire family be sold into slavery to pay off one man’s unpaid debts? Can an entire extended family be executed because of a “contagion” theory of criminality, where anyone who is related to a criminal is guilty of being a criminal, too</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-surreptitious-power">
+            <title>Surreptitious Power</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para>What surreptitious power-holders does your culture have? </para>
+                    </listitem>
+                    <listitem>
+                        <para>How do they work? </para>
+                    </listitem>
+                    <listitem>
+                        <para>Who can be members?</para>
+                    </listitem>
+                    <listitem>
+                        <para>What are their goals?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Are they government insiders, or do they influence the government through secret manipulation from outside, or are their goals unrelated to their own government and their interests turned elsewhere?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Are they basically good—people working to overthrow corruption and slavery and a regime filled with torture and injustice?</para>
+                    </listitem>
+                    <listitem>
+                        <para>Are they basically evil—working to acquire ever more power at the expense of people already less powerful? </para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-social-organization-zzz3">
+            <title>ZZZ</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-clothing">
+        <title>XXX Clothing</title>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>What do people wear?</para>
+                </listitem>
+                <listitem>
+                    <para>How expensive is it?</para>
+                </listitem>
+                <listitem>
+                    <para>Can the material be produced locally, or must some or all of it be
+                        imported?</para>
+                </listitem>
+                <listitem>
+                    <para>Are weapons a standard part of dress for any/all segments of
+                        society?</para>
+                </listitem>
+
+                <listitem>
+                    <para>Are certain clothes customary for certain occupations — e.g., military
+                        uniforms, judges robes/wigs, sports teams uniforms, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>How much variation is allowed — could a scholar wear a day-glow green
+                        robe as long as the cut is right, or would that be too much?</para>
+                </listitem>
+                <listitem>
+                    <para>Is it color or style that is most important?</para>
+                </listitem>
+
+                <listitem>
+                    <para>Are the dyes for certain colors — purple, indigo, etc. — rare, making
+                        cloth of that color more expensive and/or reserved for nobility or other
+                        high-status people?</para>
+                </listitem>
+
+                <listitem>
+                    <para>Are there sumptuary laws, defining who can wear what?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the penalties?</para>
+                </listitem>
+                <listitem>
+                    <para>Who decides when changes are needed?</para>
+                </listitem>
+                <listitem>
+                    <para>How often are they adjusted?</para>
+                </listitem>
+
+                <listitem>
+                    <para>Are there fashions/fads in things besides clothes — styles of carriages,
+                        furniture, etc.?</para>
+                </listitem>
+
+                <listitem>
+                    <para>Are there fashions/fads in magic — are herbal spells “in” this year and
+                        ritual spells “out,” or vice versa?</para>
+                </listitem>
+
+                <listitem>
+                    <para>How many changes of clothes can a normal person afford?</para>
+                </listitem>
+                <listitem>
+                    <para>A noble person?</para>
+                </listitem>
+                <listitem>
+                    <para>A peasant?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What is the current fashion in clothes?</para>
+                </listitem>
+                <listitem>
+                    <para>Hats?</para>
+                </listitem>
+                <listitem>
+                    <para>Jewelry?</para>
+                </listitem>
+                <listitem>
+                    <para>Shoes?</para>
+                </listitem>
+                <listitem>
+                    <para>Do such fashions differ for humans/non-humans?</para>
+                </listitem>
+                <listitem>
+                    <para>Between city and country?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What materials are appropriate to the climate?</para>
+                </listitem>
+                <listitem>
+                    <para>What materials must be imported, and are therefore for expensive
+                        upper-class clothes only?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What things are considered tacky and vulgar, and what things are
+                        stylish?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What types of decorations and accessories are common?</para>
+                </listitem>
+                <listitem>
+                    <para>What colors and combinations of colors are thought to look well or to
+                        clash?</para>
+                </listitem>
+                <listitem>
+                    <para>Do opinions on this vary from race to race?</para>
+                </listitem>
+
+                <listitem>
+                    <para>What physical types and characteristics are currently fashionable — tan
+                        vs. pale skin, the “consumptive look” vs. robust good health, fat vs. thin,
+                        blonde vs. brunette, muscles vs. “dead poet”, etc.?</para>
+                </listitem>
+
+                <listitem>
+                    <para>How do non-human fashions reflect their physiology?</para>
+                </listitem>
+                <listitem>
+                    <para>Do dragons dress for dinner?</para>
+                </listitem>
+                <listitem>
+                    <para>Do mermaids have a nudity taboo?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-clothing-birth">
+            <title>XXX</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-art-and-aesthetics">
+        <title>XXX Art and Aesthetics</title>
+        <para>Forms of creative expression, including art, music, literature, dance, and architecture.
+            Reflects the culture's sense of beauty, symbolism, and storytelling.</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>What are the standards of beauty for people?</para>
+                </listitem>
+                <listitem>
+                    <para>Paintings and sculpture?</para>
+                </listitem>
+                <listitem>
+                    <para>Clothes and furniture?</para>
+                </listitem>
+                <listitem>
+                    <para>How do they differ from the standards in your culture (example: a
+                        country which considers fatness a highly desirable beauty trait)?</para>
+                </listitem>
+                <listitem>
+                    <para>How do standard of beauty reflect the physical traits of the various
+                        races (examples: dwarves might consider excessive height unattractive;
+                        werewolves might be attracted by long teeth or a particular scent)?</para>
+                </listitem>
+                <listitem>
+                    <para>What is the status of the arts (dance, music, theater, etc.) in this
+                        society?</para>
+                </listitem>
+                <listitem>
+                    <para>Are artists revered or mistrusted?</para>
+                </listitem>
+                <listitem>
+                    <para>Are they considered noble or immoral?</para>
+                </listitem>
+                <listitem>
+                    <para>Who supports the arts?</para>
+                </listitem>
+                <listitem>
+                    <para>Which arts are most highly valued and why?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there permanent theaters or concert halls for the performing
+                        arts?</para>
+                </listitem>
+                <listitem>
+                    <para>If so, who owns and runs them?</para>
+                </listitem>
+                <listitem>
+                    <para>Are they profitable?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there also traveling troupes of players/musicians/dancers?</para>
+                </listitem>
+                <listitem>
+                    <para>How do their performances differ?</para>
+                </listitem>
+                <listitem>
+                    <para>Can magic be used in the arts, and if so, how — paint that glows,
+                        pictures that move, flutes that play themselves, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>How do “normal” artists feel about this?</para>
+                </listitem>
+                <listitem>
+                    <para>Is there a separate branch of purely magical art, such as
+                        illusion?</para>
+                </listitem>
+                <listitem>
+                    <para>Have paper-making and the printing press been invented, or are books and
+                        scrolls rare, expensive, handwritten items?</para>
+                </listitem>
+                <listitem>
+                    <para>What things are considered appropriate subjects for representational
+                        arts such as painting and sculpture?</para>
+                </listitem>
+                <listitem>
+                    <para>Which are not?</para>
+                </listitem>
+                <listitem>
+                    <para>(Examples: some cultures/religions forbid the painting or sculpture of
+                        the human figure, and have abstract art; some have limited painters to doing
+                        only “uplifting” religious works, etc.)</para>
+                </listitem>
+                <listitem>
+                    <para>Are there non-human races who tend to be naturally talented painters,
+                        dancers, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>How does this affect human practitioners of these arts?</para>
+                </listitem>
+                <listitem>
+                    <para>Are certain races/cultures considered better at some arts than other
+                        races/cultures?</para>
+                </listitem>
+                <listitem>
+                    <para>Where do the best dancers, painters, musicians, actors, etc. come
+                        from?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the standards of beauty for people?</para>
+                </listitem>
+                <listitem>
+                    <para>Paintings and sculpture?</para>
+                </listitem>
+                <listitem>
+                    <para>Clothes and furniture?</para>
+                </listitem>
+                <listitem>
+                    <para>How do they differ from the standards in your culture (example: a
+                        country which considers fatness a highly desirable beauty trait)?</para>
+                </listitem>
+                <listitem>
+                    <para>How do standard of beauty reflect the physical traits of the various
+                        races (examples: dwarves might consider excessive height unattractive;
+                        werewolves might be attracted by long teeth or a particular scent)?</para>
+                </listitem>
+                <listitem>
+                    <para>Have paper-making and the printing press been invented, or are books and
+                        scrolls rare, expensive, handwritten items?</para>
+                </listitem>
+                <listitem>
+                    <para>What things are considered appropriate subjects for representational
+                        arts such as painting and sculpture?</para>
+                </listitem>
+                <listitem>
+                    <para>Which are not?</para>
+                </listitem>
+                <listitem>
+                    <para>(Examples: some cultures/religions forbid the painting or sculpture of
+                        the human figure, and have abstract art; some have limited painters to doing
+                        only “uplifting” religious works, etc.)</para>
+                </listitem>
+                <listitem>
+                    <para>Are there non-human races who tend to be naturally talented painters,
+                        dancers, etc.?</para>
+                </listitem>
+                <listitem>
+                    <para>How does this affect human practitioners of these arts?</para>
+                </listitem>
+                <listitem>
+                    <para>Are certain races/cultures considered better at some arts than other
+                        races/cultures?</para>
+                </listitem>
+                <listitem>
+                    <para>Where do the best dancers, painters, musicians, actors, etc. come
+                        from?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the standards of beauty for people?</para>
+                </listitem>
+                <listitem>
+                    <para>Paintings and sculpture?</para>
+                </listitem>
+                <listitem>
+                    <para>Clothes and furniture?</para>
+                </listitem>
+                <listitem>
+                    <para>How do they differ from the standards in your culture (example: a
+                        country which considers fatness a highly desirable beauty trait)?</para>
+                </listitem>
+                <listitem>
+                    <para>How do standard of beauty reflect the physical traits of the various
+                        races (examples: dwarves might consider excessive height unattractive;
+                        werewolves might be attracted by long teeth or a particular scent)?</para>
+                </listitem>
+                <listitem>
+                    <para> What are the mediums of the graphic arts?</para>
+                </listitem>
+                <listitem>
+                    <para> What dances do the people do?</para>
+                </listitem>
+                <listitem>
+                    <para> What types of music are there?</para>
+                </listitem>
+                <listitem>
+                    <para> What themes are present in art, music, dance?</para>
+                </listitem>
+                <listitem>
+                    <para> What is the source of these themes?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-art-and-aesthetics-art">
+            <title>Art</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-art-and-aesthetics-music">
+            <title>Music</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-art-and-aesthetics-dance">
+            <title>Dance</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-art-and-aesthetics-zzz">
+            <title>ZZZ</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-religion-and-spirituality">
+        <title>XXX Religion and Spirituality</title>
+        <para>Beliefs about the divine, the sacred, and humanity’s place in the universe.
+            Includes organized religions and informal spiritual practices.</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para/>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-religion-and-spirituality-dieties">
+            <title>Deities</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section xml:id="xxx-culture-religion-and-spirituality-zzz">
+            <title>ZZZ</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-food-and-cuisine">
+        <title>XXX Food and Cuisine</title>
+        <para>The types of food a culture prepares, how it is cooked, and its significance in social or ceremonial contexts.
+            Example: Mediterranean cultures are known for olive oil and seafood, while Japanese cuisine emphasizes rice and fish.</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para/>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-food-and-cuisine-zzz">
+            <title>ZZZ</title>
+            <para>
+                <itemizedlist>
+                    <title>Razors for Distinguishing</title>
+                    <listitem>
+                        <para/>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-technology-and-material">
+        <title>XXX Technology and Materials</title>
+        <para>Tools, technology, and objects a culture creates and uses.
+            Example: Clothing styles, architecture, transportation, and tools reflect cultural adaptation to the environment.</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>Metal technology ?</para>
+                </listitem>
+                <listitem>
+                    <para>Power technology?</para>
+                </listitem>
+                <listitem>
+                    <para>Magic technology?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-technology-and-material-zzz">
+            <title>ZZZ</title>
+            <para> </para>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-economics-and-trade">
+        <title>Economics and Trade</title>
+        <para>How resources are produced, distributed, and consumed.
+            Examples: Subsistence farming, industrial economies, or global trade networks.</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>.</para>
+                </listitem>
+                <listitem>
+                    <para>.</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-economics-and-trade-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-military">
+        <title>XXX Military</title>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>What sort of military does your culture have?</para>
+                </listitem>
+                <listitem>
+                    <para>To whom or what does it swear allegiance?</para>
+                </listitem>
+                <listitem>
+                    <para>Does it have a history of coup attempts, or successful coups?</para>
+                </listitem>
+                <listitem>
+                    <para>Is it permanent in nature, or is it something that gathers during threats?</para>
+                </listitem>
+                <listitem>
+                    <para>What sort of training does it get?</para>
+                </listitem>
+                <listitem>
+                    <para>What sort of hierarchy does it have?</para>
+                </listitem>
+                <listitem>
+                    <para>Is military membership voluntary or involuntary?</para>
+                </listitem>
+                <listitem>
+                    <para>Are there benefits to belonging to the military, such as citizenship at the end of service (as in Rome), or healthcare and housing, or regular meals?</para>
+                </listitem>
+                <listitem>
+                    <para>Are the families of military members cared for in any way?</para>
+                </listitem>
+                <listitem>
+                    <para>What are the dangers of military membership?</para>
+                </listitem>
+                <listitem>
+                    <para>Does the surrounding population approve of the military, or are parts or all of it anti-military?</para>
+                </listitem>
+                <listitem>
+                    <para>Does the military have definite outside threats to deal with? </para>
+                </listitem>
+                <listitem>
+                    <para>Is the culture or country at war? </para>
+                </listitem>
+                <listitem>
+                    <para>Is it threatened by invasion? </para>
+                </listitem>
+                <listitem>
+                    <para>Is it threatened by war?</para>
+                </listitem>
+                <listitem>
+                    <para>Does the military have a positive peacetime role?</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-military-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+    <chapter xml:id="xxx-culture-esoterica">
+        <title>Esoterica</title>
+        <para>Use of Psionics, Spirit, Magic etc.. .</para>
+        <para>
+            <itemizedlist>
+                <title>Razors for Distinguishing</title>
+                <listitem>
+                    <para>How do people relate to Esoterica?.</para>
+                </listitem>
+                <listitem>
+                    <para>How do people relate to Esoteric Practictioners.</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <section xml:id="xxx-culture-esoterica-zzz">
+            <title>ZZZ</title>
+            <para/>
+        </section>
+    </chapter>
+</book>

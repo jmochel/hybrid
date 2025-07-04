@@ -1,0 +1,9 @@
+PTalent				0		0		-50		-25
+Talent				10		20		20		50
+PRitual				0		0		-100	-20
+Ritual				-10		0		50		100
+MatComponent		-10		-5		0		20
+ActiveResist		5		10		30		55
+PassiveResist		5		15		15		35
+NoResist			8		18		25		50
+

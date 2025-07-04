@@ -1,0 +1,58 @@
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [<!--ArborText, Inc., 1988-1995, v.4001--><!NOTATION drw SYSTEM "DRW"><!ENTITY www "World Wide Web">]>
+<book>
+    <title>Space Hybrid Character Generation</title>
+    <chapter>
+        <title>Overview</title>
+        <para>
+        The player starts with 125 points for statistics and 10 points in the Personal 
+        Development Pool. 
+        </para>
+        <para>
+        With these points the player buys what is needed for the initial 
+        character development. This includes the Race, Special Abilities, and 
+        Culture of the character. 
+        </para>
+        <para>
+        Then the player generates the history of the character. The player 
+        picks the career path the character will follow and uses the results 
+        of that career to put points into the other pools.
+        </para>
+        <TABLE COLSEP="1" FRAME="all" ROWSEP="0" SHORTENTRY="0" TOCENTRY="1" TABSTYLE="decimalstyle" ORIENT="land" PGWIDE="0">
+            <TITLE>Sample Decimal-Aligned Table</TITLE>
+            <TITLEABBREV>Decimal-Aligned Table</TITLEABBREV>
+            <TGROUP ALIGN="char" CHAROFF="50" CHAR="." COLS="4">
+                <COLSPEC ALIGN="left" COLNUM="1" COLSEP="0" COLWIDTH="7pc">
+                <THEAD>
+                    <ROW>
+                        <ENTRY>Gas Ball</ENTRY>
+                        <ENTRY>1940</ENTRY>
+                        <ENTRY>1960</ENTRY>
+                        <ENTRY>1980</ENTRY>
+                    </ROW>
+                </THEAD>
+                <TFOOT>
+                    <ROW>
+                        <ENTRY>Rating</ENTRY>
+                        <ENTRY>3</ENTRY>
+                        <ENTRY>1</ENTRY>
+                        <ENTRY>2</ENTRY>
+                    </ROW>
+                </TFOOT>
+                <TBODY>
+                    <ROW>
+                        <ENTRY>Diameter</ENTRY>
+                        <ENTRY>345.021</ENTRY>
+                        <ENTRY>211.02</ENTRY>
+                        <ENTRY>221.3</ENTRY>
+                    </ROW>
+                <ROW>
+                    <ENTRY>Color</ENTRY>
+                    <ENTRY>blue</ENTRY>
+                    <ENTRY>red</ENTRY>
+                    <ENTRY>yellow</ENTRY>
+                    </ROW>
+                </TBODY>
+            </TGROUP>
+        </TABLE>
+    </chapter>
+</book>

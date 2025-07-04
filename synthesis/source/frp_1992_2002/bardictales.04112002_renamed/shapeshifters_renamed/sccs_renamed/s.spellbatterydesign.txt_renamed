@@ -1,0 +1,318 @@
+H32566
+s 00288/00000/00000
+d D 1.1 00/12/08 09:40:46 jmochel 2 1
+cC
+cF1
+cK01041
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:46 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/SpellBatteryDesign.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK45773
+cPShapeShifters/SpellBatteryDesign.txt
+cR67f5b7b7
+cV4
+cX0x1a1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+Reply to:   RE>New ritual concept
+First comment:  Either you've been programming to long or I have;  Your spell
+looks like a subroutine.
+
+Second comment:  As presented, I don't think that it is necessary to dedicate
+it to a specific function in the beginning.   I also find it difficult to
+connect a dance ritual with offensive magic (I can see a war dance to prepare
+you for war but . . .).  If at all combat related I would say defence.
+Otherwise I would say task oriented, ie. bring rain, make crops fertile, create
+a gateway, move a node line, etc.
+
+I like the idea about doing a dance and having the energy available later, but
+I would present it differently (and maybe this is OK too but a different
+ritual).  I would say that the act of dancing by one or more people summons
+energy based on the individual and the amount of time danced.  And that this
+energy can be gathered/focused/bound by one participant for use at that time or
+later.  But if used later, I would say that the energy was bound to the spot
+where the dance occured rather than projected forward in time to an unknown
+spot or time or to a pattern that has only been conceived, not danced (since if
+you actually dance the pattern, then you create multiple destination points
+that the power could arrive at.
+
+Alex, what happened with your group at the Geomancer's circle?
+
+Yours Morphusly,
+
+Chris
+
+Return-Path: <uunet!apple.com!mathworks!morphus>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+        id AA17986; Mon, 8 Apr 91 14:06:12 EDT
+Received: from apple.com by relay1.UU.NET with SMTP
+        (5.61/UUNET-shadow-mx) id AA18525; Mon, 8 Apr 91 13:39:02 -0400
+Received: by apple.com (5.61/25-eef)
+        id AA05779; Mon, 8 Apr 91 10:23:28 -0700
+        for
+Received: from turing.UUCP by mathworks.com (4.1/SMI-3.2)
+        id AA01382; Mon, 8 Apr 91 10:19:48 PDT
+Received: from hobbes.mathworks.com by turing.mathworks.com (4.1/SMI-3.2)
+        id AA01160; Mon, 8 Apr 91 12:11:07 EST
+        for oak!chaman@uunet.uu.net
+Received: from marden.UUCP by hobbes.mathworks.com (4.0/SMI-4.0)
+        id AA06556; Mon, 8 Apr 91 13:12:20 EDT
+From: Chris Carlucci <uunet!apple.com!mathworks!morphus>
+Message-Id: <52-890-00047.2753961480.30950@marden.mathworks.com>
+X-Umcp-Version: v1.5(qm) from QuickMail v2.2.3
+X-Umcp-To: Jim Mochel
+To: Jim Mochel <oak!chaman%uunet.UU.NET@apple.com>
+Subject: Gaming
+Date: Mon, Apr 8, 1991 1:16:30 PM
+Status: RO
+
+Gaming                                             4/8/91    12:58 PM
+
+What do you have down for skills and time used for training with morphus,(if
+anything)
+
+Staff Warding:
+
+Do you think that we could or should use either the wood of the staff or the
+capstone of the staff for the battery?
+
+I know from alex that the staff is constantly gathering mana, at least in it's
+current unbound state.  do you think that we can take advantage of that?
+
+Do you think that I could be Psi attacked through the staff?
+
+So that I can better understand how this would work when completed, let me ask
+you some questions.
+
+If we cast this so that we have a battery of power X feeding a ward would the
+ward have power based on the battery or would the battery just maintain the
+existence of the ward?
+
+Return-Path: <jim>
+Received: by oak.com (4.1/SMI-4.1)
+        id AA01955; Wed, 21 Aug 91 08:34:22 EDT
+Date: Wed, 21 Aug 91 08:34:22 EDT
+From: jim (Jim Mochel)
+Message-Id: <9108211234.AA01955@oak.com>
+To: jim, uunet!ll.mit.edu!alexj
+Subject: Wards and Semi-permanent items
+Status: RO
+
+
+Hi there Oh-Mighty GM,
+        I have some thoughts for you on Mordanith's Up and Coming
+rituals. Since we have not had time to discuss your latest thoughts on
+permanent magic items I went ahead on the thoughts I had and came up with some
+design ideas.
+
+        First off:
+        From a GMS standpoint I decided that what is needed for balance is
+something that requires maintainence and is fairly slow to recharge.
+
+        SO: Picture the following.
+
+{SPELL BATT #1} -> {SPELL BATTERY MAINTAINENCE SPELL}
+                             |
+                             |
+                    {SPELL BATTERY #2}
+                             |
+                             V
+                    {THE WARD ITSELF}
+
+Spell Battery #1 feeds the SpellBattMaintainSpell at a very low cost.
+The SpellBattMaintainSpell does nothing more than recharge the
+Spell Battery #2 whenever its energy starts to lower. The Spell
+Battery #2 feeds a ward in one of the usual manners.
+
+The SpellBattMaintainSpell has two features. One is to draw oin the
+ambient power in the area, the other is to act as a direct recharge
+from a spell caster.
+
+This gives a good number of desirable traits in that
+1) Once a ward has been used it will slowly recharge (subject to the
+energies in Spell Bat #1.
+2) It can be rechrged in a hurry if needed. Mordanith would of course
+supply the the descripotion of the recharge spell. And of course, the guild
+will love the possibility of maintainence contracts.
+
+3) It is more complex and requires lots more spell workings.
+
+4) It requires two spells to be researched: The maintainence
+spell, and the SpellBattery #1, which must be able to last
+a lot longer than normal spell batteries and would probably be limited
+in some other way. It may simply only be able to be used at those
+lower rates of draw.
+
+Think about it and let me know.
+
+Jim
+OK Chris,
+
+        New ritual concept. Alex says that it is sick but he likes it.
+
+        First ritual :
+                1) Summon up a great deal of power (100+ pts) and do a simple
+                devotional dance.
+                2) Focus on the next dance pattern you intend to do, and send
+                the energy forward to that point in time.
+
+        All subsequent rituals
+                1) Summon up a great deal of power and do a slightly more complex
+                devotional dance .
+                2) Make explicit connection with the power you sent forward about
+                last time and gather the energy to you.
+                3) Focus on the next dance pattern and send the accumulated power forward.
+
+        At the last ritual use the power for what it is designed.
+
+        I am trying to decide whatheer or not I should use the energy offensively or
+        defensively and whether I should dedicate it to specific action in the
+        beginning or wait. Any ideas ?
+
+
+        If its used offensively I think it should be named the "Time Hammer"
+
+Jim M.
+
+OK Alex,
+	Here are my ritual design notes for the long life
+        spell battery or DuraSpell II.
+
+        First off:
+        From a GMS standpoint I decided that what is needed for balance is
+something that requires maintainence and is fairly slow to recharge.
+
+        SO: Picture the following.
+
+{SPELL BATT #2} -> {SPELL BATTERY MAINTAINENCE SPELL}
+                             |
+                             |
+                    {SPELL BATTERY #1}
+                             |
+                             V
+                    {THE WARD ITSELF}
+
+Spell Battery #2 feeds the SpellBattMaintainSpell at a very low cost.
+The SpellBattMaintainSpell does nothing more than recharge the
+Spell Battery #1 whenever its energy starts to lower. The Spell
+Battery #1 feeds a ward in one of the usual manners.
+
+The SpellBattMaintainSpell has two features. One is to draw oin the
+ambient power in the area, the other is to act as a direct recharge
+from a spell caster.
+
+SPELL ATTRIBUTES : OVERALL
+
+DIFFICULTY FACTOR -65
+MINIMUM CAST TIME 2hr+.5hr/50 power in batt 1
+MINIMUM POWER COST 10 + (Amount of power to stored)
+DURATION Governed by power supply rate and ambient mana level
+RANGE  0
+AREA OF EFFECT One object
+
+PREPARATION
+
+This ritual requires a physical storage reservoir such as a block of
+crystal, ivory, or wood, that has had one special rune of inscribed in
+it as well as a power binding performed on it.
+
+The more highly ordered the internal structure of the object is the
+better it is as a material component. IN other words I should get
+plusses for crystal of various types. Diamonds should be the best.
+
+
+GENERAL NOTES
+
+The whole spell should be one complex rune.
+Some sort of divinational white noise should be part of the
+rune so that it becomes impossible for your average magic trained thief
+to figure out what it does and very hard for a good mage to figure it
+out.
+
+Batt #2 must be rechargeable by a random mage who has been taught
+how to do so.
+
+The discharge rate I suggest for Batt #2 is 1 point for for each (Draw)
+points it recharges the Batt #1.
+
+Batt #2 cannot be drained in the normal manner for spell batteries but
+Batt #1 can.
+
+
+RESEARCH NOTES
+
+Note that I do have a "nearly complete description of the Energy
+Damp Ward that absorbs mana from before the Purge by Dazara."
+
+That plus the Linking Ward studies I have done should help me a lot.
+
+Appropriate Factors
+-------------------
+SCF 65
+KIF 19
+INF 29.5
+
+Skills
+------
+
+W:Abjuration   8.31
+W:Divination   6.34
+FaerHan(RW)    5.1
+Runelore       3.5
+
+M:Warding      7.5
+S:Shaping      5.0
+Meditation     9.01
+Memory Training 8.2
+
+Ritual Design 2.5
+
+
+Appropriate Rolls
+-----------------
+
+Batt #1
+------
+Should require only some tailoring from the previous.
+
+Ritual Design Roll: 22
+
+Batt #2
+-------
+
+Variation on Batt #1. Much more complex.
+
+Library Research :                      99
+Past Study on Linking ward and Dazara : 52
+RuneLore :                              49
+Meditation :                            77
+Ritual Design (+Setup)                  08
+
+
+Maintain Spell
+--------------
+
+Library Research :                      48
+Past Study on Linking ward and Dazara : 04
+RuneLore :                              13
+Meditation :                            56
+Ritual Design (+Setup)                  11
+
+Cosmic Guidance (Ancestral Memory Roll ) : 04
+
+
+
+E 2
+I 1
+E 1

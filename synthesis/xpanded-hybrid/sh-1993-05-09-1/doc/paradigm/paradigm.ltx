@@ -1,0 +1,92 @@
+\documentstyle[sh,relate,gnuindex]{book}
+\makeindex
+\begin{document}
+
+\begin{titlepage}
+    \vspace*{1.0in}
+    \begin{flushright}
+          {\Huge\bf Space Hybrid } \\[.25cm]
+          {\rule[.1in]{4.5in}{.02in}}\\[.25cm]
+          {\large\bf Paradigm Manual} \\[2.0cm]
+          {\large\bf Version 1.0} \\[4.0cm]
+          {\bf Jim Mochel}\\[1.0cm]
+          {\bf August 21, 1991}
+          {\bf Copyright 1988,1989,1990,1991}
+    \end{flushright}
+\end{titlepage}
+
+% The TOC
+
+\pagenumbering{roman}
+\tableofcontents
+\listoftables
+
+% Include the Weapon Formats
+\input{weapon}
+
+% Include the Armour and Shield Formats
+\input{armor}
+
+% Include Chapter on Psionics
+\input{psi}
+
+% Include Chapter on Ki and Adrenal Moves
+\input{ki}
+
+% Include Chapter on Spell Casting
+\input{spell}
+
+\part{Technology}
+
+% Include the Research Rules
+\input{research}
+
+% Include The Rules on Computers
+\input{computer}
+
+% Include Rules on Robots, Cyborgs, and Androids
+\input{robots}
+
+% Include Rules on Healing and Medical Treatment
+\input{healing}
+
+% Include General Equipment Formats
+\input{ge}
+
+% Include Space Travel Chapter
+\input{space}
+
+% Include Discussions of Stellar Systems
+\input{systems}
+
+% Include Discussions of Lifeforms
+\input{bio}
+
+% Include Culture Delineation Notes
+\input{culture}
+
+% Include Notes on Trade and Commerce
+\input{trade}
+
+% Include The Chapter on Governments
+\input{govt}
+
+% Include the chapter on Cartography
+\input{cartog}
+
+\part{Appendices}
+
+\appendix
+
+% Include the Appendix on Skill Design
+\input{skilldes}
+
+% Include the Appendix on Weapons Design
+\input{wpndes}
+
+
+\begin{theindex}
+	\input{paradigm.ids}
+\end{theindex}
+
+\end{document}

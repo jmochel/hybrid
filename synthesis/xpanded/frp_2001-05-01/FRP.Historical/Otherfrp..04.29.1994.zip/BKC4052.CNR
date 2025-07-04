@@ -1,0 +1,107 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209131335.257;
+          09 Dec 91 13:14:59 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209131335.257;
+          09 Dec 91 13:14:45 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03874; Mon, 9 Dec 91 13:15:22 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA06348; Mon, 9 Dec 91 12:16:52 -0500
+Message-Id: <9112091716.AA06348@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 4659; Mon, 09 Dec 91 12:17:00 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 2529;
+ Mon, 09 Dec 91 12:16:59 EST
+Date:         Mon, 9 Dec 1991 12:09:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Dave_Wetzel%VOS.STRATUS.COM@uga.cc.uga.edu
+Subject:      GD: Attributes
+X-To:         GMAST-L%UTCVM.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+     I'm also fond of the idea of creating our own game system.  Count me in!
+
+I as much as I liked the symmetry of the attributes posted by Guy T.
+(TELLEFSENGW%HIRAMB.BITNET), I'm afraid I may have to break it down a bit.  I
+don't mean this to sound flamish:  I think Guy's done a great service by not
+just posting a "we should..."
+
+     I strongly feel that dexterity needs to be broken into fine-motor and
+gross-motor.  There is a vast difference between finger dexterity and
+large-body movements.  For instance I'm a touch-typist, displaying a good
+command of fine-motor control; but I'm hideously un-coordinated for doing
+things like dancing (I'm getting better at the large-motor movements from
+studing t'ai-ch'i; that's actually where I learned how different my dex is:
+I could do the hand movements beautifully, but my balence is pathetic).
+
+     To take that out of the real world and bring in an RPG example:  you
+should be able to create a thief who is a fine cut purse (manual dex) but
+just average at dodging attacks (graceful-ness?).  You should also be able to
+create a programmer who though he's a touch-typist, can't move much better
+than your average barn (let's not get into that again!).
+
+     Actually now that I'm thinking about it, you could break Con down as
+well into a micro/macro format like dex.  On one hand your reistance to
+disesase should be a part of con, but so should mass.  And both are not
+directly linked:  you could be massive but very suceptable (sic) to disease,
+right?  I can't think of any useful reason to break Strength down to a
+micro/macro dicotomy.
+
+     On the Metaphysical attrs, there's something not quite right here but I
+can't put my finger on it (pun only margianally intended).  I definately
+believe in a Passion attribute and Willpower, but I'm not quite so sure of
+Self.  Independence is more the way a character is played than an attribute
+and I'd think that the required attribute for leadership would be willpower.
+Command would be a test of the leader's will overcoming the will of the
+follower/private/etc.  In fact wouldn't independence be a test of your will
+over the 'will rating' of the social pressures around you?  Maybe I'm missing
+something here, but I can't come up with a single situation where a self
+attribute couldn't be replace by a willpower attribute.
+
+     I though for a minute there about making Self a subset of Will (like I
+did with dex above), but decided it's not really necessary.  I can't see (but
+might be wrong) where someone's resistance to temptation might be a different
+vaule than their ability to impose their will on others.  The only difference
+I could come up with is likeliness to use the attribute that way (a humble
+priest for example might not choose to use his strength-of-will to command
+his flock) which didn't strike me as a good enough reason to split them.
+
+     On the other hand what I can find missing in the meta-physical realm is
+Empathy.  Empathy is your ability to relate to the emotions and presence of
+others.  I'ld geuss that charisma as it's usually used would be greatly
+related to empathy.  Empathic people can releate well with others.  I tossed
+around the idea of wheither this was covered by Passion but decided it wasn't
+because I can imagine both a laid back (low Passion) empath and an energetic
+(high passion) empath.
+
+     Optionally, do we want a physical attractiveness rating?  A few players
+I know seem to like this kind of attribute.  Maybe charisma could be a value
+calculated by Beauty, Empathy, and Passion?
+
+So to frame my proposed changes into Guy's post:
+
+PHYSICAL:
+     *Strength
+     *Constitution
+          -Health
+          -Mass
+     *Dexterity
+          -Manual
+          -Grace (There's got to be a better word for this)
+     *Beauty (Optional)
+
+MENTAL:
+     *Reckoning (I like Reasoning a bit better as a tag here)
+     *Knowledge
+     *Instinct
+
+METAPHYSICAL
+     *Passion
+     *Willpower
+     *Empathy
+
+
+Pretty ugly huh?
+
+Dave_Wetzel@vos.stratus.com

@@ -1,0 +1,12 @@
+|| A simple set of classes for managing text as a transaction database
+
+Parser =
+{ 
+	RequiredArgCount:int, 
+    Lexer:Lexer,
+    ArgSemantics:[MAP_String_Key_ArgSemantic_Semantic],
+    ExitOnFailure:boolean,
+    ParsedArguments:[MAP_String_Key_Object_ArgAsAnObject],
+    Validation:Validation,
+    Abbrevs:[MAP_String_Abbrev_String_Key]
+};

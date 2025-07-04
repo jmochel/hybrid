@@ -1,0 +1,16 @@
+% FILE Table of skill rank limit 
+% REF
+
+\begin{stable}{Limit in Skill Ranks from Base Education}{ll}
+	Stat Basis & Rank (Upper Limit) \\
+\TableSubtitleRule
+	01-02		& 2 \\
+	03-05		& 1 \\
+	06-15		& 2 \\
+	16-31		& 3 \\
+	32-30		& 3 \\
+	26-30		& 3 \\
+	26-30		& 3 \\
+	26-30		& 3 \\
+	26-30		& 3 \\
+\end{stable}

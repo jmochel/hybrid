@@ -1,0 +1,44 @@
+.Name LIONELL
+.Title EMPEROR						  
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 12
+.PEN 14		
+.DEX 14
+.PAG 18		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 5'11"     
+.WT 170		 
+.AGE 
+.BeginDesc
+ DISTINGUISED WITH GRAY HAIR AND GREY BEARD
+.EndDesc
+.BeginSkills
+Weapon: DIPLOMACY,DECEIT   , 
+.EndSkills
+.Locale BURIED UNDER THE RUBBLE OF GALAHINE IN A VAULT BELOW THE CASTLE
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ RULED A GREAT LAWFUL EMPIRE FROM 201-1098 - 103-1136 (THE CATACLYSM)
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

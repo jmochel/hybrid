@@ -1,0 +1,273 @@
+This is TeX, Version 3.14159 (MiKTeX 1.09) (preloaded format=latex 97.10.26)  22 JAN 1998 09:16
+**&latex pg.ltx
+(pg.ltx
+LaTeX2e <1997/06/01>
+Babel <v3.6h> and hyphenation patterns for english, german, loaded.
+(book.cls
+Document Class: book 1997/06/16 v1.3v Standard LaTeX document class
+(bk10.clo
+File: bk10.clo 1997/06/16 v1.3v Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (multicol.sty
+Package: multicol 1997/06/05 v1.5n multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen108
+\multicolovershoot=\dimen109
+\multicolundershoot=\dimen110
+\mult@nat@firstbox=\box50
+) (makeidx.sty
+Package: makeidx 1995/04/19 v1.0j Standard LaTeX package
+) (minitoc.sty
+Package: minitoc 1996/12/20 v27 The minitoc package
+
+*** minitoc package, version 27 ***
+*** part level macros available ***
+*** chapter level macros available ***
+==> this version is configured for UNIX-like (long extensions) file names.
+\tf@mtc=\write3
+\mtc@toks=\toks14
+\mtc@strutbox=\box51
+\c@mtc=\count96
+\c@minitocdepth=\count97
+\mtcindent=\skip45
+\c@ptc=\count98
+\c@parttocdepth=\count99
+\ptcindent=\skip46
+(english.mld)) (sh.sty (palatino.sty
+Package: palatino 1997/01/23 6.0 Palatino PSNFSS2e package
+) (afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks15
+\AP@partial=\box52
+\AP@footins=\box53
+) (float.sty
+Package: float 1995/03/29 v1.2c Float enhancements (AL)
+\c@float@type=\count100
+\float@box=\box54
+\@floatcapt=\box55
+)
+\c@SHTable=\count101
+)
+\@indexfile=\write4
+
+Writing index file pg.idx
+(pg.aux (tskill8.aux) (tskill6.aux) (tskill9.aux) (tskill7.aux) (tskill10.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 24.
+(ot1ppl.fd
+File: ot1ppl.fd 1997/02/11 Fontinst v1.6 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 25.
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 33.
+ (pg.toc
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+
+Underfull \hbox (badness 7869) in paragraph at lines 6--6
+ [][] []\OT1/ppl/m/n/9 Evaluating Suc-cess 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+ [][] []\OT1/ppl/m/n/9 Relations Among 
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 27--27
+ [][] []\OT1/ppl/m/n/9 Optional Rule:Skill 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+ [][] []\OT1/ppl/m/n/9 Physically In-jured 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+ [][] []\OT1/ppl/m/n/9 Restoring Fa-tigue 
+ []
+
+[1
+
+])
+\tf@toc=\write5
+ [2] (pg.losh
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+)
+\tf@losh=\write6
+ (intro.tex [1
+
+] [2
+
+]
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 23.
+[3]
+Overfull \hbox (5.18573pt too wide) in paragraph at lines 50--54
+[]\OT1/ppl/m/n/10 To de-ter-mine the sever-ity of the crit-i-cal fail-ure roll 
+against the amount missed
+ []
+
+(troll1.tex
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 12.
+) (troll2.tex)) (skills.tex [4]
+Chapter 2.
+
+Overfull \hbox (9.99654pt too wide) in paragraph at lines 43--48
+\OT1/ppl/m/n/10 Fac-tor'' or DF. Dif-fi-culty Fac-tors for tasks typ-i-cally ra
+nge from -10 to +4. Through-
+ []
+
+[5
+
+] [6] (tskill8.tex) [7
+
+] (tskill6.tex) [8
+
+
+] [9
+
+] (tskill9.tex) [10
+
+] [11
+
+]
+(tskill7.tex) [12
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 159.
+
+ (omsppl.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+ [13
+
+] (tskill10.tex
+Overfull \hbox (417.96045pt too wide) in paragraph at lines 2--14
+[][]
+ []
+
+) [14
+
+] (tskill5.tex) [15
+
+]) (gpm.tex [16] [17] [18
+
+]
+Chapter 3.
+[19]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 84.
+ (ot1pcr.fd
+File: ot1pcr.fd 1997/02/11 Fontinst v1.6 font definitions for OT1/pcr.
+) (tgpm6.tex) [20] [21] (tgpm7.tex) [22] (tskill1.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [23] (tskill2.tex) (tskill3.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24] (tskill4.tex) (tgpm8.tex) (tgpm9.tex) (tgpm10.tex [25]) (tgpm2.tex)
+[26] (tgpm4.tex) [27]) (combat.tex [28]
+Chapter 4.
+[29
+
+] (tgpm11.tex) [30] (tgpm12.tex) [31]
+Overfull \hbox (10.88644pt too wide) in paragraph at lines 154--158
+[]\OT1/ppl/m/n/10 Projectile dam-age is caused by ob-jects mov-ing at high spee
+ds.
+ []
+
+[32] [33] [34] [35]) (npcpc.tex [36]
+Chapter 5.
+[37
+
+]) (pg.ind [38] [39
+
+] [40]) (pg.aux (tskill8.aux) (tskill6.aux) (tskill9.aux) (tskill7.aux) (tskill
+10.aux)) )
+Output written on pg.dvi (43 pages, 91784 bytes).

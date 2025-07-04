@@ -1,0 +1,104 @@
+h34140
+s 00076/00000/00000
+d D 1.1 99/11/17 07:30:12 jmochel 2 1
+cC
+cK58481
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 07:30:08 jmochel 1 0
+c BitKeeper file e:/jacl/Articles/PortableStreams/Proposal.ddj.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK43413
+cPArticles/PortableStreams/Proposal.ddj.txt
+cR2bbe83ff5cb6bb7a
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+A Portable Memory Mapped File API in C++
+----------------------------------------
+
+Abstract
+--------
+With the recent changes in computer hardware and operating systems
+it is not easy to predict what will cause an I/O bottleneck. In some 
+cases removing a little buffer copying will drastically improve 
+performance. On many operating systems an application can use memory mapped 
+file I/O to do this. The trick is in doing it portably. 
+
+The article presents a C++ class that provides a portable API for using 
+memory mapped files on Win32 and Linux. The code uses the Standard C++ library 
+including STL container classes and exceptions. 
+
+Outline
+-------
+
+Intro
+
+    Underlying RAM/Disk/Bus speed and size relationships have changed 
+    drastically in the last ten years. 
+
+    Increasing main memory and caches sizes combined with higher CPU and main memory speeds 
+    can make buffer copying an actual bottleneck.
+
+    Memory Mapping is one possible answer
+
+Goals and requirements
+
+    Portable
+    AFAP (As Fast As Possible)
+    Allow for later expansion to sockets and named pipes.
+
+The Design
+
+    Mention the specific design patterns used with references 
+    
+The API
+
+    Straighforward and quick discussion on why certain API choices were
+    made.
+
+The Implementation
+
+    Notes on initialization functions used
+    Notes on STL gotchas I encountered
+
+Results
+
+    Notes on why most profilers are a major pain for this sort of thing
+    Profiling results
+
+
+
+Background
+----------
+After getting a Chemistry degree at Worcester Polytechnic Institute I promptly became
+a C and Assembly language programmer. I am working now for Foliage
+Software Systems, a very sharp contract house. I have worked in the past
+doing GUI Toolkit work as well as information retrieval systems.
+
+
+Other Notes
+-----------
+
+I have finished the Win32 portion of the implementation
+and I will be tackling the Linux version this coming week. Assuming the
+usual nightmarish porting issues with GCC I expect that I could start
+writing the article in two weeks.
+
+This is the start of (I hope) a susbtantial information retrieval toolkit.
+
+Thanks and let me know if you are interested.
+
+Jim JM
+E 2
+I 1
+E 1

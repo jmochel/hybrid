@@ -1,0 +1,20 @@
+% dvips.mfj - created by dvips
+input [modes];
+{
+font=cmr10;
+mag=2.488320000;
+mode=hplaser[300];
+output=pk[c:\texfonts\pixel.lj\@Rrdpi\@f];
+}
+{
+font=cmr10;
+mag=2.073600000;
+mode=hplaser[300];
+output=pk[c:\texfonts\pixel.lj\@Rrdpi\@f];
+}
+{
+font=cmr12;
+mag=1.000000000;
+mode=hplaser[300];
+output=pk[c:\texfonts\pixel.lj\@Rrdpi\@f];
+}

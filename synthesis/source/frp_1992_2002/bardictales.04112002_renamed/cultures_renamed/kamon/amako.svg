@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="87" height="97">
+<path style="fill:#fdfdfd" d="M87 0 L87 97 L0 97 L0 0 L87 0 z"/>
+<path style="fill:#bababa" d="M77 47 L76 16 C75.83 15 77.17 14.75 77.75 15.25 C77.67 25.55 79.17 37.6 77 47 z"/>
+<path style="fill:#a8a8a8" d="M11 16 L11 47 C9.333 38.03 9.333 24.97 11 16 z"/>
+<path style="fill:#010101" d="M11 47 L11 16 L42.75 16.25 L42.75 46.75 L11 47 z"/>
+<path style="fill:#010202" d="M76 16 L77 47 L45.25 46.75 L45.25 16.25 L76 16 z"/>
+<path style="fill:#f1f2f2" d="M29 34 L23 34 C20.08 27.16 31.92 27.16 29 34 z"/>
+<path style="fill:#f1f1f1" d="M64 34 L58 34 C55.08 27.16 66.92 27.16 64 34 z"/>
+<path style="fill:#717171" d="M29 34 C28.27 35.62 23.73 35.62 23 34 L29 34 z"/>
+<path style="fill:#757676" d="M64 34 C63.27 35.62 58.73 35.62 58 34 L64 34 z"/>
+<path style="fill:#a9aaaa" d="M11 49 L11 80 C9.333 71.03 9.333 57.97 11 49 z"/>
+<path style="fill:#010101" d="M11 80 L11 49 L42.75 49.25 L42.75 79.75 L11 80 z"/>
+<path style="fill:#010101" d="M77 49 L77 80 L45.25 79.75 L45.25 49.25 L77 49 z"/>
+<path style="fill:#bababa" d="M77 80 L77 49 C78.67 57.97 78.67 71.03 77 80 z"/>
+<path style="fill:#989999" d="M29 62 L23 62 C23.73 60.38 28.27 60.38 29 62 z"/>
+<path style="fill:#abacac" d="M63 67 C64.06 63.03 61.97 60.94 58 62 C61.34 57.98 67.02 63.66 63 67 z"/>
+<path style="fill:#eeefef" d="M29 62 C31.92 68.84 20.08 68.84 23 62 L29 62 z"/>
+<path style="fill:#f8f8f8" d="M63 67 C59.03 68.06 56.94 65.97 58 62 C61.97 60.94 64.06 63.03 63 67 z"/>
+</svg>

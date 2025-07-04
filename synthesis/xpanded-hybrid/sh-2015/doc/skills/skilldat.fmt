@@ -1,0 +1,11 @@
+.BeginSkill 
+.BaseType	
+.Interaction
+.Implementation
+.StatBasis
+.BeginDesc
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill

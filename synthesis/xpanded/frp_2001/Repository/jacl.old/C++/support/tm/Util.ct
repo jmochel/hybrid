@@ -1,0 +1,106 @@
+..  Contains Declaration of Utils for C++ class code.
+..
+..  Author Jim Jackl-Mochel
+..  Date <???>
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.1.1.1 $
+..  $Date: 1998/06/12 16:36:29 $
+..
+
+Now including Util.ct
+
+.set StandardTypes boolean char byte short int long float double string
+
+..  ===================================================
+..
+..  Desc 
+..      Tests for standard data types
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsStandardType type
+.return ${member $(type) $(StandardTypes) }
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests for a type being a typedef (constructor)
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsTypedef type
+.return ${member $(type)  $(ttypelist)}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests if the type is a String
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsString type
+.return ${eq $(type) "string" }
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests to see if the term is the last term in the given list.
+..
+..  Parameters
+..
+..      term - the term being tested for inclusion
+..      list - the list being tested against
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsLastTermInList term list
+.return ${== ${index $(term) $(list)} ${len $(list)}}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests if a list has any entries
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsPopulated list
+.return ${!= 0 ${len $(list)}}
+.endmacro
+
+..
+..  EOF
+..

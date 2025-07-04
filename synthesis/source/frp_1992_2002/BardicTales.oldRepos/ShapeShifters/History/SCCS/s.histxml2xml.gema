@@ -1,0 +1,55 @@
+h09423
+s 00028/00000/00000
+d D 1.1 00/02/04 15:13:53 jmochel 2 1
+cK33934
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:13:50 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/History/histxml2xml.gema
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07859
+cPShapeShifters/History/histxml2xml.gema
+cR84cc63635cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+!  Contains script 
+!
+!  Author Jim Jackl-Mochel
+!  Date <???>
+!
+!  Copyright - This code is in the public domain
+!
+!  Revision Information 
+!  ==================== 
+!  $Author: jmochel $
+!  $Revision: 1.1.1.1 $
+!  $Date: 1998/06/08 16:25:51 $
+!
+
+! Set the wrapping and margins of the output
+
+\B=@set-wrap{132;\t\t\t}
+
+\\index{*}=
+\\ndx{*}=$1
+\L\N\W\n=
+\\begin{quote}=\t\t\t<quote>
+\\end{quote}=\t\t\t</quote>
+\<\/event\>=$0\n
+
+!
+!  EOF
+!
+E 2
+I 1
+E 1

@@ -1,0 +1,670 @@
+h17398
+s 00642/00000/00000
+d D 1.1 99/12/02 15:59:23 jmochel 2 1
+cC
+cK44701
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:59:20 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/confed/confed.xml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44996
+cPworlds/confed/confed.xml
+cReb4786265cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<?xml version='1.0'?>
+<!DOCTYPE book PUBLIC "-//Norman Walsh//DTD DocBk30 XML V0.5//EN" "db3xml05.dtd">
+]>
+<book>
+    <title>The History of the Confederation</title>
+    <chapter>
+        <title>Brief Description</title>
+        <para>
+        The Confederation of Systems, more commonly known as the 
+        Confederation or Confed, is a collection of solar systems and colonies banded 
+        together for both defense and trade. There has been a concerted 
+        effort by the Confed to limit interference in the internal workings of the 
+        actual systems.
+        </para>
+        <para>
+        The Confed emcompasses a number of major racial groups. The Terrans 
+        and the various derivative races of {\it Homo Terra Prime} 
+        constitute a major portion of the current population. The Alpha 
+        Centaurans and the derivative races of {\it Homo Alpha Centauran 
+        Prime} constitute the next largest group followed closely by the 
+        Proximans {\it Homo Proxima Prime}. There are no other known races 
+        currently members of the Confed.
+        </para>
+        <para>
+        The duties of the Confederation as a governing body are quite simple: 
+        keep the peace {\em Between member systems}. To this end each system 
+        donates a portion of its military services to the Confed as well as 
+        some monetary support.
+        </para>
+    </chapter>
+
+    <chapter>
+        <title>History</title>
+
+        <sect1>
+            <title>
+            Pre-space
+            </title>
+                <para>
+                The history of the Confederation is most properly the history of the 
+                Terrans. The Terrans were one of the primary forces behind the 
+                formation of the Confederation. 
+
+                The Terran History of the years immediately preceeding the year 2560 is
+                found to have a nearly hysterical flavour to those used to reading the
+                histories of less divided cultures. Most other cultures in the 
+                Confederation of Systems have a sharply defined predilection toward or
+                away from war. Few cultures have the ambivalence of a Terran towards
+                violence.
+
+                During the time period following the Second World War the world focused
+                in conflicts around the two main super powers of the time period. With
+                a strong technological lead over the Soviet Bloc, the USA spent a great
+                deal of energy and influence in combatting any gains made by the Soviet
+                Bloc. 
+                </para>
+
+                <segmentedlist>
+                    <segtitle>
+                    1969
+                    </segtitle>
+                    <seglistitem>
+                        <seg>
+                        NEIL ARMSTRONG SETS FOOT ON LUNA
+                        </seg>
+                    </seglistitem>
+
+                    <segtitle>
+                    1981
+                    </segtitle>
+                    <seglistitem>
+                        <seg> 1ST PATENT ISSUED FOR GENETICALLY ALTERED BACTERIA
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1982
+                    </segtitle>
+                    <seglistitem>
+                        <seg> FUSION BREAKEVEN WAS REACHED (R.I.T)
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1986
+                    </segtitle>
+                    <seglistitem>
+                        <seg> CHALLENGER SHUTTLE ACCIDENT
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1989
+                    </segtitle>
+                    <seglistitem>
+                        <seg>
+                        Berlin wall comes down
+                        </seg>
+                        <seg>
+                        Major instabilities within the Soviet Union
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1996
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Poland becomes a member of the EEC
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1997
+                    </segtitle>
+                    <seglistitem>
+                        <seg> First Joint US/Soviet Space mission
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1998
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Argentina announces first cases of what is later to be described as Andes plague
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    1998
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Low Temperature Superconductor (214\degree K) commercially available
+                        </seg>
+                    <seglistitem>
+
+                </segmentedlist>
+
+                    <segtitle>
+                    1999
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Fairly minor economic hardship in many regions of the United States of America
+                        </seg>
+                        <seg> Increasing virulent strains of Aquired Immuno Deficiency virus surface
+                        </seg>
+                    <seglistitem>
+
+                
+                    <segtitle>
+                    2000
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Two prominent Catholic church officials die in Boston and NYC of AIDS-2
+                        </seg>
+
+                        <seg> Israel claims total annexation of Lebanon.
+                        </seg>
+
+                        <seg> Renewed hostilities between Mohawk nation and Quebec.
+                        </seg>
+
+                        <seg> France suffers from the explosion and destruction of the ``Super Pheonix'' reactor
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2001
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Costa Rica is purchased by the Nature Conservancy
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2002
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Japan announces successful cloning of Coelecanth
+                        </seg>
+
+                        <seg> General Electric establishes its own armed security force
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2003
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Long Island Blast - Detonation of Shoreham fission plant. accident ? 180,000 killed.
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2005
+                    </segtitle>
+                    <seglistitem>
+                        <seg> South American University of Ecological Engineering (SAUEE) established in Costa Rica
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2006
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Johannesburg established as only legal residence for whites in South Africa
+                        </seg>
+
+                        <seg> Desertification renders large parts of Somalia and Nigeria uninhabitable
+                        </seg>
+
+                        <seg> Korea is made a client state of Japan
+                        </seg>
+
+                        <seg> Anti-Fission Referendum Approved in the USA
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2008
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Discovery of Mirashi Sun Screen effect by Sanford Ezekial Jackl.
+                        </seg>
+
+                        <seg> First reconstruction of Tristamy 13 fetus
+                        </seg>
+
+                        <seg> Assassination of USA president Pat Schroeder.
+                        </seg>
+
+                        <seg> Japanese/Korean team demonstrates cybernetic helmet hookup
+                        </seg>
+
+                        <seg> U.N. Research and observation base at tycho Brachae is established
+                        </seg>
+                    <seglistitem>
+
+
+                    <segtitle>
+                    2009
+                    </segtitle>
+                    <seglistitem>
+                        <seg> U.N. is asked to vacate N.Y. by USA.
+                        </seg>
+
+                        <seg> U.N. Establishes its Meeting site at Point 7, Antartica
+                        </seg>
+
+                        <seg> EEC begins to make all UN support payments as one unit.
+                        </seg>
+
+                                <seg> G.E. puts first Mirashi Sun Screen power plant online using black
+                        box units supplied by Jackl Power Inc. Power plant comes on line from
+                        Los Alamos, Texas.
+                                </seg>
+                    </seglistitem>
+
+                    <segtitle>
+                    2011
+                    </segtitle>
+                    <seglistitem>
+                        <seg> USA and Canada, acknowlegding a growing interdependence, agree to merge their current economic systems. USA agrees to go metric.
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2012
+                    </segtitle>
+                    <seglistitem>
+                        <seg> Quebec and California declare their independence of the ``NorAm Combine''
+                        </seg>
+                    <seglistitem>
+
+                    <segtitle>
+                    2013
+                    </segtitle>
+                    <seglistitem>
+                        <seg> First offline run of white sands fusion plant
+                        </seg>
+                    <seglistitem>
+
+       </sect1>
+
+
+        <sect1>
+            <title>
+            Fire Years
+            </title>
+
+                <segtitle>
+                    2014
+                    </segtitle>
+                    <seglistitem>
+                        <seg> October : First L-5 orbiting station  ``Lagrange-Five'' made operational by NorAm Combine. Soviet aid accounts for 30% of labor and 20% of materials.
+                        </seg>
+                    <seglistitem>
+
+
+                <segtitle>
+                    2015
+                    </segtitle>
+                    <seglistitem>
+                        <seg> December : Second L-5 orbital station made operational by U.N. Joint Technology Mission, SAUEE and Australian Mining concerns.
+                        </seg>
+
+                        <seg> Guiseppe Lapilito demonstrates the first power armoured suit to a group of skeptical military procurement officers by walking through the Pentagon and into the office of the Secretary of the Army, uninvited.
+                        </seg>
+
+                        <seg> Quebec Food riots
+                        </seg>
+
+                        <seg> Cray VMOP-40 put online at Socorro Research Center, New Mexico . VMOP = virtual memory optical plaques
+                        </seg>
+
+                        <seg> General Dynamics demonstrates the first prototype ``Screen-Shuttle''
+                        </seg>
+
+                        <seg> California is brought back into the NorAm Combine by use of Blockade.
+                        </seg>
+
+                        <seg> Soviet Secretary General Gosseyn is killed as a result of terrorist bombing. The ecological terrorist group ``Golden Monkey Wrench'' claims responsibility.
+                        </seg>
+                    <seglistitem>
+
+            2021 Regular "screen shuttle" service between the earth and
+            moon is established.
+            2020 General Dynamics and SovMhD together offer screen shuttle service between Moscow, New York, Antartica, and Tycho Brachae. 
+
+            2017 Darrel Kaven psychic research center is established in Santa 
+            Barbara California.
+            2024 Establishment of lunar penal colony "Selene" by NorAm Combine.
+            2024 Montreal massacre 1,534 dead.
+            2025 Sandoz starts marketing male and female contraceptive implants 
+            based on non-abusive hormal regulation.
+            2030 Mitsubishi unveils first commercially obtainable shuttle craft, the
+            Infiniti-2.
+            2040 Creation of Ares city on Mars.
+            2055 The Federal Bureau of Intelligence is greated powers of 
+            interrogation under the Clayton Counterterrorism Act. 
+            2056 The L.A. Quake of '56. Richter 9.3. 
+            2056 The Bureau of mental Health is established. The bureau is given 
+            overriding control over all wards of the state. It also serves as a 
+            deprogramming dept.
+            2057 First commercial Organ bank is opened up.
+            2059 ZPG Act places enforcement of birth limits in the hands of 
+            the Bureau of Public Health. (Was Bureau of Mental health).
+            2060 Serge - a radical environmental group , succeeds in 
+            destroying 2 biological warfare research units. Resulting plagues
+            kill 6 million.
+            2121 Citing unpaid debts Argentina invades Chile against opposition 
+            from NorAm and Chilean troops. War continues for 3 years before the 
+            Belmopan Armistice is signed. 
+            2123 Costa Rican Conservancy acquires Panama and Nicaragua. All three
+            countries become subject to a Conservation Council government. In 8
+            years both of the newly acquired regions become profitable and 
+            develop one of the highest health and living standards. The region 
+            is renamed the Conservancy States. 
+            2125 Mexico attempts to invade Gautemala. NorAm funded Mexican forces 
+            are defeated and disbanded in less than 6 months by Israeli Officered 
+            U.N. forces. The NorAm Combine withdraws from the U.N. 
+        </sect1>
+
+        <sect1>
+            <title>
+            The Diaspora
+            </title>
+            2045 Launch of gauss jammer "Einstein" by L-5 society with 1221 volunteer colonists.
+            2125 Launch of gauss jammers Dyson and Hawkings
+            2026 Conservancy designed underwater biosphere ``Jerusalem II'' is 
+            established by Israel in Mediteranean.
+            2027 1st atificial factor humanoid produced by General
+            MagnetoheteroDynamics, inc. (gmd)
+            2130 First use of artifacts in mining operations off terra
+            2136.0 1st contact between gauss jammer Einstein and Alpha
+            Centauran manned probe Fir'A'Naun
+            2138.3 Discovery of Mak'kasonar (Alphan) and Cagson (Terran)
+            transition made possible by Centauran spacial mathematics and Terran 
+            fusion technology. 
+            2138.5 Arrival on Alpha of Transition Drive equipped Pinnance carrying
+            Mak'kasonor.
+            2138.7 Arrival on Terra of Transition Drive equipped Pinnance carrying
+            Eli Cagson and his two sons. 
+            2138.9 Transition Drive is put in the public domain by executive decree. 
+            2139.4 Return of "Einstein " to terra.
+            2139.6 Alphan Recording of the Destruction of the Gauss Jammer Hawkings by
+            Proximan War vessels.
+            2139.9 Formation of the joint alphan/terran coalition. 
+            2140.8 Production of first military artificial factor humanoid "artifact" 
+            for combat in proximan space.
+            2139.7 Production of bacterial augmentation sera for terran troops. 
+            2141 Rediscovery of the planet "Wicca"
+            2143 Liberation and rediscovery of the planet "Elysia"
+            2143 The battle " terragoth" marks end of triculture war. The ``Three 
+            Suns Armistice'' lays down the foundation of the Confed council. 
+            2044 Declaration of "artifact" non citenship by terra
+            declaration of alphan / proximan aftifact citizenship
+            2155 You are here \dots
+
+
+        </sect1>
+
+
+        <para>
+        During this time period there was a gradual decline in the health of
+        the economies of the two Blocs as well as in actual scientific rather
+        than technological knowledge growth. In addition there was a marked
+        increase in religous fundamentalism in both the US and abroad in
+        various Islamic and Hindu countries. Both of the superpowers of the 
+        time period tended to ignore the economic build up of other countries 
+        except when their own immediate well being seem threatened. Certainly 
+        , both countries had a great deal to worry about.
+        </para>
+
+        <para>
+        As the technological wonders mounted in number and variety, so did the
+        need for energy to grow and expand. Conventional sources proved
+        insufficient and standard nuclear methods proved to be to dangerous.
+        During this time period public confidence in conventional
+        power sources was on the decline. 
+        </para>
+
+        <para>
+        The stresses placed on some of the smaller countries by the three ``super powers''
+        (EEC,Soviet Union, USA) caused many of the countries to form serious coalitions
+        with similiarly inclined republics. Thus came into being the United Islamic States,
+        sthe Indos Island States (Phillipines and Indonesia), and the loosley allied 
+        Scandinavian Coalition (the Scandic).
+        </para>
+
+        <para>
+        Multinational Corporations became commonplace as each country's industrial 
+        complex bought into the financial structure of several others. Space travel 
+        was almost an ignored project with only small bits of developement going on 
+        at a relatively low intensity . 
+        </para>
+
+        <para>
+        Other methods of energy production became standard. With the 
+        discovery of a highly efficient technique for solar energy conversion 
+        came an increased traffic flow between the planet and its moon.
+        </para>
+
+        <para>
+        The smaller countries begin to use the U.N. as a fairly sophisticated 
+        lever against both of the two super powers. The EEC, Israel, the 
+        Islamic state coalition, and the republic of India are primary 
+        supporters. in doing so they establish a fairly strong tradition for 
+        the U.N. as a military force and the use of Israeli Officers as advisors. 
+        </para>
+
+        <para>
+        Unrest over food shortages continued. in addition there was
+        a slight resurgence of territoriality within the
+        northwestern hemisphere.
+        </para>
+
+        <para>
+        A small group of dedicated visionaries succeeded in secretly
+        launching a colony ship from the sirius orbital station. the
+        "Gang of l-5" was tried and convicted of treason. later
+        pardoned as a result of public outcry.
+        </para>
+
+        <para>
+        Exploration increased rapidly. all planets except Saturn and
+        Jupiter are successfully landed upon.
+        </para>
+
+        <para>
+        United Nations Standard units of Exchange become a standard 
+        media of exchange for all but NorAm Combine and the Soviet Union. 
+        </para>
+
+        <para>
+        Resource tensions cause the first major conflict of the 21st century, 
+        the Brushfire war, which lasts for all of 13 days and renders goodly 
+        portions of Somalia and the United Islamic Coordinate unihabitable. 
+        The Iraqi valley oil fields are made useless by heavy fallout.   
+        </para>
+
+        <para>
+        In the year 2046 a the lunar colony selene discovers the
+        presence of a space craft landing site - over 2000 years
+        old.
+        </para>
+
+        <para>
+        In the early part of the 2050s there comes a long series of 
+        conflicts in the middle European and South American arena 
+        that feature major losses for each of the two super powers.
+        </para>
+
+        <para>
+        During this time period the incarcerations begin. hundreds of thousands of 
+        North American citizens are jailed for Un-American and Un-Canadian stances.
+        "Proctors" become become overseers of public education. 
+        </para>
+
+        <para>
+        World economic conditions worsen.
+        </para>
+
+        <para>
+        The North American States experience the first net emigration of people 
+        in two centuries.
+        </para>
+
+        <para>
+        The Soviet Union switches over to the U.N. Standard of exchange and 
+        agrees to adhere to U.N. Resource management restrictions. The 
+        founder of Jackl Power Inc. , suffering from a terminal illness, 
+        wills his fortune, his entire stock holding in Jackl Power (74\%) , 
+        and his land holdings in upper New York State to the Mohawk Nation of 
+        Quebec. The Mohawk Nation uses the money to finance the building of 
+        the ``Red Jacket University of Power Engineering ''. In addition, 
+        they begin one of the largest public relations campaigns in history 
+        as part of an attempt to separate from the NorAm combine. 
+        </para>
+
+        <para>
+        The Alphan 
+        </para>
+
+    </chapter>
+
+
+    <chapter>
+        <title>Major Terran World Powers</title>
+
+        <glosslist>
+            <glossentry>
+                <glossterm>
+                    The Conservancy
+                </glossterm>
+                <glossdef>
+                    <para>
+                    The Conservancy is both a set of Terran republics and the governing body
+                    that rules them. It is a quasi-mercantile organization funded by
+                    controlled tourism and payment for its Terraforming services.
+                    </para>
+
+                    <para>
+                    In land area it controls much of what is currently Mexico, Guatamala,
+                    all the way down to Peru and Brazil. 
+                    </para>
+                </glossdef>
+            </glossentry>
+
+            <glossentry>
+                <glossterm>
+                    NorAm Combine
+                </glossterm>
+                <glossdef>
+                <para>
+                The North Americam Combined States is the loose coalition of the 
+                Mohawk Nation, the United States of America, Canada, and Greenland.
+                </para>
+                <para>
+                While it has adopted the U.N. currency as a monetary standard the NorAm 
+                Combine is not a member of the U.N.
+                </para>
+                </glossdef>
+            </glossentry>
+
+
+            <glossentry>
+                <glossterm>
+                United Islamic Coordinate
+                </glossterm>
+                <glossdef>
+                <para>
+                </para>
+                </glossdef>
+            </glossentry>
+
+           <glossentry>
+                <glossterm>
+                    The United Nations
+                </glossterm>
+                <glossdef>
+                <para>
+                    The largest single world organization on Terra. It is composed, in 
+                    the main, of the EEC countries, the Soviet Union, Australia, and 
+                    Israel. 
+               </para>
+                </glossdef>
+            </glossentry>
+
+        </glosslist>
+
+   </chapter>
+
+    <chapter>
+        <title>Religious Organizations</title>
+
+        <glosslist>
+            <glossentry>
+                <glossterm>
+                    Wiccans
+                </glossterm>
+                <glossdef>
+                <para>
+                    A semi-mystical coalition of churches derived from the pagan 
+                    movements of the 1990s, the Unitarian Universalist and Humanist 
+                    movements of the 2000s, and the New Bhudda movement of 2020.
+                </para>
+                </glossdef>
+            </glossentry>
+
+
+            <glossentry>
+                <glossterm>
+                    Cestus Dei
+                </glossterm>
+                <glossdef>
+                <para>
+                    A result of the ``Fire Reformation'' of the Catholic Church and
+                    vatican IIII, the Cestus Dei are a missionary organization derived 
+                    from the original Society of Jesus. As the name implies, the Cestus 
+                    Dei is a militant brotherhood/Sisterhood
+                </para>
+                </glossdef>
+            </glossentry>
+
+            <glossentry>
+                <glossterm>
+                    The New World church
+                </glossterm>
+                <glossdef>
+                <para>
+                    Moonies in space.
+                </para>
+                </glossdef>
+            </glossentry>
+       
+        </glosslist>
+    </chapter>
+</book>
+
+
+
+
+E 2
+I 1
+E 1

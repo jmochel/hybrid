@@ -1,0 +1,156 @@
+5.87  Hit Location in Combat
+============================
+ 
+By: Christian Otkjaer
+Date: May, 1993
+ 
+This rule requires more bookkeeping on the part of each player and the
+GM, and complicates combat.  However, it should add more excitement to
+combat as well.  Characters can be kept alive a bit longer, but at the
+cost of leaving them severely in need of medical aid. 
+ 
+5.871  Hit Location
+-------------------
+ 
+As suggested briefly in Section 3.6, players can aim at a specific body
+part during battle.  There is a penalty for the size of the part, as
+follows:
+ 
+	Eyes, coins, etc.: -3
+	Hands, feet, heads, pixies, etc.: -2
+	Legs, arms, leprechauns, etc.: -1
+	Human torsos, halflings, giants' legs, etc.: +0
+	Giant's body (if you can reach it), dragons, cars, etc.: +1 or
+	   more  (Subtract 1 from final damage so this +1 to hit does
+	   not become a +1 to damage, also.)
+ 
+If the player doesn't specify a body part, it is assumed to be a torso
+attack.
+ 
+These are for melee combat.  For a ranged attack, simply set the degree
+task appropriately higher.
+ 
+If the range is too distant, you can't aim at a specific part.  Instead,
+roll to hit the torso as usual.  If successful, use a random hit location
+by rolling 1d6:
+ 
+Rolled	Hit
+ 1	Extremity
+ 2	Leg
+ 3	Torso
+ 4	Torso
+ 5	Arm
+ 6	Head
+ 
+On a result of Extremity, roll another d6: 1-3 = Foot; 4-6 = Hand.
+On a result of Hand, Foot, Arm or Leg, roll another d6: 1-3 = left; 
+   4-6 = right.
+ 
+A game company called The Armory makes a "Hit Location" die with a
+different circled body part on each face.  You could simply use one of
+these, instead.
+ 
+[Digression: both The Armory and Flying Buffalo, Inc., make some
+interesting novelty dice that would work very well with FUDGE, and are
+recommended.  You can get dice showing pictures of different fumbles,
+critical hits, NPC reactions, noises, monster encounters, treasure,
+weather, corridor options, traps, doors, etc.  Ask your local retailer 
+to check his distributor's catalog under "Dice."  - S.O'S.]
+ 
+Aiming at a specific body part means a -1 to Initiative if using those
+rules.
+ 
+5.872  Damage to an Individual Body Part
+----------------------------------------
+ 
+Each body part has its own Damage Capacity, all based on the the
+character's general Damage Capacity:
+ 
+Foot:  -2 levels to general Damage Capacity
+Hand:  -2 levels
+Arm:   -1 level
+Leg:   -1 level
+Head:  -1 level
+Torso: -0 level
+ 
+That is, someone of overall Fair Damage Capacity has Poor Damage Capacity
+in each foot and hand,  Mediocre Damage Capacity in his head and in each
+arm and leg, and Fair Damage Capacity in the torso.  His *Constitution*
+is not affected by this, though: if he has Fair Constitution, all body
+parts have Fair Constitution.
+ 
+You could represent this on the back of the character sheet as a table.
+For example, here is a table for someone of Fair Damage Capacity:
+ 
+		Scratch    Hurt    Very hurt  Incapacitated  Near Death
+Torso:             2         2          2          2           2
+Head:              2         2          1          2           2
+ 
+Body and head wounds are treated exactly as in the main text.
+ 
+The terms "Incapacitated" and "Near Death" are replaced by the terms
+"Useless" and "Crippled" for the limbs.
+ 
+		Scratch    Hurt    Very hurt    Useless    Crippled
+Left arm:          2         2          1          2           2
+Left hand:	   2         1          1          2           2
+Right arm:         2         2          1          2           2
+Right hand:        2         1          1          2           2
+Left leg:          2         2          1          2           2
+Left foot:         2         1          1          2           2
+Right leg:         2         2          1          2           2
+Right foot:        2         1          1          2           2
+ 
+5.873  Useless and Crippled Limbs
+---------------------------------
+ 
+A character drops whatever he was holding in a hand or arm that becomes
+useless.  It must be healed before it can be used again.
+ 
+If a leg or foot becomes useless, the character falls down.  (A Superb
+agility roll might prevent this, if the GM is willing.)  He can stand and
+move again (slowly) if he leans on something, even if it's just a
+makeshift cane.
+ 
+A crippled limb is the same as useless, but takes twice as long to heal.
+ 
+Any limb that takes damage beyond crippled is permanently cut off,
+crisped, withered, mangled, etc., depending on the attack.  Only magic,
+cyberware or a miracle will help in these cases.
+ 
+5.874  Modifiers Due to Damage
+------------------------------
+ 
+Only the most severe Wound counts for negative modifier purposes, and
+only for an appropriate activity.
+ 
+Example: a character is Hurt (-1) in his right arm, Very Hurt (-2) in his
+left leg, and Hurt (-1) in his right foot.  He is at -2 to all actions
+involving the left leg, which include fighting while standing.  The -1 to
+his right foot is not cumulative with this damage.  However, he is only
+at -1 if trying to pick a lock, since only the arm wound counts in this
+action.
+ 
+5.875  Keeping Track of Wounds
+------------------------------
+ 
+You can still use the card method to track wounds, but you should make
+your own cards indicating what they are for.  E.g., a card with a picture
+of a left hand or "left hand" written on it counts as a wound to
+(surprise!) the left hand.  You might just want to record wounds on paper
+instead.
+ 
+5.876  Widespread Damage
+------------------------
+ 
+If a character is hit by a giant fireball, a flame thrower, the blast
+from a grenade, a cave in, etc., the damage must be distributed to each
+afflicted part.
+ 
+Figure the final damage as usual.  Every part of the body that possibly
+could be affected takes *half* (round up) of the final damage.  If you
+have different armor on different parts of your body the calculation must
+be made for each body part.  (A Space Crusader in heavy battle armor
+might not mind a blast from a flame thrower, unless he had just taken off
+his gloves . . . or helmet!)
+ 

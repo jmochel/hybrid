@@ -1,0 +1,44 @@
+.Name TIBERIUS
+.Title								
+.Race H-ELF
+.Culture
+.Aspect 
+.PST 9
+.PEN 11		
+.DEX 11
+.PAG 17		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 12
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 180		 
+.AGE 150
+.BeginDesc
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale TIBERIUS' STONES
+.BeginKnownAssoc
+ ALDEN THE HALF ORC,PHAEDRUS
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ UNKEMPT INDIVIDUAL
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

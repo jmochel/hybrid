@@ -1,0 +1,47 @@
+.Name RAEDERLE
+.Title LAND LAW HEIR,FIRE MOLDER   
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 10
+.PEN 10		
+.DEX 17
+.PAG 18		
+.PAW 14
+.MST 8		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 104		 
+.AGE 
+.BeginDesc
+ RED HAIRED BEAUTY
+.EndDesc
+.BeginSkills
+Weapon: STAFF(2)			 , 
+.EndSkills
+.Locale ANNYN
+.BeginKnownAssoc
+ RULER OF ANNYN,HAR OF OSTERLAND,DANAN OF ISIG
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ AS TEMPRAMENTAL AS HER HAIR WOULD INDICATE BUT STILL VERY WELL LOVED BY
+THOSE OF ANNYNN
+.EndComment
+.BeginPossess
+ A NECKLACE OF SAFIRES
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

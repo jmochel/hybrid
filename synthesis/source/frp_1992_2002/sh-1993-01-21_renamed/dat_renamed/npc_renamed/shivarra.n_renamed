@@ -1,0 +1,57 @@
+.Name Shivarra
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 14
+.PEN 12		
+.DEX 15
+.PAG 18		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 15
+.MAG 16
+.MAW 17
+.HT 5'4"      
+.WT 120		 
+.AGE 23
+.BeginDesc
+Long curly dark brown hair , usually worn in several braids. Often	 
+wears silver earrings and necklace as well as bracelets. Usually wears leathers 
+and brightly colored blouses and trou or skirts. Somewhat partial to purples and
+reds. Almost always carries a small tambouran. Also wears a small eating knife  
+in her boot, a dagger in the middle of her back, a poisoned needle to hold her  
+cloth belt/sash, and a staff of Oak.
+.EndDesc
+.BeginSkills
+Weapon: Dagger				, 7
+.EndSkills
+.Locale Travels
+.BeginKnownAssoc
+Sister to Kevra, Brother to Lanelore.
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+Finrin, Koreal, Ezra, Therim, Nilrem, Kerkajamen.
+.EndFriends
+.BeginComment
+Shivarra is in many ways a typical Moonsinger. She is sympathetic,		
+friendly and ruthless. She has joined with Koreal and Ezra's group because she  
+is fond of Finrin and because it allows her to learn more of her enemies. 
+
+She is of the Kevar royal line and has some spiritual authority as a result.
+.EndComment
+.BeginPossess
+A necklace of "The Moonwalk" , a silver poisoned needle, and a set 
+of hair combs in rosewood and silver. 
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

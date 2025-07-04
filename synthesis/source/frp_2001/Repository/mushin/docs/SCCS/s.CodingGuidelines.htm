@@ -1,0 +1,546 @@
+H29343
+s 00516/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK63128
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/docs/CodingGuidelines.htm
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK51128
+cPdocs/CodingGuidelines.htm
+cR476fa262
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META NAME="Author" CONTENT="Jim Jackl-Mochel">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (WinNT; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P><FONT SIZE=+3>JACL&nbsp;Develpment and Coding Guidelines </FONT></P>
+
+<P><FONT SIZE=+3>$Revision: 1.1.1.1 $ </FONT></P>
+
+<P><FONT SIZE=+2>Jim Jackl-Mochel</FONT></P>
+
+<UL>
+<LI><FONT SIZE=+2>Introduction </FONT></LI>
+
+<UL>
+<P>This document describes the the coding guidelines for a reusable class
+library. </P>
+
+<LI><FONT SIZE=+2>Implementation Process </FONT></LI>
+</UL>
+
+<UL>
+<P>There are certain milestones that need to happen to ensure that we produce
+a library that is reusable and useful. The listed items marked with the
+'*' are those that should be done to ensure that the code and documentation
+has a minimum quality and quantity. </P>
+
+<OL>
+<LI>Research </LI>
+
+<P>One of the single best ways to ensure quality of code and productivity
+is to reuse good code or designs. </P>
+
+<LI>Design </LI>
+
+<P>Check that the design fits the stated requirements of the module. </P>
+
+<LI>Review Design (for fit with other modules) </LI>
+
+<P>Especially verify that the error handling is adequate for more than
+the initial expected use. </P>
+
+<LI>Code</LI>
+
+<P>Comment the &quot;Why&quot;</P>
+
+<LI>Proof </LI>
+
+<LI>Unit Test </LI>
+
+<LI>Establish Canons</LI>
+
+<LI>Proof </LI>
+
+<P>Use Lint and CodeCheck Eliminate Lint Errors and any nonconforming structures
+in the code. </P>
+
+<LI>Check in code and post documentation (online and other) </LI>
+
+<P>Reformat the code and extract comments to online docs. Verify that spelling
+of elements in the code are correct. Misspellings are considered bugs.
+</P>
+</OL>
+
+<P>The key milestones here are the design review to ensure that what is
+being designed has a better chance to be a general solution, the proofing
+in place of a formal code review, and the check in of the code and documentation.
+</P>
+</UL>
+
+<LI><FONT SIZE=+2>Tools </FONT></LI>
+
+<P>Before check-in use: </P>
+
+<OL>
+<OL>
+<LI>Lint </LI>
+
+<LI>CodeCheck </LI>
+
+<LI>BoundsChecker or equivalent</LI>
+
+<LI>CFORMAT or equivalent</LI>
+</OL>
+</OL>
+
+<P>For ports to other platforms the programmer doing the port is responsible
+for removing errors and warnings on the new platform. </P>
+</UL>
+
+<P><FONT SIZE=+3>JACL&nbsp;Coding Guidelines 
+<HR width="100%"></FONT><FONT SIZE=+2>Naming Conventions </FONT></P>
+
+<P>All classes, attributes and methods methods will be named using a standard
+set of abbreviations. This glossary can be found in <A HREF="glossary.txt">Glossary</A>
+</P>
+
+<P>Sample Glossary </P>
+
+<UL>
+<P>Doc Document </P>
+
+<P>Error Error </P>
+
+<P>Rprtr Reporter </P>
+
+<P>Desc Description </P>
+
+<P>Level Level </P>
+
+<P>Curr Current </P>
+</UL>
+
+<P><FONT SIZE=+1>Classes/Structures </FONT></P>
+
+<UL>
+<P>All classes and structures are considered to be abstract data types.
+For that reason there should be no distinction between names of structures
+and classes. </P>
+
+<P>The naming convention should specifically address the task of describing
+the content of a variable, not the type of the variable. </P>
+</UL>
+
+<P>Sample Class Names </P>
+
+<UL>
+<P>ErrorRprtr </P>
+
+<P>BTreeFile </P>
+
+<P>Doc </P>
+
+<P>DocDesc </P>
+</UL>
+
+<P>Variable names are propercased and unique and do not match the names
+of the library classes or datatypes. There should be no '_' or Ptr or Ref
+used in naming. </P>
+
+<P>Sample Variable Names </P>
+
+<P>SimpleDoc FirstItem Doc Instance AnInstance </P>
+
+<P><FONT SIZE=+1>Class Attributes/Data Members </FONT></P>
+
+<UL>
+<P>Data members (as far as the externmal interface is concerned) should
+have a propercased name that doen't contain a redundant reference to its
+class: </P>
+</UL>
+
+<P>Sample Data Member Public Names </P>
+
+<P>ErrorRprtr.CurrRprtingLevel </P>
+
+<P>DocDesc.Name </P>
+
+<P>but not DocDesc.DocDescName </P>
+
+<P><FONT SIZE=+1>Methods </FONT></P>
+
+<UL>
+<P>All methods should be named according to Class::VerbNoun with an agreed
+up list of standard verbs and abbreviations for those verbs. </P>
+
+<P>Sample Method Naming Convention </P>
+
+<UL>
+<P>ErrorRprtr::RprtingLevel </P>
+
+<P>DocDesc::Name </P>
+
+<P>DocDesc::Open </P>
+
+<P>DocDesc::Print </P>
+</UL>
+</UL>
+
+<P><FONT SIZE=+2>Class Content/Structure </FONT></P>
+
+<P>All classes should have the following: </P>
+
+<P>A void constructor </P>
+
+<UL>
+<P>This is the constructor the compiler calls when initializing members
+of a vector of objects. </P>
+</UL>
+
+<P>A copy constructor </P>
+
+<UL>
+<P>This constructor is necessary to ensure uniform behaviour when the compiler
+is handling situations where a class is being passed by value or when it
+is being returned by value (And sometimes when it is returned by reference).
+</P>
+</UL>
+
+<P>A virtual destructor </P>
+
+<UL>
+<P>If there is no virtual destructor then the derived class may not define
+a destructor without adding bugs. It is just easier to add them by default.
+</P>
+</UL>
+
+<P>Accessors/Mutators </P>
+
+<UL>
+<P>of the form </P>
+
+<P><TT>const Height GetHeight(void) </TT></P>
+
+<P>and </P>
+
+<P><TT>void SetHeight(Height&amp;&nbsp;AHeight);</TT></P>
+</UL>
+
+<P>a stream I/O overload of &gt;&gt; </P>
+
+<UL>
+<P>This is useful for debugging and for conveinient for low speed I/O.
+</P>
+</UL>
+
+<P>and where applicable a comparison operator.... </P>
+
+<P>If the class uses reference counting it must also define the assignment
+operator. </P>
+
+<P>The public interface would come first in the class declaration followed
+by the protected and private interface. Within each of these the data attributes
+would come after the class methods. </P>
+
+<P><B><I><TT><FONT SIZE=+1>Sample Class Declaration </FONT></TT></I></B></P>
+
+<P>
+<HR width="100%"></P>
+
+<P><TT>class ByteBfr { </TT></P>
+
+<UL>
+<P><TT>public: </TT></P>
+
+<UL>
+<P><TT>// Constructors </TT></P>
+
+<P><TT>ByteBfr(void); <BR>
+ByteBfr(const ByteBfr&amp; aByteBfr); </TT></P>
+
+<P><TT>// Destructor </TT></P>
+
+<P><TT>virtual ~ByteBfr(void); </TT></P>
+
+<P><TT>// Accessors </TT></P>
+
+<P><TT>const size_t GetSize(void) const; <BR>
+const size_t GetLen(void) const; </TT></P>
+
+<P><TT>// Mutators </TT></P>
+
+<P><TT>void SetSize(size_t&amp; ASize); <BR>
+void SetLen(size_t&amp;&nbsp;Alen); </TT></P>
+
+<P><TT>// Assignment </TT></P>
+
+<P><TT>ByteBfr&amp; operator = (const ByteBfr&amp;); </TT></P>
+
+<P><TT>// Comparison </TT></P>
+
+<P><TT>int Compare(const ByteBfr&amp; Bfr2) const; </TT></P>
+
+<P><TT>// Overloaded Logic Operators </TT></P>
+
+<P><TT>friend Boolean operator ==(const ByteBfr&amp; bfr1, const ByteBfr&amp;
+bfr2); <BR>
+friend Boolean operator !=(const ByteBfr&amp; bfr1, const ByteBfr&amp;
+bfr2); </TT></P>
+
+<P><TT>// Assignment </TT></P>
+
+<P><TT>ByteBfr&amp; operator = (const ByteBfr&amp; aByteBfr); </TT></P>
+
+<P><TT>// Assignment </TT></P>
+
+<P><TT>ByteBfr&amp; operator = (const char* CStr); </TT></P>
+
+<P><TT>// Conversions </TT></P>
+
+<P><TT>Byte&amp; operator [] (size_t ndx); operator const Byte* () const;
+operator const char* () const; </TT></P>
+
+<P><TT>// Stream I/O </TT></P>
+
+<P><TT>friend ostream&amp; operator &lt;&lt; (ostream&amp; os, const ByteBfr&amp;
+aByteBfr); </TT></P>
+</UL>
+
+<P><TT>protected: </TT></P>
+
+<UL>
+<P><TT>size_t _Size; // Allocated Size <BR>
+size_t _Len; // Current Length <BR>
+Byte* _Bfr; // Pointer to data </TT></P>
+</UL>
+</UL>
+
+<P><TT>}; </TT></P>
+
+<P>
+<HR width="100%"></P>
+
+<P><FONT SIZE=+2>Unit Testing </FONT></P>
+
+<P>Unit testing is a requirement for any check in of library (reuse) modules.
+</P>
+
+<P>In each FILEROOT.CPP would be a </P>
+
+<P><B><I><FONT SIZE=+1>Sample Unit Test Code </FONT></I></B>
+<HR width="100%"></P>
+
+<P><TT>#ifdef TEST_FILEROOT </TT></P>
+
+<P><TT>#include &quot;stdio.h&quot; <BR>
+#include &quot;FILEROOT.hpp&quot; </TT></P>
+
+<P><TT>main (int argc, char* argv[])<BR>
+{ <BR>
+// Test code <BR>
+} </TT></P>
+
+<P><TT>#endif /* TEST_FILEROOT */ </TT></P>
+
+<P>
+<HR width="100%"></P>
+
+<P>Each unit test is a self contained unit requiring no parameters to conduct
+a thorough test of the instantiation, destruction, and basic behaviour
+of the class. It may help in writing these unit tests to realize that they
+will be used in the documentation as an example of the class's use. </P>
+
+<P><FONT SIZE=+2>Debugging/Error Handling </FONT></P>
+
+<P>Use BreakIfs for parameter errors and exceptions locally unrecoverable
+process errors. Any return value that deals with a success/fail situation
+should be boolean values. All error conditions and exceptions for a class
+and method must be documented. </P>
+
+<P><FONT SIZE=+2>Source Structure </FONT></P>
+
+<P>All filenames must be unique. &quot;hpp&quot; and &quot;cpp&quot; as
+standard extensions. </P>
+
+<P>One PUBLIC Class per HPP. One PUBLIC Class implementation per CPP </P>
+
+<P>There is a standard directory structure. </P>
+
+<P>Each header must be referenced in the source code via </P>
+
+<P>Sample Include Line </P>
+
+<P>#include &quot;jacl/FileName.HPP&quot; <BR>
+#include &quot;jacl/w32/FileName.HPP&quot; // Only for platform specific
+includes. </P>
+
+<P>to ensure a lack of name collisions. The double quotes are used rather
+than angle bracklets in specifying the file name. </P>
+
+<P>The naming of directories and libraries use the following terms. (prod)
+is the name of the product such as pt for PTLIB (host) is the host compiler
+such as b45 for Borland 4.5, mv2 for Microsoft Visual-C 2.0, W10 for Watcom
+10.0A, SY&amp; for Symantec 7 (target) is the target platform. D32 for
+32 bit dos, D16 for 16 bit dos, W32 for Windows 32, W16 for Windows 16,
+OS2 for OS/2. (morphology) D is for development, P is profile, R is release.
+</P>
+
+<P>Example directory structure. PTLIB // Project directory EXP // Export
+Directory LIB // Library directory DLL // DLL directory EXE // Binary Directory
+DOC // Documentation H/PT // Header file directory DAT // Data for the
+exported products unit tests ? REF // Reference - Current version of the
+project (working/not released) H/PT // Header file directory for the given
+project. H/PT/W32 // Platform specific headers H/PT/DOS // Platform specific
+headers SRC // Source code directory STREAM // Directory named for the
+component W32 // Platform specific code DOS RPRTR // Directory named for
+the component W32 // Platform specific code DOS DOC // Documentation directory
+W32 // Platform specific docs DAT // Data directory W32 // Platform specific
+data OBJ // Object code directory B45W32 // Platform specific objects LIB
+// Library directory B45W32D // Platform specific libraries MV2W32D //
+Platform specific libraries EXE // Binary directory B45W32D // Platform
+specific libraries MV2W32D // Platform specific libraries </P>
+
+<P>The libraries have a standard naming similiar to that used for directories.
+</P>
+
+<P>Example library naming structure. (prod)(host)(target)(morphology).lib
+or (prod)(host)(target)(morphology).dll </P>
+
+<P><FONT SIZE=+2>Documentation/Commenting </FONT></P>
+
+<P>We need to have a standard form of commenting and automatic extraction
+to help create online and hardcopy function references. </P>
+
+<P>Suggested File Header comment for HPP and CPP. </P>
+
+<P>/* </P>
+
+<UL>
+<P>$Revision: 1.1.1.1 $ </P>
+
+<P>$Date: 1998/06/12 16:36:28 $ </P>
+
+<P>$Author: jmochel $ </P>
+
+<P>.Contents Byte Buffer Object Declaration </P>
+</UL>
+
+<P>*/ </P>
+
+<P>Class Comment </P>
+
+<P>/* </P>
+
+<UL>
+<P>.ClassDesc </P>
+</UL>
+
+<UL>
+<UL>
+<P>A One line description of the class. </P>
+
+<P>.ClassLongDesc</P>
+
+<UL>
+<P>Some other notes</P>
+</UL>
+</UL>
+
+<P>.ClassNotes </P>
+
+<UL>
+<P>Some detailed implemenation notes. </P>
+</UL>
+</UL>
+
+<P>*/ </P>
+
+<P>The comment will have to immediately precede the Class definition so
+that the documentation tool can extract the class name. </P>
+
+<P>.ClassDesc is required .ClassLongDesc is optional .ClassNotes is optional.
+<BR>
+The Class Library name would be automatically deduced by the extraction
+tool from the directory name the source is in. </P>
+
+<P><FONT SIZE=+1>Method Documentation </FONT></P>
+
+<P>In the header , right in front of the method declaration should be a
+comment describing the method. This is not needed if the method is one
+of the standard methods. </P>
+
+<P>/* </P>
+
+<UL>
+<P>.MethodDesc Deletes the Nth byte in the stream </P>
+
+<P>.MethodParm.Bfr - The byte array to be modified .MethodParm.Ndx - The
+index of the byte to be deleted </P>
+
+<P>.MethodReturn False - When the byte is not deletable True - When byte
+is successfully deleted </P>
+
+<P>.MethodNotes This has bizzarre side effects when used with values of
+N greater than 32. </P>
+</UL>
+
+<P>*/ </P>
+
+<P>Status ByteBfr::Delete(ByteBfr&amp; Bfr, BfrNdx Ndx); </P>
+
+<P>In the source, preceding the method definition should be a comment with
+any additional notes about the class that are not needed by the casual
+user of the method. </P>
+
+<P>/* </P>
+
+<UL>
+<P>.MethodNotes This method is based on the obscure byte buffer update
+algorithm describes by Vlad the impaler in the 12th century. </P>
+</UL>
+
+<P>*/ </P>
+
+<P>Status ByteBfr::Delete(ByteBfr&amp; Bfr, BfrNdx Ndx) { ... } </P>
+
+<P>The comment will have to immediately precede the method definition so
+that the documentation tool can extract the method name, the MethodDesc
+when the method is a standard one, the MethodReturn, and the names of the
+parameters. </P>
+
+<P>.MethodDesc is required, unless the method is one of the standard methods
+common to all classes </P>
+
+<P>.MethodParm. is required </P>
+
+<P>.MethodReturn is required </P>
+
+<P>.MethodNotes is optional. </P>
+
+</BODY>
+</HTML>
+E 2
+I 1
+E 1

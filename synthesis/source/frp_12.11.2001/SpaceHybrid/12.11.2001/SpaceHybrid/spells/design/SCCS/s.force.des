@@ -1,0 +1,48 @@
+h51567
+s 00020/00000/00000
+d D 1.1 99/12/02 15:55:13 jmochel 2 1
+cC
+cK13482
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:55:09 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/spells/design/force.des
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44971
+cPspells/design/force.des
+cReb4786ed5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Name ForceShield
+.NRG Force
+.ACT Summon
+.ACT Bind
+.ACT Shield
+
+.TARGET Self
+
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 10
+.CDF -5
+.RNGSCALE 1m
+.RNG 1
+.DUR 1
+.DURSCALE 2Min
+.CTSCALE Pulse
+.QE 20
+.LINKQE 1
+E 2
+I 1
+E 1

@@ -1,0 +1,79 @@
+h00105
+s 00051/00000/00000
+d D 1.1 99/12/02 15:59:59 jmochel 2 1
+cC
+cK27676
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:59:55 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/confed/pkgs.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44999
+cPworlds/confed/pkgs.txt
+cReb47865c5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Name: Mechanised Infantry Trooper Suit Package
+Skill: Lore: Battle Suit
+Skill: Battle Suit Ops
+Skill: Suit Repair
+Skill: Electronic Ops
+Skill: Mechanical Ops
+Skill: Florentine: Fire-While-Move
+Skill: Weapon: Assault Rifle
+Skill: Weapon: Pistol
+Skill: Weapon: Grenade/Rocket Launcher
+Skill: Jumping
+Skill: Dodge
+Skill: Free Fall
+Skill: Throw
+Skill: Navigation/Orienteering
+Skill: Florentine: MAW-MAW
+Cost:7
+
+Name: Mechanised Infantry Trooper General Package
+Skill: Military HTH
+Skill: Lore:Military Weapons
+Skill: Lore:Military Culture
+Skill: Tactics
+Skill: Survival
+Skill: Combat Medicine
+Skill: Comm Ops
+Skill: Comp Ops
+Cost:4
+
+Name: Mechanised Infantry Trooper Scout Package
+Skill: Stealth (Visual)
+Skill: Stealth (Audible)
+Skill: Stealth (Electronic)
+Skill: ECM Operations
+Skill: Sensor Ops
+Skill: Forward Ops
+Cost: 4
+
+Name: Mechanised Infantry Officer Package
+Skill: Data Retrieval
+Skill: Data Analysis
+Skill: Strategy
+Skill: Leadership
+Skill: Lore: Military Protocol
+Skill: Lore: Military History
+Skill: Lore: Startegic Services Culture
+Cost: 4
+
+
+
+
+E 2
+I 1
+E 1

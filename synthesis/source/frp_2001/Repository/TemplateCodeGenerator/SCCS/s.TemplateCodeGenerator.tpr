@@ -1,0 +1,97 @@
+H22853
+s 00067/00000/00000
+d D 1.1 01/08/16 09:49:49 jmochel 2 1
+cC
+cF1
+cK56622
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/16 09:49:49 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/TemplateCodeGenerator.tpr
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK64589
+cPTemplateCodeGenerator.tpr
+cR367e5ca1
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+[Project]
+Language=java
+Root.0=$TGH$/lib/javax.jar
+Root.0.access=import
+Root.0.package_prefix=
+Root.1=$TGH$/jdk/jre/lib/rt.jar
+Root.1.access=import
+Root.1.package_prefix=
+Root.2=$PROJECT_DIR$
+Root.2.access=skip
+Root.2.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.2.package_prefix=
+Root.2.srcControlEnabled=false
+Root.2.srcControlProject=
+Root.3=$TOGETHER_HOME$/modules/components/CoadModelingComponents
+Root.3.access=import
+Root.3.component=
+Root.4=$PROJECT_DIR$/TemplateCodeGenerator/src
+Root.4.access=writable
+Root.4.file_types=java_source;java_class;;;
+Root.4.package_prefix=
+Root.4.srcControlEnabled=false
+Root.4.srcControlProject=
+Root.5=$PROJECT_DIR$/scm
+Root.5.access=writable
+Root.5.file_types=;;java_class;diagram;;
+Root.5.package_prefix=scm
+Root.5.srcControlEnabled=false
+Root.5.srcControlProject=
+Version=3.0
+editor.bookmark.0=
+editor.bookmark.1=
+editor.bookmark.2=
+editor.bookmark.3=
+editor.bookmark.4=
+editor.bookmark.5=
+editor.bookmark.6=
+editor.bookmark.7=
+editor.bookmark.8=
+Root.6=$PROJECT_DIR$/TemplateCodeGenerator/libs/jaxp.jar
+Root.6.access=import
+Root.6.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.6.package_prefix=
+Root.7=$PROJECT_DIR$/TemplateCodeGenerator/libs/xalan.jar
+Root.7.access=import
+Root.7.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.7.package_prefix=
+Root.8=$PROJECT_DIR$/TemplateCodeGenerator/libs/crimson.jar
+Root.8.access=import
+Root.8.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.8.package_prefix=
+Root.9=$TGH$/jdk/lib/tools.jar
+Root.9.access=import
+Root.9.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.9.package_prefix=
+debugger.SkipClass.0=,com.sun.*,1
+debugger.SkipClass.1=,java.*,1
+debugger.SkipClass.2=,javax.*,1
+debugger.SkipClass.3=,org.omg.*,1
+debugger.SkipClass.4=,sun.*,1
+debugger.SmartStep=true
+[model]
+alphaSort=true
+showDiagramContents=false
+showPackagesFirst=true
+[build]
+destination=$PROJECT_DIR$/builds/debug/classes
+E 2
+I 1
+E 1

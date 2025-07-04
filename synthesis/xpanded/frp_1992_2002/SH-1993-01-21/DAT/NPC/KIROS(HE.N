@@ -1,0 +1,46 @@
+.Name KIROS(HE WHO ROAMS)
+.Title								
+.Race CENTAUR
+.Culture
+.Aspect 
+.PST 15
+.PEN 16		
+.DEX 14
+.PAG 11		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+ 14
+.EndDesc
+.BeginSkills
+Weapon: TETSUBO				 , 
+.EndSkills
+.Locale TRAVELING
+.BeginKnownAssoc
+ MENTOR MOVARIC ( WALKS ON AIR )
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ LEFT HANDED,HEALER CENTAUR.. WORSHIPS HE WHO RUNS. (USANA)
+.EndComment
+.BeginPossess
+ SILVER STATUS MEDALLION ( HEALER & HIGH CENTAUR )
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,47 @@
+.Name TRUARK
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 12
+.PEN 16		
+.DEX 18
+.PAG 17		
+.PAW 14
+.MST 2		
+.MEN 14
+.PSI 14
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 17
+.BeginDesc
+ 20: A SOMEWHAT HANDSOME SCION OF THE LORDS OF CAERWEDDIN
+.EndDesc
+.BeginSkills
+Weapon: TWO HANDED SWORDS  , 
+.EndSkills
+.Locale CURRENTLY IN CAITHNARD
+.BeginKnownAssoc
+ STIFFNACK TUMBLETOMS, SEVIN NAYMES THE PALADIN
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A BANISHED SON OF A DUKE IN CAERWEDDIN. SOMEWHAT LESS THAN WISE, BUT	
+FAIRLY KIND.
+.EndComment
+.BeginPossess
+ DANCING SWORD
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

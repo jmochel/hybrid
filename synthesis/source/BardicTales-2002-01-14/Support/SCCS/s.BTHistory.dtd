@@ -1,0 +1,88 @@
+h32763
+s 00057/00000/00000
+d D 1.1 00/12/08 09:40:46 jmochel 2 1
+cC
+cF1
+cK63211
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:46 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/Support/BTHistory.dtd
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK09154
+cPSupport/BTHistory.dtd
+cR67fe5812
+cV3
+cX0x180
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+<!-- ====================================================================== -->
+<!--
+    BT History DTD
+
+    This code was last modified on $Date: 1999/01/13 18:11:06 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.2 $
+-->
+<!-- ====================================================================== -->
+
+<!-- A set of Histories -->
+<!--
+
+    <timeline>
+        <title>
+            The Travels of Shapeshifters
+        </title>
+            <epoch>
+                <title>
+                    The Third Epoch
+                </title>
+                <event>
+                    <title>
+                        Shifters starts out
+                    </title>
+                    <date calendar=Dorian>
+                    </date>
+                    <p viewpoint=Mordanith disclosure=public>
+                    </p>
+                    <p viewpoint=Mordanith disclosure=public>
+                    </p>
+                </event>            
+            </epoch>
+    </timeline>    
+-->
+
+<!ELEMENT timeline ( title, (epoch)+ ) >
+<!ELEMENT epoch    ( title, (event)+ ) >
+<!ELEMENT event    ( (title)? , (date) , (p)* ) >
+<!ELEMENT date     (#PCDATA) >
+<!ELEMENT p        (#PCDATA) >
+<!ELEMENT title    (#PCDATA) >
+
+<!ATTLIST event         viewpoint (none|Mordanith|Morphus|Kheldar|Wotan|Erithmaeon|Catbird|Sigmund|Kilsorana|Kalarina) "none"
+                        disc      (public|private|secret|topsecret|hidden) "public"
+                        type      (normal|quote|scene|prophecy|vision|foreseeing) "normal"
+>
+
+<!ATTLIST p         viewpoint (none|Mordanith|Morphus|Kheldar|Wotan|Erithmaeon|Catbird|Sigmund|Kilsorana|Kalarina) "none"
+                        disc      (public|private|secret|topsecret|hidden) "public"
+                        type      (normal|quote|scene|prophecy|vision|foreseeing) "normal"
+>
+
+<!ATTLIST date         calendar (Dorian|Maeren) "Dorian"
+>
+
+E 2
+I 1
+E 1

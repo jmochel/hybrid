@@ -1,0 +1,10 @@
+Spell: LightningsHand
+Energy Type: Electrical
+Energy Cost: 8 MFT
+Casting Ease Factor (CEF): 4
+Resistance Ease Factor (REF): 3
+Range: 3 * 10m
+Duration: 5 * Sec
+Casting Time: 13 * Pulse
+Quantitative Effect: 12+1/rnk
+SDP : 0

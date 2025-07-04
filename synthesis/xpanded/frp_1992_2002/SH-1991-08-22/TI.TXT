@@ -1,0 +1,83 @@
+Tech 
+Index	Energy		Physics			Transport	Weapons		Armour		Computers	
+
+1		Muscle						Feet		Hands		Fur			Fingers
+												Clubs
+
+2		Lever		Instinctive		Oars		Stone Axe	Cured Furs	
+					Mechanics		
+
+3		Harnessed					Animal		Bronze Axe	Leather		
+		Animals						Water Sails	Bows
+
+
+4		Fire						Wagon		Iron Axe	Chain/Plate	Abacus
+												
+
+5		Coal		Mechanics					Simple Guns				
+
+
+6		Geothermal					Combustion	Semiauto	Ballistic	 
+									Vehicles	Weapons		Mesh
+
+
+7		Electricity	E&M				Aircraft	Auto Wpns	Ballistic	Magnetic 
+															Cloth		Memory
+
+
+8		Fission 	Particle		G.E.V.		Nuclear 				Hand
+		Lrge Scale								Large Scale				Calcs
+
+
+9		Fission 					planetary	Nuclear,				Fast Minis
+		Med Scale					Space Craft	Med to small			
+												Lasers,
+												Large
+
+
+10		Fission,					MagLev		Cone Rifles				Hand Comps
+		Small Scale					Fast GEV	Plastic Pistols			Bubble Chip
+		Fusion, 					
+		Large
+
+
+11		Clean Fission				RamScoops	Needlers		Reflec	Wrist Calc	
+		Med Fusion					Solar Sail	Usable Lasers			Bio Plaque
+
+
+12		Sm Fusion		Gravimtrics	Ion Impulse	Guass Rifles	Ablat	Vocal Input
+		Solar Screen				
+
+
+13		Med Sunscrn		Extnded E&M				Kinetic Gas		Sheath Am	Crystal Memory		 							
+												pistol
+
+
+14		Sm Sunscrn					Transition	Nerve Ind		Kinetic Scrn	Cyber Connect
+												Laser Rifle	
+												VibroBlade
+												Stun Rifle	
+
+15						Transition 				Fusion Carb		Ad Sheath		Simple
+						Field Phys				Guass Pistol	Portable Scn	Direct Connect
+
+
+16		Antimatter					Transpoter	AutoGuass		Powered			
+																Sheath
+  
+	
+
+17												Antimatter 		Battle Dress
+												Bombs
+
+
+18												
+
+
+
+19
+
+
+
+20	Cosmic Ray
+	Tapping

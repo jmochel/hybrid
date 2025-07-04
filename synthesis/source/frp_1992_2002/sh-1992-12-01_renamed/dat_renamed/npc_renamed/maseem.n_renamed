@@ -1,0 +1,49 @@
+.Name MASEEM SUNDERSTONE
+.Title HIGH LORD PRIEST OF AURIOCH 
+.Race HU
+.Culture
+.Aspect 
+.PST 15
+.PEN 7		
+.DEX 16
+.PAG 14		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 6'0"      
+.WT 175		 
+.AGE 54
+.BeginDesc
+ TALL DARK, LONG BLACK BRAIDED HAIR WITH BROWN EYES AND THREE WAVY	 
+SCARS ACROSS HIS FORWARD. HIS EARLOBE IS PIERCED FOR  CEREMONIES.
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale CURRENTLY IN A HIDDEN RETREAT IN THE OVERLOOK RANGE
+.BeginKnownAssoc
+ SAVAGREN,ALDEN THE HALF ORC,PHAEDRUS
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ OWNS A STAFF OF DECEPTION											
+A OPAL HANDLED BOOT DAGGER														
+A BELT PUSH DAGGER - SILVER AND EBONY											
+REINFORCED CAPE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

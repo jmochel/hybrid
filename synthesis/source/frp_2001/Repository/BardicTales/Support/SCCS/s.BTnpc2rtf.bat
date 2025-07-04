@@ -1,0 +1,41 @@
+h61280
+s 00010/00000/00000
+d D 1.1 00/12/08 09:40:46 jmochel 2 1
+cC
+cF1
+cK26040
+cO-rwxrwxrwx
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:46 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/Support/BTnpc2rtf.bat
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK36931
+cPSupport/BTnpc2rtf.bat
+cR68096fcb
+cV3
+cX0x180
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+set SP_CHARSET_FIXED= YES
+set SP_ENCODING=XML
+set SGML_CATALOG_FILES=g:/docbook/docbook.cat;d:/jade/catalog
+set SGML_SEARCH_PATH=g:/docbook;d:/jade;G:/BardicTales/Support
+set DOCBOOKDIR=g:/docbook
+set JADEDIR=d:/jade
+set STYLESHEET=/BardicTales/Support/btnpc.dsl
+
+jade -G -wall -wxml -t rtf -d %STYLESHEET% -o %1.rtf %1
+
+E 2
+I 1
+E 1

@@ -1,0 +1,128 @@
+h06394
+s 00100/00000/00000
+d D 1.1 99/12/02 15:41:00 jmochel 2 1
+cC
+cK33304
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:57 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/DataTools/Career/career.dat
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44886
+cPDataTools/Career/career.dat
+cReb47851c5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Career			Pick Pocket
+.BaseSkill		4
+.BaseFinancial	4,000
+.StatDF			5
+.SkillDF		6
+.WealthDF		4
+.StatusDF		6
+.BeginDetail	
+.EndDetail
+
+.Career			Smuggler
+.BaseSkill		5
+.BaseFinancial	10,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		5
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Terran Space Navy
+.BaseSkill		6
+.BaseFinancial	14,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		3
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Grunt Mercenary	  
+.BaseSkill		4
+.BaseFinancial	7,000
+.StatDF			4
+.SkillDF		7
+.WealthDF		3
+.StatusDF		5
+.BeginDetail	
+.EndDetail
+
+.Career			Terran Scouts
+.BaseSkill		6
+.BaseFinancial		14,000
+.StatDF			3
+.SkillDF		8
+.WealthDF		4
+.StatusDF		5
+.BeginDetail	
+.EndDetail
+
+.Career			Nurse
+.BaseSkill		8
+.BaseFinancial		12,000
+.StatDF			6
+.SkillDF		7
+.WealthDF		5
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career			Traffic Controller
+.BaseSkill		6
+.BaseFinancial		25,000
+.StatDF			3
+.SkillDF		6
+.WealthDF		3
+.StatusDF		2
+.BeginDetail	
+.EndDetail
+
+.Career			Advanced Education
+.BaseSkill		8
+.BaseFinancial		2,000
+.StatDF			6
+.SkillDF		7
+.WealthDF		3
+.StatusDF		3
+.BeginDetail	
+.EndDetail
+
+.Career	Corporate Attorney
+.BaseSkill
+.BaseFinancial
+.StatDF
+.SkillDF
+.WealthDF
+.StatusDF
+.BeginDetail
+.EndDetail
+
+.Career	Terran Military
+.BaseSkill
+.BaseFinancial
+.StatDF
+.SkillDF
+.WealthDF
+.StatusDF
+.BeginDetail
+.EndDetail
+
+E 2
+I 1
+E 1

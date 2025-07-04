@@ -1,0 +1,27 @@
+||    .Contains Declaration of Histom
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+Histom == ( type:Type, timestamp:Chronon, association:Indom,  text:string );
+
+type ::=
+    Origin          i:data |
+    Ending          i:data |
+    Renewal         i:data |
+    Ceremony        i:data |
+    Transition      i:data |
+    Meeting         i:data |
+    BeginningOfAwareness    i:data |
+    Conflict        i:data ;

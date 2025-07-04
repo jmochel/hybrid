@@ -1,0 +1,119 @@
+% dvihplj 1.4s  24-Oct-1994  11:05
+%
+% Input file: confed.dvi
+% Output file: PRN
+%
+/b:*
+/d:-
+/e:*
+/k:0
+/n:65535
+/nf:1
+/np:1
+/z-
+/cf:1
+/cp:1
+/cs:1
+/fi
+/fl:300
+/fm:hplaser
+/fo-
+/fs:1
+/fd:2
+/ft:0.2
+/fu-
+/fz::0,:h,:1,:2,:3,:4,:5,:6,:7,:8,:9
+/l:1in
+/la:4.5mm
+/t:1in
+/ta:0mm
+/h:11in
+/w:8.5in
+/tr:0
+/r:300
+/rf:300
+/rg:0
+/pd:{,$DVIDRVINPUT:}@i
+/pf:$DVIDRVFONTS:pixel.lj\@Rrdpi\@f{.pk,.pxl}
+/pg:{,$DVIDRVGRAPH:}{@Rrdpi\,}@PBf{@Ef,.msp,.pcx,.bmp}
+/pi:
+/pj:{$TMP:,}dv@u.mfj
+/pl:
+/pm:{$TEXTFM:,\emtex\tfm\}@f
+/po:prn
+/pr:{,$PATH:}@f
+/ps:
+/pt:@d.dlg
+/pv:
+/pw:
+/v:2
+/u:in
+/xe+
+/xx+
+/oa-
+/ob-
+/oc:0
+/oe+
+/of:0
+/og:300
+/oi+
+/oj-
+/ol
+/om:394
+/oo+
+/or:0
+/os:0
+/ov+
+/ow:16
+/ox-
+/oz+
++initial-formfeed:off
++final-formfeed:on
+/ci:1 /cx:0in /cy:0in
+/ci:1
+@
+
+' TeX output 1994.10.24:1103'
+Loading font cmtt10 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmtt10.pk)
+Loading font cmbx12 scaled 1200  (D:\TEXFONTS\pixel.lj\360dpi\cmbx12.pk)
+Loading font cmti10 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmti10.pk)
+Loading font cmbx12 scaled 2073  (D:\TEXFONTS\pixel.lj\622dpi\cmbx12.pk)
+Loading font cmbx12 scaled 1728  (D:\TEXFONTS\pixel.lj\518dpi\cmbx12.pk)
+Loading font cmbx12 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmbx12.pk)
+Loading font cmr12 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmr12.pk)
+Loading font cmr17 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmr17.pk)
+Loading font cmsy10 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmsy10.pk)
+Loading font cmr10 scaled 1000  (D:\TEXFONTS\pixel.lj\300dpi\cmr10.pk)
+Loading page pointers... 14 input pages, 14 output pages.
+ [0] [1] <6976+187,1,1> [2] <18688+3340,1,1> [3] <28160+5503,1,1> [4]
+ <34816+9630,2,2> [5] <35520+8988,2,2> [6] <36096+8295,2,2> [7]
+ <36736+8495,2,2> [8] <36736+1551,2,2> [9] <44608+2864,2,2> [10]
+ <48960+1891,2,2> [11] <50752+5299,2,2> [12] <51072+2571,2,2> [13]
+ <53184+3281,2,2> <54912+3463,2,2>
+Characters downloaded to printer:  300
+Characters printed using graphics: 21
+
+Memory usage:
+Strings                          41       1024
+Page buffers                      3      30720
+Sorted page buffers               1      10240
+Sorted page index              3300      26400
+Position stack                    8        224
+Font table                       10        840
+Font indices                     10        100
+Page list                        14        700
+Characters                     1280      40960
+Raster data                    1128     131347
+Virtual fonts                     0          0
+VF characters                     0          0
+VF macros                         0          0
+Graphics                          0          0
+Lines                             0          0
+Font library directories          0          0
+Band buffer                     154      49126
+TOTAL                                   291681
+
+Number of deallocations:      0
+Temporary file size:          0
+External memory reads:        0
+External memory writes:       0

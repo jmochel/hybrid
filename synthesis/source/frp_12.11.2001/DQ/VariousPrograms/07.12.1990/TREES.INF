@@ -1,0 +1,498 @@
+.N Silver Pine-V(Tree)-C-LWD,FLD,RGH-1%/y-PO,AL,FD
+.DS
+Avg Height = 75 feet
+Avg Diameter = 3 feet
+Each years growth marked by an additional whorl of side branches 
+.DE
+.CS
+Cones take two years to mature
+PO 
+AL 
+FD Used to produce a chewy candy
+.CE
+
+.N Scarlet Pine-V(Tree)-UC-WST,LWD,WTL-1%/y-DY,WD,FD,HL,PO
+.DS
+Avg Height = 65 feet
+Avg Diameter = 4 feet
+Short and stubby for a conifer this tree has bright red needles 
+in the fall and early spring.
+.DE
+.CS
+DY (Rundam) A bright orange dye 
+WD Good for waterwheels and small boats
+FD The dried needles make a good snack 
+HL (Dagaslin) 
+PO  
+.CE
+
+.N Tamarack-V(Tree)-UC-RGH,HWD,LWD,WTL-1%/y-PO,MG,WD,OT
+.DS
+Avg Height = 65 feet
+Avg Diameter = 1.5 feet
+Light blue gray needles in an open ended cylinder
+.DE
+.CS
+OT Used in tanning leathers
+WD Used in ship building and ski making
+.CE
+
+.N Spruce-V(Tree)-C-WTL,FLD,HWD-1%/y-DY,HL,WD,FD
+.DS
+Avg Height = 65 feet
+Avg Diameter = 1.5 feet
+TRee is tall and straight with a conical crown which ,
+in open grown trees, reaches nearly to the ground. In HWD 
+and LWD the trunk is clear of branches.
+.DE
+.CS
+WD general lumber, pulp, musical instrument sounding boards, ship masts
+DY Used in making a fixative
+HL Sap used in sterilizing bandages
+FD Spruce Beer
+.CE
+
+.N Hemlock Tree-V(Tree)-UC-HWD,LWD,RGH,WTL-1%/y-DY,HL
+.DS
+Avg Height = 65 feet
+Avg Diameter = 2.5 feet
+Ragged branch developement with a weak tip that tends to 
+be bent away from the prvailing winds.
+.DE
+.CS
+DY Red dye for leather and wool
+HL Poultice for severe injuries and burns
+.CE
+
+.N Balsam Fir-V(Tree)-VR-FLD,LWD,HWD-1%/y-WD,AL,HL,MG
+.DS
+Avg Height = 45 feet
+Avg Diameter = 1.5 feet
+Tends to be bare trunked
+.DE
+.CS
+WD Pulp
+AL Resin used in a optically pure glue and in light magiks
+HL Used in general coughs and soothing smoke damaged throat
+MG 
+.CE
+
+.N GenericTree-V(Tree)-R-WTL,FLD,RGH,HWD-1%/y-FD,HL,AL,WD,PO
+.DS
+Avg Height = 91 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-C-FLD,HWD,RGH-1%/y-DY,MG,WD
+.DS
+Avg Height = 39 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-C-FLD,WTL,RGH-1%/y-DY,FD,MG,HL,PO,AL
+.DS
+Avg Height = 38 feet
+Avg Diameter = 4 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-R-WST,LWD,FLD,HWD-1%/y-WD,DY
+.DS
+Avg Height = 146 feet
+Avg Diameter = 2 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-R-WST,HWD,RGH,LWD,FLD,WTL-1%/y-MG,PO,DY,FD,AL,HL,WD
+.DS
+Avg Height = 32 feet
+Avg Diameter = 4 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-VR-HWD,FLD,LWD,WTL,RGH-1%/y-PO,AL
+.DS
+Avg Height = 60 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-UC-FLD,RGH,WST-1%/y-WD,AL
+.DS
+Avg Height = 48 feet
+Avg Diameter = 4 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-UC-FLD,LWD,HWD,WST-1%/y-DY,AL,WD,MG,PO,FD,HL
+.DS
+Avg Height = 110 feet
+Avg Diameter = 4 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-UC-WTL,HWD,LWD,WST-1%/y-DY,PO,HL,MG,FD,WD
+.DS
+Avg Height = 57 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-R-LWD,HWD,FLD,WTL,WST,RGH-1%/y-AL,MG,DY
+.DS
+Avg Height = 73 feet
+Avg Diameter = 2 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-UC-WTL,RGH,LWD,HWD,FLD,WST-1%/y-WD,HL,FD
+.DS
+Avg Height = 120 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-C-FLD,LWD-1%/y-MG,PO
+.DS
+Avg Height = 33 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-R-WST,HWD,LWD,FLD-1%/y-PO,MG,WD
+.DS
+Avg Height = 139 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N GenericTree-V(Tree)-VR-RGH,FLD,WST,WTL,HWD-1%/y-DY
+.DS
+Avg Height = 36 feet
+Avg Diameter = 3 feet
+.DE
+.CS
+.CE
+
+.N Sago Palm Tree-V(Tree)-C-DST,WST-NONE-FD
+.DS
+Height to 10' Large branching leaves with course bark on trunk. 
+.DE
+.CS
+FD The seeds form a good flour or can be eaten raw.
+FD Seeds contain a good cooking oil
+.CE
+
+.N Maiden Hair Tree-V(Tree)-UC-WST,RGH,DST-NONE-FD,HL,PO,WD
+.DS
+Height to 80' . Staright and slender with relatively few branches. 
+Small almost round leaves approx 5" in diameter. 
+.DE
+.CS
+FD Seeds are edible but the fruit smells awful
+HL Ginkona : PL-PK-1(d2)-4(d4)-38.  Oil of the fruit can be rendered 
+down to a powerful pain killer. Note that the painkiller does not heal 
+any damage but it does ake it possible to ignore the damage taken.
+PO Granda : CN-DD-2(d3)-2(d6)-13 Fruit can be rendered down and mixed 
+with salt to produce a skin damaging poison called Granda
+WD Rarely used because of its lightness. 
+.CE
+
+.N Tea Bush-V(Tree)-C-DST,RGH,WST-NONE-FD,HL
+.DS
+Small scrub shrub up to 5' tall. Flower bundles form at the base of 
+each set of stems.  
+.DE
+.CS
+FD Used to make a good tea.
+HL DC-FH-2(d6)-3(2d6)-16 Tea used to restore energy.
+.CE
+
+.N Yew Tree (Bow Tree) (Calen Alda)-V(Tree)-UC-HWD,LWD,FLD,RGH-3%/wk-PO,MG,WD
+.DS
+Height up to 90' and trunk up to 8' in diameter. Bright red berries seen 
+for much of the year. 
+.DE
+.CS
+PO Taxin : IG-DD-3(d4)-4(d3)-16 Raw seed and Bark are poisonous when ingested.
+MG Used as the basis of a number of magical amulets.
+WD Often used in good bows because of its flexibility
+.CE
+
+.N Morning Tree-V(Tree)-C-WTL-NONE-FD,WD 
+.DS
+A 30-40 ' tall willow like tree. One of the most common River trees
+.DE
+.CS
+FD During high summer it bears nuts that are very filling and delicious
+WD limber and flexible fine grained wood.
+.CE
+
+.N Prophet Tree (Aliantha)-V(Tree)-UC-SSH,RGH,WST-NONE-FD,HL,MG,WD
+.DS
+15-30 ft in height and well protected by 1' long thorns. A bright 
+yellow fruit is seen during fall and winter. 
+.DE
+.CS
+FD The Fruit is the basis of a brandy called Raven Eyes. A black liqour 
+that is expensive and mildy addictive
+HL RW-FH-2(d6)-4(d5)-1d4 The raw Aliantha berry heals fatigue damage
+HL PL-FH-2(d2)-4(d3)-1d3 The flowers when crushed,help heal burn and cold damage
+HL DC-AN-1(1)-5(d6)-3d12 A brandy decoction, similiar to raven eye,can 
+be used as an antidote to Kasreeline
+MG Used to create a poison ward
+WD Dried and cured Aliantha makes an excellent glowing wood. 
+Much prized for staves.
+.CE
+
+.N Grandfather Tree-V(Tree)-C-HWD,LWD-NONE-WD
+.DS
+A large 300 - 350' tree. and over 30' in diameter at the base. The tree 
+is sacred to Correlan. 
+.DE
+.CS
+WD One of the better lumber tress. It grows quickly even in poor soil 
+so that a new tree can be grown in less than 15 years. It is immune to 
+most plant diseases and can live on when portions of the trunk are 
+hollowed out. It is often used as a home by wood elves.
+.CE
+
+.N Shadowcaster Tree (Wathin) (Belegor)-V(Tree)-Rare-HWD-NONE-MG,WD
+.DS
+300+ ft tall. Usually found only in the densest of woods. Typically 
+Elhayns Deep,The Val-Tiers and some isolated vales of the western island.  
+It is said that a living shadow caster is immune to all magics. 
+.DE
+.CS
+MG Can be used to remove a Gaeas at midsummers eve. 
+WD Very few people have seen a Shadow Caster ,much less used it for lumber.
+.CE
+
+.N Hair-on-Branch Tree (Finalda)-V(Tree)-C-WTL,SSH-NONE-WD
+.DS
+A 100-150+ tree that is typically found in bogs and Swamps. The 
+swamps and salt marshes around Caithnard and Kaylin Mtns. are filled 
+with them. They often float in bogs. There name derives from the long 
+hair moss often found on them.  
+.DE
+.CS
+WD A spongy wood. Not used as lumber but it dries to a nice tinder.
+.CE
+
+.N Gloom Tree (Feagor)-V(Tree)-UC-RGH,WST,SSH-NONE-WD,MG
+.DS
+A Twisted gnarled 20 - 70' tall tree with rough gray flowers. It has a 
+dark black trunk and the leaves are double grown in such a way that when 
+the wind blows above 20 knots they raise a fearful and debilitating 
+racket. They can quite easily panic horses. 
+.DE
+.CS
+MG The flowers (which only bloom for a one week period) are used in 
+making a fear potion 
+WD The wood is in much demand for the making of harps and other instruments.
+.CE
+
+.N Mast Tree (Baradin)-V(Tree)-C-HWD,LWD-NONE-FD,WD
+.DS
+This straight gray barked tree ( 70 -80 ') is prized for its lumber 
+which makes excellent tree masts. 
+.DE
+.CS
+FD The inner bark can be used as a simple trail food. It is tasteless 
+but very sustaining. 
+WD Used in making ship masts.
+.CE
+
+.N Kudana Tree-V(Tree)-C-HWD,LWD-NONE-WD,AL
+.DS
+A tall conifer,(50 -100') this tree is used as firewood by a great number 
+of cultures. It is fast growing and its resin burns very hotly. 
+.DE
+.CS
+AL The resin is the basis of a large number of potions
+WD Used as a firewood
+.CE
+
+.N QuikLeaf Tree (Bragol Alda)-V(Tree)-C-SSH,WTL,PLN,WST,RGH,HWD,LWD-NONE-WD
+.DS
+This conifer (70-80') is one of the first to reseed itself after a fire.  
+.DE
+.CS
+WD The wood is much sought after because it dries to a bright 
+yellow and is very waterproof.
+.CE
+
+.N Minya (Cul Alda)-V(Tree)-UC-RGH,WST,LWD,HWD,SSH-NONE-FD,MG,WD
+.DS
+This short 50-60 ft tall tree has a dark brown bark and a bright 
+green leaf. The nuts are  walnut shaped .
+.DE
+.CS
+FD The nuts are collected and serve as both a staple and as a source of a 
+fragrant edible oil. 
+MG The oil of the nuts is the basis of several magical inscences
+WD It is very hard to work as a lumber or as a firewood. 
+.CE
+
+.N Fox Wood Tree (Curic Alda)-V(Tree)-C-SSH,RGH,LWD,HWD-NONE-PO,WD
+.DS
+This 25-45' tall tree tends to spiral upward and its dark brown bark 
+is covered with 2-4" spikes. Most people are allergic to the bark and 
+are unwilling to follow a fox underneath the tree.
+.DE
+.CS
+PO Tyrani : IN-O-2(d6)-2(d4) The bark can be used to make a distracting 
+material called Tyrani,used to cause severe itching all over the skin.
+WD A good lumber but rarely used. It make a poor firewood because the 
+smoke has the same effect as the bark.
+.CE
+
+.N Loner Tree (Eren Alda)-V(Tree)-Very Rare-LWD,HWD,RGH,WST-NONE-WD
+.DS
+20-50 ft tall. These light gray or green trees are very odd. 
+They only grow in regions above 6'0000 in wild vales near cold springs. 
+They often house a "Savitch" or shape changing Dryad. They count NONE 
+as fried except Druids. ( And damn few of them). 
+.DE
+.CS
+WD The wood is ideal for making strength rated (Composite) bows. 
+Difficult to gather because of the Savitch.
+.CE
+
+.N Burning Nut Tree (Ur Alda)-V(Tree)-C-HWD,LWD,RGH-NONE-FD,HL,WD
+.DS
+This 20-60 tall evergreen is the provider of Ur Nuts or "Heat Nuts" Spicy 
+and Filling,these are a staple throughout Oen,Osterland,and Temoroth. 
+.DE
+.CS
+FD Ur Nuts are used as a spice and as a soup foundation. 
+HL PL-AI-2(d6)-5(2d4) A poultice of Ur Nuts acts as a antiseptic.
+WD Generally a poor lumber or firewood. Though the nuts burn very well
+.CE
+
+.N Adamant Tree (Anga Alda)-V(Tree)-UC-HWD,LWD-NONE-FD,WD
+.DS
+A short 20-60 ft tree with a dark ,smooth  bark and a fine grain. 
+.DE
+.CS
+FD The tree bears some nuts which make a good flour and a good trail munchie.
+WD Wood is poor but it make good tinder.
+.CE
+
+.N She Oak Tree-V(Tree)-C-LWD,HWD,SSH-NONE-WD
+.DS
+A 150+ tall tree. With pale green drooping branches. Wood is a bright red 
+.DE
+.CS
+WD Wood is a bright red ,drying to a blood red. The wood itself is known as 
+Ironwood. It is dense enough to sink in fresh water.
+.CE
+
+.N Quaking Aspen Tree-V(Tree)-C-LWD,FLD-NONE-WD
+.DS
+Up to 80' in HT. With heart shaped leaves. Name comes from tendency to 
+shake and rattle in the wind. 
+.DE
+.CS
+WD Wood is used for making paper,boxes,and pails.
+.CE
+
+.N Bayberry Tree-V(Tree)-UC-SSH,LWD,WTL-NONE-FD,HL,PO,WD
+.DS
+Tree or shrub up to 40' high but usually shorter. Leaves are aromatic 
+.DE
+.CS
+FD The Berries are boiled to remove a pale blue wax for candles
+HL Wax is used to cover wounds
+PO Wax is used to form basis of many insinuative poisons
+WD Of no real value.
+.CE
+
+.N Butternut Tree-V(Tree)-C-HWD,LWD,FLD-NONE-FD,DY,WD
+.DS
+Usually up to 100' high with a 4' thick trunk.  
+.DE
+.CS
+FD Sap used in making a sweet syrup
+FD Nuts are good once pickled in vinagar and spice.
+FD Nuts often eaten raw
+DY A bright yellow dye is made from the Nut husks
+WD Used in making furniture
+.CE
+
+.N Walnut Tree-V(Tree)-C-HWD,LWD,RGH-NONE-FD,WD
+.DS
+Tree is up to 110' tall. Up to 8' in diameter.  
+.DE
+.CS
+FD Nuts are excellent raw or cooked
+FD Oil cold pressed from the nuts is an excellent cooking oil.
+WD Excellent furniture wood. 
+.CE
+
+.N Hop-V(Vine)-C-LWD,FLD-10%mo-FD,HL
+.DS
+Climbing vines up to 20' in length. 
+.DE
+.CS
+FD Used in making Beer
+HL PL-AI-3-3 Poultice used as an antiseptic
+.CE
+
+
+.N Sweet Fern Tree-V-UC-RGH,LWD,HWD-1%/10y-FD,MG,WD
+.DS
+A short (3') tall tree.Used in making tea and some special tinders
+.DE
+.CS
+Very expensive simply because of its value in making special tinders and charcols
+.CE
+
+.N Nigeran Wall Nut-V(Tree)-UC-RGH,PLN,FLD,HWD,LWD-NONE-FD,PO,HL,WD,DY,SPC
+.DS
+A tall (80+) tree with trunk up to 8' in diameter. Large nuts and heavy black bark as well as very dark wood.
+.DE
+.CS
+Valuble as a wood plant as well as for food and oils.
+.CE
+
+.N Pecan-V(Tree)-UC-WTL,LWD,HWD-NONE-FD,WD,AL
+.DS
+Height to 120' with trunk to 4' in diameter. Bark smooth and brown. Wood is clse grained and durable. Favors warmer climates
+.DE
+.CS
+Nuts favored for food as is the oil from the nuts. The wood is fairly valuble and the bark yields several interesting dyes.
+.CE
+
+.N Mockernut-V(Tree)-C-WTL,LWD,FLD-NONE-HL,MG,AL
+.DS
+Tree to 90' but typically between 50-75' with trunk up to 3' in diameter.
+Crown commonly round topped .
+.DE
+.CS
+Well prised by Alchemists for its nut. The mockernut nut exudes a small amount of a sap used in making a very strong painkiller
+and an aphrodisiac
+.CE
+
+.N Pignut-V(Tree)-C-WST,RGH,WTL,LWD-NONE-FD,DY,MG
+.DS
+Tree up to 90' in height and to 4' in diameter. Usually a slender tree with few branches. Berk is dark brown and fairly smooth.
+.DE
+.CS
+Used as firewood, nuts are edible but not tasty. 
+.CE

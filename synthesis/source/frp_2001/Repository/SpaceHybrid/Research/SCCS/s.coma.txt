@@ -1,0 +1,1051 @@
+h32598
+s 01023/00000/00000
+d D 1.1 99/12/02 15:49:55 jmochel 2 1
+cC
+cK61331
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:49:52 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/coma.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44939
+cPResearch/coma.txt
+cReb4786855cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+                                03-31-91 - 11:27am
+
+     Dear Jim:
+
+          This message is only displayed to Level 1 members and is
+     displayed every time a Level 1 member logs on and will n-o-t
+     appear when you upgrade to Level 10, 50 or 100. The contents of
+     this bulletin have been revised and you are encouraged to read it
+     thoroughly.
+
+          This message explains the privileges you get as a member of
+     the Combat Arms BBS and how to expand those privileges. The
+     information in this file is also available on the Bulletin Menu
+     as Bulletin #19.
+
+          In the interest of conserving disk space, all Level 1
+     clients are automatically deleted from the records 30 days after
+     they initially logged on unless they upgrade to Level 10, 50 or
+     100.
+
+          There are several things in this bulletin which will assist
+     communications software in conjunction with the Non-Stop mode and
+     study it at your leisure.
+
+          The Combat Arms BBS has been in operation since December,
+     1988 and is geared towards the person with an IBM or IBM
+     compatible computer. The system has been set up to make it easy
+     for you to use and is quite powerful.
+
+          If you have a non-IBM compatible computer, you may still
+     benefit from the Message Section. However, persons using non-IBM
+     compatible computers will NOT generally be able to use any
+     downloaded files with a ZIP extension. The ZIP files are archived
+     files (currently using version 1.10 of Phil Katz's PKZIP
+     rountine) and take up less physical space on the hard disk.
+     Owners of non-IBM compatible computers will be able to download
+     and read files that do not have the ZIP extension. There are very
+     few of them on this BBS.
+
+          The moral of the story is to either get an IBM compatible
+     computer, buy a board for your non-IBM compatible system that
+     will let it emulate an IBM or find some software that will
+     unarchive ZIP files on your particular computer. Regrettably,
+     with ZIP files. However, there is a file here for downloading
+     called UNZIP.SIT that will help MAC owners unarchive ZIPped
+     files.
+
+          You are urged to go to the Message Menu and read the
+     messages. The messages on the Combat Arms BBS are not "happy
+     talk" messages like on other BBS systems. Here they generally are
+     news items and more often than not relate to firearms news.
+     Messages to/from you older than 30 days are, for the most part,
+     deleted in the interest of conserving disk space. You are also
+     encouraged to read the Bulletins. Some are rather interesting. A
+     newsletter is provided that I update occasionally with pertinent
+     materials.
+
+          The system of upgrading on this BBS is setup to permit a new
+     client to log onto the system as a Level 1 Access patron, explore
+     it and, if the client so chooses, to upgrade to a higher Access
+     Level (10, 50 and 100) at a fee. These fee paid levels are, in
+     point of fact, what support the Combat Arms BBS. Level 1 access
+     is FREE but the privileges of that access level are severely
+     limited. Details on the different access levels follow.
+
+          get when they first log onto the Combat Arms BBS. Holders of
+          Level 1 Access are allowed 15 minutes per day access to the
+          system, may read messages, read bulletins, upload files,
+          report crimes (available for all callers, regardless of
+          access level) and have it turned over to the appropriate
+          authorities, etc. but may not download any files. However,
+          the Level 1 customer may see a list of files put on the BBS
+          within the past 365 days and available for downloading by
+          examining Bulletin #20. This list is updated daily and may
+          be "captured" by your comm software. I repeat, there is NO
+          charge for Level 1 access. The purpose of Level 1 is to
+          permit the new client to examine the system and determine if
+          there is something here that he or she wishes to participate
+          in. No permanent Level 1 Access will be possible. Again,
+          please note that 30 days after logging on as a Level 1
+          customer, you are automatically deleted from the system's
+          records (unless you upgrade to Level 10, 50 or 100). This is
+          to reduce the size of the user data file, which otherwise
+          grows unnecessarily large.
+
+     2.   The Level 10 Access is the second level and costs $25.00 per
+          year. The Level 10 client is acknowledged to be primarily
+          downloads per day and 45 minutes of access time (that is
+          actually higher than the average Level 10 user downloads in
+          one session or is logged on). Also forthcoming (hopefully in
+          March, 1991) will be the availability of a Hayes 9600 baud
+          modem.
+
+     3.   The third Access Level is Level 50. Level 50 Access costs
+          $40.00 per year. The privileges include 60 minutes per day
+          access time, ECHO mail privileges, 20 downloads per day,
+          access to a shopping-by-BBS section (currently being
+          developed; it is a very slow process!) and healthy discounts
+          of purchases of firearms and other items. Level 50 (and
+          Level 100) clients may also special order firearms, subject
+          to the usual legal restrictions.
+
+     4.   The fourth Level is the life member Level 100 Access. This
+          is a support access level and Level 100 supporters are
+          granted co-sysop privileges, clearance for access to all
+          privileges on the BBS and all of the privileges of lower
+          levels. The fee for this is a o-n-e  t-i-m-e fee of $150.00.
+          The Level 100 status is important to you if you desire the
+          maximum amount of privileges and want to help expand the
+          facilities of the Combat Arms BBS.
+
+          Payment for membership may be made in the form of cash,
+     check, money order or by Visa, MasterCard, American Express,
+     Carte Blanche, Diner's Club or Discover Card. If paying by credit
+     card, please include your access level desired, full name,
+     complete street address, city, state, zip code, telephone number
+     with area code, credit card number (and type) and expiration
+     date. Also note that there is a 5% handling charge on credit card
+     payments for Level 10 and 50 (amounts under $100.00). There is no
+     sales tax on upgrading. You may also leave a message to the SysOp
+     (select the Comments to the SysOp option from the Main Menu)
+     giving your credit card number, etc. You will be upgraded the
+     following business day. A receipt for credit card purchases will
+     be mailed to you.
+
+          If paying by money order or personal check, send the
+     appropriate payment for upgrading to:
+
+                         Combat Arms BBS
+                         2869 Grove Way
+                         Castro Valley, CA 94546
+
+          In summary, here are the different levels of access and some
+     of what they provide:
+
+     Level 1   0 downloads per day                           15 minutes
+     Level 10  5 downloads per day up to 1 megabyte          45 minutes
+     Level 50  20 d'loads per day up to 3 megabytes          60 minutes
+     Level 100 999 d'loads per day up to 10 megabytes       240 minutes
+
+               Level 10 Access  =  $25.00 per year fee.
+               Level 50 Access  =  $40.00 per year fee.
+               Level 100 Access = $150.00 one time fee (Life membership)
+
+          As far as the maintenance necessary on this BBS, I alone do
+     that because I want no one else fiddling with the user database,
+     the file database or the message database. Too many cooks foul
+     things up. That would be especially annoying since I would have
+     to be the person to fix it. In addition to being the owner of
+     Combat Arms, SysOp of the BBS, husband, grandfather, etc, I am
+     also a graduate student in the Master's in Public Administration
+     program at California State University (Hayward), so there is
+     simply no time available for fixing errors that result when more
+     than one person has access to the file and user database.
+     Additionally, in the interests of preserving the BBS and also in
+     maintaining the security of the clients, their addresses, etc.,
+     only I will have access to that information.
+
+          You may find it interesting to note that there is NO
+     requirement on the Combat Arms BBS that you e-v-e-r upload
+     anything. Unless it is an important and recent file (and pertains
+     to firearms, ballistics, reloading, gun law, science, math or
+     aviation), I would prefer that you did n-o-t upload it. However,
+     if you wish to upload a TEXT file pertinent to firearms, law,
+     aviation, mathematics, science, etc. p-l-e-a-s-e read Bulletin
+     #28 BEFORE you upload it. There you will find the details on the
+     specific format required and tips for easing the job. Disk space
+     is a precious commodity. Therefore, do not upload a-n-y general
+     purpose utilities, communications software packages, BBS software
+     packages or word processing materials unless you check with me
+     first. I would rather the disk space was consumed by firearms,
+     gun law and aviation related files.
+
+          I hope this has helped you better understand the thinking
+     here and I look forward to receiving your Level 10, 50 or 100
+     membership payment. Together, you and I can do great things! Hope
+     to hear from you soon, Jim.
+
+
+
+     Richard Bash
+     -Your SysOp-
+
+‹‹‹‹⁄ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒø‹‹‹‹
+‹‹‹‹≥                   Combat Arms BBS Bulletin Menu                     ≥‹‹‹‹
+‹‹‹‹≥                   ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ                     ≥‹‹‹‹
+‹‹‹‹≥                                                                     ≥‹‹‹‹
+‹‹‹‹≥  1 - What the Combat Arms BBS is all about.                         ≥‹‹‹‹
+‹‹‹‹≥  2 - A log-in shortcut on this BBS.                                 ≥‹‹‹‹
+‹‹‹‹≥  3 - Map showing directions to Combat Arms.                         ≥‹‹‹‹
+‹‹‹‹≥  4 - How to unarchive the ZIP files on the Combat Arm BBS.          ≥‹‹‹‹
+‹‹‹‹≥  5 - Getting ready for a disaster.                                  ≥‹‹‹‹
+‹‹‹‹≥  6 - Bay Area legislators to contact to let them know you are       ≥‹‹‹‹
+‹‹‹‹≥      opposed to gun control moves on their part.                    ≥‹‹‹‹
+‹‹‹‹≥  7 - Information on ballistics for police officers (& others).      ≥‹‹‹‹
+‹‹‹‹≥  8 - Here is a list of gun related BBS systems nationwide!          ≥‹‹‹‹
+‹‹‹‹≥  9 - Some of the events that preceded the American Revolutionary    ≥‹‹‹‹
+‹‹‹‹≥      War. Read this and LEARN. Most people do not understand this!  ≥‹‹‹‹
+‹‹‹‹≥ 10 - How to hunt for wild pigs in California. This applies to most  ≥‹‹‹‹
+‹‹‹‹≥      all other states as well (except the regulations portions).    ≥‹‹‹‹
+‹‹‹‹≥ 11 - Here is the text from the California gun ban that explains     ≥‹‹‹‹
+‹‹‹‹≥      which guns are banned. It went into effect on January 1, 1990. ≥‹‹‹‹
+‹‹‹‹≥ 12 - Tips from BATF for FFL holders on Form 4473's.                 ≥‹‹‹‹
+‹‹‹‹≥      the U.S. Army.  This is the Director of Civilian Marks-        ≥‹‹‹‹
+‹‹‹‹≥      manship (D.C.M.) program.                                      ≥‹‹‹‹
+‹‹‹‹≥ 14 - B.A.T.F. explanation of "straw purchases" of firearms. It is   ≥‹‹‹‹
+‹‹‹‹≥      important that all dealers and customers understand this.      ≥‹‹‹‹
+‹‹‹‹≥ 15 - 1988 "Crime Clock," based on FBI statistics, with particular   ≥‹‹‹‹
+‹‹‹‹≥      emphasis on rape and sexual assault against women.             ≥‹‹‹‹
+‹‹‹‹≥ 16 - Tips on the proper display of the American Flag.               ≥‹‹‹‹
+‹‹‹‹≥ 17 - Results of UCLA study on condoms. Some they tested are NO      ≥‹‹‹‹
+‹‹‹‹≥      good whatsoever and will not keep you safe from AIDS.          ≥‹‹‹‹
+‹‹‹‹≥ 18 - The news summary for the Gulf War from January 18th through    ≥‹‹‹‹
+‹‹‹‹≥      March 3rd. This bulletin is 231,808 bytes long. The download-  ≥‹‹‹‹
+‹‹‹‹≥      able file version is GULF_WAR.ZIP (93,381 bytes).              ≥‹‹‹‹
+‹‹‹‹≥ 19 - How to get upgraded to a higher access level on this BBS.      ≥‹‹‹‹
+‹‹‹‹≥ 20 - List of all of the files added to the Combat Arms BBS within   ≥‹‹‹‹
+‹‹‹‹≥      the previous 365 days. This is NOT a complete listing of all   ≥‹‹‹‹
+‹‹‹‹≥      of the available files. For a complete listing, you will have  ≥‹‹‹‹
+‹‹‹‹≥      to download ALLFILES.ZIP or ALLFILES.DOC. Bulletin #20 is      ≥‹‹‹‹
+‹‹‹‹≥      revised every midnight as are both of the ALLFILES files.      ≥‹‹‹‹
+‹‹‹‹≥ 21 - Excellent article on Springfield Armory's 1911-A1 pistols.     ≥‹‹‹‹
+‹‹‹‹≥      Please be sure to read this before buying one.                 ≥‹‹‹‹
+‹‹‹‹≥ 22 - This is a list of telephone and office numbers to the Calif.   ≥‹‹‹‹
+‹‹‹‹≥      Assembly at the State Capitol in Sacramento. This is very      ≥‹‹‹‹
+‹‹‹‹≥      may be downloaded as ASMPHONE.ZIP                              ≥‹‹‹‹
+‹‹‹‹≥ 23 - How to extract the new messages from the various ECHO          ≥‹‹‹‹
+‹‹‹‹≥      conferences here on the Combat Arms BBS, download them and     ≥‹‹‹‹
+‹‹‹‹≥      read them off-line, thereby saving you the phone charges       ≥‹‹‹‹
+‹‹‹‹≥      accumulated while reading them on-line. This really works!     ≥‹‹‹‹
+‹‹‹‹≥ 24 - How to write an article and upload it as a message on the      ≥‹‹‹‹
+‹‹‹‹≥      Combat Arms BBS. This method generally works on other          ≥‹‹‹‹
+‹‹‹‹≥      bulletin boards as well.                                       ≥‹‹‹‹
+‹‹‹‹≥ 25 - Excellent editorial opinion by Boston College law professor    ≥‹‹‹‹
+‹‹‹‹≥      on the Second Amendment. You may wish to "capture" or else     ≥‹‹‹‹
+‹‹‹‹≥      download it as SEC_AMND.ZIP. Very interesting article.         ≥‹‹‹‹
+‹‹‹‹≥ 26 - This is the actual text of the Supreme Court ruling in the     ≥‹‹‹‹
+‹‹‹‹≥      classic case of U.S. versus Miller. Also included are your     ≥‹‹‹‹
+‹‹‹‹≥      SysOp's comments as well as those of a pro-gun attorney. This  ≥‹‹‹‹
+‹‹‹‹≥      file is also available for downloading as COURTRUL.ZIP. If     ≥‹‹‹‹
+‹‹‹‹≥      you wish, please download/capture and post to other bulletin   ≥‹‹‹‹
+‹‹‹‹≥      boards.                                                        ≥‹‹‹‹
+‹‹‹‹≥ 27 - Excellent article on Parkerizing. May be downloaded as the     ≥‹‹‹‹
+‹‹‹‹≥      file PARKERIZ.ZIP. If you have the December, 1982 American     ≥‹‹‹‹
+‹‹‹‹≥      Rifleman article the author (Ed Harris) wrote, please type     ≥‹‹‹‹
+‹‹‹‹≥      it up and upload it and I'll add it.                           ≥‹‹‹‹
+‹‹‹‹≥ 28 - How to prepare your text files BEFORE you upload them to the   ≥‹‹‹‹
+‹‹‹‹≥      available for download as UPLOADER.DOC.                        ≥‹‹‹‹
+‹‹‹‹≥ 29 - Here is the 1991 Lassen College (Susanville, California) NRA   ≥‹‹‹‹
+‹‹‹‹≥      summer gunsmithing courses. Your SysOp goes every year and     ≥‹‹‹‹
+‹‹‹‹≥      if you really like guns, you too should attend. This material  ≥‹‹‹‹
+‹‹‹‹≥      may also be downloaded as GUNSMITH.ZIP. See you in school!     ≥‹‹‹‹
+‹‹‹‹≥ 30 - Letter from California Attorney General Lungren to Senator     ≥‹‹‹‹
+‹‹‹‹≥      Roberti requesting extension of assault weapon registration.   ≥‹‹‹‹
+‹‹‹‹≥ 31 - Study from Bureau of Justice showing how violent crimes com-   ≥‹‹‹‹
+‹‹‹‹≥      mitted against Hispanics are declining.                        ≥‹‹‹‹
+‹‹‹‹≥ 32 - Study from Bureau of Justice detailing how half of all state   ≥‹‹‹‹
+‹‹‹‹≥      prison inmates have violated prison rules. Surprise!           ≥‹‹‹‹
+‹‹‹‹≥ 33 - Study from Bureau of Justice revealing the sorry fact that     ≥‹‹‹‹
+‹‹‹‹≥      there are 2,800,000 adults on parole or probation now.         ≥‹‹‹‹
+‹‹‹‹≥ 34 - Study from Bureau of Justice showing that the incarceration    ≥‹‹‹‹
+‹‹‹‹≥      rates are up in five (5) states, including California.         ≥‹‹‹‹
+‹‹‹‹≥ 35 - Study from Bureau of Justice explaining that the prison        ≥‹‹‹‹
+‹‹‹‹≥      population jumped 7.3% in 6 months nationwide in 1989.         ≥‹‹‹‹
+‹‹‹‹≥ 36 - Study from Bureau of Justice illustrating that while crime     ≥‹‹‹‹
+‹‹‹‹≥      rates are up, police department sizes are generally unchanged. ≥‹‹‹‹
+‹‹‹‹≥ 37 - Study from Bureau of Justice that tells that the number of     ≥‹‹‹‹
+‹‹‹‹≥      offenders convicted in Fed. District Court up by 50%.          ≥‹‹‹‹
+‹‹‹‹≥ 38 - The entirety of Patrick Henry's famous "Give me Liberty or     ≥‹‹‹‹
+‹‹‹‹≥      America's present political situation.                         ≥‹‹‹‹
+‹‹‹‹≥ 39 - An excellent article covering b-o-t-h sides of the gun control ≥‹‹‹‹
+‹‹‹‹≥      issue. Downloadable as GUNWARS.ZIP.                            ≥‹‹‹‹
+‹‹‹‹≥ 40 - Jane Fonda. Was she a traitor? Read this bulletin and then     ≥‹‹‹‹
+‹‹‹‹≥      decide. May be downloaded as FONDA.ZIP.                        ≥‹‹‹‹
+‹‹‹‹≥ 41 - A review of some material by Don B. Kates, San Francisco gun   ≥‹‹‹‹
+‹‹‹‹≥      rights attorney, on the use of firearms by murderers. This     ≥‹‹‹‹
+‹‹‹‹≥      is valuable reading when you need to prepare for debates       ≥‹‹‹‹
+‹‹‹‹≥      with the anti-gun crowd.                                       ≥‹‹‹‹
+‹‹‹‹≥ 42 - Are you seriously interested in the science of ballistics?     ≥‹‹‹‹
+‹‹‹‹≥      If so, here is some information on a graduate program in the   ≥‹‹‹‹
+‹‹‹‹≥      field of ballistics at Drexel University in Pennsylvania.      ≥‹‹‹‹
+‹‹‹‹≥      I would consider a providing scholarship money to any user     ≥‹‹‹‹
+‹‹‹‹≥      Level 10 or higher) who later enrolls in this program.         ≥‹‹‹‹
+‹‹‹‹≥ 43 - Proposal to file a pro se suit in Federal District Court.      ≥‹‹‹‹
+‹‹‹‹≥      This is designed to get the U.S. Supreme Court to rule on the  ≥‹‹‹‹
+‹‹‹‹≥      matter of the Second Amendment and its application to the      ≥‹‹‹‹
+‹‹‹‹≥      States thropugh the 14th Amendment. You are invited to join    ≥‹‹‹‹
+‹‹‹‹≥      in this project. Downloadable as SUE-EM.ZIP.                   ≥‹‹‹‹
+‹‹‹‹≥ 44 - Various articles of interest to BBS'ers from TeleComputing     ≥‹‹‹‹
+‹‹‹‹≥      magazine. This will become a regular feature on the Combat     ≥‹‹‹‹
+‹‹‹‹≥      Arms BBS. The material seems to be updated about every two     ≥‹‹‹‹
+‹‹‹‹¿ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒŸ‹‹‹‹
+
+                                Combat Arms
+                              2869 Grove Way
+                   Castro Valley, California 94546-6709
+                         Telephone (415) 538-6544
+                            BBS: (415) 537-1777
+
+                     ⁄ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒø
+                     ≥  Introduction to Ballistics  ≥
+                     ≥         April 8, 1990        ≥
+                     ¿ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒŸ
+
+1.   What is "ballistics"?
+     a.   A science which studies projectiles in motion.
+          [1]  Interior ballistics - The study of events that occur inside
+               the gun from the time the weapon is fired until the bullet
+               leaves the muzzle end of the barrel.
+
+          [2]  Exterior ballistics - The study of the motion of a
+               projectile after it leaves the barrel of the weapon.
+
+2.   Why is the study of ballistics important to a street police officer?
+     a.   It can be lifesaving knowledge and greatly aids an investigation.
+          The information will also make you a better witness in court and
+          a better shot on the range.
+
+3.   Definitions.
+     a.   Bullet.
+          [1]  The projectile that is shot from the barrel of the weapon.
+               It is normally composed of lead and may be surrounded
+               completely or in part by a covering called a "jacket."
+               Bullet types vary according to the shooting need. The common
+               ones are described below.
+
+          [2]  Full metal jacket (FMJ) or full metal case (FMC) bullets
+               have thick, tough coverings variously made of copper,
+               nickel, silver, brass or even clad steel. The terms FMJ and
+               FMC are identical.
+
+          [3]  Jacketed hollow point (JHP) are either jacketed to the tip
+               of the hollow point by a copper jacket or they may be
+               jacketed just half way up the bullet with lead exposed the
+               remainder, in which case they are called "semi-jacketed
+               hollow points." The depth of the hollow point is important
+               to its expansion ability. In the past these were called "dum
+               dum" bullets (after a plant in India where they were
+               originally made). Hollow point bullets are the ones normally
+               carried by police officers. A hollow point bullet peels back
+               at the hollow point much like a banana, thereby exposing a
+               greater cross-sectional area and causing more tissue damage
+               as the bullet moves through the target. A good hollow point,
+               such as the Winchester Silvertips, expand in diameter up to
+               160% of their original size. A .357 bullet is actually
+               0.358" in diameter and 160% of this is 0.5728" in diameter.
+               As you will see when we later get into caliber, this is now
+               a bullet that is bigger in diameter than a .50 caliber
+               machine gun round! That is exactly what you want.
+
+          [4]  Wadcutter bullets have no pointed cone to them and are flush
+               with the top of the case. They are commonly used in target
+               practice because, by virtue of their design, they make a
+               very neat, clean circle in the target. That makes for easier
+               scoring. They are usually sold in the form of reloads and
+               are comparatively inexpensive, costing 1/2 to 1/3 the price
+               of a factory assembled FMJ round. The bullet is made
+               entirely of a lead and antimony (antimony is used to make
+               the bullet harder) mixture and has no jacket.
+
+          [5]  Semi-wadcutter bullets are more conical, thus making it
+               substantially easier to use a speedloader with them when
+               reloading a revolver. They are made entirely of lead and
+               antimony. I see a lot of police officers who mistakenly
+               believe that it is smart to hand load their own bullets and
+               use semi-wadcutters but install them backwards in the
+               mistaken belief that it is a more effective round. If you
+               are doing this now or have a friend considering it, please
+               don't. Instead, see item a[3] on the previous page regarding
+               Winchester Silvertips.
+
+          [6]  Specialty bullets include armor piercing, incendiary, Glaser
+               Safety Slugs, rifled lead one ounce slugs for use in
+               shotguns, shot shells for use in handguns, and tracers. It
+               would be rare to see most of these in the hands of a
+               civilian. Note that while armor piercing handguns rounds and
+               all incendiary rounds are illegal in California, they are
+               commonly available through less than legal sources.
+               Experience indicates that criminals seldom have the
+               ingenuity to obtain these rounds. Glaser Safety Slugs are
+               available and may be the most potent round available to
+               civilians.
+
+     b.   Bullet weight.
+          [1]  Measured in grains.
+
+          [2]  There are 7,000 grains to one avoirdupois (pronounced
+               "av-wah-doo-pwah") pound. The avoirdupois pound is the one
+               we use in the United States with 16 ounces or 453.59 grams
+               to one pound.
+
+          [3]  The bullets used by law enforcement agencies in handguns are
+               typically 85 to 240 grains. Rifle bullets weigh between 55
+               and 168 grains in police use. The heavier rifle bullets are
+               usually match grade quality.
+
+     c.   Caliber.
+          [1]  A measure of a bullet's diameter in inches.
+
+          [2]  A .45 caliber bullet is theoretically 45/100 inches in
+               diameter at its widest point (actually 0.451").
+
+          [3]  The international method of describing bullet diameter is in
+               millimeters (abbreviated "mm").
+
+          [4]  There are 25.4 millimeters to one inch.
+          [5]  Handgun ammunition specified in millimeters that police
+               officers should be familiar with are the 9mm Luger (also
+               called 9mm Parabellum or 9 x 19mm) and the new 10mm bullet
+               used in the Colt Delta Elite and Smith & Wesson 1006.
+
+          [6]  There are three modern rifle cartridges that are designated
+               in millimeters. These are the 5.56mm (equal to the .223
+               caliber and used today in the Ruger Mini-14 and the Colt
+               M-16/AR-15), the 7.62x39mm (used in the Soviet AK-47 and
+               equal in diameter to .308 caliber), and the 7.62x51mm
+               cartridge. The 7.62x51mm is the international NATO
+               designation of America's .308 round.
+
+          [7]  On millimeter designated rifle (and a few pistol)
+               cartridges, the diameter is separated from the case length
+               by a times sign ("x"). Thus, the 7.62x51mm is read as "7.62
+               by 51" and means the bullet diameter is 7.62mm and the brass
+               or case is 51mm in length. Sometimes you may hear the
+               7.62x39mm cartridge called the "7.62 Russian short" since
+               the Soviets also have a 7.62x54mm rifle cartridge.
+
+     d.   Cartridge.
+          [1]  This is the entire assembly of the bullet, case, powder, and
+               primer. It is sometimes termed a "round." You may also hear
+               the term "round" used to describe just the bullet itself,
+               such as "let's go shoot some rounds" or a "9mm round."
+
+     e.   Case.
+          [1]  Also called "brass" or a "cartridge case." For handguns and
+               rifles, the case is normally made of metal and there are
+               some training rounds made of plastic and one target shooting
+               revolver round made with reusable plastic cases.
+
+     f.   Gunpowder.
+          [1]  Today it's called "smokeless powder" and is a mixture
+               comprised of various substances which, when ignited, produce
+               a tremendous volume of gases. The powder is more technically
+               termed an accelerant or propellant rather than an explosive
+               mixture. Like bullets, powder is measured by weight in
+               grains with 7,000 grains to a pound.
+
+     g.   Primer.
+          [1]  This is a small cup located in the base of the case that
+               contains an explosive compound. The primer detonates when
+               struck by the firing pin and ignites the powder mixture in
+               the case. Cartridges which have these cup primers are called
+               "centerfire" cartridges, as contrasted with a rimfire
+               cartridge like a .22 long rifle (.22LR) caliber cartridge.
+               There is a slang term whereby the phrase "let's go pop some
+               caps" actually means to detonate some primers but street
+               people, not nuclear physicists by any means, use the phrase
+               to refer to discharging some rounds.
+
+          [2]  The primers used in the United States are called Boxer
+               primers while those used in ammunition manufactured in
+               Europe are called Berdan primers. The modern primers used a
+               compound called lead styphnate as the explosive mixture.
+
+4.   What happens when the weapon is fired?
+     a.   Aft movement of the trigger releases the cocked hammer.
+          [1]  On double action handguns the initial aft movement of the
+               trigger also serves to move the hammer aft. At some point in
+               the pull of the trigger the hammer is released from an
+               engagement hook on the sear and then the hammer is permitted
+               to move forward.
+
+     b.   The hammer moves forward and strikes the firing pin.
+          [1]  On some weapons, such as the Smith & Wesson revolvers, the
+               hammer has the firing pin built into it. Then the firing pin
+               movement follows the hammer.
+          [2]  On revolvers such as the Colt Python, the hammer does not
+               have a built-in firing pin. In this case the hammer first
+               strikes a metal "transfer" bar and the impact of the hammer
+               upon the transfer bar is transferred to the firing pin.
+
+     c.   The firing pin contacts the primer that is located in the bottom
+          of the cartridge case.
+
+     d.   Within the primer itself the barium, lead, and antimony mixture
+          that makes up the lead styphnate primer explodes, generating a
+          high temperature mixture.
+
+     e.   This high temperature mixture ignites the gunpowder.
+          [1]  The powder burns at a predetermined rate and produces very
+               large quantities of gas, which radically increase the
+               pressure within the cartridge case to as much as 50,000
+               pounds per square inch (psi), depending upon the caliber.
+
+     f.   The high pressure gases within the cartridge case literally push
+          the bullet out of the case and into the "rifled" barrel.
+          [1]  The rifling in the barrel is nothing more than a precise set
+               of grooves cut into the inside of the barrel.
+
+          [2]  As the bullet travels from the breech end of the barrel
+               towards the outlet of the barrel (called the "muzzle"), it
+               is rotated within the barrel by this rifling. This spinning
+               gives the bullet gyroscopic stability.
+
+          [3]  The rifling leaves an impression of itself upon the bullet's
+               surface. This impression can later be used by a crime
+               laboratory technician to determine if that particular bullet
+               was fired from a specific firearm. Rifling is therefore used
+               much like fingerprints by the crime lab.
+
+          [4]  The spinning of the bullet by the rifling will cause the
+               bullet to be more stable in flight once it leaves the
+               barrel.
+
+     g.   As soon as the bullet leaves the barrel it is immediately acted
+          upon by the forces of gravity (pulling the bullet Earthward and
+          causing "bullet drop") and aerodynamic drag (which slows the
+          bullet's velocity).
+          [1]  A bullet's velocity is measured in feet per second (fps) at
+               several locations away from the weapon. When the velocity is
+               measured at the muzzle itself, it is termed "muzzle
+               velocity." The muzzle is where the bullet exits the barrel.
+
+5.   Kinetic energy.
+     a.   Kinetic energy (KE) is a useful measure of that nebulous term
+          "stopping power" in a well placed shot.
+          [1]  Technically, KE is a measure of energy in motion.
+
+          [2]  KE is measured in units called foot-pounds (ft-lbs).
+
+          [3]  KE can be mathematically computed using the formula:
+
+                              KE = ´mV˝
+
+                              where:
+                                             Bullet weight in grains
+                                        m =       7000 x 32.1746
+
+                                        V =  Velocity of the projectile in
+                                             fps and normally measured at
+                                             the muzzle end of the barrel.
+                                             Note that this quantity is
+                                             squared.
+
+                                        32.1746 = Acceleration due to
+                                                  gravity
+
+     b.   Why is kinetic energy important to a police officer?
+          [1]  The formula tells us that the only two ways to increase the
+               kinetic energy of a bullet is to either increase its mass
+               (m) by selecting a heavier bullet or to make the bullet go
+               faster by increasing the powder charge (increasing the value
+               of V).
+
+          [2]  Increased velocities are obtained in police rounds that are
+               designated as a "+P" or "+P+" type (pronounced "plus pee or
+               plus pee plus"). What this means is that there is simply
+               more powder in the case and that results in higher
+               pressures, which subsequently push the bullet at a greater
+               velocity. The higher velocity helps hollow point bullets to
+               expand better upon contact with a human target.
+
+     c.   Keep in mind that it is better to hit a bad guy in the eye with a
+          .22 caliber bullet than in the foot with a .44 Magnum JHP. In the
+          final analysis, the secret is shot placement and that only comes
+          from practice, practice, and more practice!
+
+6.   Data for typical handgun and rifle cartridges
+
+ Caliber       Bullet Wt.     Type      Muzzle Velocity     Muzzle Energy
+
+ .22 Short     29 grains      Pb RN        1045 fps           70 ft-lbs
+ .22 LR        40 grains      Pb HP        1150 fps          117 ft-lbs
+ .22 WMR       40 grains      FMJ          1480 fps          195 ft-lbs
+ .25 ACP       50 grains      FMJ           760 fps           64 ft-lbs
+ .32 ACP       95 grains      FMJ           905 fps          855 ft-lbs
+ .380 ACP      85 grains      STHP         1000 fps          189 ft-lbs
+ 9mm          115 grains      FMJ          1155 fps          341 ft-lbs
+ 9mm           80 grains      Glaser       1648 fps          483 ft-lbs
+ .38 Spec.    158 grains      FMJ           755 fps          200 ft-lbs
+ .357 Mag.    158 grains      JHP          1235 fps          535 ft-lbs
+ .44 Mag.     210 grains      STHP         1250 fps          729 ft-lbs
+ .45 ACP      230 grains      FMJ           810 fps          335 ft-lbs
+ .45 L. Colt  225 grains      SWC HP        900 fps          860 ft-lbs
+ .223 Rem.     55 grains      FMJ          3240 fps         1282 ft-lbs
+ .30 Carb.    110 grains      FMJ          1990 fps          968 ft-lbs
+ 30-30 Win.   170 grains      JSP          2200 fps         1827 ft-lbs
+ 7.62x39mm    123 grains      FMJ          2320 fps         1470 ft-lbs
+ .308 Win.    150 grains      FMJ          2800 fps         2612 ft-lbs
+ .30-'06      150 grains      FMJ          2825 fps         2659 ft-lbs
+
+
+Notes:
+
+Pb = Lead                          FMJ = Full Metal Jacket/Full Metal Case
+STHP = Silvertip Hollow Point      JHP = Jacketed Hollow Point
+JSP = Jacketed Soft Point          Glaser = Special Trade Name
+SWC = Semi-wadcutter               HP = Hollow point
+RN = Round Nose
+
+ÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕ
+
+          Additional copies of this material are available from:
+
+                         Richard M. Bash
+                         c/o Combat Arms
+                         2869 Grove Way
+                         Castro Valley, California 94546-6709
+                         Computerized BBS: (415) 537-1777
+                         Telephone (415) 538-6544
+
+
+                                Combat Arms
+                              2869 Grove Way
+                      Castro Valley, California 94546
+                      Telephone: VOICE (415) 538-6544
+                            BBS (415) 537-1777
+                         Fido Net Node: 1:161/357
+
+
+                        GUN RELATED BULLETIN BOARDS
+
+
+          Through the research efforts of numerous Combat Arms BBS
+     users, several SysOps on the National Firearms Echo and countless
+     readers of the Firearms and RTKBA Echoes, to all of whom I am
+     eternally grateful, dozens of firearms related bulletin boards
+     have been located around the United States.  As of the date
+     listed below these boards have been verified to carry a local
+     firearms echo, the National Firearms Echo, the Right to Keep and
+     Bear Arms (RTKBA) Echo, the USENET firearms Echo or support a
+     firearms file base.
+
+          New and changed listings since the last time this material
+- More - [C]ontinue, [S]top, [N]onStop: n                                                        was posted to the Firearms and RTKBA Echoes are designated by an
+     asterisk (*) following the telephone number.  Also note that when
+     a listing is provided, the clients on my BBS and others w-i-l-l
+     call it to verify that it is up and running.  When I get a report
+     from them that it is not, the listing is immediately deleted.
+
+          The format of this filename on the Combat Arms BBS is
+     GUNBBSxx.DOC and the archived version will be GUNBBSxx.ZIP.  The
+     "xx" characters will be a number from 1 to 99.  The higher the
+     number, the later the revision.  This will also benefit the
+     SysOps you upload GUNBBSxx.ZIP to because they can now tell which
+     versions are obsolete and can be safely deleted from their board.
+
+          How often does a revision appear?  Approximately the end of
+     every month I upload the latest revision to the Firearms Echo and
+     the RTKBA Echo.  The moderator of those two Echoes, Bob Kohl, has
+     authorized the postings.  However, the file GUNBBSxx.ZIP on the
+     Combat Arms BBS may change more often than once per month if you,
+     the user, send me new material for the list.  For those without
+     downloading privileges, the absolute latest information is still
+     available on the Combat Arms BBS by logging on and reading or
+     capturing Bulletin #8.  Bulletin #8 reflects every change.  When
+     several changes are accumulated, the GUNBBSxx.ZIP file is
+     changed.  Again, watch the file date, the revision number and go
+     to the File Menu and check for the New Files since you last
+     logged on to see if GUNBBSxx.ZIP has been revised.  Fido SysOps
+     are encouraged to File Request the file with the "magic" name
+     GUNBBS for the latest edition from us (1:161/357).
+
+          Please do what you can to help in this project and call
+     these boards!  Share files that you like and downloaded from the
+     Combat Arms BBS with them.  Also, please do not forget to upload
+     files to the Combat Arms BBS that you locate elsewhere!
+
+          If you find new bulletin boards that carry firearms
+     materials or discover that any of the bulletin boards listed
+     below are out of service, etc., please leave me a note and I will
+     update the list.  Thank you.
+
+
+
+                THIS LIST IS CURRENT AS OF FEBRUARY 20, 1991
+
+                          Filename: GUNBBS18.DOC
+                          Archive:  GUNBBS18.ZIP
+
+
+          High Mountain Gold BBS        AK        907-595-1439
+          ProTech                       AL        205-457-8434
+          The Unicorn                   AL        205-569-1333
+          Freedom One HST               AR        501-932-7932
+          RiverBend                     AR        501-563-6829
+          Deus ex Machina BBS           AZ        602-439-8070
+          Mac's Place                   AZ        602-252-1426
+          Rare Readers BBS              AZ        602-756-2855
+          Combat Arms BBS               CA        415-537-1777
+          Crumal's Dimension BBS        CA        408-246-7854
+          Firearms Education Institute  CA        213-546-3032
+          Galactic Central Point        CA        619-460-4720
+          Great American Dream Machine  CA        415-581-3019
+          MacScience BBS                CA        408-866-4933
+          NightLine-2                   CA        916-362-1755
+          Nomad PCBoard                 CA        805-498-3500
+          Paul Revere News Service      CA        408-947-7800
+          Penn Valley BBS               CA        916-432-0808
+          Software Silo                 CA        209-477-9502
+          Sonoma Online                 CA        707-545-0746
+          The Boundary BBS              CA        714-963-5821
+          The General BBS               CA        619-281-5538
+          The Q Continuum               CA        619-447-3917
+          Time Traveler                 CA        916-739-8386
+          Transporter BBS               CA        415-441-0616
+          Universal Mayhem              CA        818-335-0128
+          Wildcat! BBS                  CA        805-395-0672
+          Chatfield Armory              CO        303-972-9023
+          Dehnbase Emerald              CO        303-972-6575
+          Dragonfriend's Place          CO        303-782-9547
+          Welcome Home Data             CO        303-839-8665
+          A&T BBS                       CT        203-599-1999
+          Mike's Desk                   CT        203-888-8374
+          Sportsman Echo Home Board     CT        203-262-6111
+          The Ultimate BBS              CT        203-949-0375
+          The Water Hole BBS            CT        203-875-7071
+          Cygnus                        FL        305-437-1284
+          Pro-Gun BBS                   FL        305-927-2285
+          Southern Cross BBS            FL        305-220-8752
+          Spectator's BBS               FL        305-861-9297
+          Sunshine Online Service       FL        305-378-6828
+          Surface Interval BBS          FL        305-246-3483
+          The Emerald City              FL        813-267-1215
+          The Final Frontier            FL        904-260-1811
+          The Political Arena           FL        904-372-7408
+          BackWoods BBS                 GA        404-561-6106
+          Bandwagon BBS                 GA        912-439-9072
+          Byte Flight BBS               GA        404-454-8795
+          User Surly Board              IA        515-989-4489
+          Illinois State Rifle Assoc.   IL        708-335-2787
+          OPUS Pocus BBS                IN        317-848-1701
+          Paladen BBS                   IN        317-353-2973
+          PCjr Little OPUS BBS          IN        317-636-3961
+          The Twin Towers BBS           IN        317-251-7421
+          Jack Daniels Drinkers BBS     KS        316-265-1012 *
+          Dawn Patrol                   LA        318-797-8310
+          The Enterprise NCC-1701       LA        318-989-1426 *
+          Peacekeeper                   LA        318-741-3422
+          The Inside Wire               LA        504-733-8346
+          The Silver Streak RBBS        LA        504-888-6515
+          Silver Bullet                 MD        301-622-2247
+          The Ophiuchi Hotline          MD        301-731-0263
+          Writer's Block BBS            MD        301-945-1540
+          Alternate Reality             MI        313-777-6472
+          But Seriously Folks           MI        313-385-9969
+          Russ's Corner                 MI        313-854-5600
+          The Land of the Lounge Liz.   MI        616-327-8912
+          The Land of Nul               MI        313-385-9969
+          Beg, Borrow or Steal          MN        612-926-6224
+          CMOS BBS                      MO        816-233-9186
+          Doc in the Box BBS            MO        314-893-6099
+          The Entry Point BBS           MO        417-883-8809
+          The Sound Advice BBS          MO        816-436-4516
+          Bragg IDBS                    NC        919-867-0754 *
+          Cynosure BBS                  NC        919-929-5153
+          Home by the Sea               NC        919-639-9728
+          Precision BBS                 NC        919-355-8833
+          Precision/1                   NC        919-444-1813 *
+          The Federal Post              NC        919-436-2055
+          My House BBS                  NH        603-898-2349
+          VAXCat                        NH        603-424-0923
+          E.B.B.B.S.                    NJ        908-247-8252 *
+          Gamer's Guild BBS             NJ        201-827-0352
+          Micro-Fone TBBS               NJ        908-906-7685 *
+          Poison Pete's                 NJ        201-948-3428
+          Trailblazer BBS               NJ        201-742-1860
+          Dog Canyon Fire Net           NM        505-434-3224
+          Galaxia                       NY        315-695-4436 *
+          NiteWing                      NY        607-687-3470
+          The Great Outdoors BBS        NY        607-722-1689
+          Blue Moon BBS                 OH        614-868-9982
+          Blue Moon BBS (2nd line)      OH        614-868-9984
+          Night Moves!                  OH        216-823-6658
+          OHIONet Express               OH        216-842-5911 *
+          South Parking Lot             OH        614-351-2274 *
+          The 10th Precinct             OH        614-423-5204
+          The Corvette BBS              OH        614-861-8377
+          Toledo's TBBS                 OH        419-471-0420
+          Engineering HQ                OK        405-946-6279
+          Okie MavenWare                OK        405-943-8638
+          The Family Tree               OK        405-321-0642
+          The Gunner's Mate             OK        918-838-1615
+          Corbin BBS                    OR        503-826-6737 *
+          Eastside Data Services #1     OR        503-760-4521
+          Outlet BBS                    OR        503-648-6462
+          Sea Breeze BBS                OR        503-286-2802 *
+          Sea Breeze BBS I              OR        503-286-0931 *
+          Anything Goes BBS             PA        412-264-2692
+          The Astral Board              PA        412-824-6566
+          The Enchanted Forest          PA        412-788-4089
+          The Gas Passer                PA        412-648-6326
+          The Optical Illusion          PA        215-797-7409
+          High Tide                     SC        803-238-3642
+          Mac Networx                   SC        803-739-9184
+          Periscope                     SC        803-650-9022
+          Schrodinger's Catbox          SC        803-652-3760
+          Cumberland_BBS                TN        615-526-3347
+          Information Center I          TN        615-499-5200
+          Tanstaafl                     TN        615-360-8419
+          Transfer Station              TN        615-297-5611
+          Central High BBS              TX        915-653-5906
+          Code 3 BBS                    TX        214-436-8753
+          Diver Down BBS                TX        713-992-1507
+          Electric Sub-Station          TX        512-359-8904 *
+          Electrode's BBS               TX        903-868-2794 *
+          Ma & Pa's Kettle              TX        214-557-5216
+          MacEndeavour                  TX        713-640-2533
+          Martin's Domain BBS           TX        512-396-0252
+          The Impact Crater BBS         TX        512-392-4366
+          The Political Arena           TX        214-681-5850
+          The Snake Pit                 TX        713-466-3022
+          The Titan RBBS                TX        512-590-7227 *
+          The Warrior's Path            TX        915-653-3396
+          Bamboo Hut                    VA        804-363-0992
+          Brokedown Palace              VA        804-591-8537
+          Bullet'N Board                VA        703-971-4491
+          Grey Eagle                    VA        703-534-0177
+          Lafayette Gun Club BBS        VA        804-877-8320
+          SNBBS                         VA        804-722-3183
+          Swap Shop                     VA        703-385-3114
+          Ten Bowl BBS                  VA        804-599-6401
+          The No*Name BBS               VA        804-622-5236 *
+          The Squad Room BBS            VA        804-499-2077
+          VT Trading Post               VT        802-879-1732
+          We Serve Your Drives          VT        802-860-1875
+          Data Land BBS                 WA        206-584-7305
+          Electronic Library            WA        509-663-5232 *
+          Northwest PC Link             WA        206-854-5646
+          The Cold Zone                 WI        608-328-8202
+          Oregon Trail Crossroads       WY        307-472-3615
+          Ragged Edge                   WY        307-265-0612
+          Rocky Mountain Rendezvous     WY        307-638-8506
+          JW-PC's DataFlex              WI        608-837-1923
+          Romany-RBBS                   WI        608-655-4012
+          Calgary Message Line BBS      Canada    403-244-4724 *
+          CARS - The Automotive BBS     Canada    403-752-3930
+          Cephalopods from Hell         Canada    613-523-0077 *
+          K9COPS BBS                    Canada    604-599-0514
+          Starship Enterprise           Canada    519-746-6472 *
+          Yorkton Area Opus             Canada    306-782-1355
+
+
+          Richard Bash
+          -Your SysOp-
+
+
+
+
+                              Combat Arms
+                              2869 Grove Way
+                   Castro Valley, California 94546-6709
+                         Telephone (415) 538-6544
+                            BBS: (415) 537-1777
+                             November 13, 1990
+
+
+                 A BALLISTICS PROGRAM AT DREXEL UNIVERSITY
+
+
+          The following material was provided by Ed Harris in the
+     Firearms Echo. Should any reader contact Drexel University and
+     wish to provide the entirety of their brochure, I will replace
+     this material with that. Thank you.
+
+
+     Richard Bash
+     -Your SysOp-
+
+
+                               -=-=-=-=-=-=-
+
+                           
+           There have been requests in the past from students
+     interested in ballistics who wanted to know where they could take
+     college level courses which would be useful in the field. I
+     received through the American Defense Preparedness Assn. a flier
+     on the Center for Ballistics at Drexel University, 32nd and
+     Chestnut Streets, Philadelphia, PA 19104. I have extracted the
+     following from the flier, which I have edited here for brevity:
+
+           Full time students may receive an MS in Mechanical
+     Engineering with a concentration in ballistics by taking the
+     required courses in the Mechanical Engineering Department while
+     selecting specialized ballistics courses as electives. Students
+     wishing to enter this program should have a BS degree in the
+     sciences or engineering and must meet the requirements of
+     Drexel's MS program. Beginning the 1990/91 academic year the
+     ballistics courses will be offered in the Spring and Summer
+     terms. Each term is approximately six weeks. A total of 45
+     credits (15 courses for the non-thesis option) are required for
+     the MS degree.
+
+           Three math courses in Engineering Analysis (statistics) or
+     Engineering Mathematics are required, plus the following six
+	 courses in the Mechanical Engineering core curriculum:
+
+                    Theory of Elasticity     I and II
+                    Fluid Mechanics          I and II
+                    Advanced Dynamics        I and II
+
+           For the ballistics courses students may elect from any six
+     of the following:
+     Impact and Wave Propagation I and II:
+
+           Governing equations of elastic waves, longitudinal and
+     transverse waves, Bernouli-Euler and Timosh enko beams; spherical
+     and cylindrical waves, method of characteristics. Instructor Dr.
+     Pei Chi Chou. Co-author of Elasticity and Material Response to
+     Impulsive Loading, Dr. Chou has over 25 years experience in
+     researching shaped charge, penetration mechanics and computer
+     simulation of terminal ballistics.
+
+     Compressible Fluid Dynamics:
+
+           Steady flow of compressible fluids, review of
+     one-dimensional flows; two and three dimensional subsonic,
+     transonic, supersonic and hypersonic flow, normal and oblique
+     shock waves, wave reflections, oblique shock wave interactions
+     and generation of vorticity, compressible boundary layers, shock
+     boundary layer interaction. Instructor Dr. Turner (No bio
+     furnished).
+
+     Experimental Ballistics:
+
+           Introduction to interior, transitional, exterior and
+     terminal ballistics, ballistic range technology, standard and
+     experimental ballistics of kinetic energy penetrators, armors and
+     explosive testing, loading technique, standard operating
+     procedures and test design and specifications. Instructor, Luigi
+     F. Baldini BS, formerly of the US Army Armament Research,
+     Development and Engineering Center, Picatinny Arsenal, NJ, with
+     over 25 years experience in the areas of interior ballistics of
+     high velocity propellant artillery, launch and terminal
+     ballistics of KE penetrators, range and high pressure gun design
+     and operation.
+
+     Shaped Charge Technology:
+
+           Introduction to shaped charges, explosive metal
+     interaction, jet formation theory, jet instability and break-up,
+     incompressible and compressible penetration theories,
+     one-dimensional models and two-dimensional hydrocones. Instructor
+     Dr. William J. Flis, Director of Research, Dyna East Corp.,
+     Philadelphia, PA., author of the latest version of DESC codes for
+     predicting shaped charge jet formation and penetration.
+
+     Physics of Explosives:
+
+           Shock waves and detonation waves; basic definitions; types
+     of military explosives; measures of performance, sensitivity and
+     vulnerability; explosive trains; hazard classification and
+     insensitive munitions criteria. Instructor Dr. Robert B. Frey,
+     Chief, Explosives Effects Branch, Terminal Ballistics Division,
+     U.S. Army Ballistic Research Laboratory, Aberdeen Proving Ground,
+     MD. Dr. Frey has done extensive research on transverse wave
+     phenomena in detonating explosives, ignition and initiation
+     phenomena in explosives and propellants, shaped charge warhead
+     performance and reactive armor. He is the author or co-author od
+     48 technical reports and papers on these topics and the recipient
+     of two US Army Achievement Awards.
+
+     Numerical Methods In Ballistics:
+
+           Introduction to numerical methods used in modelling of
+     ballistic phenomena; comparison and contract of Lagrangian and
+     Eulerian coordinate systems, finite element and finite difference
+     formations; explicit vs. implicit integration schemes; stability
+     and accuracy of fluxing algorithms; general overview of sources
+     to numerical error; computational approach to modelling material
+     behavior under impact loading. Instructor Dr. Steven Segletes,
+     Mechanical Engineer, Penetration Mechanics Branch, BRL, who
+     developed the Zeus hydrocode, and has registered several shaped
+     charge inventions and published several papers.
+
+     Interior Ballistics:
+
+           Overview of interior ballistics, weapon and ammunition
+     components technology, solid and novel propulsions, rotating band
+     and obturator mechanics, mechanics of gun tubes, experimental
+     techniques and systemic implications. Instructors Dr. Bruce
+     Burns, Chief, Mechanics and Structures Branch, Interior
+     Ballistics Division, BRL, and Mr. Albert W. Horst, Chief Applied
+     Ballistics Branch, Interior Ballistics Division, BRL, who
+     pioneered the application of multiphase flow modelling techniques
+     to interior ballistic problems leading to functional
+     understanding of flamespreadng, pressure waves and their effects
+     on system safety and performance.
+
+     Survey of Ballistics:
+
+           An overview of the entire field of ballistics, interior,
+     intermediate, exterior and terminal; warhead mechanics and
+     systems engineering, effects of key parameters and computer code
+     solution of basic problems. Instructor Dr. R.J. Eichelberger,
+     former Director of the US Army Ballistic Research Laboratory,
+     internationally respected for his work in terminal ballistics and
+     behavior of materials under very high pressures and rates of
+     loading, and for his innovations in the field of weapons system
+     engineering and management.
+
+           For further information engineers or recent engineering
+     graduates should write:
+
+     Dr. Pei Chi Chou, Director
+     Center for Ballistic Studies
+     Drexel University
+     32nd and Chestnut Streets
+     Philadelphia, PA 19104
+
+                                   -----
+           Please don't ask ME questions about these subjects, because
+     they are over MY head for the most part. However, for those who
+     are serious and have the determination to pursue it, the above
+     shows you what the academic requirements are. Sure is more than
+     handloading and playing with guns isn't it?
+
+     Regards,
+
+     Ed Harris
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,45 @@
+.Name DANAN
+.Title LAND LAW HEIR				  
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 15
+.PEN 20		
+.DEX 15
+.PAG 15		
+.PAW 14
+.MST 21		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 6'5"      
+.WT 280		 
+.AGE ?
+.BeginDesc
+ LOOKS LIKE A TALL PINE WITH BLACK HAIR
+.EndDesc
+.BeginSkills
+Weapon: HAMMER				, 
+.EndSkills
+.Locale ISIG KEEP
+.BeginKnownAssoc
+ RULER OF ISIG
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends BALTHORIS,LERRYS ELHAYN,LYRA,CATBHACH
+.EndFriends
+.BeginComment
+ CONTENT TO SPEND HIS DAYS AS A TREE OR WORKING GEMS IN THE MTNS.
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

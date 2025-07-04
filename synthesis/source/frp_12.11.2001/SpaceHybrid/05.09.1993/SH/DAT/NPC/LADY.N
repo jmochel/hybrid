@@ -1,0 +1,47 @@
+.Name LADY FEM MIASA
+.Title GRAND LADY OF RANNOCK		
+.Race 1/2 GREY EF
+.Culture
+.Aspect 
+.PST 10
+.PEN 11		
+.DEX 12
+.PAG 17		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 150		 
+.AGE 
+.BeginDesc
+ 16 VIOLET EYED WITH DARK BLACK HUMAN TEXTURED HAIR
+.EndDesc
+.BeginSkills
+Weapon: DAGGER3				 , 
+.EndSkills
+.Locale RANNOCK ; IN RANNOCK KEEP
+.BeginKnownAssoc
+ GROD'S GROUP,BODYGUARD MIKKER
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A KNOWN BASTARDESS OF THE ELENAIR CLAN MIASA HAS DEMONSTRATED A SKILL  
+IN RUNNING RANNOCK WHICH BORDERS ON THE UNREAL.
+.EndComment
+.BeginPossess
+ ELVEN CHAIN MAIL,MITHRIL LONGSWORD
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

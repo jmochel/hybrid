@@ -1,0 +1,43 @@
+.Name Koma Nava (F)
+.Title Fighter/Witch				  
+.Race Hu
+.Culture
+.Aspect 
+.PST 12
+.PEN 15		
+.DEX 16
+.PAG 12		
+.PAW 14
+.MST 14		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 5'2"      
+.WT 105		 
+.AGE 60
+.BeginDesc
+ 15
+.EndDesc
+.BeginSkills
+Weapon: Long Sword		   , 
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

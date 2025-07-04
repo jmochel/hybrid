@@ -1,0 +1,57 @@
+%M% %I% modified %E% %U%
+.include "test"
+For compiling with the Pure C compiler on the Atari ST, you must compile
+and install the packages in the order 'libtmc', 'tm', 'tmc'.  See the
+README files in each of the directories. Note that as of version 1.2,
+the Atari ST version is no longer supported (I have sold my ST).
+For compiling with the Borland C++ compiler under MSDOS/MS-Windows, you must
+compile and install the packages in the order 'libtmc', 'tm', 'tmc'.
+See the README files in each of the directories.
+.include "The Big Test.cg"
+ANTLR 2.5.0 introduced an AWK-like lexical filtering mode that forces 
+generated lexers to ignore any characters that do not match a lexical 
+rule exactly.  To turn ANTLR into SED, all you have to do is make a 
+lexical filter rule that prints out the characters that don't match 
+anything.  Then, it's up to the lexical rules to generate what they want.
+
+.set volare = "schmoo"
+%M% ${volare}: either the value of the m flag in the file, or if absent, the name of the SCCS file with the leading s. removed. 
+.set volare = "schmoo1"
+%M% ${volare}: either the value of the m flag in the file, or if absent, the name of the SCCS file with the leading s. removed. 
+
+${volare}
+
+%M% Module name: either the value of the m flag in the file, or if absent, the name of the SCCS file with the leading s. removed. 
+%I% SCCS identification (SID) (%R%.%L% or %R%.%L%.%B%.%S%) of the retrieved text 
+%R% Release. 
+%L% Level. 
+%B% Branch. 
+%S% Sequence. 
+%D% Current date (YY/MM/DD). 
+%H% Current date (MM/DD/YY). 
+%T% Current time (HH:MM:SS). 
+%E% Date newest applied delta was created (YY/MM/DD). 
+%G% Date newest applied delta was created (MM/DD/YY). 
+%U% Time newest applied delta was created (HH:MM:SS). 
+%Y% Module type: value of the t flag in the SCCS file. 
+%F% SCCS filename. 
+%P% SCCS absolute pathname. 
+%Q% The value of the q flag in the file. 
+%C% Current line number. This keyword is intended for identifying messages output by the program, such as "this should not have happened" type errors. It is not intended to be used on every line to provide sequence numbers. 
+%Z% The four-character string @(#) recognisable by what. 
+%W% A shorthand notation for constructing what strings: 
+
+.set var1 = "testtext"
+.set var2 = $function3("arg0" , "arg2")
+.set var3 = ${volare}
+
+%W%=%Z%%M%<tab>%I%
+
+$function1("arg1")
+
+%A% Another shorthand notation for constructing $function2("arg0") strings: 
+
+$function3("arg0" , "arg2")
+$function4("arg0" , "arg2")
+
+%A%=%Z%%Y%%M%%I%%Z%

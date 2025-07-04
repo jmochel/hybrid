@@ -1,0 +1,69 @@
+h21669
+s 00041/00000/00000
+d D 1.1 99/11/17 12:50:34 jmochel 2 1
+cC
+cK47716
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:30 jmochel 1 0
+c BitKeeper file e:/jacl/doc/CodingVerbAndNounGlossary.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45335
+cPdoc/CodingVerbAndNounGlossary.txt
+cR2f93d7c65cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Memory  Mem
+Stream  Stream
+File    File
+Func    Function
+Proc    Process
+Exception Exception
+Error   Error
+Pipe    Pipe
+Imp     Implementation
+Sub     Sub
+Read    Read
+Write   Write
+Seq     Sequential
+Seq     Sequence
+Abs	    Abstract
+Rgn	    Region
+Get	    Get
+Set	    Set
+Bfr	    Buffer
+Len	    Length
+Size	Size
+Pos	    Position
+Avail	Available
+Offset	Offset
+Cnt	    Count
+Pending	Pending
+Rep	    Representation
+Ref	    Reference
+Use	    Use
+Next	Next
+List	List
+Init	Initialize
+Init	Initial
+Deinit	Deinitialize
+Callback Callback
+Invoke  Invoke
+Cfg     Config
+Owner   Owner
+Type    Type
+What    What
+
+E 2
+I 1
+E 1

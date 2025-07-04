@@ -1,0 +1,4133 @@
+Name	Fan Kelp
+Type	V(Seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD,HL,PO
+DescStart
+DescEnd
+CommentStart
+FD Fan Kelp Powder : A very strong preservative.
+HL Fan Kelp Gel : Used as a preservative for ingested medications.
+PO Fan Kelp Gel : Used as a preservative in ingested toxins
+CommentEnd
+
+Name	Sea Colander
+Type	V(seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD,HL
+DescStart
+DescEnd
+CommentStart
+FD Sea Colander Leaf : Potherb
+FD Sea Colander Powder : Used to produce jellies and jams 
+FD Sea Colander Powder : Very good traveling foods and noodles.
+HL Sea Colander Powder : Used as a preservative for solid herbs.
+CommentEnd
+
+Name	Ribbon Kelp
+Type	V(seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD,HL
+DescStart
+DescEnd
+CommentStart
+FD Ribbon Kelp : Potherb
+FD Ribbon Kelp : Boiled, produces a salty mixture that preserves meat quite well
+HL Ribbon Kelp : Boiled and dried it serves as a good sterile bandage.
+CommentEnd
+
+Name	Giant Kelp
+Type	V(seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	HL,MG,AL
+DescStart
+DescEnd
+CommentStart
+HL Giant Kelp Tincture : Used as an antiseptic 
+MG Giant Kelp Powder : Used in preparing a number of Inks of magical nature
+AL Giant Kelp Ash : Used in producing a strong tincture of iodine. Subtracts 30% from chances of infection.
+AL Giant Kelp Powder : Used in producing a purple smoke cloud that stings the eyes.
+CommentEnd
+
+Name	Rockweed
+Type	V(seaweed)
+Avail	C
+Habitat	SSH
+Potloss	2%/yr
+Uses	FD,HL,PO 
+DescStart
+DescEnd
+CommentStart
+FD Rockweed Leaf : Potherb
+FD Rockweed Powder : Used to tenderize meat
+HL Rockweed Decoction : Used to lower an appetite
+PO Kartine : IG-O-4(d6)-4(2d6) A poison that suppresses appetite in such 
+a way that it imitates many illnesses. Has to be administered once every day.
+CommentEnd
+
+Name	Gulfweed
+Type	V(Seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD
+DescStart
+DescEnd
+CommentStart
+FD Gulfweed Raw : Potherb.
+CommentEnd
+
+Name	Laver
+Type	V(Seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD
+DescStart
+DescEnd
+CommentStart
+FD Laver Leaf : Potherb
+FD Laver Powder : Used in making a good waybread
+CommentEnd
+
+Name	Kalic Moss,Irish Moss
+Type	V(Seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD,SPC,AL
+DescStart
+DescEnd
+CommentStart
+FD Kalic Moss Powder : Pudding
+SPC Kalic Moss Decoction : Soap
+SPC Kalic Moss Powder : Shampoo
+SPC Kalic Moss Gel : Leather Sizing
+AL Kalic Moss Ash : Used in making a strong Glue
+CommentEnd
+
+Name	Dulse,Sea Kale
+Type	V(Seaweed)
+Avail	C
+Habitat	SSH
+Potloss	NONE
+Uses	FD,SPC,HL
+DescStart
+DescEnd
+CommentStart
+FD Dulse Leaf : Potherb
+FD Dulse Powder : Flour
+SPC Dulse Strips Smoked : Chewing Tobacco
+HL Farking : DC-FR-3(1d6)-4(2d6)-16
+CommentEnd
+
+Name	Rose Red
+Type	V(Fungus)
+Avail	UC
+Habitat	HWD,LWD,CAV
+Potloss	NONE
+Uses	MG,DY
+DescStart
+bright red slime mold found in rotting wood and logs
+DescEnd
+CommentStart
+MG Rose Red Spores : Used in producing a bright red ink for light spell scrolls
+DY Rose Red Powder : Makes a brilliant dye for cloth
+CommentEnd
+
+Name	Morel
+Type	V(Fungus)
+Avail	UC
+Habitat	WST
+Potloss	NONE
+Uses	FD
+DescStart
+A small pale,spongy,mushroom with a dark stem.  
+DescEnd
+CommentStart
+FD Morel Cooked : An excellent food crop
+CommentEnd
+
+Name	Helvella,Valhalla Cap
+Type	V(Fungus)
+Avail	UC
+Habitat	HWD,FLD
+Potloss	1%/month
+Uses	HL,PO,MG
+DescStart
+Brainlike convolutions mark this mushroom well. A small pitted shaft 
+helps distinguish it from the Morel. 
+DescEnd
+CommentStart
+HL Helvella Cap : DC-AN-1(d6)-0-12 Antidote for Helvellan
+PO GarHallan : IG-AN-1(d8)-0-16 Antidote for Hevallan
+PO Helvallan : IG-D-2(d4)-4(d6)-38
+MG Helvalla Tincture : Used in producing a poison detection scroll
+CommentEnd
+
+Name	Scarlet Cup
+Type	V(Fungus)
+Avail	UC
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	FD,HL
+DescStart
+Large,round,scarlet cups with a dark underbelly. 
+DescEnd
+CommentStart
+FD Scarlet Cup Fresh : Used in soup and as a potherb
+HL Scarlet Cup Tincture : Used as a disinfectant
+CommentEnd
+
+Name	Truffles,Asko
+Type	V(Fungus)
+Avail	Rare
+Habitat	HWD
+Potloss	NONE
+Uses	FD
+DescStart
+Crusty dark brown spheres found buried under Oak trees. 
+DescEnd
+CommentStart
+FD Truffles Cooked : An excellent source of food
+CommentEnd
+
+Name	Ergot
+Type	V(Fungus)
+Avail	UC
+Habitat	FLD
+Potloss	1%/10 yr
+Uses	PO,MG
+DescStart
+A brown rust found on cultivated grains such as rye and oats,wheat and barley. 
+DescEnd
+CommentStart
+PO Ergonine : IN-H-1(d4)-3(d8)
+PO Ergonine : IG-H-2(d4)-3(d6)
+PO Ergonine : AB-H-3(d4)-3(d8)
+MG Ergot Powder : Used to improve the effects of illusions
+CommentEnd
+
+Name	Horn of Plenty
+Type	V(Fungus)
+Avail	C
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	FD
+DescStart
+Has the appearance of a deep funnel with a broad curling lip.  
+Less than 1" tall
+DescEnd
+CommentStart
+FD Horn of Plenty Fresh : Excellent and filling pot herb
+CommentEnd
+
+Name	Destroying Angel
+Type	V(Fungus)
+Avail	UC
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	PO
+DescStart
+Flat egg shaped white cap on an Orange shaft.  
+DescEnd
+CommentStart
+PO Destroying Angel Fresh : IG-DD-4(12)-5(d4)-64
+CommentEnd
+
+Name	Giant Puffball
+Type	V(Fungus)
+Avail	C
+Habitat	FLD,PLN,LWD
+Potloss	NONE
+Uses	FD
+DescStart 
+Large white spheres between 1 and 5 feet in width. 
+DescEnd
+CommentStart
+FD Giant Puffball : Good eating for a large number.
+CommentEnd
+
+Name	Sphangnum Moss
+Type	V(Moss)
+Avail	C
+Habitat	WTL
+Potloss	NONE
+Uses	HL,MG
+DescStart
+Long stringy moss,usually red or yellow. 
+DescEnd
+CommentStart
+HL Sphangnum Moss Decoction : Used to stop bleeding 
+HL Sphangnum Moss Dried : Used as sterile bandages.
+MG Sphangnum Moss Dried : Used in weather Magic
+CommentEnd
+
+Name	Resurrection Fern
+Type	V(Fern)
+Avail	Rare
+Habitat	WTL
+Potloss	10%/h
+Uses	HL,MG
+DescStart
+A 1 ft long evergreen type plant. Gradually changes to red near the 
+tip of the plant.  
+DescEnd
+CommentStart
+HL Resurrection Fern Spores : AB-SD-2
+MG Waters of Thought : Used by moonsingers to restore memories to 
+reincarnated entities.
+CommentEnd
+
+Name	Snake Fern
+Type	V(Fern)
+Avail	UC
+Habitat	WTL,HWD
+Potloss	1%/w
+Uses	HL
+DescStart
+10 ft long with heavily seperate leaves. 
+DescEnd
+CommentStart
+HL Snake Fern Rootstock : PL-AN-3 used as an antidote to snake poisons.
+CommentEnd
+
+Name	Horse Tail
+Type	V(Fern)
+Avail	C
+Habitat	WTL
+Potloss	NONE
+Uses	FD,PO
+DescStart
+A simple rush that rises 1-2 ' above the ground 
+DescEnd
+CommentStart
+FD Horse Tail Tips : Young are used as a potherb
+FD Horse Tail Raw : Often used to scrub pots 
+PO Horse Tail Raw : Fairly dangerous to livestock IG-D-4(d3)-5(d3)-28
+CommentEnd
+
+Name	Scouring Rush
+Type	V(Fern)
+Avail	C
+Habitat	SSH,HWD,LWD,PLN,WTL
+Potloss	NONE
+Uses	SPC
+DescStart
+2-3 ft tall thick rush 
+DescEnd
+CommentStart
+SPC Scouring Rush Raw : Plants explode loudly when burned
+SPC Scouring Rush Raw : Used as a fine sandpaper
+SPC Scouring Rush Raw : Plants have been used as scouring pads in cooking
+CommentEnd
+
+Name	Club Moss
+Type	V(Moss)
+Avail	UC
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	AL
+DescStart
+Christmas wreath like appearance. Thin runners with small evergreen 
+fruiting heads.  
+DescEnd
+CommentStart
+AL Club Moss Powder : Used as the basis of a cheap flash powder
+CommentEnd
+
+# Here start the plants from DQ "Arcane Wisdom"
+
+Name	Aconite,Monkshood,Wolfsbane,Pardsbane
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,WTL,HWD,LWD
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+Ascending or nearly trailing stems. Leaves alternate. White to purple 
+hooded flowers in terminating bundles. 
+DescEnd
+CommentStart
+FD Aconite Powder : Used in making a searing spice liqour (non poisonous)
+HL Aconite Tincture : Used in curing blindness
+PO Aconite Root : Acona (A quick acting contact poison)
+PO Aconite Raw : A death poison 
+MG Aconite Ash : Used in casting death spells and Flying spells
+AL Aconite Leaf : For causing temporary blindness  
+CommentEnd
+
+Name	Agrimony
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,LWD,RGH
+Potloss	6%/w
+Uses	FD,HL,MG,AL
+DescStart
+Bright yellow flower with 6 petals . Plant to 2'
+DescEnd
+CommentStart
+FD Agrimony Root : Used to cold cook meats
+HL Agrimony Leaves : Antidote for snake poison
+MG Agrimony Flower : Used to make demonic summonings easier
+AL Agrimony Root : Used in a snake anti venom
+CommentEnd
+
+Name	Amaranth
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,LWD
+Potloss	10%/d
+Uses	FD,HL,MG,AL
+DescStart
+A scraggly herb up to 6' in height with small red or white flowers
+Large seed stalks
+DescEnd
+CommentStart
+FD Amaranth Leaf : Potherb
+FD Amaranth Seeds : Used in making flour
+HL Amaranth Leaf : Used in a Poultice that heals d10-2 in fatigue and 1 HTK/day.
+HL Amaranth Roots : Decoction stops bleeing in 10 - 20 seconds
+MG Amaranth Flowers : Used in purification rituals
+AL Amaranth Root : Used in Healing potions
+CommentEnd
+
+Name	Anemone,Windflower
+Type	V(Small Plant)
+Avail	UC
+Habitat	LWD,HWD
+Potloss	30%/d
+Uses	HL,MG,AL
+DescStart
+A tall ( 3') herb with large Purple Flowers with black centers.
+Blooms only on windy days 
+DescEnd
+CommentStart
+HL Anemone Flowers : Used to heal headaches and concussion
+AL Anemone Flowers : Used to create Sensory improving elixirs
+MG Anemone Flowers : Add to chance to perform divination
+CommentEnd
+
+Name	Angelica
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD
+Potloss	5%/w
+Uses	FD,HL,PO,MG,AL,DY
+DescStart
+A leafy green flowered herb with white stamens and pollen.
+DescEnd
+CommentStart
+FD Angelica Root : Used in seasoning and salads
+HL Angelica Root : Used to break Fevers
+PO Angelica Root : A simple gum can be used to poison insects
+MG Angelica Root : A protection against simple curses
+AL Angelica Pollen : Elixirs that prevent infection
+DY Angelica Root : Serves as a potent cloth bleach
+CommentEnd
+
+Name	Astoetida
+Type	V(Small Plant)
+Avail	UC
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	MG,AL,SPC
+DescStart
+Gum resin bearing plant. Aromatic .
+DescEnd
+CommentStart
+MG Astoetida Resin : Repellant for Incubi, succubi, and Imps
+MG Astoetida Resin : Attracts Hellhounds
+AL Astoetida Resin : Makes powerful incense
+SPC Astoetida Resin : Makes a aromatic lacquer
+CommentEnd
+
+Name	Basil,Dittany
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	10%/hr
+Uses	FD,HL,MG,AL
+DescStart
+A dark, short aromatic herb. Brittle even when fresh
+DescEnd
+CommentStart
+FD Basil Leaf : Potherb
+FD Basil Leaf : Seasoning
+HL Basil Leaf : Poultice to cure insect bites
+MG Basil Leaf : Used in purifications for wards
+AL Basil Leaf : Used in creating a Endurance Elixir
+CommentEnd
+
+Name	Belladonna,Deadly Nightshade
+Type	V(Small Plant)
+Avail	R
+Habitat	LWD,HWD,WTL
+Potloss	2%/mo
+Uses	HL,PO,MG,AL,DY
+DescStart
+A crawling dark green plant with crimson leaves and black berries.
+Up to 5' in ht. Flowers are a dull purple. All parts of the plant 
+have a harsh scent and a bitter taste that is almost impossible to disguise.
+DescEnd
+CommentStart
+HL Belladonna Leaf : Stimulant
+PO Belladonna Leaf : Ingestive poison
+PO Shadine : Shadine-IG-DD-2m-30m-3%/mo-1d2
+MG Belladonna Root : Used in flying spells
+AL Belladonna Powder : Used in making a strength potion
+DY Belladonna Flower : Used in making a rich bright purple. Very rare
+CommentEnd
+
+Name	Betony
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,LWD
+Potloss	1%/w
+Uses	FD,HL,MG,AL
+DescStart
+A mint similiar in appearance to catmint.
+DescEnd
+CommentStart
+FD Betony Leaf : Tea
+HL Betony Leaf : Tea used to resotore fatigue as a hot meal would
+MG Betony Leaf : Used in recovering from spell backlash
+AL Betony Leaf : Used in increasing speed or fatigue
+CommentEnd
+
+Name	Black Hoarhound
+Type	V(Small Plant)
+Avail	UC
+Habitat	WTL
+Potloss	NONE
+Uses	FD,HL
+DescStart
+A large wooly grayish green plant with tiny white flowers
+DescEnd
+CommentStart
+FD Black Hoarhound Leaf : Candy
+FD Black Hoarhound Leaf : Tea 
+HL Black Hoarhound Leaf : Tea that restores fatigue as a hot meal.
+CommentEnd
+
+Name	Bloodroot
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD
+Potloss	1%/w
+Uses	HL,MG,AL
+DescStart
+A large lobed leaf and a thick dull red root. Root and root stock are fairly 
+Fibrous and full of a pale red liquid. A very bitter and acrid scent.
+DescEnd
+CommentStart
+HL Bloodroot Root : Used to heal fatigue loss from blood loss
+HL Bloodroot Root : Used to heal Anemia 
+MG Bloodroot Root : Used to cast wardings
+AL Bloodroot Root : Used for Control elixirs and charms 
+CommentEnd
+
+Name	Bryony,Snake Grape
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,LWD,HWD
+Potloss	NONE
+Uses	FD,HL,AL
+DescStart
+A long thin vine with delicate purple flowers that are very fragrant.
+Has small grape like fruit.
+DescEnd
+CommentStart
+FD Bryony Fruit : Used in a wine and also a mead
+FD Bryony Flowers : Used to flavour wines and honeys
+HL Bryony Leaf : Decoctions speeds bone healing
+Al Bryony Flowers : Distils to a material called Boneheal
+CommentEnd
+
+Name	Bryony,Snake Grape
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,LWD,HWD
+Potloss	NONE
+Uses	FD,HL,AL
+DescStart
+A long thin vine with delicate purple flowers that are very fragrant.
+Has small grape like fruit.
+DescEnd
+CommentStart
+FD Bryony Fruit : Used in a wine and also a mead
+FD Bryony Flowers : Used to flavour wines and honeys
+HL Bryony Leaf : Decoctions speeds bone healing
+AL Bryony Flowers : Distils to a material called Boneheal
+CommentEnd
+
+
+Name	Caper
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,RGH
+Potloss	1%/d
+Uses	FD,HL,PO,AL
+DescStart
+A small sparse shrub with small hard buds as seeds. Leaves are
+naturally brown.
+DescEnd
+CommentStart
+FD Caper Berry : Pickled and used as a basic food and a condiment
+HL Caper Berry : Used to cure impotence
+PO Caper Berry : poison that cause impotence and stomach pains
+AL Caper Berry : Used to make and elixir that cure impotence
+AL Caper Berry : Used to make a fertility potion ( Forces multiple births)
+CommentEnd
+
+Name	Catgut,Goat's Rue
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,RGH
+Potloss	1%/h
+Uses	HL,MG,AL,DY
+DescStart
+Small round green leaves on a multi stem stalk like a sweet pea plant.
+Up to 3' in ht. Small purple flowers. 
+DescEnd
+CommentStart
+HL Catgut Root : Used to make a tea for fatigue healing
+HL Catgut Root : Used to restore equilibrium for sirroche
+MG Catgut Root : Used in enchanting rope and bowstring
+AL Catgut Root : Used to cure the palsy ( epilepsy )
+DY Catgut Root : Makes a good orange dye
+CommentEnd
+
+Name	Catnip
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,WTL,LWD
+Potloss	1%/w
+Uses	FD,AL,SPC
+DescStart
+A square stemed 1' to 3' tall plant with blue to purple flowers and
+a minty scent. 
+DescEnd
+CommentStart
+FD Catnip Leaf : Tea !
+FD Catnip Leaf : Aromatic liqours
+AL Catnip Leaf : Menthol
+SPC Catnip Leaf : Used to fumigate homes and clean out insects
+CommentEnd
+
+Name	Chervil
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD
+Potloss	1%/h
+Uses	FD,HL,AL
+DescStart
+A small dark leaved green plant with a musky scent and green flowers
+DescEnd
+CommentStart
+FD Chervil Leaf : Used as a seasoning
+HL Chervil Leaf : Decoction is used to bathe wounds and speed the healing rate
+AL Chervil Leaf : Salve that reduces infection by 20% 
+CommentEnd
+
+Name	Cowslip,Marsh Mallow
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,LWD,HWD
+Potloss	5%/w
+Uses	FD,HL,MG,AL
+DescStart
+Small plant with a wide yellow flower. Exudes a thick white 
+cream when squeezed
+DescEnd
+CommentStart
+FD Cowslip Leaf : Used in making marshmallow candy
+FD Cowslip Leaf : Used as a potherb
+HL Cowslip Leaf : Used to make sterile quick stick bandages
+MG Cowslip Leaf : Used in Protecting from poison
+AL Cowslip Leaf : Used as a basis of a number of salves
+CommentEnd
+
+Name	Cyclamen
+Type	V(Small Plant)
+Avail	UC
+Habitat	HWD,LWD,WTL
+Potloss	2%/h
+Uses	HL,PO,MG,AL
+DescStart
+A white flowering herb with a yellow aromatic pollen
+DescEnd
+CommentStart
+HL Cyclamen Pollen : Used to induce a healing sleep
+PO Cyclamen Pollen : Cyclams (sleep)
+MG Cyclamen Pollen : Sleep spell
+AL Cyclamen Pollen : Sleep Potion
+AL Cyclamen Pollen : Love Potion
+CommentEnd
+
+Name	Daffodil
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,LWD,HWD
+Potloss	5%/w
+Uses	HL,AL
+DescStart
+A 1' tall yellow flower
+DescEnd
+CommentStart
+HL Daffodil Flower : Poultice is used to heal endurance 1 pt/day
+AL Daffodil Flower : Healing salve for endurance
+CommentEnd
+
+Name	Damiana
+Type	V(Small Plant)
+Avail	UC
+Habitat	LWD,HWD,RGH
+Potloss	5%/w
+Uses	HL,AL
+DescStart
+A 1' tall yellow flower
+DescEnd
+CommentStart
+HL Daffodil Flower : Poultice is used to heal endurance 1 pt/day
+AL Daffodil Flower : Healing salve for endurance
+CommentEnd
+
+Name	Euphorbia
+Type	V(Small Plant)
+Avail	R
+Habitat	HWD,LWD
+Potloss	NONE
+Uses	PO,MG,AL
+DescStart
+Short shrub. Juice milky and acrid. Simple toothed leaves. 
+Small cup like flowers. Fruit is a spherical 3 lobed capsule.
+DescEnd
+CommentStart
+PO Euphorbia Leaf : Exudes a milky liquid that is a skin irritant
+PO Euphorbia Leaf : Ingestive poison
+MG Euphorbia Leaf : A basic incense ingredient for divination ( prophecy )
+AL Euphorbia Flower : USed to create a snuff like compound that causes sleep
+CommentEnd
+
+Name	Fennel
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD
+Potloss	10%/mo
+Uses	FD,HL,MG,AL
+DescStart
+A dark feathery herb with tiny light green flowers. Very aromatic .
+DescEnd
+CommentStart
+FD Fennel Stem : Potherb
+FD Fennel Seed : Aromatic Flour
+FD Fennel Leaf : Seasoning
+MG Fennel Stem : Used in warding against spectres and wights
+HL Fennel Leaf : Tea that is used to increase lactation
+AL Fennel Root : Used to create a very potent aphrodisiacal perfume.
+CommentEnd
+
+
+Name	Garlic
+Type	V(Small Plant)
+Avail	C
+Habitat	FLD,RGH
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+Purple flowered and potent smelling member of the lily family
+DescEnd
+CommentStart
+FD Garlic Root : Used raw or as a seasoning
+HL Garlic Root : Used to prevent infection 
+PO Garlic Root : Garnama ( Poison against undead )
+MG Garlic Root : Wards against greater undead
+AL Garlic Root : Elixir of Undead repulsion
+CommentEnd
+
+Name	Gill over the Ground
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD
+Potloss	3%/w
+Uses	FD,HL,AL
+DescStart
+A small green ground cover. Has tiny blue flowers and a pungent odor.
+DescEnd
+CommentStart
+FD Gill over the ground Leaf : Tea
+HL Gill over the ground Leaf : Cures a hangover
+AL Gill over the ground Leaf : Quick sober elixir
+CommentEnd
+
+Name	Ginseng
+Type	V(Small Plant)
+Avail	UC
+Habitat	HWD
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+Woody , 1" tall plant with a thin rootstock and black berries
+DescEnd
+CommentStart
+FD Ginseng Root : Tea
+HL Ginseng Root : Decoctions are used to heal impotence 
+PO Ginseng Berry : Forms a feign death type poison
+MG Ginseng Root : Used in longetivity spells
+AL Ginseng Root : Used longetivity potions
+CommentEnd
+
+Name	Black Hellebore
+Type	V(Small Plant)
+Avail	R
+Habitat	HWD,LWD,WTL
+Potloss	2%/w
+Uses	PO,AL
+DescStart
+A tall 6'+ plant with long pleated leaves sheathing the stem
+with prominent veins and hairy greenish flower stalks. 
+DescEnd
+CommentStart
+PO Black Hellebore Root : Deadly poion Ingested
+AL Black Hellebore Root : Used to cure delusion based insanity
+CommentEnd
+
+Name	Hemlock
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Henbane
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Holly
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Jasmine
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Jimson Weed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Laurel
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lotus
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mandrake
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Marigold
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Marjoram
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Misteltoe
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Moonwort
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mugwort
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Myrrh
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Saffron
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sage
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Saint John's Wort
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sandlewood
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Satyr Orchid
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Snakeroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sunflower
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sweetflag
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+Sword shaped leaves coming from a crawling rootstock. 
+DescEnd
+CommentStart
+HL	Minor narcotic and sedative  
+CommentEnd
+
+Name	Valerian
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Vetch
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+# Here Start plants derived from 
+# "Narcotic Plants" by W. Emboden
+
+Name	White Baneberry
+Type	V(Small Plant)
+Avail	UC
+Habitat	FLD,LWD,WST
+Potloss	3%/2w
+Uses	PO,HL,MG,AL
+DescStart
+Up to 3' tall. Large leaves sharply toothed with small white flowers 
+and white berries.
+DescEnd
+CommentStart
+Acts as a hypnotic and demon chaser
+CommentEnd
+
+Name	Cat Powder
+Type	V(Small Plant)
+Avail	UC
+Habitat	WST,RGH
+Potloss	NONE
+Uses	HL,MG,AL
+DescStart
+A small scant shrub with oval leaves up to 7" long. 
+White, pendous flowers with greenish berry.
+DescEnd
+CommentStart
+Tranquilizer with mild hallicinogenic effects
+Actinida Polygama
+CommentEnd
+
+Name	Niando
+Type	V(Vine)
+Avail	R
+Habitat	JNG
+Potloss	2%/1mo
+Uses	PO,HL,MG,AL
+DescStart
+Alchornea Floribunda
+A leaning vine or small tree up to 30' in height. 
+Green flowers in hanging twinned bunches.
+Fruits are small hard capsules
+DescEnd
+CommentStart
+Yohimbine
+CommentEnd
+
+Name	Vilca,Cebil
+Type	V(Tree)
+Avail	C
+Habitat	JNG
+Potloss	3%/1w
+Uses	PO,HL,AL
+DescStart
+A tree up to 90 ' in heihgt. leaves 6-8" in 
+length. Large orange and yellow flowers. Pods 12 - 14"
+long. 
+DescEnd
+CommentStart
+Anadenanthera Colubrina
+N,N-dimethyltryptamine
+CommentEnd
+
+Name	Bear Berry
+Type	V(Small Plant)
+Avail	C
+Habitat	HWD,LWD,RGH
+Potloss	NONE
+Uses	HL,SPC,MG
+DescStart
+Ground hugging shrub up to 3' across. Leaves are evergreen and
+leathery. Small whitish fruits, waxy.
+DescEnd
+CommentStart
+Arbutin and Ericolin.
+Hypnotic 
+CommentEnd
+
+Name	Areca Nut,Betel Nut
+Type	V(Tree)
+Avail	C
+Habitat	JNG,SSH
+Potloss	5%/1mo
+Uses	PO,HL,MG,DY
+DescStart
+A slender <1' thick tree up to 75' . Leaves up to 1' across
+with scarlet flowers and red fruit.
+DescEnd
+CommentStart
+Areca Catechu
+Arecoline
+Stimulant
+CommentEnd
+
+Name	Prickly Poppy
+Type	V(Small Plant)
+Avail	UC
+Habitat	WST,RGH
+Potloss	NONE
+Uses	HL,MG,DY,AL
+DescStart
+Short, prickly stem with yellow sap. Flowers are a bright yellow, and
+fruit is a prickly capsule.
+DescEnd
+CommentStart
+Argemone Mexicana
+Possible hallucinogen
+CommentEnd
+
+Name	Silver Morning Glory
+Type	V(Small Plant)
+Avail	UC
+Habitat	JNG
+Potloss	3%/1y
+Uses	PO,MG,AL
+DescStart
+Small tree vine with leaves to a 1' in length.
+Covered with silvery hair. covered with pink and white flowers
+Fruit is a flower covered capsule.
+DescEnd
+CommentStart
+Argyreia Nervosa
+Halluc
+Erolines
+CommentEnd
+
+Name	Wormwood
+Type	V(Small Plant)
+Avail	C
+Habitat	WST,RGH
+Potloss	2%/10d
+Uses	FD,HL,MG,AL,SPC
+DescStart
+Many branched aromatic silvery plant with fine leaves covered with
+silvery hair. Flowers borne in a pyrimidal shape.
+Name	Pela Kano
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bay Bean
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Ganja
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Weedy Hemp
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hemp
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Zapote
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Khat
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Madagascar Periwinkle
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Black Cohosh
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mohoda
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kaffe
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Coal Nut
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Nene
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lamellae
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Shanshi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yellow Ladyslipper
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Island Broom
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Maikoa,Queen of the Night
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Toloache
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Unmata
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Huanto
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	King's Consound
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Chapico
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pituri
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kankan
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Palo Copal
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Fireweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Coral Tree
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Agara
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yellow Jessamine
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sinjachu
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Keule
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Maitake
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sinicuichi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Dahoon,Black Drink
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mate
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Borrachero
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Quiebra Plata
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bolek Hena
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Maraba
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Wild Lettuce
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Drunken Mint
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Latue
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Motherworth
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lions Ear,Dagga
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tupa
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Peyote
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Gi'isawa
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Culebra
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Jurema
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	So Ksi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Partridge Berry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kratom
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tshulu
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Corpse Plant,Dead Man's Pipe
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	S'Keng'Keng
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tabacco
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	White Water Lily
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sacred Blue Lily
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rape Moraka
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kwashi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Serpent's Tongue
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Coanenepelli
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cupana
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Syros Rue
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Locan
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pokeweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kava
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sarpaganda
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Piule
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Olok
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pipil
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Soma
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Khana
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Marula
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sleepy Grass
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Green Needle Grass
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yauhalti
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Iboga
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Caapi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cha
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	San Kedri
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bog Bilberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tesselated Vanda
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	White False Hellebore
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Parica
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Kumithi
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+# Here Start the plants from
+# "Treasury of Indian Herbs" by Virginia Scully
+
+
+Name	Alder
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Alfalfa
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Alumroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Angel Stem
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Antelope Brush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Arnica
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Dittany,Basil
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Amole,Yucca
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Anise
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Prairie Apple,Breadroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Squaw Apple
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Arrowgrass
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Arowhead,Wapato,Swamp Potato
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Globe Thistle,Jerusalem Artichoke
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Asparagus
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Asters
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Long Plumed Avens,Plains Smoke
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Balsam,Toza
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Balsamroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Barley
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Black Beans
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Beard Tongue
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Beargrass
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bears Breeches
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bedstraw
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Beechwheat,Buckwheat
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Beeplant
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Betony
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bilberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Birthroot,Trillium
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bistort,Snakeweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bitterroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bittersweet
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Blazing Star,Gay Feather
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mountain Bluebell
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Blueberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Borage,Miner's Candle,Gromwell
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bullberry,Chaparral Berry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bulrush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Bunchberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Burdock
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Buttercup
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cabbage
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Camas
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cascara
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sweet Cicely,Wild Carrot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Catnip
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cattail
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Chickweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Clematis
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hawkweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hollyhock
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Licorice
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Milkweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pussytoes,Catspaw
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rabbitbrush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Salsify
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Chia,Chan
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Chico,Saltbush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Chicory
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lantern Plant
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cinquefoil
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Clover
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Corn Smut
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cous
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cowslip
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cranesbill
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Creosote Bush,Resin Plant
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Cucumber,Marah
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Currants
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Daisies
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Dandelion
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Dock
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Dogbane,Hemp
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Elder
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Ephedra,Joint Fir,Mormon Tea
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Everlasting
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Fairybells
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Fennel
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Fireweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Flax
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Morning Call,Four O'clocks
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Fritillary
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Garlic
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Gentian
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Geranium
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Goldenrod
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Gooseberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hippophas
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Grape
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Gromwell
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Groundnut
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Gumplant
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Harebell,Bluebell
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Haw
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hawthorn
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Horsemint,Oregano
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hyacinth
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Hyssop
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Snowdrop,Valtier Potato
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mountain Iris
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Juniper
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lambs Quarters
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Laurel
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Leek
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Lupines
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mahogany
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Manzanita
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Marsh Marigold
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sun Melons
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mesquite
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Monkey Flower
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mugwort
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mullein
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Mustard
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Nettle
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Onion
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Red Orchid
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Parsley
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pennyroyal
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pigweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Plantains
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Plum
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pink Plumes
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Primrose
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Primrose
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Pumpkin
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Purslane
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rabbitguts
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Raspberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rice
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Roper's Relief
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rose
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Meadow Rue
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rushes
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rushpink
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Rye
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Saltbush,Chico
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sandgrass
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sandroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sassafras
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sedge
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sarvis Berry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Shooting Star
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Skullcap
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Skunkbush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Skunkcabbage
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sneezeweed
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Snowberry,Honey Plant
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Snowbush,Soapbloom
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Snowdrop
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	False Solomon's Seal,Spikenard
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sorrel
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Spirea
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Squash
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Squawbush
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Star Flower,White Evening
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Strawberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Red Sumac
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	White Sumac
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Sunflower
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Syringa
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Thimbleberry
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Thistle
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tobacco
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Tobaccoroot
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Twisted Stalk
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Violet
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Wake Robin
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Wallflower
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Watercress
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Waterleaf
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Wheat
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Willowherb
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	White Wyethis
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yampa
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yarrow
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yerba Mancha,Val Tier Beads
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd
+
+Name	Yucca
+Type	V(Small Plant)
+Avail	C
+Habitat	ALL
+Potloss	NONE
+Uses	FD,HL,PO,MG,AL
+DescStart
+DescEnd
+CommentStart
+CommentEnd

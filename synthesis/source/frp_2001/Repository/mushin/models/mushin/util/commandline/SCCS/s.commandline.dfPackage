@@ -1,0 +1,127 @@
+H10854
+s 00097/00000/00000
+d D 1.1 01/07/13 18:14:22 jmochel 2 1
+cC
+cF1
+cK39056
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:22 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/util/commandline/commandline.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK48950
+cPmodels/mushin/util/commandline/commandline.dfPackage
+cR47a9d27e
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package id45aycp4bi4jzcp4cd9gg;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#mushin.util.commandline.PosixStyleLexer:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.Validation:oiref><oihard>
+@__modelType reference 
+*/
+class reference58 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.ParsingException:oiref><oihard>
+@__modelType reference 
+*/
+class reference59 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.IOFilterParser:oiref><oihard>
+@__modelType reference 
+*/
+class reference60 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.LexerCreationException:oiref><oihard>
+@__modelType reference 
+*/
+class reference62 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.SlashEqualsLexer:oiref><oihard>
+@__modelType reference 
+*/
+class reference63 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.Lexer:oiref><oihard>
+@__modelType reference 
+*/
+class reference64 {
+}/**
+@__ref <oiref:java#Class#mushin.util.commandline.Parser:oiref><oihard>
+@__modelType reference 
+*/
+class reference65 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3y2ejcp4bi4jzcp4c03am.diagram:oiref><oihard>
+@automatic 
+*/
+class link {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id2wzzjcp4bi4jzcp4c07vb.diagram:oiref><oihard>
+@automatic 
+*/
+class link138 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1gabscp4bi4jzcp4c0609.diagram:oiref><oihard>
+@automatic 
+*/
+class link139 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Class#mushin.testcases.util.commandline.ParserUnitTest:oiref>=333,270,95,77,1:oigroup>
+<oigroup:<oiref:java#Extends#mushin.util.commandline.IOFilterParser#mushin.util.commandline.Parser:oiref>=76,168,76,88:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.PosixStyleLexer:oiref>=204,168,102,59,1:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.Validation:oiref>=118,168,66,77,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mushin.util.commandline.Parser#_Lexer:oiref>=151,49,269,49:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.ParsingException:oiref>=204,270,109,77,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mushin.util.commandline.Parser#_Validation:oiref>=134,88,134,168:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.Parser:oiref>=55,10,96,78,1:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.Lexer:oiref>=269,10,98,78,1:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.LexerCreationException:oiref>=10,390,146,77,1:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.IOFilterParser:oiref>=10,168,88,59,1:oigroup>
+<oigroup:<oiref:java#Extends#mushin.util.commandline.PosixStyleLexer#mushin.util.commandline.Lexer:oiref>=255,168,255,128,318,128,318,88:oigroup>
+<oigroup:<oiref:java#Class#mushin.util.commandline.SlashEqualsLexer:oiref>=326,168,112,59,1:oigroup>
+<oigroup:<oiref:java#Extends#mushin.util.commandline.SlashEqualsLexer#mushin.util.commandline.Lexer:oiref>=382,168,382,128,318,128,318,88:oigroup>
+<oigroup:<oiref:java#Class#mushin.testcases.util.commandline.LexerUnitTest:oiref>=10,290,89,59,1:oigroup> 
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

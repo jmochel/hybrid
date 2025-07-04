@@ -1,0 +1,52 @@
+Wahoo. A great starting point !
+
+Lets talk about speed of communication.
+
+My goal is to have a mix of information rich core worlds and a frontier that can be used to shelter 
+the shady types (those that don't enter the MI).
+
+The confederation communication network in the confed is a mixture of several different 
+"pipes".
+
+Between the systems that can afford them there are high bandwidth/high speed transition point repeaters 
+that use (starttrek science warning) tachyon beams for communication. The cost is high to allow for the 
+positioning, timing and targeting software/hardware. Communication to these relays in normal is done via 
+laser. Therefore it is typically (0.5 - 2.0) days for a communication to go between systesm. (0.25 - 1 day day on each side)
+Physical courier in most cases will take 2-3 times that. Of course, while the bandwidth of the link itself is high, the 
+incoming lasers and other forms may be more limited.
+
+Systems that need emergency communications and are unwilling or unable to afford the 
+cost of a full service relay will typically have a torp relay. A torp relay takes 
+in communications via laser and transmits it to a simple (but expensive) unmanned torp 
+which is launched through the transition point and which then transmits its message to the 
+relay on the other side. The speed is almost the same as the full service but the cost of 
+recovering and recoditioning the toprs is high and the bandwidth is lower than the full service.
+
+Couriers exist at the frontier. Cost or Choice ? Both in many cases. In many Calvinist systems 
+the full-service relay is not available for general use, only government use. "Bulk" mail comes via 
+couriers. 
+
+Commercial news and records services have started to pop into existence. Bulk updates are carried on couriers or merchants which 
+are actually a higher bandwidth than most methods because memory is so dense and cheap and light compared to the transmission rate
+achievable with laser. Warner Media is one of the biggest providers of that service. And people pay a subscription fee fpr the data and 
+others pay to be certified for input into the system. Each bit of info is timestamped and priority stamped. A inputter of data
+can ask that his entry superseed all previous ones for a fee.
+
+So can someone run to the frontier and outrun their rep ? Absolutely. If they are wanted badly enough
+there are private bounty hunters. And if the confed wants them there are the Marshalls.
+
+But the frontier is measured in terms of jumps. And not even just the raw number but the number of 
+jumps away from a full service relay. The "Wiccan" and "Calvinist" worlds are the most commonly assumed 
+to be part of the frontier but both sets of systems have (mostly) full service relays.
+
+In the case of records of a terrorist attack on another planet you will probably get a list of casualties and 
+their names as well as the Media Service's ids for those people but full biography downloads will come 
+by slowboat if they are paid for.
+
+Like all empires that have frontiers language is definitely affected by this. Not only do you have the 
+colonies that have been rediscovered and the language drift there, you also have the colnies that only have a 
+slowboat or other transmission method. Theer will always be drift. As the core of the confed spreads outward 
+(i.e. gets full service relays in place) along the transition lines there will be Australia like merging back 
+into the main stream but the cuyltural diferences will remain. The drift will even be even more pronounced 
+in those regions interconnected among themselves by high speed links but separated from the main core by a slowboat...
+

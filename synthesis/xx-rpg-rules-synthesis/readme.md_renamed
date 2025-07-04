@@ -1,0 +1,20 @@
+# RPG Rules Synthesis Project
+
+This project organizes the multi-step synthesis of a fantasy RPG rule system using Claude Opus.
+
+## Folder Structure
+
+- `00_sources/`: Original documents (PDF, Word, Markdown, etc.)
+- `01_extracted_fragments/`: Claude Step 1 — extract mechanics from each source
+- `02_clustered_by_topic/`: Claude Step 2 — group all variations of each topic
+- `03_synthesized_sections/`: Claude Step 3 — merged, annotated rule sections
+- `04_final_document/`: Claude Step 4 — final, structured markdown document
+- `05_logs_and_notes/`: Prompts, logs, and project notes
+
+## Workflow Steps
+
+1. Upload each document to Claude and run Step 1 to extract relevant mechanics
+2. Group and compare topic-specific content across docs (Step 2)
+3. Synthesize final markdown section per topic (Step 3)
+4. Assemble into one final document (Step 4)
+

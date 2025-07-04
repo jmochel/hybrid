@@ -1,0 +1,15 @@
+% FILE Generic EFs for Actions
+% REF 
+\begin{table}[h]
+\centering
+\caption{Generic EFs for Actions}
+	\begin{tabular}{lr}	\hline
+	Basic Identification of Actions Needed		  & 10	\\ \hline
+	Judgement of Quality                          & 9	\\ \hline
+	Basic Perception Roll w/in area of SKill      & 8	\\ \hline
+	Basic Action ( makes up 60\% or more of the   & 7	\\  
+	actions made by someone using this skill)     &      \\
+	Anyone of basic compentence would know this   &      \\
+	action well.                                  &      \\ \hline 
+	\end{tabular}
+\end{table}

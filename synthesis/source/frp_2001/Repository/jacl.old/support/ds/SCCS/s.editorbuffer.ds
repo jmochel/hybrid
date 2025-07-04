@@ -1,0 +1,57 @@
+h04126
+s 00029/00000/00000
+d D 1.1 99/11/17 12:57:20 jmochel 2 1
+cC
+cK31492
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:57:16 jmochel 1 0
+c BitKeeper file e:/jacl/support/ds/editorbuffer.ds
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45376
+cPsupport/ds/editorbuffer.ds
+cR2f93d7555cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+|| A simple set of classes for managing text as a transaction database
+
+RuneRange = 
+{ 
+	Begin:long, 
+        End:long
+};
+
+RuneStore =
+{
+	Name:File,
+	Stream:Stream
+};
+
+FixedSizeBlockRuneStore = RuneStore +
+{
+	CacheIsDirty:boolean,
+	CacheRange:RuneRange,
+	Cache:StringBuffer
+};
+
+Buffer =
+{
+	Transcript:RuneStore,
+	Contents:RuneStore,
+	Dot:RuneRange,
+	IsModified:boolean
+};
+
+E 2
+I 1
+E 1

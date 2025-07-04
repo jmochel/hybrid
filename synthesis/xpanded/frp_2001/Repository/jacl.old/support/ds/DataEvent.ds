@@ -1,0 +1,55 @@
+||    .Contains Declaration of Chronon
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+
+|| dataEvent == (
+||                 
+||         eventID:EVENTID,
+||         numberOfArgs:UINT,
+||         eventType:LONG,
+||         attributeID:LONG,
+||         collectionPriority:LONG,
+||         senderDomainID:SENDERDOMAINID,
+||         senderNicknameID:SENDERNICKNAMEID,
+||         collectionTimeInterval:timeIntervalEnum,
+||         value:DSValue,
+||         packedEventDescription:VARIANT
+|| );
+
+contextEvent == (
+                
+        value:DSValue,
+        packedEventDescription:VARIANT
+);
+
+
+systemEvent == (
+
+        packedEventDescription:VARIANT
+);
+
+alarmEvent == (
+               
+        packedEventDescription:VARIANT
+);
+
+assistEvent == (
+               
+        instanceID:ASSISTINSTANCEID,
+        packedEventDescription:VARIANT
+);
+
+

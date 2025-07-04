@@ -1,0 +1,23 @@
+.Name Augury
+.NRG Stream
+.ACT Summon
+.ACT Transport
+.ACT Divine
+
+.TARGET Self
+.TCOMP Perception
+
+.CCOMP Somatic
+.CCOMP Verbal
+.CCOMP Material
+.CCOMP Common
+.CCOMP Reusable
+
+.EC 21
+.CEF 7
+.CTSCALE 1Hour
+.RNG 20
+.RNGSCALE 1km
+.QE 25
+.LINKQE 1
+

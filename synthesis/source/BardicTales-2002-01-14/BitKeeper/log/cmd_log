@@ -1,0 +1,132 @@
+!jmochel 1008168515 20010604201538: sfio -i = 0
+!jmochel 1008168515 20010604201538: sfiles -pAC = 0
+!jmochel 1008168515 20010604201538: sfiles -D = 0
+!jmochel 1008168515 20010604201538: parent l:/Repository/BardicTales = 0
+!jmochel 1008170429 20010604201538: edit - = 0
+!jmochel 1008170429 20010604201538: sfind = 0
+!jmochel 1008170482 20010604201538: _probekey = 0
+!jmochel 1008170482 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1008170482 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1008170482 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1008170482 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1008170482 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1008170482 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1008170482 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1008170482 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1009676560 20010604201538: edit = 1
+!jmochel 1009676577 20010604201538: unlock Osumi.xls = 0
+!jmochel 1009676948 20010604201538: edit = 1
+!jmochel 1010548930 20010604201538: gethelp -s bk f:/bitkee~1 = 0
+!jmochel 1010548930 20010604201538: help -s bk = 0
+!jmochel 1010548956 20010604201538: add Dal-Kon.xml = 0
+!jmochel 1010548965 20010604201538: add DalKanClans.xml = 0
+!jmochel 1010549006 20010604201538: add Edit10.txt Edit2 Edit2.txt Edit3 Edit4 Edit4.txt Edit5 Edit5.txt Edit6 Edit6.txt Edit7 Edit7.txt Edit8 Edit8.txt Edit9.txt = 0
+!jmochel 1010549019 20010604201538: add Culture.Template.sgm Culture.Template.sgm.$$$ Culture.Template.xml DalKan.css DalKan.sgm DalKonMusic.txt Dalkan.txt Rhizak.xml SCCS aspect18.htm book1.htm c100.htm c118.htm c121.htm c133.htm c151.htm c160.htm c163.htm c172.htm c196.htm c217.htm c28.htm c40.htm c52.htm c55.htm c58.htm c7.htm c82.htm culture.MAC names.txt x106.htm x109.htm x112.htm x115.htm x127.htm x130.htm x139.htm x142.htm x145.htm x148.htm x157.htm x16.htm x169.htm x178.htm x181.htm x184.htm x187.htm x19.htm x190.htm x193.htm x202.htm x205.htm x208.htm x211.htm x214.htm x22.htm x223.htm x226.htm x229.htm x232.htm x235.htm x25.htm x34.htm x37.htm x46.htm x49.htm x64.htm x67.htm x70.htm x73.htm x76.htm x79.htm x94.htm x97.htm = 5
+!jmochel 1010549031 20010604201538: _keysort = 0
+!jmochel 1010549033 20010604201538: idcache -q = 0
+!jmochel 1010549034 20010604201538: cset -M1.0.. = 0
+!jmochel 1010549034 20010604201538: sfind -s,,p -C = 0
+!jmochel 1010549034 20010604201538: _sort -u = 0
+!jmochel 1010549034 20010604201538: sccslog -CA - = 0
+!jmochel 1010549040 20010604201538: cset -YC:/WINNT/Profiles/jmochel/LOCALS~1/Temp/bk_commit3 = -1
+!jmochel 1010549063 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1010549063 20010604201538: status = 0
+!jmochel 1010549070 20010604201538: sfind -s,,p -C = 0
+!jmochel 1010549090 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1010549090 20010604201538: status = 0
+!jmochel 1010549139 20010604201538: edit - = 1
+!jmochel 1010549139 20010604201538: sfind = 1
+!jmochel 1010665536 20010604201538: _probekey = 0
+!jmochel 1010665536 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1010665536 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1010665536 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1010665536 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1010665536 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1010665536 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1010665536 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1010665536 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1010665536 20010604201538: cd l:/Repository/BardicTales = 1
+!jmochel 1010665554 20010604201538: _probekey = 0
+!jmochel 1010665554 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1010665554 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1010665554 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1010665554 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1010665554 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1010665554 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1010665554 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1010665554 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011057053 20010604201538: parent = 0
+!jmochel 1011057080 20010604201538: _probekey = 0
+!jmochel 1011057080 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011057080 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1011057080 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1011057080 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1011057080 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1011057080 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1011057080 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1011057080 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011057154 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1011057154 20010604201538: status = 0
+!jmochel 1011057354 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1011057354 20010604201538: status = 0
+!jmochel 1011057364 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1011057364 20010604201538: status = 0
+!jmochel 1011057377 20010604201538: status - = 1
+!jmochel 1011057377 20010604201538: sfind -ve = 1
+!jmochel 1011057386 20010604201538: helptopics = 0
+!jmochel 1011057386 20010604201538: gethelp All f:/bitkee~1 = 0
+!jmochel 1011057386 20010604201538: help -p All = 0
+!jmochel 1011057396 20010604201538: gethelp status f:/bitkee~1 = 0
+!jmochel 1011057396 20010604201538: help -p status = 0
+!jmochel 1011057416 20010604201538: gethelp -s bk f:/bitkee~1 = 0
+!jmochel 1011057416 20010604201538: help -s bk = 0
+!jmochel 1011057421 20010604201538: sfind -S -sx,c,p,n = 0
+!jmochel 1011057421 20010604201538: status = 0
+!jmochel 1011057430 20010604201538: sfind -sx = 0
+!jmochel 1011057432 20010604201538: sfind -g -s,c = 0
+!jmochel 1011057432 20010604201538: sfind -g -s,,p -C = 0
+!jmochel 1011057432 20010604201538: status -v = 0
+!jmochel 1011057453 20010604201538: add Dal-Kon-Riff.txt Dalkan.txt Edit10.txt Edit2.txt Takeda.Sakura.txt Takeda.txt Vocab2.txt Vocabulary.txt directions.txt invnr10.txt jpnft10.txt names.txt noto10.txt sofre10.txt utrkj10.txt = 4
+!jmochel 1011057462 20010604201538: sfind -sx = 0
+!jmochel 1011057464 20010604201538: sfind -g -s,c = 0
+!jmochel 1011057464 20010604201538: sfind -g -s,,p -C = 0
+!jmochel 1011057464 20010604201538: status -v = 0
+!jmochel 1011058079 20010604201538: helptool = 0
+!jmochel 1011058853 20010604201538: sfind -sx = 0
+!jmochel 1011058855 20010604201538: sfind -g -s,c = 0
+!jmochel 1011058855 20010604201538: sfind -g -s,,p -C = 0
+!jmochel 1011058855 20010604201538: status -v = 0
+!jmochel 1011058881 20010604201538: add Edit3.txt genji.sgml HISTORY.HTM Story.cfm.html = 0
+!jmochel 1011058886 20010604201538: sfind -sx = 0
+!jmochel 1011058887 20010604201538: sfind -g -s,c = 0
+!jmochel 1011058888 20010604201538: sfind -g -s,,p -C = 0
+!jmochel 1011058888 20010604201538: status -v = 0
+!jmochel 1011058902 20010604201538: sfind -s,,p -C = 0
+!jmochel 1011058902 20010604201538: _sort -u = 0
+!jmochel 1011058902 20010604201538: sccslog -CA - = 0
+!jmochel 1011058907 20010604201538: cset -YC:/WINNT/Profiles/jmochel/LOCALS~1/Temp/bk_commit3 = 0
+!jmochel 1011058908 20010604201538: _probekey = 0
+!jmochel 1011058912 20010604201538: _probekey = 0
+!jmochel 1011058912 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011058912 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1011058912 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1011058912 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1011058912 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1011058912 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1011058912 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1011058912 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011058912 20010604201538: cd l:/Repository/BardicTales = 1
+!jmochel 1011058929 20010604201538: _socket2pipe -h -p 4096 www.openlogging.org 80 = ?
+!jmochel 1011058929 20010604201538: log -q http://www.openlogging.org:80///LOG_ROOT/// = 1
+!jmochel 1011058932 20010604201538: _probekey = 0
+!jmochel 1011058932 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011058932 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1011058932 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1011058932 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1011058932 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1011058932 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1011058932 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1011058932 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011058938 20010604201538: _keysort = 0
+!jmochel 1011058990 20010604201538: _adler32 = 0
+!jmochel 1011058990 20010604201538: makepatch -s - = 0

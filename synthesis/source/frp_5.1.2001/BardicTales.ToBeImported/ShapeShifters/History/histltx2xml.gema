@@ -1,0 +1,37 @@
+!  Contains script 
+!
+!  Author Jim Jackl-Mochel
+!  Date <???>
+!
+!  Copyright - This code is in the public domain
+!
+!  Revision Information 
+!  ==================== 
+!  $Author: jmochel $
+!  $Revision: 1.1.1.1 $
+!  $Date: 1998/06/08 16:25:51 $
+!
+
+! Set the wrapping and margins of the output
+
+\B=@set-wrap{132;\t\t}
+
+! Transform the actual Day command
+
+\\Day{*}{*}=\n\t</event>\n\t<event viewpoint=$2>\n\t\t<title></title>\n\t\t<date>$1</date>\n\n
+
+! transform the paragraphs thereafter
+
+\N\N<para>\N\n=\n\t\t<p>$0\n\t\t</p>
+para:\\index{*}=
+para:\L\W\n=
+para:\L\N<T>\n=@wrap{$0}
+para:=@end
+
+\\index{*}=
+\\ndx{*}=$0
+\L\W\n=
+
+!
+!  EOF
+!

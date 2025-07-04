@@ -1,0 +1,34 @@
+h56956
+s 00006/00000/00000
+d D 1.1 99/11/17 12:54:09 jmochel 2 1
+cC
+cK12196
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:54:06 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/metamodel/StandardRangesConfigParserTokenTypes.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45356
+cPjava/src/metamodel/StandardRangesConfigParserTokenTypes.txt
+cR2f93d70a5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+StandardRangesConfigParser    // tokenVocabulary name
+IDENT("an identifier")=4
+DOT=5
+INPUT("constructor input")=6
+SLASH_COMMENT("a comment")=7
+WS=8
+E 2
+I 1
+E 1

@@ -1,0 +1,774 @@
+% FILE Misc Skills Datafile
+
+.name	Accounting
+.type (TS,U,CT)
+.sb		FCS
+.rb		STD
+.cost	
+.BeginDetail
+The technical study of the tracking of financial transactions
+.EndDetail
+.BeginEF
+7 Balance a set of properly kept books
+.EndEF
+
+.name	Bribery
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+7 Determine a persons price
+.EndEF
+
+.name	Business Administration
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+5 Determine the most profitable market to pursue
+.EndEF
+
+
+.name	Cartography
+.type (CFT,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Clerical Studies
+.type (,,)
+.sb		FCS	
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+.name	Confiscation
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Cryptograhy           
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+.name	Dance:(Type)
+.type (,,)
+.sb		PAG
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name	Debate
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+.name	Diplomacy
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Psionic)
+.type (CFT,U,ST)
+.sb		PSI
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(General)
+.type (,,)
+.sb		MCA+FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Verbal)
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Visual)
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Dry Art
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Elocution
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Fencing
+.type (,,)
+.sb		PCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+.name	Forgery
+.type (CFT,U,NT)
+.sb		FCS?
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Gambling
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	HTH Combat
+.type (,,)
+.sb		PCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Holography
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+.name	Hypnotist
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Impersonation
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Infiltration
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Instrumental Music
+.type (,,)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Interrogation
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Investigation
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Journalism
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Language:(Specify)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Business)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Patent)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Criminal)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Logic
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Mime
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Movement:(Environment)
+.type (,,)
+.sb		PMV
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Office Technical Systems
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Philosophical Anthropology
+.type (,,)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Philosophy
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Pilot/craft
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Prevarication   
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name Presence:(Mental)
+.type (,,)
+.sb		MAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name Presence:(Physical)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name Presence:(General)
+.type (,,)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Reconnasciance
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Sculpture
+.type (CFT,U,NT)
+.sb		MCA+PDX
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Security Devices
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Security Systems
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Singing
+.type (CFT,U,NT)
+.sb		MCA+FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Songwriting
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Aural)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(General)
+.type (,,)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Olfactory)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Psionic) 
+.type (,,)
+.sb		MAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Tactile)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Visual)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Survival:(Environment)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Tailing
+.type (CFT,U,NT)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Teaching
+.type (CFT,U,NT)
+.sb		MST
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+
+
+.name	Theatre
+.type (,,)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Theft
+.type (CFT,U,NT)
+.sb		DEX
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Theology
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Tracking
+.type (CFT,U,NT)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Trading
+.type (CFT,U,NT)
+.sb		MAG
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Vehicle:(Specify Vehicle)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Weapon:(Specificy Weapon)
+.type (,,)
+.sb		ACC
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Writing
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+

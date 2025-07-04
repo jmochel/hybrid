@@ -1,0 +1,35 @@
+h63971
+s 00007/00000/00000
+d D 1.1 99/11/17 12:45:16 jmochel 2 1
+cC
+cK26173
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:45:12 jmochel 1 0
+c BitKeeper file e:/jacl/C++/doc/AssocContainer.Note
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45303
+cPC++/doc/AssocContainer.Note
+cR2f93d79f5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+I have a design question for the STL Cognesceti (Those who have Cogs).
+
+I am working on an information retrieval system that I would like to
+have access several different types of associative containers on disk.
+One is a B*-Tree and the other is a multicharacter trie.
+
+I would like to use 
+E 2
+I 1
+E 1

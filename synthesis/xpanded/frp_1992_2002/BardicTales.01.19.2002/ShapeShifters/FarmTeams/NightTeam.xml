@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v3.5 NT beta 2 build Dec  1 2000 (http://www.xmlspy.com) by Jim Jackl-Mochel (Foliage Software Systems) -->
+<!DOCTYPE characters SYSTEM "../../Support/BTNPC.DTD">
+<characters>
+	<names>
+		<nomen category="group">Night Group
+    </nomen>
+	</names>
+	<character status="fateless">
+		<names>
+			<nomen>Jesu Samander
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group">Dorian
+        </nomen>
+		</cultures>
+		<species>
+			<nomen category="group">Human
+        </nomen>
+		</species>
+		<stats build="10" discernment="16" aura="13" dexterity="16" strength="14" agility="16" constitution="14" drive="14" intelligence="14"/>
+		<desc>
+			<physical>
+				<frame build="lithe" tone="well" bone="small">Whipcord, rawhide and whalebone.
+            </frame>
+				<hair color="black" length="upperback" style="Pony Tail">
+					<ornamentation>A single Hard Iron and Silver clasp to hold the hair back.
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="Light Brown" texture="Weather Beaten"/>
+				<facialhairs>
+					<facialhair type="mustache">A single Pancho Villa style mustache.
+                </facialhair>
+				</facialhairs>
+				<ears>
+					<ornamentation>A single clear diamond earring.
+                </ornamentation>
+				</ears>
+				<nose conformation="straight"/>
+				<teeth/>
+				<idmarks>
+					<mark>Puckered incision on the right shoulder.
+                </mark>
+					<mark type="tattoo">A Dragon wrapped around a spear on his back.
+                </mark>
+				</idmarks>
+				<voice clarity="clear" volume="low">
+					<habits>Clears his throat before interrupting a conversation.
+                </habits>Very low spoken.
+            </voice>
+				<clothing age="new">Light brown trousers and brown leather vest. Hard calf-high boots and
+                a black sash. Typically wears chain mail.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Introspective.
+            </personalkeynote>
+				<socialkeynote>Quiet and Commanding
+            </socialkeynote>
+				<energy>Plentiful.
+            </energy>
+				<bearing>Upright and intense.
+            </bearing>
+				<mannerisms>Tends to use hand gestures in place of single words. "Yes" and "No" and "I don't know" are all
+            routinely signed rather then vocalized. 
+            </mannerisms>
+				<humor>Very dry and polite. 
+            </humor>
+				<senseofself/>
+				<sex appeal="highappeal">Inexplicably, though he does not seek it, female company tends to find him out.
+            </sex>
+				<logicparadigm>Whatever works.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill rank="6" factor="CTF" name="Leadership"/>
+			<skill rank="6" factor="CTF" name="Command Voice"/>
+			<skill rank="6" factor="CTF" name="Tactics"/>
+			<skill rank="3" factor="CTF" name="Strategy"/>
+			<skill factor="AGF" name="Stealth"/>
+		</skills>
+		<possessions>
+			<possession type="magical" name="armour">High quality magical chain shirt and half skirt that heals and is
+        1/4 the normal encumberance for chain.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>A Dissenta captain guarding a Preceptor during the Battle for the Wizard King's citadel
+    he was injured during Aurioch's preceptor cleanup after the battle. His preceptor blew
+    up and almost took Jesu with him. When he regained conciousness he was aware of both a pain
+    in his leg and Aurioch standing above him. What passed between he and Aurioch at that point
+    is only known to them and one of Aurioch's paladins but the end result was that Aurioch
+    appears to have withheld judgement.</para>
+			<para>Since then Jesu has traveled from the site of the battle to Marden where he spent his time
+    waiting, drinking, and seeking out scholars who have the time to talk of choice and judgement
+    and ethics.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>As a result of wild magic injuries taken during he is crippled in one leg (a misshapen knee joint)
+    with only 3/4 of his normal movement rate and a increased cost in endurance. He has a strange 
+    property of appearing to match the background reality he is in. In effect, he is
+    a reality chameleon with no concious control (as yet).
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen>Mayat Sorketh
+        </nomen>
+			<nomen>Rasan
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group">Na-Kor
+        </nomen>
+		</cultures>
+		<species>
+			<nomen category="group">Human
+        </nomen>
+		</species>
+		<stats build="10" discernment="16" aura="15" dexterity="14" agility="14" drive="15" intelligence="15"/>
+		<desc>
+			<physical>
+				<frame build="lithe" tone="well" bone="small">Lean and hungry
+            </frame>
+				<hair color="black" texture="fine" length="lowerback" style="Straight">
+					<ornamentation>A single small blue black crystal set in a rope of gold as a
+                braided in a tail on the side.
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="Brown" texture="smooth"/>
+				<facialhairs>
+					<facialhair>A thin goatee
+                </facialhair>
+				</facialhairs>
+				<ears>
+					<ornamentation>One Reddish orange power crystal (cabachon cut)
+                </ornamentation>
+				</ears>
+				<nose conformation="straight"/>
+				<teeth/>
+				<idmarks>
+					<mark>Barely visible parallel lines on the right shoulder.
+                </mark>
+					<mark type="tattoo">A single series of tolnidren style runes across the back
+                </mark>
+				</idmarks>
+				<voice clarity="clear" volume="low">Very quick and staccato speech patterns
+            </voice>
+				<clothing worth="expensive" age="new">Light earth brown trousers and beaded silk and calfskin vest.
+                Soft calf-high boots and a red sash.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Internal Tension.
+            </personalkeynote>
+				<socialkeynote>His very presence demands a response.
+            </socialkeynote>
+				<energy>Plentiful.
+            </energy>
+				<bearing>Intense.
+            </bearing>
+				<mannerisms>Constantly watching. Twitches when doors are opened
+            out of his sight.
+            </mannerisms>
+				<humor>Very dark and angst ridden.
+            </humor>
+				<senseofself/>
+				<sex appeal="highappeal" drive="lowdrive">Sex drive and sense of affection are drastically screwed up.
+            </sex>
+				<logicparadigm>Intuitive.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill factor="AGF" name="Stealth"/>
+			<skill factor="KIF" name="Reduce Aura"/>
+			<skill factor="SCF" name="Stealth:Magical"/>
+			<skill rank="5" factor="SCF" name="S:Power"/>
+			<skill factor="KIF" name="Control Power"/>
+			<skill rank="6" factor="SCF" name="W:Cystalomancy"/>
+		</skills>
+		<possessions>
+			<possession type="speciallycrafted" name="sword">A set of stolen Na-Kor blades that he is just starting to use.
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>Since an early age he has been owned by a Na-Kor mage.
+    About a year ago he his master was left brain burnt by an incident with
+    a power ritual. The boy stole many of his owner's crystals and belongings
+    and ran. 
+    </para>
+			<para>Fearing repraisals from the Na-kor (rightly) he has traveled from
+    place to place as a fugitive. He is just beginning to fill in his
+    knowledge of crystalomancy and is learning to use his stolen blades.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>He has the entire Na-Kor nation as an enemy.
+    </para>
+			<para>He has a gift for detecting power crystals (Probably part of the reason he was taken 
+    in the first place.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen>Katime
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group">Dorean
+        </nomen>
+		</cultures>
+		<species>
+			<nomen category="group">Human
+        </nomen>
+		</species>
+		<stats build="10" discernment="16" aura="16" dexterity="16" agility="16" drive="14" intelligence="13"/>
+		<desc>
+			<physical>
+				<frame build="lithe" tone="well" bone="small">Lean and hungry
+            </frame>
+				<hair color="black" texture="fine" style="curly">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes color="black"/>
+				<skin color="Brown" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>Gold earring.
+                </ornamentation>
+				</ears>
+				<nose conformation="straight"/>
+				<teeth/>
+				<idmarks>
+					<mark>A burn scar of a chain in the palm of the right hand.
+                </mark>
+				</idmarks>
+				<voice clarity="clear" volume="low">Sweet as an angel.
+            </voice>
+				<clothing worth="expensive" age="new">Loose raw silk vest and trousers. Dark blues and reds.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Laid back.
+            </personalkeynote>
+				<socialkeynote>Charm and ease.
+            </socialkeynote>
+				<energy>Plentiful.
+            </energy>
+				<bearing>Slinky.
+            </bearing>
+				<mannerisms>Constantly testing floors and other surfaces in
+            surrepititios ways to determine how well he can puch off them.
+            </mannerisms>
+				<humor>Mocks everything in a charming way.
+            </humor>
+				<senseofself/>
+				<sex appeal="highappeal" drive="highdrive">Faithless but entertaining.
+            </sex>
+				<logicparadigm>Intuitive.
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill rank="6" factor="SCF" name="W:Cystalomancy"/>
+			<skill factor="AGF" name="Stealth"/>
+		</skills>
+		<possessions>
+			<possession type="magical" name="chain">Spellbreaker
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para/>
+			<para/>
+		</history>
+		<status/>
+		<commentary>
+			<para/>
+		</commentary>
+		<summary/>
+	</character>
+	<character status="fateless">
+		<names>
+			<nomen>Nicholai Kentovitch
+        </nomen>
+		</names>
+		<cultures>
+			<nomen category="group">Dau-shao
+        </nomen>
+		</cultures>
+		<species>
+			<nomen category="group">Human
+        </nomen>
+		</species>
+		<stats build="14" aura="10" dexterity="13" strength="16" agility="13" constitution="15" drive="18"/>
+		<desc>
+			<physical>
+				<frame tone="well">Lean and Sculpted.
+            </frame>
+				<hair color="blond" texture="fine">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes/>
+				<skin color="light" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>Gold Stud
+                </ornamentation>
+				</ears>
+				<nose conformation="straight"/>
+				<teeth>Missing his upper right canine.
+            </teeth>
+				<idmarks>
+					<mark>Numerous burn scars on both forearms.
+                </mark>
+				</idmarks>
+				<voice clarity="clear" type="bass" volume="low"/>
+				<clothing age="new">Durable linen shirt and trousers (reinforced with leather ).
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Discipline in all things.
+            </personalkeynote>
+				<socialkeynote>Correctness
+            </socialkeynote>
+				<energy>Tightly controlled.
+            </energy>
+				<bearing>Military.
+            </bearing>
+				<mannerisms>Walks through muscle isolation exercises periodically. 
+            </mannerisms>
+				<humor>Dry gallows humor. Not often visible.
+            </humor>
+				<senseofself/>
+				<sex appeal="highappeal" drive="highdrive"/>
+				<logicparadigm>Aristotlean
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill factor="KIF" name="Meditation"/>
+			<skill factor="KIF" name="Reduce Exhaustion"/>
+			<skill factor="KIF" name="Heal Self"/>
+			<skill factor="KIF" name="Reduce Pain"/>
+			<skill rank="6" factor="CTF" name="Smithing"/>
+			<skill factor="CTF" name="CTF Meditation"/>
+			<skill factor="INF" name="Lore: Simple Machines"/>
+			<skill name="Hammer"/>
+			<skill rank="3" factor="MCF" name="Crossbow"/>
+			<skill rank="3" factor="MCF" name="MCF Setup"/>
+		</skills>
+		<possessions>
+			<possession>Dwarven Steel forging hammer with a lengthened haft. Has the twin ravens of
+        Odin inscribed on it.
+        </possession>
+			<possession>Heavy crossbow. Steel prod. 
+        </possession>
+		</possessions>
+		<associations/>
+		<history>
+			<para>The son of a Dau-Shaun army engineer. Nicolai is the end product of the Githdani 
+    traditions in Dau Shau. Not a Githdani himself, he has been raised to value self-control 
+    and discipline above all else. 
+    </para>
+			<para>Gifted with three levels of self-awareness, his KIF based skills are very well 
+    developed. 
+    </para>
+			<para>He was dedicated to Odin at 5 years and like all of his family, has taken vows of service and 
+    truthfulness.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>Looks and acts a great deal like Dolph Lundgren. In many ways Nicolai has the potential 
+    to be the Githdani ideal: the perfect mystic knight. 
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+	<character>
+		<names>
+			<nomen>Caliset
+       </nomen>
+		</names>
+		<cultures>
+			<nomen category="group">Cetanean
+        </nomen>
+		</cultures>
+		<species gender="female">
+			<nomen category="group">Human
+        </nomen>
+		</species>
+		<stats build="13" discernment="15" aura="16" strength="11" agility="13" constitution="13" drive="16" intelligence="14"/>
+		<desc>
+			<physical>
+				<frame build="slight">Short but light.
+            </frame>
+				<hair texture="fine" length="midback">
+					<ornamentation>None
+                </ornamentation>
+				</hair>
+				<eyes/>
+				<skin color="olive" texture="smooth"/>
+				<facialhairs/>
+				<ears>
+					<ornamentation>None
+                </ornamentation>
+				</ears>
+				<nose conformation="hawk"/>
+				<teeth/>
+				<idmarks>
+					<mark type="birthmark">Reddish half-moon on the right hip.
+                </mark>
+					<mark>Puckered circle from a sling stone on the left temple.
+                </mark>
+				</idmarks>
+				<voice clarity="clear" type="bass" volume="low"/>
+				<clothing age="new">Durable cotton shift and sandals.
+            </clothing>
+			</physical>
+			<psychological>
+				<personalkeynote>Harmony
+            </personalkeynote>
+				<socialkeynote>Common Sense.
+            </socialkeynote>
+				<energy>Average but focused.
+            </energy>
+				<bearing>Upright.
+            </bearing>
+				<mannerisms>Tilts her head forward for assent. 
+            </mannerisms>
+				<humor>Wry.
+            </humor>
+				<senseofself/>
+				<sex appeal="highappeal" drive="lowdrive"/>
+				<logicparadigm>Aristotlean
+            </logicparadigm>
+			</psychological>
+		</desc>
+		<skills>
+			<skill factor="DVF" name="Meditation"/>
+			<skill rank="6" factor="DVF" name="SDA"/>
+			<skill factor="DVF" name="G:Diana"/>
+			<skill factor="DVF" name="D:Prayer"/>
+			<skill factor="DVF" name="D:Tracking"/>
+			<skill factor="DVF" name="D:Prophecy"/>
+			<skill factor="DVF" name="D:Detect Truth"/>
+			<skill factor="DVF" name="D:Heal Body"/>
+			<skill factor="DVF" name="D:Heal Soul"/>
+			<skill factor="DVF" name="D:Pierce Deception"/>
+			<skill factor="MCF" name="Sling"/>
+			<skill name="Spear"/>
+			<skill factor="AGF" name="Running"/>
+		</skills>
+		<possessions/>
+		<associations/>
+		<history>
+			<para>An unremarkable priestess of Diana and content to be so until an oracle of Diana 
+    made it clear that her family and its line would perish if a specific man failed at his task. 
+    That man ? She has narrowed it down to one of the men in this group but is unable to pin it down.
+    </para>
+		</history>
+		<status/>
+		<commentary>
+			<para>She is the voice of calm in a storm.
+    </para>
+		</commentary>
+		<summary/>
+	</character>
+</characters>

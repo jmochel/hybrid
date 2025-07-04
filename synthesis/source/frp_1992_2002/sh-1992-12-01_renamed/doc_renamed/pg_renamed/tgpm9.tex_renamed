@@ -1,0 +1,8 @@
+% FILE MFT and MEX cost for a given activity
+% REF 
+\begin{stable}{MFT and MEX costs for activity}{lcc}
+	Activity		&	MFT & MEX \\	
+\TableSubtitleRule
+	Studying		  & 1/min & 6/hr \\
+	Spell Research	& 3/min & 18/hr \\
+\end{stable}

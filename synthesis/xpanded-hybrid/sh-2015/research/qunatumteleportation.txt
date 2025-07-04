@@ -1,0 +1,37 @@
+Cryptography system goes underground
+
+19 August 2004
+
+A group of scientists in Austria and Germany has installed an optical fibre 
+quantum cryptography system under the streets of Vienna and used it to perform 
+the first quantum secure bank wire transfer (A Poppe et al. 2004 Optics Express 
+12 3865). The quantum cryptography system consisted of a transmitter (Alice) at 
+Vienna's City Hall and a receiver (Bob) at the headquarters of an Austrian bank. 
+The sites were linked by 1.45 kilometres of single-mode optical fibre.
+
+Andreas Poppe at the University of Vienna and colleagues at ARC Seibersdorf 
+Research in Austria and Ludwig-Maximillians University in Germany used an 
+entangled-state quantum cryptography system that relies on entangled photon 
+pairs. Entangled photons are unpolarized while they travel and only assume a 
+polarization state when measured. Because they are entangled, measuring the 
+polarization of one photon determines the polarization of the other. 
+
+At Alice, a 405-nm laser diode pumps a nonlinear crystal to produce entangled 
+photon pairs with a wavelength of 810 nm using the process of "down-conversion". 
+One of the photons is locally analysed in Alice's detection module, while the 
+other is sent over the 1.45 kilometre link to the remote site (Bob). It took 
+about 30 seconds to transfer the photons need to establish a secure "key" for 
+the transaction. 
+
+According to the authors, one advantage of their system is that the key comes 
+into existence at both Alice and Bob and does not have to be transferred between 
+the two. With the key safely in hand, the team was able to securely wire money 
+from the City Hall to the bank. "The exposure of the fibres to realistic 
+environmental conditions such as stress and strain during installation, as well 
+as temperature changes were important features of this experiment," says Poppe. 
+"The successful operation of the system shows that it works in a realistic 
+quantum cryptography scenario." 
+
+The Vienna team has also recently demonstrated quantum teleportation over a 
+distance of 600 metres along an optical fibre that runs beneath the Danube (R 
+Ursin et al. 2004 Nature 430 849). About the author

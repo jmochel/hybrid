@@ -1,0 +1,67 @@
+.Name Ishko Kenji
+.Title Three Sword
+.Race Human
+.Culture Eyodin
+.PST 18
+.PEN 18
+.DEX 15
+.PAG 19
+.PAW 12
+.MST 14
+.MEN 12
+.PSI 12
+.MAG 13
+.MAW 14
+.HT 5'6"
+.WT 130
+.AGE 53
+.BeginDesc
+Always smiling.
+.EndDesc
+.BeginSkills
+Iajutsu:Katana, 8
+Iajutsu:Shuriken, 9
+Weapon:Katana, 12
+Weapon:Katana Parry, 7
+Weapon:Katana Block, 9
+Weapon:Katana Disarm, 7
+Weapon:Katana Fend, 7
+Weapon:Wakisashi, 12
+Weapon:Wakisashi Parry, 8
+Weapon:Wakisashi Fend,  10
+Florentine:Katana and Wakazashi, 12
+Weapon:Tanto, 7
+Weapon:Tessen, 4
+Weapon:Yari, 10
+Weapon:Bo, 10
+Weapon:Nun-chaku, 4
+Weapon:Dai-Kyu, 13
+Lore:Tactics, 6
+Lore:Strategy, 3
+Lore:Fortification, 2
+Lore:Weaponry, 7
+Bajutsu, 10
+Horse Riding, 10
+Meditation, 8
+Movement:Armoured, 13
+Zen Sword, 9
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

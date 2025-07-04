@@ -1,0 +1,68 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206111147.157;
+          06 Dec 91 11:12:29 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206111147.157;
+          06 Dec 91 11:12:14 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02260; Fri, 6 Dec 91 11:13:34 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA29964; Fri, 6 Dec 91 10:42:49 -0500
+Message-Id: <9112061542.AA29964@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0586; Fri, 06 Dec 91 10:42:57 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9167;
+ Fri, 06 Dec 91 10:42:56 EST
+Date:         Fri, 6 Dec 1991 10:39:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: TELLEFSENGW%HIRAMB.BITNET@uga.cc.uga.edu
+Subject:      Game Design
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+>A scalable design allows for simple playable rules that can be modularly
+>made more complex as a situation or desire requires.  The players can
+>make adjustments to complexity or realism vs. simplistity or playability as
+>interest demands.  A complex situation could be seen as a "slow mo" scene in a
+>movie where you really want to catch all the gory (or not so gory detail).
+
+        Paranoia and TimeLords both include "optional" rules sections for
+those who like extra detail. A good idea, I agree. And of course there's the
+famous example of Basic and Advanced D&D (and whatever other flavors there
+are -- if I'm not mistaken, there was an Expert Set too, and maybe one
+or two others).
+        However, there are two difficulties:
+
+        1) An "optional" rule may, if the designer isn't careful, cascade and
+require changes in fundamental rules as well.
+
+        2) If a designer has the talent to sidestep the simplicity/realism
+problem through scalability -- i.e., by allowing the GM to choose the balance
+he prefers -- I say great. But few designers do have that talent; most "lean
+toward" one design philosophy or another, and as a result they can't
+convincingly write a system, or a set of optional rules for a system, that
+utilizes a different philosophy (even Paranoia's "advanced" rules, for example,
+are still simple and quick).
+
+>One way that I've begun to approach this idea is by tying ATTRIBUTES (of
+>characters or objects in the world) to the metaphysics of the the game
+>universe.  This way (in theory) the same set of rules can apply for every
+>possible entity in that universe - a sort of GRAND UNIFICATION THEORY of
+>gaming!
+
+        A fine idea -- earlier today I posted a long message on TWERPS,
+which is about as "grandly unified" as you can get (one attribute, STR, for
+everything -- people, animals, cars, barns). By the time I'd finished writing
+the message I'd persuaded myself that I like TWERPS better than Paranoia...
+wow, I should be a professional orator.
+        If you have the time, please post a more detailed description of how
+you utilize "unification" in your system(s).
+
+                                                Guy
+
+GM: Okay, you attack the barn, but your attack doesn't seem to have as
+much effect as it should have.
+PLAYER: Hmm... I attack it again.
+GM: No luck. It's a very hearty barn. Roll for perception... okay, you
+notice a circular plaque on the wall above your head, and sense an aura
+of stoic faith emanating from the barn.
+PLAYER: Aaugh! An Amish barn! These things are indestructible!

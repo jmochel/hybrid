@@ -1,0 +1,17 @@
+.Name QuickDraw
+.NRG Light
+.ACT Bind
+.ACT Hold
+.ACT Release
+
+.TARGET Self
+.TCOMP Body
+
+.CCOMP Preparation
+.CCOMP Somatic
+
+.CEF 7
+.CTSCALE 2Min
+.EC 14
+.QE 20
+.LINKQE 2

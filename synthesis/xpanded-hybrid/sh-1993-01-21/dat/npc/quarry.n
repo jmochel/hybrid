@@ -1,0 +1,46 @@
+.Name QUARRY HOLEMONGER
+.Title PAIN IN TUSH					  
+.Race GNOME
+.Culture
+.Aspect 
+.PST 14
+.PEN 14		
+.DEX 16
+.PAG 14		
+.PAW 14
+.MST 09		
+.MEN 14
+.PSI 06
+.MAG 14
+.MAW 14
+.HT 3'8"      
+.WT 74		 
+.AGE 70
+.BeginDesc
+ 14:SMALL SQUAT AND TROUBLESOME
+.EndDesc
+.BeginSkills
+Weapon: SHORT SWORD			, 
+.EndSkills
+.Locale JUST BELOW HELLION CHASM( HOW APPROPRIATE)
+.BeginKnownAssoc
+ MYRIL
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ 1000 EXPERIENCE POINTS. STILL BEING CHASED BY OGRES.
+.EndComment
+.BeginPossess
+ PONY AND WEAPONS
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

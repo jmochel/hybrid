@@ -1,0 +1,356 @@
+/*
+    Copyright (C) 1998-1999 Jim Jackl-Mochel
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy 
+    of this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to use, 
+    copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+    Software, and to permit persons to whom the Software is furnished to do so, 
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in 
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+    IMPLIED, INCLUDING BUT NOT LIMITED TOTHE WARRANTIES OF MERCHANTABILITY, 
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    Except as contained in this notice, the name of the author shall not be used 
+    in advertising or otherwise to promote the sale, use or other dealings in this
+    Software without specific prior written authorization.
+
+    This code was last modified on $Date: 1999/02/19 02:21:11 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.2 $
+*/
+
+
+package jacl.metamodel;
+
+// Standard Imports
+
+import java.io.Serializable;
+import java.util.Vector;
+
+// Other Imports
+
+// JACL Imports
+
+import jacl.util.hash.PearsonsHash;
+
+// Application Imports
+
+/**
+    <???> // A Short summary
+
+    <p><???> // Notes
+
+    <p><B>ToDo</B>
+    <ul>
+        <li>Check API Naming
+        <li>Check API Types
+        <li>Check API Returns
+        <li>Check API Exceptions
+        <li>Check Comments
+        <li>Remove unused Comment tags
+        <li>Make sure that there is no way to create an object with an invalid state
+        <li>If an instance variable doen't have a natural default, have one passed into the constructor
+        <li>Throw exceptions on bad input.
+        <li>Constructoirs and initializers should only be about initialization
+        <li>Minimize coupling, take as input only data needed by the method.
+    </ul>
+
+    <p><B>Reminders</B>
+    <ul>
+        <li>All arg passing is done by handles:Modify the contents and it effects everbody
+        <li>Aliasing happens automatically during argument passing
+        <li>There are no local objects, only local handles.
+        <li>Handles have scope, obects do not
+        <li>Object lifetime is not an issue in java
+        <li>There is no language suppport to prevent objects from being modified (i.e. const)
+    </ul>
+
+    <p><B>Copyright (c) 1998 Jim Jackl-Mochel</B>
+    All rights reserved. See source for license agreement
+
+    <p>This code was originally generated using TM version 36
+    <p>This code was last modified on $Date: 1999/02/19 02:21:11 $
+
+    @author Jim Jackl-Mochel
+    @author $Author: jmochel $
+    @version $Revision: 1.2 $
+
+    @see <???>
+    @see ParmListUnitTest
+    @since JDK 1.1
+*/
+
+public 
+class ParmList 
+implements Serializable,Cloneable
+{
+    /**
+        Empty Constructor
+
+        @since JDK 1.1
+
+    */
+
+    public ParmList()
+    {
+        // Assumes that array will be managed in accessor/mutator 
+
+        _Parms = new Vector();
+    }
+
+
+    public ParmList(int parmCnt)
+    {
+        // Assumes that array will be managed in accessor/mutator 
+
+        _Parms = new Vector(parmCnt);
+    }
+
+    /**
+        Full Parameter Constructor
+
+        @param  values   The Object[] to be <???>
+
+        @see <???>
+        @see <???>
+        @since JDK 1.1
+    */
+
+    public ParmList(Object[] values)
+    {
+        this();
+
+        _Parms.copyInto(values);
+    }
+
+
+    /*
+        =========================
+                Accessors
+        =========================
+    */
+
+    /**
+        Gets the Parms to be <???>
+
+        <p>The Parms is (<???> - describe its meaning , when it is used).
+
+        @return Object[]
+
+        @see    setParms(Object[] values)
+        @since  JDK 1.1
+    */
+
+    Object[] getParms()
+    {
+
+        // Create the temporary array
+        
+        Object[] tempArray = new Object[_Parms.size()];
+        
+        // Populate it.
+        
+        for (int i = 0; i < tempArray.length; i++ )
+        {
+            tempArray[i] = (Object) _Parms.elementAt(i);
+        }
+        
+        // return it
+        
+        return tempArray;
+    }
+
+    /**
+        Gets the Parm at the given index to be <???>
+        <p>The Parm is (<???> - describe its meaning , when it is used).
+
+        @return Object
+
+        @see    setParmAt(int ndx, Object value)
+        @since  JDK 1.1
+    */
+
+    Object getParmAt(int ndx)
+    {
+        return (Object) _Parms.elementAt(ndx);
+    }
+
+    /**
+        Gets the count of Parms
+        <p>The Parms is (<???> - describe its meaning , when it is used).
+
+        @return int count of the number of Parms
+
+        @since  JDK 1.1
+    */
+
+    int getParmCnt()
+    {
+        return _Parms.size();
+    }
+
+
+    /*
+        =========================
+                Mutators
+        =========================
+    */
+    
+    /**
+        Sets the Parms to be values.
+        <p>The Parms is (<???> - describe its meaning , when it is used).
+
+        @param  values   The <code>Object[]</code> to be <???>
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    getParms()
+        @since  JDK 1.1
+    */
+
+    public void setParms(Object[] values)
+    {
+        _Parms.removeAllElements();
+        _Parms.copyInto(values);
+    }
+
+
+    /**
+        Sets the Parm at the given index to be value.
+        <p>The Parm is (<???> - describe its meaning , when it is used).
+
+        @param  value   The <code>Object</code> to be <???>
+        @param  ndx             The index or position of the Parm to be set
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    getParmAt(int ndx)
+        @since  JDK 1.1
+    */
+
+    public void setParmAt(int ndx, Object value)
+    {
+        _Parms.insertElementAt(value, ndx);
+    }
+
+
+    /**
+        Adds value to the set of  Parms.
+        <p>The Parm is (<???> - describe its meaning , when it is used).
+
+        @param  value   The <code>Object</code> to be <???>
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    getParmAt(int ndx)
+        @since  JDK 1.1
+    */
+
+    public void addParm(Object value)
+    {
+        _Parms.addElement(value);
+    }
+
+
+
+
+    /*
+        =====================================
+                java.lang.Object  Overrides
+        =====================================
+    */
+    
+
+    /**
+        Generates hash codes
+
+        @see jacl.util.hash.PearsonsHash
+        @see jacl.lang.Object#hashCode()
+        @since JDK 1.1
+    */
+
+    public int hashCode()
+    {
+        return(PearsonsHash.generateIntRangeHash(toString()));
+    }
+
+    /**
+        Checks for equality
+
+        @see java.lang.Object#equals(Object)
+        @since JDK 1.1
+    */
+
+    public boolean equals(Object object)
+    {
+        if ( super.equals(object) == true )
+        {
+            ParmList    castObject = (ParmList) object;
+
+            if ( _Parms.equals(castObject._Parms) == false )
+            {
+                return(false);
+            }
+
+         }
+        else {
+            return(false);
+        }
+
+        return(true);
+    }
+
+    /**
+        Generates a string representation of the class
+
+        @see java.lang.Object#toString()
+        @since JDK 1.1
+    */
+
+    public String toString()
+    {
+        StringBuffer    bfr = new StringBuffer(this.getClass().getName());
+
+        bfr.append("Parms = " + _Parms + "\n" );
+
+        return(bfr.toString());
+    }
+
+    /**
+        Clones this object
+
+        <p><B>Caveat Emptor: This clone currently does a shallow copy</B>
+
+        @see java.lang.Object#clone()
+        @since JDK 1.1
+    */
+
+    public Object clone() throws CloneNotSupportedException
+    {
+        Object object = null;
+
+        object = super.clone();
+        
+        ParmList castObject = (ParmList) object;
+
+        castObject._Parms = (Vector) _Parms.clone();
+        castObject._Parms = (Vector) _Parms;
+       
+       return(object);
+    }
+
+
+    /**
+        Ste of parameters in the list.
+    */            
+
+    private Vector  _Parms;
+    
+
+}

@@ -1,0 +1,154 @@
+h37315
+s 00126/00000/00000
+d D 1.1 99/12/02 15:39:25 jmochel 2 1
+cC
+cK63618
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:21 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/hughes.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44876
+cPCampaign/Karban/npc/hughes.npc
+cReb4785f65cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Patricia "Kickem" Hughes 
+.Nomen  Title Trooper
+.Species Homo Spaiens:Terran:Prime
+.Gender Female
+.Culture Antilles
+.BeginStats
+.PST 18
+.PEN 15
+.DEX 17
+.PAG 17
+.PAW 20
+.MST 13
+.MEN 15
+.PSI 13
+.MAG 17
+.MAW 18
+.HT 1.8
+.WT 80
+.AGE
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build Lean
+.Bone Large
+.Tone Excellent
+.Text Weight Lifter Look
+.EndFrame
+
+.BeginHair
+.Length Long
+.Color Auburn
+.Texture Coarse
+.Style 
+.Curl Wavy
+.Ornament
+.Text 
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type 
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+.Indom	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+.Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+
+E 2
+I 1
+E 1

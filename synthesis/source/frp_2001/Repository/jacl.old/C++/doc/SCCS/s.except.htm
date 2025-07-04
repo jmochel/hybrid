@@ -1,0 +1,121 @@
+h31602
+s 00093/00000/00000
+d D 1.1 99/11/17 12:45:26 jmochel 2 1
+cC
+cK61064
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:45:23 jmochel 1 0
+c BitKeeper file e:/jacl/C++/doc/except.htm
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45304
+cPC++/doc/except.htm
+cR2f93d79c5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META NAME="Author" CONTENT="Jim Jackl-Mochel">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (WinNT; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<H1>Using Exceptions</H1>
+
+<P><B>Derived from &quot;<TT>(B)leading Edge</TT>&quot; column by Jack
+Reeves in the <I>C++ Report</I> of May 1996. </B></P>
+
+<P>General Guidelines</P>
+
+<OL>
+<LI>Exception handling must pervade the entire program or library</LI>
+
+<LI>Don't throw an exception unless necessary.</LI>
+
+<OL>
+<LI>Throw an exception to indicate a failure of an operation for which
+failure is not a normal mode</LI>
+</OL>
+
+<LI>Don't catch an exception you don't know how to handle !</LI>
+
+<LI>Rethrow all exceptions caught in a <TT>(...) clause</TT></LI>
+
+<OL>
+<LI>Remember to reset the state (if necessary)&nbsp;before rethrowing.</LI>
+</OL>
+
+<LI>Order the exception handlers from the most specific to the most general</LI>
+
+<OL>
+<LI>catch(...) should always be last.</LI>
+</OL>
+
+<LI>Document all conditions that could generate an exception</LI>
+</OL>
+
+<OL>
+<LI>Derive exceptions from the standard exception class</LI>
+
+<OL>
+<P>Allows the user of the class to select what to catch.</P>
+</OL>
+
+<LI>Derive multiple exception class from a base class derived for that
+purpose</LI>
+
+<OL>
+<P>This is one of the few areas where multiple inheritance makes sense</P>
+</OL>
+
+<LI>Provide useful information in the exception</LI>
+
+<LI>Give the user a way to avoid the exception</LI>
+
+<LI>Give the user a way to disable throwing the exception</LI>
+
+<LI>Give the user a way to disable unwanted runtime tests</LI>
+
+<OL>
+<P>#ifdef them out ?</P>
+</OL>
+
+<LI>If you can't recover, throw a special exception to exit the program.</LI>
+
+<LI>Don't throw exceptions from destructors</LI>
+
+<LI>Classes must be in a state suitable for cleanup</LI>
+
+<OL>
+<LI>If you can, leave the object in the state it had when the method was
+entered</LI>
+
+<LI>If you can't leave the object in the state it had when the method was
+entered, leave it in a clean state</LI>
+
+<LI>If you can't leave the object in a good state it, make sure the destructor
+can still work</LI>
+
+<LI>Generally, any state should be a clean state</LI>
+
+<LI>Make sure that ownership of memory is well defined.</LI>
+</OL>
+</OL>
+
+</BODY>
+</HTML>
+E 2
+I 1
+E 1

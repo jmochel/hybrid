@@ -1,0 +1,23 @@
+# Jamfile for the JACL Callback Manager Classes
+#
+# $Header $
+#
+
+# The SubDir rule simply tells Jam that all paths are relative to the given path.
+
+SubDir TOP src cbmgr ;
+
+# Library from objects denotes the library to be built and its dependents
+
+DirectedLibrary j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) :
+;
+
+DirectedMain CallbackUnitTest : CallbackUnitTest.cpp ;
+DirectedLinkLibraries CallbackUnitTest : $(LibDir)$(SLASH)j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+
+DirectedMain CBMgrUnitTest : CBMgrUnitTest.cpp ;
+DirectedLinkLibraries CBMgrUnitTest : $(LibDir)$(SLASH)j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+
+DirectedMain SigCBMgrUnitTest : SigCBMgrUnitTest.cpp ;
+DirectedLinkLibraries SigCBMgrUnitTest : $(LibDir)$(SLASH)j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+

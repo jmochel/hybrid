@@ -1,0 +1,69 @@
+h35667
+s 00039/00000/00000
+d D 1.1 01/03/14 22:43:22 jmochel 2 1
+cC
+cF1
+cK03873
+cO-rw-rw-r--
+e
+s 00000/00000/00000
+d D 1.0 01/03/14 22:43:22 jmochel 1 0
+c BitKeeper file i:/Repository/TemplateCodeGenerator/DirectoryStructure.txt
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHmordanith.ne.mediaone.net
+cK34001
+cPDirectoryStructure.txt
+cR8374d7da
+cV4
+cX0xa1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0xa1
+t
+T
+I 2
+Project Directory Structure
+
+src	Java Source Files
+
+classes Compiled .java files from the src/ 
+
+bin     Using the java interpretor directly is not the best solution 
+	for running a Java application. A user of the application 
+	shouldn't need to know that this is a Java application, and 
+	the approach for running Java application should be the same 
+	as for all other applications.  The approach for making an 
+	application from a Java executable class is to create a 
+	wrapper script. 
+
+html    Scratch directory for testing applets
+
+jars    The jars/ directory contains all .jar archives in use. 
+	This includes 3rd-party .jar files that should be copied 
+	here manually, and produced .jar files that will be 
+	put here automatically by make. It would be tempting to 
+	divide between your own .jar files and 3-rd party ones, but 
+	if you want to run your application through a .jar file 
+	you've made, all .jar files must be located in the same 
+	directory.
+
+scm     Software Configuration Management - Makefiles, other source 
+	maintainence scripts, source code generation templates etc...
+
+docs    The docs/ directory should hold all output from the 
+	javadoc documentation tool. The sub directory structure 
+	is automatically created by javadoc and is similar 
+	to the one in the src/ and classes/ directory. The 
+	entry point for the HTML browser will be the file $\docs\index.html.
+	
+documents           Articles/Design Documents, etc.
+documents\articles
+documents\notes
+
+models      Any modeling tool files
+E 2
+I 1
+E 1

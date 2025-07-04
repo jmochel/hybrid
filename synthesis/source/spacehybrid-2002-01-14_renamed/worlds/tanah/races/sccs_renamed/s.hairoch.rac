@@ -1,0 +1,47 @@
+h06077
+s 00019/00000/00000
+d D 1.1 99/12/02 16:07:12 jmochel 2 1
+cC
+cK32239
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:07:08 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/hairoch.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45043
+cPworlds/tanah/races/hairoch.rac
+cReb4787a65cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Hairochon}
+
+\section*{Statistics}
+
+\begin{itemize}
+	\item[Race Name] Hairochon
+	\item[Avg. Height] 6'4"/6'4"
+	\item[Avg. Weight] 240/210
+	\item[Skin Color] Brown
+	\item[Hair Color] Ash Blond
+	\item[Eye Color] Hazel
+	\item[Stat Mods] PST +1 PEN +1 PSI -2
+	\item[Inherent Skills]
+\end{itemize}
+
+\section*{Description}
+
+\section*{Cultures and Sub-groups}
+Hairoch
+E 2
+I 1
+E 1

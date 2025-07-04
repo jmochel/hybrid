@@ -1,0 +1,511 @@
+approx 50 clans
+18 are big and political
+Akamatsu
+	Adachi
+	Gensai
+	Sakata
+
+Gakusha
+	Ashida
+	Nose
+	Horri
+	Shioya
+	Kyubei
+
+Hagiwara
+	Fuchida
+	Ichikawa
+	Ichimonji
+	Kato
+	Maeda
+
+Hama
+	Eto
+	Otomo
+	Kurasawa
+	Torii
+	Shintaro
+	Tomonanga
+	Shirai
+
+Ishida
+	Otsuka
+	Shirasu
+	Yuasa
+	Kono
+	Temko
+
+Itagaki
+	Tatenaka
+	Kozu
+	Ii
+	Namiki
+	Tsuraga
+	Sotomura
+	Nataka
+	Kawaii
+
+
+Kobayashi
+	Iitaka
+	Funaki
+	Fuse
+	Masuko
+	Narita
+	Sugista
+
+Mitsubishi
+	Nataga
+	Ikoma
+	Kawamura
+	Matsuki
+	Ki
+	Hagino
+	Akechi
+
+Takei
+	Yakuta
+	Ohira
+	Miyahara
+	Komatsu
+	Iwakura
+
+Tanaka
+	Hosokawa
+	Hirota
+	Okuma
+	Shimura
+
+Fujiwara
+	Muro
+	Murasaki
+	Idane
+	Terajima
+	Yoemon
+
+Ieyasu
+	Kikutake
+	Iseki
+	Hatayama
+	Enomoto
+	Fujita
+
+Kawasaki
+	Kase
+	Oshin
+	Muso
+	Kudo
+
+Suzuki
+	Nagai
+	Nagano
+	Fukuda
+	Soho
+
+Toyota
+	Makuda
+	Ozawa
+	Eguchi
+	Onoe
+
+Yamaha
+	Shimaoka
+	Tojo
+	
+Yamaguchi
+	Mutsu
+	Murasaki
+	Ono
+	Kishi
+	Sanjo
+
+Watanabe
+	Mitsui
+	Takeuchi
+	Numata
+	Sakai
+
+Ikeda
+	Koga
+	Jippensha
+	Hasegawa
+	Harada
+	Hamamoto
+	Asahi
+
+OtherNames
+
+Akimoto
+	Abe
+	
+Amaya
+	Kitano
+	Hamada
+	Amori
+	Mazaki
+	Kihara
+	Nitta
+
+Asari
+	Ishida
+	Satoh
+	Santo
+	Minami
+	Mifune
+	Takasu
+	Sakurai
+
+Ashikaga
+	Kobi
+	Araki
+	Minobe
+	Itami
+	Handa
+	Uno
+
+Bando small,wrestling art 
+	Kogo
+	Kunisada
+	Endo
+	Kumagae
+	Omori
+	Shima		Famous for the beauty of their women
+	Kamio
+
+Chiba
+	Ibi
+	Nagase
+
+Date  large,single sword style (lots of Dai-Katana users)
+	Karubo
+	Karube
+	Hitomi
+
+Egami
+	Hotta
+	Yoshihara
+	Yano
+
+Ekiguchi
+	Kaima
+	Terauchi
+	Okubo
+	Moto
+	Modegi
+Enoki
+	Hori
+	Honda
+	Kasai
+
+Fujimaki
+	Narahashi
+	Ikeda
+	Sugai
+
+Funakoshi small, open hand art (direct), great judges come from this clan
+	Nanami
+	Tsushima
+	Fumihiko
+
+Genji
+	Matano
+	Kawatake
+	Ikina
+	Sonada
+
+Hara
+	Sone
+	Tsukioka
+	Funabishi
+	
+Hideki
+	Imagawa
+	Nakayama
+	Fuwa
+
+Hideyoshi
+	Futabatei
+	Masoni
+	Sugihara
+
+Hyobanshi
+	Ihara
+	Bunya
+	Hira
+	
+Ikoma
+	Chino
+	Kurata
+	Hojo
+
+Ishikawa
+	Ebisawa
+	Kusonoki
+	Nakame
+
+Ito
+	Nakadan
+	Shobo
+	Toru
+
+Jo
+	Tokuda
+	Yosano
+	Koshin
+
+Katayama
+	Honai
+	Kaneko
+	Kuroda
+
+Katsura
+	Ooka
+	Kamachi
+	Shimakage
+
+Matsuda
+	Kanagaki
+	Okuma
+
+Matsushita
+	Kasai
+	Otani
+
+Mifune  only other Nito-knjutsu clan (pragmatic version)
+	Naito
+	Shinko
+	Tono
+
+Mishima	
+	Kamo
+	Onoda
+	Shirane
+
+Miyagi   open hand style,  small clan, small island, judges training monastery
+	Kunomasu
+	Murata
+	Tsuda
+
+Murasaki
+	Doi
+	Munkata
+	Shimizu
+
+Nomura   Spear style
+	Kaminga
+	Suenami
+	Tsunoda
+
+Nosaka
+	Ito
+	Miyoshi
+	
+Ochida
+	Morita
+	Hishida
+	Osagawa
+
+Ogiwara
+	Musashibo
+	Eda
+	Toyama
+
+Okawa      Axe Style
+	Kahaya
+	Hisamatsu
+	Omura
+
+Oshima
+	Shigi
+	Ebina
+	Jumonji
+
+Ozu
+	Asano
+	Hideki
+	Izumi
+
+Ryusaki
+	Hida
+	Kimura
+	Aoki
+
+Saito
+	Asuhara
+	Ishibashi
+	Miwa
+
+Sakagami
+	Kajitani
+	Dan
+	Hohki
+
+Sanda medium clan, tall individuals, sumo style grappling.
+	Kamioka
+	Dazai
+
+Satake
+	Deguchi
+	Arihyashi
+	Shibata
+
+Shiba
+	Sammiya
+	Nishio
+	Sasada
+
+Shimada
+	Ogura
+	Sen
+	Komatsuzakai
+
+Shimazu 	machinists
+	Yamada
+	Tanaka
+	Katsura
+
+Shoda
+	Kwakami
+	Ibuka
+
+Sugase    Kyu-jutsu
+	Maeno
+	Kita
+
+Sunada
+	Osagawa
+	Shunji
+
+Tadeshi
+	Arakido
+	Nijo
+	Takabe
+
+Taira
+	Sarumara
+	Sayuki
+	Sago
+
+Taka   Naginata
+	Kurohiko
+	Nakanishi
+	Hida
+
+Takemago
+	Kuroki
+	Ariwa
+	
+Takeshita
+	Iwasa
+	Mitsuharu
+
+Tamazaki  home of changelings
+	Ohmae
+	Oichi
+	Segawa
+
+Tani
+	Obinata
+	Takizawa
+
+Tsumura
+	Kataoka
+	Tomika
+	Nagahama
+
+Tsushima
+	Hyata
+	Royama
+	Kitabatake
+
+Uchida    Sake production
+	Soma
+	Hoshino
+	Yamoto
+
+Ueshima   Famous for their honor , Dartagnontypes, judges.,many many silver tassels
+	Kamata
+	Torisei
+	inaba
+
+Umeki
+	Kanada
+	Horigoshi
+	Kurkawa
+
+Uno
+	Nagahama
+	Nakajima
+	Ozu
+
+Watabe
+	Shioma
+	Shodayama
+	Tsuda
+	
+Yamada
+	Tomioka
+	Kideki
+	Hayami
+	Yunokawa
+
+Yamaguchi
+	Itoh
+	Musashibo
+	Ashikaga
+
+Yamamura
+	Shionoya
+	Osagane
+
+Yamoto
+	Ienari
+	Nogushu
+	Furasawa
+
+Yanagi
+	Masuno
+	Kawashima
+	Mitsuya
+
+Yasuda
+	Iwahara
+	Sakamoto
+	Itagawa
+Yonai
+	Sawamatsu
+	Ishinomori
+	Noro
+
+Yoshitomi   Imperial clan name.
+	Ochiai
+	Sekine
+
+Yuhara
+	Nosaka
+	Takahashi
+	Usagi
+
+
+5 Main slands
+100 other islands
+
+Largest
+	4 Active Volcanoes
+	3 Clans
+		Akamatsu
+		Kobayashi
+		Kawasaki
+
+2nd Largest 
+	Imperial sland
+	mperial City (ala Forbidden City)
+	Every clan has an embassy there
+	3 Ports
+	Many lines of no clan exist there (Caftsman and such)
+
+Names are actually (Clan, Line, name ) => by convention 
+they are referred to by (clan, name) except when the7y are aline head 
+in which case it is (caln, line, name)
+The clan head is simply referred to by (clan)
+

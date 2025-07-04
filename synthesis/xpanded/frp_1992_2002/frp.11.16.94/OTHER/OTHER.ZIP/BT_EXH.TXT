@@ -1,0 +1,54 @@
+From alexj@juliet.ll.mit.edu Fri Dec  3 14:15:59 1993
+Date: Fri, 3 Dec 93 11:29:55 EST
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM,
+    71342.3143@compuserve.com, 72144.743@compuserve.com,
+    Joe=Lapolito%IRD%PEOPLES@BANYAN.UMMED.EDU, alexj@juliet.ll.mit.edu,
+    bmckinle@mitre.org, ghodge@nyx.cs.du.edu, hicks@milkwy.enet.dec.com,
+    jmochel@world.std.com, jr@titan.camb.inmet.com, markd@ill.ceo.dg.com,
+    morphus@mathworks.com
+Subject: DES: Exhaustion
+
+
+Mark says:
+
+----- Begin Included Message -----
+I think your recovery rates for exhaustion are too slow.  Ex- I don't
+think it would be unusual to train for 8 hours, (Military, intensive 
+schooling, corporate training, fanatic MAers ;-) for extended periods 
+of time.
+8 hours- 80 ex.  Recovery- 8 hrs sleep 2+4+6(8)=54.  3 meals=9.  63!
+Even if you rest a few hours, you still aren't making it!  Am I 
+missing something here?  I also thought that ex only built up if you 
+used large % of your endurance.  Is that rule going away??
+I read somewhere (not sure where) that according to military 
+research, long term sleep deprivation is almost totally recovered in 
+a single 8 hour sleep.  To me this implies that the rate may be more
+logo than you are creditting.  Ideally, I think end/ex should come
+back the same as HTK, even though it is more bookkeeping.  Maybe
+just a continuos slope?  2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 = 72
+I don't think that is unreasonable.  Otherwise, having high end values
+becomes less valuable- you can't use it if you can't recover it!
+
+----- End Included Message -----
+
+
+Hmmm.. I agree in part.   Although long-term sleep deprivation can be 
+wiped out by a single night's sleep- what about muscle fatigue and 
+strain?  What about mental exhaustion?  
+
+I actually haven't gotten research behind this but my experience is 
+that muscle fatigue can last a day or two even under full rest 
+conditions.
+
+I don't have a clear idea about mental exhaustion.  I do "feel" that
+you prpobably can recover from most menatl exhaution overnight- but
+I have worked on menatl projects and been still menatlly tired the next
+day (though obviously there could be many factors there.)
+Opinions?
+
+BTW: I do agree though that maybe it should be +2 points per hour of 
+sleep.
+
+BTW2: Meta-exhaustion models wear and tear above and beyond tiredness.
+

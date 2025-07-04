@@ -1,0 +1,45 @@
+.Name THALIA(F)
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 16
+.PEN 14		
+.DEX 17
+.PAG 13		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 5'8"      
+.WT 136		 
+.AGE 24
+.BeginDesc
+ 5:
+.EndDesc
+.BeginSkills
+Weapon: BAGK-NAGH			  , 
+.EndSkills
+.Locale CAITHNARD
+.BeginKnownAssoc
+ STIFFNACK TUMBLETOMS,TRUARK
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ BLACK EBONY BOOK FROM THE RUINS OF GALAHINE.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

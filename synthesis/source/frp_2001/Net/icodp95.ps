@@ -1,0 +1,2337 @@
+%!
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%DocumentFonts: (atend)
+%%EndComments
+%
+% FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
+% Copyright (c) 1986,87,89,90,91 by Frame Technology Corporation.
+% All rights reserved.
+%
+% Known Problems:
+%	Due to bugs in Transcript, the 'PS-Adobe-' is omitted from line 1
+/FMversion (3.0) def 
+% Set up Color vs. Black-and-White
+	/FMPrintInColor systemdict /colorimage known
+		systemdict /currentcolortransfer known or def
+% Uncomment this line to force b&w on color printer
+%   /FMPrintInColor false def
+/FrameDict 195 dict def 
+systemdict /errordict known not {/errordict 10 dict def
+		errordict /rangecheck {stop} put} if
+% The readline in 23.0 doesn't recognize cr's as nl's on AppleTalk
+FrameDict /tmprangecheck errordict /rangecheck get put 
+errordict /rangecheck {FrameDict /bug true put} put 
+FrameDict /bug false put 
+mark 
+% Some PS machines read past the CR, so keep the following 3 lines together!
+currentfile 5 string readline
+00
+0000000000
+cleartomark 
+errordict /rangecheck FrameDict /tmprangecheck get put 
+FrameDict /bug get { 
+	/readline {
+		/gstring exch def
+		/gfile exch def
+		/gindex 0 def
+		{
+			gfile read pop 
+			dup 10 eq {exit} if 
+			dup 13 eq {exit} if 
+			gstring exch gindex exch put 
+			/gindex gindex 1 add def 
+		} loop
+		pop 
+		gstring 0 gindex getinterval true 
+		} def
+	} if
+/FMVERSION {
+	FMversion ne {
+		/Times-Roman findfont 18 scalefont setfont
+		100 100 moveto
+		(FrameMaker version does not match postscript_prolog!)
+		dup =
+		show showpage
+		} if
+	} def 
+/FMLOCAL {
+	FrameDict begin
+	0 def 
+	end 
+	} def 
+	/gstring FMLOCAL
+	/gfile FMLOCAL
+	/gindex FMLOCAL
+	/orgxfer FMLOCAL
+	/orgproc FMLOCAL
+	/organgle FMLOCAL
+	/orgfreq FMLOCAL
+	/yscale FMLOCAL
+	/xscale FMLOCAL
+	/manualfeed FMLOCAL
+	/paperheight FMLOCAL
+	/paperwidth FMLOCAL
+/FMDOCUMENT { 
+	array /FMfonts exch def 
+	/#copies exch def
+	FrameDict begin
+	0 ne dup {setmanualfeed} if
+	/manualfeed exch def
+	/paperheight exch def
+	/paperwidth exch def
+	/yscale exch def
+	/xscale exch def
+	currenttransfer cvlit /orgxfer exch def
+	currentscreen cvlit /orgproc exch def
+	/organgle exch def /orgfreq exch def
+	setpapername 
+	manualfeed {true} {papersize} ifelse 
+	{manualpapersize} {false} ifelse 
+	{desperatepapersize} if
+	end 
+	} def 
+	/pagesave FMLOCAL
+	/orgmatrix FMLOCAL
+	/landscape FMLOCAL
+/FMBEGINPAGE { 
+	FrameDict begin 
+	/pagesave save def
+	3.86 setmiterlimit
+	/landscape exch 0 ne def
+	landscape { 
+		90 rotate 0 exch neg translate pop 
+		}
+		{pop pop}
+		ifelse
+	xscale yscale scale
+	/orgmatrix matrix def
+	gsave 
+	} def 
+/FMENDPAGE {
+	grestore 
+	pagesave restore
+	end 
+	showpage
+	} def 
+/FMFONTDEFINE { 
+	FrameDict begin
+	findfont 
+	ReEncode 
+	1 index exch 
+	definefont 
+	FMfonts 3 1 roll 
+	put
+	end 
+	} def 
+/FMFILLS {
+	FrameDict begin
+	array /fillvals exch def
+	end 
+	} def 
+/FMFILL {
+	FrameDict begin
+	 fillvals 3 1 roll put
+	end 
+	} def 
+/FMNORMALIZEGRAPHICS { 
+	newpath
+	0.0 0.0 moveto
+	1 setlinewidth
+	0 setlinecap
+	0 0 0 sethsbcolor
+	0 setgray 
+	} bind def
+	/fx FMLOCAL
+	/fy FMLOCAL
+	/fh FMLOCAL
+	/fw FMLOCAL
+	/llx FMLOCAL
+	/lly FMLOCAL
+	/urx FMLOCAL
+	/ury FMLOCAL
+/FMBEGINEPSF { 
+	end 
+	/FMEPSF save def 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	[/fy /fx /fh /fw /ury /urx /lly /llx] {exch def} forall 
+	fx fy translate 
+	rotate
+	fw urx llx sub div fh ury lly sub div scale 
+	llx neg lly neg translate 
+	} bind def
+/FMENDEPSF {
+	FMEPSF restore
+	FrameDict begin 
+	} bind def
+FrameDict begin 
+/setmanualfeed {
+%%BeginFeature *ManualFeed True
+	 statusdict /manualfeed true put
+%%EndFeature
+	} def
+/max {2 copy lt {exch} if pop} bind def
+/min {2 copy gt {exch} if pop} bind def
+/inch {72 mul} def
+/pagedimen { 
+	paperheight sub abs 16 lt exch 
+	paperwidth sub abs 16 lt and
+	{/papername exch def} {pop} ifelse
+	} def
+	/papersizedict FMLOCAL
+/setpapername { 
+	/papersizedict 14 dict def 
+	papersizedict begin
+	/papername /unknown def 
+		/Letter 8.5 inch 11.0 inch pagedimen
+		/LetterSmall 7.68 inch 10.16 inch pagedimen
+		/Tabloid 11.0 inch 17.0 inch pagedimen
+		/Ledger 17.0 inch 11.0 inch pagedimen
+		/Legal 8.5 inch 14.0 inch pagedimen
+		/Statement 5.5 inch 8.5 inch pagedimen
+		/Executive 7.5 inch 10.0 inch pagedimen
+		/A3 11.69 inch 16.5 inch pagedimen
+		/A4 8.26 inch 11.69 inch pagedimen
+		/A4Small 7.47 inch 10.85 inch pagedimen
+		/B4 10.125 inch 14.33 inch pagedimen
+		/B5 7.16 inch 10.125 inch pagedimen
+	end
+	} def
+/papersize {
+	papersizedict begin
+		/Letter {lettertray letter} def
+		/LetterSmall {lettertray lettersmall} def
+		/Tabloid {11x17tray 11x17} def
+		/Ledger {ledgertray ledger} def
+		/Legal {legaltray legal} def
+		/Statement {statementtray statement} def
+		/Executive {executivetray executive} def
+		/A3 {a3tray a3} def
+		/A4 {a4tray a4} def
+		/A4Small {a4tray a4small} def
+		/B4 {b4tray b4} def
+		/B5 {b5tray b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	/FMdicttop countdictstack 1 add def 
+	statusdict begin stopped end 
+	countdictstack -1 FMdicttop {pop end} for 
+	} def
+/manualpapersize {
+	papersizedict begin
+		/Letter {letter} def
+		/LetterSmall {lettersmall} def
+		/Tabloid {11x17} def
+		/Ledger {ledger} def
+		/Legal {legal} def
+		/Statement {statement} def
+		/Executive {executive} def
+		/A3 {a3} def
+		/A4 {a4} def
+		/A4Small {a4small} def
+		/B4 {b4} def
+		/B5 {b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	stopped 
+	} def
+/desperatepapersize {
+	statusdict /setpageparams known
+		{
+		paperwidth paperheight 0 1 
+		statusdict begin
+		{setpageparams} stopped pop 
+		end
+		} if
+	} def
+/savematrix {
+	orgmatrix currentmatrix pop
+	} bind def
+/restorematrix {
+	orgmatrix setmatrix
+	} bind def
+/dmatrix matrix def
+/dpi    72 0 dmatrix defaultmatrix dtransform
+    dup mul exch   dup mul add   sqrt def
+/freq dpi 18.75 div 8 div round dup 0 eq {pop 1} if 8 mul dpi exch div def
+/sangle 1 0 dmatrix defaultmatrix dtransform exch atan def
+/DiacriticEncoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl
+/numbersign /dollar /percent /ampersand /quotesingle /parenleft
+/parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
+/two /three /four /five /six /seven /eight /nine /colon /semicolon
+/less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K
+/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h
+/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar
+/braceright /asciitilde /.notdef /Adieresis /Aring /Ccedilla /Eacute
+/Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis
+/atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis
+/iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve
+/ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex
+/udieresis /dagger /.notdef /cent /sterling /section /bullet
+/paragraph /germandbls /registered /copyright /trademark /acute
+/dieresis /.notdef /AE /Oslash /.notdef /.notdef /.notdef /.notdef
+/yen /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/ordfeminine /ordmasculine /.notdef /ae /oslash /questiondown
+/exclamdown /logicalnot /.notdef /florin /.notdef /.notdef
+/guillemotleft /guillemotright /ellipsis /.notdef /Agrave /Atilde
+/Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright
+/quoteleft /quoteright /.notdef /.notdef /ydieresis /Ydieresis
+/fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl
+/periodcentered /quotesinglbase /quotedblbase /perthousand
+/Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute
+/Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /.notdef /Ograve
+/Uacute /Ucircumflex /Ugrave /dotlessi /circumflex /tilde /macron
+/breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron
+] def
+/ReEncode { 
+	dup 
+	length 
+	dict begin 
+	{
+	1 index /FID ne 
+		{def} 
+		{pop pop} ifelse 
+	} forall 
+	0 eq {/Encoding DiacriticEncoding def} if 
+	currentdict 
+	end 
+	} bind def
+/graymode true def
+	/bwidth FMLOCAL
+	/bpside FMLOCAL
+	/bstring FMLOCAL
+	/onbits FMLOCAL
+	/offbits FMLOCAL
+	/xindex FMLOCAL
+	/yindex FMLOCAL
+	/x FMLOCAL
+	/y FMLOCAL
+/setpattern {
+	 /bwidth  exch def
+	 /bpside  exch def
+	 /bstring exch def
+	 /onbits 0 def  /offbits 0 def
+	 freq sangle landscape {90 add} if 
+		{/y exch def
+		 /x exch def
+		 /xindex x 1 add 2 div bpside mul cvi def
+		 /yindex y 1 add 2 div bpside mul cvi def
+		 bstring yindex bwidth mul xindex 8 idiv add get
+		 1 7 xindex 8 mod sub bitshift and 0 ne
+		 {/onbits  onbits  1 add def 1}
+		 {/offbits offbits 1 add def 0}
+		 ifelse
+		}
+		setscreen
+	 {} settransfer
+	 offbits offbits onbits add div FMsetgray
+	/graymode false def
+	} bind def
+/grayness {
+	FMsetgray
+	graymode not {
+		/graymode true def
+		orgxfer cvx settransfer
+		orgfreq organgle orgproc cvx setscreen
+		} if
+	} bind def
+	/HUE FMLOCAL
+	/SAT FMLOCAL
+	/BRIGHT FMLOCAL
+	/Colors FMLOCAL
+FMPrintInColor 
+	
+	{
+	/HUE 0 def
+	/SAT 0 def
+	/BRIGHT 0 def
+	% array of arrays Hue and Sat values for the separations [HUE BRIGHT]
+	/Colors   
+	[[0    0  ]    % black
+	 [0    0  ]    % white
+	 [0.00 1.0]    % red
+	 [0.37 1.0]    % green
+	 [0.60 1.0]    % blue
+	 [0.50 1.0]    % cyan
+	 [0.83 1.0]    % magenta
+	 [0.16 1.0]    % comment / yellow
+	 ] def
+      
+	/BEGINBITMAPCOLOR { 
+		BITMAPCOLOR} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPCOLORc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUECOLOR } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUECOLORc } def
+	/K { 
+		Colors exch get dup
+		0 get /HUE exch store 
+		1 get /BRIGHT exch store
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} def
+	/FMsetgray { 
+		/SAT exch 1.0 exch sub store 
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} bind def
+	}
+	
+	{
+	/BEGINBITMAPCOLOR { 
+		BITMAPGRAY} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPGRAYc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUEGRAY } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUEGRAYc } def
+	/FMsetgray {setgray} bind def
+	/K { 
+		pop
+		} def
+	}
+ifelse
+/normalize {
+	transform round exch round exch itransform
+	} bind def
+/dnormalize {
+	dtransform round exch round exch idtransform
+	} bind def
+/lnormalize { 
+	0 dtransform exch cvi 2 idiv 2 mul 1 add exch idtransform pop
+	} bind def
+/H { 
+	lnormalize setlinewidth
+	} bind def
+/Z {
+	setlinecap
+	} bind def
+	/fillvals FMLOCAL
+/X { 
+	fillvals exch get
+	dup type /stringtype eq
+	{8 1 setpattern} 
+	{grayness}
+	ifelse
+	} bind def
+/V { 
+	gsave eofill grestore
+	} bind def
+/N { 
+	stroke
+	} bind def
+/M {newpath moveto} bind def
+/E {lineto} bind def
+/D {curveto} bind def
+/O {closepath} bind def
+	/n FMLOCAL
+/L { 
+ 	/n exch def
+	newpath
+	normalize
+	moveto 
+	2 1 n {pop normalize lineto} for
+	} bind def
+/Y { 
+	L 
+	closepath
+	} bind def
+	/x1 FMLOCAL
+	/x2 FMLOCAL
+	/y1 FMLOCAL
+	/y2 FMLOCAL
+	/rad FMLOCAL
+/R { 
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	x1 y1
+	x2 y1
+	x2 y2
+	x1 y2
+	4 Y 
+	} bind def
+/RR { 
+	/rad exch def
+	normalize
+	/y2 exch def
+	/x2 exch def
+	normalize
+	/y1 exch def
+	/x1 exch def
+	newpath
+	x1 y1 rad add moveto
+	x1 y2 x2 y2 rad arcto
+	x2 y2 x2 y1 rad arcto
+	x2 y1 x1 y1 rad arcto
+	x1 y1 x1 y2 rad arcto
+	closepath
+	16 {pop} repeat
+	} bind def
+/C { 
+	grestore
+	gsave
+	R 
+	clip
+	} bind def
+	/FMpointsize FMLOCAL
+/F { 
+	FMfonts exch get
+	FMpointsize scalefont
+	setfont
+	} bind def
+/Q { 
+	/FMpointsize exch def
+	F 
+	} bind def
+/T { 
+	moveto show
+	} bind def
+/RF { 
+	rotate
+	0 ne {-1 1 scale} if
+	} bind def
+/TF { 
+	gsave
+	moveto 
+	RF
+	show
+	grestore
+	} bind def
+/P { 
+	moveto
+	0 32 3 2 roll widthshow
+	} bind def
+/PF { 
+	gsave
+	moveto 
+	RF
+	0 32 3 2 roll widthshow
+	grestore
+	} bind def
+/S { 
+	moveto
+	0 exch ashow
+	} bind def
+/SF { 
+	gsave
+	moveto
+	RF
+	0 exch ashow
+	grestore
+	} bind def
+/B { 
+	moveto
+	0 32 4 2 roll 0 exch awidthshow
+	} bind def
+/BF { 
+	gsave
+	moveto
+	RF
+	0 32 4 2 roll 0 exch awidthshow
+	grestore
+	} bind def
+/G { 
+	gsave
+	newpath
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath fill
+	grestore
+	} bind def
+/A { 
+	gsave
+	savematrix
+	newpath
+	2 index 2 div add exch 3 index 2 div sub exch 
+	normalize 2 index 2 div sub exch 3 index 2 div add exch 
+	translate 
+	scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	restorematrix
+	stroke
+	grestore
+	} bind def
+	/x FMLOCAL
+	/y FMLOCAL
+	/w FMLOCAL
+	/h FMLOCAL
+	/xx FMLOCAL
+	/yy FMLOCAL
+	/ww FMLOCAL
+	/hh FMLOCAL
+	/FMsaveobject FMLOCAL
+	/FMoptop FMLOCAL
+	/FMdicttop FMLOCAL
+/BEGINPRINTCODE { 
+	/FMdicttop countdictstack 1 add def 
+	/FMoptop count 4 sub def 
+	/FMsaveobject save def
+	userdict begin 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	3 index neg 3 index neg translate
+	} bind def
+/ENDPRINTCODE {
+	count -1 FMoptop {pop pop} for 
+	countdictstack -1 FMdicttop {pop end} for 
+	FMsaveobject restore 
+	} bind def
+/gn { 
+	0 
+	{	46 mul 
+		cf read pop 
+		32 sub 
+		dup 46 lt {exit} if 
+		46 sub add 
+		} loop
+	add 
+	} bind def
+	/str FMLOCAL
+/cfs { 
+	/str sl string def 
+	0 1 sl 1 sub {str exch val put} for 
+	str def 
+	} bind def
+/ic [ 
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0
+	{0 hx} {1 hx} {2 hx} {3 hx} {4 hx} {5 hx} {6 hx} {7 hx} {8 hx} {9 hx}
+	{10 hx} {11 hx} {12 hx} {13 hx} {14 hx} {15 hx} {16 hx} {17 hx} {18 hx}
+	{19 hx} {gn hx} {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {12}
+	{13} {14} {15} {16} {17} {18} {19} {gn} {0 wh} {1 wh} {2 wh} {3 wh}
+	{4 wh} {5 wh} {6 wh} {7 wh} {8 wh} {9 wh} {10 wh} {11 wh} {12 wh}
+	{13 wh} {14 wh} {gn wh} {0 bl} {1 bl} {2 bl} {3 bl} {4 bl} {5 bl} {6 bl}
+	{7 bl} {8 bl} {9 bl} {10 bl} {11 bl} {12 bl} {13 bl} {14 bl} {gn bl}
+	{0 fl} {1 fl} {2 fl} {3 fl} {4 fl} {5 fl} {6 fl} {7 fl} {8 fl} {9 fl}
+	{10 fl} {11 fl} {12 fl} {13 fl} {14 fl} {gn fl}
+	] def
+	/sl FMLOCAL
+	/val FMLOCAL
+	/ws FMLOCAL
+	/im FMLOCAL
+	/bs FMLOCAL
+	/cs FMLOCAL
+	/len FMLOCAL
+	/pos FMLOCAL
+/ms { 
+	/sl exch def 
+	/val 255 def 
+	/ws cfs 
+	/im cfs 
+	/val 0 def 
+	/bs cfs 
+	/cs cfs 
+	} bind def
+400 ms 
+/ip { 
+	is 
+	0 
+	cf cs readline pop 
+	{	ic exch get exec 
+		add 
+		} forall 
+	pop 
+	
+	} bind def
+/wh { 
+	/len exch def 
+	/pos exch def 
+	ws 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/bl { 
+	/len exch def 
+	/pos exch def 
+	bs 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/s1 1 string def
+/fl { 
+	/len exch def 
+	/pos exch def 
+	/val cf s1 readhexstring pop 0 get def
+	pos 1 pos len add 1 sub {im exch val put} for
+	pos len 
+	} bind def
+/hx { 
+	3 copy getinterval 
+	cf exch readhexstring pop pop 
+	} bind def
+	/h FMLOCAL
+	/w FMLOCAL
+	/d FMLOCAL
+	/lb FMLOCAL
+	/bitmapsave FMLOCAL
+	/is FMLOCAL
+	/cf FMLOCAL
+/wbytes { 
+	dup 
+	8 eq {pop} {1 eq {7 add 8 idiv} {3 add 4 idiv} ifelse} ifelse
+	} bind def
+/BEGINBITMAPBWc { 
+	1 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAPGRAYc { 
+	8 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAP2BITc { 
+	2 {} COMMONBITMAPc
+	} bind def
+/COMMONBITMAPc { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	r                    
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} image 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BEGINBITMAPBW { 
+	1 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAPGRAY { 
+	8 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAP2BIT { 
+	2 {} COMMONBITMAP
+	} bind def
+/COMMONBITMAP { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	r                    
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} image
+	bitmapsave restore 
+	grestore
+	} bind def
+	/proc1 FMLOCAL
+	/proc2 FMLOCAL
+	/newproc FMLOCAL
+/Fmcc {
+    /proc2 exch cvlit def
+    /proc1 exch cvlit def
+    /newproc proc1 length proc2 length add array def
+    newproc 0 proc1 putinterval
+    newproc proc1 length proc2 putinterval
+    newproc cvx
+} bind def
+/ngrayt 256 array def
+/nredt 256 array def
+/nbluet 256 array def
+/ngreent 256 array def
+	/gryt FMLOCAL
+	/blut FMLOCAL
+	/grnt FMLOCAL
+	/redt FMLOCAL
+	/indx FMLOCAL
+	/cynu FMLOCAL
+	/magu FMLOCAL
+	/yelu FMLOCAL
+	/k FMLOCAL
+	/u FMLOCAL
+/colorsetup {
+	currentcolortransfer
+	/gryt exch def
+	/blut exch def
+	/grnt exch def
+	/redt exch def
+	0 1 255 {
+		/indx exch def
+		/cynu 1 red indx get 255 div sub def
+		/magu 1 green indx get 255 div sub def
+		/yelu 1 blue indx get 255 div sub def
+		/k cynu magu min yelu min def
+		/u k currentundercolorremoval exec def
+		nredt indx 1 0 cynu u sub max sub redt exec put
+		ngreent indx 1 0 magu u sub max sub grnt exec put
+		nbluet indx 1 0 yelu u sub max sub blut exec put
+		ngrayt indx 1 k currentblackgeneration exec sub gryt exec put
+	} for
+	{255 mul cvi nredt exch get}
+	{255 mul cvi ngreent exch get}
+	{255 mul cvi nbluet exch get}
+	{255 mul cvi ngrayt exch get}
+	setcolortransfer
+	{pop 0} setundercolorremoval
+	{} setblackgeneration
+	} bind def
+	/tran FMLOCAL
+/fakecolorsetup {
+	/tran 256 string def
+	0 1 255 {/indx exch def 
+		tran indx
+		red indx get 77 mul
+		green indx get 151 mul
+		blue indx get 28 mul
+		add add 256 idiv put} for
+	currenttransfer
+	{255 mul cvi tran exch get 255.0 div}
+	exch Fmcc settransfer
+} bind def
+/BITMAPCOLOR { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	colorsetup
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} {is} {is} true 3 colorimage 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPCOLORc { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	colorsetup
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} {is} {is} true 3 colorimage
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPTRUECOLORc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip} {gip} {bip} true 3 colorimage
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUECOLOR { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop } 
+        { cf gis readhexstring pop } 
+        { cf bis readhexstring pop } 
+        true 3 colorimage 
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUEGRAYc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip gip bip w gray} image
+        bitmapsave restore 
+        grestore
+        } bind def
+/ww FMLOCAL
+/r FMLOCAL
+/g FMLOCAL
+/b FMLOCAL
+/i FMLOCAL
+/gray { 
+        /ww exch def
+        /b exch def
+        /g exch def
+        /r exch def
+        0 1 ww 1 sub { /i exch def r i get .299 mul g i get .587 mul
+			b i get .114 mul add add r i 3 -1 roll floor cvi put } for
+        r
+        } bind def
+/BITMAPTRUEGRAY { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop 
+          cf gis readhexstring pop 
+          cf bis readhexstring pop w gray}  image
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPGRAY { 
+	8 {fakecolorsetup} COMMONBITMAP
+	} bind def
+/BITMAPGRAYc { 
+	8 {fakecolorsetup} COMMONBITMAPc
+	} bind def
+/ENDBITMAP {
+	} bind def
+end 
+	/ALDsave FMLOCAL
+	/ALDmatrix matrix def ALDmatrix currentmatrix pop
+/StartALD {
+	/ALDsave save def
+	 savematrix
+	 ALDmatrix setmatrix
+	} bind def
+/InALD {
+	 restorematrix
+	} bind def
+/DoneALD {
+	 ALDsave restore
+	} bind def
+%%EndProlog
+%%BeginSetup
+(3.0) FMVERSION
+1 1 595.3 841.89 0 1 6 FMDOCUMENT
+0 0 /Times-Bold FMFONTDEFINE
+1 0 /Times-Roman FMFONTDEFINE
+2 0 /Times-Italic FMFONTDEFINE
+3 0 /Palatino-Italic FMFONTDEFINE
+4 0 /Courier FMFONTDEFINE
+32 FMFILLS
+0 0 FMFILL
+1 0.1 FMFILL
+2 0.3 FMFILL
+3 0.5 FMFILL
+4 0.7 FMFILL
+5 0.9 FMFILL
+6 0.97 FMFILL
+7 1 FMFILL
+8 <0f1e3c78f0e1c387> FMFILL
+9 <0f87c3e1f0783c1e> FMFILL
+10 <cccccccccccccccc> FMFILL
+11 <ffff0000ffff0000> FMFILL
+12 <8142241818244281> FMFILL
+13 <03060c183060c081> FMFILL
+14 <8040201008040201> FMFILL
+16 1 FMFILL
+17 0.9 FMFILL
+18 0.7 FMFILL
+19 0.5 FMFILL
+20 0.3 FMFILL
+21 0.1 FMFILL
+22 0.03 FMFILL
+23 0 FMFILL
+24 <f0e1c3870f1e3c78> FMFILL
+25 <f0783c1e0f87c3e1> FMFILL
+26 <3333333333333333> FMFILL
+27 <0000ffff0000ffff> FMFILL
+28 <7ebddbe7e7dbbd7e> FMFILL
+29 <fcf9f3e7cf9f3f7e> FMFILL
+30 <7fbfdfeff7fbfdfe> FMFILL
+%%EndSetup
+%%Page: "1" 1
+%%BeginPaperSize: A4
+%%EndPaperSize
+595.3 841.89 0 FMBEGINPAGE
+0 14 Q
+0 X
+0 K
+(Refer) 85.04 690.83 T
+(ence Model of Open Distributed Pr) 118.19 690.83 T
+(ocessing \050RM-ODP\051: Intr) 327.42 690.83 T
+(oduction) 478.72 690.83 T
+1 12 Q
+(Kerry Raymond) 85.04 660.16 T
+(kerry@dstc.edu.au) 85.04 638.16 T
+(CRC for Distributed Systems T) 85.04 624.16 T
+(echnology) 235.46 624.16 T
+(Centre for Information T) 85.04 610.16 T
+(echnology Research) 203.78 610.16 T
+(University of Queensland) 85.04 596.16 T
+(Brisbane 4072 Australia) 85.04 582.16 T
+0 F
+(Abstract) 85.04 562.16 T
+1 F
+(The Reference Model of Open Distributed Processing \050RM-ODP\051 was a joint ef) 85.04 544.16 T
+(fort by the) 468.21 544.16 T
+(international standards bodies ISO and ITU-T to develop a coordinating framework for the) 85.04 530.16 T
+(standardisation of open distributed processing \050ODP\051. The model describes an architecture) 85.04 516.16 T
+(within which support of distribution, interworking, interoperability and portability can be inte-) 85.04 502.16 T
+(grated. The RM-ODP framework de\336nes ODP concerns using \336ve \322viewpoints\323 \050abstrac-) 85.04 488.16 T
+(tions\051, namely enterprise, information, computational, engineering, and technology) 85.04 474.16 T
+(. This) 482.66 474.16 T
+(tutorial introduces the reference model, describing the viewpoints and some of the ODP func-) 85.04 460.16 T
+(tions and transparencies.) 85.04 446.16 T
+(Keyword Codes: C.2.4) 85.04 427.16 T
+(Keywords: Computer) 85.04 413.16 T
+(-Communication Networks, Distributed Systems) 188.4 413.16 T
+0 F
+(1. WHA) 85.04 385.16 T
+(T IS RM-ODP?) 126.13 385.16 T
+1 F
+(Advances in computer networking have allowed computer systems across the world to be) 85.04 366.16 T
+(interconnected. Despite this, heterogeneity in interaction models prevents interworking) 85.04 352.16 T
+(between systems. Open distributed processing \050ODP\051 describes systems that support heteroge-) 85.04 338.16 T
+(neous distributed processing both within and between or) 85.04 324.16 T
+(ganisations through the use of a com-) 355.65 324.16 T
+(mon interaction model.) 85.04 310.16 T
+(ISO and ITU-T \050formerly CCITT\051 have developed a Reference Model of Open Distributed) 85.04 291.16 T
+-0.29 (Processing \050RM-ODP\051 to provide a coordinating framework for the standardisation of ODP by) 85.04 277.16 P
+(creating an architecture which supports distribution, interworking, interoperability and porta-) 85.04 263.16 T
+(bility) 85.04 249.16 T
+(.) 109.59 249.16 T
+0 F
+(1.1. The Goals and Deliverables of RM-ODP) 85.04 225.16 T
+1 F
+(RM-ODP aims to achieve:) 85.04 206.16 T
+(\245) 85.04 187.16 T
+(portability of applications across heterogeneous platforms) 103.04 187.16 T
+(\245) 85.04 173.16 T
+(interworking between ODP systems, i.e. meaningful exchange of information and) 103.04 173.16 T
+(convenient use of functionality throughout the distributed system) 103.04 159.16 T
+(\245) 85.04 145.16 T
+(distribution transparency) 103.04 145.16 T
+(, i.e. hide the consequences of distribution from both the) 221.85 145.16 T
+(applications programmer and user) 103.04 131.16 T
+FMENDPAGE
+%%EndPage: "1" 2
+%%Page: "2" 2
+595.3 841.89 0 FMBEGINPAGE
+1 12 Q
+0 X
+0 K
+-0.41 (The reference model provides a \322big picture\323 that or) 85.04 748.85 P
+-0.41 (ganises the pieces of an ODP system into a) 332.71 748.85 P
+(coherent whole. It does not try to standardise the components of the system nor to unnecessar-) 85.04 734.85 T
+(ily in\337uence the choice of technology) 85.04 720.85 T
+(.) 265.14 720.85 T
+(There are many challenges in developing a reference model. RM-ODP must be adequate to) 85.04 701.85 T
+(describe most \322reasonable\323 distributed systems available both today and in the future, so RM-) 85.04 687.85 T
+(ODP is abstract, but not vague. RM-ODP carefully describes its components without prescrib-) 85.04 673.85 T
+(ing an implementation.) 85.04 659.85 T
+0 F
+(1.2. Structur) 85.04 635.85 T
+(e of RM-ODP) 149.78 635.85 T
+1 F
+(The RM-ODP standard is known as both ISO International Standard 10746 and ITU-T X.900) 85.04 616.85 T
+(Series of Recommendations and will consist of four parts:) 85.04 602.85 T
+(\245) 85.04 583.85 T
+(Part 1: Overview and Guide to Use \050ISO 10746-1/ITU-T X.901\051 [1]) 103.04 583.85 T
+(\245) 85.04 569.85 T
+(Part 2: Descriptive Model \050ISO 10746-2/ITU-T X.902\051 [2]) 103.04 569.85 T
+(\245) 85.04 555.85 T
+(Part 3: Prescriptive Model \050ISO 10746-3/ITU-T X.903\051 [3]) 103.04 555.85 T
+(\245) 85.04 541.85 T
+(Part 4: Architectural Semantics \050ISO 10746-4/ITU-T X.904\051 [4]) 103.04 541.85 T
+-0.43 (Part 1 contains a motivational overview of ODP and explains the key concepts of the RM-ODP) 85.04 522.85 P
+(architecture. Part 2 gives precise de\336nitions of the concepts required to specify distributed) 85.04 508.85 T
+-0.19 (processing systems. Part 3 prescribes a framework of concepts, structures, rules, and functions) 85.04 494.85 P
+-0.37 (required for open distributed processing. Part 4 describes how the modelling concepts of Part 2) 85.04 480.85 P
+(can be represented in a number of formal description techniques.) 85.04 466.85 T
+(This tutorial focuses on the framework established in Part 3.) 85.04 447.85 T
+0 F
+(1.3. Status of RM-ODP) 85.04 423.85 T
+1 F
+-0.28 (In January 1995, Parts 2 and 3 of RM-ODP were successfully balloted to become International) 85.04 404.85 P
+(Standards; of) 85.04 390.85 T
+(\336cial copies of the standard will be soon be available, after the necessary admin-) 148.45 390.85 T
+(istrative processing.) 85.04 376.85 T
+-0.34 (Parts 1 and 4 are based on Parts 2 and 3. Therefore, the standardisation of Parts 1 and 4 follows) 85.04 357.85 P
+-0.32 (the standardisation of Parts 2 and 3. Parts 1 and 4 are currently Committee Drafts and expected) 85.04 343.85 P
+(to become Draft International Standards in April 1995 and International Standards in early) 85.04 329.85 T
+(1996.) 85.04 315.85 T
+0 F
+(2. VIEWPOINTS) 85.04 287.85 T
+1 F
+(Part 3 of RM-ODP prescribes a framework using) 85.04 268.85 T
+2 F
+(viewpoints) 323.53 268.85 T
+1 F
+( from which to abstract or view) 374.84 268.85 T
+(ODP systems. A set of concepts, structures, and rules is given for each of the viewpoints, pro-) 85.04 254.85 T
+(viding a \322language\323 for specifying ODP systems in that viewpoint.) 85.04 240.85 T
+(RM-ODP de\336nes the following \336ve viewpoints:) 85.04 221.85 T
+(\245) 85.04 202.85 T
+(Enterprise V) 103.04 202.85 T
+(iewpoint \050purpose, scope and policies\051) 163.27 202.85 T
+(\245) 85.04 188.85 T
+(Information V) 103.04 188.85 T
+(iewpoint \050semantics of information and information processing\051) 171.27 188.85 T
+(\245) 85.04 174.85 T
+(Computational V) 103.04 174.85 T
+(iewpoint \050functional decomposition\051) 185.28 174.85 T
+(\245) 85.04 160.85 T
+(Engineering V) 103.04 160.85 T
+(iewpoint \050infrastructure required to support distribution\051) 172.6 160.85 T
+(\245) 85.04 146.85 T
+(T) 103.04 146.85 T
+(echnology V) 109.53 146.85 T
+(iewpoint \050choices of technology for implementation\051) 170.43 146.85 T
+(Specifying an ODP system using each of the viewpoint languages allows an otherwise lar) 85.04 127.85 T
+(ge) 514.86 127.85 T
+(and complex speci\336cation of an ODP system to be separated into manageable pieces, each) 85.04 113.85 T
+FMENDPAGE
+%%EndPage: "2" 3
+%%Page: "3" 3
+595.3 841.89 0 FMBEGINPAGE
+1 12 Q
+0 X
+0 K
+-0.33 (focused on the issues relevant to dif) 85.04 748.85 P
+-0.33 (ferent members of the development team. For example, the) 254.74 748.85 P
+-0.18 (information analyst works with the information speci\336cation while the systems programmer is) 85.04 734.85 P
+(concerned with the engineering viewpoint. Figure 1 shows how the RM-ODP viewpoints can) 85.04 720.85 T
+(be related to the software engineering process.) 85.04 706.85 T
+0 F
+(3. ENTERPRISE VIEWPOINT) 85.04 466.79 T
+1 F
+-0.25 (The enterprise viewpoint is used to or) 85.04 447.79 P
+-0.25 (ganisational requirements and structure. In the enterprise) 264.54 447.79 P
+(viewpoint, social and or) 85.04 433.79 T
+(ganizational policies can be de\336ned in terms of:) 200.08 433.79 T
+(\245) 85.04 414.79 T
+(objects \321 both \322active\323 objects, e.g. bank managers, tellers, customers, and \322passive\323) 103.04 414.79 T
+(objects, e.g. bank accounts, money) 103.04 400.79 T
+(\245) 85.04 386.79 T
+-0.32 (communities \321 groupings of objects intended to achieve some purpose, e.g. a bank branch) 103.04 386.79 P
+(consists of a bank manager) 103.04 372.79 T
+(, some tellers, and some bank accounts; the branch provides) 232.46 372.79 T
+(banking services to a geographical area) 103.04 358.79 T
+(\245) 85.04 344.79 T
+(roles of the objects within communities, expressed in terms of policies:) 103.04 344.79 T
+(*) 103.04 330.79 T
+(permission \321 what can be done, e.g. money can be deposited into an open account) 113.39 330.79 T
+(*) 103.04 316.79 T
+-0.26 (prohibition \321 what must not be done, e.g. customers must not withdraw more than $500) 113.39 316.79 P
+(per day) 113.39 302.79 T
+(*) 103.04 288.79 T
+(obligations \321 what must be done, e.g. the bank manager must advise customers when) 113.39 288.79 T
+(the interest rate changes) 113.39 274.79 T
+-0.47 (The enterprise language is speci\336cally concerned with) 85.04 255.79 P
+2 F
+-0.47 (performative actions) 345.19 255.79 P
+1 F
+-0.47 ( that change policy) 444.33 255.79 P
+-0.47 (,) 533.06 255.79 P
+-0.09 (such as creating an obligation or revoking permission. In a bank, the changing of interest rates) 85.04 241.79 P
+-0.11 (is a performative action as it creates obligations on the bank manager to inform the customers.) 85.04 227.79 P
+(However) 85.04 213.79 T
+(, obtaining an account balance is not a performative action as obligations, permis-) 128.52 213.79 T
+(sions, and prohibitions are not af) 85.04 199.79 T
+(fected. Thus, an enterprise speci\336cation of a bank need not) 242.06 199.79 T
+-0.04 (include the obtaining of account balances; such functionality will be identi\336ed in the computa-) 85.04 185.79 P
+(tional speci\336cation.) 85.04 171.79 T
+-0.13 (By preparing an enterprise speci\336cation of an ODP application, policies are determined by the) 85.04 152.79 P
+-0.1 (or) 85.04 138.79 P
+-0.1 (ganisation rather than imposed on the or) 94.82 138.79 P
+-0.1 (ganisation by technology \050implementation\051 choices.) 287.23 138.79 P
+(For example, a customer should not be limited to having only one bank account, simply) 85.04 124.79 T
+(because it was more convenient for the programmer) 85.04 110.79 T
+(.) 333.85 110.79 T
+85.04 104.89 538.59 756.85 C
+123.29 490.79 500.34 702.85 C
+1 12 Q
+0 X
+0 K
+(Enterprise) 208.33 680.5 T
+(Information) 143.93 630.89 T
+(Engineering) 206.38 592.07 T
+(T) 208.33 542.47 T
+(echnology) 214.82 542.47 T
+123.29 568.21 357.15 568.21 2 L
+1 H
+2 Z
+10 X
+N
+123.29 617.82 357.15 618.02 2 L
+N
+2 F
+0 X
+(Requir) 364.23 681.59 T
+(ements Analysis) 396.43 681.59 T
+(Functional Speci\336cation) 367.07 630.87 T
+(Design) 364.23 591.94 T
+(Implementation) 366.88 542.33 T
+185.96 646.58 179.98 646.16 182.61 651.55 3 L
+0.25 H
+0 Z
+N
+222.5 674.51 180.09 646.23 2 L
+2 Z
+N
+1 F
+(Computational) 271.65 630.89 T
+290.73 651.55 293.36 646.16 287.37 646.58 3 L
+0 Z
+N
+293.26 646.23 250.85 674.51 2 L
+2 Z
+N
+239.67 608.84 236.67 603.64 233.67 608.84 3 L
+0 Z
+N
+236.67 674.51 236.67 603.77 2 L
+2 Z
+N
+3 F
+8.4 (policy) 201.24 656.56 S
+123.29 669.73 357.15 670.06 2 L
+10 X
+N
+270.66 556.08 265.02 554.04 266.08 559.95 3 L
+0 Z
+0 X
+N
+324.68 625.08 265.1 554.13 2 L
+2 Z
+N
+207.52 559.99 208.32 554.04 202.77 556.32 3 L
+0 Z
+N
+153.96 624.93 208.25 554.13 2 L
+2 Z
+N
+239.67 559.23 236.67 554.04 233.67 559.23 3 L
+0 Z
+N
+236.67 589.47 236.67 554.16 2 L
+2 Z
+N
+202.74 609.59 203.57 603.64 198.01 605.9 3 L
+0 Z
+N
+187.07 624.96 203.5 603.74 2 L
+2 Z
+N
+270.77 605.34 265.02 603.64 266.42 609.48 3 L
+0 Z
+N
+285.45 625.05 265.11 603.73 2 L
+2 Z
+N
+126.86 500.8 497.34 514.97 R
+7 X
+V
+1 F
+0 X
+(Figure 1: RM-ODP Viewpoints and Software Engineering) 172.19 506.97 T
+85.04 104.89 538.59 756.85 C
+0 0 595.3 841.89 C
+FMENDPAGE
+%%EndPage: "3" 4
+%%Page: "4" 4
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(4. INFORMA) 85.04 748.85 T
+(TION VIEWPOINT) 154.77 748.85 T
+1 F
+-0.2 (The information viewpoint is used to describe the information required by an ODP application) 85.04 729.85 P
+(through the use of schemas, which describe the state and structure of an object; e.g., a bank) 85.04 715.85 T
+(account consists a balance and the \322amount withdrawn today\323.) 85.04 701.85 T
+0 (A) 85.04 682.85 P
+2 F
+0 (static schema) 96.69 682.85 P
+1 F
+0 ( captures the state and structure of a object at some particular instance; e.g., at) 161.64 682.85 P
+(midnight, the amount-withdrawn-today is $0.) 85.04 668.85 T
+(An) 85.04 649.85 T
+2 F
+(invariant schema) 102.7 649.85 T
+1 F
+( restricts the state and structure of an object at all times; e.g., the amount-) 185.64 649.85 T
+(withdrawn-today is less than or equal to $500.) 85.04 635.85 T
+(A) 85.04 616.85 T
+2 F
+(dynamic schema) 96.7 616.85 T
+1 F
+( de\336nes a permitted change in the state and structure of an object; e.g. a) 176.3 616.85 T
+-0.29 (withdrawal of $X from an account decreases the balance by $X and increases the amount-with-) 85.04 602.85 P
+-0.08 (drawn-today by $X. A dynamic schema is always constrained by the invariant schemas. Thus,) 85.04 588.85 P
+-0.15 ($400 could be withdrawn in the morning but an additional $200 could not be withdrawn in the) 85.04 574.85 P
+(afternoon as the amount-withdrawn-today cannot exceed $500.) 85.04 560.85 T
+(Schemas can also be used to describe relationships or associations between objects; e.g., the) 85.04 541.85 T
+(static schema \322owns account\323 could associate each account with a customer) 85.04 527.85 T
+(.) 448.76 527.85 T
+(A schema can be composed from other schemas to describe complex or composite objects;) 85.04 508.85 T
+(e.g., a bank branch consists of a set of customers, a set of accounts, and the \322owns account\323) 85.04 494.85 T
+(relationships.) 85.04 480.85 T
+(The information speci\336cation of an ODP application could be expressed using a variety of) 85.04 461.85 T
+(methods, e.g., entity-relationships models, conceptual schemas, and the) 85.04 447.85 T
+0 F
+(Z) 430.81 447.85 T
+1 F
+( formal description) 438.81 447.85 T
+(technique.) 85.04 433.85 T
+0 F
+(5. COMPUT) 85.04 405.85 T
+(A) 149.45 405.85 T
+(TIONAL VIEWPOINT) 157.22 405.85 T
+1 F
+(The computational viewpoint is used to specify the functionality of an ODP application in a) 85.04 386.85 T
+(distribution-transparent manner) 85.04 372.85 T
+(. RM-ODP\325) 235.94 372.85 T
+(s computational viewpoint is object-based, that is:) 291.92 372.85 T
+(\245) 85.04 353.85 T
+(objects encapsulate data and processing \050i.e. behaviour\051) 103.04 353.85 T
+(\245) 85.04 339.85 T
+(objects of) 103.04 339.85 T
+(fer interfaces for interaction with other objects) 149.79 339.85 T
+(\245) 85.04 325.85 T
+(objects can of) 103.04 325.85 T
+(fer multiple interfaces.) 169.44 325.85 T
+(A computational speci\336cation de\336nes the objects within an ODP system, the activities within) 85.04 306.85 T
+(those objects, and the interactions that occur among objects. Most objects in a computational) 85.04 292.85 T
+(speci\336cation describe application functionality) 85.04 278.85 T
+(, and these objects are linked by bindings) 308.44 278.85 T
+(through which interactions occur) 85.04 264.85 T
+(. Binding objects are used to describe complex interaction) 242.6 264.85 T
+(between objects.) 85.04 250.85 T
+(Objects in a computational speci\336cation can be application objects \050e.g. a bank branch\051 or) 85.04 231.85 T
+(ODP infrastructure objects \050e.g. a type repository or a trader) 85.04 217.85 T
+(, see Section 8.3.1 and Section) 373.33 217.85 T
+(8.3.2\051. Figure 2 illustrates a bank branch object providing a bank teller interface and a bank) 85.04 203.85 T
+(manager interface. Both interfaces can be used to deposit and withdraw money) 85.04 189.85 T
+(, but accounts) 462.63 189.85 T
+(can be created only through the bank manager interface. Each of the bank branch object\325) 85.04 175.85 T
+(s) 509.68 175.85 T
+(interfaces is bound to a customer object.) 85.04 161.85 T
+FMENDPAGE
+%%EndPage: "4" 5
+%%Page: "5" 5
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(5.1. Computational Interaction) 85.04 562.25 T
+1 F
+(RM-ODP provides three forms of interaction between objects: operational, stream-oriented,) 85.04 543.25 T
+(and signal-oriented.) 85.04 529.25 T
+-0.08 (Operational interfaces provide a client-server model for distributed computing\321client objects) 85.04 510.25 P
+(invoke operations at the interfaces of server objects \050i.e. the remote procedure call paradigm\051.) 85.04 496.25 T
+(Operational interfaces consist of named operations with parameters, terminations, and results.) 85.04 482.25 T
+(Operations in RM-ODP can be either interrogations \050which return a termination\051 or announce-) 85.04 468.25 T
+(ments \050which do not return a termination\051.) 85.04 454.25 T
+-0.45 (For example, a bank branch object of) 85.04 435.25 P
+-0.45 (fers a number of BankT) 260.96 435.25 P
+-0.45 (eller operational interfaces, whose) 372.88 435.25 P
+(signature is de\336ned as:) 85.04 421.25 T
+4 F
+(BankTeller = Interface Type {) 85.04 402.25 T
+(operation Deposit \050c: Customer, a: Account, d: Dollars\051) 99.22 374.25 T
+(returns OK \050new_balance: Dollars\051) 113.39 360.25 T
+(returns Error \050reason: Text\051;) 113.39 346.25 T
+(operation Withdraw \050c: Customer, a: Account, d: Dollars\051) 99.22 318.25 T
+(returns OK \050new_balance: Dollars\051) 113.39 304.25 T
+(returns NotToday \050today: Dollars, daily_limit: Dollars\051) 113.39 290.25 T
+(returns Error \050reason: Text\051;) 113.39 276.25 T
+(}) 85.04 262.25 T
+1 F
+-0.05 (Note that the notation used in the example above is merely illustrative. RM-ODP does not pre-) 85.04 243.25 P
+(scribe any particular notation for de\336ning operational interface types.) 85.04 229.25 T
+(Stream interfaces provide \050logically\051 continuous streams of information \337owing between pro-) 85.04 210.25 T
+(ducer and consumer objects. Consumer objects connect to the stream interfaces of producer) 85.04 196.25 T
+(objects or vice-versa, and several streams can be grouped in a single interface, e.g., an audio) 85.04 182.25 T
+(stream and a video stream. Stream interfaces have been included in RM-ODP to cater for) 85.04 168.25 T
+(multi-media and telecommunications applications.) 85.04 154.25 T
+85.04 104.89 538.59 756.85 C
+92.36 570.25 531.27 756.85 C
+387.32 647.74 453.48 679.28 15.77 RR
+7 X
+0 K
+V
+1 H
+0 Z
+0 X
+N
+387.32 694.66 453.48 726.2 15.77 RR
+7 X
+V
+0 X
+N
+382.7 690.81 448.86 722.35 15.77 RR
+7 X
+V
+0 X
+N
+382.7 643.89 448.86 675.43 15.77 RR
+7 X
+V
+0 X
+N
+378.86 686.97 445.01 718.51 15.77 RR
+7 X
+V
+0 X
+N
+1 12 Q
+(Customer) 390.4 707.74 T
+(Info) 390.4 695.74 T
+378.09 640.81 444.24 672.35 15.77 RR
+7 X
+V
+0 X
+N
+(Account) 391.94 661.58 T
+(Info) 391.94 649.58 T
+7 X
+0 90 57.69 26.54 453.48 683.89 G
+458.59 707.31 453.47 710.43 458.73 713.31 3 L
+0 X
+N
+2 Z
+0 90 57.69 26.54 453.48 683.89 A
+7 X
+270 360 57.69 20.39 453.48 683.89 G
+458.72 660.61 453.47 663.51 458.61 666.61 3 L
+0 Z
+0 X
+N
+2 Z
+270 360 57.69 20.39 453.48 683.89 A
+(owns) 463.48 690.82 T
+(account) 463.48 678.82 T
+0 Z
+90 450 86.54 58.46 436.94 680.82 A
+356.19 704.74 275.78 704.74 2 L
+2 H
+2 Z
+N
+(Bank Manager) 278.59 657.78 T
+(Interface) 278.59 641.47 T
+360.8 651.66 275.01 651.66 2 L
+N
+(Bank T) 279.7 708.47 T
+(eller) 314.51 708.47 T
+(Interface) 279.7 695.35 T
+(Bank Branch Object) 388.09 612.35 T
+275.01 713.89 275.01 695.43 2 L
+N
+275.01 660.81 275.01 642.35 2 L
+N
+157.47 705.51 176.47 705.51 2 L
+N
+176.65 714.66 176.65 696.2 2 L
+N
+158.47 652.01 175.98 652.01 2 L
+N
+176.15 661.16 176.15 642.7 2 L
+N
+(Customer) 103.82 711.39 T
+(Object 1) 103.82 699.39 T
+1 H
+0 Z
+90 450 30 18.75 126.82 708.14 A
+(Customer) 104.82 650.72 T
+(Object 2) 104.82 638.56 T
+90 450 30 19 127.82 647.39 A
+188.11 701.39 180.32 705.89 188.11 710.39 3 L
+2 H
+N
+263.52 710.39 271.32 705.89 263.52 701.39 3 L
+N
+180.32 705.89 271.32 705.89 2 L
+N
+186.61 647.39 178.82 651.89 186.61 656.39 3 L
+N
+265.02 656.39 272.82 651.89 265.02 647.39 3 L
+N
+178.82 651.89 272.82 651.89 2 L
+N
+(Deposit) 192.32 666.39 T
+(W) 192.32 654.39 T
+(ithdraw) 203.16 654.39 T
+(CreateAccount) 192.32 642.39 T
+(Deposit) 197.32 721.39 T
+(W) 197.32 709.39 T
+(ithdraw) 208.16 709.39 T
+97.72 576.85 524.79 593.09 R
+7 X
+V
+0 X
+(Figure 2: Bank Branch Object with Bank Manager and Bank Teller Interfaces) 124.57 585.09 T
+85.04 104.89 538.59 756.85 C
+0 0 595.3 841.89 C
+FMENDPAGE
+%%EndPage: "5" 6
+%%Page: "6" 6
+595.3 841.89 0 FMBEGINPAGE
+1 12 Q
+0 X
+0 K
+(Underlying both operational interfaces and stream interfaces are signal interfaces which pro-) 85.04 748.85 T
+(vide very low-level communications actions. The OSI service primitives \050REQUEST) 85.04 734.85 T
+(, INDI-) 493.21 734.85 T
+(CA) 85.04 720.85 T
+(TE, RESPONSE, and CONFIRM\051 are examples of signals.) 100.37 720.85 T
+0 F
+(5.1.1. Interface Subtyping) 85.04 696.85 T
+1 F
+(The concept of interface type is particularly important in RM-ODP) 85.04 679.85 T
+(. Interfaces in the computa-) 405.15 679.85 T
+-0.16 (tional model are strongly typed and inheritance of an interface type \050usually\051 creates a subtype) 85.04 665.85 P
+(relationship. Subtypes of an interface type are substitutable for the parent type \050or any super) 85.04 651.85 T
+(-) 526.14 651.85 T
+(type\051.) 85.04 637.85 T
+-0.41 (Figure 3 illustrates interface subtyping.The BankManager and LoansOf) 85.04 618.85 P
+-0.41 (\336cer interface types are) 425.02 618.85 P
+-0.35 (subtypes of the BankT) 85.04 604.85 P
+-0.35 (eller interface \050super) 191.43 604.85 P
+-0.35 (-\051type; either can substitute for a BankT) 289.73 604.85 P
+-0.35 (eller as they) 478.67 604.85 P
+(can perform the Deposit and W) 85.04 590.85 T
+(ithdraw operations expected of a BankT) 235.44 590.85 T
+(eller) 426.78 590.85 T
+(. Neither a Bank-) 447.44 590.85 T
+(T) 85.04 576.85 T
+(eller nor a LoansOf) 91.53 576.85 T
+(\336cer can replace a BankManager) 184.9 576.85 T
+(, as neither can provide the CreateAc-) 342.27 576.85 T
+(count operation.) 85.04 562.85 T
+0 F
+(5.2. Computational Activity) 85.04 338.36 T
+1 F
+(The computational viewpoint also de\336nes the actions that are possible within a computational) 85.04 319.36 T
+(object. These are:) 85.04 305.36 T
+(\245) 85.04 286.36 T
+(creating and destroying an object) 103.04 286.36 T
+(\245) 85.04 272.36 T
+(creating and destroying an interface) 103.04 272.36 T
+(\245) 85.04 258.36 T
+(trading for a interface \050see Section 8.3.2\051) 103.04 258.36 T
+(\245) 85.04 244.36 T
+(binding to an interface) 103.04 244.36 T
+(\245) 85.04 230.36 T
+(reading and writing the state of the object) 103.04 230.36 T
+(\245) 85.04 216.36 T
+(invoking an operation at an operational interface) 103.04 216.36 T
+(\245) 85.04 202.36 T
+(producing/consuming a \337ow at a stream interface) 103.04 202.36 T
+(\245) 85.04 188.36 T
+(initiating or responding to a signal at a signal interface.) 103.04 188.36 T
+(These basic actions can be composed in sequence or in parallel. If composed in parallel, the) 85.04 169.36 T
+(parallel activities can be dependent \050the activity is forked and must subsequently join at a syn-) 85.04 155.36 T
+(chronisation point\051 or independent \050the activity is spawned and cannot join\051.) 85.04 141.36 T
+85.04 104.89 538.59 756.85 C
+169.83 358.36 453.8 558.85 C
+254.87 487.99 368.25 523.42 17.72 RR
+7 X
+0 K
+V
+1 H
+0 Z
+0 X
+N
+184 395.86 297.39 445.47 18 RR
+7 X
+V
+0 X
+N
+325.73 395.86 439.12 445.47 18 RR
+7 X
+V
+0 X
+N
+1 12 Q
+(Deposit \050\051) 276.13 509.25 T
+(W) 276.13 497.25 T
+(ithdraw \050\051) 286.97 497.25 T
+(Deposit \050\051) 205.26 431.3 T
+(W) 205.26 419.3 T
+(ithdraw \050\051) 216.1 419.3 T
+(CreateAccount \050\051) 205.26 407.3 T
+(Deposit \050\051) 342 431.3 T
+(W) 342 419.3 T
+(ithdraw \050\051) 352.84 419.3 T
+(ApproveLoan \050\051) 342 407.3 T
+0 F
+(BankT) 283.21 533.11 T
+(eller) 317.44 533.11 T
+(BankManager) 198.17 452.56 T
+(LoansOf\336cer) 362.29 451.43 T
+355.2 451.05 354.07 445.16 349.54 449.08 3 L
+N
+339.28 487.99 353.92 445.63 2 L
+7 X
+V
+2 Z
+0 X
+N
+2 F
+(subtype) 240.69 469.2 T
+280.57 449.5 276.12 445.47 274.85 451.34 3 L
+0 Z
+N
+289.7 487.99 276.28 445.94 2 L
+7 X
+V
+2 Z
+0 X
+N
+(subtype) 352.86 469.2 T
+184 360.43 438.35 381.69 R
+7 X
+V
+1 F
+0 X
+(Figure 3: Example of Interface Subtyping) 211.08 373.69 T
+85.04 104.89 538.59 756.85 C
+0 0 595.3 841.89 C
+FMENDPAGE
+%%EndPage: "6" 7
+%%Page: "7" 7
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(5.3. Envir) 85.04 748.85 T
+(onment Contracts) 135.14 748.85 T
+1 F
+(The re\336nement of a computational object and its interfaces might require the speci\336cation of) 85.04 729.85 T
+(requirements on the realization of that object or its interfaces \050and, hence, of the objects with) 85.04 715.85 T
+(which it interacts\051. For example, a bank must protect the customer) 85.04 701.85 T
+(\325) 403.26 701.85 T
+(s money and must ensure) 406.6 701.85 T
+(that interaction is secure against a variety of fraudulent activities, e.g. capturing and replaying) 85.04 687.85 T
+(operations. Therefore, the actual interactions must either be communicated over a secure net-) 85.04 673.85 T
+(work or employ end-to-end security checks.) 85.04 659.85 T
+(Ideally) 85.04 640.85 T
+(, environment contracts will be expressed in high-level quality-of-service terms rather) 117.57 640.85 T
+(than, e.g., specifying a particular network or a particular encryption scheme \050either of which) 85.04 626.85 T
+(presupposes the environment in which the ODP system will operate\051.) 85.04 612.85 T
+-0.25 (Currently) 85.04 593.85 P
+-0.25 (, the state of the art falls short of this ideal. However) 130.23 593.85 P
+-0.25 (, it is important that RM-ODP be) 379.11 593.85 P
+(\322future-proof\323, capable of incorporating both current and expected future technologies.) 85.04 579.85 T
+0 F
+(6. ENGINEERING VIEWPOINT) 85.04 551.85 T
+1 F
+-0.1 (The engineering viewpoint is used to describe the design of distribution-oriented aspects of an) 85.04 532.85 P
+(ODP system; it de\336nes a model for distributed systems infrastructure. The engineering view-) 85.04 518.85 T
+(point is not concerned with the semantics of the ODP application, except to determine its) 85.04 504.85 T
+(requirements for distribution and distribution transparency) 85.04 490.85 T
+(.) 365.08 490.85 T
+(The fundamental entities described in the engineering viewpoint are objects and channels.) 85.04 471.85 T
+(Objects in the engineering viewpoint can be divided into two categories\321basic engineering) 85.04 457.85 T
+-0.22 (objects \050corresponding to objects in the computational speci\336cation\051 and infrastructure objects) 85.04 443.85 P
+-0.03 (\050e.g., a protocol object \321 see below\051. A channel corresponds to a binding or binding object in) 85.04 429.85 P
+(the computational speci\336cation.) 85.04 415.85 T
+0 F
+(6.1. Channels) 85.04 391.85 T
+1 F
+(A channel provides the communication mechanism and contains or controls the transparency) 85.04 372.85 T
+(functions required by the basic engineering objects, as speci\336ed in the environment contracts) 85.04 358.85 T
+-0.11 (in the computational speci\336cation. Figure 4 illustrates the channel between a Customer Object) 85.04 344.85 P
+(and the Bank Branch object in Figure 2. The shaded area is the channel, composed of stubs,) 85.04 330.85 T
+(binders, and protocol objects. Stubs and binders are used to provide various distribution trans-) 85.04 316.85 T
+(parencies.) 85.04 302.85 T
+85.04 104.89 538.59 756.85 C
+102.35 109.93 521.28 298.85 C
+111.16 242.89 215.42 242.89 215.42 177.98 400.94 177.98 400.94 241.92 511.16 241.92 511.16 145.86
+ 192.42 145.86 111.16 145.86 111.16 161.4 10 Y
+5 X
+0 K
+V
+412.7 170.95 354.77 210.51 2 L
+V
+1 H
+2 Z
+10 X
+N
+412.7 197.88 354.77 237.43 2 L
+5 X
+V
+10 X
+N
+411.16 223.26 353.24 262.82 2 L
+5 X
+V
+10 X
+N
+202.46 170.95 260.39 210.51 2 L
+5 X
+V
+10 X
+N
+202.46 197.88 260.39 237.43 2 L
+5 X
+V
+10 X
+N
+204 223.26 261.93 262.82 2 L
+5 X
+V
+10 X
+N
+457.2 244.01 457.47 163.58 2 L
+5 X
+V
+2 H
+0 X
+N
+1 H
+0 Z
+90 450 42.69 24.13 457.2 268.14 A
+90 450 42.69 24.13 163.35 268.14 A
+1 12 Q
+(Customer) 138.85 273.59 T
+(Object) 146.85 261.39 T
+(Bank Branch) 428.85 272.05 T
+(Object) 440.07 260.05 T
+410.39 215.12 500.85 238.2 11.54 RR
+7 X
+V
+2 H
+0 X
+N
+410.39 184.35 500.85 207.43 11.54 RR
+7 X
+V
+0 X
+N
+412.24 151.28 502.7 175.89 12.31 RR
+7 X
+V
+0 X
+N
+(Stub) 443.56 222.33 T
+(Binder) 442.7 192.5 T
+(Protocol Object) 418.08 161.12 T
+162.58 244.01 162.85 163.58 2 L
+7 X
+V
+2 Z
+0 X
+N
+115.77 215.12 206.23 238.2 11.54 RR
+7 X
+V
+0 Z
+0 X
+N
+115.77 184.35 206.23 207.43 11.54 RR
+7 X
+V
+0 X
+N
+117.62 151.28 208.08 175.89 12.31 RR
+7 X
+V
+0 X
+N
+(Stub) 149.97 224.54 T
+(Binder) 143.71 193.12 T
+(Protocol Object) 123.46 161.12 T
+(Supporting Object) 265 261.28 T
+260.39 254.35 357.31 274.35 10 RR
+N
+(Supporting Object) 265 234.35 T
+260.39 227.43 357.31 247.43 10 RR
+N
+(Supporting Object) 265 207.43 T
+260.39 200.51 357.31 220.51 10 RR
+N
+208.08 163.58 412.24 163.58 2 L
+2 Z
+N
+216.54 169.74 216.54 155.89 2 L
+N
+399.62 169.74 399.62 155.89 2 L
+N
+122.69 116.66 498.08 135.12 R
+7 X
+V
+0 X
+(Figure 4: Structure of a Channel) 232.94 127.12 T
+(Channel) 278.81 182.89 T
+(Communications Interface) 243.46 152.81 T
+85.04 104.89 538.59 756.85 C
+0 0 595.3 841.89 C
+FMENDPAGE
+%%EndPage: "7" 8
+%%Page: "8" 8
+595.3 841.89 0 FMBEGINPAGE
+1 12 Q
+0 X
+0 K
+(Stubs are used when the transparency involves some knowledge of the application semantics,) 85.04 748.85 T
+(e.g., maintaining a log of operations for an audit trail.) 85.04 734.85 T
+(Binders are used when application semantics are not required; they merely transport the mes-) 85.04 715.85 T
+(sages \050bit streams\051. Binders are responsible for managing the binding between the basic engi-) 85.04 701.85 T
+(neering objects; e.g., binders could use sequence numbers to foil capture-and-replay attempts.) 85.04 687.85 T
+(Protocol objects interact via a communications interface; this models networking.) 85.04 668.85 T
+(Outside of the channel, supporting objects assist the stub, binder) 85.04 649.85 T
+(, and protocol objects within) 393.37 649.85 T
+-0.35 (the channel. T) 85.04 635.85 P
+-0.35 (ypically) 151.79 635.85 P
+-0.35 (, supporting objects are repositories of information required by the stubs,) 189.65 635.85 P
+-0.26 (binders, and protocol objects. For example, binders register and retrieve interface locations via) 85.04 621.85 P
+(a supporting object known as the relocator \050see Section 8.3.3\051 in order to achieve location) 85.04 607.85 T
+(transparency) 85.04 593.85 T
+(.) 145.54 593.85 T
+0 F
+(6.2. Engineering Structur) 85.04 569.85 T
+(es) 215.42 569.85 T
+1 F
+(The RM-ODP engineering viewpoint prescribes the structure of an ODP system. The basic) 85.04 550.85 T
+(units of structure are:) 85.04 536.85 T
+(\245) 85.04 517.85 T
+(cluster \321 a set of related basic engineering objects that will always be co-located) 103.04 517.85 T
+(\245) 85.04 503.85 T
+(capsule \321 a set of clusters, a cluster manager for each cluster) 103.04 503.85 T
+(, a capsule manager) 398.31 503.85 T
+(, and the) 492.41 503.85 T
+(parts of the channels which connect to their interfaces) 103.04 489.85 T
+(\245) 85.04 475.85 T
+(nucleus object \321 an \050extended\051 operating system supporting ODP) 103.04 475.85 T
+(\245) 85.04 461.85 T
+(node \321 a computer system) 103.04 461.85 T
+(Figure 5 illustrates the structure of a node.) 85.04 442.85 T
+85.04 146.09 538.59 438.85 C
+200.15 304.73 333 304.73 2 L
+2 H
+2 Z
+0 X
+0 K
+N
+307.15 338.75 368.58 338.75 2 L
+N
+386.22 400.13 386.22 326.55 2 L
+N
+381.72 392.42 391.72 392.42 2 L
+N
+381.22 388.05 391.22 388.05 2 L
+N
+346.22 400.13 346.22 355.05 2 L
+N
+341.22 389.71 351.22 389.71 2 L
+N
+341.22 385.5 351.22 385.5 2 L
+N
+271.43 400.09 271.43 326.55 2 L
+N
+266.93 390.51 275 390.51 2 L
+N
+266.43 386.55 275.66 386.55 2 L
+N
+235.01 314 307.15 355.2 18 RR
+7 X
+V
+1 H
+0 Z
+0 X
+N
+1 12 Q
+(Basic) 245.01 340.92 T
+(Engineering) 245.01 331.3 T
+(Object) 245.01 321.69 T
+91.54 203.42 535.39 424.68 R
+N
+100.77 400.86 527.7 419.74 9.44 RR
+N
+(Nucleus object) 256.16 407.61 T
+100.99 242.18 486.38 379.59 18 RR
+N
+499.24 245.89 527.7 374.21 14.23 RR
+11 X
+N
+0 X
+(More capsules) 0 -90 513.09 364.88 TF
+110.22 278.08 322.09 360.97 18 RR
+N
+332.75 269.22 356.93 360.7 12.09 RR
+7 X
+V
+0 X
+N
+368.91 270.05 399.68 361.03 15.39 RR
+7 X
+V
+0 X
+N
+411.55 266.7 442.32 360.42 15.39 RR
+11 X
+N
+450.78 266.83 477.7 361.95 13.46 RR
+N
+0 X
+(More Cluster) 0 -90 431.96 341.83 TF
+(Managers) 0 -90 419.96 342.71 TF
+(More Clusters) 0 -90 463.08 350.71 TF
+(Capsule Manager) 0 -90 383.52 358.46 TF
+(Cluster Manager) 0 -90 342.15 353.46 TF
+(Capsule) 425.72 246.59 T
+(Basic) 136.43 316.59 T
+(Engineering) 136.43 304.82 T
+(Object) 136.43 293.04 T
+126.43 282.99 198.58 333.47 18 RR
+N
+164.29 399.74 164.29 334.24 2 L
+2 H
+2 Z
+N
+159.29 388.75 170 388.75 2 L
+N
+159.29 384.54 169.29 384.54 2 L
+N
+(Cluster) 250.01 287.15 T
+360.22 344.46 360.22 335.18 2 L
+N
+364.22 344.46 364.22 335.18 2 L
+N
+329.72 343.96 329.72 334.68 2 L
+N
+324.72 343.96 324.72 334.68 2 L
+N
+330.22 309.84 330.22 300.73 2 L
+N
+325.22 309.78 325.22 300.73 2 L
+N
+198 315.66 235 338.24 2 L
+N
+210 328.91 214.22 321.34 2 L
+N
+214.5 332.35 218.22 324.29 2 L
+N
+154.96 193.05 173.5 261.15 R
+5 X
+V
+0 Z
+N
+0 X
+(Channel) 0 -90 160.96 248.36 TF
+335.23 193.8 353 255.15 R
+5 X
+V
+N
+0 X
+(Channel) 0 -90 340.98 245.61 TF
+375.5 193.81 392.5 255.91 R
+5 X
+V
+N
+0 X
+(Channel) 0 -90 381 246.01 TF
+165.5 277.87 165.5 262.28 2 L
+5 X
+V
+2 Z
+0 X
+N
+159.29 271.6 170 271.6 2 L
+5 X
+V
+0 X
+N
+159.29 267.4 171 267.4 2 L
+5 X
+V
+0 X
+N
+378.79 265.4 389.5 265.4 2 L
+5 X
+V
+0 X
+N
+378.79 259.81 388.79 259.81 2 L
+5 X
+V
+0 X
+N
+384 269.53 384 256.77 2 L
+5 X
+V
+0 X
+N
+339.29 265.19 350 265.19 2 L
+5 X
+V
+0 X
+N
+339.29 259.98 349.29 259.98 2 L
+5 X
+V
+0 X
+N
+344.5 269.04 344.5 257.15 2 L
+5 X
+V
+0 X
+N
+93.85 158.2 532.32 178.97 R
+7 X
+V
+0 X
+(Figure 5: Structure of a Node) 242.63 170.97 T
+(Node) 500.01 208.22 T
+0 0 595.3 841.89 C
+FMENDPAGE
+%%EndPage: "8" 9
+%%Page: "9" 9
+595.3 841.89 0 FMBEGINPAGE
+1 12 Q
+0 X
+0 K
+(Given these de\336nitions, the following structuring rules are de\336ned:) 85.04 748.85 T
+(\245) 85.04 729.85 T
+(a node has a nucleus object) 103.04 729.85 T
+(\245) 85.04 715.85 T
+(a nucleus object can support many capsules) 103.04 715.85 T
+(\245) 85.04 701.85 T
+(a capsule can contain many clusters) 103.04 701.85 T
+(\245) 85.04 687.85 T
+(a cluster can contain many basic engineering objects) 103.04 687.85 T
+(\245) 85.04 673.85 T
+(a basic engineering object can contain many activities) 103.04 673.85 T
+(\245) 85.04 659.85 T
+(all inter) 103.04 659.85 T
+(-cluster communication is via channels) 139.78 659.85 T
+-0.17 (An implementation of an ODP system can choose to constrain the structuring, for example, by) 85.04 640.85 P
+(allowing:) 85.04 626.85 T
+(\245) 85.04 607.85 T
+(only one object per cluster) 103.04 607.85 T
+(\245) 85.04 593.85 T
+(only one cluster per capsule) 103.04 593.85 T
+0 F
+(7. TECHNOLOGY VIEWPOINT) 85.04 565.85 T
+1 F
+-0.2 (A technology speci\336cation of an ODP system describes the implementation of that system and) 85.04 546.85 P
+(the information required for testing. RM-ODP has very few rules applicable to technology) 85.04 532.85 T
+(speci\336cations.) 85.04 518.85 T
+0 F
+(8. ODP FUNCTIONS) 85.04 490.85 T
+1 F
+(The ODP functions are a collection of functions expected to be required in ODP systems to) 85.04 471.85 T
+-0.39 (support the needs of the computational language \050e.g. the trading function\051 and the engineering) 85.04 457.85 P
+(language \050e.g. the relocator\051. The following subsections outline the major function groups in) 85.04 443.85 T
+(RM-ODP; a few of the functions are discussed in more detail to illustrate the scope of RM-) 85.04 429.85 T
+(ODP) 85.04 415.85 T
+(.) 107.7 415.85 T
+0 F
+(8.1. Management Functions) 85.04 391.85 T
+1 F
+(RM-ODP de\336nes a number of functions to manage the engineering structures, including:) 85.04 372.85 T
+(\245) 85.04 353.85 T
+(node management function \050provided by the nucleus\051 for creating capsules and channels) 103.04 353.85 T
+(\245) 85.04 339.85 T
+(capsule management function \050provided by the capsule manager\051 for instantiating clusters) 103.04 339.85 T
+(and checkpointing and deactivating clusters in a capsule) 103.04 325.85 T
+(\245) 85.04 311.85 T
+(cluster management function \050provided by the cluster manager\051 for checkpointing,) 103.04 311.85 T
+(deactivating and migrating clusters) 103.04 297.85 T
+(\245) 85.04 283.85 T
+(object management function \050provided by the basic engineering object\051 for checkpointing) 103.04 283.85 T
+(and deleting basic engineering objects) 103.04 269.85 T
+0 F
+(8.2. Coordination Functions) 85.04 245.85 T
+1 F
+(RM-ODP de\336nes a number of functions aimed at coordinating the actions of a number of) 85.04 226.85 T
+(objects, clusters, or capsules in order to produce some consistent overall ef) 85.04 212.85 T
+(fect. These include:) 443.56 212.85 T
+(\245) 85.04 193.85 T
+(checkpoint and recovery) 103.04 193.85 T
+(\245) 85.04 179.85 T
+(deactivation and reactivation) 103.04 179.85 T
+(\245) 85.04 165.85 T
+(event noti\336cation) 103.04 165.85 T
+(\245) 85.04 151.85 T
+(groups and replication) 103.04 151.85 T
+(\245) 85.04 137.85 T
+(migration) 103.04 137.85 T
+(\245) 85.04 123.85 T
+(transactions) 103.04 123.85 T
+FMENDPAGE
+%%EndPage: "9" 10
+%%Page: "10" 10
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(8.2.1. Transaction Function) 85.04 748.85 T
+1 F
+(In the information viewpoint, state change appears to happen as a single indivisible action.) 85.04 731.85 T
+(However) 85.04 717.85 T
+(, in a computational and engineering viewpoints, this state might be distributed) 128.52 717.85 T
+-0.03 (throughout the ODP system and be concurrently accessed by many parallel activities. In order) 85.04 703.85 P
+-0.11 (to develop reliable ODP systems, it will be necessary to coordinate the behaviour of objects to) 85.04 689.85 P
+(achieve the desired degrees of:) 85.04 675.85 T
+(\245) 85.04 656.85 T
+(visibility \321 the degree to which the intermediate ef) 103.04 656.85 T
+(fects of an operation \050or other) 350.66 656.85 T
+(interaction\051 are visible to other operations) 103.04 642.85 T
+(\245) 85.04 628.85 T
+(recoverability \321 the state after the failure of the operation \050which of its ef) 103.04 628.85 T
+(fects are) 458.88 628.85 T
+(undone?\051) 103.04 614.85 T
+(\245) 85.04 600.85 T
+(permanence \321 the consequences of the failure of the operation on completed operations) 103.04 600.85 T
+(\050are their ef) 103.04 586.85 T
+(fects altered?\051) 158.76 586.85 T
+(RM-ODP de\336nes a) 85.04 567.85 T
+(very generalised transaction function; this is another example of \322future-) 179.98 567.85 T
+(proo\336ng\323 in RM-ODP) 85.04 553.85 T
+(. Realistically) 191.65 553.85 T
+(, the ACID transaction model will be the only style of) 256.84 553.85 T
+(transaction mechanism supported by most ODP systems for a number of years. Consequently) 85.04 539.85 T
+(,) 532.3 539.85 T
+-0.01 (RM-ODP de\336nes an ACID transaction function as specialisation of its generalised transaction) 85.04 525.85 P
+(function.) 85.04 511.85 T
+0 F
+(8.3. Repository Functions) 85.04 487.85 T
+1 F
+(In addition to a general storage function and a general relationship repository) 85.04 468.85 T
+(, RM-ODP) 454.32 468.85 T
+(de\336nes a number of speci\336c repository functions, concerned with maintaining a database of) 85.04 454.85 T
+(specialised classes of information.) 85.04 440.85 T
+0 F
+(8.3.1. Type Repository) 85.04 416.85 T
+1 F
+(In most computer systems, type de\336nitions are not explicitly maintained within the system.) 85.04 399.85 T
+-0.27 (Instead, types are documented in manuals or de\336ned according to some local conventions \050e.g.) 85.04 385.85 P
+-0.13 (use of mnemonic \336le names\051. ODP systems must make type information available through the) 85.04 371.85 P
+(ODP system itself; the primary need is to support type checking during trading and interface) 85.04 357.85 T
+(binding.) 85.04 343.85 T
+(In RM-ODP) 85.04 324.85 T
+(, the type repository is a registry for type de\336nitions, particularly for interface) 143.34 324.85 T
+(types.The type registry maintains a type hierarchy \050subtype relationships\051 and other relation-) 85.04 310.85 T
+(ships between types.) 85.04 296.85 T
+0 F
+(8.3.2. Trader) 85.04 272.85 T
+1 F
+(The ODP T) 85.04 255.85 T
+(rader provides \322a dating service for objects\323; its purpose is to support dynamic) 140.59 255.85 T
+-0.11 (binding by allowing services to be discovered at run-time. The trader is a repository of service) 85.04 241.85 P
+(advertisements.) 85.04 227.85 T
+-0.03 (Server objects advertise their services through a trader; the service advertisement speci\336es the) 85.04 208.85 P
+(interface type and service attributes. Servers manipulate their service advertisements by using) 85.04 194.85 T
+-0.41 (the) 85.04 180.85 P
+2 F
+-0.41 (export) 102.28 180.85 P
+1 F
+-0.41 ( operations provided by the trader) 132.93 180.85 P
+-0.41 (. Clients choose services by specifying the required) 292.41 180.85 P
+(type and attributes in) 85.04 166.85 T
+2 F
+(import) 188.98 166.85 T
+1 F
+( operations.) 220.96 166.85 T
+(The ODP T) 85.04 147.85 T
+(rader is also the subject of standardisation, separate from RM-ODP) 140.59 147.85 T
+(. An introduc-) 461.68 147.85 T
+(tion to this standard can be found in [5].) 85.04 133.85 T
+FMENDPAGE
+%%EndPage: "10" 11
+%%Page: "11" 11
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(8.3.3. Relocator) 85.04 748.85 T
+1 F
+(The relocator is a repository of interface locations \050a \322white pages\323 service\051. This information) 85.04 731.85 T
+(is needed by relocation transparency \050see Section 9.2\051.) 85.04 717.85 T
+0 F
+(8.4. Security Functions) 85.04 693.85 T
+1 F
+-0.07 (RM-ODP de\336nes a number of security functions \050e.g. access control, authentication, auditing\051) 85.04 674.85 P
+(based on OSI Security Frameworks in Open Systems [6].) 85.04 660.85 T
+0 F
+(9. TRANSP) 85.04 632.85 T
+(ARENCIES) 144.12 632.85 T
+1 F
+(Computational speci\336cations are intended to be distribution-transparent, i.e., written without) 85.04 613.85 T
+(regard to the very real dif) 85.04 599.85 T
+(\336culties of implementation within a physically distributed, heteroge-) 207.05 599.85 T
+-0.33 (neous, multi-or) 85.04 585.85 P
+-0.33 (ganisational environment. The aim of transparencies is to shift the complexities) 157.79 585.85 P
+(of distributed systems from the applications developers to the supporting infrastructure.) 85.04 571.85 T
+(RM-ODP de\336nes a number of commonly required distribution transparencies and describes) 85.04 552.85 T
+(the computational re\336nements and use of engineering functions needed to provide these trans-) 85.04 538.85 T
+(parencies. The distribution transparencies de\336ned in RM-ODP are:) 85.04 524.85 T
+(\245) 85.04 505.85 T
+(access transparency \321 hides the dif) 103.04 505.85 T
+(ferences in data representation and procedure calling) 275.02 505.85 T
+(mechanism to enable interworking between heterogeneous computer systems) 103.04 491.85 T
+(\245) 85.04 477.85 T
+(location transparency \321 masks the use of physical addresses, including the distinction) 103.04 477.85 T
+(between local versus remote) 103.04 463.85 T
+(\245) 85.04 449.85 T
+(relocation transparency \321 hides the relocation of an object and its interfaces from other) 103.04 449.85 T
+(objects and interfaces bound to it) 103.04 435.85 T
+(\245) 85.04 421.85 T
+(migration transparency \321 masks the relocation of an object from that object and the) 103.04 421.85 T
+(objects with which it interacts) 103.04 407.85 T
+(\245) 85.04 393.85 T
+(persistence transparency \321 masks the deactivation and reactivation of an object) 103.04 393.85 T
+(\245) 85.04 379.85 T
+-0.22 (failure transparency \321 masks the failure and possible recovery of objects, to enhance fault) 103.04 379.85 P
+(tolerance) 103.04 365.85 T
+(\245) 85.04 351.85 T
+(replication transparency \321 maintains consistency of a group of replica objects with a) 103.04 351.85 T
+(common interface) 103.04 337.85 T
+(\245) 85.04 323.85 T
+(transaction transparency \321 hides the coordination required to satisfy the transactional) 103.04 323.85 T
+(properties of operations) 103.04 309.85 T
+0 (The transparencies de\336ned in RM-ODP are not intended to be the complete set, merely a start-) 85.04 290.85 P
+(ing point of common requirements. Additional transparencies for both general and speci\336c) 85.04 276.85 T
+(needs could be subsequently standardised. For example, lip-sync transparency could be) 85.04 262.85 T
+(de\336ned for stream interfaces supporting audio-visual interaction.) 85.04 248.85 T
+(The following subsections describe some of the RM-ODP transparencies in more detail.) 85.04 229.85 T
+0 F
+(9.1. Access T) 85.04 205.85 T
+(ranspar) 150.11 205.85 T
+(ency) 190.54 205.85 T
+1 F
+-0.38 (Access transparency hides the dif) 85.04 186.85 P
+-0.38 (ferences in data representation and operation invocation from) 243.85 186.85 P
+(communicating objects.) 85.04 172.85 T
+(Access transparency can be achieved by con\336guring the channel with stubs, which translates) 85.04 153.85 T
+(the desired interaction \050e.g. an operation invocation\051 into a sequence of messages sent over a) 85.04 139.85 T
+(channel. The stubs must marshal and unmarshal any data used in the interaction in order to) 85.04 125.85 T
+(convert between dif) 85.04 111.85 T
+(ferent representations.) 180.08 111.85 T
+FMENDPAGE
+%%EndPage: "11" 12
+%%Page: "12" 12
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(9.2. Relocation T) 85.04 748.85 T
+(ranspar) 170.77 748.85 T
+(ency) 211.2 748.85 T
+1 F
+(Relocation transparency frees a basic engineering object \050and the programmer of the object\051) 85.04 729.85 T
+(from needing to know if an interacting object is relocated.) 85.04 715.85 T
+(Relocation transparency can be achieved by con\336guring the channel with binders, which:) 85.04 696.85 T
+(\245) 85.04 677.85 T
+(inform the relocator \050see Section 8.3.3\051 of the location of the interface it supports) 103.04 677.85 T
+(\245) 85.04 663.85 T
+(obtain from the relocator the location\050s\051 of the other interface\050s\051 connected to the channel) 103.04 663.85 T
+(Binders will typically cache location information. If the location of an interface changes, the) 85.04 644.85 T
+(use of the old location will cause an error) 85.04 630.85 T
+(. W) 282.9 630.85 T
+(ith relocation transparency) 299.74 630.85 T
+(, the binder will auto-) 426.86 630.85 T
+(matically obtain the new location from the relocator) 85.04 616.85 T
+(, reconnect the channel, and replay the) 334.05 616.85 T
+(interaction. The basic engineering object should remain unaware of the change in location.) 85.04 602.85 T
+0 F
+(9.3. T) 85.04 578.85 T
+(ransaction T) 113.14 578.85 T
+(ranspar) 177.23 578.85 T
+(ency) 217.65 578.85 T
+1 F
+-0.46 (Unlike access and relocation transparency which are achieved through con\336guring engineering) 85.04 559.85 P
+(channels with clever components, transaction transparency cannot be achieved by this mecha-) 85.04 545.85 T
+(nism alone.) 85.04 531.85 T
+(The correct operation of the transaction function requires the reporting of the execution \050or) 85.04 512.85 T
+(undo-ing\051 of certain \322actions of interest\323 \050e.g. reading or writing a piece of transaction-man-) 85.04 498.85 T
+(aged data\051. These events occur internal to the objects and are not visible to a stub or binder) 85.04 484.85 T
+-0.44 (con\336gured in the channel. Therefore, transaction transparency must involve the re\336nement of a) 85.04 470.85 P
+(transaction-transparent speci\336cation into a speci\336cation which reports the execution of these) 85.04 456.85 T
+(actions of interest to the transaction function.) 85.04 442.85 T
+0 F
+(10. SUMMAR) 85.04 414.85 T
+(Y) 157.9 414.85 T
+1 F
+-0.14 (RM-ODP is a reference model, not an implementation standard; it de\336nes a framework for the) 85.04 395.85 P
+(standardisation of open distributed processing. The RM-ODP model de\336nes \336ve viewpoints) 85.04 381.85 T
+(which decompose the speci\336cation of ODP applications by focusing on separate concerns.) 85.04 367.85 T
+(The enterprise viewpoint de\336nes a model for policy analysis while the information viewpoint) 85.04 348.85 T
+(provides a model for information analysis. The computational viewpoint de\336nes a model for) 85.04 334.85 T
+(distributed programming languages; the run-time support for these languages is provided by) 85.04 320.85 T
+(the distributed systems infrastructure based on the engineering viewpoint model and the ODP) 85.04 306.85 T
+(infrastructure functions. The technology viewpoint is used to describe implemented systems.) 85.04 292.85 T
+0 F
+(ACKNOWLEDGEMENTS) 85.04 273.85 T
+1 F
+-0.09 (The author thanks Andrew Berry for his assistance in preparing this paper and all of the partic-) 85.04 255.85 P
+-0.54 (ipants in the Australian and international RM-ODP standards groups for the many hours of live-) 85.04 241.85 P
+(ly discussions.) 85.04 227.85 T
+(The participation of the author in the standardisation of RM-ODP has been supported by:) 85.04 208.85 T
+(\245) 85.04 189.85 T
+(T) 103.04 189.85 T
+(elecom \050Australia\051 Research Laboratories through the Centre of Expertise in Distributed) 109.53 189.85 T
+(Information Systems \050CEDIS\051) 103.04 175.85 T
+(\245) 85.04 161.85 T
+(the Cooperative Research Centre for Distributed Systems T) 103.04 161.85 T
+(echnology through the) 387.67 161.85 T
+(Cooperative Research Centres Program of the Department of the Prime Minister and) 103.04 147.85 T
+(Cabinet of the Commonwealth Government of Australia) 103.04 133.85 T
+(\245) 85.04 119.85 T
+(Standards Australia through their travel assistance scheme.) 103.04 119.85 T
+FMENDPAGE
+%%EndPage: "12" 13
+%%Page: "13" 13
+595.3 841.89 0 FMBEGINPAGE
+0 12 Q
+0 X
+0 K
+(REFERENCES) 85.04 748.85 T
+1 F
+([1]) 85.04 731.85 T
+-0.18 (ISO/IEC CD 10746-1, \322Basic Reference Model of Open Distributed Processing - Part 1:) 113.84 731.85 P
+(Overview and Guide to Use\323, July 1994.) 113.84 718.85 T
+([2]) 85.04 701.85 T
+-0.38 (ISO/IEC DIS 10746-2, \322Basic Reference Model of Open Distributed Processing - Part 2:) 113.84 701.85 P
+(Descriptive Model\323, February 1994.) 113.84 688.85 T
+([3]) 85.04 671.85 T
+-0.38 (ISO/IEC DIS 10746-3, \322Basic Reference Model of Open Distributed Processing - Part 3:) 113.84 671.85 P
+(Prescriptive Model\323, February 1994.) 113.84 658.85 T
+([4]) 85.04 641.85 T
+-0.18 (ISO/IEC CD 10746-4, \322Basic Reference Model of Open Distributed Processing - Part 4:) 113.84 641.85 P
+(Architectural Semantics\323, July 1994.) 113.84 628.85 T
+([5]) 85.04 611.85 T
+(M.Y. Bearman, \322ODP-Trader\323, International Conference on Open Distributed Process-) 113.84 611.85 T
+(ing, Berlin, September 1993.) 113.84 598.85 T
+([6]) 85.04 581.85 T
+(ISO/IEC CD 10181, \322Security Frameworks in Open Systems\323.) 113.84 581.85 T
+FMENDPAGE
+%%EndPage: "13" 14
+%%Trailer
+%%BoundingBox: 0 0 595.3 841.89
+%%Pages: 13 1
+%%DocumentFonts: Times-Bold
+%%+ Times-Roman
+%%+ Times-Italic
+%%+ Palatino-Italic
+%%+ Courier

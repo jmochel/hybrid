@@ -1,0 +1,181 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210191328.409;
+          10 Dec 91 19:13:55 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210191328.409;
+          10 Dec 91 19:13:43 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04725; Tue, 10 Dec 91 19:15:15 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA09977; Tue, 10 Dec 91 18:14:57 -0500
+Message-Id: <9112102314.AA09977@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 3336; Tue, 10 Dec 91 18:13:29 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9839;
+ Tue, 10 Dec 91 18:13:28 EST
+Date:         Tue, 10 Dec 1991 17:09:42 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Jason D Parker <jason%HERMES.CRAY.COM@uga.cc.uga.edu>
+Subject:      RPG: UNIVERSAL MODULAR GAME
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <9112102302.AA25328@timbuk.cray.com>; from
+              "1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu" at Dec 10, 91 6:00 pm
+
+WARNING:
+Opinions based on multiple postings... Multiple postings quoted some without
+their writers names.. sorry..
+
+Comment on universal modular game at end...
+
+ATTRIBUTES/SKILLS:
+
+>         Is it really neccesarry to have attributes.  If we are to have a
+> skill based game why not make it all skills.  As many have pointed out
+> where do you draw the line in detail between types of atributes (ie how
+> many attributes are there really.)  To further muddy the waters cannot
+> attributes be increased through training, just like a skill.  So why
+> not have attributes listed as skills along with more conventional
+> skills.  And so, by making a rule that allows for the unskilled to
+> attempt a "maneuver" you have encompassed all atributes.  For example
+
+Agreed.  I have thought about this in a reversal twist.  For me, attributes
+ARE skills.  They are generic abstract references to skill categories.
+In previous posts of mine, the way I was trying to treat attributes was
+in this way.  I don't think I described myself very well (nobody seemed
+to grasp what I was saying - or liked it)
+
+Anyway, for me a set of good ABSTACT ATTRIBUTES ARE ALL YOU SHOULD NEED TO
+PLAY A SIMPLE GAME.  You can hang more complex sets of (more specific) skills
+off the abstact attributes as the GM requires (this is scalability!).
+And as a group the net can specify good ways of doing this...(and everyone
+is).
+
+ATTRIBUTE NAMES:
+
+> Proposed Attributes (Dualistic Model) -- Adam Dray
+>
+>
+> CATEGORY            PHYSICAL               MENTAL
+> -----------------+-----------------------------------------------------
+> STRENGTH         |  Muscle (P)             Command (S)
+> HEALTH           |  Health (P)             Sanity (M)
+> ENDURANCE        |  Endurance (P)          Willpower (M)
+> COORDINATION     |  Coordination (P)       Reason (M)
+> SPEED            |  Reflex (P)             Perception (M)
+> BEAUTY           |  Appearance (S)         Charm (S)
+> GRACE            |  Grace (S)              Empathy (S)
+> -----------------+-----------------------------------------------------
+
+For me the names don't matter at all.  I want a game system that can
+handle any version or set of attributes a GM would like to use.  The system
+would suggest a set or sets to use, but can accomodate the addition or
+subtraction of attributes.  THIS IS WHAT A UNIVERSAL GAME SYSTEM *COULD*
+ACCOMPLISH.  (might be too hard for this group to do though).
+
+If we come up with a set of attributes (like above - and I've been guilty of
+it too) and then begin to hang rules etc. off those names etc. we have
+only locked our game up a bit (IMHO).  Changing rules or aspects becomes
+that much more harder, and we have failed (at least partially) in creating
+modularity.
+
+Don't  get me wrong, as a specific list of attributes those are great.
+
+GENRE:
+
+> Let me explain my opinion on this matter.
+> I want to create a RPG in the Fantasy genre.
+> First, any well-designed game should be very adaptable to any genre, simply by
+> dropping in a new skills module, and a new combat module if necessary (for
+> pistols and so on).  Once we create a modular, skill-based FRPG, we already
+> have the basis for a generic game.
+
+I agree with Ursus, that it isn't necessary to specify a genre. (of course
+comming from me who wants to talk about nameless attributes this isn't
+surprising).  Adam said it best: "any well-designed game should be very
+adaptable to any genre" So why worry about it?
+
+GENRE & MODULARITY:
+
+When Ursus says:
+
+> Weren't we going to make this RP system universal (i.e., commutable
+> among many genres, if not all)?  I think it's possible to have one system that
+> takes all possibilities into account; GO MODULAR!
+and
+> I'm all in favor of this whole monster: modularity, pieces and parts,
+> being 100% (no percent-preference; just idiom) *PUBLIC DOMAIN*!  No sellin',
+> no profitin', no nothin' but good clean free fun!
+
+She (?) is RIGHT ON!  Way to go!
+
+EXPERIENCE POINTS:
+
+I don't like XP.  Just another stat. Like skills (and for me attributes)
+they should automatically represent experience.
+
+SCALING ATTRIBUTES/SKILLS:
+
+Maybe this is a dead horse, but for me to accomplish what I've tried outlining
+above about attributes, allowing game objects to have collapsable/expandable
+attributes allows for great flexibility for the GM and us designers, because
+any of us can then plug in our own list of attributes/skills as we deem fit.
+THIS IS MODULARITY AND ADAPTABILITY!!!
+
+Laird says:
+
+> Upon further reflection, I realized that the system could scale to
+> one level more abstract, where each character has only a single stat
+> and rolls against that for everything, like TWERPS.  The most
+> abstract version of the character in my example would be:
+
+YES! Our system should be able to accomplish this (if the GM wants).
+
+
+RESPONSES TO PREVIOUS MIND/BODY POSTS...
+
+> Dice.  Dice, dice, dice.  Always a problem.  Which dice?  How many?  What
+> modifiers?  Dice are the unknown factor in every game.  Choice of dice can
+> make or break any RPG system.
+
+Sorry.  Exactly what my point was.  In fact I don't want to talk about dice
+systems for quite awhile, till the abstract frameworks are figured out.
+Just as Attributes/Skills can change so can dice systems.
+
+>>a) We need to work incrementally.  Perhaps starting with a set of Attributes
+>>   for game objects.  And we need to realize that we can always change thing
+>>   things so we don't get hung up on choices.
+>
+>Point of Order!  Let's decide on a system for dice first.  I suggest:
+>
+>        - Use a difficulty system
+>        - Keep the numbers small
+>        - Keep arithmetic to naught
+>        - Stick with one or two types of dice
+
+Deciding dice systems should be virtually last in my opinion, or really any
+dice systems can be plugged in A WELL DESIGNED UNIVERSAL GAME as needed.
+
+MIND/BODY POST COMMENT (For those that care..)
+
+I was not really trying to push a specific system (God forbid I put numbers
+down - they were meant only to help crystalize an image).  I was really using
+the system I had worked on only to hightlight some of the abstract concepts
+that are near and dear to my heart.
+
+This net group can create a GREAT game.  It can create a GREAT game that
+has a set of agreed upon skills and systems, and it will be GREAT.  BUT,
+we could also create a great UNIVERSAL MODULAR GAME that could handle
+anyone's attribute/skill wishes if we really worked on it.  Maybe I'm
+pushing a pipe dream, and maybe this is too hard a goal for this group,
+or maybe I can't make myself clear, but if anyone sees a glimmer of this
+idea in their mind and thinks they understand me (and have a vision to share)
+we can work in the stratosphere to provide a modular framework that the
+other's skill system will cradle on/under (no matter what they figure out).
+
+Am I dreaming...  Or isn't this what sort of sparked the game design thread
+in the first place and underlined every word in Adam's criteria list....
+
+-jason
+jason@cray.com
+
+--

@@ -1,0 +1,131 @@
+h55635
+s 00103/00000/00000
+d D 1.1 00/02/03 12:23:33 jmochel 2 1
+cC
+cK15181
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/03 12:23:30 jmochel 1 0
+c BitKeeper file e:/jacl/java/doc/MacroProcessorDesignNotes.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK63733
+cPjava/doc/MacroProcessorDesignNotes.txt
+cR3376864f5cb6fdce
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Macro Processor Design Notes
+
+Basic Language Description
+
+We have TYext, Commands (general, flow of control, macros) , and Expressions
+
+
+Every variable is a list (even if it contains one element)
+
+
+General
+=======
+
+	Comments
+	--------
+
+		.. This is comment
+
+
+	Includes
+	--------
+
+		.include <expression>
+
+	
+	Redirections
+	------------
+
+		.redirect <expression>
+	
+Flow of Control
+===============
+
+	If/Else If/Else
+	---------------
+
+		.if  <expression>
+			Text
+		.elif <expression>
+			Text
+		.else
+			Text
+		.endif
+
+	While Loops
+	-----------
+
+		.while <expression>
+			Actions
+		.endwhile
+
+
+	For Loops
+	---------
+
+		.for <elt> in <expression>
+			Actions
+		.endfor
+		
+	Exit
+	-----
+		.exit <code>
+
+Macros
+======
+
+	Define
+	------
+		.beginmacro <macroname> <macrovariables>
+			Code...
+		.end
+
+	Invoke 
+	------
+		$macroname("arg1", "arg2")
+
+		.set var2 = $macroname("arg1", "arg2")
+
+
+		
+
+
+Expressions/Variables
+=====================
+
+	Variables
+	----------
+
+		.set volare = "schmoo"
+		.set volare += "schmoo"
+
+		$volare
+
+		${volare}
+
+	Uses Java classes as objects inline
+	-----------------------------------
+
+		$volare.method
+
+
+
+		
+E 2
+I 1
+E 1

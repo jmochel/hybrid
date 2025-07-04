@@ -1,0 +1,104 @@
+h11141
+s 00076/00000/00000
+d D 1.1 99/12/02 15:39:04 jmochel 2 1
+cC
+cK36519
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:01 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/moore/Visions.sgml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44874
+cPCampaign/Karban/moore/Visions.sgml
+cReb4785fb5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [
+<!--ArborText, Inc., 1988-1995, v.4001-->
+<!NOTATION drw SYSTEM "DRW">
+<!ENTITY www "World Wide Web">
+<!ENTITY % gminfo 'IGNORE' >
+]>
+
+
+
+<book>
+    <title>
+    Vision(s) of Sgt. Cmdr. Moore
+    </title>
+    <chapter>
+        <title>
+        Just after the Visitation by the Lazarine
+        </title>
+        <formalpara><title>Scene 1</title>
+            <para>
+            A (blinding) flash of sunlight reflects off the (bright blue) ocean in front of you as you walk above the water.
+            Your outstretched finger accuses; 
+            The (green) island in front of you disappears and a (soundless) wave of light and noise washes over you as the
+            sun erupts from its center. 
+            </para>
+
+<![%gminfo; [
+           <para>
+            Inflicting nuclear holocaust to the home island.
+            </para>
+]]>
+
+        <formalpara><title>Scene 2</title>
+            <para>
+            A single man (the survivor) remains ahead of you. Your horse hurtles through the village among (scattering, cheering)
+            crowds. He turns and bares his teeth as your dogs (the crowd) brings him to bay. His (lightning wreathed) spear ricochets
+            off of your armour. He slumps as the crossbow bolt appears in his chest. The lowered crossbow brushes your leg. His
+            blood sparks as his powercells discharge and a double spiral of wire hangs from his throat.
+            </para>
+<![%gminfo; [
+            <para>
+            Hunting Artifacts.
+            </para>
+]]>
+
+        <formalpara><title>Scene 3</title>
+            <para>
+            Your pursuer slows. He turns (sliding) to follow you. His (matte black) scullcap shifts and falls from his head to
+            the (pale blue, glowing ) ice. You fall and reach only to be caught (at the neck) by his (skeletal) left hand and you
+            feel a (cold, expanding) pain as his (raven feather) quill drives into your (right) side. As his left hand pulls away the
+            ink drops from the quill. The (black) drops blot out the (glowing) ice.
+            </para>
+
+<![%gminfo; [
+            <para>
+            The hunting by Halycons.
+            </para>
+]]>
+        <formalpara><title>Scene 4</title>
+            <para>
+            Your (crowned) visitor kneels. His (raven) haired wife and his (blonde) daughter crouch (prepared, waiting) behind him. His men
+            tense as you reach (motionless) for your herbs. The (red haired, youngest) daughter stands, looking (unhearing) to the
+            stars above the hut.  A flick of the jimsonweed settles to the surface of the (steaming) caldron. The youngest turns (away) as
+            the (screaming) visitor kicks the (frozen) caldron aside and his outstreched sword (streaming blood) falls from
+            flickering (unmoving) fingers.
+            </para>
+
+<![%gminfo; [
+            <para>
+            Seer for the failed earth.
+            </para>
+]]>        
+    </chapter>
+</book>
+
+
+
+E 2
+I 1
+E 1

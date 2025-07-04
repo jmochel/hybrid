@@ -1,0 +1,548 @@
+	Psionics Implementation
+	 
+	PSIONICS : Direct manipulation of the surrounding environment via the
+	power of the mind.                                                   
+	
+	ROLL FOR PSIONICS OR PSIONIC IMMUNITY(01-02)
+	IF PSIONIC IMMUNE: DETERMINE EXTENT OF IMMUNITY
+	              
+	ROLL                EXTENT
+	01-75               IMMUNE TO PSIBLASTS
+	76-90               IMMUNE TO MINORS DISCIPLINES
+	91-95               IMMUNE TO MINORS AND PSIBLASTS
+	96-00               IMMUNE TO ALL
+	
+	The first and most basic of changes is that the Total Psionic Ability
+	is cut in half and renamed Psionic Strength. There is only one pool
+	of points to draw from.
+	
+	The groupings of disciplines has been changed. There are no more
+	Minor or Major disciplines. Instead, there is now one set of
+	disciplines with varying costs.
+	
+	There is, in addition, a new stat for psionics: Mental Strength.
+	MStr. = avg(INT+WIS+CHA) rounded to the nearest.
+	
+	The method of skill determination has changed somewhat. All Psionics
+	characters are assumed to have all standard attack and defense modes. 
+	In determining disciplines the character rolls percentiles and looks at
+	the following table:  
+	
+	
+	
+	Psionics Disciplines Generation Table
+	
+	ROLL           MAJOR          MINOR
+	               AREAS          AREAS
+	
+	01-10          0              0
+	11-21          0              1
+	22-32          0              2
+	33-40          0              3
+	41-50          0              4
+	51-60          1              0
+	61-70          1              1
+	71-80          1              2
+	81-90          1              3
+	91-94          1              4
+	95-97          2              0
+	98-99          2              1
+	00-00          2              3
+	
+	
+	
+	Listing of Major and Minor areas of Talent
+	
+	MAJOR: READ AURA
+	1) Detect Magic
+	2) Object Read
+	3) Detect good/evil
+	4) Sensitivity to Psychic Impressions
+	5) ESP
+	6) Empathys
+	
+	MAJOR: FARSENSING
+	1) Clairaudience
+	2) Alert Sleep
+	3) All around awareness
+	4) Clairoyance
+	
+	MAJOR: FARSEEING
+	1) Astral Projection
+	2) Dimension Door
+	3) Dimension Walk
+	4) Probability Travel
+	5) Etherealness
+	6) Precognition
+	
+	MAJOR: KINETICS
+	1) Molecular Agitation
+	2) Molecular Manipulation
+	3) Molecular Rearrangement
+	4) Cell Adjustment (External)
+	5) Energy Control
+	6) Teleportation
+	7) Telekinesis
+	8) Shape Alteration
+	9) Levitate
+	
+	MAJOR: INNER CONTROL
+	1) Body Equilibrium
+	2) Body Control
+	3) Body Weaponry
+	4) Cell Adjustment (Internal)
+	5) Mind over Body
+	6) Reduction
+	7) Suspend Animation
+	8) Mind Bar
+	9) Expansion
+	
+	MAJOR: PROJECTION
+	1) Animal Telepathy
+	2) Domination
+	3) Hypnosis
+	4) Invisibility
+	5) Mass Domination
+	6) Aura Alteration
+	7) Telepathy
+	8) Telepathic Projection
+	9) Telempathic Projection
+	
+	 
+	Each skill is generally treated as displayed in the P.H. but the
+	costs are 6 times what is listed in the book. additional modifiers
+	are as listed below.
+	
+	
+	Modifiers to the base cost listed
+	
+	     1. Major Talent in the area = .5 * cost
+	     2. Minor Talent in the area = .5 * cost
+	     3. Training in a particular discipline = .5 * cost
+	     4. Focus being used = .5 * cost
+	
+	Depending on how the psionic was trained this "focus" can include
+	meditation. 
+	
+	The use of a discipline will involve a skill roll as per all other
+	skills. If the roll succeeds there is a chance of a critical succes
+	and an additional factor ( *1 or *2 etc.. ) will be taken into
+	account and applied toward the range or overall effect.
+	
+	The base chance to perform the Skill is MStr. * 4 %. Some specific
+	skills, such as precognition have their own base chance attached to them.
+	The following bonuses apply to the success chance of psiskills:
+	
+	   1. Level of Mastery = 2 % / level
+	   2. Use of a focus = +10 %
+	   3. no talent in the area = -10 %
+	   4. no training in a skill = -20 %
+	   5. Linked Psionics involved = +10 % / Psionic
+	   6. Use of a Shiral as a focus = +15 %
+	
+	
+	New Psionic Implementation - Initial Training and Later Training
+	
+	A psionic who is starting out is may or may not have recieved some
+	training in psionics. Usually this training is received from a
+	psionic NPC or a monastery of the region.(monasteries, while not
+	usually involved in psionic usage, do have mental disciplines which
+	encourage psionic developement. The characters Level of Mastery is
+	determined by a character's level as given by his experience points.
+	No matter what level he has been trained to in his class, his psionic
+	Level of Mastery is determined only by his EPs. Training for a psionic 
+	discipline takes 5 weeks under an instructor who has the skill being
+	trained in. Any time that a character trains with a different type of
+	instructor than their previous instructor they will take 1.5 times as
+	long. Thus a person who previously trained under a witch and is now
+	training for a discipline in a monastery will train for 5 wks
+	(standard) * 2 (for monastery training) * 1.5 (for a different style
+	of instructuction) = 15 weeks. Where a character trains will tend to
+	have an effect on how their skills are used. A person trained in a
+	monastery  will take twice as much time as normal to train but all
+	healing disciplines and some bodily disciplines will have twice
+	normal effect. Someone trained by the witches of the Rannock
+	penninsula will have a greater skill with several of the druidically
+	oriented disciplines. 
+	
+	
+	The seperations of styles of instructors are as follows:
+	
+	Group I :  The Witches of Rannock, Druids
+	Group II:  The Mimbrate Nobility(Mostly women),Most other NPCS
+	Group III: The Monasteries, Clerics
+	Group IV:  The Iga Ninja,Some Eyodo islanders.
+	
+	
+	PSISKILL WORKSHEET
+	
+	PSI SKILL SUCCESS avg(INT+WIS+CHA)*5+(LOM)*2 _______________
+	
+	MAJOR AREAS OF TALENT:
+	1)                       2)                  3)
+	MINOR AREAS OF TALENT:
+	1)                       2)                  3)
+	4)                       5)                  6)
+	
+	SKILL COST MODS: TALENT = .5 cost TRAINING = .5 cost  FOCUS = .5 cost
+	
+	Name of             Base      Major     Minor     Training       Final
+	Skill               Cost      Talent    Talent                   Cost
+	--------------------------------------------------------------------------
+	1) Detect Mana       18/rnd   ____________________________________________
+	2) Object Read       6/rnd    ____________________________________________
+	3) Detect good/evil  12/rnd    ____________________________________________
+	4) Psychic Impress.  6/rnd    ____________________________________________
+	5) ESP               12/rnd    ____________________________________________
+	6) Empathy           18/use   ____________________________________________
+	1) Clairaudience     30/rnd   ____________________________________________
+	2) Alert Sleep       18/night ____________________________________________
+	3) All Around Aware  6/rnd    ____________________________________________
+	4) Clairvoyance      30/rnd   ____________________________________________
+	1) Astral Projection 60       ____________________________________________
+	2) Dimension Door    60       ____________________________________________
+	3) Dimension Walk    6/turn   ____________________________________________
+	4) Probability Travel 60      ____________________________________________
+	5) Etherealness      36/turn  ____________________________________________
+	6) Precognition      6/factor ____________________________________________
+	1) Mol. Agitation    6/rnd    ____________________________________________
+	2) Mol. Manipulation 240      ____________________________________________
+	3) Mol. Rearrangement 60/gpwt ____________________________________________
+	4) Cell Adj.(Ext)     6/hp    ____________________________________________
+	5) Energy Control     12/hp   ____________________________________________
+	6) Teleportation      100/port____________________________________________
+	7) Telekinesis        18/rnd  ____________________________________________
+	8) Shape Alteration   *10     ____________________________________________
+	9) Levitate           18/turn ____________________________________________
+	1) Body Equilibrium   6/rnd   ____________________________________________
+	2) Body Control       12/turn ____________________________________________
+	3) Body Weaponry      6/rnd   ____________________________________________
+	4) Cell Adj. (Int)    6/hp    ____________________________________________
+	5) Mind over Body     20/day  ____________________________________________
+	6) Reduction          12/turn ____________________________________________
+	7) Suspend Animation  36      ____________________________________________
+	8) Mind Bar           20/day  ____________________________________________
+	9) Expansion          30/rnd  ____________________________________________
+	1) Animal Telepathy   6/rnd   ____________________________________________
+	2) Mass Domination    *6      ____________________________________________
+	3) Hypnosis           6/hd    ____________________________________________
+	4) Invisibility       18/turn ____________________________________________
+	6) Aura Alteration    * 6     ____________________________________________
+	7) Telepathy          6/rnd   ____________________________________________
+	8) Telepathic Proj.   * 6     ____________________________________________
+	9) Telempathic Proj.  18/use  ____________________________________________
+	
+	
+	New Psionic Implementation - Psionic Combat
+	
+	During each round a normal character gains two actions. Using a discipline 
+	takes two actions, an attack takes one, and an active defense takes one.
+	
+	DISCIPLINE          2 actions
+	ATTACK              1 action
+	DEFENSE             1 action
+	
+	As a character progresses in level he gains additional actions in a
+	progression similiar to that of attacks per round for a fighter.
+	
+	LEVEL:         ADDITIONAL ACTIONS:
+	01-06               0
+	07-12               1 / 2 rnds
+	13+                 1 / 1 rnd
+	
+	There are two types of attack that can be generated by a psionic. The
+	first form of attack is an actual conversion of mental energy into a
+	visible manifestation of energy, usually thermal in nature. Such an
+	attack costs 3 Psi pts. per hp of damage it causes and it has a base
+	chance to hit as any physical attack by that individual ( As Fighter
+	) against the armour class of his opponent. No saving throw is used.
+	No armour modifiers are used. This attack takes only one action.
+	
+	The second type of attack is a psionic attack against the mind. It
+	takes one action to perform. The attack has both a "to hit" attribute
+	and a "to damage" attribute. The attack has a base cost of 2 pts and
+	a base damage of LOM/2. The base chance to hit is MStr. * 4% . The
+	attacker can chose to allocate an additional number of points to the
+	attack. He can use up to his LOM in points and distribute them
+	between the "to hit" and "to damage" attributes of the attack. For
+	each additional point placed in the "to hit" attribute a 2% bonus is
+	added to his to hit percentage. For each point added to the "to
+	damage attribute" an additional 2 points of damage are done.
+	
+	There are three types of defense available to the psionic. The first
+	is an automatic absorbance of damage equal to LOM^-Defender^+ . This
+	is viable against any number of attacks and costs nothing.
+	
+	The second defense type is a psionic alarm clock that warns the
+	psionic of an incoming attack. The psionics mind responds in a very
+	fast mental dodge. The defense must be established once every 8 hours
+	and takes 2 actions to establish. It is usable only once and is not
+	under the concious control of the psionic.
+	
+	The third defense is an active defense against an attack that is
+	effective against one attack at a time and can be used over a
+	distance to protect others. 
+	
+	
+	PSI COMBAT WORKSHEET
+	
+	MStr.        ________  avg(INT+WIS+CHA)
+	PSI ATTACK % ________  MStr. * 4 + (2*LOM)
+	
+	PSI ATTACK
+	---------------------------------------------------------------------
+	Base Cost:_____ pts.     Base Damage:____ pts.    Base Range:_____"
+	Maximum Pts. Usable:_____ (LOM)
+	
+	Bonus for Pts:  To Hit _____%   To Damage _____ pts. To Range _____"
+	
+	
+	PSI DEFENSE : Mind Ward 
+	---------------------------------------------------------------------
+	Base Cost: 2  pts.  Base To Hit Prot: 30%  Base Damage Prot: 0  pts.
+	Base Range: 0 "    Duration: 8 hours
+	Maximum Pts. Usable: ____ (LOM)
+	
+	Bonus for Pts:  To Hit Prot:3%   To Damage Prot: .5 pts.  To Range: .5"
+	
+	
+	PSI DEFENSE : Active Defense
+	---------------------------------------------------------------------
+	Base Cost: 1 pts.  Base To Hit Prot: 10%  Base Damage Prot: 1 pts.
+	Base Range:____"(LOM)    Duration: 1 rnd
+	Maximum Pts. Usable:_____ (LOM)
+	
+	Bonus for Pts:  To Hit Prot: 3%  To Damage Prot: 2 pts.  To Range: .5"
+	
+	
+	The maximum number of people that can be psionically defended is
+	equal in number to the characters LOM/2. These people can only be
+	defended if they are in some way in physical contact with the psionic.
+	
+	MStr.           INIT MOD                                   
+	------------------------                                   
+	16              -1                                         
+	17              -2        
+	18              -3        
+	19              -4 
+	20              -5 
+	                   
+	Activity            Cost/Rnd     LOM.           ADDITIONAL ACTIONS: 
+	----------------------------     ---------------------------------- 
+	DISCIPLINE          2 action     01-06               0              
+	ATTACK              1 action     07-12               1 / 2 rnds
+	DEFENSE             1 action     13+                 1 / 1 rnd
+	                                   
+	
+	The combat sequence goes as follows:
+	
+	First, the initiative is determined. A d5 is rolled for the 1st half of 
+	the round and a d5+5 is rolled for the second half of the round.
+	There are modifiers to initiative for the MS of the character.
+	
+	MStr.           MOD
+	-------------------
+	16              -1
+	17              -2
+	18              -3
+	19              -4
+	20              -5
+	
+	Once the initiatives are determined and scaled accordingly the
+	actions are determined and the costs for those actions are
+	subtracted. Once the bookkeeping is done the effects of the attacks
+	and disciplines are calculated.
+	
+	An attack is made and a " to hit" roll is made. If it succeeds then
+	the damage is checked against the protection offered by a character's
+	LOM. If damage has still gotten through then an appropriate number of
+	the defender's Psionic Strength Points are removed. There is a chance
+	= ( Psi Damage Taken/Avail Psi Str) % to have stunned the defender
+	enough that he has lost all actions that round. 
+	
+	
+	New Psionic Implementation - Augmenting Psionic Powers
+	
+	There are a number of additional skills that augment the normal
+	ranges and powers of a Psionic. Each one of these psionic skills has
+	a cost. If the skill can be used without training than training will
+	have the cost of that skill (Minimum 1 pt used).
+	
+	
+	Linking
+	
+	Psionics may link together in order to make available a greater
+	number of points to a psionic. It increases the total number of
+	Psionic points available. The LOM is equal to the highest LOM in the
+	group of psionics so linked. In effect it is as if one of the
+	characters is given everybody's Psionic points to play with. The
+	"linkage" is allowed as many actions as the highest level character
+	in the linkage. A roll is made by each character in order to achieve
+	a link. If the linking attempt fails the character expends the points
+	and has to wait until the next time he has an available action. If a
+	character in the linkage is hit for physical or psionic damage the
+	linkage must roll a d20 vs. the lowest MStr. in the linkage. If it
+	fails the linkage is dissolved. When the linkage is broken , for
+	whatever reason, each person loses Psionic Strength points as they
+	were used in the linkages. i.e. if the person is being used to supply
+	Strength points than he will bear the brunt of the usage. If an
+	attempt is made to use more of a character's points  than he wishes,
+	they may attempt to roll a skill roll to break out of the linkage
+	based on the MStr(User) - MStr(Usee).
+	
+	SKILL     : Linking                                                 
+	COST      : 2 pts / Character in link in order to initiate.
+	ACTIONS   : 1 
+	COMMENTS  : All Psi pts are available.
+	
+	
+	Circles
+	
+	A psionic circle is another specialised method for increasing the
+	effects of psionic powers. In its simplest form it involves the 3
+	characters: the Source, the Keeper, and the Monitor. 
+	
+	The Source is the origin of all the raw power that the circle uses. A
+	source can be one or several people. A source has usually received
+	some training but it is not absolutely necessary. In general, a
+	source requires a great deal of Psionic Strength but is not involved
+	in any skill rolls.
+	
+	The Keeper requires training in greater than 1/2 of his or her talent
+	areas. The LOM of the Keeper becomes the LOM of the entire circle.
+	All skill rolls made by the circle in order to perform an action are
+	made against the Keeper's MStr. The Keeper uses 1 pt of his or her
+	Psionic Strength for each ( MStr^-Keeper^+ )/3 psionic points used by
+	the circle. If the circle attempts to utilize more psionic points
+	from the Source than the Keeper can normally use the Circle will roll
+	a skill roll in order to avoid dissolving the rapport. In addition
+	the circle gains cost and skill roll bonuses as if they are using a
+	focus because the Keeper is a focus. If a skill roll fails badly ( 30
+	% + or 99,00 ) there is a chance of backlash ( See Monitor: Below). 
+	
+	The Monitor is usually the most highly trained of the circle. The
+	Monitor is trained in all of his disciplines as well as the skill of
+	Monitoring. The Monitor's MStr. is used to determine the entrance and
+	exit of the Circle as well as its operational state. If a backlash
+	occurs a skill roll is made by the Monitor for each and every member
+	of the cirle in order to protect them from damage. 
+	
+	SKILL     : Monitoring
+	COST      : None
+	ACTIONS   : 2 actions to enter circle, 2 actions to exit
+	COMMENTS  : Allows for Monitoring of specific Psionic related bodily
+	            functions and for interupting Psi. events.
+	
+	New Psionic Implementation - Shiral Crystals
+	
+	The Shiral is a naturally occuring clear to dark blue mineral. It is
+	produced by the interaction of high density chromium/molybdenum steel
+	( meteorite steel) with amethyst. It is most often found in the areas
+	of the Rannock pennisula, the Kaylin mountain range, and the islands
+	around Roke ( But not Roke itself ). 
+	     
+	The Shiral varies in color from a Dark blue to Lt blue to Clear. The
+	clear Shiral is a rarity and can command twice the price of black
+	adamantium. It is much prized both by psionics and mages.
+	
+	The stone is most often cut in the form of a teardrop or eye and worn
+	in a necklace or bracelet. 
+	
+	The stone is a strong psionic resonator and can be used by the
+	Psionic in a number of ways. It can add to the character's LOM for
+	the sake of Psionic research or for Monitoring. It can be used to
+	determine if a character has psionic potential. A witch or warlock
+	can use it in a variety of ways as an adjunct to several powerful
+	spells. A centaur healer can use it to regenrate lost limbs or bring
+	back the memories of a reincarnated being. Mages prize the crystal
+	for its utility in enchanting crystal balls and other ESP related
+	magics.                 
+	
+	The shiral is a status symbol to the noble families of both Elfredam
+	and Mimbre, though for different reasons. It is considered by the
+	Mimbre to be a stone carried only by the nobility and some women of
+	the noble houses have been known to dabble in Psionics. In elfredam
+	it is considered a symbol of witchery and only the most highly
+	skilled witch or Warlock would wear it outrightly visible. To do so
+	indicates that the wearer little fears the possibility of having it
+	taken.
+	
+	Die Roll       Condition      Colour    LOM Bonus
+	
+	01-75          Fair           Dk. Blue       2   
+	76-89          Good           Blue           4
+	90-97          V.Good         Lt. Blue       6
+	98-00          Excellent      Clear(B.Diam)  8
+	                                              
+	** Note that these LOM bonuses only apply in situations where the
+	character has been trained in the skill of Shiral handling. 
+	
+	SKILL     : Shiral Handling
+	COST      : None
+	ACTIONS   : None
+	COMMENTS  : Allow the user to gain LOM bonuses when using shiral
+	            crystals
+	
+	There are a number of ways that a shiral can be used as a psionic
+	tool. It can be used as a battery, as a focus, or as a recording
+	device. Each of these techniques is a trainable skill.
+	
+	As a battery: The shiral can be used to store up to LOM * MStr. in
+	Psi. pts. The user rolls the skill roll, expends the cost. The points
+	will last for MStr. in days. Critical success rolls increase the
+	amount of time the points will last. 
+	
+	SKILL     : Battery Making 
+	COST      : 1pt/ (MStr/3) stored in the battery
+	ACTIONS   : 1 Round per point used in making the battery
+	
+	As a Recorder: The shiral can be used to store a message of great
+	complexity that is unaffected by language barriers. It costs 1 pt per
+	day it must last up to MStr. The message can thereafter be read by
+	any Psi aware of the possibility of a message.            
+	
+	SKILL     : Message Recording
+	COST      : 1pt/ day the message is to last. Up to MStr.
+	ACTIONS   : 2 Actions
+	
+	As a Focus: The Shiral can be used to focus psionic abilities. A
+	skill roll is made and if successful the effect is the same as any
+	other focus.
+	
+	
+	Psionic Creatures
+	There are a number of special Psionic creatures that are of interest
+	to Psi Scholars all over the world. Perhaps the most notable of them
+	are the Rannock Woodsdrake, the Kaylin Spook Cat, and the Greater
+	Wolves of Eyodo. The first two can, to a certain extent, be trained.
+	The Greater Wolves can not be trained but are rarely automatically
+	hostile to most creatures.
+	
+	Rannock Witches often attract a woodsdrake as a familiar. Most are
+	not aware that as well as being a familiar, they often act as
+	monitors in linkages or circles. In addition, they are quite capable
+	of storing up to 3 * LOM^-Owner^+ in Psi points for an indefinite
+	period of time.
+	
+	
+	Rules of Psionic Research
+	It is possible to research psionic skills beyond those known
+	at the start. Several rules apply to the researching of
+	psionic abilities.
+	
+	I. No psionic may attempt original (i.e. unique disciplines)
+	research in psionics unless they already trained in the use of
+	their previously allotted disciplines. 
+	
+	II. Disciplines may only be researched when a character has a
+	proficiency to spare. 
+	
+	III. Disciplines take (30-(MStr.)/2) * 2 weeks to research.
+	
+	IV. Chance of success = MStr. + 3%/wk over necessary time.
+	
+	V. Point cost of new disciplines is to be determined by DM.
+	
+	VI. Each such new discipline costs one non weapon proficiency(nwp)
+                                                  
+  

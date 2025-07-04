@@ -1,0 +1,279 @@
+h59657
+s 00251/00000/00000
+d D 1.1 99/11/17 12:50:48 jmochel 2 1
+cC
+cK21316
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:44 jmochel 1 0
+c BitKeeper file e:/jacl/java/support/tm/Util.java.ct
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45336
+cPjava/support/tm/Util.java.ct
+cR2f93d7c25cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+..  Contains Utility Functions for TM code generation in java
+..
+..  Author Jim Jackl-Mochel
+..  Date 07.06.98
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.3 $
+..  $Date: 1999/11/12 19:29:32 $
+..
+
+Status : Now including Util.java.ct
+
+.globalset StandardTypes boolean char byte short int long float double String Boolean Integer Long Byte Char Short Float Double
+
+
+..  ===================================================
+..
+..  Desc 
+..      Tests for JAVA standard data types 
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+.macro IsStandardType type
+.return ${member $(type) $(StandardTypes) }
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests if a list has any entries
+..
+..  Parameters
+..
+..      List to be tested
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsPopulated List
+.return ${> ${len $(List)} 0}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests to see if the class is a subclass
+..
+..  Parameters
+..
+..     name of class to be tested
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsSubclass classname
+.return ${call IsPopulated "${inherits $(classname)}" }
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests to see if the term is the last term in the given list.
+..
+..  Parameters
+..
+..      term - the term being tested for inclusion
+..      list - the list being tested against
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro IsLastTermInList term list
+.return ${== ${index $(term) $(list)} ${len $(list)}}
+.endmacro
+
+
+..  ===================================================
+..
+..  Desc 
+..      Tests for MAP indicator
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+.macro IsMapType type
+.set tempType $(type)
+.set tempPrefix ${strpad $(tempType) 3 " " }
+.return ${eq $(tempPrefix) "MAP"}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Tests validity of MAP Type
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+.macro IsValidMapType type
+.set listOfMapInfo ${brkstr $(type) "_" }
+.return ${== ${len $(listOfMapInfo) } 5}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Gets the key type of the MAP
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+
+.macro GetMapKeyType type
+..
+.. Check that it is valid
+..
+.if ${!= ${call IsValidMapType $(type)} 1}
+.return ""
+.endif
+..
+.. Break the string into its component terms
+.. 
+.set listOfMapInfo ${brkstr $(type) "_" }
+.return  ${first ${shift $(listOfMapInfo)}}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Gets the key name of the MAP
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+
+.macro GetMapKeyName type
+..
+.. Check that it is valid
+..
+.if ${!= ${call IsValidMapType $(type)} 1}
+.return ""
+.endif
+..
+.. Break the string into its component terms
+.. 
+.set listOfMapInfo ${brkstr $(type) "_" }
+.return  ${first ${shift ${shift $(listOfMapInfo)}}}
+.endmacro
+
+
+
+..  ===================================================
+..
+..  Desc 
+..      Gets the value type of the MAP
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+
+.macro GetMapValueType type
+..
+.. Check that it is valid
+..
+.if ${!= ${call IsValidMapType $(type)} 1}
+.return ""
+.endif
+..
+.. Break the string into its component terms
+.. 
+.set listOfMapInfo ${brkstr $(type) "_" }
+.set tempValueList  ${shift ${shift ${shift $(listOfMapInfo)}}}
+.return ${first $(tempValueList)}
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Gets the value name of the MAP
+..
+..  Parameters
+..
+..      type - the term being tested 
+..
+..  Notes
+..
+..
+..  ===================================================
+..
+
+.macro GetMapValueName type
+..
+.. Check that it is valid
+..
+.if ${!= ${call IsValidMapType $(type)} 1}
+.return ""
+.endif
+..
+.set listOfMapInfo ${brkstr $(type) "_" }
+.set tempValueList  ${shift ${shift ${shift $(listOfMapInfo)}}}
+.return ${first ${shift $(tempValueList)}}
+.endmacro
+
+
+..
+..  EOF
+..
+E 2
+I 1
+E 1

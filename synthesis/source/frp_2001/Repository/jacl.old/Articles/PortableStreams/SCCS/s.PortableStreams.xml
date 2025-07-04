@@ -1,0 +1,393 @@
+h62328
+s 00365/00000/00000
+d D 1.1 99/11/17 07:29:56 jmochel 2 1
+cC
+cK20563
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 07:29:52 jmochel 1 0
+c BitKeeper file e:/jacl/Articles/PortableStreams/PortableStreams.xml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK43411
+cPArticles/PortableStreams/PortableStreams.xml
+cR225f979f5cb6bb7a
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [
+<!--ArborText, Inc., 1988-1995, v.4001-->
+<!NOTATION drw SYSTEM "DRW">
+<!ENTITY www "World Wide Web">
+]>
+<book>
+    <title>
+    Book of CUJ Articles
+    </title>
+    <article>
+        <artheader>
+            <title>A Portable Memory Mapped File API</title>
+            <authorgroup>
+                <author>
+                <firstname>Jim</firstname>
+                <surname>Jackl-Mochel</surname>
+                </author>
+            </authorgroup>
+            <bookbiblio>
+                <title>online publishing report, april 1996</title>
+                <authorgroup>
+                <author>
+                <firstname>Jim</firstname>
+                <surname>Jackl-Mochel</surname>
+                </author>
+                </authorgroup>
+            </bookbiblio>
+        </artheader>
+        <abstract>
+            <para>
+            With the recent changes in computer hardware and operating systems it is not easy to predict what will cause an I/O bottleneck.
+            In some cases removing a little buffer copying will drastically improve performance. On many operating systems an application
+            can use memory mapped file I/O to do this. The trick is in doing it portably. 
+            </para>
+            <para>
+            The article presents a C++ class that provides a portable API for using memory mapped files on Win32 and Linux. The code uses the
+            Standard C++ library including STL container classes and exceptions.
+            </para>
+        </abstract>
+
+        <simplesect>
+            <title>Introduction</title>
+            <para>
+            With the recent changes in computer hardware and operating systems it is not easy to predict what will cause an I/O bottleneck. The changing ratios
+            of CPU/RAM/Storage/Cache speeds and sizes make the traditional I/O models less than complete <citation>[AC91]</citation>. With modern operating systems and main memory sizes it is possible
+            for files to be opened, written, and deleted without ever touching a disk. Obviously, in this case, the peripheral speed is not the limiting factor.
+            Rather it is the flushing of buffers and caches that will become the bottleneck<citation>[AC91]</citation>. 
+            </para>
+            <para>
+            In those cases removing a little buffer copying will improve performance. On many operating systems an application can use memory mapped file I/O to do this.
+            </para>
+            <para>
+            Memory mapped files typically present an API that allows someone to map the contents of a file to an address in memory or vice-a-versa.
+            Many OSes now have memory mapped file support. Most UNIX systems, for instance,  have shmem or its equivalent and NT and 95 both support a memory mapped file API. The only real barrier
+            to their widespread use is that there is no portable API. 
+            </para>
+            <para>
+            In this article I present a C++ API that provides portable access to memory mapped files on Win32 and Linux. The code uses the Standard C++ library, including STL
+            container classes and exceptions.
+            </para>
+        </simplesect>
+        
+        <simplesect>
+            <title>The API</title>
+            <para>
+            My goal was to produce a flexible and portable API that could be used for file I/O as well as sockets and pipes. I wanted the programmer to
+            be able to override the default policies on a given platform as needed. The default under Windows NT is to use memory mapped file I/O for reads (usually faster
+            for average cases) and normal Win32 I/O for writes but the programmer may want to alter this for a specific group of files.
+            </para>
+            <para>
+            With the exception of editors most I/O operations require read only or write only access. With that in mind I made stream's
+            capable of only either read-only or write-only operation. This satifies most routine needs and allows for more optimisation of the I/O routines.
+            It would be easy enough to create a read-write Stream by wrapping a read-only and write-only stream together.
+            </para>
+            <para>
+            The actual I/O methods are modeled after memory manipulation routines. This is a fairly familiar model that should help cut down on
+            the learning curve and a natural way of looking at data that is being mapped to the current memory address space.
+            Listing 1 shows the Stream class and its API.
+            </para>
+            <programlisting>
+            Listing 1
+class Stream {
+
+ public:
+
+  // Constructors
+
+  Stream(StreamInitFxn anInitFxn = DefStreamInitFxn);
+
+  // Destructor
+
+  ~Stream(void);
+
+  // Other methods
+
+  bool  Open(const StreamSpec& Spec, StreamInfo& Info);
+  bool  Close(void);
+
+  Byte* Alloc(size_t Len, Strm::Whence Whence, StreamOffset Offset);
+  Byte* Alloc(size_t Len);
+  Byte* Alloc(size_t NewLen, Byte* Bfr);
+  Byte* VarAlloc(Byte Delim);
+
+  inline void  Free(Byte* Bfr);
+
+  // General Status and such
+
+  virtual bool  Seek(Strm::Whence Whence, StreamOffset Offset = 0);
+  virtual AbsStreamOffset Tell(void);
+  virtual bool  IsEOS(void);
+
+  size_t GetBytesFound(void) const;
+
+ private:
+
+  // Assignment
+
+  Stream& operator = (const Stream& Stream);
+  void  SetDefaults(void);
+
+ protected:
+
+  SubStream*    _SubStream;   // The I/O facility
+  StreamInitFxn _InitFxn;   // The initialisation routine
+  StreamRegion*   _CurrRegion;   // The initialisation routine
+};
+
+            </programlisting>
+
+            <para>
+            The Open and Close methods are analogous to their stdio.h procedural counterparts. The file name is carried within a StreamSpec
+            class. Most of the details of the file to be opened (read,write,binary, and so on ) are carried within the StreamInfo
+            class. I added this level of abstraction to insulate the user from details of Stream identification that
+            may change with the platform. For now, they are simple wrappers.
+            </para>
+            <para>
+            The Alloc routines have the appearance of memory allocators. The user asks for a specific amount of memory and gets back
+            a pointer to that memory. If memory from a particular location is needed, an Alloc call can be made that takes the
+            offset as an argument. There is also an Alloc call that acts like the stdlib realloc() call. The VarAlloc call allows the
+            user to read unknown length data in. The Delim byte indicates what the ending byte in a sequence should be. After each
+            call to VarAlloc the user calls GetBytesFound to determine the length of the returned buffer.
+            </para>
+            <para>
+            After a piece of data has been used it is freed using the Free method. This allows the stream to write data out or free a page of memory mapped file, as
+            necessary.
+            </para>
+            <para>
+            The other methods are fairly logical. The Seek and Tell mirror their stdio counterparts except for the use of
+            abstract data types for the offsets. These are in place so that I can extend the library to file sizes larger than currently
+            handled by the stdio library. IsEOS just mirrors feof().
+            </para>
+            <para>
+            All of the methods throw an exception when unable to fullfill a request.
+            </para>
+        </simplesect>
+        
+        <simplesect>
+            <title>Implementation</title>
+            <para>
+            Figure 1 shows the basic schema for the classes. 
+            </para>
+            <para>
+            The two main classes are closely linked. The SubStream class is the system specific implementation. It implements the 
+            actual I/O routines and keeps track of any existing buffers. The main public class, Stream, is a facade that mostly mirrors
+            the Substream API. Any I/O request is fullfilled by the Stream class from its own memory tracking data, otherwise it passes the request on
+            to the SubStream. This facade ensures that the actual implementation can be changed at run time without any of the user's code having to change.
+            </para>
+            <para>
+            The constructor takes an initialization function that implements the constructor policy for the current platform. The function is merely stored for later use.
+            The Open method of the stream calls the initialization function and gets back the appropriate SubStream to be used for processing the files.
+            </para>
+            <para>
+            The fragment below outlines the default Win32 initialization function. The initialization function takes information about the file to be opened and uses that to
+            determine what type of SubStream needs to be created and returned. 
+            <programlisting>
+            fragment 1
+            SubStream* Win32IOStreamInitFxn(
+                const StreamSpec& Spec, StreamInfo& Info)
+            {
+              SubStream*  SubStream;
+
+              if ( Info.GetMode() == Strm::Write )
+              {
+                SubStream  = new Win32IOWriteSubStream();
+              }
+              else if ( Info.GetMode() == Strm::Read )
+              {
+                SubStream  = new Win32MMFReadSubStream();
+              }
+
+              if ( SubStream == 0 )
+              {
+                return(0);
+              }
+
+              return(SubStream);
+            }
+            </programlisting>
+            <para>
+            Once opened the Stream keeps track of the amount of "allocatable" data via the _CurrRegion. The _CurrRegion is a tracking structure maintained by the SubStream.
+            When a few more bytes are requested the Stream first checks to see if there are any that can be allocated out of the _CurrRegion. If not,
+            the request is passed on to _SubStream. The SubStream deals with the system's I/O routines and updates the _CurrRegion for use by the Stream.
+            </para>
+            <para>
+            As an example look at the implementation of the Stream's Alloc method:
+            </para>
+            <programlisting>
+            fragment 2
+Byte* Stream::Alloc(size_t Len)
+{
+  Byte* TempBfr;
+
+  // Do we need
+  // the substream's alloc ?
+
+  if (
+    (_CurrRegion == 0)||
+    (_CurrRegion->GetBfrAvail() < Len)
+  )
+  {
+    TempBfr = _SubStream->Alloc(Len);
+    _CurrRegion =
+        _SubStream->GetCurrRegion();
+
+    return(TempBfr);
+  }
+
+  // If not, return the
+  // Updated buffer pointer 
+
+  return(_CurrRegion->Update(Len));
+}
+            </programlisting>
+
+            <para>
+            The derived read SubStream that handles this in the Win32 environment is fairly simple. When the Open method is called it maps the entire file to
+            the programs memory address space and then hands out pointers to this address space as needed. Mapping the entire file is
+            not optimal for files larger than the available RAM but it works well for smaller files. The read only substream could be changed to
+            to only map in a portion of the file at a time as needed.
+            </para>
+            <para>
+            The derived Win32 write SubStream is more complex. The SubStream does not use memory mapping for writing. My experience has been that
+            using Win32 memory mapped files for output is generally slower than using the normal Win32 file I/O API. So the write SubStream actually
+            allocates a buffer as needed and writes it out when no more references to it are outstanding. Of course, for performance reasons, there is a
+            buffer list that recycles old buffers rather than forcing the SubStream to allocate a new buffer on each Alloc call.
+            </para>
+            
+        </simplesect>
+
+        <simplesect>
+            <title>Using Streams</title>
+            <para>
+            Using the Stream class is straightforward. Open your Streams and start manipulating the allocated memory.
+            A typical filter manipulation would look like this:
+            </para>
+            <programlisting>
+fragment 3
+
+for (i = 0;i < Iterations; i++)
+{
+ InBfr=InStream.Alloc(BlockSize);
+ OutBfr=OutStream.Alloc(BlockSize);
+ Transform(OutBfr,InBfr,BlockSize);
+ InStream.Free(InBfr);
+ OutStream.Free(OutBfr);
+}
+</programlisting>
+
+            <para>
+            Another example, shown in listing 2,  would be a tool that takes an offset and a length and copies the requested binary cut to another file.
+            </para>
+
+           <programlisting>
+            Listing 2
+      
+int main(int ArgCnt, char* ArgValues[])
+{
+
+  Stream      OutStream, InStream;
+  StreamSpec  InSpec, OutSpec;
+  StreamInfo  Info;
+  bool        StreamOpWorked;
+  Byte*       OutBfr,InBfr;
+
+  StreamOffset    BeginByte;
+  size_t          Len;
+
+  BinaryCutCmdLineParser     CmdLine(ArgCnt, ArgValues);
+
+  // Get the command line arguments 
+
+  InSpec = CmdLine.GetInputSpec();
+  OutSpec = CmdLine.GetOutputSpec();
+  Len = CmdLine.GetLen();
+  BeginByte = CmdLine.GetBeginByte();
+
+  try {
+    // Open the input stream
+
+    StreamOpWorked = InStream.Open(InSpec, Info);
+
+    // Open the Output stream
+
+    Info = Strm::Write;
+    Info = Strm::File;
+
+    StreamOpWorked = OutStream.Open(OutSpec, Info);
+
+    InBfr = InStream.Alloc(Len, Strm::Begin, BeginByte);
+    OutBfr = OutStream.Alloc(Len);
+    memcpy(OutBfr, InBfr, Len);
+    InStream.Free(InBfr);
+    OutStream.Free(OutBfr);
+
+    // Close the streams
+
+    StreamOpWorked = OutStream.Close();
+    StreamOpWorked = InStream.Close();
+ }
+ catch (...)
+ {
+   return(EXIT_FAILURE);
+ }
+
+ return(EXIT_SUCCESS); 
+}
+            </programlisting>
+            <para>
+            I have used this set of classes for over a year now and they make writing filters much less of a chore. Performance
+            varies as a function of the size of the files and available memory but it is generally very good. I can see some
+            interesting possibilities in using the Streams classes as the basis of a persistent storage library or as part of
+            a smart pointer scheme.
+            </para>
+        </simplesect>
+
+        <simplesect>
+            <title>References and Notes</title>
+            <para>
+            There is a wealth of information out there on the issues of high speed I/O
+            and the best API for achieving it. The first report is both a good overview of the issues and
+            the basis of the API presented in the article.
+            </para>
+            <para>[OK94] O. Krieger, M. Stumm, and R. Unrau, ``The Alloc Stream Facility: the redesign of application-level stream I/O'', IEEE Computer, 27(3), March, 1994, pp. 75-83. ftp://ftp.cs.toronto.edu/pub/parallel/Krieger_etal_IEEEComp94.ps.Z
+            </para>
+            <para>
+            [DC87] D. Cheriton. UIO: A Uniform I/O System Interface for Distributed Systems. ACM Transactions on Computer Systems, 5(1):12-46, February 1987.
+            </para>
+            <para>
+            [AC91] Ann L. Chervenak and Randy H. Katz. Performance of a disk array prototype. In Proceedings of the 1991 ACM Sigmetrics Conference on Measurement and Modeling of Computer Systems, pages 188-197, 1991.
+            </para>
+            <para>
+            [AG91] Andrew S. Grimshaw and Edmond C. Loyot, Jr. ELFS: object-oriented extensible file systems. Technical Report TR-91-14, Univ. of Virginia Computer Science Department, July 1991. 
+            </para>
+            <para>
+            [DK91] D. Korn and K.-Phong Vo. SFIO: Safe/Fast String/File I/O. In USENIX-Summer'91, 1991. 
+            </para>
+            <para>
+            [RK] Randy Kath. Managing Memory-Mapped Files in Win32. Microsoft Developer Network Technology Group
+            http://www.microsoft.com/win32dev/base/mmfile.htm
+            </para>
+        </simplesect>
+
+
+    </article>
+</book>
+E 2
+I 1
+E 1

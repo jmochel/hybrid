@@ -1,0 +1,49 @@
+.Name NORAI HORANO'N WHITEHAWK
+.Title LADY OF THE ALLECE MARCHES  
+.Race H.ELF
+.Culture
+.Aspect 
+.PST 12
+.PEN 12		
+.DEX 15
+.PAG 12		
+.PAW 14
+.MST 14		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 74		 
+.AGE 175
+.BeginDesc
+15: WHITE HAIRED AND GRAY EYES. USUALLY WEARS A SET OF WHITE AND	 
+GRAY RIDING CLOTHES AND SILVER/FEATHER JEWELRY.
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale CAITHNARD
+.BeginKnownAssoc
+GRODSGROUP
+.EndKnownAssoc
+.BeginSecretAssoc
+CLARISSA
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A VERY PROUD WOMAN AND A GOOD RIDER.
+.EndComment
+.BeginPossess
+RING OF PROT +1,WAND OF FIRE:48									
+SCROLL LOCATE OBJECT,GUARDS AND WARDS,SHATTER,BLIND,REVERSE GRAVITY
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

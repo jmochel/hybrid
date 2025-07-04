@@ -1,0 +1,249 @@
+jmochel 965441206: sfio -o -q - = 0
+jmochel 965441206: sfiles = 0
+jmochel 965441215: parent I:/Repository/jacl = 0
+jmochel 966263995: sfiles = 0
+jmochel 966263995: sfiles -x = 0
+jmochel 966264000: sfiles -c = 0
+jmochel 966264000: sfiles -C = 0
+jmochel 966474113: sfio -o -q - = 0
+jmochel 966474114: sfiles = 0
+jmochel 966474122: parent i:/Repository/jacl = 0
+jmochel 967076116: cd I:/Repository/jacl = 0
+jmochel 967076118: rootkey = 0
+jmochel 968719159: sfio -o -q - = 0
+jmochel 968719160: sfiles = 0
+jmochel 968719170: parent i:Repository/jacl = 0
+jmochel 968760276: cd f:/Repository/jacl = 0
+jmochel 968760276: rootkey = 0
+jmochel 968807544: cd I:/Repository/jacl = 0
+jmochel 968807546: rootkey = 0
+jmochel 968807573: cd I:/Repository/jacl = 0
+jmochel 968807575: rootkey = 0
+jmochel 968965688: cd f:/Repository/jacl = 0
+jmochel 968965688: rootkey = 0
+jmochel 968965688: prs -r1.0.. -bhad:KEY: ChangeSet = 0
+jmochel 968965690: sfiles RESYNC = 0
+jmochel 968965690: sfiles RESYNC = 0
+jmochel 968965690: get -s - = 0
+jmochel 968965690: sccscat -h ChangeSet = 0
+jmochel 968965690: keysort = 0
+jmochel 968965692: sccscat -hm ChangeSet = 0
+jmochel 968965692: sccscat -hm ChangeSet = 0
+jmochel 968965692: sccscat -hm ChangeSet = 0
+jmochel 968965692: sccscat -hm ChangeSet = 0
+jmochel 968965692: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: sccscat -hm ChangeSet = 0
+jmochel 968965693: check -a - = 12
+jmochel 968965693: sfiles = 12
+jmochel 968965694: sccscat -h ChangeSet = 0
+jmochel 968965694: keysort = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965694: sccscat -hm ChangeSet = 0
+jmochel 968965695: check -a - = 9
+jmochel 968965695: sfiles = 9
+jmochel 968965695: resolve -t = 1
+jmochel 968965695: takepatch -act -vv = 0
+!jmochel 995047024 bk-2.0beta11c: cd f:/Repository/jacl = 0
+!jmochel 995047028 bk-2.0beta11c: cd f:/Repository/jacl = 0
+!jmochel 995047036 bk-2.0beta11c: cd f:/Repository/jacl = 0
+!jmochel 995047046 bk-2.0beta11c: cd f:/Repository/jacl = 0
+!jmochel 995047074 bk-2.0beta11c: gethelp -s unlock e:/bitkee~1 = 0
+!jmochel 995047074 bk-2.0beta11c: help -s unlock = 0
+!jmochel 995047074 bk-2.0beta11c: unlock = 1
+!jmochel 995047094 bk-2.0beta11c: sfind -S -sx,c,p,n = 0
+!jmochel 995047094 bk-2.0beta11c: status = 0
+!jmochel 995047161 bk-2.0beta11c: repotool = 0
+!jmochel 995047175 bk-2.0beta11c: sane -r = 0
+!jmochel 995047175 bk-2.0beta11c: sfiles -g ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: root ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: _lines -u -t -n50 -R-1M ChangeSet = 1
+!jmochel 995047175 bk-2.0beta11c: prs -hr+ -d:AGE: ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: sfiles -g ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: root ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: _lines -u -t -R+ ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: prs -h -d:I:-:P: :DS: :UTC: :UTC-FUDGE:
+ ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: prs -h -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r+ ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: prs -hr+ -d:I:-:P: ChangeSet = 0
+!jmochel 995047175 bk-2.0beta11c: prs -hr+ -d:I:-:P: ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: prs -hr1.22 -d:KIDS: ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: prs -hr1.22 -d:KID: ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: prs -hr1.22 -d:MPARENT: ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: prs -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r1.22 ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: prs -hbMr1.22..1.22 -d:I:
+ ChangeSet = 0
+!jmochel 995047178 bk-2.0beta11c: _keysort = 0
+!jmochel 995047179 bk-2.0beta11c: idcache = 1
+!jmochel 995047179 bk-2.0beta11c: idcache = 1
+!jmochel 995047180 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047180 bk-2.0beta11c: idcache = 1
+!jmochel 995047180 bk-2.0beta11c: prs -hr -d:KIDS: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hr -d:KID: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hr -d:MPARENT: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hr1.23 -d:KIDS: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hr1.23 -d:KID: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hr1.23 -d:MPARENT: ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r1.23 ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: prs -hbMr1.23..1.23 -d:I:
+ ChangeSet = 0
+!jmochel 995047181 bk-2.0beta11c: _keysort = 0
+!jmochel 995047182 bk-2.0beta11c: idcache = 1
+!jmochel 995047182 bk-2.0beta11c: idcache = 1
+!jmochel 995047183 bk-2.0beta11c: idcache = 1
+!jmochel 995047184 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047184 bk-2.0beta11c: idcache = 1
+!jmochel 995047185 bk-2.0beta11c: prs -hr1.22 -d:KIDS: ChangeSet = 0
+!jmochel 995047185 bk-2.0beta11c: prs -hr1.22 -d:KID: ChangeSet = 0
+!jmochel 995047185 bk-2.0beta11c: prs -hr1.22 -d:MPARENT: ChangeSet = 0
+!jmochel 995047185 bk-2.0beta11c: prs -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r1.22 ChangeSet = 0
+!jmochel 995047185 bk-2.0beta11c: prs -hbMr1.22..1.22 -d:I:
+ ChangeSet = 0
+!jmochel 995047185 bk-2.0beta11c: _keysort = 0
+!jmochel 995047185 bk-2.0beta11c: idcache = 1
+!jmochel 995047186 bk-2.0beta11c: idcache = 1
+!jmochel 995047186 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047187 bk-2.0beta11c: idcache = 1
+!jmochel 995047187 bk-2.0beta11c: prs -hr1.22 -d:KIDS: ChangeSet = 0
+!jmochel 995047187 bk-2.0beta11c: prs -hr1.22 -d:KID: ChangeSet = 0
+!jmochel 995047187 bk-2.0beta11c: prs -hr1.22 -d:MPARENT: ChangeSet = 0
+!jmochel 995047187 bk-2.0beta11c: prs -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r1.22 ChangeSet = 0
+!jmochel 995047187 bk-2.0beta11c: prs -hbMr1.22..1.22 -d:I:
+ ChangeSet = 0
+!jmochel 995047187 bk-2.0beta11c: _keysort = 0
+!jmochel 995047188 bk-2.0beta11c: idcache = 1
+!jmochel 995047188 bk-2.0beta11c: idcache = 1
+!jmochel 995047189 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047189 bk-2.0beta11c: idcache = 1
+!jmochel 995047191 bk-2.0beta11c: prs -hr1.23 -d:KIDS: ChangeSet = 0
+!jmochel 995047191 bk-2.0beta11c: prs -hr1.23 -d:KID: ChangeSet = 0
+!jmochel 995047191 bk-2.0beta11c: prs -hr1.23 -d:MPARENT: ChangeSet = 0
+!jmochel 995047191 bk-2.0beta11c: prs -d:DPN:@:I:, :Dy:-:Dm:-:Dd: :T::TZ:, :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+}$each(:SYMBOL:){  TAG: (:SYMBOL:)
+}
+ -r1.23 ChangeSet = 0
+!jmochel 995047191 bk-2.0beta11c: prs -hbMr1.23..1.23 -d:I:
+ ChangeSet = 0
+!jmochel 995047191 bk-2.0beta11c: _keysort = 0
+!jmochel 995047191 bk-2.0beta11c: idcache = 1
+!jmochel 995047192 bk-2.0beta11c: idcache = 1
+!jmochel 995047192 bk-2.0beta11c: idcache = 1
+!jmochel 995047193 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047193 bk-2.0beta11c: idcache = 1
+!jmochel 995047194 bk-2.0beta11c: prs -hr1.23..1.23 -d$if(:Li: -gt 0){(:I:)
+} ChangeSet = 0
+!jmochel 995047195 bk-2.0beta11c: prs -bhr1.23..1.23 -d:I:
+ ChangeSet = 0
+!jmochel 995047195 bk-2.0beta11c: _keysort = 0
+!jmochel 995047195 bk-2.0beta11c: idcache = 1
+!jmochel 995047196 bk-2.0beta11c: idcache = 1
+!jmochel 995047196 bk-2.0beta11c: idcache = 1
+!jmochel 995047197 bk-2.0beta11c: idcache -q = 1
+!jmochel 995047197 bk-2.0beta11c: idcache = 1
+!jmochel 995047197 bk-2.0beta11c: prs -hr1.11 -d:PARENT:
+ java/scm/MacroProcessor.kawa = 0
+!jmochel 995047197 bk-2.0beta11c: prs -hr1.10 -d:D: :T:
+ java/scm/MacroProcessor.kawa = 0
+!jmochel 995047197 bk-2.0beta11c: prs -hr1.11 -d:D: :T:
+ java/scm/MacroProcessor.kawa = 0
+!jmochel 995047197 bk-2.0beta11c: get -qkpr1.10 java/scm/MacroProcessor.kawa = 0
+!jmochel 995047197 bk-2.0beta11c: get -qkpr1.11 java/scm/MacroProcessor.kawa = 0
+!jmochel 995047198 bk-2.0beta11c: sfiles -g java/scm/MacroProcessor.kawa = 0
+!jmochel 995047198 bk-2.0beta11c: prs -hr1.10 -d:DPN:
+	Flags = :FLAGS:
+	Mode  = :RWXMODE:
+ java/scm/MacroProcessor.kawa = 0
+!jmochel 995047198 bk-2.0beta11c: sfiles -g java/scm/MacroProcessor.kawa = 0
+!jmochel 995047198 bk-2.0beta11c: prs -hr1.11 -d:DPN:
+	Flags = :FLAGS:
+	Mode  = :RWXMODE:
+ java/scm/MacroProcessor.kawa = 0
+!jmochel 995047198 bk-2.0beta11c: prs -d:GFILE: :I: :D: :T: :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+} -hr1.23 ChangeSet = 0
+!jmochel 995047198 bk-2.0beta11c: prs -bhC1.11 -d:GFILE: :I: :D: :T: :P:$if(:HT:){@:HT:}
+$each(:C:){  (:C:)
+} java/scm/MacroProcessor.kawa = 0
+!jmochel 995047201 bk-2.0beta11c: csettool -r1.23..1.23 = 0
+!jmochel 995047203 bk-2.0beta11c: revtool = 0
+!jmochel 995048455 20010709210512: gethelp -s push e:/bitkee~1 = 0
+!jmochel 995048455 20010709210512: help -s push = 0
+!jmochel 995048463 20010709210512: repotool = 0
+!jmochel 995048478 20010709210512: gethelp bk e:/bitkee~1 = 0
+!jmochel 995048484 20010709210512: help bk = 0
+!jmochel 995048621 20010709210512: idcache = 1
+!jmochel 995048621 20010709210512: unlock -p RESYNC/SCCS/s.ChangeSet = 0
+!jmochel 995048621 20010709210512: resolve = 1
+!jmochel 995048636 20010709210512: gethelp abort e:/bitkee~1 = 0
+!jmochel 995048642 20010709210512: help abort = 0
+!jmochel 995048652 20010709210512: abort = 0
+!jmochel 995048670 20010709210512: cd f:/Repository/jacl = 0
+!jmochel 995048670 20010709210512: _listkey = 0
+!jmochel 995048671 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 995048671 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995048671 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995048671 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995048671 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995048671 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995048671 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995048671 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995048671 20010709210512: putenv BK_ROOT=g:/jacl = 0
+!jmochel 995048673 20010709210512: idcache = 1
+!jmochel 995048673 20010709210512: takepatch -vvv -c = 1
+!jmochel 995048692 20010709210512: cd f:/Repository/jacl = 0
+!jmochel 995048692 20010709210512: _probekey = 0
+!jmochel 995048692 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 995048692 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 995048692 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 995048692 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 995048692 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 995048692 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 995048692 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 995048692 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 995048692 20010709210512: putenv BK_ROOT=g:/jacl = 0
+!jmochel 995048994 20010709210512: idcache = 1
+!jmochel 995048994 20010709210512: export g:/jacl = 0
+!jmochel 995049104 20010709210512: gethelp -s clone e:/bitkee~1 = 0
+!jmochel 995049104 20010709210512: help -s clone = 0
+!jmochel 995049104 20010709210512: clone = 1
+!jmochel 995049142 20010709210512: sfio -o -q - = 0
+!jmochel 995049142 20010709210512: sfind = 0
+!jmochel 995049160 20010709210512: idcache = 1
+!jmochel 995049177 20010709210512: sfio -o -q - = 0
+!jmochel 995049177 20010709210512: sfind = 0
+!jmochel 995049338 20010709210512: cd f:/Repository/jacl = 0
+!jmochel 995049343 20010709210512: cd f:/Repository/jacl = 0

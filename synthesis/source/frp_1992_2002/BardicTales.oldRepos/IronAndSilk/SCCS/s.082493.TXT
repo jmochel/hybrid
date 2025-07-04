@@ -1,0 +1,51 @@
+h12179
+s 00023/00000/00000
+d D 1.1 00/02/04 15:11:12 jmochel 2 1
+cC
+cK40648
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:11:07 jmochel 1 0
+c BitKeeper file g:/BardicTales/IronAndSilk/082493.TXT
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07843
+cPIronAndSilk/082493.TXT
+cR84cc63505cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Alex,
+        Here are some notes and questions spawned by the last 
+MKP run.
+
+Do you have any notes on the basic information on Meara that we 
+could get from Esauph or Jori ? Things like who is the King, 
+what a Duke is, what a Baron is and what a Knighting ceremony 
+is ?
+
+What are a Knight's duties and a Knight's benefits ? 
+
+What is the proper form of address for a Knight ( Male and 
+female ) ?
+
+Are there female knights (i.e. precedent) ?
+
+Love and Chaos,
+    Jim and Petra
+
+
+
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,5 @@
+% FILE Time Scale Table
+% REF 
+\begin{stable}{Time Scale}{ll} 
+	Pulse      & 1/10 Second	\\
+\end{table}

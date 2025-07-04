@@ -1,0 +1,913 @@
+From world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:17 1993
+Xref: world rec.games.design:5976
+Newsgroups: rec.games.design
+Path: world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: chapter 4b - 5
+Message-ID: <1993Dec8.200555.2318@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:05:55 GMT
+Lines: 900
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                        By Steffan O'Sullivan
+                      Version: December 7, 1993
+
+Table of Contents
+=================
+
+4  Action Resolution (Continued)
+    4.7  Damage and Healing
+          4.71  Subjective Damage System
+          4.72  Objective Damage System
+          4.73  Damage Threshold
+          4.74  Combat and Objective Damage Example
+          4.75  Non-human Scale in Combat
+          4.76  Pulling Punches & Knockout Damage
+          4.77  Healing
+    4.8  Critical Results
+    4.9  NPC Reactions
+5  Character Development
+    5.1  Subjective Character Development
+    5.2  Objective Character Development
+    5.3  Development through Training
+
+
+4  Action Resolution  (Continued)
+====================
+
+4.7  Damage and Healing
+-----------------------
+
+Two damage-tracking systems are presented here for use by the GM:
+Subjective Damage system and Objective Damage system.  The Subjective
+system is simpler than the other, but less defined.
+
+In each system, damage to a character can be described as being at one
+of six stages of severity.  The stages are:
+
+Just A Scratch: no real game effect, except to create tension.  In the
+   Objective system, this will lead to being hurt if the character is
+   hit again.  (This effect is optional in the Subjective system.)
+
+Hurt: the character is wounded enough to slow him down a little: -1 to
+   all traits which would logically be affected.
+
+Very Hurt: the character is severely wounded, possibly stumbling: -2
+   to all traits which would logically be affected.
+
+Incapacitated: the character is so badly wounded as to be incapable of
+   any actions, except possibly dragging himself a few feet every now
+   and then and gasping out an important message.  Make a roll against
+   some sort of Constitution attribute at Fair Difficulty Level to
+   stay conscious.  A very lenient GM might allow an Incapacitated
+   character to perform such elaborate actions as opening a door or
+   grabbing a gem. . .
+
+Near Death: the character is not only unconscious, he'll die in less
+   than an hour - maybe a *lot* less - without outside medical help.
+   No one recovers from Near Death on their own.
+
+Dead: he has no more use for his possessions; may as well help
+   yourself.
+
+Of course, the GM may expand these stages, inserting other levels as
+needed.  For example, instead of Hurt and Very Hurt, a GM might use
+Lightly Wounded, Wounded, Badly Wounded, Severely Wounded, etc.
+
+The GM may allow a high Difficulty Level Will roll to reduce or even
+nullify penalties listed at Hurt, Very Hurt, and possibly even
+Incapacitated.
+
+Some players take delight in describing their wounds in detail, even
+writing such scars into the character story!
+
+Automatic Death: sometimes you don't have to roll the dice: holding a
+knife to a helpless character's throat is a good example - no roll
+needed to kill such a character, but your Karma suffers.
+
+4.71  Subjective Damage System
+------------------------------
+
+When using FUDGE's Subjective Damage System, the GM considers all of
+the factors below (possibly writing them down, the better to weigh
+them), and then simply announces how hurt the defender is, using one
+of the stages listed above.
+
+1) The relative degree the attack succeeded by - the better the hit,
+   the more likelihood of damage.  Winning a combat round with a
+   relative degree of +1 means you just hit her somewhere, probably
+   where she's most heavily armored.  Scoring a hit with a +3,
+   however, means you may have found a chink in the armor.
+
+2) The defender's armor.  People wearing thicker armor, and more of
+   it, tend to get hurt less than those wearing no armor.  Armor can
+   be finely defined, or simply said to be Light, Medium, or Heavy
+   armor.  Science fiction scenarios might have Extra-Heavy armor.
+   Fantasy campaigns may include magic armor that offers even greater
+   protection, sometimes specific against certain types of damage.
+
+3) The deadliness of the attacker's weapon.  Big weapons tend to do
+   more damage than little weapons; sharp weapons rip tissue more than
+   dull ones.  People trained in Karate tend to do more damage than
+   those untrained in any martial art.
+
+4) The strength of the blow.  For muscle-powered weapons, such as
+   melee weapons, unarmed attacks, bows, slings, etc., this is
+   determined by the attacker's Strength attribute: stronger folks
+   tend to hit harder.  For things like guns, beam weapons, etc., it
+   is relative to the nature of the weapon: a .38 usually does more
+   damage than a .22.
+
+5) The amount of damage the victim can soak up (Robustness, Damage
+   Capacity, or Mass).  Big, healthy guys can take more damage before
+   collapsing than little, sickly guys, usually.  But it's your call
+   if it's a big, sickly fighter against a little, healthy fellow.
+
+4.72  Objective Damage System
+-----------------------------
+
+This system quantifies damage more than the other, and is quite
+mechanical.  Damage consists of three parts: Basic Damage, the
+attacker's Offensive Damage Modifier, and the defender's Defensive
+Damage Modifier.  (There is a fourth optional part: the damage roll.)
+
+Thus:
+
+Total Damage = Basic Damage + Offensive Damage Modifier - Defensive
+               Damage Modifier (+ damage roll)
+
+Basic Damage is the relative degree by which the winner hit the loser.
+Example: if Lisa rolls a Great combat result and Joe only a Fair
+result, Lisa has hit Joe for two points of Basic Damage.
+
+The Offensive Damage Modifier is based on a number of factors,
+including strength, Scale and weapon.  For ease of use, it should be
+calculated for each weapon at character creation and updated as
+necessary.  The Offensive Damage Modifier consists of:
+
+For Muscle-Powered Weapon:
+   -1 for no weapon, Martial Art skill at Mediocre or worse (or none).
+   +0 for small weapon (knife, blackjack, brass knuckles, sling,
+      etc.).
+   +0 Martial Art skill at Fair or Good, no weapon.
+   +1 Martial Art skill at Great or Superb, no weapon.
+   +1 for just-below-average sized weapons (billy club, machete,
+      shortsword, epee, hatchet, rock, etc.).
+   +2 for average-sized weapon (most swords, axe, spear, large club,
+      bow, etc.).
+   +3 for large weapon (polearm, two-handed sword, battleaxe, etc.).
+   +1 for sharpness (add to other weapon damage: knife becomes +1,
+      shortsword +2, broadsword +3, greatsword +4, etc.).
+   
+   Note: For a less lethal game, subtract 1 from each type of weapon
+   except sharpness.  (Note that this will lengthen combats.)
+
+For Character's Strength (muscle-powered weapons only):
+   +3 for Superb Strength
+   +2 for Great Strength
+   +1 for Good Strength
+   +0 for Fair Strength
+   -1 for Mediocre Strength
+   -2 for Poor Strength
+   -3 for Terrible Strength
+
+For Weapon's Strength (Guns, Crossbows, Beam weapons, etc.,):
+   +/- Strength of weapon (see Section 4.65, Objective Ranged Combat).
+
+For Attacker's Scale:
+   Plus the attacker's Strength Scale (see Section 4.75).
+   
+   Note: the attacker's Strength Scale is relevant only for muscle-
+   powered weapons and for those projectile weapons scaled to the
+   attacker's size, such as miniature bazookas or giant-sized
+   handguns.  A superhero of Scale 10 using an ordinary pistol would
+   *not* figure his Scale into the Offensive Damage Modifier.
+
+Example of Offensive Damage Modifier: Jeb the Dwarf is of Scale 1
+(although short, he's solid as a rock), Great Strength (+2), and uses
+a one-handed axe of +3 damage.  On his character sheet, Jeb would
+have: "One-handed Axe, +3 damage (Off.Dam.Mod.: +6)."
+
+The Defensive Damage Modifier is based on armor and Scale (Mass) and
+should likewise be calculated at character creation and updated as the
+character's armor changes.  The Defensive Damage Modifier consists of:
+
+For Armor:
+   +1 or +2 for a good shield (add to other armor modifiers).
+   +1 for light, pliable non-metal armor.
+   +2 for heavy, rigid non-metal armor
+   +2 for light metal armor.
+   +3 for medium metal armor.
+   +4 for heavy metal armor.
+   +5 or more for science fiction advanced armor.
+
+Note: a +2 shield is *very* large and cumbersome to carry.
+Note: magical armor may add anywhere from +1 to whatever the GM will
+      allow to any given armor type above.
+
+For Defender's Mass Scale:
+   Plus the defender's Mass Scale (see Section 4.75).
+   
+   (If the defender has Mass other than Fair, or a gift of Tough Hide,
+    it should also be figured in.)
+
+Example of Defensive Damage Modifier: Jeb the Dwarf is of Scale +1,
+and wears heavy non-metal armor (+2) and carries a regular shield
+(+1).  On the character sheet, the player would list: "Shield: +1; Hvy
+non-metal armor: +2 (Def.Dam.Mod: +3 w/out shield; +4 w/shield)."
+
+Optional Damage Roll:
+   
+   Although the damage roll is optional, it is recommended.  For one
+   thing, it allows a character with a high Offensive Damage Modifier
+   merely to graze an opponent, something the Objective Damage system
+   doesn't account for otherwise.  Further, it gives a tiny fighter a
+   chance to damage a large opponent - a small chance, true, but
+   that's better than no chance.
+
+First, make all calculations above; the damage at this point is called
+the *calculated* damage.  The attacker then makes a Situational damage
+roll, which is not based on any trait.  The result, which will range
+from -4 to +4, is applied to the calculated damage to produce the
+final damage.  Negative final damage is treated as zero damage.
+
+There are three limitations to the damage roll:
+1) If the calculated damage is positive, the damage roll cannot exceed
+   the calculated damage.  For example, if the calculated damage is
+   two, any damage roll of +3 or +4 is reduced to +2.
+2) If the calculated damage is positive, the final damage cannot be
+   less than one.
+3) If the calculated damage is negative or zero, the final damage may
+   be raised to a maximum of one point by a damage roll.
+
+First Example: The calculated damage is found to be -2 due to armor
+and Scale.  It would take a +3 or +4 result to inflict a wound on the
+defender in this case, and then only 1 point of damage.
+
+Second Example: The calculated damage is +2.  A damage roll of +2 to
++4 results in final damage of four points, since calculated damage
+cannot be more than doubled by a damage roll.  A damage roll of +1
+results in final damage of three points, while a damage roll of 0
+results in two points of final damage.  Any negative die roll results
+in one point of final damage, since a positive calculated damage
+cannot be reduced below one by a damage roll.
+
+For simplicity, of course, the GM can simply ignore the limitations,
+and allow the damage roll to be anywhere from -4 to +4, let the chips
+fall where they may . . .
+
+Grazing:
+
+A simple way to represent grazes in combat is to say that any Basic
+Damage of +1 (Opposed action won by 1) can do at most 1 point of
+damage, plus any Scale difference.  (It may do zero points, of course,
+depending on the opponent's Defensive Damage Modifier.)  This grazing
+could be a maximum of two points (plus difference in Scale), if the GM
+desired.  Or the Scale difference could be halved in this case,
+meaning a giant's club could still give a human a glancing blow that
+would probably Hurt, but not necessarily Incapacitate.
+
+Recording wounds:
+
+Once the final damage is determined, it is recorded on the wounded
+fighter's character sheet.  The Scratched, Hurt, Very Hurt, etc.,
+system introduced in Section 4.7, Damage and Healing, is used.
+However, each point of damage does not necessarily mean the wounded
+character loses the same number of steps.  Instead, the different
+levels of Damage Capacity take hits as follows:
+
+              Scratch  Hurt  Very Hurt  Incapacitated  Near Death
+Terrible         1       1       1           1              2
+Poor             2       1       1           2              2
+Mediocre         2       2       1           2              2
+Fair             2       2       2           2              2
+Good             3       2       2           3              2
+Great            3       3       2           3              2
+Superb           3       3       3           3              2
+Legendary        4       3       3           4              2
+
+Wounds are cumulative.  That is, the first two points of damage to a
+character with Fair Damage Capacity count as Scratches, and the next
+hit will Hurt the character.  The fifth point of damage will make the
+character Very Hurt, and so on, until the eleventh point of damage,
+which will kill the character.  If this character has taken four
+points of damage total, he is still only at -1 to his actions for
+being Hurt; he is not at -2 until the next point of damage, which will
+make him Very Hurt.
+
+The player should write the character's wound progression on the
+character sheet at character creation if using the Objective Damage
+System.
+
+The wound progression above makes for a fairly realistic campaign.
+For a more cinematic campaign (especially those without magic or
+science fiction healing), add an extra Scratch (and maybe even Hurt)
+to each level.  It wouldn't be out of line, for an epic scale game, to
+add 2 levels of Scratch and Hurt to each PC.  This would mean little
+blows wouldn't accumulate so quickly to hinder the character.
+
+4.73  Damage Threshold
+----------------------
+
+A "damage threshold" is a limit to the number of wound steps a
+character can take in one blow.  This is an optional rule, recommended
+for campaigns that are even the least bit heroic.  A damage threshold
+prevents accidental PC death, which (in most campaigns) shouldn't
+occur through a bad die roll, but only if the character's actions were
+truly self-sacrificing or stupid enough to warrant death.  The damage
+threshold concept can be implemented in different ways.
+
+One method is simply to rule that an average character cannot take
+more than three levels of wounds in one blow *in ordinary combat.*
+For example, an unwounded character could be Scratched, Hurt, or Very
+Hurt in one blow, but any excess damage points beyond that would be
+lost.  A Hurt character could go all the way to Near Death in one
+blow, but not be killed outright.
+
+The GM might tailor the damage threshold to Damage Capacity.  For
+example, characters of Great or Superb Damage Capacity might take only
+two levels of wounds in one blow.  (That is, an unwounded character of
+Superb Damage Capacity can only be Scratched or Hurt, not Very Hurt,
+in his first wound.)  Likewise, characters of Terrible and Poor Damage
+Capacity might be able to go through four wound levels in one blow.
+
+Another way to handle a damage threshold is to say that a character
+cannot be rendered Incapacitated unless he began that combat round
+Very Hurt.  This type of threshold could be between Incapacitated and
+Near Death, instead - or both, if desired!  This is simpler to keep
+track of than the other system, but even less realistic.  But, then,
+the whole concept of a damage threshold isn't realistic: it's to make
+the PCs more heroic than real life.
+
+The "automatic death" rule in Section 4.7, Damage and Healing, takes
+precedence over damage thresholds.  Note that "automatic death" can be
+defined by the GM to include such things as being hit solidly by a
+giant, which doesn't really fall under the category of "ordinary
+combat."  Being shot by a large firearm actually can be considered
+ordinary combat, but might be exempt from the damage threshold rule,
+anyway.
+
+An indulgent GM who isn't concerned with realism can use damage
+thresholds for PCs but ignore them for NPCs.
+
+Perhaps the simplest and best way to prevent unnecessary PC death is
+to allow a player to spend a Fudge Point (Section 2.36) to convert a
+deadly wound to a merely serious one.
+
+4.74  Combat and Objective Damage Example
+-----------------------------------------
+
+This example uses the Objective Damage system, including the optional
+damage roll.
+
+The two opponents are Medieval warriors, Snorri and Brynhild.  The
+fight takes place in a barroom, which quickly emptied of other
+occupants once weapons were drawn.  No one noticed that the
+innkeeper's son had actually left much earlier than this, when the
+belligerent Snorri was merely exchanging insults with the proud
+Brynhild.  Both fighters are human (Scale 0), so Scale is left out of
+the discussion.
+
+Snorri:
+Strength: Good (+1)
+Weapon: Magic Sword (+2 for size, +1 for Sharpness, +1 for Magic = +4)
+Sword skill: Great
+Damage Capacity: Good
+Armor: Heavy Leather (+2), no shield
+Offensive Damage Modifier: +5
+Defensive Damage Modifier: +2
+
+Brynhild:
+Strength: Great (+2)
+Weapon: Axe (+2 for size, +1 for Sharpness = +3)
+Axe skill: Good
+Damage Capacity: Fair
+Armor: Heavy Leather (+2)
+Shield: Normal (+1)
+Offensive Damage Modifier: (+5)
+Defensive Damage Modifier: (+3)
+
+In the first round, Snorri gets a Great result on his weapon skill,
+and Brynhild gets a Fair result.  Snorri wins with a relative degree
+of +2, which equals the Basic Damage.  Next, Snorri's Offensive Damage
+Modifier of +5 is added in, bringing the damage to +7.  Now the GM
+subtracts Brynhild's Defensive Damage Modifier of +3, bringing the
+calculated damage down to +4.
+   
+   The GM is requiring damage rolls, so Snorri's player rolls the
+   dice: a -4 result, the worst he could have gotten!  This would
+   bring the damage down to 0, but there is a limitation that prevents
+   positive calculated damage to be reduced below one, so Snorri does
+   one point of damage to Brynhild.
+   
+   Since her Damage Capacity is Fair, Brynhild can take two points of
+   damage and still be only Scratched.  The GM marks one point of
+   Scratch, and the next round is fought.
+
+In the second round, both combatants get Good results - a standoff.
+The GM describes it as a give-and-take of blows that are all parried
+or blocked as the fighters circle each other.
+
+In the third round, Snorri gets a Great result and Brynhild only a
+Good result - Snorri has hit again!  Basic Damage = 1, his Offensive
+Damage Modifier of +5 brings damage up to 6, and Brynhild's Defensive
+Damage Modifier of +3 brings the calculated damage to +3.  Snorri's
+player rolls the dice, this time getting a +1 result: he scores four
+points of damage to Brynhild!
+   
+   The GM marks off four points of damage on Brynhild's character
+   sheet: one uses up the last Scratch, the next two use up both Hurt
+   points, and the last damage point is marked against Very Hurt.
+   Brynhild is now Very Hurt, and her skill is at -2: she's fighting
+   as if she were Mediocre now.
+
+In the fourth round, Snorri decides to finish off the wounded Brynhild
+in one blow: he all-out attacks, which gives him a +1 to his skill,
+and a +1 to damage if he wins.  Brynhild had decided to try for a
+situational advantage, though: she's spending this round in all-out
+defense, hoping to spot some way to get an advantage over Snorri for
+the fifth round.  Brynhild gets +2 to her skill this turn, but can't
+hurt Snorri if she wins.  Snorri gets a Great result, even with his +1
+for all-out attacking, and Brynhild also gets a Great result!  Snorri
+would ordinarily have lost the combat round (all-out attackers lose
+tie results), but Brynhild's all-out defense means she doesn't aim any
+blows at Snorri, just beats his attack down.
+
+In the fifth round, the GM gives Brynhild a much-needed +1 for having
+spotted a spilled drink on the barroom floor.  Since she didn't lose
+the previous round, she managed to maneuver Snorri so that he's in the
+puddle: he's at -1 to skill this round (down to Good).  Snorri takes
+an ordinary combat round, and Brynhild, wounded and desperate, now
+tries an all-out attack herself: +1 to her skill, bringing her up to
+an effective skill of Fair from her wounded Mediocre state.  Brynhild
+rolls a Great result, and Snorri only gets a Good result: Brynhild
+wins this round.
+   
+   Since she was doing an all-out attack, she gets a bonus of +1 to
+   damage.  The Basic Damage is therefore 2, which becomes 7 when her
+   Offensive Damage Modifier is added in.  Snorri's Defensive Damage
+   Modifier is +2, so calculated damage is 5.  The GM makes a damage
+   roll of +0, so Snorri takes five points of damage.  Since his
+   Damage Capacity is Good, this means three of the damage points are
+   Scratches, and the final two are Hurt wounds.  Snorri is now Hurt:
+   -1 until healed.
+
+The combat is interrupted at this point by the town guards, who had
+been quickly alerted by the innkeeper's son.  Snorri and Brynhild are
+hauled off to separate cells, probably only too glad to get out of
+what had become a deadly duel . . .
+
+4.75  Non-human Scale in Combat
+-------------------------------
+
+Combat between creatures of different Scale (Mass/Strength Scale) is
+very straightforward.  Because weapons and armor are scaled along with
+the wielder's Strength, no difficult computation is needed.
+
+Basically, the attacker's Strength Scale is figured into his Offensive
+Damage Modifier, and the defender's Mass Scale is figured into her
+Defensive Damage Modifier.  Once the basic damage has been determined
+normally, the attacker's Offensive Damage Modifier is added to his
+damage, and the defender's Defensive Damage Modifier is subtracted
+from the final damage.  If you have combat with beings weaker than
+humans, remember what you learned in school about adding and
+subtracting negative numbers . . .
+
+That's all there is to it.  As per normal FUDGE damage rules, armor
+decreases the damage done while weapon size and deadliness may
+increase the damage done.  Hits become Scratches, Hurt, etc., as usual
+- see Section 4.7, Damage and Healing.
+
+However, a very small character is not likely to be able to wound a
+large one in this system.  The GM may allow a point or two of damage
+to penetrate if the small character gets a critical success.  Poison-
+tipped arrows and lances are also a possibility: the small character
+can aim for joints in the armor and merely has to break the skin to
+inject the poison.
+
+Also, this system treats Scale like armor, which isn't quite accurate.
+In reality, a small opponent may be slowly carving the larger fighter
+up, but each wound is too petty, relative to the large scale, to do
+much damage by itself.  To reflect a lot of small wounds gradually
+inflicting a hit on a large-scale foe, let each hit that is just
+barely stopped by Scale count as half a hit.  "Just barely" depends on
+the Scale difference, of course.  For Scale 1, there isn't any half
+hit stage, while Scale 10 difference might mean having six or more
+hits stopped by scale.
+
+Another way to represent this is to allow a damage roll when Scale
+prevents a hit from doing any damage.  See Section 4.72, Objective
+Damage System, for damage rolls.
+
+There are also "scale piercing" weapons, such as whale harpoons and
+elephant guns.  These don't have massive damage numbers: instead, if
+they hit well, simply halve the Scale value, or ignore it all
+together.  Of course, if such a weapon is used on a human, it would
+indeed have a massive damage modifier . . .
+
+Objective Damage System Combat Examples: In the following examples,
+Strength and Mass are at the same Scale.  Also, it is assumed the GM
+is not using the optional damage roll, which could vary damage in all
+three combat rounds discussed.
+
+First example:
+
+Wilbur, a human knight with a sword, is attacking a dragon.  Wilbur's
+Offensive Damage Modifier is a respectable +6:
+   Great Strength: +2
+   Two-handed sword: +4 (+3 for size, +1 for sharpness)
+   Scale: +0.
+The dragon's Defensive Damage Modifier is +8:
+   Scale: +6
+   Tough hide: +2.
+If Wilbur hits the dragon with a relative degree of +3, he does 3+6 =
+9 points of damage.  This would be a very severe blow to a human (even
+one wearing armor), but this is no human opponent.  Only one hit gets
+through after subtracting the dragon's Defensive Damage Modifier of 8.
+The GM checks off a Scratch for the dragon, and the fight continues.
+Since the dragon has Fair Damage Capacity (she can take two
+Scratches), Wilbur will have to do this twice more before he finally
+Hurts the dragon.  He may need help, or have to go back for his magic
+sword!
+
+Second example:
+
+Sheba, a human warrior, has just kicked McMurtree, a wee leprechaun.
+Sheba's Offensive Damage Modifier = +1:
+   Fair Strength: +0
+   Great Unarmed Combat Skill: +1
+   Scale: +0.
+McMurtree's Defensive Damage Modifier is -3:
+   Light Leather Armor: +1
+   Scale: -4.
+If Sheba wins the first combat round with a relative degree of +1 she
+adds in her Offensive Damage Modifier of +1 for a total damage so far
+of +2.  However, McMurtree's Defensive Damage Modifier equals -3,
+which is subtracted from the damage.  Subtracting a negative number
+means you actually add an equal but positive amount: 2+3 = 5 points of
+damage.  Since he has Fair Damage Capacity, he takes 2 Scratch hits, 2
+Hurt hits and 1 Very Hurt hit - he's at -2 for the next combat round,
+and in grave danger if she hits again.
+
+Third example:
+
+McMurtree's friend, Fionn, now swings his shillelagh (oak root club)
+at Sheba's knee.  Fionn's Offensive Damage Modifier is -1:
+   Good Strength: +1
+   Shillelagh: +2 (medium sized relative to Fionn, not sharp)
+   Scale: -4.
+Sheba's Defensive Damage Modifier is +2:
+   Heavy Leather Armor: +2
+   Scale: +0.
+If Fionn wins by +3, he adds in his Offensive Damage Modifier of -1,
+which brings the damage down to a total so far of +2.  Unfortunately
+for Fionn, this equals Sheba's Defensive Damage Modifier exactly, so
+she takes no damage from an excellently placed hit!
+
+Fionn had better think of some other strategy, quickly.  Fortunately
+for Fionn, he knows some magic, and if he can dodge just one kick from
+Sheba, she'll learn the hard way why it's best not to antagonize the
+Wee folk . . .
+
+4.76  Pulling Punches & Knockout Damage
+---------------------------------------
+
+In either the Objective or Subjective Damage system, a player can have
+his character do reduced damage in any given attack.  This commonly
+occurs in duels of honor, where it is only necessary to draw "first
+blood" to win, and killing your opponent can get you charged with
+murder.  This is known as "pulling your punch," even if you are using
+a sword.
+
+To pull your punch, simply announce the maximum damage level you will
+do if you are successful.  A fencer can say he is going for one point
+of damage, for example.  In this case, even if he wins the Opposed
+action by +8, and adds in +3 for his sword, he only does one point of
+damage: he was just trying to nick his foe.  In the Subjective Damage
+system, a player might decide he just wanted to Scratch the opponent.
+
+Likewise, a player can announce that his character is going for knock-
+out damage rather than killing damage.  In this case, Hurt and Very
+Hurt simply count as additional Scratch levels.  It takes an
+Incapacitated result to knock a character out, but there is no penalty
+for being Hurt or Very Hurt on the way.  A knocked-out character
+doesn't need healing to recuperate to full health - just time.  (Only
+a very severe GM would roll for the possibility of brain damage - this
+is fiction, not reality!)
+
+The GM may simply decide that a successful Good blow (or better) to
+the head knocks someone out automatically.  In an Opposed action, the
+Good blow would also have to win the combat, of course.
+
+4.77  Healing
+-------------
+
+Healing is done through a medical skill or supernormal power.  A
+Scratch is too insignificant to require a roll on a healing skill
+(although it might require a kiss to make it better . . .).  A Good
+result on a healing skill heals all Hurt wounds; a Great result heals
+all Very Hurt (as well as Hurt) wounds, and a Superb result heals an
+Incapacitated character.
+
+Otherwise, wounds heal on their own at one wound level per week of
+rest.  That is, after a week of rest, an Incapacitated character
+becomes Very Hurt, etc.  (The GM sets the healing rate of Scratches.
+They may disappear automatically once you are out of combat time, or
+they may linger on for a day or two.)  The GM may also require a
+successful roll against some sort of Constitution attribute: Fair
+Difficulty Level for Hurt, Good Difficulty Level for Very Hurt, and
+Great Difficulty Level for Incapacitated.  Failing this roll slows the
+healing process.  Someone Near Death should take a long time to heal,
+even with magical or high tech healing.
+
+Healing with realistic medical skills takes time: the success of the
+roll merely insures the wounds *will* heal, given enough rest.  How
+long this takes depends on the technological level of the game
+setting, and is up to the GM.  (A day per treated wound is extremely
+fast healing, but may be appropriate in an epic-style game.  Likewise,
+one minute per magically healed wound is very fast.)  Whether or not
+strenuous activity before the healing period ends reopens a wound is
+also left up to the GM . . .
+
+4.8  Critical Results
+---------------------
+
+Critical results are an optional FUDGE rule for GMs who like the idea.
+A natural rolled result of +4 can be considered a critical success -
+the character has done exceptionally well, and the GM may grant some
+special bonus to the action.  Likewise, a natural result of -4 is a
+critical failure, and the character has done as poorly as he possibly
+can in the given situation.
+
+Note that achieving +/-4 with die modifiers does not count as a
+critical result, though the character *has* done exceptionally well or
+poorly.  When a natural critical result is rolled, the GM may ignore
+what the rolled degree would be, and treat it as an automatic beyond
+Superb or below Terrible result.
+
+Optionally, if a character gets a rolled degree four or more levels
+better than the Difficulty Level, he has gotten a critical success.
+Likewise, four levels below a Difficulty Level is a critical failure.
+
+A critical result in combat can mean many things: one fighter falls
+down, or drops his weapon, or is hurt extra badly, or is stunned for a
+round and can't even defend himself, or is temporarily blinded, or
+knocked out, etc.  The GM should be creative, but not kill a character
+outright!
+
+The GM may even wish to make a table, such as these sample melee
+critical results:
+
+Roll 2d6:
+ 2   Blinded for the next combat round - no defense or offense!
+ 3   Fall down: skill at -2 for one round.
+ 4   Armor badly damaged - no armor value rest of fight!
+ 5   Weapon finds chink in armor - do not subtract for armor.
+ 6   Off balance - skill at -1 next turn.
+ 7   Drop Weapon.
+ 8   Weapon breaks, but still useful: -1 to damage.
+ 9   . . .
+
+And so on - finish and customize to your tastes.
+
+This is an easy way to achieve a lot of detail without complicating
+FUDGE.  Those with Internet access are invited to add any interesting
+critical results tables they create to the FUDGE sites!
+
+4.9  NPC Reactions
+------------------
+
+Sometimes a non-player character has a set reaction to the PCs.
+Perhaps she's automatically their enemy, or perhaps the party has
+rescued her, and earned her gratitude.  But there will be many NPCs
+that don't have a set reaction.  When the PCs request information or
+aid, it might go smoothly or it might not go well at all.  Negotiation
+with a stranger is always an unknown quantity to the players - it may
+be so for the GM, too!
+
+When in doubt, the GM should secretly make a Situational roll.  If the
+PC in question has a trait that might affect a stranger's reaction,
+this should be grant a +/-1 (or more) to the result.  Examples include
+Appearance (which could be an attribute, gift or fault), Charisma,
+Reputation, Status, and such habits as nose-picking or vulgar
+language.  The Reaction roll can also be modified up or down by
+circumstances: bribes, suspicious or friendly nature of the NPC,
+proximity of the NPC's boss, observed PC behavior, etc.
+
+The higher the Reaction roll result, the better the reaction.  On a
+Fair result, for example, the NPC will be mildly helpful, but only if
+it's not too much effort.  She won't be helpful at all on Mediocre or
+worse results, but will react well on a Good result or better.
+
+Example: Nathaniel needs some information about the local duke, who he
+suspects is corrupt.  He has observed that folks are reticent to talk
+about the duke to strangers.  Nathaniel decides to approach a
+talkative vegetable seller at the open market.  Nathaniel has an
+average appearance (no modifier), but is charismatic: +1 to any
+Reaction roll.  He makes small talk for a while, then slowly brings
+the duke into the conversation.  The GM decides this was done
+skillfully enough to warrant another +1 on the reaction roll.
+However, the situation is prickly: -2 in general to elicit *any*
+information about the sinister local ruler.  This cancels Nathaniel's
+bonuses.  The GM rolls in secret, and gets a Fair result.  The old
+lady slips out a bit of useful information before realizing what she's
+just said.  At that point she clams up, but Nathaniel casually changes
+the subject to the weather, dispelling her suspicions.  He wanders off
+to try his luck elsewhere.
+
+
+5  Character Development
+========================
+
+After playing a bit, perhaps each session, the player will want the
+character to grow in abilities.  At this point, initial GM-set skill
+limits (such as one Superb, three Greats) can be exceeded as the
+character naturally develops.  There are two ways to handle character
+development, or "experience," as it's often called.
+
+5.1  Subjective Character Development
+-------------------------------------
+
+When the player feels the character has accomplished enough to warrant
+improving in some trait (and he feels he's been roleplaying well), he
+petitions the GM for permission to raise it.  A trait can only be
+raised one level at a time.  A trait must be used more to raise it
+from Good to Great than Fair to Good, and so on.  Also, skill traits
+should be much easier to raise than attributes.
+
+Likewise, the GM can simply award an improvement in a trait she feels
+deserves to be raised.  In these cases, there is never a corresponding
+reduction of another trait - this is character development, not
+creation.
+
+5.2  Objective Character Development
+------------------------------------
+
+In the Objective Character Development system, the GM can award
+experience points (EP), which the player can trade in any way he wants
+at the following rates:
+
+Raising a skill up to Fair level: 1 EP per level.
+Raising a skill from Fair to Good: 2 EP.
+Raising a skill from Good to Great: 4 EP.
+Raising a skill from Great to Superb: 8 EP.
+Raising a skill from Superb to Legendary: 16 EP (or more), *and* GM
+       approval.
+Raising a skill from Legendary to Legendary, 2nd Level: 30 EP (or
+       more), *and* GM approval.
+Raising a skill each level beyond Legendary, 2nd Level: 50 EP (or
+       more), *and* GM approval.
+Raising an attribute: triple the cost for skills of the same level.
+Adding a gift: 6 EP (or more), *and* GM approval.
+Adding a supernormal power: 12 EP (or more), *and* GM approval.
+
+However, a trait can only be raised one level at a time.
+
+The GM may adjust these point levels as she sees fit, of course, and
+should require that the traits being raised are those that were used
+significantly during an adventure.
+
+As a guideline, good roleplaying should be rewarded with 1 to 3 EP per
+gaming session, with an upper suggested limit of 4 EP for flawless
+roleplaying.  Players may save EP as long as they wish.
+
+Attribute levels may or may not have effect on EPs put into skills.
+For simplicity, you can ignore attribute levels entirely when raising
+skill levels.  As an interesting way to keep the game more realistic,
+however, consider the following options:
+
+High attributes: if a character has an exceptionally high attribute
+that would logically affect a skill, then the GM may shift the EP
+costs (on the table above) one level cheaper.  For example, raising
+Juggling from Fair to Good costs 2 EP for most characters, and raising
+it from Good to Great costs 4 EP.  If a character has Great or Superb
+Dexterity, however, it would only cost 1 EP to raise Juggling from
+Fair to Good, and 2 EP to raise it from Good to Great using this
+option.
+
+Low attributes: conversely, an appropriate attribute of Terrible or
+Poor would shift the costs one level the other direction.  Raising
+Juggling skill from Mediocre to Fair would cost 2 EP if the
+character's Dexterity attribute were Terrible, for example.  For an
+extreme treatment of this (involving a skill controlling a Supernormal
+Power), see Moose the Mage, Section 6.313, Character Examples.
+
+This system is strictly for character development, and is not
+recommended for character creation.  If the GM decides to use it,
+however, she should warn the players at the time of character creation
+so they can plan their characters' attributes accordingly.
+
+A simpler way to handle this is to charge double EP costs (or multiply
+EP costs by 1.5, round up) when a skill is raised *above* an
+appropriate attribute.  For example, Josco the Jester has Good
+Dexterity.  EP costs for raising Juggling skill are normal until he
+tries to raise Juggling to Great, which is higher than his Dexterity.
+At that point, he must pay double cost: 8 EP.  (Or 6 EP, if using the
+x1.5 formula.)  This can quickly become very expensive in terms of EP,
+however, especially if the GM hasn't allowed many free attribute
+levels.  It is *not* recommended in epic style campaigns, especially
+those with Legendary levels!  Again, this would have nothing to do
+with skill level costs at character creation, only EP costs.
+
+5.3  Development through Training
+---------------------------------
+
+Improving skills through EP is not always realistic, to be honest.  A
+gaming session might only cover a few hours of campaign time.
+Allowing a character to improve one or two different skills from Fair
+to Good in that time is far-fetched, to say the least.  But it's fun
+for the players, and psychologically satisfying, and so recommended.
+
+As an alternative, or in addition to the methods described above, the
+GM may allow traits to be raised through appropriate amounts of
+training time.  This would require finding a teacher (which would cost
+money) or taking an appropriate job (which may not be totally
+dedicated the skill you wish to learn, and so take longer).  It's also
+possible to learn something on your own, but the GM should double the
+time required.  If using the Objective Character Development system,
+the GM may (or may not) require that EPs be spent in this manner -
+that is, you can't spend EPs unless you also take the time to train.
+
+The GM will have to set training time and costs, and difficulty of
+finding a teacher.  The teacher has two skills that must be
+considered: Teaching skill, and the appropriate skill being taught.
+She should also require a number of rolls from the player to see how
+diligently the character learned the skill.  These rolls should be on
+an attribute such as Willpower, Drive, Zeal, Wisdom, Self Discipline,
+Self Motivation, Psyche, Intelligence, etc.  If the player can give a
+valid reason why the character is extremely motivated to learn this
+skill, the GM may grant up to +2 to the trait tested.  Not every roll
+has to match whatever level the GM has set for success, but over half
+of them should.
+
+Example: Billy Blaster, space cadet, is back at the Academy after his
+first tour of duty.  He decides his Fair Laser pistol skill is not as
+good as it needs to be.  He takes a ten-week training course in Laser
+pistol use, taught by an instructor of Great Laser skill and Superb
+Teaching skill.  (Since Billy has Gift: Employed by Space Patrol, this
+is free training for him.)  The GM decides that Billy's player needs
+to make five Willpower rolls to see how dedicated he is to studying.
+If most of the rolls are Mediocre or better, Billy can raise his Laser
+pistol skill from Fair to Good, given the length of training and
+quality of the instructor.  Had the training been shorter, or the
+instructor worse, he would have needed a preponderance of Fair or even
+Good rolls to have successfully raised his Laser pistol skill.
+
+If using this system, remember that it is much easier to improve a
+skill from Poor to Mediocre than from Great to Superb.  Require more
+time, or higher Difficulty Levels on the Will rolls to raise an
+already high skill.
+
+[End of Chapter Five.  FUDGE continued in Chapter Six.]
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

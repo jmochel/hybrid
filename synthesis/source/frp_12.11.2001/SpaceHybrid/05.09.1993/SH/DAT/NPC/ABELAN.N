@@ -1,0 +1,45 @@
+.Name ABELAN
+.Title HIGH PRIESTESS			   
+.Race HU
+.Culture
+.Aspect 
+.PST 13
+.PEN 10		
+.DEX 18
+.PAG 09		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 5'2"      
+.WT 140		 
+.AGE 41
+.BeginDesc
+ 10: A PLUMP AND MOTHERLY FIGURE WITH BROWN HAIR AND GREEN EYES AND  
+A FAST LONGSWORD AND DAGGER
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale TEMOROTH
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends DESPISES HAR OF OSTERLAND.
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ A DICERION OF DISPELLMENT. AND A HELM OF TRUE SIGHT.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

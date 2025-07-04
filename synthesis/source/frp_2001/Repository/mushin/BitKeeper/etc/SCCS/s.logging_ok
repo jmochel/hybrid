@@ -1,0 +1,31 @@
+H35403
+s 00001/00000/00000
+d D 1.1 01/07/13 18:14:31 jmochel 2 1
+cC
+cF1
+cK03839
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:31 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/BitKeeper/etc/logging_ok
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK64631
+cPBitKeeper/etc/logging_ok
+cR499acc38
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+jmochel@devilmountain.corp.foliage.com
+E 2
+I 1
+E 1

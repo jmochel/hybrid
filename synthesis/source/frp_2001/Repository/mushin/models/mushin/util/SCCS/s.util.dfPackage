@@ -1,0 +1,92 @@
+H08773
+s 00062/00000/00000
+d D 1.1 01/07/13 18:14:22 jmochel 2 1
+cC
+cF1
+cK40768
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:22 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin/util/util.dfPackage
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK33297
+cPmodels/mushin/util/util.dfPackage
+cR47afc99e
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+package id2wzzjcp4bi4jzcp4c07vb;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id45aycp4bi4jzcp4cd9gg.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#mushin.util.commandline:oiref> 
+*/
+class reference {
+}/**
+@__ref <oiref:design#Class#idtvm1cp4bi4jzcp4cd9ji.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#mushin.util.hash:oiref> 
+*/
+class reference20 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id3y2ejcp4bi4jzcp4c03am.diagram:oiref><oihard>
+@automatic 
+*/
+class link {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id1gabscp4bi4jzcp4c0609.diagram:oiref><oihard>
+@automatic 
+*/
+class link135 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#idtvm1cp4bi4jzcp4cd9ji.diagram:oiref><oihard>
+@automatic 
+*/
+class link136 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#id45aycp4bi4jzcp4cd9gg.diagram:oiref><oihard>
+@automatic 
+*/
+class link137 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}
+E 2N
+I 1
+E 1

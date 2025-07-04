@@ -1,0 +1,146 @@
+\documentstyle{report}
+
+\begin{document}
+
+\title{Skills and Skill handling}
+\author{J.Mochel}
+\maketitle
+
+\section{General}
+
+All executions of a skill are based on a difficulty Factor (DF) *
+a Stat Basis (SB). There are a variety of mods that can be applied
+to any skill.
+
+\begin{table}[h]
+\caption{DF Modifiers for Skill Based Actions}
+\centering
+	\begin{tabular}{||l|r||} \hline
+	Condition                      &  Effect\\ \hline
+	Suprise                        &  -1.0\\
+	Unranked in Area               &  -2.0\\
+	Setup(1)                       &  +1.0\\
+	Adding 1st minor complexity(2) &  -0.5\\
+	Adding 1st major complexity(3) &  -1.0 \\
+	Adding 2nd minor complexity    &  -1.0\\
+	Adding 2nd major complexity    &  -2.0 \\ \hline
+	\end{tabular}
+\end{table}
+
+Setup should be done for as long as the event itself would take.
+
+Minor complexities are typified by splitting perception during a 
+physical action or moving while performing a mental action.
+
+\clearpage
+
+\section{Skill Listing}
+
+\begin{itemize}
+	\item[Name] Acrobatics
+	\item[Type] Simple Skill
+	\item[SB] \( (AGL+STR) \over 2 \)
+	\item[Bonus]	\( 5\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	5.0 &    Walking the length of a balance beam \\
+	4.0 & \\
+	3.5 &    Forward roll \\
+	3.0 &  \\
+	2.0 &    Backflip to a stand  \\
+	1.0 &  \\  \hline
+\end{tabular}
+
+\begin{itemize}
+	\item[Name] Horsemanship
+	\item[Type] Simple Skill
+	\item[SB] \( {(AGL+STR) \over 2} or {(AGL+WP) \over 2} \)
+	\item[Bonus]	\( 8\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	6.0 &    Moving at walk with saddle \\
+	5.0 &    Moving at a trot with saddle \\
+	4.0 &    Moving at a Canter with saddle \\
+	3.0 &    Moving at a gallop with saddle  \\
+	2.0 &      \\
+	1.0 &  \\ \hline
+\end{tabular}
+
+No Saddle means that the DF is cut in half
+Note animal mods
+Note that familiar animals are +15%
+
+\begin{itemize}
+	\item[Name] Stealth
+	\item[Type] Craft
+	\item[SB] \( (AGL) \)
+	\item[Bonus]	\( 8\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	6.0 &    Moving at a Crawl (1/4 spd) stealthily \\ 
+	5.0 &    Moving at a Stalk (1/2 spd) stealthily \\
+	4.0 &    Moving at a Walk  (1/1 spd) stealthily \\
+	3.0 &      \\
+	2.0 &    Moving at a Jog   (1.5 spd) stealthily  \\
+	1.0 &     Moving at a Run   (2.0 spd) stealthily \\ \hline
+\end{tabular}
+
+*Note armour mods
+
+\begin{itemize}
+	\item[Name] Tracking
+	\item[Type] Craft
+	\item[SB] \( {(PC+WP) \over 2} or {(PC+MA) \over 2} \)
+	\item[Bonus] \(	6\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	5.0 &    Tracking a person through mud \\
+	4.0 &     \\
+	3.0 &    Tracking on dry ground \\
+	2.0 &      \\
+	1.0 &    Tracking on rock  \\ \hline
+\end{tabular}
+
+Note Rains causes the DF to be cut in half
+
+\begin{itemize}
+	\item[Name] Navigation
+	\item[Type] Simple Skill
+	\item[SB] \( (PC) or (MA) \)
+	\item[Bonus] \(	8\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	5.0 &    Telling True North \\
+	4.0 &     \\
+	3.0 &     \\
+	2.0 &      \\
+	1.0 &  \\ \hline
+\end{tabular}
+
+\begin{itemize}
+	\item[Name] Lore Skill
+	\item[Type] Simple Skill
+	\item[SB] \( (MA) or (PC) \)
+	\item[Bonus] \(	8\% \over rnk \)
+\end{itemize}
+
+\begin{tabular}{||l|r||} \hline
+\centering
+	5.0 &    Remembering a simple, Notable event  \\
+	4.0 &     \\
+	3.0 &     \\
+	2.0 &      \\
+	1.0 &    Remembering an obscure event   \\ \hline
+\end{tabular}
+
+\end{document}

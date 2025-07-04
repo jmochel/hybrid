@@ -1,0 +1,47 @@
+.Name Raja Shan
+.Title								
+.Race Hu
+.Culture
+.Aspect 
+.PST 13
+.PEN 11		
+.DEX 15
+.PAG 10		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 110		 
+.AGE 19
+.BeginDesc
+ 12
+.EndDesc
+.BeginSkills
+Weapon: Staff			   , 
+.EndSkills
+.Locale Wanderer
+.BeginKnownAssoc
+ Timothy Silver Lock, Killishandra, Valk and Rael
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ Quite an able women
+.EndComment
+.BeginPossess
+ 7 Silver Bracelets, 1 Silver shod staff, 2 silvered daggers		
+2 silver necklaces with moon stones. 1 silver and Turquiose anklet.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

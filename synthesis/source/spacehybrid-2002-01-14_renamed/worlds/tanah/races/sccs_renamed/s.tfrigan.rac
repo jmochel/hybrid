@@ -1,0 +1,57 @@
+h49928
+s 00029/00000/00000
+d D 1.1 99/12/02 16:07:54 jmochel 2 1
+cC
+cK10475
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:07:51 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tfrigan.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45047
+cPworlds/tanah/races/tfrigan.rac
+cReb4787da5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Tor-Frigan}
+
+\section*{Statistics}
+
+\begin{itemize}
+        \item[Race Name]                        Tor-Frigan, Frost Giants
+        \item[Avg. Height]                      11
+	\item[Avg. Weight]
+	\item[Skin Color]			Light to pale
+	\item[Hair Color]			Platinum blonde to Blue
+	\item[Eye Color]			Green, White, Silver
+	\item[Stat Mods]
+	\item[Inherent Skills] Ice Healing. ME:Air
+\end{itemize}
+
+\section*{Description}
+
+The Tor-Frigan are the least seen of all the giants. They
+are found mostly in the Mountain regions regions far north of the
+Northern Reaches and deal with humans typically but once a year.
+
+More deliberate in thought and action than the Tor-Rian or Tor-Nimban 
+they often ponder thoughts of law that would bore most humans or 
+their brethren. 
+
+It is common knowledge that all Tor-Frigan are great air mages.
+
+\section*{Cultures and Sub-groups}
+Tor-Frigan
+E 2
+I 1
+E 1

@@ -1,0 +1,7 @@
+I have a design question for the STL Cognesceti (Those who have Cogs).
+
+I am working on an information retrieval system that I would like to
+have access several different types of associative containers on disk.
+One is a B*-Tree and the other is a multicharacter trie.
+
+I would like to use 

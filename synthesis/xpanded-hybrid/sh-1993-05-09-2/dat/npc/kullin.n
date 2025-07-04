@@ -1,0 +1,50 @@
+.Name Kullin
+.Title Bah Shiva				   
+.Race Val-Tier
+.Culture
+.Aspect
+.PST 25
+.PEN 25
+.DEX 20
+.PAG 18		
+.PAW 17
+.MST 10		
+.MEN 14
+.PSI 5
+.MAG 14
+.MAW 8
+.HT 8'5"      
+.WT 295		 
+.AGE 16
+.BeginDesc
+ Thin featured and sharp nosed, with a set of brown eyes and very	 
+black hair. He has a silver hair ring of two hawks in flight. He has a nervous  
+tic in one eye.
+.EndDesc
+.BeginSkills
+Weapon: War Bow (3)			, 
+.EndSkills
+.Locale Wanderer
+.BeginKnownAssoc
+ Timothy Silverlock
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ Ambidextrous. A true example of all that is good about the Val-Tier.	
+Very touchy about magery.
+.EndComment
+.BeginPossess
+ Warbow, His NorthHorse, Whipsword, 6 Konjactl. Drum . Silver and	
+black wyvern hide Archery Bracer.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

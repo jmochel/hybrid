@@ -1,0 +1,259 @@
+H43917
+s 00230/00000/00000
+d D 1.1 02/01/08 23:03:25 jmochel 2 1
+cF1
+cK16395
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/08 23:03:25 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/Edit10.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK25913
+cPCultures/Edit10.txt
+cR3387401e
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+Glossary of Japanese woodblock printmakingterminology (entry by David Bull)
+
+
+Ai
+Indigo.
+
+Aisuki
+Flat, bull-nosed chisel.
+Ara-to
+Rough sharpening stone.
+Ategami
+Thin, strong paper sometimes placed over         the printing paper to protect it from the baren.
+Ategawa
+The hard disc of the baren, that holds         the inner coil.
+Ate-ita
+The board on which prints are placed         after being pulled off the block.
+
+Baren
+The circular tool used to apply pressure         to the paper.
+
+Baren-suji
+Marks left in the print by the baren         (intentional).
+Baren-wata
+The cloth pad on which the baren is         placed.
+Beni
+A traditional pink/red pigment.
+Benigara
+A rusty dark red/brown pigment.
+Beta-ban
+A woodblock containing an area of wide,         featureless colour.
+Beta-zuri
+Flat tone printing.
+Bokashi
+Gradation.
+
+Dasu
+'Push'. Used in reference to moving the         kento mark away from the printer.
+
+Do-bori
+'Body carving' - e.g. 'regular carving'.         (As opposed to 'head carving', done by the top rank carvers.)
+Dosa
+Size. Usually a mixture of gelatin (nikawa) and         alum (myoban), applied warm to both sides of the printing paper         before use.
+Fuki-tori
+'Wiping off'. A technique of manipulating         the pigment on the block.
+Genga
+'Original drawing'
+Gofun
+A white substance obtained from ground-up         shells.
+Goma-zuri
+Printing in a 'sesame seed' pattern -         e.g. with rather 'speckled' colour ... not smooth.
+
+Hake
+Brush (pron: hah-kay)
+
+Hanshita
+Tracing on thin paper to be pasted         face-down on the block surface.
+Hari-awase
+Using one side of the block for more than         one colour zone.
+Hashibame
+Crosspieces of wood attached to the ends         of a block to help prevent warping.
+Hawasu
+'Crawl'. Used to describe a method of         stacking paper.
+Hiki-tsuke
+'Straight line'. The 'partner' to the         L-shaped 'kagi' corner mark of the kento.
+Hiku
+'Pull'. Used in reference to moving the         kento towards the printer.
+Hira-nomi
+Flat chisel.
+Honoki
+Magnolia tree.
+Hon-zuri
+'Real printing' (as opposed to 'kentomi         zuri' - test printing)
+Hori
+Carving.
+Hori-dai
+The carver's workbench
+Hosho
+A fine paper used for woodblock         printing
+
+Iro-ban
+Colour block.
+
+Iro-ochi
+Errors in which small areas of colour are         forgotten in the carving of the colour blocks.
+Iro-sashi
+The sheet that shows where any given area         of colour is to be carved.
+Iro-wake
+The process of making the colour         separations.
+Ita-bokashi
+Gradation by sanding the carved areas of         the block.
+
+Kagi
+The 'L' mark portion of the kento.
+
+Kake-awase
+Using one block multiple times with         different colours.
+Kanna-mura
+Marks left by uneven planing.
+Kara-zuri
+'Empty printing'. Embossing.
+Kashira-bori
+'Head carving' - e.g. skilled carving.         (As opposed to 'body carving', done by lower rank         carvers.)
+Kasure
+A style of carving which imitates the         stroke of a dry brush.
+Kata-bake
+A brush with pigment applied only at one         end.
+Kento
+Register marks (see 'kagi' and         'hiki-tsuke')
+Kentomi
+'Test printing' (as opposed to 'hon zuri'         - real printing)
+Kento-nomi
+Chisel designed specifically for cutting         kento marks
+Ketsu-ochi
+Blots on the print caused by the paper         'touching down' in the wrong areas
+Ketsu-soji
+Cleaning up the ketsu-ochi
+Kira-zuri
+Printing with mica powder
+Kozo
+The paper mulberry tree
+Kui-ki
+A small shim of wood driven into the         block to adjust the kento
+Kyogo
+An impression taken from the key-block,         for the purpose of making iro-sashi.
+
+Madake
+A type of bamboo, used for wrapping the         baren.
+
+Maru-bake
+The 'modern' type of printing         brush.
+Maru-nomi
+Round chisel
+Masa-ban
+The name given to the standard size of         hosho paper.
+Masame
+Straight grain (in wood)
+Mae-bako
+'Front box' (The box in front of the         printer on which paper to be printed is stacked)
+Meko-ita
+Flat board used to rub the bamboo         skin.
+Mekuri-dai
+The box or stand on which the 'ate-ita'         is placed.
+Mimi-tsuki
+'With ears' Paper with the original rough         borders.
+Muda-bori
+'Waste carving'. Carved areas that will         be removed when no longer needed for iro-wake calculations.
+Mizu-bake
+'Water brush'. The brush used for         moistening the paper before printing.
+Mura-zuri
+Uneven printing.
+
+Naka-to
+A medium sharpening stone.
+
+Nagura
+A soft stone used to create 'mud' on a         sharpening stone.
+Nokori-enogu
+Pigment left on the block after         printing.
+Nyu-bachi
+A ceramic mortar.
+O-bokashi
+Wide area gradation.
+Otosu
+'Put'. Used to describe a method of         stacking paper.
+
+Sakame
+'Backwards grain'. An area of wood grain         that runs 'reversed' from the rest of the block.
+
+Sankaku-to
+Triangular chisel ('V' - shaped)
+Sarai
+The process of clearing unneeded wood         from the block
+Sen-gaki
+Outline drawing
+Shiage-to
+Fine sharpening stone
+Shira-dake
+'White bamboo'. Used for baren         construction.
+Sho-men-zuri
+Printing from the front surface of the         paper.
+Shu
+Vermillion
+Sumi
+Black, carbon-based pigment.
+Sumi-ban
+The outline (black) block.
+Suri
+Printing.
+Suri-dai
+The printer's bench.
+Sute-bori
+'Throw-away carving'. Used to describe         the process of cutting a 'release' line before the actual line itself.
+
+Tamari
+Blotches of paste on the edges of printed         areas.
+
+Tataki
+'Beating'. Used to describe banging the         brush onto the block to dislodge pigment from small holes,         etc.
+To
+The carving knife.
+To-ishi
+Sharpening stone
+Tokibo
+The small bamboo 'whisk' that carries         pigment to the block. (Also called 'hakobi')
+Tokusa
+Pewterwort. Used to rub the wood surface         to improve printing conditions.
+Torinoko
+A common printing paper.
+Tsubaki-abura
+Camellia oil
+Tsubushi-ban
+same as 'beta-ban'
+Tsuki-bori
+Chisels used with a pushing         motion.
+
+Urushi
+Japanese lacquer
+
+Wari-ban
+A split block.
+Yama-zakura
+The mountain cherry tree
+Yoko-bako
+'Side box'. A small box for printer's         tools.
+Zokin-zuri
+'Rag printing'. Using a cloth to wipe the         block.
+
+(Note: This page is one entry in the 'Encyclopedia ofWoodblock Printmaking'. If 
+you came to this page 'directly', and notvia the Encyclopedia's main outline -
+clickhere to make your way to the frontpage ...)
+E 2N
+I 1
+E 1

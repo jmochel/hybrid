@@ -1,0 +1,58 @@
+This is MAKEINDX, portable version 2.9 [13-Dec-1989].
+Scanning input file pg.idx....
+!! Input index error (file = pg.idx, line = 6):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 7):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 8):
+   -- Unknown index keyword \entry.
+
+!! Input index error (file = pg.idx, line = 10):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 11):
+   -- Unknown index keyword \entry.
+
+!! Input index error (file = pg.idx, line = 13):
+   -- Unknown index keyword \entry.
+
+!! Input index error (file = pg.idx, line = 17):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 18):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 19):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 20):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 21):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 22):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 23):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 24):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 25):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 26):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 27):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 28):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 29):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 30):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 31):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 32):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 33):
+   -- Unknown index keyword \entry.
+!! Input index error (file = pg.idx, line = 34):
+   -- Unknown index keyword \entry.
+done (10 entries accepted, 24 rejected).
+Sorting entries....done (34 comparisons).
+Generating output file pg.ind....done (26 lines written, 0 warnings).
+Output written in pg.ind.
+Transcript written in pg.ilg.

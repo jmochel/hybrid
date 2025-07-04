@@ -1,0 +1,110 @@
+.Name
+.BaseSkill
+.BaseFinancial
+.StatEF
+.SkillEF
+.WealthEF
+.StatusEF
+.BeginDetail
+.EndDetail
+
+.Name			Pick Pocket
+.BaseSkill		4
+.BaseFinancial	4,000
+.StatEF			5
+.SkillEF		6
+.WealthEF		4
+.StatusEF		6
+.BeginDetail	
+.EndDetail
+
+.Name			Smuggler
+.BaseSkill		5
+.BaseFinancial	10,000
+.StatEF			4
+.SkillEF		7
+.WealthEF		5
+.StatusEF		3
+.BeginDetail	
+.EndDetail
+
+.Name			Terran Space Navy
+.BaseSkill		6
+.BaseFinancial	14,000
+.StatEF			4
+.SkillEF		7
+.WealthEF		3
+.StatusEF		3
+.BeginDetail	
+.EndDetail
+
+.Name			Grunt Mercenary   
+.BaseSkill		4
+.BaseFinancial	7,000
+.StatEF			4
+.SkillEF		7
+.WealthEF		3
+.StatusEF		5
+.BeginDetail	
+.EndDetail
+
+.Name			Terran Scouts
+.BaseSkill		6
+.BaseFinancial		14,000
+.StatEF			3
+.SkillEF		8
+.WealthEF		4
+.StatusEF		5
+.BeginDetail	
+.EndDetail
+
+.Name			Nurse
+.BaseSkill		8
+.BaseFinancial		12,000
+.StatEF			6
+.SkillEF		7
+.WealthEF		5
+.StatusEF		3
+.BeginDetail	
+.EndDetail
+
+.Name			Traffic Controller
+.BaseSkill		6
+.BaseFinancial		25,000
+.StatEF			3
+.SkillEF		6
+.WealthEF		3
+.StatusEF		2
+.BeginDetail	
+.EndDetail
+
+.Name			Advanced Education
+.BaseSkill		8
+.BaseFinancial		2,000
+.StatEF			6
+.SkillEF		7
+.WealthEF		3
+.StatusEF		3
+.BeginDetail	
+.EndDetail
+
+.Name	Corporate Attorney
+.BaseSkill
+.BaseFinancial
+.StatEF
+.SkillEF
+.WealthEF
+.StatusEF
+.BeginDetail
+.EndDetail
+
+.Name	Terran Military
+.BaseSkill
+.BaseFinancial
+.StatEF
+.SkillEF
+.WealthEF
+.StatusEF
+.BeginDetail
+.EndDetail
+

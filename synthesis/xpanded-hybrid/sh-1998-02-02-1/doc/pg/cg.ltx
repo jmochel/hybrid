@@ -1,0 +1,48 @@
+% cg.ltx
+% SH Character Generation Guide
+% 12/31/91	JSM	Created
+% 07.05.94	JSJ-M Modified to LaTeX 2e
+
+\documentclass{book}
+
+\usepackage{makeidx,multicol}
+\usepackage{sh}
+
+% Title Page
+
+\title{Hybrid Character Generation}
+\author{Jim Jackl-Mochel}
+\date{09.12.97}
+
+\makeindex
+
+% Begin the Document
+
+\begin{document}
+\maketitle
+
+% The TOC
+
+\pagenumbering{roman}
+\begin{multicols}{2}
+{\small
+\tableofcontents
+}
+\end{multicols}
+
+\listoftables
+
+\pagenumbering{arabic}
+
+% Intro chapter
+
+\input{intro}
+
+% Chapter on Character Generation
+
+\input{chargen}
+
+\printindex
+
+\end{document}
+

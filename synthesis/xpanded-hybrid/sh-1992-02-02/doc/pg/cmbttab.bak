@@ -1,0 +1,13 @@
+\documentstyle[sh,relate]{report}
+\raggedbottom
+
+\begin{document}
+\setlength{\relateleft}{0in}
+
+\input{troll1}
+\input{tgpm12}
+\input{tgpm11}
+
+\end{document}
+
+

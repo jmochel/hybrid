@@ -1,0 +1,38 @@
+Hi Folks,
+	While I was tracking down some data I came across some interesting
+notes about the effects of accellaration. Just thought I would share it
+for those who work with Space Games.
+
+General effects
+--------------
+0g	Weightless
+1g	Terran Norm
+2g	Hands and feet are heavy and climbing is difficult but not
+	impossible.
+
+3g	Walking And Climbing Impossible , Crawling almost Impossible
+5g	Only slight movements of arms and head possible
+
+Gross Effects of Longitudinal (from head to feet) G's.
+Short Duration
+-----------------------------------------------------
+
+2.5	-	7.0 gs	Visual Symptoms appear
+3.5	-	8.0	g's Blackout
+4.0	-	8.5	g	Confusion, unconciousness
+18	-	23	g 	Structural damage possible
+
+Gross Effects of short duration transverse G's
+----------------------------------------------
+
+0-17	No visual symptoms
+18-30	Visual Symptoms -> Confusion -> Blackout
+>30-45	Structural damage may occur
+
+And fo those of you that enjoy the sensational, William Beding
+survived 83g of accellaration for 0.1 seconds . He only had a headache
+and was shaken up for a while afterwords.
+
+(I can't believe they found someone to voluteer for that one !!!! )
+
+Jim M

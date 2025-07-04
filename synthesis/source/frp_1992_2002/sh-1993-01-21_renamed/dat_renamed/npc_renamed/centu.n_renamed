@@ -1,0 +1,45 @@
+.Name CENTU THE MONK
+.Title THE MONK					   
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 18
+.PEN 18		
+.DEX 18
+.PAG 18		
+.PAW 14
+.MST 18		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 6'        
+.WT 175		 
+.AGE 83
+.BeginDesc
+ TALL WITH SPARSE HAIR AND ONE EYE.
+.EndDesc
+.BeginSkills
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ THE PROPHET
+.EndKnownAssoc
+.BeginSecretAssoc
+ ONE TIME WAR LEADER FOR THE VAL TIER
+.EndSecretAssoc
+.BeginFriends TURA AUR,
+.EndFriends
+.BeginComment
+ PATRON ADVOCATE OF GAMBLERS AND THINKERS
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

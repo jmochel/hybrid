@@ -1,0 +1,423 @@
+Layout
+------------------------------------------------------------
+<SH Chapter Structure>
+	<Quote>
+    <TOC>
+    <Intro>
+    <ListOfTerms>
+    <Sxn>
+    	<Sxn1>
+        <Etc....>
+
+Each section includes a description of what the topic is (in reality)
+and how it is done (game mechanic wise).
+
++ Expansion rules should be clearly displayed
++ Tables should be as close as possible to their point of 
+reference. They also need a caption and a ?border?
+
+Take a look at a full page environment for reproducing the look of
+a page or description inside it.
+
+
+General Notes
+------------------------------------------------------------
+SCALES
+	Mental and Physical 
+    Time
+    Distance
+    Damage
+
+Fatigue and Exhaustion
+Lifting
+Drugs 
+	Formats, Saves, Summary data, poisons
+
+Encounters
+	Give a BC of an encounter based on the population density
+    of people/objects/places. Use the crit tables to indicate 
+	anything more than the usual for that area.
+
+Action/Reaction
+------------------------------------------------------------
+Basic Rxn/Action sequencing
+Action: speed/% chance tradeoff
+	Only setup allows you to take more time.
+
+1) dtm distance and circumstances
+2) dtm perception (if needed)
+3) dtm initiative
+	2d8 
+	+ 5 // for failed perception
+    + 5 // Buffer
+	- Speed points
+
+Speed Pts = 1/2 Rank in skill
+
+Spend them on 
+1) Speeding up a blow.
+2) Buying addituional perception rolls
+3?) Save for a second reaction roll ?
+4?) Offset multiple strike decay
+
+How long does a perception roll stay in effect ? 
+- until the next action ?
+- until a change of target or disengage
+
+reaction time lower limit = 1 pulse
+2d6 for reaction time + buffer ?
+2d8 for reaction time + buffer ?
+For init vs perception - speed points can always be applied BUT your 
+	rxn may outrace your perception BUT what a headache for making presets 
+    seem useful.
+What about perception skills adding to the speed of perception rolls.....
+
+Perception 
+  explanation 
+  discussion of effect
+      what you get for a successful roll.
+      what you lose if you don't have full perception of an event
+
+Preset reactions allow speed points to be used immediately as if 
+a skill is already in use. ? Is there still a DF+2 to perception.
+
+Speeding and action costs speed points or accuracy.
+
+Spd     Spd Pts  or Accuracy
+3/4		5			?
+1/2		10			?
+1/4		15			?
+1/8		30			?
+
+Speed pt cost = some formula ?
+
+- what do I do with people who use both methods to speed up 
+an action.
+
+QuickDraw should buy more speed points for drawing the weapon.
+
+
+EEPS
+------------------------------------------------------------
+	Detailed notes on EEPS and Training
+	Base EEPS (You ran ...)
+	Character EEPS ( How well you roleplayed)
+    Skill Use EEPs ( How well you manipulated the game)
+    Scenario EEPS ( Special)
+	Char EEPs and Skill EEPs shuld be equal in mgnitude.
+
+Character Gen
+------------------------------------------------------------
+Process
+    * Racial Templates - have a cost
+	* Cultural Templates - have a cost ( avg cost = 0 )
+	* Limitations/Enhancements
+    	Design costs
+	* Career template
+    	Skill points generated in a career can only be used in the
+        career's skills.
+	* What about debt.
+	* Wealth/Status Ads/Disads
+    	Status gained in a career path only applies there. 
+        There should be  playboy career path.
+
+	Add in detailed discussions of hard coded skills like movement
+	Do up character sheets
+		Add in specifics of various hard-coded skills such as movement
+	Change the point pools to ?
+	Add optional no-roll generation
+	Discuss what status/wealth get you
+    Discuss interchangeability of PD/Wealth/Status skills
+    How to put a cap on power acquired by generating an old PC ?
+    	- Add cost for maintaining stats  ?
+        - Or add power ratings (GM based limits )
+	Stat Buying
+
+Skills
+------------------------------------------------------------
+    Data sheets and filters
+    Packages
+    Add in DF relation to Skill Type
+	More abstract => harder to do
+	More lore => harder to learn
+    Is Data Analysis a Skill - Yes - consider it a general skill and it makes sense
+	Discuss some of the typical skill names like LORE:, ME: etc
+    What about being able to use supports skills as primaries and vice-a-versa ?
+	Break skill lists down by category	(Magick/Psi/Tech/Combat/General)
+	There are no support skills but specific skills can be used in 
+		a support role for 2% per rank.
+
+	General vs specific skills.
+		Filter
+    	General => 1% skills 
+		Specific => 4% 
+
+		BC = 2 * SB(skill) + RB + Skill Pool (If applic) 		
+
+	Skill Pools
+    	
+        * Does the speed of a skill pool (avg rank) 
+		override the speed of a slower skill.
+
+		* How many skills per pool or package ?
+        Is there a limit ?
+
+		* Skills must be bought into or out of a pool
+        A selft taught buy-in is more expensive ? 
+
+		* Skills may be grouped by tool category or by
+        training style ? Which is primary ?
+
+		* We need a rank-to-effect function.
+			The average rank could work or the average of the top 3 skill
+
+
+Tasks
+------------------------------------------------------------
+	Describing tasks 
+	Desc/Name -  DF - Time - ApplicableSkills - Any special notes
+			
+
+Filter skills
+------------------------------------------------------------
+	i.e. 
+    Comp. Ops. 
+    Mounted Combat
+    Vehicular Combat
+    Acrobatic Combat
+    0-G Combat.
+    ME: Energy Type.
+	Florentine is a filter skill
+
+Combat
+------------------------------------------------------------
+	Attacks against inanimate objects
+	Subduing
+	Mounted Combat   (Filter)
+	Vehicular Combat (Filter)
+	Spray Fire, Subsequent Fire
+    Weapon Swing Times
+    Damage amount versus strength
+
+Damage
+------------------------------------------------------------
+	Battle Damage
+        falling objects, falling damage
+        effect of charging on damage
+	relationship between hps|armour| structural Points
+	damage to shields
+	injuries, illness, first aid
+
+weapons
+------------------------------------------------------------
+	Do up basic weapon speeds and weapon damage ranges
+    Data sheets and filters
+
+movement
+------------------------------------------------------------
+        encumbrance
+        terrain mods
+        Simplify and Tabulate
+
+drugs
+------------------------------------------------------------
+        formats
+        saves
+        summary data
+        poison
+
+Cyber/PSI/Magick
+------------------------------------------------------------
+All agents have the same attributes
+
+Resistance DF/Penetration
+QE
+DF
+EC
+CT
+RNG
+AOE
+DUR
+Visibility
+Integrity/Durability
+
+
+Each of these agents has a common expression.
+Magick - sorceries
+Psi - disciplines
+Cyber - Programs
+
+PSI measures how much power the caster can access and skill dtms how well 
+it can be molded to their will.
+
+Is there a relationship between the power of the agent a 
+character can create and their skill in the appropriate area.
+
+PSI- Discipline Design
+Magick - Spell  design
+Cyber - Net Programming
+
+Maybe the above skills are filter skills.
+
+Power (agent) is proportional to TimeTaken + ???
+
+Should I add a special requirements attribute for design to 
+handle things like teleport ?
+
+
+equate QE to KE
+do up the spell research system
+priestly magic
+Add in magic defense
+
+Divinations notes
+	Factors to manipulate
+    1) Accuracy of detail - what happened
+    2) Accuracy of Presentation - How it looked
+    3) Depth - Background
+
+They key is to determine how much of QE is used by each category
+
+Cover priestly magic
+Come up with typical tassk times
+
+LORE:Wizardry 
+ME: Fire
+PERC: Mana
+
+Critical miss notes
+Casting takes a full action.
+	Does it allow for perception rolls ?
+
+Rules for casting Stealthily 
+Rules for altering attributes
+Concentration checks
+maintaining spells
+energy cost
+what about magic resistance rolls
+Magical Parries and Dodges
+Offensive vs Defensive spells - opposing rolls ?
+Ceremony and group spells.
+
+Most spells that have a difficult to limit element should be 
+related to the stats of a caster.
+
+Enchanting an item conts toward studying the spell and 
+studying enchantment.
+
+Rune Magery
+	Runes can be used for components or as a type of stndalone magick.
+    To use Rune Magery the mage must use a skill called rune activation.
+    ? This allows therune mage to create a permanent scroll that contains 
+	no power. ?
+
+Alchemy
+	Is much the same as Rune Magery.
+    Requires an activatuion and an enchantment.
+
+Spirit magery and summoning
+
+QE
+	A table will have to be drawn up for QE 
+    QE = fxn(MST) for Enchantment
+    QE = fxn(Material Type) for Transmutation.
+	
+Design: Time scales should be on one table nd related to a formula:
+it would remove severa columns , the same is true for range.
+
+A moderate spell (3-4 MFT) spell should be able to do 2d10 
+in PFT worth of blunt damage.
+
+
+Sorcery Sheet
+	Base Type of sorceries
+		Attack(targeted)
+    	Attack(aoe)
+		Shield(targeted)
+    	Shield(aoe)
+        Detection
+
+	Some of the sorceies are probably derived from actions.
+
+	Should targeing be a seperate action ?
+
+Spell Research Steps
+	1) Design the spells and add up the SDP
+    2) DF of skill is K - SDP // Where K is currently 20
+    3) For each phase of problem solving 
+    	Assign a DF to it based on the faculties available
+		1) Formulate
+		2) Retrieval
+        3) Calculate/Correlate
+		4) Verify
+
+The idea is to get the DF as positive as possible before rolling 
+against the spel design skill.
+
+All DFs can be modified by time as per self training.
+
+Time of the spell research can be applied as traing against the spell
+using Teacher mods.
+
+ST 
+------------------------------------------------------------
+	Add notes on what stats are used for what kind of save 
+
+	They can be used in situations where experience/luck can aid a 
+	character's survival without direct application of skill.
+
+	Explosions		PAG
+    Poison			PEN
+    Willpower		MST
+	Magic(AOE)		MDF or PSI
+
+	Saving throws are applied with normal skill BC calculations
+
+
+Wild Kingdom
+------------------------------------------------------------
+chronology
+Encounter Tables
+
+Karban's Confed
+------------------------------------------------------------
+Racial data sheets - Ysdak, Alphan, Proximan, etc
+Cultural Notes - Terran(Israeli), Elysian, Wiccan, Calvinists, Free Traders.
+Encounter Tables
+Chronology
+MI Structure
+MI Warning orders/op orders
+What about Bac-Aug
+Career Lists Catalyst Agent, Free Trader, Proximan Imperial Guard
+
+Space and SpaceFlight
+------------------------------------------------------------
+Allometric equations for species
+Mass & Length conversion
+Ships details
+Space travel details (several types of drives)
+Vacuum, fire, cold, heat, starvation, dehydration
+Generalized comp manipulations
+Material description format
+Generalized Comp Manips
+Backlash Table
+Maintainence of equipment
+Repair cost = (1% of base cost)  x (DF of repair)
+
+Functional Model for ships
+--------------------------
+Everything can be modeled with 
+    Durability	// Damage it can take
+    Armour		// How much damage it won't take.
+    QE			// How much energy it gives out 
+    Power      // How much power it uses or generates
+
+So a ship would consist of a series of functional groupings like 
+Power Sources, Sensor Arrays,  Locomotion Modules, Armour, 
+Communication, etc..
+
+The trick is to decide whether they should be listed as functional 
+groupings and mapped to location or vice-a-versa.
+
+
+

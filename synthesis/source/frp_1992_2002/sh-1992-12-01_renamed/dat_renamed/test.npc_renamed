@@ -1,0 +1,126 @@
+.BeginNPC
+.Nomen  Origin Jaime Summers
+.Nomen  Title Field Commander
+.Species Base:Sub:Sub
+.Gender Female
+.Culture Base:Sub:Sub
+.BeginStats
+.PST 12
+.PEN 14
+.DEX 15
+.PAG 12
+.PAW 17
+.MST 14
+.MEN 10
+.PSI 18
+.MAG 17
+.MAW 14
+.HT 1.5
+.WT 80
+.AGE 121
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build 
+.Bone
+.Tone
+.Text
+.EndFrame
+
+.BeginHair
+.Length
+.Color
+.Texture
+.Style
+.Curl
+.Ornament
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+# .Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.Histom	225 Origin	None Known Birthdate
+.Histom	245 Transition 	None Known Entered CSS Academy
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

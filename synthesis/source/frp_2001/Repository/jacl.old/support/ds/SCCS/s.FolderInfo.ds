@@ -1,0 +1,52 @@
+h12385
+s 00024/00000/00000
+d D 1.1 99/11/17 12:56:23 jmochel 2 1
+cC
+cK40331
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:56:19 jmochel 1 0
+c BitKeeper file e:/jacl/support/ds/FolderInfo.ds
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45370
+cPsupport/ds/FolderInfo.ds
+cR2f93d7255cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+||    .Contains Declaration of FolderSpec
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+folderInfo == ( canonicalForm:string, type:Type, childCnt:ULong, folderCnt:ULong, streamCnt:ULong );
+
+type ::=
+    System i:data |
+    Vol    i:data |    
+    Proc   i:data |
+    Folder i:data |
+    Stream i:data ;
+E 2
+I 1
+E 1

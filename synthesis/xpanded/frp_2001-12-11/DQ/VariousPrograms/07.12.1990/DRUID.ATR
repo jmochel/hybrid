@@ -1,0 +1,139 @@
+@NAME	Detect Living Aura
+@COLLEGE	Druid
+Life
+Detection
+Area
+ActiveResist
+@BEGINDESC
+Based on a perception roll. Allows the Druid to locate 
+living creatures within range. 
+@ENDDESC
+
+@NAME	Blend
+@COLLEGE	Druid
+Perception
+Unrestricted
+NoResist
+Caster
+@BEGINDESC
+Allows the caster to fade into place. 
+@ENDDESC
+
+@NAME	Faery Fire
+@COLLEGE	Druid
+Light
+Summoning
+Unrestricted
+ActiveResist
+@BEGINDESC
+Adds \( 5\% + 1\%/Rnk \) to the to-hit chance in the dark.
+@ENDDESC
+
+@NAME	Speak to Woodland Animals
+@COLLEGE	Druid
+Mind
+Communication
+Caster
+ActiveResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Commune with Land
+@COLLEGE	Druid
+Essence
+Detection
+Caster
+ActiveResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Summon Elemental Spirit
+@COLLEGE	Druid
+Fire
+Water
+Summoning
+NoResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Dissapate Elemental Spirit
+@COLLEGE	Druid
+Fire
+Water
+Dissapation
+NoResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Bind Elemental Spirit
+@COLLEGE	Druid
+Fire
+Water
+Binding
+NoResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Heal Fatigue
+@COLLEGE	Druid
+Life
+Restoration
+LightDamage
+@BEGINDESC
+@ENDDESC
+
+@NAME	Heal Endurance
+@COLLEGE	Druid
+Life
+Restoration
+HeavyDamage
+@BEGINDESC
+@ENDDESC
+
+@NAME	Heal Critical Wounds
+@COLLEGE	Druid
+Life
+Restoration
+KillingDamage
+@BEGINDESC
+@ENDDESC
+
+@NAME	Summon Woodland Creature
+@COLLEGE	Druid
+Summon
+Large
+Creature
+NoResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Summon Enchanted Woodland Creature
+@COLLEGE	Druid
+Summon
+Large
+Enchanted
+Creature
+NoResist
+@BEGINDESC
+@ENDDESC
+
+@NAME	Heat Metal
+@COLLEGE
+Fire
+Summon
+Concentrate
+Mansized
+Iron
+@BEGINDESC
+@ENDDESC
+
+@NAME	Walk the Wilds
+@COLLEGE
+Perception
+Dissapate
+Area
+ActiveResist
+@BEGINDESC
+@ENDDESC
+
+

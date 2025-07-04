@@ -1,0 +1,50 @@
+.Name LERRYS ELHAYN
+.Title HEIRS CONSORT OF LYRA(HERUN)
+.Race 1/2 ELF
+.Culture
+.Aspect 
+.PST 12
+.PEN 15		
+.DEX 18
+.PAG 19		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 17
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+ 9 +
+.EndDesc
+.BeginSkills
+Weapon: SCIMITAR			 , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ CONSORT TO LYRA OF HERUN
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends CATBHATCH GILMIR, ROUNDGOLD, STRIPGEAR HAMMERWIELDER, TELERI SEREGON
+.EndFriends
+.BeginComment
+ PSIONICS AT 20TH LEVEL MASTERY											
+95 + 80 = 175 STR ABIL: 350														
+MINOR: PSI INVIS,CELL ADJUSTMENT,MIND OVER BODY									
+MAJOR: MIND BAR,PROBABILITY TRAVEL
+.EndComment
+.BeginPossess
+ "MOURN BLADE", "STAFF OF EARTH POWER",BRACERS OF AC2,GLASSTEEL		
+CHAINMAIL,
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

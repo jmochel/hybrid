@@ -1,0 +1,45 @@
+.Name ANNATERRA
+.Title MAAM							
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 12
+.PEN 15		
+.DEX 14
+.PAG 15		
+.PAW 14
+.MST 18		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'5"      
+.WT 109		 
+.AGE 60
+.BeginDesc
+ MOUSEY LOOKING WOMAN
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ PATRON ADVOCATE OF PSIONICS AND ANIMALS
+.EndComment
+.BeginPossess
+ STAFF OF PSIONICS
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

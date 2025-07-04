@@ -1,0 +1,70 @@
+h21619
+s 00042/00000/00000
+d D 1.1 99/12/02 15:43:14 jmochel 2 1
+cC
+cK49167
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:43:11 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/aids.sgm
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44899
+cPDoc/PlayingAids/aids.sgm
+cReb4785365cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!DOCTYPE book SYSTEM "/bin/docbook.dtd">
+<Book>
+	<Title>
+	Hybrid Playing Aids
+	</Title>
+	<TitleAbbrev>
+	Aids
+	</TitleAbbrev>
+	<BookInfo>
+	    <BookBiblio>
+            <Title>
+    		Hybrid Playing Aids
+            </Title>
+            <AuthorGroup>
+                <Author>
+                <FirstName>
+                Jim 
+                </FirstName>
+                <SurName>
+                Mochel
+                </SurName>
+                </Author>
+            </AuthorGroup>
+	    </BookBiblio>
+	</BookInfo>
+	<Part>
+		<Title>
+		Basic Aids
+		</Title>
+		<Appendix>
+			<Title>
+			Hybrid Character Sheet
+			</Title>
+            <LiteralLayout>
+            Name
+            Title
+            Race
+            Culture
+            </LiteralLayout>
+		</Appendix>
+	</Part>
+</Book>
+E 2
+I 1
+E 1

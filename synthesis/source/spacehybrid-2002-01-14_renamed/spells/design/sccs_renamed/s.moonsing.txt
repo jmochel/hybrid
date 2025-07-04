@@ -1,0 +1,126 @@
+h63912
+s 00098/00000/00000
+d D 1.1 99/12/02 15:55:34 jmochel 2 1
+cC
+cK25087
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:55:31 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/spells/design/moonsing.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44973
+cPspells/design/moonsing.txt
+cReb4786e75cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+Spell: SingDownTheMoon
+------------------------------------
+Energy Type: Starlight
+Energy Cost: 10 MFT
+Casting Difficulty Factor (CDF): -4
+Resistance Difficulty Factor (RDF): 0
+Range: 10 * 1m
+Area of Effect: 5 * 1m
+Casting Time: 30 * Sec
+Quantitative Effect: 10+1/rnk
+SDP : 3
+
+
+Spell: EarthPersuasion
+------------------------------------
+Energy Type: Earth
+Energy Cost: 40 MFT
+Casting Difficulty Factor (CDF): -10
+Resistance Difficulty Factor (RDF): 0
+Range: 14 * 1m
+Area of Effect: 10 * 1m
+Casting Time: 48 * 2Min
+Quantitative Effect: 40+2/rnk
+SDP : -12
+
+
+Spell: FireRocks
+------------------------------------
+Energy Type: Fire
+Energy Cost: 10 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): 0
+Range: Touch * 
+Duration: 1 * 10Min
+Casting Time: 64 * Pulse
+Quantitative Effect: 20+1/rnk
+SDP : 10
+
+
+Spell: Augury
+------------------------------------
+Energy Type: Stream
+Energy Cost: 20 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): 0
+Range: 20 * 1km
+Casting Time: 17 * 30Sec
+Quantitative Effect: 18+1/rnk
+SDP : 4
+
+
+Spell: VoiceOfTheForeBearer
+------------------------------------
+Energy Type: Stream
+Energy Cost: 20 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): -7
+Range: Touch * 
+Casting Time: 8 * .5Min
+Quantitative Effect: 30+2/rnk
+SDP : -8
+
+
+Spell: SongOfNoPrey
+------------------------------------
+Energy Type: Starlight
+Energy Cost: 20 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): -10
+Casting Time: 26 * Pulse
+Quantitative Effect: 20+2/rnk
+SDP : -3
+
+
+Spell: EchosDeepEchosLong
+------------------------------------
+Energy Type: Belief
+Energy Cost: 40 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): 0
+Range: 20 * 1km
+Casting Time: 56 * .5Min
+Quantitative Effect: 20+1/rnk
+SDP : -8
+
+
+Spell: Rebirth
+------------------------------------
+Energy Type: Belief
+Energy Cost: 50 MFT
+Casting Difficulty Factor (CDF): -10
+Resistance Difficulty Factor (RDF): -10
+Range: Touch * 
+Casting Time: 64 * 10Min
+Quantitative Effect: 50+6/rnk
+SDP : -16
+
+E 2
+I 1
+E 1

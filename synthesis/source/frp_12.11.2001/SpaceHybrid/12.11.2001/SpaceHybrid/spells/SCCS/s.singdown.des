@@ -1,0 +1,47 @@
+h52100
+s 00019/00000/00000
+d D 1.1 99/12/02 15:54:06 jmochel 2 1
+cC
+cK14734
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:54:03 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/spells/singdown.des
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44964
+cPspells/singdown.des
+cReb4786c05cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Name SingDownTheMoon
+.NRG Starlight
+.ACT Summon
+.ACT Concentrate
+.ACT Bind
+.CCOMP Verbal
+.CCOMP Somatic
+.TARGET AOE
+.AOE 5 
+.AOESCALE 1m
+.EC 10
+.CDF -4
+.RES 0
+.RNG 10 
+.RNGSCALE 1m
+.CTSCALE  Sec
+.QE 10
+.LINKQE 1
+
+E 2
+I 1
+E 1

@@ -1,0 +1,151 @@
+LCS-GREP  Version: 0.0, 1985
+
+
+1       .name   Accounting
+12      .name   Accounting Science
+22      .name   Aeronautics Engineering 
+33      .name   Applied Linguistics
+44      .name   Appraisal
+56      .name   Aquaculture Tech
+67      .name   Archeology
+77      .name   Archeology, Field
+87      .name   Astro Physics  
+98      .name   Astrogation     
+109     .name   Biochemistry  
+120     .name   Biology
+131     .name   Biomedicine
+142     .name   Botany          
+153     .name   Bribery
+166     .name   Business Administration
+178     .name   Cartography
+189     .name   Chemical Engineering        
+200     .name   Chemical Tech
+211     .name   Chemistry
+222     .name   Civil Engineering       
+233     .name   Civil Tech
+244     .name   Classical Physics          
+255     .name   Clerical Studies
+266     .name   Clinical Psychology  
+277     .name   Cognoscology   
+288     .name   Combat Engineering
+299     .name   Combat Operations:(Environment)
+310     .name   Communications Operations
+321     .name   Computer Engineering        
+333     .name   Computer Sci        
+344     .name   Computer Tech
+356     .name   Confiscation
+367     .name   Cryptograhy           
+378     .name   Cultural Anthropology
+389     .name   Dance:(Type)
+400     .name   Debate
+411     .name   Demolitions Operations
+422     .name   Diplomacy
+433     .name   Disguise:(Psionic)
+444     .name   Disguise:(General)
+455     .name   Disguise:(Verbal)
+466     .name   Disguise:(Visual)
+477     .name   Dry Art
+488     .name   E&M Physics          
+499     .name   Eco Engineering         
+510     .name   Ecology         
+521     .name   Electrical Engineering       
+532     .name   Electrical Operations
+543     .name   Electrical Tech
+554     .name   Elocution
+565     .name   Fence
+576     .name   Field Physics  
+587     .name   Forensic Engineering 
+598     .name   Forensic Tech
+609     .name   Forensics
+620     .name   Forgery
+631     .name   Gambling
+642     .name   Genetic Engineering        
+653     .name   Genetic Tech
+664     .name   Genetics        
+675     .name   Geology
+686     .name   Geology        
+697     .name   HTH Combat
+708     .name   History
+719     .name   Holography
+730     .name   Hydroponics Tech
+741     .name   Hypnotist
+752     .name   Hyper Atomics   
+763     .name   Impersonation
+774     .name   Infiltration
+785     .name   Instrumental Music
+796     .name   Interrogation
+807     .name   Investigation
+818     .name   Journalism
+829     .name   Linguistics Tech
+840     .name   Language:(Specify)
+851     .name   Law:(Business)
+862     .name   Law:(Patent)
+873     .name   Law:(Criminal)
+884     .name   Linguistics    
+895     .name   Logic
+906     .name   Math Analyst
+917     .name   Mathematics            
+928     .name   Mechanical Engineering        
+939     .name   Mechanical Ops
+950     .name   Mechanical Tech
+961     .name   Medicine         
+972     .name   Medical Ops
+983     .name   Medical Tech
+994     .name   Metallurgy      
+1005    .name   Mime
+1016    .name   Mining Engineering      
+1027    .name   Mining Ops
+1038    .name   Mining Tech
+1049    .name   Modeling Engineering    
+1060    .name   Movement:(Environment)
+1071    .name   Navigation:(Interstellar)
+1082    .name   Navigation:(Intrastellar)
+1093    .name   Nexialism      
+1104    .name   Office Technical Systems
+1115    .name   Optical Engineering
+1126    .name   Optical Tech
+1137    .name   Pharmacognosy   
+1148    .name   Pharmacology
+1159    .name   Philosophical Anthropology
+1170    .name   Philosophy
+1181    .name   Physical Anthropology
+1192    .name   Pilot/craft
+1203    .name   Planetology    
+1214    .name   Power Engineering       
+1225    .name   Power Operations
+1236    .name   Power Tech
+1247    .name   Prevarication   
+1258    .name   Presence
+1269    .name   Psi Engineering         
+1280    .name   Psi Tech
+1291    .name   Psionics        
+1302    .name   Psychiatry      
+1313    .name   Psychology     
+1324    .name   Reconnasciance
+1335    .name   Robotics        
+1346    .name   Robotics Tech
+1357    .name   Sculpture
+1368    .name   Security Devices
+1379    .name   Security Systems
+1390    .name   Singing
+1401    .name   Songwriting
+1412    .name   Stealth
+1423    .name   Stealth:(Aural)
+1434    .name   Stealth:(General)
+1445    .name   Stealth:(Olfactory)
+1456    .name   Stealth:(Psionic) 
+1467    .name   Stealth:(Tactile)
+1478    .name   Stealth:(Visual)
+1489    .name   Survival:(Environment)
+1500    .name   Tailing
+1511    .name   Teaching
+1522    .name   Terraforming       
+1533    .name   Theatre
+1544    .name   Theft
+1555    .name   Theology
+1566    .name   Tracking
+1577    .name   Trading
+1588    .name   Vehicle:(Specify Vehicle)
+1599    .name   Weapon:(Specificy Weapon)
+1610    .name   Writing
+1621    .name   Zoology

@@ -1,0 +1,29 @@
+|| A simple set of classes for managing text as a transaction database
+
+RuneRange = 
+{ 
+	Begin:long, 
+        End:long
+};
+
+RuneStore =
+{
+	Name:File,
+	Stream:Stream
+};
+
+FixedSizeBlockRuneStore = RuneStore +
+{
+	CacheIsDirty:boolean,
+	CacheRange:RuneRange,
+	Cache:StringBuffer
+};
+
+Buffer =
+{
+	Transcript:RuneStore,
+	Contents:RuneStore,
+	Dot:RuneRange,
+	IsModified:boolean
+};
+

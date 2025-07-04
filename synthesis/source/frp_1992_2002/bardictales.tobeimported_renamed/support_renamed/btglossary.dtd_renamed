@@ -1,0 +1,54 @@
+<!-- ====================================================================== -->
+<!--
+    BT Glossary DTD
+
+    This code was last modified on $Date: 1998/11/10 20:02:11 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.1 $
+-->
+<!-- ====================================================================== -->
+
+<!-- A set of Glossaries -->
+<!--
+
+<glossaries>
+    <glossary>
+        <title>Shape Shifteren Knowledge Base</title>
+        <glosslist>
+            <title>Player's Glossary</title>
+            <glosslist>
+                <title>Mysterious NPCs</title>
+                <entry>
+                  	<term>Acrivan</term>
+                  	<alias>Acrivan of the Seven Towers</alias>
+                  	<alias>The Elder</alias>
+                	<def viewpoint=Morphus>
+                        <p>
+                   		Possessed the Ring of Channeling. Wore it at the Tower of ForTal.
+                		</p>
+                	</def>
+
+                	<def viewpoint=Mordanith>
+                        <p>
+                   		Possessed the Ring of Channeling. Wore it at the Tower of ForTal.
+                		</p>
+                	</def>
+                </entry>
+        </glosslist>
+    <glossary>
+</glossaries>
+
+-->
+
+<!ELEMENT glossaries - - ( title, (glossary)+ ) >
+<!ELEMENT glossary   - - ( title, (glosslist)+ ) >
+<!ELEMENT glosslist  - - ( title, (glossentry)+ ) >
+<!ELEMENT entry      - - ( title, term, (alias)+, (def)+ ) >
+<!ELEMENT def        - - ( (p)* ) >
+<!ELEMENT p        - - (#PCDATA) >
+<!ELEMENT title    - - (#PCDATA) >
+
+<!ATTLIST (entry | def | p)         viewpoint (none|Mordanith|Morphus|Kheldar|Wotan|Erithmaeon|Catbird|Sigmund|Kilsorana|Kalarina) "none"
+                              disc      (public|private|secret|topsecret|hidden) "public"
+>

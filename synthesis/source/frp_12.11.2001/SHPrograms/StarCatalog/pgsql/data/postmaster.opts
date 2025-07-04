@@ -1,0 +1,1 @@
+/usr/bin/postmaster '-D' '/h/SHPrograms/pgsql/data'

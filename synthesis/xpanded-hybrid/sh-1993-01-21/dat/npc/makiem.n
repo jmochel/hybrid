@@ -1,0 +1,48 @@
+.Name MAKIEM
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 10
+.PEN 12		
+.DEX 14
+.PAG 16		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 140		 
+.AGE 56
+.BeginDesc
+ 14:DARK HAIRED AND BEARD WITH A SET OF SLIGHTLY SHARP CANINES. HE IS
+A VERY HAIRY AND DARK SKINNED.
+.EndDesc
+.BeginSkills
+Weapon: FRANSISCA			  , 
+.EndSkills
+.Locale RANNOCK
+.BeginKnownAssoc
+ MADIR THE WITCH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends MADIR
+.EndFriends
+.BeginComment
+WIFE BROTHER TO HAR OF OSTERLAND. A SAVAGE AND DANGEROUS MAN WHEN		
+ANGERED. HE LOVES THE WOLF FORM ABOVE ALL OTHERS.
+.EndComment
+.BeginPossess
+ GIRDLE OF WOLFLING.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

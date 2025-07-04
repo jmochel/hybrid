@@ -1,0 +1,12 @@
+% FILE Time Scale Table
+% REF 
+\begin{table}[h]
+\caption{Time Scale}
+\centering
+	\begin{tabular}{ll} \hline
+	Pulse      & 1/5 Second	\\
+	FivePulse  & 1 Second   	\\
+	TenPulse   & 10 Pulses = 2 seconds	\\
+	Round      & 50 Pulses = 10 seconds	\\  \hline
+	\end{tabular}
+\end{table}

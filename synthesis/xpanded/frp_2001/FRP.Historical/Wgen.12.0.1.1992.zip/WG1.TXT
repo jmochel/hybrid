@@ -1,0 +1,694 @@
+a world is the background created by a games master for a role-playing
+game. within the constraints of the game system he is using, the
+GAMES MASTER (gm) should develop his "world" in as complete and
+consistent fashion as possible. this book is intended as a guide to
+help achieve that end.
+
+a "world" may be of any size. certainly not have to comprise a
+whole planet. a gm's world may be as small as a single city. usually a
+gm will develop a larger area . . . from a single nation up to an
+entire continent. eventually you may want to work out the entire
+planet - then you'll have a world in the literal sense.
+
+outline a large area; add details in one locale at a time. a gm who
+attempts to flesh out every detail of a whole continent before play
+begins is likely to go quite mad before he finishes. while this may
+add interest for some players. it is not recommended procedure to decide, in general, what your world will be like - but
+to add detail to only a small area at a time. you'll want set your
+continental outline(s) first - but if you work out one city in detail,
+your players can start their adventures there and enjoy themselves
+while you think about other areas. world-building is a massive job.
+and enjoyable in its own right, treat it as a game; don't rush it. you
+and your players will both be happier.
+
+
+the first step in creating a world is to determine its basic
+geography. in this section. and henceforth, we will assume that the
+"world" under construction is a single continent. when you're ready to
+create the rest of the planet, add more continents. keep in mind that
+travel on a DragonQuest world is chancy. characters may travel by sea.
+air. or magic - but commerce between continents will be very limited.
+for most purposes, a one-continent world will be excellent.
+
+first determine lines of latitude and longitude. latitude (north-south
+distance from the equator) is important in determining an area's
+climate (q.v.). latitude runs from zero degrees at the equator to 9o
+degrees (north or south) at the poles. longitude (east- west distance
+from an arbitrarily chosen prime meridian) does not affect climate on
+a normal earth-type world. longitude runs from zero degrees at the
+prime meridian to 18o degrees at the opposite meridian. if you need
+more information about latitude and longitude, consult any atlas.
+
+if your world is located on some thing other than a standard
+earth-type planet, you will need to adopt some map-grid system other
+than latitude and longitude. flat worlds may be adequately described
+by an ordinary cartesian grid. ( if you mark the (0,0) point of the
+grid with a huge, ruined monument, you can give your players something
+to to wonder about). mapping systems for other needs are left to the
+imagination of the gm. however, any world needs some kind of
+mapping system, and choosing it should be your very first step.
+
+determine the continental outline. just sketch an interesting shape on
+your map grid. now and henceforth. work in pencil until you're sure
+about something. features of your continent's basic shape will suggest
+patterns of internal geography, and vice versa.
+
+develop the continent's internal geography. a good first step here is
+to study your atlas again. a professional world-builder would have
+advanced degrees in geology, climatology. ecology, history and
+political science. et cetera. you may make up for any of these you may
+lack just by studying the planet on which you happen to live at the
+moment. open a world atlas and continue.
+
+you will notice, for instance. that mountain chains usually appear
+fairly near coasts. this may put them straight down the middle of a
+narrow continental area (i.e. central america). isolated ranges may
+also be found far from shore. but on a continental scale, most
+mountains seem to run along coast lines. this does not mean that all
+COAST LINES are close to mountain ranges.
+
+some mountains are or were active volcanos. designate each mountain
+chain as non-volcanic. actively volcanic, or in actively volcanic.
+active VOLCANOS will be discussed under climate. an inactive volcano
+which changes its status can make for an interesting adventure.
+
+once mountain chains are fixed. set the continent's drainage patterns:
+rivers and lakes. in general rivers run from high (the mountains) to
+low (the ocean) - but you have a lot of leeway in setting their courses.
+if your continent is northerly enough to feature glaciers, these may
+also be the source of small rivers due to melt runoff. observe the
+river patterns in your atlas. there are many small rivers, flowing
+into larger ones in a "tree" pattern. occasionally rivers will feed
+lakes that have no exit - evaporation balances inflow. a lake may
+have no visible input - it is fed by rainfall and by streams too small
+to show on the map. however, most lakes will be "way stations" on
+a river's road to the sea.
+
+Very large rivers will modify the shape of a continent by building a
+"delta" - new land composed of topsoil carried to the sea and
+deposited there. the mississippi is an example. in other areas a river
+may appear to carve a notch in the continental outline at its mouth;
+observe the amazon. you may lead your main rivers to appropriate spots
+on the outline you've already drawn, or change the outline to
+accommodate the rivers.
+
+Areas of swamp and desert may now be added. swamps are located as are
+lakes - a lake. in the course of years, turns into a swamp before it
+dries. while the popular image of a swamp is hot and steamy. it may be
+in any area where water doesn't stay frozen year-round.
+
+a desert is an area devoid of water. it is not a mere expanse of sand;
+many great deserts have no "sand dunes" whatsoever. a desert is
+created by a scarcity of rainfall. if your world is a dry one, deserts
+may appear often. in a wetter world, deserts will likely be found
+only where : high mountain range blocks the prevailing wind from moving
+inland with moisture-bearing clouds - thus creating a lush spot along
+the seacoast, separated from the inland desert by a mountain chain. in
+such an area, rainfall in the mountains themselves may produce a river
+which flows into the desert itself, tracing a line of greenery through
+the desolation until it flows into more hospitable country or dries up
+entirely.
+
+the overall "lay of the land" for remaining areas must then be
+determined. areas may be table-flat, covered with rolling hills, or
+anything in between. hilly areas may be the foothills of mountain
+ranges - or the only remnants of the mountains themselves. truly flat
+areas - which may become plains if climate allows - are most often
+found in the interior of continents. another terrain type is the
+"badlands" - areas where erosion has produced elaborate, beautiful. and
+nearly impassable hills and mesas.
+
+undersea terrain may also be added. if part of your world is an island
+archipelago, or if you are designing a complete planet, you will want
+to determine undersea terrain as well. this terrain will be populated
+by merfolk, nixons. and other undersea intelligences. and will have a
+complete aquatic ecology of its own.
+
+as a rule, undersea terrain will be less varied than that found above
+the water. most continental areas will have a "continental shelf," a
+fairly shallow area to:ich then slants off rapidly to the mid-ocean!ic
+depths. except: where currents wash it clean, the sea floor is largely
+covered with ooze which masks minor irregularities. but the center of
+the ocean may contain great undersea mountains. 'an g es tperhaps a few
+of the peaks may reach the surface to be seen as islands?. there may
+also be great deeps - trenches bottoming out at great depths, as
+fearful and mysterious to the merfolk as earth's deepest cavern is to
+surface dwellers.
+
+most merfolk will live in water only fifty to a hundred feet deep -
+see city location, below. therefore, a gm who wants an extensive
+mid-oceanic civilization should opt for shallow waters.
+
+when a gm's world grows to planetary size, many variations become
+possible. any DragonQuest be more or less "earth like,"
+because only on such worlds can humans survive unprotected. but a great
+variety is possible among EARTH LIKE planets. size is quite variable,
+with or without an accompanying change in gravity. the amount of land
+area can be very great or very small. a world might be 90% ocean,
+within continent larger than great britain or it might be 90% land.
+basically a single continent with a few large, salty lakes. it is
+suggested that the game master start by creating a world that is
+relatively EARTH LIKE, and later graduate to more arcane variations.
+creating a truly believable and truly alien world is the province of
+the skilled science fiction writer - gm are referred to the works of
+Poul Anderson and Hal Clement for some excellent examples.
+
+a world of planetary size might not be a planet. entire books could be
+- and have been - written on this subject, here we will simply name a
+few possibilities. in the realm of science. gigantic structures have
+been postulated as substitutes for planets. larry niven's ringworld
+(q.v.) is only. a still lar8er construct, the "dyson sphere." would
+totally surround a sun with a hollow shell; rhe inhabitants wou-j be
+on the inside. both these constructs are many orders of magnitude
+larger than a 8inple planet- no game master could ever completely work
+out of populate a ringworld except in the scantiest detail, and no
+group of players are likely to need an area even a hundredth that
+lar8e in which to work out their destinies.
+
+another science-fiction concept is the the "generation ship" . a giant
+starship with a self-contained ecology, moving slowly from star to
+star. it would be possible to place a DragonQuest world in such a
+ship, though the seasonally aspected characters would probably suffer.
+rationalization of a magic system on such a starship is
+left to any gm who cares to attempt it.
+
+moving to strictly fantasy concepts. a flat world either tightly
+bounded, with an edge off which you can fall. or absolutely unending
+is a possibility. a flat world could also be shaped like a mobius
+strip - since it would only have one side, it would be impossible to
+fall off, and anyone ' who made it "around the edge" would have
+achieved an interesting short cut. (I'll leave the subtleties of
+the klein-bottle world to the arcane geometers among you.) Philip Jose
+Farmer's "world of tiers" also presents interesting possibilities to a
+fantasy cartographer.
+
+
+local geographical features must be added for each area as it comes
+into play. when you design your continent it is enough to say that
+"this area is mountainous; here is where the river runs." when a
+detailed map of a particular area is made. you will need to show where
+each mountain lies. where the river can be forded, et cetera. this
+will be covered more fully under local maps (q-v.)
+
+the second step in constructing a world is to determine patterns of
+climate. factors to consider will include latitude, seasonal
+differences, prevailing winds.
+
+latitude is the most important factor in climate. refer to the table
+bel0w to determine the "average" temperature for each latitude.
+"average." always a shaky term) here signifies the median outdoor
+daytime temperature for the area in spring or fall.
+
+degrees of latitude            average temperature
+
+zero (equator)                  100 degrees f. +/* 10
+10                              90, +/- 10
+20                              80. +/- 15
+30                              70, +/- 20
+40                              60, +/- 20
+50                              45  +/- 25
+60                              30, +/- 30
+70                              15, +/- 30
+80                               0, +/- 35
+90 (poles)                       0. +/- 40
+
+in general, the farther you go from the equator. the colder the
+average temperature, and the greater the ranee into which temperatures
+may fall.
+
+another factor affecting the range of temperature is the distance of
+an area from the ocean. ranges given above assume that an area is
+neither on the coastline nor in mid-continent. oceans greatly reduce
+the temperature range in nearby areas of land. a shore area (at any
+latitude) will have a temperature range 10 to 20 degrees less than the
+average given. an area in the center of a large c0ntinent, far from
+sizeable bodies of water, may have a t6mperature range 20 to 30
+degrees in excess of those cited.
+
+
+seasonal temperature differences depend on a planet's axial tilt. if
+your planet has no axial tilt, it will have no seasons. (it will also
+be with0ut solstices and equinox es. which will work a terrible hardship
+on seasonally aspected characters.j the greater a planet's axial tilt,
+the more difference their will be in its seasons. (the earth axial
+tilt, for comparison, is 23.i degrees.7 seasonal differences ave
+greatest at a planet's poles and least at its equator. any
+generalization about degree of seasonal differences is going to be
+false. a workable rule of thumb for seasonal differences: average
+winter temperature for a given latitude will be average spring
+temperature minus half the range given. average summer temperature
+will be the average spring temperature plus half the range given. in
+general, the temperature of a land area will vary more throughout a
+given day than its average temperature varies throughout the
+seasons of the year.
+
+
+The direction of the prevailing winds should be determined. a
+world-builder may do this pretty much as he pleases. overall weather
+patterns tend t0 move from the poles ' toward the equator, but the
+prevailing pattern over a smaller area may run in any direction - or
+no standard direction. choose a direction at random - or. after
+reading this part. choose a direction that interacts with terrain
+features to produce interesting effects.
+
+
+
+the interaction of winds with terrain features will have a great effect
+on climate. as mentioned above, a mountain range which blocks
+rain-bearing winds may create a desert. in general, whenever winds
+pass over a large body of water and then over land, they will ?ick up
+moisture from the water and distribute it as rainfall1. the larger the
+body of water and the stronger the wind, the far he farcher this
+effect reaches.
+
+average; rainfall for each major area should be determined. some
+determinants of rainfall have already been discussed. others ti.e.,
+proximity to the ocean) are fairly obvious. assign an average yearly
+rainfall from the table below to each area.
+
+annual rainfall     general terrain     probability of rain
+in inches                type             on any given day
+10                       desert                2/100
+20                       dry                   8/100
+30                       moderate             12/100
+40                       fertile              12/100
+60                       verdant              25/100
+80                       wet                  50/100
+100 and up               miserable            bo/100
+
+"terrain type" above is only a rough indicator. "probability of rain"
+is discussed in the next section.
+
+climate is what you expect; weather 15 what you get, climate patterns
+are only a rough guide to the actual weather of an area. you may, for
+example, have located the city of preldibar at latitude 30, which you
+figure gives it an average temperature of 65. it's on the seacoast,
+which you decide moderates its average range (normally 20 deg at
+that latitude) to 10. the prevailing wind is from the east, off the
+ocean. so what's the weather like today in preldibar?
+
+you won't need to determine this when you create the world - indeed,
+you can't. but when a group of players makes it to preldibar. you'll
+want to tell them whether they need skis, galoshes, or sun-hats.
+
+normal weather can be described, oost of the time, by stating the
+temperature and adding a description of what of water tif any) is
+falling from the sky. (magical weather is a different matter and is
+treated later on.)
+
+to determine weather. a gm should use the two tables below.
+
+rainfall: use table xkxx (above) to determine the probability that it
+rains on the first day a party is in an area after that, base each
+day's chance of rain on the one before as follows:
+
+desert areas 10 inches/year or less;
+
+roll anew for rain each day, regardless of the previous day's
+rainfall.
+
+moderate climates greater than 10 and less than 50 inches/year):
+if yesterday was clear: 80% clear, 18% rain, 2% storms.
+if yesterday was rainy: 50% clear. 40% rain. 10% storms.
+if yesterday was stormy: 50% clear. 25% rain, 25% stormy.
+
+wet climates (20 or more inches per year):
+if yesterday was clear: 50% clear, 40% rain, 10% storms.
+if yesterday was rainy: 20% clear, 60% rain, 20% storms.
+if yesterday was stormy: 20% clear. 20% rain, 40% storms.
+
+the above table is very simple. complexity may be added
+as desired, but in its present form it will provide a
+satisfactory variety of weather.  "storms" mean heavy
+rainfall (or, in a cold area,  snowfall).
+
+temperature:
+
+each day's temperature is based on the temperature of the day before.
+for the starting day, use the average temperature of that area for the
+season then prevailing.
+
+if characters stay in an area long enough for the seasons to change,
+use the solstice or equinox as the starting date of the new seasons
+average temperature -
+
+if yesterday's       chance of      chance of     chance of
+temperature was:     staying same   5" decrease   5" increase .
+
+20" or more
+above average           10%            85%            5%
+15  above average       15%            80%            5%
+10  above average       20%            70%           10%
+ 5  above average       30%            20%           20%
+    average             50%            25%           25%
+ 5  below average       30%            20%           20%
+10  below average       20%            10%           70%
+15  below average       15%             5%           80%
+20  or more
+below average           10%             5%           85%
+
+Once again, this is a very simple chart. Note that neither of these
+charts allows for magical intervention.
+
+whenever the weather is stormy. there is a chance of a severe storm.
+usually, there is about a 20% chance that a storm is "severe." a gm may
+modify this chance as he or she sees fit. the effects of an ordinary
+storm are not catastrophic; such a storm merely drops an inch or two
+of water or snow and goes on its way. a "severe" storm will be a
+minor, or perhaps major, disaster. presenting problems for the players
+(and opportunities for them to become heros) the gm may pick the
+severe storm from the list below, using whatever means seem
+appropriate. factors to be considered will be location, season, and
+temperature.
+
+windstorm. may occur anywhere at any time. a windstorm drops little or
+no rain. but its high winds may destroy small buildings. characters
+caught in a windstorm without shelter will take d-4 of damage each
+ten minutes due to flying objects and will lose d-4 of fatigue each
+ten minutes. in addition, movement rates are halved in the storm.
+
+snowstorm. temperature must be below freezing. a character caught in a
+snowstorm without shelter will take d-4 of damage and fatigue each
+hour. this is doubled if the temperature is below freezing. damage
+from a snowstorm or any other cold storm will be multiplied by
+at least 3 if the characters were not, in the gm's opinion, properly
+prepared with clothing. et cetera, to counter its effects. a snowstorm
+may also have high winds - if so, add the "windstorm" effects.
+march rates are halved in a snowstorm.
+
+hailstorm. as a snowstorm but the precipitation is in the form of ice
+or freezing rain. march rates are quartered in a hailstorm. however,
+almost no living being in its right mind will venture out (or believe
+that anyone else would) in such weather.
+
+sand storm. a windstorm in or near a desert, where it has picked up a
+load of sand and dust. effects are as a windstorm, but doubled. small
+objects dropped during a SAND STORM will not be found again without
+magical help, if a character becomes lost during a SAND STORM, he or
+she is likely to be found ,smothered by the sand,when weather clears.
+
+tornado. this is a highly localized windstorm: effects are nil if you
+are more than 1/2 mile from the tornado. within 1/2 mile of its path,
+effects are like those of a windstorm. any character who has the
+misfortune to be on the tornado's narrow (200-400 yards wide) path
+will probably not be heard from again. there is an 80% chance that
+he/she will simply vanish. a 15% chance of 3dl0 of damage, a 4% chance
+of 1d10 of damage, and a 1% chance that at the character will be
+transported some distance and put down unhurt. tornadoes can be seen
+and heard for a great-distance; they usually move in a straight line
+at from 10 to i0 mph. any building hit by a tornado, except a pyramid
+or similar solid block of masonry, will be wrecked or completely
+obliterated.
+
+hurricane. as far as the characters of a dragonquest world
+are concerned, a hurricane is a severe windstorm. the only difference
+is that, if they are under the "eye" of the hurricane, it will seem to
+vanish. giving them from one to three hours of clear weather - and
+then return, reaching full force within five minutes!
+
+earthquakes and VOLCANOS are not weather; they have nothing to do
+with storms. they are geological. rather than meteorological, events;
+they may occur in any climate. a gm may determine that an area is
+earthquake or volcano prone. in 90 % of the cases the natives will be
+aware of this and will know what to do the rest of the time they will
+be just as unnerved as the players. severity of these phenomena is
+entirely up to the gm.
+
+the third step in world-building is the determination of manography .
+. . the degree and quality of available mana in each locale. mana is
+the stuff of magic, it is a type of energy not native to our
+dimension. it "leaks through" in various locations, providing the
+power by which adepts ply their trade. manography is the study of the
+physical location of mana.
+
+
+the strength of the available mana in an area may be described by a
+number from 1 to 10. zero is the bottom of the scale; ten is the top.
+previous dragonquest rules have referred to areas of "low mana" and
+"high mana" an area may simply be mapped in terms of low. medium, and
+high mana. ii descriptive numbers are used. mana levels 0-5 are "low."
+and levels 9 and 10 are "high."
+
+
+mana level                           descriptio;
+
+0                  magic is impossible. magic items work with a 50%
+                   efficiency and a 50% chance of self destruction
+                   at each use.
+
+1                  magic very difficult. add -30% to all
+                   base chances. magic items work with reduced
+                   efficiency. backfire impossible.
+
+
+2                  magic difficult. add -20% to all base
+                   chances. magic items work normally.
+
+3                  magic somewhat difficult. add -10% to all
+                   base chances.
+
+4-5                magic is no bore difficult than usual.
+                   however, there will be few or no adepts
+                   native to the area. no magical creatures
+                   will be found.
+
+6                  occasional stunted varieties of magical
+                   creatures will be found.
+
+7                  magical creatures of all types are found
+
+8                  dragonquest worlds. on average. 80 to 90%
+                   of the area of your world should be at
+                   level 7 or 8.
+
+9                  high-mana environment. add l0% to the
+                   base chance for all spells cast.
+
+10                 very high mana environments
+                   add 30% to base chance of spells. such
+                   are rare and, as will be seen below,
+                   may be dangerous.
+
+a manographic map shows " contour lines" giving the strength of mana
+in various areas. often mana radiates outward from a single small
+point. a building might have a mana of 10, with its courtyard having a
+level of 9, the land for a day's march around having a mana of 0, and
+the rest of the shire having a level of 7.
+
+any adept will have a good general idea of the mana level 0f any area
+as soon as he enters it. were it not for the fact that occasionally
+(for instance) a mana 9 area is adjacent to a mana 7 area, adepts would
+almost always know the exact mana level of the area they are in.
+
+any adept has a 5 * ma chance of immediately sensing the change when
+he crosses a boundary between areas with different mana levels. he
+will always know whether the is from higher to lower or vice versa.
+
+any adept also has a 4 * ma chance of correctly sensing the exact mana
+level of an area if he concentrates. undisturbed, for one minute.
+should he be mistaken. he will1 only miss by one mana levei, the gm
+determines randomly the direction of error. an adept may only try this
+once per day in any given place
+
+any adept has the same chance of determining the celestial aspect of
+a place in the same way (if that place has an aspect). however no adept
+will be aware of the existence of an aspect unless he/she cakes a
+minute to concentrate.
+
+adepts have no especial ability to sense emotional aspect
+
+
+an area with a mana level of 9 or 10 may be aspected just as
+characters are aspected. since human sacrifice is often used to draw
+mana. most aspected high-mana areas will be death-aspected. other
+aspects are possible. a life- aspected area will sometimes be found;
+such areas are often used as temples of pagan religions. if, through
+natural or magical means) the sun shines daily on a spot but the moon
+never does, that spot will become sun-aspected if its  mana is high
+enough. the reverse process will cause an area to take on a lunar
+aspect. very rarely, a spot may have a seasonal aspect.
+
+a death-aspected place affects all characters as though a human had
+just died there. a life-aspected place affects all characters as though
+an (unrelated? human had just been born. solar-aspected places have
+the effect of noon; lunar-aspected places have the effect of midnight.
+a place with a seasonal aspect has the effect of midnight on an
+ordinary night when its stars are ascendant. these effects are for an
+aspected plate with a mana level of 9. if the mana level is 10. double
+al1 these effects. all effects are cumulative with other factors
+concerning magic, et cetera.
+
+an area with a mana strength of 9 or 10 may also carry an emotional
+aspect. this may be instead of or in addition to its normal aspect.
+
+an "emotional aspect" is a feeling of emotion engendered in al1 living
+being which enter that place. magical theoreticians believe that it is
+caused by mana leakage from specific other-dimensional spots whose
+inhabitants are feeling a strong emotion. if a place experiences mana
+leakage from the native plane of a demon. for instance. it might
+become charged with anger. hate. sadism. or simple hunger.
+
+
+a place carrying an emotional aspect will always have a "reputation"
+among local people. and may very well be the focal spot for religious
+and/or magical ceremonies.
+
+where players approach an area with an emotional aspect, they should
+be informed that they are beginning to feel angry or happy. or
+whatever.) aspected areas will, of course. affect non-player
+characters, animals, and monsters. the gm is responsible for
+determining and applying these effects as he sees most fit.
+
+many sorts of emotion and quasi-emotion are possible; the gm should be
+inventive. some possibilities include
+
+hunger, hatred, amusement,happiness,combativeness,lust,
+competitive ness, madness, destructive ness,studious ness, disgust
+stupidity, friendship, self-sacrifice.
+
+some sorts of emotional aspect will have measurable effect on
+factors of play. the aspect of lust, for instance. will increase the
+fertility of those who live therein. the aspect of STUDIOUS NESS will
+reduce by 20% the time required to learn anything. if all studying is
+done in that place 50% if the mana level is 10 instead of 9). and so
+on.
+
+various combinations of regular aspect and emotional aspect may
+produce interesting results. a place aspected to both life and lust
+would tend to attract fertility rites. a place aspected to death and
+lust would draw certain of the less attractive demons. a place
+aspected to sun and DESTRUCTIVE NESS might draw fire-worshippers;
+aspects of moon and madness would draw (or produce) literal lunatics.
+be creative.
+
+an area with a mana strength of 9 0r 10 may be subject to mana
+weather. mana weather. or magic weather- is the - overall term for a
+class of mana phenomena often encountered in high-mana areas. there
+are a number of different kinds of mana weather, described below.
+there is a 3% chance that any given level 9 area will experience one
+kind of mana weather on any given day. and a 1% chance that it will
+experience two kinds. double these chances for level 10 areas:
+double-them-again for areas that have no aspect or emotional aspect.
+if two kinds of mana weather are experienced, the second will not
+begin until the first has ended.
+
+determ.ine starting time for the phenomenon by roiling d100 and
+dividing it by 4. re roll anything > 24. read this as a time. 1 is 1
+a.m. and 3 is 3 a.m. 13 is 1 p.m. and so on. determine the type of
+mana weather by rolling d100 and checking the percentage chances liven
+for each type of weather, weather will always extend over the whole
+high-mana area and will cease abruptly at its edge.
+
+1-8. hot hail. looks and acts like hail, but boiling hot.
+does d-4 damage each minute to unprotected beings. and can set fire to
+flammable objects. lasts 2d10 minutes. if hot hail is caught in a
+bottle, and the bottle sealed it will worth 500 silver pennies per
+ounce to an alchemist if delivered within four days of its falling.
+
+9-11. rain of flame. insubstantial flames fall from the sky, doing d-3
+damage per minute to solar-aspected beings double that to all others.
+lasts 1d10 minutes.
+
+12-15. spelldust.a rain of sparkling. multicolored dust. lasts 1
+minute, and vanishes. its effects are random, but usually troublesome.
+roll 1d100 for each character. on a 1-50, he suffers one effect of the
+damned minatum. on a 51-75, he falls unconscious for two hours,
+dreaming happily. and awakens with all fatigue points recovered. on a
+76-100, the sleep lasts 24 hours, and the character awakes with all
+fatigue and endurance points recovered. if a character wishes to avoid
+breathing the dust, he/she must roll his endurance or less on 1d100.
+
+16-25. solid fog. lasts 1dl0 hours. grayly translucent. it impedes
+movement; all movement (of any kind) is at half speed. missile
+weapons become unusable, except for flaming arrows. solid fog boils
+away and vanishes instantly within six feet of any fire or flame, so
+torch-holding characters may proceed normally.
+
+26-30. static. sparks and glowing witch-fire appear constantly.
+lasting d-1 hours. a nuisance: animals are skittish, and spells may
+misfire due to the uncontrolled discharge of mana. add -20% to base
+chance for any spell. static can also cause very flammable objects or
+compounds to explode ( 5% chance).
+
+31-40. rain of frogs. lasts 2d10 minutes. thousands of tiny frogs or
+snails, or lizards. or other beasts fall from the sky. no effect
+except to slow travel slightly and irritate everyone concerned   
+
+41-50. rain of blood. the sky literally rains blood for d10 minutes.
+this is generally considered an evil omen. life- and death-aspected
+characters are affected -30% and +30% respectively, on all magical
+chances while the rain continues.
+
+51-60. unnatural light/darkness. if it is daytime, the sun will appear
+to go out: if it is night, there will be full daylight. though with no
+visible sun. lasts d-2 hours.
+
+61-65. glowing fog. green-glowing vapor, lasting for 1d10 hours.
+glowing fog totally nullifies infravision of all kinds. visibility
+during this event, whatever the time of day, is equivalent to human
+vision at dusk for all creatures.
+
+66-70 windstorm: identical to a natural windstorm. lasting d-2 hours.
+
+71-75. heat. temperature rises one degree per minute for 1d100
+minutes, chen falls at 5 degrees per minute back to its previous
+value. this is air temperature only - water will provide some relief
+
+76-80. cold. as above, but temperature falls,  then rises.
+
+81-90. exhiliration. all character5 will feel unaccountably cheerful.
+add 20 to each reaction0n roll in a level 9 area, of 40 to each roll if
+a level 10 area. lasts d10 hours.
+
+91-100. depression. as above, but reversed. subtract 20 from reaction
+rolls if a level 9 area, or 40 from reaction rolls in a level 10
+area.
+
+by the practice of group magic, adepts can suppress or prevent mana
+weather. this is often necessary in a high- mana area which houses a
+temple or similar facility. see the section on group magic for a full
+explanation.
+
+manography can change, though abrupt changes are very rare. a
+high-mana area can, over a period of time, become a low-level area.
+the aspect of a place may chance, or its emotional aspect may alter.
+these changes are largely up to the cm, but should not be
+quick ones.
+
+the laws governing mana enrichment and depletion are not known. in some
+cases, centuries of magic practiced in an area tend to deplete the
+mana (cf. Larry Niven's the magic goes away). in other cases, mana
+appears to remain constant or even increase, despite constant use. it
+appears that magic practiced on this plane does not have a consistent
+or humanly-logical effect on the mana-sources located on other planes.
+this means that a referee may make his own decisions as to long-term
+mana chances in an area, and does not have to be consistent unless he
+wants to. he may make his own rules (with or without informing the
+players) - or he may make no rules at all. there are some things man
+was not meant to know-
+
+the one known method of increasing an area's mana level is human
+sacrifice. this is one of the things man was not meant to know - but
+he found out anyhow. ritual human sacrifice. repeated over months or
+years, will increase the mana level of a place. this produces what is
+known as "un hallowed" or "dark" ground. high-mana areas produced in
+this way are always death-aspected.
+
+for each victim killed in a ritual fashion - either as part of another
+magical rite. or just as a sacrifice to the dark powers there is a 1%
+chance that the area's mana will increase by 1 due to the attraction
+of demonic forces. this chance is cumulative as long as sacrifices are
+no closer than a week together. nor farther apart than a month. if
+more than a month passes between sacrifices, or if a mana level
+increase is actually attained, the cumulative chance of a further
+increase is set back to zero. but may start over.
+
+any increase gained in this fashion will affect an area d10 yards in
+diameter. if several increases are eventually attained, roll
+separately for each increase; this will likely produce a typical
+concentric manographic pattern.
+
+the increased mana level thus attained will remain as long as at
+least one human sacrifice per two months. or one animal sacrifice per
+week. is made. if the requisite sacrifice is not made, the mana level
+may drop in whatever fashion the gm likes.

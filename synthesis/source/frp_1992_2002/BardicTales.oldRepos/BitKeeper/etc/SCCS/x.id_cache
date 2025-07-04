@@ -1,0 +1,5 @@
+# This is a BitKeeper cache file.
+# If you suspect that the file is corrupted, simply remove it and 
+# and it will be rebuilt as needed.  
+# The format of the file is <ID> <PATHNAME>
+# The file is used for performance during makepatch/takepatch commands.

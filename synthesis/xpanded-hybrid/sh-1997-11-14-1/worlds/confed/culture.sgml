@@ -1,0 +1,375 @@
+<!DOCTYPE BOOK PUBLIC "-//Davenport//DTD DocBook V3.0//EN" [
+<!--ArborText, Inc., 1988-1995, v.4001-->
+<!NOTATION drw SYSTEM "DRW">
+<!ENTITY www "World Wide Web">
+]>
+<book>
+    <bookinfo>
+        <title>Cultures of the Confed</title>
+        <author>
+            <firstname>
+            Jim
+            </firstname>
+            <surname>
+            Jackl-Mochel
+            </surname>
+        </author>
+        <authorinitials>
+        Jim Jackl-Mochel
+        </authorinitials>
+        <copyright>
+        <year>1984,1997</year>
+        <holder>Jim Jackl-Mochel</holder>
+        </copyright>
+    </bookinfo>
+
+    <chapter>
+        <title>Layout Example</title>
+        <sect1>
+            <title>Physical Resources</title>
+            <sect2>
+                <title>Noticeable Raw Materials</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Hidden Raw Materials</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Noticeable other assets</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Hidden other assets</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Neighboring Assets</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Technology</title>
+            <sect2>
+                <title>General</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Medical</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Weapon</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Magic</title>
+            <sect2>
+                <title>General</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Medical</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Weapon</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Subsistence Patterns</title>
+            <para>
+            </para>
+        </sect1>
+
+        <sect1>
+            <title>Values and Kinship</title>
+            <para>
+            </para>
+        </sect1>
+
+        <sect1>
+            <title>Language</title>
+            <sect2>
+                <title>Language Tree</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Mapping</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Dialects</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Literacy</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Writing Forms</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Sounds</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Vocabulary and Grammer</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Religion,Myths,and History</title>
+            <sect2>
+                <title>Religion</title>
+                <para>
+                </para>
+                <sect3>
+                    <title>Cosmology</title>
+                    <para>
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Deities</title>
+                    <para>
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Myths</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>History</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+
+        <sect1>
+            <title>Tradition</title>
+            <sect2>
+                <title>Wedding</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Bedding</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Birthing</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Battle</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Other</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Clergy</title>
+            <sect2>
+                <title>Rites and Rituals</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Religious Norms</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Institutions</title>
+            <para>
+            </para>
+        </sect1>
+
+        <sect1>
+            <title>Art, Architecture, and Symbolism</title>
+            <sect2>
+                <title>Symbolism</title>
+                    <sect3>
+                        <title>Common Motifs</title>
+                        <para>
+                        </para>
+                    </sect3>
+                    <sect3>
+                        <title>Significant Numbers</title>
+                        <para>
+                        </para>
+                    </sect3>
+            </sect2>
+            <sect2>
+                <title>Art</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Architecture</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Politics</title>
+            <sect2>
+                <title>Leadership</title>
+                    <sect3>
+                        <title>Stated</title>
+                        <para>
+                        </para>
+                    </sect3>
+                   <sect3>
+                        <title>Actual</title>
+                        <para>
+                        </para>
+                    </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Class Controls</title>
+                <para>
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Judicial Structure</title>
+                <sect3>
+                    <title>Making the laws</title>
+                    <para>
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Enforcing the laws</title>
+                    <para>
+                    </para>
+                </sect3>
+            </sect2>
+
+        </sect1>
+
+        <sect1>
+            <title>Legal Code</title>
+            <sect2>
+                <title>Ownership of Goods</title>
+                <para>
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Land</title>
+                <para>
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Male and Female Roles</title>
+                <para>
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Church and State</title>
+                <para>
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Death</title>
+                <sect3>
+                    <title>By Suicide</title>
+                    <para>
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>By Anothers Hand</title>
+                    <para>
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>In Self Defense</title>
+                    <para>
+                    </para>
+                </sect3>
+            </sect2>
+          </sect1>
+
+        <sect1>
+            <title>Military</title>
+            <sect2>
+                <title>Standing</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Command</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Routine</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Arms</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Outfitting</title>
+                <para>
+                </para>
+            </sect2>
+            <sect2>
+                <title>Theory</title>
+                <para>
+                </para>
+            </sect2>
+        </sect1>
+
+    </chapter>
+</book>
+
+

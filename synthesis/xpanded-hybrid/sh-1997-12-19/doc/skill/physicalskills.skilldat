@@ -1,0 +1,37 @@
+.Title Physical Skills
+
+.BeginSkill	Dance:(Type)
+.BaseType ART
+.Interaction U
+.Implementation NT
+.StatBasis		PAG
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Movement:(Environment)
+.BaseType PDISC
+.Interaction U
+.Implementation NT
+.StatBasis PAG
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Weapon:(Specificy Weapon)
+.BaseType PDISC
+.Interaction U
+.Implementation ST
+.StatBasis		ACC
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+

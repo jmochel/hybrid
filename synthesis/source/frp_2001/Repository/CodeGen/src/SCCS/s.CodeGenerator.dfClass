@@ -1,0 +1,137 @@
+h36164
+s 00106/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK00924
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/CodeGenerator.dfClass
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK15986
+cPsrc/CodeGenerator.dfClass
+cR87b15e57
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+package id3bsebc28tdoj9c28tdozy;
+
+/**
+@version 2.0
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.CodeGeneratorEvent:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.CodeGeneratorListener:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.MetaData:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference10 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.TagLibrary:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference11 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.tags.ClassTags:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference12 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.tags.CommonTags:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference13 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.meta.ClassMetaData:oiref><oihard>
+@__modelType reference
+@__imported 
+*/
+class reference14 {
+}
+}
+/**
+0
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}
+/**
+@__options filter.g.state = on
+filter.f.state = off
+filter.e.state = off
+
+option.detail = Analysis
+filter.d.state = on
+*/
+class __options {
+}
+/**
+@__positions <oigroup:<oiref:java#Class#com.dreambean.codegen.tags.ClassTags:oiref>=399,614,203,356,1:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref>=532,176,203,315,1:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.meta.ClassMetaData:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref>=224,327,532,327:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.TagLibrary:oiref>=530,493,203,74,1:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.CodeGeneratorListener:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGeneratorEvent:oiref>=733,82,767,122:oigroup>
+<oigroup:<oiref:java#Implements#com.dreambean.codegen.tags.ClassTags#com.dreambean.codegen.TagLibrary:oiref>=578,614,578,567:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.TagLibrary:oiref>=621,491,621,493:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.MetaData:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref>=464,271,532,271:oigroup>
+<oigroup:<oiref:java#Implements#com.dreambean.codegen.tags.CommonTags#com.dreambean.codegen.TagLibrary:oiref>=673,617,673,567:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.tags.ClassTags:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.meta.ClassMetaData:oiref>=477,614,122,375:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.TagLibrary:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref>=585,493,585,491:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGeneratorListener:oiref>=632,176,632,100:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.tags.CommonTags:oiref>=644,617,203,111,1:oigroup>
+<oigroup:Autodependency<oiref:java#Class#com.dreambean.codegen.CodeGeneratorEvent:oiref><Autodependency><oiref:java#Class#com.dreambean.codegen.CodeGenerator:oiref>=767,159,735,216:oigroup>
+<oigroup:<oiref:java#Implements#com.dreambean.codegen.meta.ClassMetaData#com.dreambean.codegen.MetaData:oiref>=224,271,261,271:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.MetaData:oiref>=261,234,203,74,1:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.CodeGeneratorEvent:oiref>=767,111,203,59,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#com.dreambean.codegen.tags.CommonTags#gen:oiref>=658,617,658,491:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.CodeGeneratorListener:oiref>=530,9,203,91,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#com.dreambean.codegen.tags.ClassTags#gen:oiref>=590,614,603,491:oigroup>
+<oigroup:<oiref:java#Class#com.dreambean.codegen.meta.ClassMetaData:oiref>=21,213,203,162,1:oigroup>
+*/
+class __positions {
+}
+E 2
+I 1
+E 1

@@ -1,0 +1,287 @@
+H22390
+s 00257/00000/00000
+d D 1.1 00/12/08 09:40:45 jmochel 2 1
+cC
+cF1
+cK55856
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:45 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/MordanithPossessions.tex
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK06035
+cPShapeShifters/MordanithPossessions.tex
+cR67b8f7f6
+cV4
+cX0x1a1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+\documentstyle[fanhead]{article}
+\pagestyle{fancy}
+\chead{Mordanith's Possessions}
+
+\def\bblock #1{{\hsize 2 true cm\noindent  \bf#1}}
+
+\def\spell NAME:#1DF:#2CT:#3COST:#4DUR:#5RNG:#6AOE:#7
+\par{
+    \bigskip
+    \hrule height1pt
+    \medskip
+    \noindent{\LARGE\bf\sf #1}
+    \small
+    \bigskip
+    \hrule height1pt
+    \medskip
+    \begin{list}{}{\setlength{\leftmargin}{0in}\setlength{\labelwidth}{1in}\setlength{\rightmargin}{0in}}
+        \item{\bblock{DF}}#2
+        \item{\bblock{CT}}#3
+        \item{\bblock{COST}}#4
+        \item{\bblock{DUR}}#5
+        \item{\bblock{RNG}}#6
+        \item{\bblock{AOE}}#7
+    \end{list}
+    \medskip
+    \hrule height1pt
+    \bigskip
+}
+
+Mordanith's Possessions
+
+
+Monetary Resources
+
+Item            | Quantity | Value
+Platinum Wires  | 18       | 126,000
+Gold            | 2        | 2
+Silver          | 10       |
+Marden Copper   | 23       |
+Gold Talons     | 6        | 100
+White Diamonds  | 4        | 1000
+
+Books
+
+Standard Church Wards:Design and Implementation
+A very useful guide to fixed ward preparation. But is very high level and is
+more of an overview than a beginner's guide(which is no prob.. for
+Mordanith)
+
+History of The Seven Sorceries this is clear. No eye-witness
+accounts. All taken from other sources.
+
+Tolnedran Runes
+This is a high-level dictionary/lexicon designed to
+allow the user to learn single runs or specific types or groups
+of runes at a time.
+
+Pattern Stacking: Minimizing Interference
+obvious(is referring to Ritual patterns laid down on top of one
+another..)
+
+Object Fixing and Cleansing for Mobile Wards
+
+The Song of Hope
+A set of religious poems written at the end
+of the Dwarven-Elven War cycle.
+
+The Highest Hill
+A story of the human movement to destroy abjuration
+and the flight of the high elves from persecution
+
+Enchanting an Item: A Beginner's Source Book
+-obvious- but not that
+useful on Prime. It is slanted to the  Elven environment. Does
+contain useful basic principles.
+
+To Light the Way
+A poem of instruction in the forming of light magics. It was written
+by the Bard Halienthiel Akkentis Paramar.
+
+Words on Truth: A Devotional Aid
+A Theological guide to the Church
+of Correllan. Contains a mixture of philosophy,ethics, and history. Written
+by a high priest of the Word.
+
+Book on Theology
+
+
+Five books describing the original design of the Wizard King's
+wards.
+
+One spell book: In Tolnidren with 13 spells intact including 
+"Plane Bore".
+
+Maps
+
+
+Excellent Map of the world
+Map of the Area around Kiev in Dau Shao
+Map of the path from Marden to Kiev in Dau Shao
+
+
+Clothing
+
+
+Sky Blue Silk robes  3
+White Silk Robe
+Dark Gray Linen Robes
+White w/Blue Trim Cotton Tunic
+Light Gray Faer-Han Cut Cotton Tunic
+Yellow Silk Tunic
+Silvery White Silk Trousers
+Purple Silk Cape
+Royal Blue Trousers  2
+Black Silk Tunic  4
+Turquoise Cotton Trousers with Silver Braid  2
+White Silk Sash
+Light Blue and Silver Sparkled Silk Scarf
+Bright Red Silk Robe.
+Black Silk Cloak
+
+
+
+Magic Items
+
+
+Enchanted Wards Minor
+Mordanith Enchanted Wards Minor
+Enchanted Cloak (60+ power Air Elemental)
+A Mithril Irith, Enchanted.
+Irith Scabbard, Enchanted
+Staff, Magic Neutral
+High Elven Rope 200' (Responds to High Elven )
+Bag of Holding for Healing Materials
+
+
+Tools
+
+
+150' Silk Rope
+250' Silk Twine
+Small Shovel
+Large Pick
+2 hammers
+Mallet
+
+
+General Camping Equipment
+
+
+7 Flasks of Oil in a wooden case
+2 Lanterns
+2 Tarps
+2 $ 20' \times 20' \times 15' $ Magical tents
+2 $ 10' \times 10' $ storage tents
+1 $ 40' \times 30' $ Cat Tent
+
+Magic Components
+
+Herbs
+
+Black Lotus  12 oz
+Moonwort     6 ozs
+Belladonna   2 oz
+Cinnamon     12 oz
+
+Gems
+
+Opal Dust          6 gms
+Black Opal Dust    2 oz
+Blue Diamond Dust  1oz
+Small Quartz Crystals  30
+Amber Dust         14 lbs
+Tormaline Dust     1 oz
+Coral Agate        1 stone
+Amethyst Dust      12 oz
+Aquamarine         2oz
+Onyx               6 oz
+Onyx               2 stones
+Peridot               2 stones
+Topaz(Blue)               1 stone
+Beryl               1 stone
+Bloodstone               Dust 6 oz
+Carnelian               6 stones
+Emerald Dust               4 oz.
+Emerald               1 stone
+Star Sapphire Dust               1/2 oz
+Sapphire Dust               1 oz
+Jade               2 stones
+Lapis Dust               2 oz
+Jet               1 stone
+Moonstone               1 oz.
+
+Minerals and Such
+
+Obsidian Dust               6 oz
+Sea Salt               4 oz
+Sulfur               2 lbs.
+Sand               6oz
+Coral Dust               3 oz
+Ivory Powder               1 oz
+Lodestone               2 stones
+Malachite               2 oz
+
+Metals
+
+Powdered Steel               1 lb
+Brass Balls               12
+Copper Filings               20 oz
+Silver Rings              4
+Gold Dust               2 oz
+powdered Silver         2 vials
+
+Glass
+
+Glass spheres  30
+Glass rods  6
+
+Incense
+
+2               Incense Packs
+1               Magic Incense
+3               Wiepack Incense
+6               Pack Enchanted Incense, for power restoration
+
+Fire Fighting
+
+
+powder to put out fire  2 vials
+Fire Fighting Globes  2 boxes (7 balls)
+Glass Balls for Magic Fire Fighting  2
+
+
+Medicine
+
+
+Healing Potion  2 flasks
+Coral Sea Snake Poison  6 drams ( 3 vials)
+Basic Medicines for a horse
+Shape Healing Potions  10 vials (5d/vial)
+Potions of Order  2 vials (5d/vial)
+Poison Antidote  2 vials (4d/vial)
+Anti-infection Creme  2 pots (6d/pot)
+Mental Healing  1 vial (5d/vial)
+
+Misc
+
+Dry dust from fine elven wine  1 skin
+Silver Mirrors  4
+Silver Throwing Stars  12
+Flushed spell batteries  5
+150' Silk Thread   ( 4 skeins )
+50 Skeins Silk Thread
+2 Skeins Silver Thread
+Silver Holy Symbol of Corellen  1
+
+\end{document}
+E 2
+I 1
+E 1

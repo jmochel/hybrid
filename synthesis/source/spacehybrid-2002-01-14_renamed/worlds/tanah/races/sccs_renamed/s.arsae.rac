@@ -1,0 +1,50 @@
+h09275
+s 00022/00000/00000
+d D 1.1 99/12/02 16:06:54 jmochel 2 1
+cC
+cK35816
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:06:50 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/arsae.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45041
+cPworlds/tanah/races/arsae.rac
+cReb4787ab5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Sarsin}
+
+\section*{Statistics}
+
+\begin{itemize}
+	\item[Race Name] Sarsin
+        \item[Avg. Height] 5'4"/5'2"
+        \item[Avg. Weight] 125/110
+        \item[Skin Color] Dark brown
+	\item[Hair Color] Black hair
+	\item[Eye Color] Brown
+        \item[Stat Mods] None
+	\item[Inherent Skills]
+\end{itemize}
+
+\section*{Description}
+
+Features are close to that of the Thai.
+
+\section*{Cultures and Sub-groups}
+Arsae
+
+E 2
+I 1
+E 1

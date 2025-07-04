@@ -1,0 +1,20 @@
+jmochel 976286455: devilmountain:f:/Repository/BardicTales commit -yImport changeset = 0
+jmochel 976286542: devilmountain:f:/Repository/BardicTales remote clone -q to devilmountain:/.\BardicTales = 0 xfered=8056433
+jmochel 976322762: mordanith.ne.mediaone.net:i:/Repository/BardicTales remote clone -q to mordanith.ne.mediaone.net:/BardicTales = 0 xfered=8056433
+!jmochel 1008168153 20010604201538: mordanith.:l:/Repository/BardicTales remote clone = 1
+!jmochel 1008168515 20010604201538: mordanith.:l:/Repository/BardicTales remote clone = 0 xfered=8465064
+!jmochel 1008170488 20010604201538: mordanith.:l:/Repository/BardicTales remote push part1 = 0 xfered=0
+!jmochel 1008170493 20010604201538: mordanith.:l:/Repository/BardicTales remote push part2 = 0 xfered=0
+!jmochel 1010665560 20010604201538: mordanith.:l:/Repository/BardicTales remote push part1 = 0 xfered=0
+!jmochel 1010665565 20010604201538: mordanith.:l:/Repository/BardicTales remote push part2 = 0 xfered=0
+!jmochel 1011057094 20010604201538: mordanith.:l:/Repository/BardicTales remote push part1 = 0 xfered=0
+!jmochel 1011057107 20010604201538: mordanith.:l:/Repository/BardicTales remote push part2 = 0 xfered=0
+!jmochel 1011058939 20010604201538: mordanith.:l:/Repository/BardicTales remote push part1 = 0 xfered=0
+!jmochel 1011303782 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote push part1 = 1
+!jmochel 1011303786 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote push part1 = 1
+!jmochel 1011303816 bk-2.1.3: devilmountain.:f:/Repository/BardicTales abort = 0
+!jmochel 1011303830 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote push part1 = 0 xfered=0
+!jmochel 1011303830 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote push part2 = 0 xfered=0
+!jmochel 1011303838 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote pull part1 -z6 = 0 xfered=0
+!jmochel 1011303838 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote pull part2 -z6 = 0 xfered=0
+!jmochel 1011303922 bk-2.1.3: devilmountain.:f:/Repository/BardicTales remote clone = 0 xfered=8465064

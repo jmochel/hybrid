@@ -1,0 +1,1638 @@
+.name	Accounting
+.type (TS,U,CT)
+.sb		FCS
+.rb		STD
+.cost	
+.BeginDetail
+The technical study of the tracking of financial transactions
+.EndDetail
+.BeginEF
+7 Balance a set of properly kept books
+.EndEF
+
+.name	Accounting Science
+.type (SCI,U,CT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+The science of analysing the flow of financial transactions
+.EndDetail
+.BeginEF
+7	Design a plan for analysing the flow of assets within a given organization
+.EndEF
+
+.name	Aeronautics Engineering 
+.type (ENG,U,CT)
+.sb		FCS
+.rb		
+.cost
+.BeginDetail
+The engineering discipline involving the design of atmospheric craft.
+.EndDetail
+.BeginEF
+7	Analysis of the design of a craft.
+.EndEF
+
+.name	Applied Linguistics
+.type (ENG,U,NT)
+.sb		FCS
+.rb		
+.cost
+.BeginDetail
+The engineering discipline involving the design of languages and methods of
+communication via language.
+.EndDetail
+.BeginEF
+8	Analysis of a languages structure
+.EndEF
+
+
+.name	Appraisal
+.type (ENG,U,ST)
+.sb		FCS ?
+.rb		STD
+.cost
+.BeginDetail
+The discipline involving the evaluation and determination of the worth of 
+an item.
+.EndDetail
+.BeginEF
+7 Evaluate the currrent value of an item
+.EndEF
+
+
+.name	Aquaculture Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Archeology
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name	Archeology, Field
+.type (ENG,U,ST)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name	Astro Physics  
+.type (SCI,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Astrogation     
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Biochemistry  
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Biology
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Biomedicine
+.type (ENG,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Botany          
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Bribery
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+7 Determine a persons price
+.EndEF
+
+
+.name	Business Administration
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+5 Determine the most profitable market to pursue
+.EndEF
+
+
+.name	Cartography
+.type (CFT,U,ST)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Chemical Engineering        
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Chemical Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Chemistry
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Civil Engineering       
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Civil Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Classical Physics          
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Clerical Studies
+.type (,,)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Clinical Psychology  
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Cognoscology   
+.type (SCI,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+The science of how organisms learn
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Combat Engineering
+.type (ENG,U,ST)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Combat Operations:(Environment)
+.type (TS,U,ST)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Communications Operations
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Computer Engineering        
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+7 Design a simple computer (may take a good period of time)
+.EndEF
+
+
+.name	Computer Sci        
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Computer Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+7 Write a simple program 
+.EndEF
+
+
+.name	Confiscation
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Cryptograhy           
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Cultural Anthropology
+.type (SCI,U,NT)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Dance:(Type)
+.type (,,)
+.sb		PAG
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Debate
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Demolitions Operations
+.type (TS,U,ST)
+.sb		FCS+PDX
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Diplomacy
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Psionic)
+.type (ENG,U,ST)
+.sb		PSI
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(General)
+.type (,,)
+.sb		MCA+FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Verbal)
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Disguise:(Visual)
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Dry Art
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	E&M Physics          
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Eco Engineering         
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Ecology         
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Electrical Engineering       
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Electrical Operations
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Electrical Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Elocution
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Fencing
+.type (,,)
+.sb		PCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Field Physics  
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Forensic Engineering 
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Forensic Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Forensics
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Forgery
+.type (CFT,U,NT)
+.sb		FCS?
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Gambling
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Genetic Engineering        
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Genetic Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Genetics        
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Geology
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	HTH Combat
+.type (,,)
+.sb		PCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	History
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Holography
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Hydroponics Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Hypnotist
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Hyper Atomics   
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Impersonation
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Infiltration
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Instrumental Music
+.type (,,)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Interrogation
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Investigation
+.type (,,)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Journalism
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Linguistics Tech
+.type (TS,U,ST)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Language:(Specify)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Business)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Patent)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Law:(Criminal)
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Linguistics    
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Logic
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Math Analyst
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mathematics            
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mechanical Engineering        
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mechanical Ops
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mechanical Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Medicine         
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Medical Ops
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Medical Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Metallurgy      
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mime
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mining Engineering      
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mining Ops
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Mining Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Modeling Engineering    
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Movement:(Environment)
+.type (,,)
+.sb		PMV
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Navigation:(Interstellar)
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Navigation:(Intrastellar)
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Nexialism      
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Office Technical Systems
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Optical Engineering
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Optical Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Pharmacognosy   
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Pharmacology
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Philosophical Anthropology
+.type (,,)
+.sb		
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Philosophy
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Physical Anthropology
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Pilot/craft
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Planetology    
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Power Engineering       
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Power Operations
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Power Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Prevarication   
+.type (CFT,U,NT)
+.sb		MCA
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name Presence:(Mental)
+.type (,,)
+.sb		MAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name Presence:(Physical)
+.type (,,)
+.sb		PAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+.name Presence:(General)
+.type (,,)
+.sb		GAW
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Psi Engineering         
+.type (ENG,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Psi Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Psychiatry      
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Psychology     
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Reconnasciance
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Robotics        
+.type (SCI,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Robotics Tech
+.type (TS,U,ST)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Sculpture
+.type (CFT,U,NT)
+.sb		MCA+PDX
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Security Devices
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Security Systems
+.type (,,)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Singing
+.type (CFT,U,NT)
+.sb		MCA+FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Songwriting
+.type (CFT,U,NT)
+.sb		FCS
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Aural)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(General)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Olfactory)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Psionic) 
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Tactile)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Stealth:(Visual)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Survival:(Environment)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Tailing
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Teaching
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Terraforming       
+.type (ENG,U,ST)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Theatre
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Theft
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Theology
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Tracking
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Trading
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Vehicle:(Specify Vehicle)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Weapon:(Specificy Weapon)
+.type (,,)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Writing
+.type (CFT,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+
+.name	Zoology
+.type (SCI,U,NT)
+.sb
+.rb		STD
+.cost
+.BeginDetail
+.EndDetail
+.BeginEF
+.EndEF
+
+

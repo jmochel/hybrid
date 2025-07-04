@@ -1,0 +1,1183 @@
+
+
+
+   Return to Return to Articles
+   Throttle!
+                        Guidelines for World Creation
+
+                                by Rich Staats
+
+
+
+             Click here for a word from the author.
+
+
+             Click here for the author's home page.
+
+             1) Overview:
+
+
+             The document is divided into four major sections.
+
+             We will begin with a purpose statement and move
+             onto look at definitions which will be germane in
+
+             the remainder of the document. Next we will look at
+
+             the organization of the document, and then we will
+             describe two procedures for creation of a fantasy
+
+             Role-Playing world.
+
+
+             The name of the game in Role-Playing for the
+
+             referee is creating a world where the players can
+             suspend disbelief. The techniques described in this
+
+             document will aid you in achieving this objective. 
+
+             2) Purpose:
+
+
+             to teach two methods for the development of fantasy
+
+             Role-Playing worlds. 
+
+             3) Definitions:
+
+
+              1. Role-Playing: (We will use Schick's definition
+
+                 for the purposes of this document.) 
+
+                    *Gygax in Role-Playing Mastery: "Acting out
+
+                     a make-believe position" 
+
+                     Costikyan in Toon: "Role-Playing is just
+                    *
+                     'Let's Pretend'" 
+
+
+                    *Schick in Heroic Worlds: "Quantified
+                     Interactive Storytelling" 
+
+
+              2. Character: The role a player assumes when
+                 playing a Role-Playing game. 
+
+
+              3. Adventure: A Role-Playing session or series of
+
+                 sessions using the same characters throughout
+                 with definite beginning, middle and ending. 
+
+
+              4. Campaign: A series of connected sessions where
+                 the characters accomplish something which could
+
+                 not have been done in one adventure. 
+
+
+              5. Fantasy Role-Playing (FRP): Role-Playing which
+                 takes place in a fantasy milieu. 
+
+
+              6. Fantasy Role-Playing World: The environment in
+                 which the characters interact. It has a
+
+                 consistent set of physical laws and a coherent
+
+                 mythical order. 
+
+              7. Cross-Over: Travel from one Role-Playing milieu
+
+                 to another. 
+
+              8. Multi-verse: Set of all Role-Playing
+
+                 worlds/milieu's possible for characters to
+
+                 enter from a particular campaign. (Note: these
+                 worlds do not have to all be run by the same
+
+                 referee.) 
+
+
+              9. Party: A group of characters involved in a
+                 campaign who travel through the Role-Playing
+
+                 world together with a common set of goals and
+
+                 objectives. 
+
+             10. PC: Player Character, a character controlled by
+
+                 a player 
+
+             11. NPC: Non-Player Character, a character
+
+                 controlled by the referee 
+
+             12. Tie-In: Connecting two plot threads or regions
+
+                 that were not previously related. 
+
+
+             13. Maguffin: a plot device or thread specifically
+                 designed to incite player interest. 
+
+
+             4) Organization of the remainder of the document:
+
+
+              1. References and Supplies Helpful for World
+
+                 Creation 
+
+              2. Bottom-Up World Creation 
+
+
+              3. Top-Down World Creation 
+
+              4. Organizing the FRP World 
+
+
+              5. Conclusion 
+
+             5) References and Supplies:
+
+
+             A) References (This is a list of useful resources
+
+             for world creation, but the list is not designed to
+
+             be exhaustive. Many of these sources were
+             referenced in preparing this document.): 
+
+
+                 Role-Playing Mastery by Gary Gygax 
+                *
+
+                *Master of the Game by Gary Gygax 
+
+                 Heroic Worlds by Lawrence Schick 
+                *
+
+                *Campaign Law by ICE 
+
+                 Best of White Dwarf Articles (Vols. I & II) by
+                *
+                 GW 
+
+
+                *World Builder's Handbook by DGP 
+
+                *Fantasy Wargaming by Bruce Galloway 
+
+
+                *Different Worlds (Most volumes 1 to 20) 
+
+                *Beast Enterprises' publications: TS, etc. 
+
+
+                *The Art of War in the Middle Ages by C.W.C.
+                 Oman 
+
+                 War from the Stone Age to Alexander the Great
+                *
+                 by Arther Ferrill 
+
+                *Powers and Perils by AH 
+
+
+                *Landscape: Physical Geography by Marsh and
+                 Dozier 
+
+
+                *Contending Theories of International Relations
+                 by Dougherty and Pfaltzgraff 
+
+
+                *The Oxford History of Medieval Europe by George
+                 Holmes 
+
+
+                *Traveller and Megatraveller by GDW 
+
+                *Glorantha, Land of Ninja and Vikings by
+
+                 Chaosium/AH 
+
+                 Quest World by Chaosium 
+                *
+
+                *Many GURPS supplements by SJG 
+
+                 A good Atlas 
+                *
+
+                *A good Dictionary 
+
+
+             B) Supplies:
+
+
+                *Notebook - a nice, well bound notebook which
+                 you can carry around with you and jot down
+
+                 ideas as they occur to you. 
+
+                 Three-Ring Binder - a place to organize your
+                *
+                 sketches, maps, and articles you copy and save 
+
+
+                *Paper Punch - to prepare items for inclusion in
+                 your three ring binder 
+
+
+                *Camera - to take pictures of items that catch
+                 your eye with respect to world building/design 
+
+
+                *Colored Pencils - to highlight items and help
+
+                 you map and sketch 
+
+                *Felt-tipped Markers - as per colored pencils 
+
+
+                *Good pencil and eraser - for making/erasing
+                 notes and design work 
+
+
+                *Good ruler - useful for drawing lines or
+                 measuring things 
+
+
+                *Hex and graph paper - organizational tools/big
+
+                 aids in sketch maps or line diagrams 
+
+
+             C) Game Suppliers: Two well known, mail order
+             gaming suppliers (there are many, but here are two
+
+             I have had good luck with over the years) are:
+
+
+             Zocchi/Gamescience Distributors
+
+             1512 - 30th Avenue
+
+             Gulfport, MS 39501
+
+
+             Wargames West
+             P O Box 9496
+
+             Albuqurque, NM 87119 
+
+             6) Bottom-Up or Campaign World Creation
+
+             A) Overview:
+
+
+                *The most common method in practice of creating
+
+                 an FRP world 
+
+                 Natural outgrowth of campaigns 
+                *
+
+                *"Easiest" method 
+
+                 Potentially inconsistent 
+                *
+
+                *The "Pre-Fab" campaign (e.g. Ravenloft, Dark
+
+                 Sun, EarthDawn, etc.) is a sub-set of this 
+
+
+             B) Description:
+
+             This method develops the world on a "need to know"
+
+             basis for the characters. typically the referee
+
+             does not develop the details for the world until
+             the characters have gotten to the point in the
+
+             campaign where the information is relevant.
+
+
+             One can view this as the "concentric circle" method
+
+             of world creation. The circles represent the parts
+
+             of the world which must be developed to accommodate
+             the characters demands on the world. The longer and
+
+             deeper the campaign goes, the more there is a
+
+             requirement for information. The characters have a
+             certain "sphere of influence". The parts of the
+
+             world touched by that sphere must be developed. 
+
+             C) Advantages of the Bottom-up Method:
+
+
+              1. The development of the campaign is natural. The
+
+                 FRP World grows and matures as the campaign
+                 grows and matures. The referee is able to
+
+                 directly see which areas of the world need more
+
+                 development based on the actions of the
+                 characters. 
+
+
+              2. The players are an intimate part of the world
+
+                 creation process. The actions of the PCs affect
+                 the part of the world "seen" by the characters;
+
+                 so, the players help define the world by
+
+                 determining what needs more detail and what
+                 does not. For example, if the players are very
+
+                 concerned about clothing styles in the world,
+
+                 the referee is likely to spend more time in
+                 that area, but the referee might be able to get
+
+                 by with a minimal description or examination of
+
+                 artistic styles. 
+
+              3. The referee does not devote "wasted" time in
+
+                 world development. Because the world is shaped
+                 based on the characters' sphere of influence,
+
+                 the referee knows that most of the details he
+
+                 creates will be useful to the players. 
+
+
+             D) Disadvantages:
+
+              1. The referee has less control in the world
+
+                 design than in Top-Down world creation. 
+
+
+              2. There is a large potential for inconsistency in
+                 the world creation. This is especially true
+
+                 when the referee is mixing and matching
+
+                 "modules" into his campaign. Since many of the
+                 details in the world are being created more or
+
+                 less ad hoc, some of the details may be
+
+                 inconsistent with each other. 
+
+              3. The referee takes a big risk of being caught
+
+                 "off-guard" if the players ask questions about
+                 details the referee did not anticipate or if
+
+                 the characters travel to some area of the world
+                 which has not been examined in advance by the
+                 referee. 
+
+
+              4. The relations between portions or the world can
+
+                 be artificial. For example, if the referee
+                 decides to use both portions of Krynn and
+
+                 Arkham in his campaign, the connections between
+
+                 the two areas may be contrived at best. 
+
+
+             E) How to Design a Bottom-Up World:
+
+              1. Define the "Key Areas" which will be affected
+
+                 by the Campaign 
+
+
+                  1. Identify the geographical regions where the
+                     party will be operating in. 
+
+
+                  2. Identify the key groups (e.g. national,
+                     social, trade, religious, racial, species,
+
+                     linguistic ) which will influence the
+
+                     Campaign. 
+
+              2. Develop the relations between these key areas. 
+
+
+                  1. Go one level of detail past what you
+                     believe the campaign will need. 
+
+
+                  2. Be as "open ended" as possible with
+
+                     motivations for individuals. "Those wacky
+                     players do the most unexpected things!" 
+
+
+                  3. Be as consistent with tie-ins as possible.
+                     Try to derive some motivation for
+
+                     connecting plot lines and regions. Answer
+
+                     the question, "why are these things
+                     related?" before you spring it on the
+
+                     player characters. 
+
+
+                  4. Define the motivations behind various
+                     groups important to the campaign (e.g.
+
+                     racial, theological, economic, etc.) 
+
+              3. Place maguffins in the campaign to draw the
+
+                 characters into the background of the region.
+
+                 In this way, you can direct the campaign
+                 development to some extent. 
+
+
+              4. Be willing to ad lib, but write down your
+                 ad-libs as soon as possible after the game
+
+                 session. Ok, so you decided the Grey Wizards
+                 ear was green! Fine, but the next time the
+
+                 characters run into the Grey Wizard again, they
+
+                 will expect his ear to be green. If it is not,
+                 you better have a good explanation ready to go.
+
+
+              5. Keep a good campaign diary. Use the notes to
+                 redefine the key areas based on the players
+
+                 actions in the session, and then start over
+
+                 again with step (1) above. 
+
+
+             F) Helpful Hints in Designing a Bottom-Up World:
+
+              1. As you organize for an adventure, be willing to
+
+                 discard material that does not fit what already
+
+                 exits in your campaign world. Never say "I did
+                 it, because it was in the module."
+
+              2. Likewise, be willing to add material to tie
+
+                 together the current adventure with adventures
+
+                 that came before or that you are planning to
+                 run in the future. For example, if there is a
+
+                 religious faction that is the lynch-pin to a
+
+                 module you would like to run in your campaign
+                 in the future then you will want to drop hints
+
+                 that such an organization exists in earlier
+
+                 sessions. That way, it does not seem so
+                 incongruous when you introduce the sect later
+
+                 and does not beg the question "Hey, if these
+
+                 guys are so influential how come we never heard
+                 of them before?" 
+
+
+              3. Write down plenty of notes and lots of maps.
+                 Make several potential plotlines up. Let these
+
+                 sit for a couple of days. Re-evaluate them. Ask
+
+                 yourself the following questions: 
+
+                  1. Are they reasonable? 
+
+
+                  2. Will the party find them plausible? (Not
+                     the same as (1) above.) 
+
+
+                  3. Are they consistent with the campaign to
+
+                     this point? 
+
+                  4. Are they complete enough to cover the major
+
+                     expected courses of action the campaign is
+                     expected to take? 
+
+
+                  5. Are there sufficient "safety nets" to draw
+
+                     the party back to the central campaign
+                     themes if the group strays in unexpected
+
+                     ways? Parties always do unexpected things.
+
+                     If you have a particular theme you want
+                     preserved in the campaign, or if there are
+
+                     things which must occur from a plot
+
+                     continuity standpoint then you should have
+                     back up plans of how to get the party
+
+                     involved if they do something quite the
+
+                     opposite of what you expect. 
+
+              4. Be willing to accept suggestions from the party
+
+                 to help you develop the world. In practice, it
+                 is useful to spend five minutes after each
+
+                 session asking the players about what they want
+
+                 to see more of and anything they have questions
+                 about from the session. I have also found it is
+
+                 very useful to give the players some handouts
+
+                 each session like maps, old documents,
+                 diagrams, etc. It helps them picture the
+
+                 campaign world more easily. 
+
+
+              5. Try to create interesting characters and
+                 plotlines. Be careful never to fall in love
+
+                 with a particular NPC or place in the campaign,
+
+                 because the PC's are sure to find some way to
+                 destroy that NPC or place through pure chance
+
+                 without malice or forethought! 
+
+              6. The purpose of gaming is to have fun; if
+
+                 creating the world is so time consuming and
+
+                 difficult that it is no longer fun then you
+                 should do something else (e.g. let someone else
+
+                 referee for awhile, etc.) 
+
+
+             7) Top-Down or Deliberate World Creation
+
+             A) Overview:
+
+
+                *It's time consuming! 
+
+                 It is difficult! 
+                *
+
+                *It is incredibly rewarding! 
+
+                 It creates a very consistent world. 
+                *
+
+                *This is generally not for a first-time
+                 referee!!!
+
+             B) Description:
+
+
+             This method develops the world beginning with the
+
+             fundamental cosmology and works down to the size
+             and description of the sandgrains the hobbit,
+
+             peasant girl has between her toes.
+
+
+             One can view this as the Calculus textbook approach
+
+             to FRP world creation. Every portion that is added
+
+             is logically self consistent and at the same time
+             flows from earlier portions developed. 
+
+
+             C) Advantages:
+
+              1. The referee has total control over the
+
+                 development of the world. 
+
+
+              2. The world is logically consistent. (At least
+                 the world is as logically consistent as the
+
+                 referee can imagine.) 
+
+              3. The referee runs little risk of being caught
+
+                 off-guard with respect to details or background
+
+                 in the campaign. 
+
+              4. It is one of the most direct creative processes
+
+                 possible. When you are finished, your world
+
+                 will be a direct reflection of your creative
+                 energies. 
+
+
+             D) Disadvantages:
+
+
+              1. The players have less input in the creation of
+
+                 the world. 
+
+              2. The process is very time consuming. 
+
+
+              3. If the campaign is not a long one, the referee
+                 runs the risk of spending large amounts of time
+
+                 on detail which the players will never directly
+
+                 experience. 
+
+
+             E) How to develop a Top-Down World
+
+              1. Select a gaming system that conforms to your
+
+                 fantasy world view. If you are fortunate, you
+
+                 can use an existing system "off the shelf", but
+                 it may involve large modifications to existing
+
+                 systems or even development of an entirely new
+
+                 system. Here are a few things to consider: 
+
+                  1. Is the system consistent with your own
+
+                     moral and political "comfort zone"? If it
+
+                     is not then choose another system. There is
+                     no shame in this. You are the referee
+
+                     afterall. It would be the height of
+
+                     arrogance for a gaming group to ask you to
+                     contribute hundreds of hours in time and
+
+                     energy to a system you feel uncomfortable
+
+                     with. 
+
+                  2. Does the system have the right "feel" for
+
+                     your concept of the fantasy world? 
+
+                  3. Are the mechanics workable? Some systems
+
+                     have great atmosphere, but the mechanics
+
+                     are too great a burden when you actually
+                     try to play. 
+
+
+              2. Determine the scope that your world must cover.
+                 Do you need to design a "world" that
+
+                 encompasses an entire solar system or will
+
+                 something the size of metropolitan Boston do? A
+                 few helpful questions to help you determine the
+
+                 scope of your world would be: 
+
+
+                  1. Does your referee style support the grand
+                     quest motif? (Larger) 
+
+
+                  2. Do you like lots of local detail? (Smaller)
+
+                  3. Could you do a whole campaign in a single
+
+                     village? (Smaller) 
+
+                  4. Do you like to see lots of exploration?
+
+                     (Larger) 
+
+
+                  5. Does the rules system you are using have
+                     provisions for long travel? For example,
+
+                     teleportation, tall ships and wagon trains
+
+                     all imply long journeys. (Larger) 
+
+                  6. What is the technology level in the
+
+                     campaign? (Higher=Larger) 
+
+              3. Develop the cosmology. Answer all of the
+
+                 following questions. (Note: the players may
+
+                 never know these things, but you should.) 
+
+                  1. Where did the world come from? 
+
+
+                  2. What happened to the deities (if any)? 
+
+                  3. Are they still active in the world? 
+
+
+                  4. Are other planes or worlds accessible? 
+
+                  5. Is magic possible? Psionics? 
+
+
+                  6. How accessible are these things? 
+
+              4. Develop the physical world. 
+
+
+                  1. Develop the geography. What fraction of the
+                     world is water versus dry land? How many
+
+                     suns, stars, planets and moons are there?
+
+                     Where are the mountain ranges? Are there
+                     any areas of geological instability? Why? 
+
+
+                  2. Develop the climate. Are there tides in the
+                     ocean? Are the tides related to the
+
+                     cosmology? Which areas are frigid? Arid?
+                     Wet? 
+
+                  3. Highlight any peculiar (different than
+
+                     Earth) features. 
+
+                  4. Are there any special (e.g. magical) areas?
+
+
+              5. Determine how you would like to populate the
+
+                 world in gross terms. What races would you like
+                 to include? What general types of societies
+
+                 would you like to have? Are these compatible
+
+                 with the results you obtained in steps 3 and 4
+                 above? If not, can you modify the results to
+
+                 accommodate the cultures and races? (Possibly
+
+                 by including some special areas?) Otherwise, go
+                 back to step three and re-work the world until
+
+                 the results are consistent through step 5. 
+
+              6. Develop an eco-structure. 
+
+
+                  1. Determine the food chain. 
+
+                  2. Where are the fertile areas? Waste areas? 
+
+
+                  3. Place the vegetation or lifeforms at the
+
+                     base of the food chain. 
+
+                  4. Are there areas with exotic or unique
+
+                     eco-structures? Try to tie these areas of
+                     the world in with the remainder of the
+
+                     world. 
+
+
+                  5. Place animals or other creatures towards
+                     the top of the food chain. Place the lowest
+
+                     members of the food chain first (e.g.
+
+                     herbivores on Earth) then work to the
+                     higher order creatures. 
+
+
+              7. Develop the cultures. 
+
+                  1. Place the culture in the world at an
+
+                     appropriate location. Explore the
+
+                     interaction between the culture and the
+                     geographical/eco-structure the population
+
+                     finds itself in. 
+
+                  2. What race will populate this culture? 
+
+
+                  3. Look at the following items: 
+
+                      1. Resources
+
+                         (physical/lifeforms/spiritual/magical) 
+
+
+                      2. Subsistence patterns 
+
+                      3. Religion 
+
+
+                      4. Technology level 
+
+                      5. Social structure 
+
+
+                      6. Symbolism (architecture/art/mysticism) 
+
+                      7. Languages (per race/per culture/per
+
+                         region) 
+
+                      8. Trade, currency 
+
+
+              8. Tie the cultures together. 
+
+                  1. Is there competition for resources? 
+
+
+                  2. What kind of trade there is between
+                     cultures? 
+
+
+                  3. How flexible are the cultures? 
+
+                  4. Have past climatic or geological events
+
+                     influenced the culture (e.g. big floods,
+
+                     ice ages, comet impacting on planet, angry
+                     gods, etc.)? 
+
+
+                  5. How quickly do the races reproduce? 
+
+                  6. Are there religious, political, or ethnic
+
+                     conflicts or compatibilities? 
+
+
+                  7. Write the histories of each of these
+                     cultures. 
+
+
+              9. Make the nations:
+                 Nation attributes: 
+
+
+                  1. Social system 
+
+                  2. Racial groups 
+
+
+                  3. Major religions 
+
+                  4. Major religious figures 
+
+
+                  5. Major laws 
+
+                  6. Customs 
+
+
+                  7. Holidays 
+
+                  8. Style of clothing 
+
+
+                  9. General mindset 
+
+                 10. Educational system 
+
+
+                 11. Economic system 
+
+                 12. Notable products or commodities 
+
+
+                 13. Major economic leaders 
+
+                 14. Major trading partners 
+
+
+                 15. Army: quality, tactics, equipment,
+
+                     technology (magic items?) 
+
+                 16. Prevalence of magic 
+
+
+                 17. Legal status of magic 
+
+                 18. Magical institutions 
+
+
+                 19. Magical education 
+
+                 20. General attitude towards magic 
+
+
+             10. Although you may have considered them
+                 previously, take particular care to highlight
+
+                 "special" aspects of your world. (In other
+
+                 words, what things make your world truly
+                 unique? Why would someone want to play in your
+
+                 world in particular?) 
+
+                  1. Are there unique races or species? 
+
+
+                  2. Do the races have special symbiotic
+
+                     relationships? 
+
+                  3. Are there periodically repeated geological,
+
+                     cosmological or climatic events? 
+
+                  4. Does your world have unique aspects to the
+
+                     magical or psionic manipulation or use? 
+
+             11. Let your world sit, and do not look at it or
+
+                 think about it for at least two weeks. Then go
+
+                 back and look at it. Is it logical and
+                 internally consistent from a cosmological,
+
+                 historical and ecological standpoint? Here is a
+
+                 brief list of some questions to ask: 
+
+                  1. Are there lots of caves filled with large
+
+                     creatures with no food source? Why? How? 
+
+                  2. Are there burning deserts next to glaciers?
+
+                     Why? How? 
+
+
+                  3. If the good gods/desses are so darn
+                     powerful, why are there still evil entities
+
+                     around? 
+
+                  4. Why doesn't the water spill off the edge of
+
+                     the world? 
+
+
+                  5. How far can you see? Where is the horizon?
+                     Why? 
+
+
+                  6. Is there enough fertile ground to support
+                     the population? 
+
+
+                  7. Why did the high technology races allow the
+
+                     low tech races to survive? Do they compete
+                     for resources? (Think about it! Maybe there
+
+                     are religious or cultural issues involved.)
+
+             12. Develop the PCs to take advantage of or
+
+                 highlight unique aspects of your world. 
+
+
+             13. Introduce maguffins in the campaign to help PCs
+                 explore interesting areas and relationships in
+
+                 your world. 
+
+             14. Be willing to ad lib, but as before, write it
+
+                 down so you remember it! 
+
+
+             F) Helpful hints for designing a Top-Down World
+
+
+              1. All those NPCs and "schtuff" --- they are all
+                 imaginary, really! 
+
+
+              2. Be willing to modify part of the world later if
+
+                 it proves to be inconsistent. But, carefully
+                 consider the effects of doing so before you dig
+
+                 out the eraser! Items in a fantasy world just
+
+                 as in the real world tend to be connected in
+                 ways we poor mortals cannot hope to see without
+
+                 very deep thought. Unfortunately, you, a
+
+                 mortal, will not see all of the
+                 interconnections right away. But, fear not! If
+
+                 there is an advantageous one for the PCs, they
+
+                 will spot them at the worst possible time! 
+
+              3. Make lots of notes in the creation process.
+
+                 Writing down your thoughts tends to organize
+                 and crystallize them. 
+
+
+              4. The more different your world is from Earth,
+
+                 the more exotic and interesting it will be, but
+                 it will also be harder to visualize and
+
+                 referee. 
+
+              5. Start small! Do not go out and develop a
+
+                 Jupiter sized planet as your first project. 
+
+
+              6. Humans are multi-sensed creatures. Be willing
+                 to use visual and audio items to help suspend
+
+                 disbelief and draw the players into your world
+
+                 as well as using good dialog. 
+
+              7. Develop the cosmology and physical world to
+
+                 completion or near completion, but only develop
+                 outlines or skeletons for cultures which the
+
+                 gaming group will most likely never encounter.
+
+                 Spend 80 percent of your time developing things
+                 that the party is likely to spend 80 percent of
+
+                 its time interacting with! 
+
+
+             8) How to organize an FRP World
+
+
+              1. Get a bunch of binders. The easiest way to
+                 organize is to break up the world into a bunch
+
+                 of smaller portions. 
+
+
+              2. Here are several sample organizational schemes:
+
+                  1. By geography... 
+
+
+                  2. By historical era... 
+
+                  3. By culture... 
+
+
+                  4. By race... 
+
+                  5. Any combination of the above... 
+
+
+              3. Index your world early on, or it will become an
+                 insurmountable task later on. 
+
+
+              4. Always include a brief description of what a
+                 binder contains at the beginning. Ten years
+
+                 from now, you are unlikely to remember it
+
+                 contains "samples of Overmannish wedding garb
+                 from the Huvis-Kanine era". 
+
+
+             9) Conclusion:
+
+
+             Stomp and shout and applaud! Give generously! I
+
+             have a family to support! 
+
+
+                    Please send questions and comments to:
+                             staats@alum.mit.edu
+
+                                  Thank you,
+                                 In service,
+                                 Rich Staats
+
+
+             Copyright © 1995 Rich Staats
+
+             Site design by Brandon Blackmoor
+             Last updated 28 June 1998

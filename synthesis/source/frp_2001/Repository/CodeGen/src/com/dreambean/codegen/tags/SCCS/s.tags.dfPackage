@@ -1,0 +1,68 @@
+h17341
+s 00037/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK43851
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/com/dreambean/codegen/tags/tags.dfPackage
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK60765
+cPsrc/com/dreambean/codegen/tags/tags.dfPackage
+cR87cd7087
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+package id3bqxzc28tdoj9c28tjyf8;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.tags.CommonTags:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:java#Class#com.dreambean.codegen.tags.ClassTags:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+}
+/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}
+/**
+@__options 
+*/
+class __options {
+}
+/**
+@__positions 
+*/
+class __positions {
+}
+E 2
+I 1
+E 1

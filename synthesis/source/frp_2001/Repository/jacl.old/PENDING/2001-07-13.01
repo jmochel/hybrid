@@ -1,0 +1,1092 @@
+# Patch vers:	1.3
+# Patch type:	REGULAR
+
+== ChangeSet ==
+jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+jmochel@devilmountain.bedford.foliage.com|ChangeSet|20000301192717|08717
+D 1.24 00/09/12 10:48:53-04:00 jmochel@devilmountain +2 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Model.java	Changed java.util.Enumeration to java.util.Collection
+c Model.java	Changed licensing
+c .del-UnitTestException.java	Delete: java/src/testingtools/gauntlet/UnitTestException.java
+K 3808
+P ChangeSet
+------------------------------------------------
+
+0a0
+> jmochel@devilmountain.bedford.foliage.com|java/src/testingtools/gauntlet/UnitTestException.java|19991117175254|45349|2f93d71e5cb6ba86 jmochel@devilmountain|BitKeeper/deleted/.del-UnitTestException.java|20000912125115|57954
+> jmochel@devilmountain.bedford.foliage.com|java/src/metamodel/Model.java|19991117175312|45351|2f93d7195cb6ba86 jmochel@devilmountain|java/src/metamodel/Model.java|20000912144013|29231
+
+jmochel@devilmountain|ChangeSet|20000912144853|03808
+D 1.25 01/07/13 13:54:47-04:00 jmochel@devilmountain.corp.foliage.com +43 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 6562
+P ChangeSet
+------------------------------------------------
+
+0a0
+> jmochel@devilmountain.bedford.foliage.com|support/ds/VolumeSpec.ds|19991117175713|45375|2f93d7565cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-VolumeSpec.ds~2f93d7565cb6ba86|20010713175303|56500
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Indom.ds|19991117175637|45372|2f93d7205cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Indom.ds~2f93d7205cb6ba86|20010713175302|59288
+> jmochel@devilmountain.bedford.foliage.com|support/ds/CommonSpec.ds|19991117175609|45369|2f93d7285cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-CommonSpec.ds~2f93d7285cb6ba86|20010713175301|26462
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerUnitTest.java|19991117175123|45340|2f93d7f75cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/LexerUnitTest.java|20010713175440|39265
+> jmochel@devilmountain.bedford.foliage.com|support/ds/CmdLineLexer.ds|19991117175601|45368|2f93d72a5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-CmdLineLexer.ds~2f93d72a5cb6ba86|20010713175301|02020
+> jmochel@devilmountain.bedford.foliage.com|support/ds/PearsonsHash.ds|19991117175644|45372|2f93d75e5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-PearsonsHash.ds~2f93d75e5cb6ba86|20010713175302|21481
+> jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpecManipulator.ds|19991117175702|45374|2f93d7595cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-StreamSpecManipulator.ds~2f93d7595cb6ba86|20010713175303|19907
+> jmochel@devilmountain.bedford.foliage.com|scm/Jamrules|19991117175543|45366|2f93d72f5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Jamrules~2f93d72f5cb6ba86|20010713175215|06051
+> jmochel@devilmountain.bedford.foliage.com|support/ds/AppCfg.ds|19991117175551|45367|2f93d72d5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-AppCfg.ds~2f93d72d5cb6ba86|20010713175300|24953
+> jmochel@devilmountain.bedford.foliage.com|support/ds/FolderSpecManipulator.ds|19991117175626|45371|2f93d7235cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-FolderSpecManipulator.ds~2f93d7235cb6ba86|20010713175302|09156
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Hash.ds|19991117175630|45371|2f93d7225cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Hash.ds~2f93d7225cb6ba86|20010713175302|04561
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParsingException.java|19991117175127|45341|2f93d7f65cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/ParsingException.java|20010713175441|51399
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHash.java|19991117175113|45339|2f93d7fa5cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/hash/PearsonsHash.java|20010713175441|31235
+> jmochel@devilmountain.bedford.foliage.com|support/ds/DataEvent.ds|19991117175612|45369|2f93d7275cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-DataEvent.ds~2f93d7275cb6ba86|20010713175301|46042
+> jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpec.ds|19991117175658|45374|2f93d75a5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-StreamSpec.ds~2f93d75a5cb6ba86|20010713175303|54327
+> jmochel@devilmountain.bedford.foliage.com|support/ds/ClientInfo.ds|19991117175558|45368|2f93d72b5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-ClientInfo.ds~2f93d72b5cb6ba86|20010713175301|26883
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Histom.ds|19991117175633|45371|2f93d7215cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Histom.ds~2f93d7215cb6ba86|20010713175302|13164
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParserUnitTest.java|19991117175148|45343|2f93d7f05cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/ParserUnitTest.java|20010713175440|01203
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Chronon.ds|19991117175554|45367|2f93d72c5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Chronon.ds~2f93d72c5cb6ba86|20010713175301|51368
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Folder.ds|19991117175616|45369|2f93d7265cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Folder.ds~2f93d7265cb6ba86|20010713175301|18049
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Lexer.java|19991117175145|45342|2f93d7f15cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/Lexer.java|20010713175440|65003
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Revision.ds|19991117175648|45373|2f93d75d5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Revision.ds~2f93d75d5cb6ba86|20010713175302|16021
+> jmochel@devilmountain.bedford.foliage.com|support/ds/testbuilder.ds|19991117175720|45376|2f93d7545cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-testbuilder.ds~2f93d7545cb6ba86|20010713175303|41213
+> jmochel@devilmountain.bedford.foliage.com|support/ds/SwitchableSigCBMgr.ds|19991117175705|45374|2f93d7585cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-SwitchableSigCBMgr.ds~2f93d7585cb6ba86|20010713175303|03180
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/IOFilterParser.java|19991117175116|45340|2f93d7f95cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/IOFilterParser.java|20010713175440|61905
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Validation.java|19991117175138|45342|2f93d7f35cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/Validation.java|20010713175441|00052
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Skill.ds|19991117175655|45373|2f93d75b5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Skill.ds~2f93d75b5cb6ba86|20010713175302|58410
+> jmochel@devilmountain.bedford.foliage.com|support/ds/SimpleClassCfg.ds|19991117175651|45373|2f93d75c5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-SimpleClassCfg.ds~2f93d75c5cb6ba86|20010713175302|02244
+> jmochel@devilmountain.bedford.foliage.com|scm/jamfile|19991117175547|45367|2f93d72e5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-jamfile~2f93d72e5cb6ba86|20010713175220|32036
+> jmochel@devilmountain.bedford.foliage.com|support/ds/SystemSpec.ds|19991117175709|45375|2f93d7575cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-SystemSpec.ds~2f93d7575cb6ba86|20010713175303|29214
+> jmochel@devilmountain.bedford.foliage.com|support/ds/FolderIter.ds|19991117175623|45370|2f93d7245cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-FolderIter.ds~2f93d7245cb6ba86|20010713175301|32746
+> jmochel@devilmountain.bedford.foliage.com|support/ds/treadmill.ds|19991117175723|45376|2f93d7535cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-treadmill.ds~2f93d7535cb6ba86|20010713175303|33142
+> jmochel@devilmountain.bedford.foliage.com|support/ds/FolderInfo.ds|19991117175619|45370|2f93d7255cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-FolderInfo.ds~2f93d7255cb6ba86|20010713175301|47983
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/Hash.java|19991117175106|45338|2f93d7fc5cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/hash/Hash.java|20010713175441|52233
+> jmochel@devilmountain.bedford.foliage.com|support/ds/Nomen.ds|19991117175641|45372|2f93d75f5cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-Nomen.ds~2f93d75f5cb6ba86|20010713175302|38293
+> jmochel@devilmountain.bedford.foliage.com|support/ds/editorbuffer.ds|19991117175716|45376|2f93d7555cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-editorbuffer.ds~2f93d7555cb6ba86|20010713175303|22045
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Parser.java|19991117175141|45342|2f93d7f25cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/Parser.java|20010713175440|38765
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/SlashEqualsLexer.java|19991117175134|45341|2f93d7f45cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/SlashEqualsLexer.java|20010713175441|46855
+> jmochel@devilmountain.bedford.foliage.com|support/ds/CommandLineParser.ds|19991117175605|45368|2f93d7295cb6ba86 jmochel@devilmountain.corp.foliage.com|BitKeeper/deleted/.del-CommandLineParser.ds~2f93d7295cb6ba86|20010713175301|50162
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/PosixStyleLexer.java|19991117175130|45341|2f93d7f55cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/PosixStyleLexer.java|20010713175441|60393
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerCreationException.java|19991117175120|45340|2f93d7f85cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/commandline/LexerCreationException.java|20010713175440|55894
+> jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHashUnitTest.java|19991117175109|45339|2f93d7fb5cb6ba86 jmochel@devilmountain.corp.foliage.com|java/src/util/hash/PearsonsHashUnitTest.java|20010713175441|30804
+> jmochel@devilmountain|BitKeeper/etc/logging_ok|20000912144853|36612|48aa16da jmochel@devilmountain.corp.foliage.com|BitKeeper/etc/logging_ok|20010713175445|06058
+
+== java/src/metamodel/Model.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/metamodel/Model.java|19991117175312|45351|2f93d7195cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/metamodel/Model.java|19991117175316|33129
+D 1.2 00/09/12 10:40:13-04:00 jmochel@devilmountain +0 -4
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 29231
+O -rw-rw-rw-
+P java/src/metamodel/Model.java
+------------------------------------------------
+
+D46 4
+
+== BitKeeper/deleted/.del-UnitTestException.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/testingtools/gauntlet/UnitTestException.java|19991117175254|45349|2f93d71e5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/testingtools/gauntlet/UnitTestException.java|19991117175258|41898
+D 1.2 00/09/12 08:51:15-04:00 jmochel@devilmountain +20 -30
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: java/src/testingtools/gauntlet/UnitTestException.java
+K 57954
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-UnitTestException.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 29
+I32 1
+package org.mushin.jacl.util;
+
+== java/src/util/commandline/IOFilterParser.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/IOFilterParser.java|19991117175116|45340|2f93d7f95cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/IOFilterParser.java|19991117175120|42620
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +23 -30
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 61905
+O -rw-rw-rw-
+P java/src/util/commandline/IOFilterParser.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 28
+I31 1
+package org.mushin.jacl.util.commandline;
+D35 1
+I38 1
+\
+I39 2
+\
+import org.mushin.jacl.util.*;
+
+== java/src/util/commandline/Lexer.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Lexer.java|19991117175145|45342|2f93d7f15cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Lexer.java|19991117175148|40499
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +24 -30
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 65003
+O -rw-rw-rw-
+P java/src/util/commandline/Lexer.java
+------------------------------------------------
+
+D2 2
+I3 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D5 25
+I29 1
+package org.mushin.jacl.util.commandline;
+D33 1
+I33 2
+import java.util.Hashtable;
+import java.util.Iterator;
+D215 1
+I215 1
+    public Iterator getIter()
+D217 1
+I217 1
+        return(_KeyAndValuePairs.values().iterator());
+
+== java/src/util/commandline/LexerCreationException.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerCreationException.java|19991117175120|45340|2f93d7f85cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerCreationException.java|19991117175123|40925
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +20 -33
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 55894
+O -rw-rw-rw-
+P java/src/util/commandline/LexerCreationException.java
+------------------------------------------------
+
+D2 2
+I3 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D5 25
+I29 1
+package org.mushin.jacl.util.commandline;
+D34 6
+
+== java/src/util/commandline/LexerUnitTest.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerUnitTest.java|19991117175123|45340|2f93d7f75cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/LexerUnitTest.java|19991117175127|15661
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +24 -28
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 39265
+O -rw-rw-rw-
+P java/src/util/commandline/LexerUnitTest.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 22
+D29 1
+I29 1
+package org.mushin.jacl.util.commandline;
+D37 1
+I37 1
+import org.mushin.jacl.util.*;
+D216 1
+I216 1
+                        Iterator    iter = testLexer.getIter();
+D218 1
+I218 1
+                        while ( iter.hasNext() == true )
+D220 1
+I220 1
+                            System.out.println(iter.next());
+
+== java/src/util/commandline/Parser.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Parser.java|19991117175141|45342|2f93d7f25cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Parser.java|19991117175145|18946
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +25 -31
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 38765
+O -rw-rw-rw-
+P java/src/util/commandline/Parser.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 1
+D6 24
+I29 1
+package org.mushin.jacl.util.commandline;
+D40 1
+I40 1
+import org.mushin.jacl.util.commandline.*;
+D371 1
+I371 1
+    public void parse(String[] args) throws java.lang.IllegalArgumentException, ParsingException 
+D375 1
+I375 1
+            Iterator argIter;    // Lexed argument iterator
+D394 1
+I394 1
+            while (argIter.hasNext())
+D396 1
+I396 1
+                Lexer.KeyAndValue        keyAndValue = (Lexer.KeyAndValue) argIter.next();
+
+== java/src/util/commandline/ParserUnitTest.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParserUnitTest.java|19991117175148|45343|2f93d7f05cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParserUnitTest.java|19991117175152|01484
+D 1.2 01/07/13 13:54:40-04:00 jmochel@devilmountain.corp.foliage.com +20 -4
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 1203
+O -rw-rw-rw-
+P java/src/util/commandline/ParserUnitTest.java
+------------------------------------------------
+
+D2 3
+I4 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D7 1
+I7 1
+package org.mushin.jacl.util.commandline;
+
+== java/src/util/commandline/ParsingException.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParsingException.java|19991117175127|45341|2f93d7f65cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/ParsingException.java|19991117175130|41183
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -38
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 51399
+O -rw-rw-rw-
+P java/src/util/commandline/ParsingException.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 2
+D7 27
+I33 1
+package org.mushin.jacl.util.commandline;
+D38 8
+
+== java/src/util/commandline/PosixStyleLexer.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/PosixStyleLexer.java|19991117175130|45341|2f93d7f55cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/PosixStyleLexer.java|19991117175134|53056
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -34
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 60393
+O -rw-rw-rw-
+P java/src/util/commandline/PosixStyleLexer.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 33
+I36 1
+package org.mushin.jacl.util.commandline;
+
+== java/src/util/commandline/SlashEqualsLexer.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/SlashEqualsLexer.java|19991117175134|45341|2f93d7f45cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/SlashEqualsLexer.java|19991117175138|30801
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -31
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 46855
+O -rw-rw-rw-
+P java/src/util/commandline/SlashEqualsLexer.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 30
+I33 1
+package org.mushin.jacl.util.commandline;
+
+== java/src/util/commandline/Validation.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Validation.java|19991117175138|45342|2f93d7f35cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/commandline/Validation.java|19991117175141|44982
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -26
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 52
+O -rw-rw-rw-
+P java/src/util/commandline/Validation.java
+------------------------------------------------
+
+D2 2
+I3 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D5 1
+D7 23
+I29 1
+package org.mushin.jacl.util.commandline;
+
+== java/src/util/hash/Hash.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/Hash.java|19991117175106|45338|2f93d7fc5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/Hash.java|19991117175109|38493
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -30
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 52233
+O -rw-rw-rw-
+P java/src/util/hash/Hash.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 1
+D6 28
+I33 1
+package org.mushin.jacl.util.hash;
+
+== java/src/util/hash/PearsonsHash.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHash.java|19991117175113|45339|2f93d7fa5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHash.java|19991117175116|23085
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +20 -34
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 31235
+O -rw-rw-rw-
+P java/src/util/hash/PearsonsHash.java
+------------------------------------------------
+
+D2 1
+I2 19
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 1
+D6 28
+I33 1
+package org.mushin.jacl.util.hash;
+D38 4
+
+== java/src/util/hash/PearsonsHashUnitTest.java ==
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHashUnitTest.java|19991117175109|45339|2f93d7fb5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|java/src/util/hash/PearsonsHashUnitTest.java|19991117175113|34958
+D 1.2 01/07/13 13:54:41-04:00 jmochel@devilmountain.corp.foliage.com +21 -6
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Changed java.util.Enumeration to java.util.Collection
+c Changed licensing
+K 30804
+O -rw-rw-rw-
+P java/src/util/hash/PearsonsHashUnitTest.java
+------------------------------------------------
+
+I0 20
+/*
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ * 
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ * 
+ * The Original Code is "JACL - Just Another Class Library".
+ * 
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.  
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ * 
+ * Contributor(s): 
+ */
+D4 1
+I4 1
+package org.mushin.jacl.util.hash;
+D6 5
+
+== BitKeeper/deleted/.del-Jamrules~2f93d72f5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|scm/Jamrules|19991117175543|45366|2f93d72f5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|scm/Jamrules|19991117175547|07234
+D 1.2 01/07/13 13:52:15-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: scm/Jamrules
+K 6051
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Jamrules~2f93d72f5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-jamfile~2f93d72e5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|scm/jamfile|19991117175547|45367|2f93d72e5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|scm/jamfile|19991117175551|59560
+D 1.2 01/07/13 13:52:20-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: scm/jamfile
+K 32036
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-jamfile~2f93d72e5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-AppCfg.ds~2f93d72d5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/AppCfg.ds|19991117175551|45367|2f93d72d5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/AppCfg.ds|19991117175554|31729
+D 1.2 01/07/13 13:53:00-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/AppCfg.ds
+K 24953
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-AppCfg.ds~2f93d72d5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Chronon.ds~2f93d72c5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Chronon.ds|19991117175554|45367|2f93d72c5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Chronon.ds|19991117175558|36653
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Chronon.ds
+K 51368
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Chronon.ds~2f93d72c5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-ClientInfo.ds~2f93d72b5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/ClientInfo.ds|19991117175558|45368|2f93d72b5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/ClientInfo.ds|19991117175601|29315
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/ClientInfo.ds
+K 26883
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-ClientInfo.ds~2f93d72b5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-CmdLineLexer.ds~2f93d72a5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/CmdLineLexer.ds|19991117175601|45368|2f93d72a5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/CmdLineLexer.ds|19991117175605|26783
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/CmdLineLexer.ds
+K 2020
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-CmdLineLexer.ds~2f93d72a5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-CommandLineParser.ds~2f93d7295cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/CommandLineParser.ds|19991117175605|45368|2f93d7295cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/CommandLineParser.ds|19991117175609|29478
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/CommandLineParser.ds
+K 50162
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-CommandLineParser.ds~2f93d7295cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-CommonSpec.ds~2f93d7285cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/CommonSpec.ds|19991117175609|45369|2f93d7285cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/CommonSpec.ds|19991117175612|30554
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/CommonSpec.ds
+K 26462
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-CommonSpec.ds~2f93d7285cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-DataEvent.ds~2f93d7275cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/DataEvent.ds|19991117175612|45369|2f93d7275cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/DataEvent.ds|19991117175616|11824
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/DataEvent.ds
+K 46042
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-DataEvent.ds~2f93d7275cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Folder.ds~2f93d7265cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Folder.ds|19991117175616|45369|2f93d7265cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Folder.ds|19991117175619|29517
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Folder.ds
+K 18049
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Folder.ds~2f93d7265cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-FolderInfo.ds~2f93d7255cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderInfo.ds|19991117175619|45370|2f93d7255cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderInfo.ds|19991117175623|40331
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/FolderInfo.ds
+K 47983
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-FolderInfo.ds~2f93d7255cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-FolderIter.ds~2f93d7245cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderIter.ds|19991117175623|45370|2f93d7245cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderIter.ds|19991117175626|14938
+D 1.2 01/07/13 13:53:01-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/FolderIter.ds
+K 32746
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-FolderIter.ds~2f93d7245cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-FolderSpecManipulator.ds~2f93d7235cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderSpecManipulator.ds|19991117175626|45371|2f93d7235cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/FolderSpecManipulator.ds|19991117175630|35675
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/FolderSpecManipulator.ds
+K 9156
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-FolderSpecManipulator.ds~2f93d7235cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Hash.ds~2f93d7225cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Hash.ds|19991117175630|45371|2f93d7225cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Hash.ds|19991117175633|40067
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Hash.ds
+K 4561
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Hash.ds~2f93d7225cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Histom.ds~2f93d7215cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Histom.ds|19991117175633|45371|2f93d7215cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Histom.ds|19991117175637|46837
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Histom.ds
+K 13164
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Histom.ds~2f93d7215cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Indom.ds~2f93d7205cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Indom.ds|19991117175637|45372|2f93d7205cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Indom.ds|19991117175640|42515
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Indom.ds
+K 59288
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Indom.ds~2f93d7205cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Nomen.ds~2f93d75f5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Nomen.ds|19991117175641|45372|2f93d75f5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Nomen.ds|19991117175644|43176
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Nomen.ds
+K 38293
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Nomen.ds~2f93d75f5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-PearsonsHash.ds~2f93d75e5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/PearsonsHash.ds|19991117175644|45372|2f93d75e5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/PearsonsHash.ds|19991117175648|25600
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/PearsonsHash.ds
+K 21481
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-PearsonsHash.ds~2f93d75e5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Revision.ds~2f93d75d5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Revision.ds|19991117175648|45373|2f93d75d5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Revision.ds|19991117175651|26169
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Revision.ds
+K 16021
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Revision.ds~2f93d75d5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-SimpleClassCfg.ds~2f93d75c5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/SimpleClassCfg.ds|19991117175651|45373|2f93d75c5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/SimpleClassCfg.ds|19991117175655|10564
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/SimpleClassCfg.ds
+K 2244
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-SimpleClassCfg.ds~2f93d75c5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-Skill.ds~2f93d75b5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/Skill.ds|19991117175655|45373|2f93d75b5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/Skill.ds|19991117175658|40840
+D 1.2 01/07/13 13:53:02-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/Skill.ds
+K 58410
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-Skill.ds~2f93d75b5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-StreamSpec.ds~2f93d75a5cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpec.ds|19991117175658|45374|2f93d75a5cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpec.ds|19991117175702|33082
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/StreamSpec.ds
+K 54327
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-StreamSpec.ds~2f93d75a5cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-StreamSpecManipulator.ds~2f93d7595cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpecManipulator.ds|19991117175702|45374|2f93d7595cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/StreamSpecManipulator.ds|19991117175705|34898
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/StreamSpecManipulator.ds
+K 19907
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-StreamSpecManipulator.ds~2f93d7595cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-SwitchableSigCBMgr.ds~2f93d7585cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/SwitchableSigCBMgr.ds|19991117175705|45374|2f93d7585cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/SwitchableSigCBMgr.ds|19991117175709|30081
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/SwitchableSigCBMgr.ds
+K 3180
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-SwitchableSigCBMgr.ds~2f93d7585cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-SystemSpec.ds~2f93d7575cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/SystemSpec.ds|19991117175709|45375|2f93d7575cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/SystemSpec.ds|19991117175712|26034
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/SystemSpec.ds
+K 29214
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-SystemSpec.ds~2f93d7575cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-VolumeSpec.ds~2f93d7565cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/VolumeSpec.ds|19991117175713|45375|2f93d7565cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/VolumeSpec.ds|19991117175716|26008
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/VolumeSpec.ds
+K 56500
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-VolumeSpec.ds~2f93d7565cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-editorbuffer.ds~2f93d7555cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/editorbuffer.ds|19991117175716|45376|2f93d7555cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/editorbuffer.ds|19991117175720|31492
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/editorbuffer.ds
+K 22045
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-editorbuffer.ds~2f93d7555cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-testbuilder.ds~2f93d7545cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/testbuilder.ds|19991117175720|45376|2f93d7545cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/testbuilder.ds|19991117175723|22085
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/testbuilder.ds
+K 41213
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-testbuilder.ds~2f93d7545cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/deleted/.del-treadmill.ds~2f93d7535cb6ba86 ==
+jmochel@devilmountain.bedford.foliage.com|support/ds/treadmill.ds|19991117175723|45376|2f93d7535cb6ba86
+jmochel@devilmountain.bedford.foliage.com|support/ds/treadmill.ds|19991117175727|35655
+D 1.2 01/07/13 13:53:03-04:00 jmochel@devilmountain.corp.foliage.com +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Delete: support/ds/treadmill.ds
+K 33142
+O -rw-rw-rw-
+P BitKeeper/deleted/.del-treadmill.ds~2f93d7535cb6ba86
+------------------------------------------------
+
+
+== BitKeeper/etc/logging_ok ==
+New file: BitKeeper/etc/logging_ok
+V 4
+
+jmochel@devilmountain|BitKeeper/etc/logging_ok|20000912144853|36612|48aa16da
+D 1.0 00/09/12 10:48:53-04:00 jmochel@devilmountain +0 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+c BitKeeper file G:/jacl/BitKeeper/etc/logging_ok
+K 36612
+P BitKeeper/etc/logging_ok
+R 48aa16da
+X 0xa1
+------------------------------------------------
+
+
+jmochel@devilmountain|BitKeeper/etc/logging_ok|20000912144853|36612|48aa16da
+D 1.1 00/09/12 10:48:53-04:00 jmochel@devilmountain +1 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+F 1
+K 2219
+O -rw-rw-rw-
+P BitKeeper/etc/logging_ok
+------------------------------------------------
+
+I0 1
+jmochel@devilmountain
+
+jmochel@devilmountain|BitKeeper/etc/logging_ok|20000912144854|02219
+D 1.2 01/07/13 13:54:45-04:00 jmochel@devilmountain.corp.foliage.com +1 -0
+B jmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+C
+c Logging to logging@openlogging.org accepted
+K 6058
+O -rw-rw-rw-
+P BitKeeper/etc/logging_ok
+------------------------------------------------
+
+I1 1
+jmochel@devilmountain.corp.foliage.com
+
+# Patch checksum=bed5d06f

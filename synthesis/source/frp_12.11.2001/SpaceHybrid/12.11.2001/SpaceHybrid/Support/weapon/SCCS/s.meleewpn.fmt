@@ -1,0 +1,45 @@
+h55713
+s 00017/00000/00000
+d D 1.1 99/12/02 15:57:48 jmochel 2 1
+cC
+cK16766
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:57:45 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Support/weapon/meleewpn.fmt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44986
+cPSupport/weapon/meleewpn.fmt
+cReb4786015cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Name
+.Usage (CR,PRC,CT)
+.Type (Stick, Blade, HaftedBlade, Flexible)
+.Length
+.Mass
+.Symmetry
+.Hands
+.Acc   // Accuracy
+.DM    // Damage Multiplier
+.TI
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+E 2
+I 1
+E 1

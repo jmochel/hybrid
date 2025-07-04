@@ -1,0 +1,21 @@
+||    .Contains Declaration of CommonSpec
+||
+||    .Author Jim Jackl-Mochel
+||
+||    .Date 09.30.97
+||
+||    .Copyright  This code is in the public domain.
+||
+||    Revision Information 
+||    ==================== 
+||    $Author: jmochel $
+||    $Revision: 1.1.1.1 $
+||    $Date: 1998/06/12 16:36:29 $
+||
+||
+
+commonSpec == ( type:Type, name:string );
+
+type ::=
+    Folder i:data |
+    Stream i:data ;

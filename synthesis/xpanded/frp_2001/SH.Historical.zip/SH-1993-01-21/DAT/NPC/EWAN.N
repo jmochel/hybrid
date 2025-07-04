@@ -1,0 +1,47 @@
+.Name EWAN DATHOR
+.Title ARMSMASTER					
+.Race HU
+.Culture
+.Aspect 
+.PST 17
+.PEN 18		
+.DEX 13
+.PAG 12		
+.PAW 14
+.MST 11		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 6'5"      
+.WT 280		 
+.AGE 46
+.BeginDesc
+ 8
+.EndDesc
+.BeginSkills
+Weapon: T SWORD (SPECI)	   , 
+.EndSkills
+.Locale WIND HILLS
+.BeginKnownAssoc
+ LIEGE MAN TO MARQUIS MAKALAN
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends ALMOST EVERYONE:PLAYS JEDDAK WITH SAVARTH NEMEROL
+.EndFriends
+.BeginComment
+ DEADLY. FIERCELY LOYAL TO THE MARQUIS MAKALAN.
+.EndComment
+.BeginPossess
+ A +2 TWO HANDED SORD THAT WEIGHS ONLY 4LBS							
+			 A +2 BUCKLER
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

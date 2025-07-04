@@ -1,0 +1,85 @@
+h43970
+s 00057/00000/00000
+d D 1.1 99/12/02 15:43:39 jmochel 2 1
+cC
+cK04981
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:43:35 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/skillsht.ltx
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44901
+cPDoc/PlayingAids/skillsht.ltx
+cReb47852f5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+% SKILLSHT.LTX
+\documentstyle{article}
+\begin{document}
+
+\newcount\n
+\def\monkeycopy#1#2{
+	\n=0
+	\loop\ifnum\n<#2 \advance\n by1
+		#1
+		\endgraf
+	\repeat
+}
+
+\hbox{{\large Skill Sheet}}
+\vspace{1cm}
+\hrule width 15cm depth 2pt 
+\vspace{2cm}
+
+\hbox{
+	\vbox{
+		\hbox to 4cm{Name}
+		\monkeycopy{\hbox to 4cm{\hrulefill}}{35}
+	}
+
+	\vbox{
+		\hbox to 1cm{Rank}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{35}
+	}
+
+	\vbox{
+		\hbox to 2cm{Stat}
+		\monkeycopy{\hbox to 2cm{\hrulefill}}{35}
+	}
+
+
+	\vbox{
+		\hbox to 2cm{Base}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{35}
+	}
+
+	\vbox{
+		\hbox to 2cm{RB}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{35}
+	}
+
+	\vbox{
+		\hbox to 2cm{DF}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{35}
+	}
+
+	\vbox{
+		\hbox to 2cm{Total}
+		\monkeycopy{\hbox to 1cm{\hrulefill}}{35}
+	}
+
+}
+\end{document}
+E 2
+I 1
+E 1

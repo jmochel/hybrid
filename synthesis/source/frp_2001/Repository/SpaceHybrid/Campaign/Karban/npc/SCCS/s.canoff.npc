@@ -1,0 +1,154 @@
+h39791
+s 00126/00000/00000
+d D 1.1 99/12/02 15:39:12 jmochel 2 1
+cC
+cK00614
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:08 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/canoff.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44875
+cPCampaign/Karban/npc/canoff.npc
+cReb4785f95cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Avram Canoff
+.Nomen  Title Doctor of Social Anthropology
+.Species Base:Sub:Sub
+.Gender Male
+.Culture Base:Sub:Sub
+.BeginStats
+.PST 13
+.PEN 14
+.DEX 16
+.PAG 14
+.PAW 16
+.MST 17
+.MEN 16
+.PSI 14
+.MAG 18
+.MAW 16
+.HT 1.45
+.WT 83
+.AGE 36
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build Lithe
+.Bone Small
+.Tone Fair
+.Text 
+.EndFrame
+
+.BeginHair
+.Length Short
+.Color Black
+.Texture Fine
+.Style 
+.Curl Curly
+.Ornament 
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard Goatee
+.Mustache Small
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark Wine stain on back 
+
+.BeginVoice
+.Type Tenor
+.Depth 
+.Clarity 
+.SpeechHabits Precise manner
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth  Expensive
+.Weight Light
+.Age
+.Ornament
+.ColorMix
+.Text Tweeds,Rumpled
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+
+E 2
+I 1
+E 1

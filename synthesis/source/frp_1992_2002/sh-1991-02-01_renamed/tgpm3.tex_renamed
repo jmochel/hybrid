@@ -1,0 +1,13 @@
+% Acceleration Modifiers
+\begin{table}[h]
+\caption{Acceleration Modifiers}
+\centering
+	\begin{tabular}{||l|l||} \hline
+	Movement to Accelerate to	&	EF Modifier \\ \hline
+	Dash						&	-5 			\\
+	Run							&	-3			\\
+	Jog							&	-2			\\
+	Walk						&	0			\\
+	Crawl						&	+2			\\ \hline
+	\end{tabular}
+\end{table}

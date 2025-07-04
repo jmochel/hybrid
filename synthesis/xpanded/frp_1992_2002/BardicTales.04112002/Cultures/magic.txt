@@ -1,0 +1,22 @@
+
+MPR	330     +40
+MDF	437     -90
+MAB	63      -7
+POW	41      
+MEN	1086    -90
+
+
+Magic Based saves all went down -180
+INF save increased by +90
+
+ALL wizardries went down almost exactly 40%
+
+The absolute chances are still very good.
+
+most are still in the 250-300 ranges assuming 
+that they are able to continue to use the SCF skills I
+was using as secondaries and generals and tertiaries.
+If I go over to INF only secondaries and so on the total drop 
+averages about 60%
+
+

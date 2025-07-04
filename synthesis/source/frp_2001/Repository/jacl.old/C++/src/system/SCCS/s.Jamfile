@@ -1,0 +1,42 @@
+h63893
+s 00014/00000/00000
+d D 1.1 99/11/17 08:47:15 jmochel 2 1
+cC
+cK26840
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 08:47:12 jmochel 1 0
+c BitKeeper file e:/jacl/C++/src/system/Jamfile
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK43875
+cPC++/src/system/Jamfile
+cRefbd6a5f5cb6bb65
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+# Jamfile for the JACL DateTime classes
+#
+# $Header $
+#
+
+# The SubDir rule simply tells Jam that all paths are relative to the given path.
+
+SubDir TOP src system ;
+
+# Library from objects denotes the library to be built and its dependents
+
+DirectedLibrary j$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) :
+    FolderIter.cpp
+;
+E 2
+I 1
+E 1

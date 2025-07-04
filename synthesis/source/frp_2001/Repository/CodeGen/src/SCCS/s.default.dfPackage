@@ -1,0 +1,69 @@
+h27190
+s 00038/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK58177
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/default.dfPackage
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK00273
+cPsrc/default.dfPackage
+cR87d0f4db
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+package id39jgbc28tdoj9c28tgftk;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id3dwmjc28tdoj9c28tgj6a.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:design#Class#id379j6c28tdoj9c28tgj42.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+}
+/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}
+/**
+@__options 
+*/
+class __options {
+}
+/**
+@__positions <oigroup:<oiref:design#Class#id3dwmjc28tdoj9c28tgj6a.diagram:oiref>=10,10,84,80,1:oigroup>
+<oigroup:<oiref:design#Class#id379j6c28tdoj9c28tgj42.diagram:oiref>=114,10,111,70,1:oigroup> 
+*/
+class __positions {
+}
+E 2
+I 1
+E 1

@@ -1,0 +1,55 @@
+h27947
+s 00027/00000/00000
+d D 1.1 99/12/02 16:04:01 jmochel 2 1
+cC
+cK55601
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:03:57 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/ea/ncounter.tbl
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45024
+cPworlds/ea/ncounter.tbl
+cReb47879a5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+
+               Unihabited          Lt. Inhabited       Hvy. Inhabited
+               ------------------------------------------------------
+               
+         |        Res    1            Res    5            Res    9
+PERSON   |     1 <                 3 <                 5 <
+         |        NonRes 9            NonRes 5            NonRes 1
+               
+                                                                  
+         |        Res    9            Res    5            Res    1
+THING    |     4 <                 3 <                 2 <
+         |        NonRes 1            NonRes 5            NonRes 9
+          
+
+         |        Res    1            Res    5            Res    9
+PLACE    |     5 <                 4 <                 3 <
+         |        NonRes 9            NonRes 5            NonRes 1
+                                                                     
+
+
+Person-Resident:
+     Roll 2d10 to determine the status / power of the individual(s) in
+     question
+
+Person-NonResident 
+     Roll 2d10 to determine the status/power of person in question
+E 2
+I 1
+E 1

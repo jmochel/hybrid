@@ -1,0 +1,9 @@
+awk "{ print $1 }" action.cfg     > action.fff
+awk "{ print $1 }" aoescale.cfg   > aoescale.fff
+awk "{ print $1 }" castcomp.cfg   > castcomp.fff
+awk "{ print $1 }" ctscale.cfg    > ctscale.fff
+awk "{ print $1 }" durscale.cfg   > durscale.fff
+awk "{ print $1 }" nrgtype.cfg    > nrgtype.fff
+awk "{ print $1 }" rngscale.cfg   > rngscale.fff
+awk "{ print $1 }" target.cfg     > target.fff
+awk "{ print $1 }" tcomp.cfg      > tcomp.fff

@@ -1,0 +1,64 @@
+.Name Anarka Val Din
+.Title Lord							
+.Race Human
+.Culture
+.Aspect Solar
+.PST 18
+.PEN 19		
+.DEX 20
+.PAG 18		
+.PAW 16
+.MST 25		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 19
+.HT 5'9"      
+.WT 170		 
+.AGE 42
+.BeginDesc
+ Grey streaked black hair and blue eyes. Callous ridge along		 
+fotrehead from helm.
+.EndDesc
+.BeginSkills
+Weapon: SHort Bow			  , 6
+Weapon: Hand and Half		 , 5
+Weapon: Main Gauche			, 5
+Weapon: Quarter Staff		 , 5
+Weapon: Sand Knife		   , 5
+Weapon: HTH					  , 5
+ Stealth			 , 3
+ Horsemanship		 , 5
+ Military Science	 , 6
+ Cipher				 , 4
+ Trade (R/W/S)		 , 6
+ Hemen (S)			 , 5
+ Drow (R/W/S)		 , 6
+ Kaliphan			 , 8
+.EndSkills
+.Locale
+.BeginKnownAssoc
+ Black Star Mercenary Company
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends Navril
+.EndFriends
+.BeginComment
+ A deadly and unorthodox commander. Tends to take on low visibility but 
+high paying positions. Winters in the easter coastal ranges of the Kasan. Hates 
+the Orkai. Comes from unknown upper class
+.EndComment
+.BeginPossess
+Black Wyvern Hide Armour made in LAMMELLAR sTYLE					
+27 lbs 6/7/7 -3 -15																
+Steel Maine Gauche +10% to hit +1%/Rank Defense
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic None
+.BeginSpells
+.EndSpells
+.EndNPC

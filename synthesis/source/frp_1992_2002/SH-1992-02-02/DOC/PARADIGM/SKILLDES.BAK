@@ -1,0 +1,323 @@
+\chapter{Skill Design}
+\ndx{Skill Design}
+
+Before we used a simple description for skills. In designing skills we need
+a more complex one.
+
+\section{The Full Skill Description}
+\small
+
+\begin{relate}
+	\item[Name] Self Explanatory
+	\item[Type] The concept of type is detailed by a root word that describes the base
+	type and modifiers that describes the level of other interaction. So
+	typically a skill type would be Basic Type, Interaction, Implementation.
+	A simple Ballroom Dancing skill would have a Skill Type of
+	Art, Assisted, Non-Tool Based . See below for descriptions of the
+	categories.
+	\item[Stat Basis] The stat, or combination of stats, that is needed
+	when using the skill.
+	\item[Rank Bonus] The additional gain in the success chance per rank
+	in the skill. This is usually 4\% but it can vary for package skills
+	and so on.
+	\item[Cost]	The experience point cost is the amount of experience points it takes to
+	buy a roll in a skill. It is derived from the type of the skill.
+	\item[Generation Cost]
+	The cost in Skill Pool Points of a skill or skill package. Skills
+	only cost 1 Skill Pool Point. Skill packages typically vary from 1
+	to 10 Skill Points in cost.
+	\item[Typical Difficulty Factors]
+	This is just a list of tasks that characters might want to do with a
+	given skill, and what the typical Difficulty Factor is for that task.
+	\item[Basic Type]
+	The overall term that described the very broad area of
+	endeavour that the skill falls into. The basic type may be any of the 
+	following:
+	\begin{relate}
+		\item[Art ]
+		An activity that has as its aim an affect upon the aesthetic senses of its
+		audience.
+		\item[Craft]
+		An activity that is intended to mix Art with the production of some
+		utilitarian object or effect.
+		\item[Science]
+		A series of disciplines intended to increase a codified body of
+		knowledge.
+		\item[Engineering]
+		Any area of endeavour that attempts to apply a codified body of
+		knowledge to the production of a desired physical effect.
+		\item[Technical Study]
+		An area of endeavour that is focused upon creating and maintaining the
+		end result of the corresponding engineering discipline
+		\item[Physical Discipline]
+		Any area of endeavour based on muscle memory training.
+		\item[Mental Discipline]
+		Any area of endeavour based on purely mental manipulations without 
+		reference ...\footnote{How in the world do I describe this one}
+		\end{relate}
+		\item[Interaction]
+		This area describes the various modifications upon the broad themes
+		described above. Interaction may be any of the following:
+		\begin{relate}
+			\item[Assisted]
+			Requires the work of one or more additional entity.
+			\item[Un-Assisted]
+			Requires only one entity.
+		\end{relate}
+	\item[Implemetation]
+	Implementation describes any tools that need to be utilized in order 
+	to perform an action using the skill. It is based on the most common
+	usage of a skill. It can be any of the following.
+	\begin{relate}
+		\item[Complex Tool Based]
+		Requires some additional tools of a moderately complex nature that have been
+		made especially for the skill.
+		\item[Simple Tool Based]
+		Requires some additional tools other than the entities mind or body. 
+		Computers and calculators are good examples.
+		\item[Non Tool Based]
+		Requires no additional tools other than the entities mind or body.
+	\end{relate}
+	\item[Focus]
+	Focus is only associated with the sciences and it refers to whether 
+	the character studies the full science or specializes in some sub 
+	section of that science.
+	\begin{relate}
+		\item[Non Directed]
+		Intended to add to a general body of knowledge
+		\item[Directed]
+		Intended to add to a specific area of a body of knowledge.
+	\end{relate}
+\end{relate}
+
+\normalsize
+
+If a character wishes to learn a skill not supplied by the rule 
+system the GM must figure out the appropriate values for that skill. 
+Typically the GM will break the skill down into its basic type, 
+implementation, interaction, and focus. After doing so he will use 
+that breakdown to calculate its experience point cost.
+
+The first step is to determine the skill's stat basis. In order to do 
+so the GM must decide what action comprises 50\% or more of the activity
+the character undertakes when using that skill. Once he has determined 
+what that action is he must decide what stats are used by that activity.
+
+In general each skill is measured against the tertiary stats first , then the 
+secondary and finally the primary. MSE and PSE are never used as SB's.
+MVM based skills are self evident. 
+
+Most scientific or purely mental skills are FCS based.
+Sex is PCA. Lovemaking is FCS.
+
+For actions in which the character is non skilled the SB's are fairly
+simple. For perception rolls use GAW or MAW or PAW. For analysis rolls
+use MCA for entity manipulated situations. Manipulated means that there
+was a deliberate attempt on the part of someone else to direct someones
+perceptions of this area. Use FCS for non-entity manipulated
+situations. For memory rolls roll MST. 
+
+If the most common action is a mental one but has a physical component then
+the skill is not based on FCS,MCA, or MDF alone.
+
+If the most common action is a physical skill but has a mental component then the
+skill is not based on ACC,PCA, or PDF alone.
+
+Skills that are not based on the tertiary stats are usually either MAW
+or PAW. Any skills where the most common action is a perception roll has
+to be based on one of the awareness stats. If the action could not be
+performed at all if the entities primary physical sense were removed
+then the skill is PAW based\footnote{Is the last really true ?}. 
+
+% Include Generic DFs for Actions
+\input{tskill6.tex}
+
+\section{Experience point costs}
+
+% Include Costs of Skill Components Tables
+\input{tskill7.tex}
+
+Note that the Appropriate Tech Index that the skill was learned at 
+must be recorded.\footnote{ How to handle upgrading skills for new TI's ?}
+
+\section{Filter Skills}
+
+There is a category of skills which affects the use of other skills 
+in an environment they were not designed to be used in. These skills 
+are called filter skills. A Filter skill is any skill that can allow 
+for the full expression of other skills in an environment other than 
+that for which those skills were designed for.
+
+Typical filter skills include the following: 0-g maneuver, Tech 
+Level Lore, Culture Lore, Horsemanship and other vehicular combat 
+skills, Armor Wearing, and Computer operations.
+
+For situations in which the character is attempting to apply a skill 
+in a environment he is not familiar with and that skill {\em must }
+interact with that environment, then the rank in the filter skill 
+becomes the upper limit on the effective rank of the skill being 
+used.
+
+As an example, if someone has a horsemanship skill at rank 5, he or she
+may use their archery skill up to rank 5 without making any rolls
+against their horsemanship. If the character has a higher archery skill
+and wants to bring it all to bear on a shot, they must roll against
+their horsemanship first in order to get the full use of the archery
+skill.
+ 
+\section{Skill Packages}
+
+What we have discussed up till now has been single skills.
+Quite often though it may be better to offer skill packages.
+A skill package is a collection of conceptually related 
+skills that have an experience point cost less than the total 
+cost of all the skills. All skills in a skill package may be 
+used normally with the exception that package skills have a lower
+Rank Bonus and EF modifier.
+
+\section{Experience Point Cost}
+
+Each skill package has an overall Experience point cost that is
+the result of adding the cost of the most expensive skill together
+with the cost of all the other skills times some factor. The actual value
+of this factor is used to name the type of skill package.
+
+{\bf Quarter Experience}
+\[ 1 \times Most\ Expensive\ Skill + 1/4 \times All\ Others \]
+All skills within this package have a RB = 1\%, EF = -2 
+
+{\bf Half Experience }
+\[ 1 \times Most\ Expensive\ Skill + 1/2 \times All\ Others \]
+All skills within this package have a RB = 2\%, EF = -2
+
+{\bf Three Quarter Experience}
+\[ 1 \times Most\ Expensive\ Skill + 3/4 \times All\ Others \] 
+All skills within this package have a RB = 3\%, EF = -2
+
+\section{Making A Skill Roll} 
+
+Skill rolls for skills within a package are made as normal with the
+appropriate modifiers for the package skills.
+
+\section{Modifiers to Using Skills}
+All normal modifiers that apply to single skills apply to skills in a package.
+
+\section{Learning Rolls}
+The SB of the learning roll for a skill package is the least favorable 
+of all the SBs in the skills that make up the package. A skill package 
+suffers an additional DF -1 to Learning Rolls.
+
+\section{Modal Packages}
+
+Modal packages ( pronounced M\=o-dal ) are packages of Mental or Physical disciplines 
+that require concentration to maintain, leading to the exclusion of any action that
+requires skills outside the package. Many of the martial arts styles are modal
+packages.  Modal packages do not have the DF = -2 modifier that most packages do
+but they require a skill roll to enter and exit the mode of concentration.
+
+\section{Unfamiliar Tools}
+All normal modifiers for unfamiliar tools apply to package skills.
+
+\section{Gaining Skills}
+Skill Packages may only be gained by training in the package from
+someone who already has that skill package. \footnote{ Include rules for 
+actually designing skill packages. }
+
+\section{Experience Points Gain from usage.}
+
+All normal experience point gains from usage apply to skills in a skill
+package with the exception that a character may never get eeps for
+being non-ranked in a skill package\footnote{Put in notes on buying 
+out skills from a package}. 
+
+A typical skill package would be :
+
+\begin{verbatim}
+Aikido (3/4 package)
+
+	Dodging In       (SB=PAG)
+	Dodging Away     (SB=PAG)
+    Grapple	         (SB=PCA)
+    Balance Throw    (SB=PCA)
+    Joint Throw      (SB=PCA)
+
+	Cost ( 50 + 3/4(50+50+50+50) ) = 200
+    Generation Cost = 1+3/4(1+1+1+1) = 4
+
+	Skill PAckage SB: PAG|PCA
+	RB=4%
+
+\end{verbatim}
+
+\section{Designing Skills}
+
+If a character wishes to learn a skill not supplied by the rule 
+system the GM must figure out the appropriate values for that skill. 
+Typically the GM will break the skill down into its basic type, 
+implementation, interaction, and focus. After doing so he will use 
+that breakdown to calculate its experience point cost.
+
+The first step is to determine the skill's stat basis. In order to do 
+so the GM must decide what action comprises 50\% or more of the activity
+the character undertakes when using that skill. Once he has determined 
+what that action is he must decide what stats are used by that activity.
+
+In general each skill is measured against the tertiary stats first , then the 
+secondary and finally the primary. MSE and PSE are never used as SB's.
+MVM based skills are self evident. 
+
+Most scientific or purely mental skills are FCS based.
+Lovemaking is PCA.
+
+For actions in which the character is non skilled the SB's are fairly
+simple. For perception rolls use GAW or MAW or PAW. For analysis rolls
+use MCA for entity manipulated situations. Manipulated means that there
+was a deliberate attempt on the part of someone else to direct someones
+perceptions of this area. Use FCS for non-entity manipulated
+situations. For memory rolls roll MST. 
+
+If the most common action is a mental one but has a physical component then
+the skill is not based on FCS,MCA, or MDF alone.
+
+If the most common action is a physical skill but has a mental component then the
+skill is not based on ACC,PCA, or PDF alone.
+
+Skills that are not based on the tertiary stats are usually either MAW
+or PAW. Any skills where the most common action is a perception roll has
+to be based on one of the awareness stats. If the action could not be
+performed at all if the entities primary physical sense were removed
+then the skill is PAW based\footnote{Is the last really true ?}. 
+
+% Include Generic DFs for Actions
+\input{tskill6.tex}
+
+\subsection{Experience point costs}
+
+% Include Costs of Skill Components Tables
+\input{tskill7.tex}
+
+Note that the Appropriate Tech Index that the skill was learned at 
+must be recorded.\footnote{ How to handle upgrading skills for new TI's ?}
+
+\section{Designing Skill Packages}
+
+\subsection{Experience Point Cost}
+
+Each skill package has an overall Experience point cost that is
+the result of adding the cost of the most expensive skill together
+with the cost of all the other skills times some factor. The actual value
+of this factor is used to name the type of skill package.
+
+{\bf Quarter Experience}
+\[ 1 \times Most\ Expensive\ Skill + 1/4 \times All\ Others \]
+All skills within this package have a RB = 1\%, EF = -2 
+
+{\bf Half Experience }
+\[ 1 \times Most\ Expensive\ Skill + 1/2 \times All\ Others \]
+All skills within this package have a RB = 2\%, EF = -2
+
+{\bf Three Quarter Experience}
+\[ 1 \times Most\ Expensive\ Skill + 3/4 \times All\ Others \] 
+All skills within this package have a RB = 3\%, EF = -2
+
+

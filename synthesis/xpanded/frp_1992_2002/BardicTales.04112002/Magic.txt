@@ -1,0 +1,261 @@
+Magic Discussion.
+
+I have a series of notes, questions, clarifications, et al to go over. 
+
+I don't really understand the logic behind a number of the 
+conceptual and mechanical changes AND I really don't have any 
+clue at this point about what Elven magic is.
+
+I will try and send these out throughout the day as I get a chance.
+
+In section 3.1 there is the discussion of power.
+
+"Before a character can utilize magic they need to be able to penetrate the veil 
+of the world.  They need to channel the power to them, or touch the source of 
+the power so they can utilize it and manipulate it in some way."
+
+It looks to me like the model is : Mana and power are everywhere 
+and you use personal energy to reach out and channel it. This seems 
+the same as the previous power concept in earlier versions of BT. So far 
+so good. We seem to be extending it to different "frequencies" of power 
+but nothiung really stunning there.
+
+We then go on to discuss the actual skill needed to channel power.
+
+<QUOTE>
+Therefore the skill any user of magic needs is a skill labeled as a D: name of 
+power skill.  This skill costs twice as much as any skill to go up in, and acts 
+as a filter skill for the magic being performed.  It can be  a Divinity Factor 
+(DVF) skill (referred therefore as the skill DD: X Power) or a Spell Casting 
+Factor (SCF) skill (referred to therefore as SD: X Power depending on how you 
+use your skill of touching a source of power and accessing it. 
+</QUOTE>
+
+Comment: I believe that these rules would be pertinient to all users of 
+power, not just mages. So it should probably read: "Therefore the skill 
+any user of power needs is a skill labeled as a D: name of power skill."
+
+Q: What does the D: stand for ? Do we need another single character abbrev ?
+why not just : "Second Power" as a DVF or SCF skill ?
+
+Q: Why are we excluding KIF as a way of accessing some of these powers ? 
+Has the concept of power access via direct will been delegated to the DVF 
+arena ? If so, why ?
+
+<QUOTE>
+In order to utilize a magic skill higher than the appropriate D:power skill one 
+must successfully roll the D:power skill to touch the power.  Once your chance 
+with D:power goes to 100% or higher you no longer need to roll and it is assumed 
+you can access it.
+</QUOTE>
+
+Comment: Since this is the filter skill mechanism I proposed for accessing power in 
+the last magic system go around I can hardly object to it now, can I ? :-)
+
+Comment: Some parts of this seem inconsistent to me at several levels.
+My feeling is the result of the gestalt of several things all interacting 
+at once so it may be hard to delineate clearly. 
+
+Comment: IMO this interacts a little strangely with the idea that 
+Wizardly spells are INF skills. It apears that Sorcerers and priests 
+are the ones that have "magic" skills whose rank can be compared 
+to those of D:Power. 
+
+<QUOTE>
+The D:power skill has a weapon speed of 10 counts.  If the skill you are 
+utilizing is less than the D:power  skill then you are assumed to be successful 
+in accessing the power. It still takes you the 10 counts to touch the power, 
+which can be sped up.  The embrace can be held for DRV + RANK in D:counts before 
+it must be re-generated.  It costs 1 MEN to touch the source of power..
+</QUOTE>
+
+Comment: This is effectively doubling the speed of all initial sorceries AND 
+adding 10 counts to all initial wizardries. An average sorcerer is paying 
+1 MEN every 2 seconds (20 coounts) or so in order to maintain a speed that lets him defend
+against a man with a dagger. 
+
+Q: Is that really the MEN cost and comparative speeds that you want to establish ? 
+
+Q: Does this suplant Wizardry activation ? If not we are looking at all initial 
+wizardries taking 10 counts activation + 10 counts power "socket" initialization + some 
+mechanism for resolving the duration of a power socket versus the wizardry ritual or 
+spell cast time.
+
+<QUOTE>
+In BT v6.x:  one draws spell (the measure of strength or power in a particular 
+magical application) at SCF/5 per count.  One always had draped about one SCF/2 
+in spell in a cloud one could access immediately.  You can always use your 
+POW(Power) at 1 POW for one spell.  NOTE: This assumes the standard Manna Level. 
+The Manna Level/10 is multiplied to the draw rate.  The standard manna level is 
+assumed to be 10 so it is usually not considered.   This will remain true in 
+this change as well.  You may consider Manna Level to be the thickness of the 
+veil of the world in the area you are in.
+</QUOTE>
+
+<QUOTE>
+Under this change: One uses MEN(Mental Endurance) at RANK in D: Appropriate 
+Power/2 per count.  Each MEN creates a different number of spell depending on 
+the type of D:power and the Manna Level.:
+
+Second Power: 1 MEN = 1 SPELL
+Third Power: 1 MEN = 2 SPELL
+Fourth Power: 1MEN = 5 SPELL
+Fifth Power: 1 MEN = 10 SPELL
+
+Remember:  The Manna Level /10 adjusts the above numbers but Manna Level shifts are 
+rare.
+</QUOTE>
+
+Comment: Given that the model appears to be one of channeling existining ambient 
+power via expenditure of MEN I assume that we want to say "Each MEN __allows the 
+user to channel__ a different number of spell depending on the type of D:power 
+and the Manna Level."
+
+Q: Why the different amount of Spell accessible for each power ? 
+
+Q: Why not refer to a single rate subject to critical results on the D: 
+Appropriate power skill ? The single rate of draw appears to have worked well up 
+to now.
+
+<QUOTE>
+One would have "at hand immediately" spell equal to D: Appropriate Power*2.  You 
+can always use your POW at one POW per 5 spell.
+</QUOTE>
+
+Comment: I would suggest if that if you really want multiple rates of draw for 
+some reason of scaling that you also want the "at hand" to be subject to that same 
+scaling. So the "at hand" would be 
+spell = 2 * (D: Appropriate Power) * (spell/men ratio of appropriate power)
+
+<QUOTE>
+TO BE NOTED:  A major subtle change described therein will have a profound 
+impact on BT 6.x mages: M: spells are no longer SCF.  They are now INF.
+</QUOTE>
+
+Comment: OK, the rationale on this one has me stumped. Is it because 
+spells are assumed to be a memorized series of actions ? If so, why aren't Kata 
+also made as INF skills, along with Memorized Stories and songs ?
+
+I consider the rationale here to be very important since this 
+jars with my understanding of the reasons that skills get 
+listed in one factor or another.
+
+Comment: As before I believe that this makes applying the draw power skill 
+problematic since I think the draw power skill should only be applied to 
+SCF skills.
+
+Comment: My other comment is about gamne balance. We can make this work though I believe 
+that the character impact for mordanith is sigificant. Roughly 40% of mordaniths SCF 
+is effected with a drastic lowering (to less than 40%) in all wizardry spell cast chances. 
+
+The thing that makes this hairy is that not all wizards will scale down in the 
+same manner. Mordanith and Kheldar and Verun and Eman will all move around in a
+very hodge podge manner. 
+
+IMO The work required to make this balance well is significantly more than just changing 
+the skills. Doing just the skill changes leaves MNordfdanith in this wierd state where a 
+significant number of his skills change in such a way that he is no longer to do the things 
+he has already done without some extraordinary dice luck and won't be able to do in the 
+future without the same extraordinary dice luck. Walking the pattern, warding, sunbane, 
+telekinesis, illusion, divinations, etc.. are all drastically changed in effectiveness. 
+
+
+
+
+Now we go on to the discussion of the types or "frequencies" of power 
+
+<QUOTE>
+All living things naturally channel the First Power.  No skill is required.  The 
+very nature of our animation is such that every heartbeat draws the first power 
+forth.  The Dal-Kon concept of KI and the Dorian concept of Internal Power are 
+both First Power functions.  
+
+Required Skills:
+(1)	Skill of some sort 
+NOTE: D: First Power is not required- it comes with being a living thing
+</QUOTE>
+
+Comment: A lot of this is tied up in worldview so let me 
+lay out some things. IMO the first power is what a martial artist is 
+manipulating when rthey focus KI. KIF skills lie in the realm of perception, life force,
+healing, etc. Yes, unconcious use of KI requires no skill. But concious 
+control is something that requires a "Draw Power" skill. And it is slow, 
+the unconcious mechanisms interfere wth the concious use of KI. It is 
+more difficult, in my mind, than an equivalent sorcery draw. So 
+"Draw KI" or "Draw Internal Power" have a higher difficulty factor.
+
+Someone using KI should be able to do things such as render them selves 
+blind or enhance their own healing. 
+
+I don't think that there are DVF or SCF versions that humans can use.
+KIF may be the only acess to this on the prime.
+
+<QUOTE>
+The Second Power: Racial/Internal Magics
+
+(1)	Racial Magic: The preternatural capacities and skills granted by virtue of 
+the shape and attributes one shares with one's race.  Dwarven sense of where 
+they have been is an example. (Requires belonging to a racial type)
+
+(2)	Craft Magic: The creation of a weapon or item of great craftsmanship that is 
+far superior to an ordinary item of its type.(requires a certain level of skill 
+in crafting or in the skill itself{8 or higher minimum}
+
+(3)	Alchemy: The alteration of substance and form with the infusion of will  
+
+The skill "KI Focus" probably translates into the skill D: Second Power (KIF 
+skill).  No D: skill is required though for the use of Second Power skills
+
+Ghosts and other souls that are no longer instantiated need to actively channel 
+their will and animate as a function of a skill in D: Second Power.
+</QUOTE>
+
+Comment: I really think that KI foucus and such don't fall in this realm. I 
+really see those skills as humans (and a few others) being able to get around 
+their "design" right to the power source and use it, albeit somewhat inefficiently.
+
+Racial Magics such as Elven Pattern walking and Dwarven Earth powers strike me as 
+being at a different frequency. I don't see Elves or Dwarvse as having KI Focus, 
+in fact I don't see that they can have KI Focus. I see it as a almost exclusive 
+tool of humans.
+
+Elves and Dwarves can get operator level access to their racial skills and 
+, in  afew cases, they can get design level access to the skill. Elves being able to
+use will to "Pattern Walk" rather than SCF, but I don't see them using KI.
+
+I think that a Draw Power skill would be needed at any point where someone is
+using their racial skill for things it typically isn't intended to do, i.e. 
+out of the usual way that racial gift is used. So rather than iusing the gift, 
+you are attempting to use the power the gift is based on....
+
+
+
+Jumping to the divine third level I have some questions:
+
+<QUOTE>
+Shaman, Paladins, Mystics, and Heralds usually operate at this level
+
+Gifts are granted typically (with certain GM sanctioned exceptions) as a 
+function of the level of the Summon Divine Aid skill the character has .  Every 
+odd level starting at RANK one allows the character to have another Gift skill.
+
+Gift skills are +1 Success Level at all times and never critically fail. 
+
+Average cast time of a G:skill: 5 counts, average difficulty: +0 (see specific skill)
+</QUOTE>
+
+Q: What about those DVF skills that Paladins have but don't have as gifts ?
+Are they treated as Third Power as well ?
+
+
+
+
+
+I havew a long set of questions and comments and pilosophising 
+about the last two ppowers but no time.
+
+
+
+Maybe later.,
+
+

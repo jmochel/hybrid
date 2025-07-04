@@ -1,0 +1,136 @@
+/*
+    $Header: h:\\Repository/jacl/java/src/metamodel/RecursiveClassDump.java,v 1.2 1999/07/28 03:56:01 jmochel Exp $
+
+    $Copyright:$
+*/
+
+
+package jacl.metamodel;
+
+// Standard Imports
+
+import java.io.Serializable;
+import java.lang.StringBuffer;
+import java.lang.Class;
+import java.lang.reflect.*;
+// Other Imports
+
+// JACL Imports
+
+import jacl.util.hash.PearsonsHash;
+
+// Application Imports
+
+/**
+    
+
+    @author Jim Jackl-Mochel
+    @author $Author: jmochel $
+    @version $Revision: 1.2 $
+
+    @see TypeUnitTest
+*/
+
+public class RecursiveClassDump
+    implements Serializable,Cloneable
+{
+    /**
+        Empty Constructor
+    */
+
+    public RecursiveClassDump()
+    {
+        _Class = null;
+    }
+
+    /**
+        Full Parameter Constructor
+
+        @param  name   The String[] to be <???>
+
+        @see <???>
+    */
+
+    public RecursiveClassDump(Object obj)
+    {
+        this();
+        
+        _Object = obj;
+        
+        _Class = _Object.getClass();
+    }
+    
+    
+    public String toString()
+    {
+        return toString(_Object, 0);
+    }
+    
+    public String toString(Object obj, int lvl)
+    {
+        StringBuffer   bfr = new StringBuffer();
+        StringBuffer   indentBfr = new StringBuffer();
+        Class           currClass = null;
+        Field[]         fields = null;
+        Object          currObject = null;
+
+        // Set up
+        
+        currClass = obj.getClass();
+        
+        fields = currClass.getDeclaredFields();       
+        currObject = obj;
+        
+        
+        // Populate the indent buffer
+        
+        for ( int i = 0; i < lvl; i++ )
+        {
+            indentBfr.append("\t");
+        }
+        
+        // Inspect the current object for its fields
+        
+        for ( int j = 0; j < fields.length; j++ )
+        {
+            Object memberObj = null;
+            Class memberClass = null;
+            Field[] memberClassFields = null;
+            
+            // Get the value of this field into the current object
+            
+            try 
+            {
+                memberObj = fields[j].get(currObject);
+            }
+            catch (IllegalAccessException illegalAccessError)
+            {
+                throw new RuntimeException("Unable to get the value for field " + fields[j].getName());
+            }
+        
+            // Look at the object if it has fields, pass it on down.
+            
+            memberClass = memberObj.getClass();
+            
+            memberClassFields = memberClass.getDeclaredFields();
+            
+            if (memberClassFields.length != 0 )
+            {
+                toString(memberObj, lvl+1);
+            }
+            else 
+            {
+                bfr.append("\n");
+                bfr.append(indentBfr);
+                
+                bfr.append(memberObj);
+            }
+        }
+   
+        return(bfr.toString());
+    }
+   
+
+    private Class  _Class;
+    private Object  _Object;
+}

@@ -1,0 +1,62 @@
+.Name KERKAJAMEN
+.Title THE HERMIT					
+.Race HUMAN
+.Culture Mimbrate
+.PST 15
+.PEN 16		
+.DEX 15
+.PAG 15		
+.PAW 14
+.MST 18		
+.MEN 17
+.PSI 14
+.MAG 16
+.MAW 20
+.HT 5'8"
+.WT 160		 
+.AGE 47
+.BeginDesc
+SHORTER WITH SHAVEN HEAD AND DARK BEARD. HAIRY ALL OVER WITH DARK
+BROWN EYES AND BROWN, WEATHERED SKIN. USUALLY NEATLY ROBED IN ROUGH BUT CLEAN
+HOMESPUN.
+.EndDesc
+.BeginSkills
+Weapon:Grapple, 20
+Weapon:Throw, 16
+Weapon:Grapple Hold, 16
+Weapon:Dodge, 10
+Weapon:Staff, 10
+Weapon:LongSword, 30
+Falling, 7
+Physical Defense, 12
+Meditation, 25
+Perception:Auditory, 12
+Perception:Tactile, 12
+Leap to Feet, 10
+Cooking, 8
+Movement:Running, 18
+Movement:Swimming, 12
+Movement:Diving, 7
+.EndSkills
+.Locale KASAN MOUNTAIN REGION
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+Veratrice, Shilim, Lysandera
+.EndFriends
+.BeginComment
+A MASTER OF CHEARAS AND FROM ON HIGH. Once the greatest champion of 
+the Church of Sif. HE HAS LITTLETO DO NOW WITH THE CHURCH OF SIF.
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

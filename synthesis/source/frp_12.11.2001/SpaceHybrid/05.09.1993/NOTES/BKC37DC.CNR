@@ -1,0 +1,106 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206151218.181;
+          06 Dec 91 15:12:59 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206151218.181;
+          06 Dec 91 15:12:48 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02385; Fri, 6 Dec 91 15:14:05 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA12535; Fri, 6 Dec 91 14:55:59 -0500
+Message-Id: <9112061955.AA12535@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2986; Fri, 06 Dec 91 14:54:58 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 8271;
+ Fri, 06 Dec 91 14:54:56 EST
+Date:         Fri, 6 Dec 1991 14:52:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: REITZ_PA%CTSTATEU.BITNET@uga.cc.uga.edu
+Subject:      Re: Game Designing
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+>1. Basis
+>
+>Everything should be broken down to the most simple level.  Avoid grouping
+>several similar attributes under one larger heading.  Break them down to a
+>basis level.
+
+    I agee here to a point. Dexterity for example usually cover physhical
+grace, full body co-ordination, eye-hand co-ordination, and reflex speed.
+Intelligence usually covers memory, learning, etc etc. My point being that you
+can easily overdue it with stats (DM:" Roll your Breathing Strength Bob" " Which
+page is that on again?"). The best idea, I think, is to only use stats that are
+actually going to get rolled or checked against with any frequency.  For
+example in converting the StarWars system to a Fantasy Setting I ditched the
+Mechanical skill, it still covered Horse riding by really how many times in an
+adventure is one likely to make a horse riding check.  Vampire: The Masquerade
+has a good system for stats by the way in that it lists 3 sets of stats
+(Physical, Social, and Mental) breaks them down into 3 stats per catergory and
+then lets you specialize in a stat (for example your intelligence may be of the
+Creative variety). This allows a wide difference in what "stats" players may
+have with only a few real stats to worry about.
+
+
+>2. Unification
+>
+>Statistics should apply equally to player characters, non-player characters,
+>monsters, vehicles, and so on.  Create universal scales for attributes, and put
+>the PCs on those scales.
+
+    The idea of multiple scales is perhaps a better idea here. Any system that
+tries to rank the I-move-a-planet-cause-I-feel-like-it Superman with a crippled
+Call of Cthulu character is deluding itself (yeah the Investigator has a
+strength of 5 and Superman has a strenth of 250,965,750,400,843.2 and really
+there's a dice method to handle this).
+    Star Wars has a really workable idea here that involves giving things
+(literally) different scales. In it characters may have a 4 dice blaster and a
+star ship may have a 4 dice blaster but because a starship is 4 scales higher
+than the character the handgun will (most likely) not even scratch the paint
+who the starship cannon will might only vaporize the character if it rolls
+poorly.  The way it works is that you Cap out the dice so that against things
+of a higher scale higher dice rolls don't mean anything (for example a die cap
+of 4 means that any die that comes up over 4 doesn't count). Conversely if you
+get hit by the starship it's damage isn't capped, your strenth to resist is.
+
+>3. Skill-based
+>
+>Avoid the concept of classes, or archetypes.  Allow players to create
+>characters through the choice of skills and knowledge.  All of the other game
+>systems should tie into the skill system (combat and magic should be
+>skill-based).
+
+    Skill systems can be fun (I like Gurps and Champs too) but classes and
+archteypes have their place to in that they give every character a role (or to
+phrase that better an important role) to play in the story. In AD&D for example
+the cleric enjoys the role of being the only one who can heal the party, the
+Fighter enjoys the benifit of being the parties combat base, the one they'll
+all fall back when their spells run dry etc etc.
+    The best idea is probably a skill based system that favors classes but
+allows you to make whatever you want if you really want to. In other words if
+you really want to be that Sword weilding, Pocket Picking Mage you can but you
+won't get the benifits of a "package deal" for it.
+
+4. Modularity
+
+   Modularity is good, so speaks the computer science student (me) who has had
+that beat into his head for the past 4 years.
+
+5. Scalability
+
+   Also good.
+
+
+6. Efficiency
+
+   See 5.
+
+7. Clarity
+
+   A really important point this one is (Yoda speak). Nothing is perhaps more
+important than example that highlight or explain tricky parts of the rules. If
+you want a guide on how *NOT* to use examples read ShadowRun.  Anything that
+might be confusing should be explained in an example and an extended (read 4 or
+5 pages at least, 8 or 9 would be better) sample of game play should be
+included.
+
+-Pat

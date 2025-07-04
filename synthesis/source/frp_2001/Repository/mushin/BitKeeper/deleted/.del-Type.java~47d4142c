@@ -1,0 +1,115 @@
+/*
+ * The contents of this file are subject to the Artistic
+ * License (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of
+ * the License at http://www.opensource.org/licenses/artistic-license.html
+ *
+ * Software distributed under the License is distributed on an "AS
+ * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * rights and limitations under the License.
+ *
+ * The Original Code is "FRP Astronomy Library".
+ *
+ * The Initial Developer of the Original Code is Jim Jackl-Mochel.
+ * Portions created by Jim Jackl-Mochel are
+ * Copyright (C) 1998, 1999, 2000 Jim Jackl-Mochel.  All
+ * Rights Reserved.
+ *
+ * Contributor(s):
+ */
+
+package mushin.frp.astronomy.stellarobject;
+
+import java.util.Vector;
+import java.util.Enumeration;
+import java.util.Collection;
+import java.util.Iterator;
+
+public class Type
+{
+    /**
+    	Tracks the current upper bound on the ordinals for the constants
+    */
+
+    private static int m_UpperBound = 0;
+
+    /**
+    	The ordinal for the given constant
+    */
+
+	public final int ordinal;
+
+	/**
+    	The text string for the constant
+    */
+
+    private String	m_TextId;
+
+	/**
+    	Constructor for creating the constants
+    */
+
+    private Type(String id)
+    {
+        this.m_TextId = id;
+        this.ordinal = this.m_UpperBound++;
+        this.m_Constants.add(this);
+    }
+
+    /**
+    	equals overload
+
+		@see java.lang.Object#equals
+    */
+
+    public boolean equals(Type other)
+    {
+        return (this.ordinal == other.ordinal);
+    }
+
+    /**
+    	toString overload
+    */
+
+    public String toString()
+    {
+        return this.m_TextId;
+    }
+
+    /**
+    	Implement the Enumeration interface
+	*/
+
+    public static Enumeration elements()
+    {
+        return m_Constants.elements();
+    }
+
+    /**
+    	Implement the Collection interface
+	*/
+
+    public static Iterator iterator()
+    {
+        return m_Constants.iterator();
+    }
+
+    /**
+    	The grouped constants (for providing the Enumeration and Collections interfaces)
+    */
+
+    private static Vector m_Constants = new Vector();
+
+    /** Constant for Single Type */
+
+    public static final Type SINGLE = new Type("Single");
+
+    /** Constant for Multiple Type */
+
+    public static final Type MULTIPLE = new Type("Multiple");
+
+    /** Constant for Double Type */
+
+    public static final Type DOUBLE = new Type("Double");
+}

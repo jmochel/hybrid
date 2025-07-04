@@ -1,0 +1,415 @@
+<characters>
+    <character status=fateless>
+        <names>
+            <nomen category=person type=usename disclosure=public>
+            The Uncatchable
+            </nomen>
+            <nomen category=person type=origin disclosure=public>
+            Katime
+            </nomen>
+        </names>        
+        <cultures>
+            <nomen category=group type=usename disclosure=public>
+            Dorean
+            </nomen>
+        </cultures>
+        <species>
+            <nomen category=group type=usename disclosure=public>
+            Human
+            </nomen>
+        </species>
+        <gender>
+        Male
+        </gender>    
+        <stats>
+            <strength></strength>
+            <constitution></constitution>
+            <dexterity></dexterity>
+            <agility></agility>
+            <build></build>
+            <aura></aura>
+            <drive></drive>
+            <discernment></discernment>
+            <intelligence></intelligence>
+        </stats>
+        <desc>
+            <physical>
+                <frame build=lithe bone=small tone=well>
+                    <desc>
+                    rangy
+                    </desc>
+                </frame>
+                <hair length=long color=black texture=fine>
+                    <style>
+                    </style>
+                    <curl>
+                    </curl>
+                    <ornamentation>
+                    Silver hair clip with a dragon
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </hair>
+                <eyes>
+                    <color>
+                    </color>
+                    <shape>
+                    </shape>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </eyes>
+                <skin>
+                    <color>
+                    </color>
+                    <texture>
+                    </texture>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </skin>
+                <facialhair>
+                    <beard>
+                    </beard>
+                    <mustache>
+                    </mustache>
+                    <eyebrow>
+                    </eyebrow>
+                    <eyelashes>
+                    </eyelashes>
+                    <desc>
+                    </desc>
+                </facialhair>
+                <ears>
+                    <size>
+                    </size>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </ears>
+                <nose>
+                    <length>
+                    </length>
+                    <form>
+                    </form>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </nose>
+                <teeth>
+                    <condition>
+                    </condition>
+                    <color>
+                    </color>
+                    <conformation>
+                    </conformation>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </teeth>
+                <idmarks>
+                    <mark type=birthmark>
+                        A small three pointed star on the back of the neck.
+                    </mark>
+                    <mark type=scar>
+                        Long thin scar acroos the stomach.
+                    </mark>
+                </idmarks>
+                <voice type=tenor volume=low clarity=clear>
+                    <habits>
+                    </habits>
+                    <desc>
+                    </desc>
+                </voice>
+                <clothing weight=light worth=expensive age=new>
+                    Light blue silks.
+                </clothing>
+            </physical>
+            <psychological>
+                <personalkeynote>
+                </personalkeynote>
+                <socialkeynote>
+                </socialkeynote>
+                <energy>
+                </energy>
+                <bearing>
+                </bearing>
+                <mannerisms>
+                </mannerisms>
+                <humor>
+                </humor>
+                <senseofself>
+                </senseofself>
+                <sexappeal>
+                </sexappeal>
+                <sexdrive>
+                </sexdrive>
+                <logicparadigm>
+                </logicparadigm>
+            </psychological>
+        </desc>
+        <skills>
+            <skill factor=AGF rank=6>
+                <name>
+                Defense
+                </name>
+            </skill>
+            <skill factor=AGF rank=1>
+                <name>
+                Defense
+                </name>
+            </skill>        
+        </skills>
+    
+        <possessions>
+            <possession>
+            </possession>
+        </possessions>
+        <associations>
+        </associations>
+        <history>
+        </history>
+        <status>
+        </status>
+        <commentary>
+        </commentary>
+        <summary>
+        Katime is the bastard son of an inn keeper and a serving wench in Marden.
+        </summary>
+    </character>
+
+
+    <character>
+        <names>
+            <nomen category=person type=alias disclosure=public>
+            
+            </nomen>
+            <nomen category=person type=origin disclosure=public>
+            Astapoveh
+            </nomen>
+        </names>        
+        <cultures>
+            <nomen category=group type=usename disclosure=public>
+            Dorean
+            </nomen>
+        </cultures>
+        <species>
+            <nomen category=group type=usename disclosure=public>
+            Human
+            </nomen>
+        </species>
+        <gender>
+        Male
+        </gender>    
+        <stats>
+            <strength></strength>
+            <constitution></constitution>
+            <dexterity></dexterity>
+            <agility></agility>
+            <build></build>
+            <aura></aura>
+            <drive></drive>
+            <discernment></discernment>
+            <intelligence></intelligence>
+        </stats>
+        <desc>
+            <physical>
+                <frame build=lithe bone=small tone=well>
+                    <desc>
+                    rangy
+                    </desc>
+                </frame>
+                <hair length=long color=black texture=fine>
+                    <style>
+                    </style>
+                    <curl>
+                    </curl>
+                    <ornamentation>
+                    Silver hair clip with a dragon
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </hair>
+                <eyes>
+                    <color>
+                    </color>
+                    <shape>
+                    </shape>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </eyes>
+                <skin>
+                    <color>
+                    </color>
+                    <texture>
+                    </texture>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </skin>
+                <facialhair>
+                    <beard>
+                    </beard>
+                    <mustache>
+                    </mustache>
+                    <eyebrow>
+                    </eyebrow>
+                    <eyelashes>
+                    </eyelashes>
+                    <desc>
+                    </desc>
+                </facialhair>
+                <ears>
+                    <size>
+                    </size>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </ears>
+                <nose>
+                    <length>
+                    </length>
+                    <form>
+                    </form>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </nose>
+                <teeth>
+                    <condition>
+                    </condition>
+                    <color>
+                    </color>
+                    <conformation>
+                    </conformation>
+                    <ornamentation>
+                    </ornamentation>
+                    <desc>
+                    </desc>
+                </teeth>
+                <idmarks>
+                    <mark type=birthmark>
+                        A small three pointed star on the back of the neck.
+                    </mark>
+                    <mark type=scar>
+                        Long thin scar acroos the stomach.
+                    </mark>
+                </idmarks>
+                <voice type=tenor volume=low clarity=clear>
+                    <habits>
+                    </habits>
+                    <desc>
+                    </desc>
+                </voice>
+                <clothing weight=light worth=expensive age=new>
+                    Light blue silks.
+                </clothing>
+            </physical>
+            <psychological>
+                <personalkeynote>
+                </personalkeynote>
+                <socialkeynote>
+                </socialkeynote>
+                <energy>
+                </energy>
+                <bearing>
+                </bearing>
+                <mannerisms>
+                </mannerisms>
+                <humor>
+                </humor>
+                <senseofself>
+                </senseofself>
+                <sexappeal>
+                </sexappeal>
+                <sexdrive>
+                </sexdrive>
+                <logicparadigm>
+                </logicparadigm>
+            </psychological>
+        </desc>
+        <skills>
+            <skill factor=AGF rank=6>
+                <name>
+                Defense
+                </name>
+            </skill>
+            <skill factor=AGF rank=1>
+                <name>
+                Defense
+                </name>
+            </skill>        
+        </skills>
+    
+        <possessions>
+            <possession>
+            </possession>
+        </possessions>
+        <associations>
+        </associations>
+        <history>
+        </history>
+        <status>
+        </status>
+        <commentary>
+        </commentary>
+        <summary>
+        Katime is the bastard son of an inn keeper and a serving wench in Marden.
+        </summary>
+    </character>
+
+
+</characters>
+
+
+! - The Leader(s)
+* - The Fateless
+~ - Near Fateless
+
+Night Group (6)
+~   Na-Kor  --  Needs good story (Power Crystal,Evoker)
+*  (crippled) Retired Dissenta  (He is Not, at least to the sight) Needs good story 
+*   Dorean Katime the uncatchable - Thief with Style, wielding spell breaker
+~   Pentarran Priestess of Diana 
+    Githdani
+    Ikaru Warrior
+    
+Unseen,Unheard (6)
+*   (F) Dragon Born,Dragon Saved --  Needs really good story, Illusionist,Staff Wielder
+~   Rhizak Nomad, Non-Corporeal,Reincarnate Attendant Spirit (outcast, accursed)
+    Wolf-Were
+!*  Twins - Mage/Fighter (One Thought, One Heart, One Soul) 
+~   Knight of the Flaming Sword (the order of the Cloak)
+
+The Driven (8)
+!~  Whole Squad of vengeance seeking Monks (5) (Elemental Sorceries,Willworking)
+*   Cetanean, Women seeking Husband.
+    Dal Kan Ninja (AntiWarder, Antidiviner, AntiBinder)
+*   Thor's Child (Daughter) (Storm Mage, Electromancy)
+
+Crystal Dance (7)
+!   Danza: Gypsies - Sambo, Rape victim, Linda Hamilton style, Intense will, Leader
+*   Unicorn  --  Needs really good story 
+~   Wolf - Story Teller, Sage (Oral History, Edietic memory)
+~   Elf - Taliesins Ranger ? Light magery
+    Tolnian - Divination (Seeing, Communing, Prophesy)
+*   Frankish Bard - Enchantment (Soft)
+*   Frankish Warrior (Battle Axe Sword Dancer)
+    
+The Eyes (6)
+*   Kymri - Illenar Shaft, Mystic (Prophecy)
+*   Dwarf = Earth Priest,Berserker (One Blue Eye) (Mad Prophet?)
+~   Venn Sentinel (By Way of Bengali)
+!*  Little Old Lady (Gifted and needed, Healer, Patterner)
+*   Tantir - Guardsmen of Tantir (?) (Timelost ?) (Gradually learning why )
+    Du Shau Sun-Warrior

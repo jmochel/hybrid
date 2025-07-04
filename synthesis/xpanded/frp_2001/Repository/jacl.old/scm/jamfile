@@ -1,0 +1,35 @@
+# Top Level Jamfile for JACL
+#
+# $Author $
+# $Date $
+#
+
+
+# Project specific, platform dependent 
+# If the user has not specified a networked build 
+# go with the system defaults.
+
+ECHO Collecting information on the sub-builds to be done ;
+
+SubInclude TOP src bstrutil ;
+SubInclude TOP src cmdline ;
+SubInclude TOP src cbmgr ;
+SubInclude TOP src date ;
+SubInclude TOP src mctrie ;
+SubInclude TOP src rprtr ;
+SubInclude TOP src stream ;
+SubInclude TOP src util ;
+
+# Project specific, platform dependent 
+# If the user has not specified a networked build 
+# go with the system defaults.
+
+switch $(TARGETOS) 
+{
+	case W32 : 
+            SubInclude TOP src stream w32 ;
+
+	case UNX :
+            SubInclude TOP src stream unx ;
+}
+

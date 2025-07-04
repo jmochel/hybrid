@@ -1,0 +1,13 @@
+% FILE Mental Condition Modifiers Table
+% REF 
+
+\begin{stable}{Mental Condition Modifiers}{ll}
+	Situation			& DF Modifier	\\
+\TableSubtitleRule
+	Out of MEX 			& -4 mental 	\\
+	Out of MEX			& -2 physical	\\
+	25\% wounded in MBD & -2 Mental		\\
+	25\% wounded in MBD	& -1 Physical 	\\
+	50\% wounded in MBD & -4 Mental		\\
+	50\% wounded in MBD & -2 Physical	\\
+\end{stable}

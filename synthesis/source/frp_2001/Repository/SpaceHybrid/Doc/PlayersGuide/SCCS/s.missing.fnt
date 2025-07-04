@@ -1,0 +1,46 @@
+h00834
+s 00018/00000/00000
+d D 1.1 99/12/02 15:46:16 jmochel 2 1
+cC
+cK27453
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:46:12 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/missing.fnt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44917
+cPDoc/PlayersGuide/missing.fnt
+cReb4785435cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+needfont 199 cmbx10
+needfont 239 cmbx10
+needfont 138 cmbx10
+needfont 96 cmbx12
+needfont 96 cmtt10
+needfont 96 cmbx10
+needfont 96 cmsl10
+needfont 96 cmti10
+needfont 96 cmsy10
+needfont 96 cmmi10
+needfont 96 cmr10
+needfont 96 cmti9
+needfont 96 cmsy9
+needfont 96 cmr9
+needfont 96 cmr8
+needfont 96 cmmi7
+needfont 96 cmr7
+needfont 96 cmr6
+E 2
+I 1
+E 1

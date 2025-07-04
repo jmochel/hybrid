@@ -1,0 +1,35 @@
+h07647
+s 00007/00000/00000
+d D 1.1 99/11/17 12:57:27 jmochel 2 1
+cC
+cK35655
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:57:23 jmochel 1 0
+c BitKeeper file e:/jacl/support/ds/treadmill.ds
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45376
+cPsupport/ds/treadmill.ds
+cR2f93d7535cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+|| A whole slew of classes for short tour testing
+
+treadmill == ( className:String, class:Class, operations:OperationArray, argLists:Hashtable  );
+argTypeRange == ( type:String, typeClass:Class, values:ObjectArray );
+argList == ( args:ObjectArray, argCount:int );
+argDataSet == ( argLists:operationArgListArray, argListCount:int );
+operation == ( name:String, method:Method, returnValue:Object );
+E 2
+I 1
+E 1

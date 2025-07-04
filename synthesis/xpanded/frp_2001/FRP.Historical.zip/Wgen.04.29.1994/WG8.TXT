@@ -1,0 +1,148 @@
+WHEN INVE?TING NEW CREATURES, THE G?! SHOULD ???????. VARIATIONS FROM EARTH-
+NORM?L CR??TURES.   Some discretion must, of course, be used.  A flying
+hippopotamus is most unlikely, unless strong magic is involved.  On the other
+hand, a giant herbivorous snake is quite possible.  While Earth has no plant-
+eating snakes,  there are many large lizards that subsist partially or entirely
+on plants.  There seems to be no good reason why a snake could not evolve to ea
+fruit - but such a beast would be unexpected by the players and therefore add
+play value.   If a party thinks that they're killing dangerous beasts, when
+in reality they're destroying the King'? scaly ''cattle,'' they will have
+some explanations to make? Similarly, a mammalian creature might be equipped
+with poisonous fangs (or disease-bearing saliva) ,
+
+At all times,  the GM must remember that he must be able to justify, in some
+way, every beast that he creates. If it does not fit into a specific ecological
+niche,  the C?? must be able to explain what s?rt of peculiar intervention
+has allowed the creature to appear and survive.  A grass-eating snake is simply
+a large herbivore, but a three-headed dr?gon t?at eats gemstones is a joke -
+and probably a ver.: hu?gry one - ex?l?nable only in terms of powerful and
+rat??r silly ??gic.
+
+THE GM MU?T DEVELOP A DESCRIPTION OF EACH NEW CREATURE'S PERSONAIITY AND
+HABITS.  The creature's behavior and rea?tions will be determined by its
+niche and will not necessarily have any obvious relationship to its appearance.
+Therefore, players may often have to observe an animal to find out what it is
+really like. For instance, the Eusmilus looks like a pet cat but has a tiger'
+s instincts. The hypothetical herbivorous pyth6n, on the other hand, might look
+fierce - but would probably hide from a strange human. A giant ground sloth has
+tremendous claws for stripping foliage from trees; whether it 
+
+A SPECIFIC ''REACTION MODIFIER'' SHOULD BE GIVEN FOR EACH CREATURE,  TO BE USED
+IN DETERMINING ITS REACTION TO AN ENCOUNTER AS PER SECTION 64. This reaction
+modifier'?ill have two parts:  a positive or negative number, and a word.
+For inst?nce,  the modifier for thc Eusmilus might be ''-2??;  fight.' T!?is
+means that 20 is subtracted from any roll on the Reaction Table (64) ,  and
+that any bad reaction will be hostile.
+
+The reaction modifier for the snakes might be ''+10%;  flee.'' Since they are
+tame, they are likely to respond well to men; if frightened or attacked,
+they will try to escape.
+
+A creature may have more than one reaction modifiers listed. The modi?ier for a
+bear might ordinarily be ''O;  flee. ' For a mother bear with cubs it would
+be ''-40%;  fight.''
+
+In general,  the results from the Reaction Table must be ?:odified according to
+the habits and the intelligence of a creature, as well as the nature of the
+party. Reactions of ''Pleasant'' and above are not to be expected from a wild
+animal under any circumstances, unless perhaps a very high-ranking Beast Master
+is in the party.  A wild stag that react? with a roll of 01 (''enraged'')
+will not attack;  it will flee.  The ?eaction ?able result should be taken as a
+guide to the general tone of the creature's response to the human intrusion.
+The exact nature of its response must be governed by the CM's knowledge of
+its personality.
+
+The G? should also allow some modification on the Reaction T?ble,  dcpcnding on
+thc party's actions. An offer of food, aid, or money (depending on the
+creature) will give a positive modifier;  threats will give a negative modifier.
+
+When the GM is dealing with creatures drawn from real life, he? will know
+whether they are herd or pack animals. If creatures are being inv?n?ed, this is
+just another thing their creator must determine. As a rule, very large
+creatures tend to go alone, while smaller ones travel in groups. But there
+are exceptions;  elephants and blue whales move in herds, and wolverines are
+loners.
+
+Any pack or herd will have some sort of social structure. The det?ils will
+not be i:mportant in a game. However,  the leader of any group of animals
+will be a be?st with an unu?ually high strength,  ?ndnr??ce, and/or pcrception.
+The larger the group of animals,  the more formidable its leader (and
+possibly the leader's m?te) will be.
+
+THE WEAPON(S) A?D ATTACK ABILI?? OF EACH CREATURE MUST BE DEFINED. ?ost
+creatures will have only naturaI weapons: teeth, claws, hooves, etc. For each
+natural weapon, ??tablish Base Chance to hit ?nd the amount of damage done. For
+some creatures,  a Rank?-of from 1 to 3 (1 to 4 for very intellig?nt creatnres)
+may be possible with natural weapons.
+
+The higher a creature's agility,  the greater its Base Chance to hit should be.
+The larger the weapon and the stronger the creature,  the more damage should be
+done. Refer to the creatures described in Section 65 for examples.
+
+If a creature has more than one possible attacks (i.e. , teeth and hooves) it
+should be stated whether more than one attacks are possible in the same
+Pulse, and,  if so, whether there is an additional cost in Action Points.
+
+If the creature is a tool-user,  the GM may wish to list the sort of weapons
+which it favors.   Special weapons may     . be developed, or the weapons
+from the Combat Table may be used.
+
+If a creature has ? poisonous bite or sting,  it ??ill be ?ble to do d?mage out
+of proportion to thc injury actually done by the teeth or stinger. This may
+be handled in several ways. The simplest is to allow the creature an attack
+as though it were much larger. A more authentic system is given in Section 65 -
+see the descriptions of the Black Widow Spider an? Asp for two slightly
+differing ways to treat severe poison. For a less venomous creature,  the
+system given for Fire Ants may be used.
+
+It is also possible that ?he bite of a creature -especially a Scavenger - may
+lead to infection, The Base Chance for infection from an ordinary wound (see
+Section 23) is 20%.  This chance should be doubled, at a minimum,  for any bite
+from a scavenging creature. Claw injuries from a scavenger should be treated in
+the same fashion.
+
+A very large creature will ????have a ''trampling'' attack in Close Combat.
+Damage from a trample is type D, and is typically very high: +5 to +10,
+
+MONSTER DESCRIPTION SHEET
+
+For each new monster or creature he invents, the CM should fill out a sheet
+as below. This will serve both as a worksheet to insure that the creature's
+characteristics have been adeq?ately fleshed out, and as a reference sheet when
+the creature is in play.  Players may also wish to start a sheet of their own
+for 'each new creature that they encounter, as a means of organizing the
+information that they gather.
+
+The various characteristics are described in section 65. When in doubt as to
+what characteristic to assign a creature,  the GM may refer to a similar
+creature already described within section 65, and work from there.
+
+As a rule, creatures will have no talents,  skills, or magic.  Exceptions
+should be noted in all necessary detail on the record sheet. Talents, skills,
+and magic are normally the provenance of intelligent creatures, but an animal
+may occasionally have an innate ability that is the equivalent of one of these.
+Used sparingly, this improves play.
+
+Pl?yers ?nd C?!s ?re frce to make as m?ny copic? of this for? as they m?y
+require for their own use.
+
+SPECIALIZED CREATURES
+
+Certain creatures may be rare because they are highly specialized. Such
+creatures will be shown (usually with a very low frequency) on the Ecology
+Chart in their appro?riate niche. Actually, such a creature occupies a sub-
+niche and d6es not compete directly with the other species in its niche.
+Development of peculiar and specialized creatures adds a great deal of interest
+to an ecology.
+
+One example of such a specialized creature might be a ''large predator'' - a
+man-sized, aggressive lizard with a poisonous bite. It-eats only snakes,
+which are not common -thus,  the lizard?s not often seen. But, due to its bad
+temper and venomous bite,  it is widely feared. Another possibility might be
+a ''giant herbivore'' - a huge armored mammal. But its rabbitlike young are
+unarmored, and only one in a thousand sur?ives to the armor-plated stage. The
+full-grown creature can reach the tops of trees, and therefore has a food
+source available to no other beasts. Thus,  its survival as a species is
+likely, even though its reproductive rate is effectively very low.
+
+

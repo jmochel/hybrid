@@ -1,0 +1,471 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209151346.279;
+          09 Dec 91 15:15:16 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209151346.279;
+          09 Dec 91 15:14:58 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03951; Mon, 9 Dec 91 15:15:36 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01662; Mon, 9 Dec 91 15:07:00 -0500
+Message-Id: <9112092007.AA01662@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 5929; Mon, 09 Dec 91 15:02:34 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 5262;
+ Mon, 09 Dec 91 15:02:08 EST
+Date:         Mon, 9 Dec 1991 14:54:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Attributes
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Okay, people... after deleting all the header information from the Game Design
+posts since Friday, I have almost 700 lines of messages.  Egad.
+
+So bear with me if I have a lot to say in response...
+
+
+
+>From: ArkAngel <DUNN@JCVAXA.BITNET>
+>        Just a thought, but as to making an opened ended statistical system,
+>how do you think using a log based system for more powerful entities would
+>work?  [...]
+
+Well, I prefer a Difficulty Roll system, such as that of the Star Wars RPG or
+Cyberpunk 2020 (two game I know use it).  Basically, a player rolls some dice
+and adds a skill value.  If he meets or exceeds a given Difficulty number, he
+succeeds.  Difficulty numbers might be set at Easy:5, Moderate:10,
+Difficult:20, Very Difficult:30, or whatever -- depending on the system.
+
+Star Wars skills and attributes are scaled in terms of dice, like 3d6+2,
+instead of a flat number.  It's a rather ingenious way to make statistics more
+dynamic.
+
+
+
+
+From: Hades <hades@COOS.DARTMOUTH.EDU>
+
+-- Adam Dray writes --
+>
+> From: Hades <hades@COOS.DARTMOUTH.EDU>
+>
+>[Unification]
+>
+>    I think we are talking about different things. The kind of problems I
+>was talking about are those that would arise from trying to solve every
+>statistical aspect of the system with only 1 or 2 different scales. An
+>indivuidual scale might be closed or open-ended, but it would be tought to
+>resolve weapon damage on the ability score scale. I think that it is
+>important to have at least a few different rolling meathods for resolving
+>the numbers of the different scales. Some might be linear scales, and
+>others might be bell curves. There are times when both are appropriate.
+
+Can't damage be a function of, say, Physical Muscle?  Let me rewrite my
+Unification principle:
+
+Unification:  Every attempt should be made to use as few scales as possible,
+with the (unattainable?) Holy Grail of Game Design being reduction to a single
+scale.  When more than one scale is necessary, the differing scales should be
+made either co-dependent, or one scale should be the function of the other.
+
+
+>> How would you prefer to limit the frequency and power of spells or other
+>> magical effects?
+>
+>    How about slots like those for skill proficiencies (pardon my AD&D
+>vocab), and possibly a relativistic power scale that could be controlled by
+>the caster. Not necessarily spell points, but along the same lines. But I
+>definately agree that there needs to be something that allows for the
+>felxibily ot spell-point systems.
+
+Well, I have been deliberating over the problems of a good magic system for a
+year straight, so I'll post a little summary of my ideas, separately...
+
+
+
+>    Another concept that has been used is a measure of the characters
+>current stress level, or how threatening the situation at hand is when the
+>skill attmept has been made. The worse the case, the higher the reward for
+>failure.
+
+Really interesting, but is it playable?  I strive for a game with NO
+ARITHMETIC!
+
+
+>    I'n not so sure about this one. If I have learned something to a
+>certain skill level, and then fail in the attempt to utilize that skill, I
+>would just really screw-up that time. I wouldn't forget what I already
+>knew. If you want to deal with skill dropping, then set a time limit for
+>their uise based on some kind of memory/int stat. If the character doesn't
+>use the skill within this period then there is a chance that it could drop.
+
+Ah, but not all learning is productive.  We learn bad habits, bad procedures,
+and the bad learning becomes instinctive, just as good learning often does.  I
+truly believe that failures can reduce your chances of further success.
+
+Besides, it's a neat "game" concept...  =)
+
+
+>    I'm not so sure about this one, but it is doable if using the
+>open-ended/relativistic stat scale you mentioned above. Personally I don't
+>think that the diety itself needs to be described, so much as the dieties
+>belief system/religion for the character that is a follower. If you want to
+>have Avatars (tm TSR) then you might need to descibe them as PC's so that
+>they can interact appropriately.
+
+You're right.  It isn't necessary to describe divine powers in character terms,
+but that was just an example of the potential utility of such a "Unified"
+system.  Though a GM may never write up stats for Aphrodite, he may need to
+write up Helen of Troy.
+
+
+
+>> I still think that game realism should be scalable, within bounds set by the
+>> designer.  Certainly, no one who plays Toon really cares about weapon muzzle
+>> velocities.
+>
+>    True, but as you say below there are times when you don't want any
+>realism in the system. And unless you are designing a GURPS type kind of
+>game, you really don't need to worry about the scalability of realism
+>because the level (ar at least the upper bound) will be defined by the
+>flavor of the game and the genre.
+
+What I'm saying is that within limits set by the game designer, there should be
+varying levels of realism/playability, since not every playing group is alike.
+These levels should be scalable.
+
+
+
+
+From: Jason D Parker <jason@HERMES.CRAY.COM>
+
+>> But can anyone think of a dice system for resolving relativistically scaled
+>> attributes and skills?  =)
+>>
+>
+>This is indeed one of the biggest problems I've run into.  How do you
+>specify quality vs. quantity.  Often game attributes seem to mean both
+>depending on the situation.  The problem is basically this:
+>[ROCK/CON example...]
+>
+>-jason
+>jason@cray.com
+
+Dice.  Dice, dice, dice.  Always a problem.  Which dice?  How many?  What
+modifiers?  Dice are the unknown factor in every game.  Choice of dice can make
+or break any RPG system.
+
+Look at what has worked.  The trend seems to be toward the Difficulty Roll
+system.  It's a simple system, very playable.  The only trouble lies in finding
+difficulty levels that work consistently at all levels of play.
+
+
+
+
+>From: REITZ_PA@CTSTATEU.BITNET
+>
+>I agee here to a point. Dexterity for example usually cover physhical grace,
+>full body co-ordination, eye-hand co-ordination, and reflex speed. Intelligence
+>usually covers memory, learning, etc etc. My point being that you can easily
+>overdue it with stats (DM:" Roll your Breathing Strength Bob" " Which page is
+>that on again?"). The best idea, I think, is to only use stats that are
+>actually going to get rolled or checked against with any frequency.
+>[...]
+
+Yes, it's easy to overdo it.  How many stats is too many?  Eight?  Ten?
+Fifteen?  Why not have three groups (Physical, Mental, Social) of five stats
+each?  Well, it looks good on paper, but the universe doesn't always fit into
+three categories, right?
+
+
+
+>>2. Unification
+>>
+>>Statistics should apply equally to player characters, non-player characters,
+>>monsters, vehicles, and so on.  Create universal scales for attributes, and
+>>put the PCs on those scales.
+>
+>    The idea of multiple scales is perhaps a better idea here. Any system that
+>tries to rank the I-move-a-planet-cause-I-feel-like-it Superman with a crippled
+>Call of Cthulu character is deluding itself (yeah the Investigator has a
+>strength of 5 and Superman has a strenth of 250,965,750,400,843.2 and really
+>there's a dice method to handle this).
+
+Well, a Difficulty roll system would handle this very simply.  The Investigator
+rolls a d10 and adds his Strength of 5.  Superman rolls a d10 and adds his
+Strength of 250,965,750,400,843.2.  If they're arm wrestling or whatever, the
+GM simple informs the player of the Investigator that his arm is now a thick
+red paste.
+
+Now how do we handle the fractional .2 part of Superman's strength?  =)
+
+
+>    Star Wars has a really workable idea here that involves giving things
+>(literally) different scales. In it characters may have a 4 dice blaster and a
+>star ship may have a 4 dice blaster but because a starship is 4 scales higher
+>than the character the handgun will (most likely) not even scratch the paint
+>who the starship cannon will might only vaporize the character if it rolls
+>poorly.  The way it works is that you Cap out the dice so that against things
+>of a higher scale higher dice rolls don't mean anything (for example a die cap
+>of 4 means that any die that comes up over 4 doesn't count). Conversely if you
+>get hit by the starship it's damage isn't capped, your strenth to resist is.
+
+As far as I remember, Star Wars has only three scales in the whole game:
+
+	Character scale (5/10/15/20/30 Difficulty Rolls)
+	Vehicles scale (same Difficulty scale, but 1D6 on the Character
+			scale is 1 point on this scale)
+	Character Damage scale (Stunned/Wounded/Incapitated/Dead -- a failed
+			roll on the Character scale vs. Strength moves a PC
+			up one level on the Damage scale)
+
+
+
+>    Skill systems can be fun (I like Gurps and Champs too) but classes and
+>archteypes have their place to in that they give every character a role (or to
+>phrase that better an important role) to play in the story. [...]
+
+I hate "Package Deals."  They rubricize characters, every time.  Pigeonhole,
+stereotype.  Surely, the fault lies with the player with no imagination, who
+accepts the package whole-heartedly and unconditionally.  But a good game
+system should help players make the right choices!
+
+
+>    The best idea is probably a skill based system that favors classes but
+>allows you to make whatever you want if you really want to. In other words if
+>you really want to be that Sword weilding, Pocket Picking Mage you can but you
+>won't get the benifits of a "package deal" for it.
+
+Cyberpunk 2020 has such a system.  You select a Role (class); the Role you
+choose places guardrails on your skill choices, but does not prohibit you from
+any particular skill choice, other than the accursed Special Abilities.
+
+I still prefer to leave it open.  Why stamp a character from moment of
+conception with a stereotype?  Why stamp "Rogue" on a PC?  Why limit what a PC
+can learn anyway?
+
+
+
+
+>From: Greg Porter <PORTERG@VCUVAX.BITNET>
+>
+>I think this thread came up a year or two ago, and one of the big problems
+>that came up (surprisingly enough) was copyright.  I won't go into detail,
+>as I'm sure you can create your own nightmares from a system made electronic-
+>ally by dozens of people with changeable electronic addresses, and lurked on
+>by hundreds more with unknown morals on copyright infringement.  blech.
+>
+>Greg
+
+To the Net:
+
+Well, concepts aren't copyrightable (they're patentable).  Only a specific form
+of a concept can be copyrighted.  We're largely discussing concepts, and I will
+reserve the right to borrow concepts at whim (and I will give due credit, and
+probably even ask first) if I publish something.
+
+Since this is a PD net, I suggest to anyone who considers his/her ideas worthy
+of publishing to do so!  But not here; until the courts catch up with modern
+science, our ideas have little protection here.  Save your best for the printed
+page, or be ready to part with them.
+
+
+
+>From: "T.O.G. (Girardot, David)" <GIRARDOT@DICKINSN.BITNET>
+>
+>1.  Creating a universal game for the PD is a very very good idea.
+>    However, I do not think we should do it on this list.  What
+>    we should do is creat our own list, via distribution files,
+>    and find somewhere to keep our archives.
+
+Oh, I think this is a FINE place for such a project.  It's a great recruiting
+method as well.  I can deal with noise.
+
+Archives?  Talk to the GMAST-L sponsor.
+
+However, I am NOT interested in getting involved in anything as serious as a
+capital-P Project.  I can see too much potential for bickering and senseless
+deliberation.
+
+Hate to be a party pooper, but can't we just share ideas and have good time?
+Do we really need to try to invent the Ultimate RPG?
+
+Email is a LOUSY place to accomplish anything quickly.  It IS what we're stuck
+with, so let's not push the medium too far.
+
+Another thing I have a problem with is the idea of the Universal RPG.  I *hate*
+the idea of GURPS!  Then again, I have NO URGE to role-play in a variety of
+different genres.  I'd be perfectly content with separate systems that handle
+FRP and Cyberpunk/SF *well*.
+
+I think the system that covers all genres adequately covers none of them well.
+
+
+
+>From: GU091JXR@ITHACA.BITNET
+>
+>IN regards to the concept of trying to create a universal game on-line
+>I have this to say: Neat! If we were to find some way to pool all of
+>the crteative energies on this list, I think we could create a pretty
+>good game.
+
+We *are* pooling our creative energies.  That's what the list is for!
+
+
+
+From: Jason D Parker <jason@HERMES.CRAY.COM>
+
+>a) We need to work incrementally.  Perhaps starting with a set of Attributes
+>   for game objects.  And we need to realize that we can always change thing
+>   things so we don't get hung up on choices.
+
+Point of Order!  Let's decide on a system for dice first.  I suggest:
+
+	- Use a difficulty system
+	- Keep the numbers small
+	- Keep arithmetic to naught
+	- Stick with one or two types of dice
+
+
+
+>I think this is right.  We should (probably) focus on a generic modularity
+>methodology starting with Adam's CHECKLIST document.  Identify some problems
+>that the document reveals, and begin to attack them.  If we focus on being
+>helpful and work together, then I think we can get some good ideas and
+>methods worked out.  And maybe we can even begin to form the nucleus of a
+>good game system.
+
+Okay, I admit I >included this post because I like to see my name in print. =)
+
+No, the last sentence: "the _nucleus_ of a good game system."  That's a REAL,
+REACHABLE goal.   Nucleus.  Not completed system for publication and posterity.
+Let's be realistic and small.
+
+That way, we have a direction for our discussions.
+
+
+
+>From: "T.O.G. (Girardot, David)" <GIRARDOT@DICKINSN.BITNET>
+>
+>At first glance this seems to be a pretty good idea -- but then again,
+>not.  An arbitrator would ruin the whole concept of a group-design; i.e. he
+>or she would have the final say.  I don't think I could work in a group
+>in which there was an "arbitrator".
+
+Aye.  "Arbitrator" sounds like a euphemism for Dictator.  Group Design projects
+call for a HUGE amount of maturity, teamwork, and compromise.  Compromise!
+That means giving up an idea you REALLY like when three other people don't like
+it.
+
+
+>On the other hand, net-votes simply do not work.  That was tried, and failed,
+>in the UD project.  They are too time consuming.  I think that a variation
+>of the net-votes is the way to go.  After some time kibitizing around to
+>set down some guidelines (basic concepts, etc) for the game, we should
+>each work on a module -- keeping the rest appraised of out endeavors.  If
+>other members wish to comment on someone elses ongoing work, they can --
+>using the GUIDELINES as the final arbiter of disputes.
+
+Interesting idea.  Your UD experiences are rather helpful.
+
+Before any large computing project is begun, committees are formed and
+guidelines are laid down.  It sounds tedious and time-consuming, but that's
+really what we've been doing already.  I wrote the Checklist, and you guys
+offered quality criticisms and suggested alterations.  Would someone care to
+write a revised Checklist in a less-prosaic form for use for dispute
+arbitration?
+
+It really is the first order of business.
+
+
+
+
+>From: "James 'T. Kirk' Mochel" <JIM@OAK.COM>
+>
+>    Game design is not composed of a series of design tasks easily
+>    seperable from one another the way a programming project is.
+>    The step you pass over so blithely, creating the basic concepts,
+>    is where 90% of your design work will actually be. If it is not,
+>    then each change in some portion of the rule system will cause
+>    ripples through each other component of the design. Try changing
+>    movement rules in any system that does not have a unified design
+>    concept such as AD&D(2*) without modifying the combat and spell
+>    casting sections ! Besides, I would love to see people agree on
+>    the GUIDELINES !
+
+If we make certain decisions *in advance* then these problems should not arise.
+Being a computer science student, I know the implications and importance of the
+Specification/Pre-design stages of any group project.
+
+Questions we MUST address:
+
+1.  What are trying to accomplish?  i.e., What kind of game are we creating?
+    (genre? scope?)
+
+2.  What are the separate modules of the game, and how do they interact?
+    In CS lingo, what parameters would the various systems "pass" to each
+    other?
+
+
+Guidelines?  We're well on our way to resolving them.  I didn't get a barrage
+of flames for my Checklist, so I still suggest using a Revised Checklist for
+our Guidelines.
+
+
+>From: TELLEFSENGW@HIRAMB.BITNET
+>
+>        Well, since so many people seem to be interested in putting
+>together a Public-Domain Role-Playing Game, I herewith submit my
+>proposal for Character Statistics.
+>        I won't bother to describe my reasons for choosing these, but
+>let it suffice to say that I have some...
+
+Aaagh!  Reasons are EVERYTHING.  I'm very interested in reasons.
+
+[edited for space:]
+>PHYSICAL:	MENTAL:		METAPHYSICAL:
+>
+>Strength	Reckoning	Passion
+>Constitution	Knowledge	Willpower
+>Dexterity	Instinct	Self
+
+Well, some comments.  If I never see the words "Strength," "Constitution," or
+"Dexterity" again, I'll be a very happy man.  Those old D&D stats have gotten a
+little too much publicity, and they're not even good names.
+
+I really liked some of your concepts.  Reckoning, Passion, and Self are really
+neat, but I think Passion should be left to the player.
+
+Second, you repeatedly said things like "encompasses ___, ___, and ___."  One
+of the points on the Checklist was Basis.
+
+
+With that in mind, I suggest these attributes (not "abilities"!):
+
+PHYSICAL	MENTAL		SOCIAL
+
+Muscle		Reason		Personality
+Coordination	Creativity	Appearance
+Health		Instinct	Command
+Speed		Willpower	Aura
+
+Explanations -- all attributes comply with the idea of Basis, as far as I feel
+	they should go.
+
+Muscle -- pure physical power
+Coordination -- grace and hand-eye coordination
+Health -- body's ability to repair itself
+Speed -- reflex and quickness of muscle
+
+Reason -- logical and mathematical ability
+Creativity -- ability to come up with new ideas or combine things in new ways
+Instinct -- a perceptual "sixth sense" based on minute details picked up
+		by the subconscious
+Willpower -- strength of character and mental fortitude
+
+Personality -- charm, "likeability"
+Appearance -- attractiveness (body, face, etc.)
+Command -- leadership ability
+Aura -- emanation of power, ability to command magical forces

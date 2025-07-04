@@ -1,0 +1,11 @@
+// $ANTLR 2.7.0: TemplateParser.g -> TemplateParserTokenTypes.txt$
+TemplateParser    // output token vocab name
+COMMANDBEGIN=5
+COMMANDEND=6
+EXPRESSIONLEADIN=7
+IGNORE=8
+IDENTIFIER=9
+OPENCURLY=10
+CLOSECURLY=11
+OPENPAREN=12
+CLOSEPAREN=13

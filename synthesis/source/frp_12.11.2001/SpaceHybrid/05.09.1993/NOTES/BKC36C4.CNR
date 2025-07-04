@@ -1,0 +1,48 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911211111210.423;
+          11 Dec 91 11:12:45 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911211111210.423;
+          11 Dec 91 11:12:35 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA05098; Wed, 11 Dec 91 11:14:01 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11207; Wed, 11 Dec 91 10:34:48 -0500
+Message-Id: <9112111534.AA11207@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 7423; Wed, 11 Dec 91 10:34:52 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 3376;
+ Wed, 11 Dec 91 10:34:23 EST
+Date:         Wed, 11 Dec 1991 10:32:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: TELLEFSENGW%HIRAMB.BITNET@uga.cc.uga.edu
+Subject:      RPG: Skill-based system
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+>        Is it really neccesarry to have attributes.  If we are to have a
+>skill based game why not make it all skills.  As many have pointed out
+>where do you draw the line in detail between types of atributes (ie how
+>many attributes are there really.)
+> [...]
+
+        This is the idea I favored the last time GMAST discussed a
+Public Domain RPG, but I was stymied by the problem of breaking up
+all the possible realms of ability into categories and sub-categories.
+However, I now have a Brilliant Inspiration: instead of working from the
+top down, take each skill and work from the BOTTOM UP... that is, when a
+player picks a skill he'd like to have, the GM works BACKWARDS from this to
+find how many levels there are above it. For example, the player says "I'd like
+to have Defense." So the GM says, "Well, that'd be a subset of Combat, and that
+would be a subset of Physical Ability, and that would be a subset of General
+Ability." So Defense would be a Level 4 ability.
+
+        Now the only problem is to decide point costs by level... this would be
+sort of arbitrary (as would the GM's system of classification), but I'd suggest
+either base 2 or base 3. Thus level 1 might be 128 points per skill point,
+level 2 would be 64, level 3 would be 32, level 4 would be 16, etc. (for a
+total of 8 possible levels).
+
+        I have to get to work now but I'll try to elaborate on this later...
+if anyone has any comments, by all means send 'em in.
+
+                                                        Guy T.

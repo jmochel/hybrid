@@ -1,0 +1,49 @@
+.Name Anilram
+.Title High Lord Priest				 
+.Race Hu
+.Culture
+.Aspect 
+.PST 15
+.PEN 9		
+.DEX 12
+.PAG 13		
+.PAW 14
+.MST 18		
+.MEN 14
+.PSI 20
+.MAG 14
+.MAW 14
+.HT 5'8"      
+.WT 145		 
+.AGE 80
+.BeginDesc
+ 14
+.EndDesc
+.BeginSkills
+Weapon: Dagger				, 
+.EndSkills
+.Locale Covenant
+.BeginKnownAssoc
+ Temple of Ptah
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends Onstan, Lomalar, Triand, Therim
+.EndFriends
+.BeginComment
+ Anilram is a shrewed and dangerous man. He will not let any of the oher
+churches get in the way of his work. But his pride is his one weakness. He is	
+long haired, with a flowing white beard. Blue eyes and he is missing one hand.  
+He has a simple steel cap over the stump.
+.EndComment
+.BeginPossess
+ Staff of the Magi
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

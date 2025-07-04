@@ -1,0 +1,146 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206151236.183;
+          06 Dec 91 15:13:16 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206151236.183;
+          06 Dec 91 15:13:05 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02389; Fri, 6 Dec 91 15:14:22 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11190; Fri, 6 Dec 91 14:50:01 -0500
+Message-Id: <9112061950.AA11190@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2951; Fri, 06 Dec 91 14:50:13 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 7887;
+ Fri, 06 Dec 91 14:50:12 EST
+Date:         Fri, 6 Dec 1991 14:46:52 EST
+Reply-To: hades%coos.dartmouth.edu@uga.cc.uga.edu
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Hades <hades%COOS.DARTMOUTH.EDU@uga.cc.uga.edu>
+Subject:      Re: Game Design: Checklist
+X-To:         GMAST-L%UTCVM.bitnet@dartcms1.dartmouth.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <no.id>; from "1667D876%KSUVXB.KENT.EDU@DARTCMS1.DARTMOUTH.EDU"
+              at Dec 6, 91 1:39 pm
+
+-- Adam Dray writes --
+>
+> From: Hades <hades@COOS.DARTMOUTH.EDU>
+>
+> >> 2. Unification
+> >    This is another important concept. I also think that it is important
+> >not to have too many different scales, but havin only 1 is very limiting to
+> >the system. Basically I think that it is a bad idea to base everything on
+> >the 1-100 scale and then attemtpt to fit everything to that scale.
+>
+> Nowhere do I insist upon a finite scale.  Actually, I'd prefer to have an
+> open-ended scale.  Or better yet, a relativistic scale.  Say the average
+> human characteristic is locked at 100% and judge from there.  An average
+> human would have a Muscle score of 100, and a stronger person would have
+> higher.  No limits, except those constraints put on the race/character by
+> the designer and GM.
+
+    I think we are talking about different things. The kind of problems I
+was talking about are those that would arise from trying to solve every
+statistical aspect of the system with only 1 or 2 different scales. An
+indivuidual scale might be closed or open-ended, but it would be tought to
+resolve weapon damage on the ability score scale. I think that it is
+important to have at least a few different rolling meathods for resolving
+the numbers of the different scales. Some might be linear scales, and
+others might be bell curves. There are times when both are appropriate.
+
+> But can anyone think of a dice system for resolving relativistically scaled
+> attributes and skills?  =)
+
+    I would like to see this system myself... ;->
+
+> > 3. Skill-based
+>
+> How would you prefer to limit the frequency and power of spells or other
+> magical effects?
+
+    How about slots like those for skill proficiencies (pardon my AD&D
+vocab), and possibly a relativistic power scale that could be controlled by
+the caster. Not necessarily spell points, but along the same lines. But I
+definately agree that there needs to be something that allows for the
+felxibily ot spell-point systems.
+
+> Right!  I also prefer to leave out the concept of experience points.  XP are
+> too difficult to adjudicate fairly and consistently.  I prefer to use an
+> advancement system based upon critical successes and failures.
+
+    Another concept that has been used is a measure of the characters
+current stress level, or how threatening the situation at hand is when the
+skill attmept has been made. The worse the case, the higher the reward for
+failure.
+
+> Every time a PC makes a critical success, he has the chance to improve that
+> skill or attribute by one or more points.  Ever critical failure has the
+> chance of lowering a skill or attribute.  This makes stats less, er,
+> "static."  =)
+
+    I'n not so sure about this one. If I have learned something to a
+certain skill level, and then fail in the attempt to utilize that skill, I
+would just really screw-up that time. I wouldn't forget what I already
+knew. If you want to deal with skill dropping, then set a time limit for
+their uise based on some kind of memory/int stat. If the character doesn't
+use the skill within this period then there is a chance that it could drop.
+
+> >> 4. Modularity
+>
+> Personally, I say leave the gods out of the game.  Maybe create some
+> "archetypes" for deities, much as the AD&D Complete Priests Guide does, but
+> don't make any specific pantheon part of the RPG.
+
+    The pantheon isn't necessarily part of the RPG, but if there is a
+priest type character that could be created, who would get powers from
+god-types then I feel the better thing to do is tie the religion to the
+world, and not to the game. The religion system is part of the game,
+though.
+
+> Deities should be describable in the same manner as PCs -- stats and
+> personality.  Part of the "Grand Unification Theory of Gaming."
+
+    I'm not so sure about this one, but it is doable if using the
+open-ended/relativistic stat scale you mentioned above. Personally I don't
+think that the diety itself needs to be described, so much as the dieties
+belief system/religion for the character that is a follower. If you want to
+have Avatars (tm TSR) then you might need to descibe them as PC's so that
+they can interact appropriately.
+
+> >> 5. Scalability
+>
+> Again, I never insisted upon a finite scale.  A human might generally be
+> limited to a 1-79 range, and other beings might go up into the 146 range.
+> The numbers don't matter; the system does.
+
+    Yes, but if you look at what I was saying above, this will lead to a
+limited number of different scales that can be used to resolve statistical
+situations.
+
+> >> 6. Efficiency
+>
+> The point I wanted to make is that the system should be as playable as
+> possible for as realistic as it is.  An inefficient system might be neither
+> realistic or playable...
+
+    This was partly my point as well....
+
+> I still think that game realism should be scalable, within bounds set by the
+> designer.  Certainly, no one who plays Toon really cares about weapon muzzle
+> velocities.
+
+    True, but as you say below there are times when you don't want any
+realism in the system. And unless you are designing a GURPS type kind of
+game, you really don't need to worry about the scalability of realism
+because the level (ar at least the upper bound) will be defined by the
+flavor of the game and the genre.
+
+> Interesting comments, Hades.  Let's try to keep this Design thread going!
+
+    Thanks, for the compliment. And I agree, let's keep this talk going...
+
+--
+-Hades  (Brian V. Hughes)   | "Impossible odds, mentally unbalanced foes,
+ Mac Database Administrator |  cramped quarters for a good punch-up. And
+ Cancer & Leukemia Group B  |  they say Iest has no night life!" - Cerebus
+ Dartmouth Medical School   | -Internet: hades@Coos.Dartmouth.Edu

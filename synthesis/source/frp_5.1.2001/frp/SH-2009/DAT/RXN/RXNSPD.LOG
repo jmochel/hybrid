@@ -1,0 +1,103 @@
+This is emTeX (tex386), Version 3.14159 [4b] (preloaded format=latex 96.1.10)  12 MAY 1996 14:09
+**&latex rxnspd.ltx
+(rxnspd.ltx
+LaTeX2e <1995/06/01> patch level 3
+(c:/emtex/texinput/latex2e/article.cls
+Document Class: article 1995/06/26 v1.3g Standard LaTeX document class
+(c:/emtex/texinput/latex2e/size10.clo
+File: size10.clo 1995/06/26 v1.3g Standard LaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (rxnspd.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 10--25
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 29--44
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 48--63
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 67--82
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 86--101
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 105--120
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 124--139
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 143--158
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 162--177
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 181--196
+[][] 
+ []
+
+
+Overfull \hbox (213.89308pt too wide) in paragraph at lines 200--215
+[][] 
+ []
+
+[1] [2] [3] [4] (rxnspd.aux) ) 
+Here is how much of TeX's memory you used:
+ 209 strings out of 55967
+ 1895 string characters out of 211646
+ 165012 words of memory out of 262143
+ 3118 multiletter control sequences out of 10000
+ 3640 words of font info for 14 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 23i,7n,18p,214b,225s stack positions out of 300i,100n,60p,5000b,1000s
+
+Output written on rxnspd.dvi (4 pages, 81408 bytes).

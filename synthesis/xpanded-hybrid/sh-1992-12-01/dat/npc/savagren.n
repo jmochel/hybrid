@@ -1,0 +1,46 @@
+.Name SAVAGREN
+.Title								
+.Race DEVIL
+.Culture
+.Aspect 
+.PST 15
+.PEN 18		
+.DEX 14
+.PAG 15		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'7"      
+.WT 160		 
+.AGE 
+.BeginDesc
+ 23 ABSOLUTELY GORGEOUS LIGHT SKIN,BLONDE HAIR WITH BLACK EYES AND	 
+DARK MOUTH.
+.EndDesc
+.BeginSkills
+Weapon: LONGSWORD			  , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ MASEEM SUNDERSTONE
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ AC -3 FROM BEHIND, AC2 FROM FRONT,15%/40% MAGIC RESISTANCE
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

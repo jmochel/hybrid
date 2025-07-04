@@ -1,0 +1,304 @@
+\chapter{Combat Mechanics}
+
+\section{Outline}
+
+The combat section details the types of actions that may be taken 
+while in combat. The chapter on General Play Mechanics must be 
+understood before working with the combat details.
+
+\section{Description}
+
+Combat normally occurs on a pulse by pulse basis. The process is 
+fairly simple: Determine First Reaction. For each of those reactions in 
+order determine the action or attack, the damage from the attack ( if 
+any), the secondary effects of that damage ( if any). Take a breath. 
+Continue. 
+
+\section{First Action Determination}
+
+As detailed in the chapter on General Play mechanics.
+
+\section{Attack}
+
+\subsection{Calculating Chances to Hit}
+
+The attack is assigned an Ease factor. There are a wide range of factors
+that modify an attack. All the typical modifiers for any action are 
+in effect plus some special. Melee weapons base all their attacks on PCA.
+Missile and thrown weapons base all their attacks on ACC.
+
+Mental actions performed against inanimate objects is based on FCS
+and mental attacks against an entity are based on MCA.
+
+\subsection{All out attack}
+
+A character may choose to perform an all out attack and thus gain 
+EF +2 to his attacks and lose his MDF or PDF. This is simply an
+extension to the concept of applying Total Concentration as detailed 
+in the General Play Mechanics chapter.
+
+\subsection{Called Shots}
+ 
+In any physical targeted action there is the potential to specify the 
+location of the strike. That of course entails modifiers to the 
+actions EF. Shots to the head EF -7, To the Chest -4, To the Hand -9.
+To the Arm or Leg Ef -6.
+
+\subsection{Hit Location}
+
+The target number is calculated , the roll is made. If  the attack
+is a success then the damage is applied against the armour and then
+the target.
+
+All hits are checked against the hit location table.
+
+\begin{table}[hb]
+\centering
+\caption{Hit Location}
+	\begin{tabular}{||c|l||} \hline
+	Roll          &  Location \\
+	01-06         &  Head \\
+	07-30         &  Chest \\
+	31-48         &  Abdomen \\
+	49-56         &  Groin \\
+	57-64         &  Right   Upper Leg \\
+	65-72         &  Left    Upper Leg \\
+	73-78         &  Right   Lower Leg \\
+	79-84         &  Left    Lower Leg \\
+	 85           &  Right   Foot \\
+	 86           &  Left    Foot \\
+	87-89         &  Right   Upper Arm \\
+	90-92         &  Left    Upper Arm \\
+	93-95         &  Right   Lower Arm \\
+	96-98         &  Left    Lower Arm \\
+	 99           &  Right   Hand \\
+	 100          &  Left    Hand \\     \hline
+	\end{tabular}
+\end{table}
+
+\subsection{Indirect Fire}
+
+Indirect fire (i.e. a Lob) requires an additional EF -2. 
+\footnote{does a lob get range modifiers ?}
+
+
+\section{Damage}
+
+\subsection{General Notes}
+
+All damage is calculated and then applied to the location specified 
+by the hit location table. If that area is armoured the damage is 
+first applied to that armour. Damage is then applied against the 
+appropriate type of Fatigue such as PFT or MFT and then against the 
+PBD or MBD of the entity. 
+
+If the weapon has any secondary effects suchs as knockback or radiation
+they are applied and calculated. 
+
+\subsection{Critical Damage}
+
+Any attacks that cause critical damage apply the additional damage to 
+the PBD or MBD after armour.
+
+\subsection{Types of Damage}
+
+There are several types of damage. There is Crushing, Cutting, 
+Piercing, Projectile, Laser, Energy, and explosive damage. Each one 
+is typically associated with a specific weapon type. 
+
+\subsubsection{Crushing Damage}
+
+Crushing damage is damage caused by low speed blunt weapons such as 
+a club, a staff, a fist, or a chair. 
+
+\subsubsection{Cutting Damage}
+
+Cutting damage is caused by the use of slicing or chopping motions 
+with an edge weapon. Both types of damage are lumped together into 
+one category because the protection offered by various tyupes of 
+armour is similiar for the two actions.\footnote{You are welcome 
+to argue this with me if you would like,  Xanda.}
+
+\subsubsection{Piercing Damage}
+
+Piercing damage is caused by low speed pointed objects entering the 
+body along the axis of the point. 
+
+\subsubsection{Projectile Damage}
+
+Projectile damage is caused by objects moving at high speeds. The 
+only real difference between piercing or crushing and projectile 
+damage is that the weapon moves at a high speed and imparts a
+high amount of kinetic energy to the target.
+
+\subsubsection{Laser Damage}
+
+Laser damage is caused by optical lasers. Damage caused by 
+non-optical lasing devices such as Masers and Xlasers is classified 
+as Energy damage. 
+
+\subsubsection{Energy Damage}
+
+Energy damage (abbrev. NRG) is typically associated with non-optical 
+electromagnetic weapons. The reason that all of these wavelengths are 
+associated together is that the protections for all of thenm are 
+similiar.          
+
+\subsubsection{Explosive Damage}
+
+Explosive damage is, quite logically, caused by explosions. It is 
+the result of a expanding wave front of gasses or minute particles.
+
+\subsection{Secondary effects}
+
+There are several types of secondary effects. There is knockback, 
+bleeding, and Shock.
+
+\subsubsection{Knockback}
+
+Knockback is the result of a high amount of kinetic energy being 
+imparted to the entity taking the damage. It is only necessary when 
+more than half of the entities PFT or PBD is taken away in a single 
+attack by a crushing or projectile attack and is always assocaited 
+with an explosive attack. The Knockback resistance roll is EF -1 with a
+gain of no Knockback. If failed the entity is knocked back 1 meter. 
+The stat basis is typically PST or PAG whichever is greater.
+
+\subsubsection{Bleeding}
+
+Bleeding is the result of a cutting or piercing attack that has done 
+actual PBD damage. The Bleeding resistance roll is EF4 with a target 
+of no bleeding. If failed the end result is 1 point of PFT loss to 
+bleeding per 10 pulses. The stat basis is PEN. 
+
+\subsubsection{Shock}
+
+Shock is the state brought on by massive disruption of the nervous 
+system of the entity. There are two types: Mild Shock and Major 
+shock. Mild shock is also known as being stunned. Major shock is 
+known as being unconcious. Shock secondary effects are caused by 
+taking more than 1/2 of your PBD or MBD or by specific energy weapons 
+such as Charged particle or TASER weapons. 
+
+\section{Defenses}
+
+\subsection{Passive Defense}
+
+\subsubsection{Rolling with the blow}
+
+The act of rolling with the blow involves an attempt to take the 
+allotted damage but absorb it in such a way that the normal secondary 
+effects such as stun or knockback do not take effect. The action 
+requires no time but does require that the defender be aware of the 
+attack and declare that he wishes to roll with the attack. The base 
+roll goes against PAG for physical attacks and MAG for mental 
+attacks. It adds EF +5 to the System Shock roll if any is made.
+
+\subsection{Active Defense}
+\begin{description}
+	\item[Evasion] 
+    GN = 2 * PDF in defense.
+	\item[Dodge] 
+	SB = PAG, GN = 3 * PDF in defense, 5 Pulses
+	Recovery roll is needed if a failure occurs
+	\item[Parry] 
+	The parray can be done with shield or weapon.
+	EF -2, SB = Wpn SB, GN = 2 * Wpn SB in defense, speed as per wpn.
+	EF -3 against Thrown 
+	EF -7 against Projectile
+	EF -15 against NRG
+	\item[Block] 
+	Can be done with Weapon or Shield. 
+	EF -2, SB = Wpn SB, GN = Wpn Damage in armour, speed as per wpn.
+	\item[Disarm] 
+	EF = -3, SB = Weapon SB, GN = Save against disarm, speed as per wpn..
+\end{description}
+	
+\section{Fancy Maneuvers}
+
+\begin{table}[hb]
+\centering
+\caption{Melee Combat modifiers}
+	\begin{tabular}{||l|l||} \hline
+	Spinning      &          EF -1.5 DAM 1.5* SPD 1.5* \\
+	Jumping       &          EF -2.5 DAM 1.5* SPG 1.5* \\
+	Speeding the strike &    EF -0.0 DAM inverse to SPEED  \\
+	Two Handed    &          EF -0.0 DAM 2.5* SPD 1.5  \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsection{Feint}
+
+A feint is used to distract an opponent or to trigger an opponents 
+preset actions. 
+
+The main thing to remember that a feint is, in effect, a deception 
+roll. It involves a weapon skill roll to convince the other 
+individual that an attack is being made. The feint roll takes and EF 
+of -4. All who are within range may roll a EF -3 roll to save against 
+being fooled by the feint.
+
+\section{CLose Conflict}
+
+\subsection{Outline}
+
+\subsection{Closing}
+
+Closing entails getting in to a range with the opponent that 
+precludes the use of most melee weapons.
+
+A roll is made against PCA. If the opponent is aware of the attack 
+and has a viable initiative he may actively resist the closing action 
+. To do so he must make an skill roll using a weapon or just against 
+PDF.
+
+It is treated as any other attack form and all active defenses can be 
+performed against it.
+
+Once a character has closed with an opponent he may proceed to 
+grapple, to throw, or to overbear.
+
+\subsection{Overbear}
+
+An overbear is simply performed by closing with an opponent and then 
+making a normal attack using SB=PCA. Like any other attack it may be 
+repulsed or actively countered.
+
+The gain for such an attack is to have the opponent on the ground.
+Damage for an overbear attack is simply equal to the attackers PSE.
+
+\subsection{Throw}
+
+A throw is simply performed by closing with an opponent and then 
+making a normal attack using SB=PCA. Like any other attack it may be 
+repulsed or actively countered.
+
+The gain for such an attack is to have the opponent on the ground.
+Damage for an overbear attack is simply equal to the attackers 
+PSE * 2. 
+
+EF -3.
+
+\subsection{Grapple}
+
+A grapple is simply an attempt to get a hand hold on the opponent. 
+It is like any other attack in that it may be countered normally.
+
+A successful grapple gives a EF +3 modifier to any other close combat 
+attack such as throw, overbear, and Hold.
+
+\subsection{Hold}
+
+A hold is initiated by a grapple action and the initial strength of a
+hold is given by the SN of the grapple. If the attempt to hold or 
+immobilize someone is the sole aim of the attack then the attacker 
+may choose to improve the hold by rolling again. For each attempt to 
+improve the hold the attacker may only add 1/2 of the SN of the roll. 
+No hold may be greater in strength than 5 * PST of the holder.
+The opponent may reduce the strength of a hold by the SN of any 
+grapple skill rolls he makes\footnote{Does a successful attack afect 
+an opponents initiative}.
+
+
+
+

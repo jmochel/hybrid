@@ -1,0 +1,125 @@
+.BeginNPC
+.Nomen  Origin Chok Wilder
+.Species Homo Sapiens:Terran:Prime
+.Gender Male
+.Culture Terran:NorAm:TexArkana
+.BeginStats
+.PST 15
+.PEN 16
+.DEX 16
+.PAG 16
+.PAW 14
+.MST 14
+.MEN 15
+.PSI 10
+.MAG 17
+.MAW 15
+.HT 1.95
+.WT 89 
+.AGE
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build Lean
+.Bone Big
+.Tone Good
+.Text Gangly
+.EndFrame
+
+.BeginHair
+.Length Short
+.Color Blond
+.Texture Fine
+.Style 
+.Curl Straight
+.Ornament 
+.Text Sun Bleached
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark
+
+.BeginVoice
+.Type Tenor
+.Depth
+.Clarity 
+.SpeechHabits Mush Mouth
+.Accent Terran:NorAm:TexArkana
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+.Indom	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+.Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+

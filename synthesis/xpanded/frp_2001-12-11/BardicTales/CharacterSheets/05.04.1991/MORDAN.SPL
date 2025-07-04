@@ -1,0 +1,65 @@
+.he  //The Ritual Magic of Mordanith//
+.fo  //#//
+.in 5
+.rm 80
+.nf
+.nj
+
+.ce 2
+Ritual : Mage Battery - Duraspell
+---------------------------------
+
+DIFFICULTY FACTOR   : -40
+
+MINIMUM CAST TIME   : 1 hr./(5 points of power to be stored)
+
+MINIMUM POWER COST  : 10 + (Amount of power to stored)
+
+DURATION            : 1 day/Rank  + linear decay for 1day/Rank 
+                    : + 1 day/(12-Rank) power
+
+RANGE               : 0
+
+AREA OF EFFECT      : One object
+
+PREPARATION         : This ritual requires a storage reservoir such as a
+                      block of ivory or wood, that has had a rune of power
+                      inscribed in it as well as a power binding performed
+                      on it. 
+                      
+RITUAL DESCRIPTION  
+
+     When casting this ritual the caster must choose between two types
+of power batteries : Initiation or Support.
+     An initiation power battery (type I) allows a person to store energy
+for use only in casting other rituals. Thus a type I battery of 40 power
+would contribute up to 40 points of power to the ritual as it is being
+cast. 
+     A support battery can be used in two ways. The first is as continous
+support for a spell(type II). The second is as a one time augmentation of
+a spell (type III). Both of these are usable with spell and ritual. 
+
+TYPE I    Used in casting to augment the power of a ritual. All stored
+energy must be used during casting. The battery is not affected by the
+discharge. One Half of the stored energy can be used for spells. 
+
+TYPE II   Used by a spell once during its lifetime. It supplies power to
+the spell on demand and prevents the loss of the spell until the battery
+is exhausted.
+
+TYPE III  Used by the spell once during its lifetime. The first time the
+spell or ritual is perturbed or tested the spell takes on all the power
+stored in the cell and temporarily gives the attributes of a spell of
+power X ;X being the power of the battery. The temporary augmentation of
+the spell or ritual is one shot and has no effect on the spell it is
+supplying. Thus a 10 point ward backed by a 30 point Type III cell when
+first tested would give the effect of a 30 point ward. The second testing
+of the ward would give the effects of a 10 point ward. Any attempt to
+dispel the ward will go first against the 30 point warding and if it goes
+down it still leaves the smaller 10 point ward.
+
+     The power batteries must be made from one block of material (wood or
+metal or shell). They are not destroyed in the process of use and gain a
++1 % / 20 times a ritual is successfully cast. 
+
+

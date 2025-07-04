@@ -1,0 +1,279 @@
+h01683
+s 00252/00000/00000
+d D 1.1 00/02/04 15:12:36 jmochel 2 1
+cK29248
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:12:32 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/Elves.xml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07851
+cPShapeShifters/Elves.xml
+cR84cc63795cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+The Fey are the children of Correlan. They include the Eldar and the Golden
+Ones. They are all affected by the elf-bane, the metal of earth pure Iron. 
+There are five types:
+
+Faer-Han (Grey Elves)
+
+6.5 - 8.5' tall . Light Build. Three Fingered and pointed ears.
+Large slanted eyes and eyebrows. Grey, Silver or blonde hair. Tend to
+be thinner. +5 to appearance. Pale skin.
+
+
++10 Power
++20 Vision
+Str -5
+Con -5
+Dex +3
+Agl +1
+Aura +4
+Drv -1
+Int +3
+Dsc +3
+
+All grey elves have a gift (+30 to some sorceries) and no
+weapons training.
+
+All grey elves take a d4 (HTK) from touching Iron and also take
+x2 damage from Iron weapons and must save versus willpower or be
+stunned d4+4 cts. Grey elves cannot survive on this plane for longer
+than a few weeks. They lose one point of constitution each week until
+they reach 0 constitution, at which point they die.
+
+Upon death Faer-Han fade away after five minutes and their
+spirit becomes one with Corellan. They are creatures of AIR and LIGHT
+and have no LIFE to them. DEATH spells do not affect them. The Faer-Han
+serve Corellan in all things. They are immortal. 
+
+
+
+DarHan (Droh)(Dark elves)(Punk Elves)
+
+In all things the Droh are like the Gray elves but some take on
+the appearance of dark hair, black skin, and black eyes.
+
++10 Power
++20 Vision
+Str -3
+Con -3
+Dex +1
+Agl +1
+Aura +3
+Drv -1
+Int +3
+Dsc +1
+
+All Droh have a gift(+30 to some sorcery). +10% to long sword, +5%
+to crossbow.
+
+Droh are as Faer-Han in terms of treatment of Iron and our plane. In
+sertvice they give worship to Kisoreth and the lord of Darkness. They
+are creatures of AIR and DARK and have no life to them. Hel is a Droh.
+Only forty still exist. They are immortal.
+
+
+
+Ossar-Ey (Sea Fey )
+
+4-5.5' tall. Medium Build( Never Heavy) ; Three fingered
+(webbed) Pointed, large ears. Large slanted eyes. No eyebrows, greenish
+dark hair, generally long and stiff ( Ossar ey hair dressers don't do
+perms) Greenish skin and gold scales. Gills.
+
+\begin{verbatim}
++10 Power
++20 Vision
+-10 End
+Str -1
+Con -2
+Dex +0
+Agl -1
+Aura +2
+Drv -0
+Int +2
+Dsc +0
+\end{verbatim}
+
+30 % of the Ossar-ey have gifts. +10% with harpoon, +5% Irith.
+
+Ossar-ey are as Faer-han with respect to Iron. Unlike Faer-han
+they last up to ten minutes after death. Also, every hour that they are
+out of water they lose one point of Con. When they reach 0 they die.
+This can be avoided by spending a tenth of that time doused with water.
+Ten minutes of water restores one point of Con.
+
+The Ossar-ey worship little but perhaps Correlan and Mannanon
+MacLir . They are creatures of LIGHT and WATER. They are the results of
+magical/genetic experiments by Faer-han. They are immortal to a point.
+Most Osssar-ey take the Long Path after 500 years.
+
+Quentar (High Elves)
+
+The high elves are much like humans. They have a lighter build,
+pointed ears, and slanted eyes. The eyes are blue, green, or crystal
+eyes. Hair is blonde, white, grey, silver, brown or red hair; Usually
+the hair is thin and straight.
+
+
++2 Appearance. Pale skin.
++10 Perception
+-5 end
++5 Pow
++10 vis
+Str -2
+Con -2
+Dex +2
+Agil +2
+Aur +2
+Drv -1
+Int +1
+Dsc +1.
+
+Some 30% of the Quentor have a gift. (+30 to some sorcery ).
+Quentor take but a d2 of damage upon contact with Iron and only take 1/2
+again damage from weapon strikes. Quentor are attuned to this plane.
+Upon death a Quentor will remain substantial for his or her Con in
+hours before disintegration. They are creatures of AIR and LIGHT but
+these are tinged with LIFE. They are truly aclimitized to the prime
+material plane. They have lifespans extending beyond 4 centuries.
+
+Sylvantar (Wood)
+
+The Sylvantor are short (3-4'); Of very lightbuild. Three fingered ,
+having large pointed ears. Large slanted eyes and eyebrows. Brown,
+Black, Auburn or ( occasionally) white hair. Usually they have green
+eyes though sometimes brownish black. Brownish skin. +3 App. +20
+Perception +10 Vision -5 End Str +0 Con +0 Dex +4 Agil +4 Aur +0 Drv -3
+Int -1 Dsc -1 Have sylvan gifts. (?????) +15\% Elven Bow.
+
+Sylvantor are affected by Iron as Quentor are.
+
+
+
+
+
+First Elder paused and a ripple shimmered across the assembly.
+
+Mazientir of the Sword frowned as more and more of the fifth generation
+stepped from the pattern into the meeting hall in Yris.  Yris's Conversation
+Holders filled the balconies almost to the point of having to grow them
+deeper into the Tree.  He hated being responsible for the Safe Speaking in
+this cluttered, reality-bound place on the Prime Agreement.
+
+His will expanded out to include the whole hall and as the last of the fifth
+generation that were expected stepped into the hall he sealed the Wards
+protecting the room.  He sensed no Malice, nor Danger in the minds around
+him.  He searched for and could not find any servants of the Wanderer.  Of
+course, if the Wanderer chose to be here, then he was here somewhere.
+
+He re-directed his primary view to the branch that the First Elder were
+standing on.  He was joined by several other Elders- and the young Warden -
+from the Thalionsaer family- that was sent by the Second Power to this
+Agreement to monitor and integrate and express the will of the Second Power.
+He looked at him with undisguised curiosity.   He was accelerated in
+experience far beyond his temporal range.  He de-focused and studied the
+intentions in the room and the ward as the First Elder began speaking again.
+
+"The Balance."  A stir of thoughts and concerns filled the room.  "It is...
+in question. "
+
+An audible gasp ran through the room.  Every being in the room stood still
+and directed their aura up at the First Elder.  "As you all know the beings
+of the Second Power integrated the Balance as a primary thread in the
+conversation of the Prime Agreement.  This was aligned on by all the
+Secondaries in all the Prime Agreement Verticals that are translatable from
+this Agreement."
+
+A young Quentar- one of the sixth generation- sent an interrogative pulse to
+the First Elder, he acknowledged it with a flick of thought.  "Elders- then
+how can it be in question?  There has been no unraveling, and no force has
+been generated contra to that thread!  What you are saying is impossible
+unless the Victim is about to be Released- and of that there are few signs.
+"
+
+Waves of disapproval rose at the young Quentar's rude, and hasty question.
+The First Elder frowned, but the young Warden floating by the First merely
+smiled and nodded at the young Quentar.
+
+"Nonetheless.  The Keeper of the Voice of the Secondaries reports that more
+and more it is forced to intervene, and soon it will reach its capacity to
+do so.  It has been fundamental to this agreement since before time but it
+has only become vocalized in the latest iterative transformation at the
+stilling of the Second Power 'Kratchelov'"
+
+He paused and a visual representation of the Pattern of the All-World
+appeared.  "However, with the exiling of the Shared Voice, the disruption of
+Kratchelov's servants, and the resurfacing and unbinding of many of the
+Bound Voices it is weak and its conversation threatens to submerge.  We must
+therefore take hasty, pre-emptive action to intervene.  Over the several
+years more and more of you will be trained to integrate with the Prime
+Agreement to add your voices to the Voice.  "
+
+Mazientir smiled grimly as he felt intention and purpose rise from the
+gathered Faer-Han.  Then he felt a tickle in the back of his mind, the feel
+of something slithering against the ward.  He directed his mind towards it
+just a second before he felt the Danger in doing that, and then the Fire
+Raver consumed him.
+
+***
+
+
+
+
+off the cuff answers without regard to what the GM thinks:
+ 
+The Elvish Hierarchy is a not that straightforward. The common elven world-view is something like this:
+ 
+Gray-elves (Air-Light), High-elves (Earth-Light), and Wood-elves (Air-Heads) appear to have 
+been designed directly by Correllan as they are now (OK, so some fine-tuning 
+has occurrred over time). Sea-elves appear to be the result of a Corellan 
+approved/aided change (Water in place of Air)  to Gray elves. The Golden-Ones 
+were the result of an unopposed but unsanctioned change to Fire-Earth-Light from Earth-Light
+in some High Elves. Green-Elves are the result of interbreedings between Sea-Elves and 
+other elven races (mostly high). These occur indecently often (at least 7 times in the last 
+3000 years !).
+ 
+Sorcery is the elvish common denominator. All the elves appear to be strong (instinctive) sorcery 
+users. Almost all elves use some sort of sorcery every day. Wood-Elves are the strongest natural 
+sorcerers among the elves.
+ 
+Of the more structured magics, Naming is in common use by the Faer-han and some 70-80% of High-Elves.
+With some 20-30% of High-elves using human wizardries.
+ 
+My basic take is that the early period Golden-Ones saw them using sorceries and naming, and then creating 
+some things that we would recognize as human style wizardries. They were very big into resurrecting  the 
+previous epoch's technology.
+ 
+On a side note, I visualize naming as a very broad collection of skills dealing with the relationship of 
+visualizations such as words, gestures, and materials to power patterns. A true master namer (of which 
+I think only a few exist (= Labelas, Adonai, Sylvanus)  could create a new "feature" or "verb"  in a wizardry
+power pattern by verbalizing with power. So to say that a elf is a namer delineates a broad range of 
+possibilities. They may specialize in wizardry power patterns, racial mana-genetics, or any of a set
+of skills that add/enforce structure on power. 
+ 
+This to me is one step removed from the Draconic skill of languaging which seems to control the Draconic 
+relationship to the environment via the dynamic ateration of the interface from either side. Elves typically only 
+control it from environment's side. Ugh, me elf, you are now a new power pattern. Hello power pattern , I am 
+a dragon, how would you like to communicate ?
+ 
+Jim
+ 
+
+
+Elven names are gener=tic descriptions of the way of being.
+E 2
+I 1
+E 1

@@ -1,0 +1,28 @@
+Module Notes for vehicles
+Mass & Length Conversion
+Ships Details
+Space Travel details (Several Types of Drives)
+Relationship Between HPs|Armour| Structural Points
+	Attacks against inanimate objects
+	Damage to shields
+Mainteneance of Equipment
+Battle Damage
+Encumbrance
+Knockback, Knockdown, Knockout
+Injuries, Illness, First Aid
+Falling Objects, Falling Damage
+Vacuum, Fire, Cold, Heat, Starvation, Dehydration
+Poison
+Overshooting the Mark
+Subduing
+Mounted Combat
+Vehicular Combat
+Lifting
+Generalized COmp Manipulations
+Data Analysis Rules
+MI Warning Orders/Op Orders
+Chronology
+Spray Fire, Subsequent Fire
+
+
+

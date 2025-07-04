@@ -1,0 +1,312 @@
+
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<link rel=Edit-Time-Data href="./Win2K-Internet_files/editdata.mso">
+<title>Windows 2000 Internet Services</title>
+<style><!--
+.Normal
+	{font-size:12.0pt;
+	font-family:Garamond;}
+.MsoHeader
+	{tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:Garamond;}
+.MsoBodyText
+	{border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial Narrow";}
+-->
+</style>
+</head>
+<body lang=EN-US link=blue vlink=purple class="Normal" bgcolor="#ffffff">
+<h1 align=center style='text-align:center;
+background:black'><span style='font-size:18.0pt;'>Windows 2000 Internet Services</span></h1>
+<h2 align=center style='text-align:center'>&nbsp;</h2>
+<h2 align=center style='text-align:center'><span
+style='font-size:16.0pt;'>Presented by:</span></h2>
+<h2 align=center style='text-align:center'>&nbsp;</h2>
+<div align="center">
+<table width="75%" border="1">
+    <tr> 
+      <td><img width=180 height=97
+src="./Win2K-Internet_files/image002.jpg" align=left hspace=12 v:shapes="_x0000_s1030"></td>
+      <td> 
+        <h2 align=right style='text-align:right'><span
+style='font-size:16.0pt;'>Jake Chambers</span></h2>
+        <p align=right style='text-align:right'>Director of Web Applications</p>
+      </td>
+    </tr>
+  </table>
+</div>
+<h1 align=center style='text-align:center'><span
+style='font-size:12.0pt;'>&nbsp;</span></h1>
+<h1 align=center style='text-align:center'><span
+style='font-size:12.0pt;'>&nbsp;</span><span
+style='font-size:12.0pt;font-weight:normal'>&nbsp;</span></h1>
+<div style='border:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'> 
+  <p class=MsoBodyText>This is a basic introduction to setting up and configuring 
+    Windows 2000 as an Internet server. This presentation provides a step-by-step 
+    approach to installing, configuring, and administrating a Win2K Webserver.<i></i></p>
+</div>
+<h1 align=center style='text-align:center'><span
+style='font-size:12.0pt;font-weight:normal'>&nbsp;</span></h1>
+<h1 align=center style='text-align:center'>The Kansas Research &amp; Education 
+  Network</h1>
+<p align=center style='text-align:center'><b><span style='font-size:14.0pt;font-family:
+Arial;"Times New Roman"'>Annual Representatives’ Conference</span></b></p>
+<h1 align=center style='text-align:center'><span
+style='font-weight:normal'>Central Christian College</span></h1>
+<h1 align=center style='text-align:center'><span
+style='font-weight:normal'>McPherson, Kansas</span></h1>
+<h1 align=center style='text-align:center'><span
+style='font-weight:normal'>June 12, 2000</span></h1>
+<p align=center style='text-align:center'><span
+style='font-family:Arial;"Times New Roman"'>(This presentation is available at 
+  http://www.kanren.net)</span></p>
+<span style='font-size:14.0pt;'>&nbsp;</span> <br clear=ALL>
+<h1 style='background:black'><font color="#FF0033">Preliminaries</font></h1>
+<h1>&nbsp;</h1>
+<h1>What is the difference between Win2000 Professional, Server, &amp; Advanced 
+  Server?</h1>
+<p><span>            </span>The Windows2000 product line offers three separate 
+  operating systems. <b><i>Professional</i></b> is intended to replace the familiar 
+  NT Workstation. Professional provides many security enhancements and improved 
+  internet/intranet-working features. </p>
+<p><b><i><span style='font-family:
+Arial'>Server</span></i></b><span style='font-family:Arial'> is geared to provide 
+  file and print sharing for an intranet. This version of the operating system 
+  supports 4 processors and allows for more “internetworking security” (ex. IP 
+  Restrictions). <b><i>Advanced Server</i></b> includes the same features as Server, 
+  but even more targeted for the Internet. Advanced Server was designed to provide 
+  services that will make on-line transaction processing (OLTP) and e-commerce 
+  more reliable. </span></p>
+<h1>Should I upgrade from Win98?</h1>
+<p class=MsoHeader><span>            </span>Probably not. If Win98 is your operating 
+  system of choice and provides everything you need for simple home or client 
+  use, then Win2000 is not for you. However, users running on the NT 4.0 platform 
+  should consider an upgrade.</p>
+<h1>Does Win2000 Professional provide good Internet services?</h1>
+<p class=MsoHeader><span>            </span>The answer to this question totally 
+  depends on what you are looking for. Win200 Professional is intended to be a 
+  workstation platform, not a server. Although it offers Internet services, it 
+  is not designed to handle the volume of users that Server or Advanced Server 
+  are designed to accommodate. </p>
+<p class=MsoHeader><span>            </span>This presentation was done with Professional, 
+  but there are no differences in the setup or menu structure. There are a few 
+  instances where Professional doesn’t offer a feature, but an upgrade to Server 
+  or Advanced Server will enable them. </p>
+<h1 style='background:black'><font color="#FF0033">Web Services Setup</font></h1>
+<p class=MsoHeader><i><span style='font-family:Arial'>To install:</span></i><span style='font-family:Arial'></span></p>
+<p class=MsoHeader><span>            </span>Add/Remove Programs…Add/Remove Windows 
+  Components</p>
+<p class=MsoHeader><i><span style='font-family:Arial'>To manage web services:</span></i></p>
+<p class=MsoHeader><span>            </span>Internet Services Manager (under Administrative 
+  Tools)</p>
+<h1 style='background:black'><font color="#FF0033">Creating A Website</font></h1>
+<p class=MsoHeader><span>            </span><i>Default Directory is <b>C:\Inetpub\wwwroot</b></i></p>
+<p class=MsoHeader><b><span>            </span></b><i><span
+style='font-family:Arial'>Right clicking “Default Web Site” allows administrator 
+  to specify default permissions and connection limits. </span></i></p>
+<p class=MsoHeader><i><span>            </span><b><u>NOTE:</u></b> Win2000 Professional 
+  has a limited number of connections, whereas Server and Advanced Server do not.</i></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Performance</span></u></b></p>
+<p class=MsoHeader><span>            </span><b><i>Bandwidth Throttling</i></b></p>
+<p class=MsoHeader><span
+style='font-family:Arial'>Allows administrator to limit connection bandwidth dedicated 
+  to Internet services.</span></p>
+<p class=MsoHeader><b><span>            </span><i>Process Throttling</i></b></p>
+<p class=MsoHeader><span
+style='font-family:Arial'>Allows administrator to limit CPU usage for serving 
+  web pages and executing scripts.</span></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Home Directory</span></u></b><span style='font-family:Arial'></span></p>
+<p class=MsoHeader><span>            </span><b><i>Local</i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Define local path to web space</span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Set Permissions</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Script Source</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Read</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Write</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Directory Browsing</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Logging</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Indexing</span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Application Settings</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Execution Permissions</span></p>
+<p class=MsoHeader><span style='font-family:"Courier New";
+'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>Refer to Applications section</span></i></b><span style='font-family:Arial'></span></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Redirect</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Allows specification of URL for 
+  browsers to be redirected to. View online reference for parameters.</span></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Documents</span></u></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Define the default documents to be served when accessing 
+  a folder. Common examples are index.html, default.html, etc.</span></i></b></p>
+<b><u><span style='font-size:12.0pt;font-family:Arial;
+'><br clear=all style='page-break-before:always'>
+</span></u></b> 
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Directory Security</span></u></b></p>
+<p class=MsoHeader><b><span>            </span><i>Anonymous Access</i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Enable or Disable<b><i></i></b></span></p>
+<p class=MsoHeader><span
+style='font-family:"Courier New";'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Most commonly enabled so users 
+  don’t have to log in to see content.<b><i></i></b></span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Anonymous Login<b><i></i></b></span></p>
+<p class=MsoHeader><span
+style='font-family:"Courier New";'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Can be modified to be any login. 
+  It is very important to remember that the user specified here will be the login 
+  used to retrieve content. It is best to let IIS manage this.<b><i></i></b></span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Certificates<b><i></i></b></span></p>
+<p class=MsoHeader><span
+style='font-family:"Courier New";'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><span style='font-family:Arial'>Used for security. Must first 
+  obtain certificate.<b><i></i></b></span></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>HTTP Headers</span></u></b><span style='font-family:Arial'></span></p>
+<p class=MsoHeader><span>            </span><b><i>Useful when needing to add header 
+  information to every page.</i></b></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>MIME Map</span></u></b><span style='font-family:Arial'></span></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Associates file types with server applications that 
+  execute them. For example, adding Perl script support.</span></i></b></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Custom Errors</span></u></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Contains html source for all server error messages. 
+  This section provides a convenient way to view the server error messages and 
+  modify the information the user sees when these errors occur. </span></i></b></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Server Extensions</span></u></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>This section allows administrator to specify which type 
+  of scripting support will be provided on server. Mail specifications may also 
+  be made.</span></i></b></p>
+<h1 style='background:black'><font color="#FF0033">Virtual Directories</font></h1>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>A virtual directory provides a way to reference a web 
+  space that is either local or somewhere else on the network, that is not actually 
+  in the pre-defined web space.</span></i></b></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Creating</span></u></b></p>
+<p class=MsoHeader><b><i><span>            </span></i></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Using Internet Information Services Snap-in, select 
+  Action…New…Virtual Directory and use the Wizard.</span></i></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>If using NTFS, right-click from explorer and select 
+  Sharing in Item properties.</span></i></b></p>
+<h1 style='background:black'><font color="#FF0033">Applications</font></h1>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Windows 2000 can view a defined web space as an “Application”. 
+  By default, the web services include several applications used for management 
+  and on-line help. </span></i></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>An Application is defined by viewing a home or virtual 
+  directory properties and clicking on “Configure”. </span></i></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>This is yet another way to extend the script processing 
+  capabilities of Win2000. </span></i></b></p>
+<p class=MsoHeader><b><u><span style='font-family:Arial'>Configure</span></u></b></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Application Mappings:</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>Executable: </span></i></b><span
+style='font-family:Arial'>The program that will process the script.</span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>Extension:</span></i></b><span
+style='font-family:Arial'> The extension on files that will be processed by executable.</span></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Application Options:</span></i></b></p>
+<p class=MsoHeader><b><i><span>            </span></i></b><span
+style='font-family:Arial'>Allows fine tuning of running applications.</span></p>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Application Protection:</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>Low </span></i></b><b><i><span>à</span></i></b><b><i><span
+style='font-family:Arial'> Application is executed in IIS process</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>Medium </span></i></b><b><i><span>à</span></i></b><b><i><span
+style='font-family:Arial'> Pooled execution</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><i><span style='font-family:Arial'>High </span></i></b><b><i><span>à</span></i></b><b><i><span
+style='font-family:Arial'> Isolated execution</span></i></b></p>
+<h1 style='background:black'><font color="#FF0033">Security</font></h1>
+<p class=MsoHeader><b><i><span
+style='font-family:Arial'>Here are some basic security precautions that will help 
+  ensure a secure web server:</span></i></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Use NTFS – </span></b><span
+style='font-family:Arial'>Higher security and more control<b><i></i></b></span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Review Directory Permissions 
+  –</span></b><span style='font-family:Arial'> Double check defaults. They are 
+  not always right.<b><i></i></b></span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Store Executables in a separate 
+  directory<i></i></span></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Use most secure form of authentication 
+  possible<i></i></span></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Site Certificates!<i></i></span></b></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Synchronize Web and NTFS permissions 
+  –</span></b><span style='font-family:Arial'> The most restrictive permissions 
+  will always be enforced, however, the Web and NTFS permissions should be the 
+  same!<b><i></i></b></span></p>
+<p class=MsoHeader><span style='font-family:Symbol;
+'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span></span><b><span style='font-family:Arial'>Be as restrictive as possible!<i></i></span></b></p>
+</body>
+</html>

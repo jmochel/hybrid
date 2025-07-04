@@ -1,0 +1,1069 @@
+Subject: Systems rules and Questions
+
+I haven't used this mailing alias in a while...
+
+Jeff:  I was thinking you might want to just post your conclusions 
+from the Tournament to this mailing list (the "game design" list
+from about a year ago or more!)  
+
+I have been doing some more thinking about it...
+
+I don't have reams of time but real quick:
+
+ON RANDOMNESS (focused on TL)
+
+The amount of variability in a game desides how much of the results
+are determined by player decision and skill and how much by luck.
+
+For instance, the variability in roulette is total.  Players' decisions
+and skill mean nothing there.  In chess it is exactly the opposite-
+only the skill and choice of the players are involved.  
+
+Role-playing games tend to lie somewhere in the middle.   On one end
+you have _Lost Worlds_ wher eyou only choose your actions and their ar e
+no random numbers involved... and there is basic D&D where you just
+roll to hit and between equal leveled opponents the lucky one will win.
+
+Now in combats variability(or more correctly randomness) is introduced in 
+all our systems(BT, SH, TL) in two places:
+
+To-hit rolls and in damage. 
+
+NOW... what this is all leading to-
+It is Jeff's intent to create a system whereby player tactics and decisions
+are very strong modifiers to the outcome of combats.  As such he will want
+to reduce the amount of variability as much as possible.  The more random
+the effects the less tactics mean anything.  
+
+I would suggest Jeff, that TL damage of 2d6 + MOD is too variable to give 
+tactics and combat decisions the weight you want.   The fact that sheer
+luck can mean the difference between 10 points of damage!  That is the
+equivelant of ten levels of effect- or hittng by 200!!!!!!!!!  EVry
+]few circumstances will allow tactics and character decisions to even
+broach a +100.  
+
+I do understand that the likelyhood of getting a 12 or a 2 is 1 in 36.
+But it is still more than twice the factor that even phenomenal tactics on 
+the players part can bring...  being lucky is MUCH better in TL than tactics.
+Roll init (2d6) [though in INIT skill and SPD have a tremendous impact so this 
+is IMO, fairly balanced] roll damage (2d6)... rolling a nine and a four are 
+not unlikely- and they are 5 levels of effect apart- 100%!  
+
+This isn't necessarily bad- it just may not be consistant with your(Jeff's) 
+desire to create a system where people will do tactical duels...
+
+Opinions?
+
+ON FEEDBACK (focused on all)
+
+Feedback is great- whether it is done by skill group factors, related skills, and 
+secondaries like BT or with skill group trees and related skills like TL.
+
+Having your related skills synergisticly(sic) boost each other is an important 
+component to modeling reality well...  
+
+I think it is very importanrt and I think SH should have it- but it can be 
+cumbersome and difficult.  I would be interested in people's feedback;-) on 
+how these processes work in real life(TM), and what you think
+of the models Jeff and I have in place.  
+
+ON THE IMPORTANCE OF STATS
+
+My break is almost over so quick:
+
+How can I increase the importance of stats in initial BT skills wihtout fundamnetally 
+changing the system?  
+
+DO you think that stats should be more important in skills than they presently are?
+
+Opinions?
+
+Subject: Re:  Systems rules and Questions
+
+Awesome!  A gaming forum again!
+
+On Space Hybrid:  I don't understand the system very will yet, and I don't
+know what you mean by "feedback" stats in SH.  Are they stats calculated
+from your skills that "feed back" to your skill chances?  (like level factors
+in BT?)  I do feel that skills do not do enough for you in the current SH
+layout.  In my opinion, they should be _much_ more important.
+
+On Taliesin:  I was pretty happy with the tournament.  Most of the things I
+wanted to test seemed to work pretty well.  The obvious exception to this
+is Target Modifier.  That was a patch job--a definate case of the cure being
+worse than the disease.  Not surprisingly, there is now a new formula for TM.
+
+I agree with you Alex, that the 2d6 may be too much randomness.  I was hoping
+to run the system with only d6 and d10 (just for simplicity).  I also wanted
+to have a bell curve, so I need 2 dice.  I suppose you can't have everything.
+I may well go to 2d4.  I also like the idea of having 2d minus some number.
+That way you can never count on a set amount of damage.  I would have to
+sacrifice that as well and go to a 2d_+_x format.  *sigh*
+
+I am likely to make specializations Rank x Base, rather than 3% per rank.
+This will make them a bit more attractive.  They will not get support skills,
+or act as support skills, but it will still double the percantage that thay
+add to skills for the average person (or slightly above average person :-)
+
+** I hope to have the revised tournament rules finished in a week, and I am
+looking at the 1st weekend in February for the second tourny.  What dates are
+and are not free in February (Saturdays only)?
+
+On Bardic Tales:  Since you gave me such good constructive criticism, Alex,
+I will now solve your stat problem with Bardic Tales. :-)  As I see it, stats
+are fairly important at low levels, but their contribution gets lost at
+higher levels.  If you have no PCF skills, for example, having an 18 STR 
+increases your chance to hit an opponent just about infinitely.  If you have
+a 46 PCF however, and presumably a good number of high level PCF skills,
+that extra 6% doesn't contribute very much to your 156% chance.
+
+The problem is that the stat is added as a base number.  My solution in TL 
+was to multiply it by the skill, so it is always an equal factor.  I realize
+you don't want to go to this extreme in BT, but the mechansim should be 
+similar.  Here's what I propose:
+
+Divide all the current level factors by 10.  Multiply them by the requisite
+stat.  That's it.  It is a little more math, but not too much in the grand
+scheme of BT.  Consider what it does.  The average person has a 10 stat, so
+their level factors are unchanged.  A person with a 5 stat, however, now has
+half the skill factor _at_any_skill_level_ of the average person.  Likewise,
+a person with a 15 stat will have half again the level factor.
+
+It's a pretty simple change, but I think it has the effect you want?  What
+does everyone think?
+
+                                                   -Jeff
+
+Subject: Re:  Systems rules and Questions
+
+BTW:  For any who might be confused:
+TL = Taliesin, Jeff's role-playing system
+SH = Space Hybrid, Jim Mochel's role-playing system
+BT = the best, ummmm;-), I mean Bardic Tales, Alex Jackl's role-playing system
+
+Mr TL himself says:
+
+>The problem is that the stat is added as a base number.  My solution in TL 
+>was to multiply it by the skill, so it is always an equal factor.  I realize
+>you don't want to go to this extreme in BT, but the mechansim should be 
+>similar.  Here's what I propose:
+
+>Divide all the current level factors by 10.  Multiply them by the requisite
+>stat.  That's it.  It is a little more math, but not too much in the grand
+>scheme of BT.  Consider what it does.  The average person has a 10 stat, so
+>their level factors are unchanged.  A person with a 5 stat, however, now has
+>half the skill factor _at_any_skill_level_ of the average person.  Likewise,
+>a person with a 15 stat will have half again the level factor.
+
+>It's a pretty simple change, but I think it has the effect you want? 
+
+I will comment more later but I can only say one thing that 
+immedietly comes to mind:
+
+Kay: 		153 PCF
+Mordanith:	204 SCF
+
+ACK!
+
+Alex
+
+Subject: DES: Humility
+
+I will designate all my posts related to this topic with a 
+"DES:" in the subject line.  I invite you all to do the 
+same for mail handling purposes.  I am just doing it for 
+those of us with limited mail space.
+
+Mr. SH(JIM) himself says:
+>SH Currently almost correctly models the way skills work.
+Mr. BT(ME) says:
+>BT: the best, ummmmm;-), Bardic Tales, Alex Jackl's system
+
+Wow!  It is the raw humility that we all possess about 
+ourselves and our systems that really brings tears to my 
+eyes.;-);-);-);-);-)
+
+>There is a threshold of basic compentence where the chance to
+>perform an action jumps up quickly to be followed by a long, slow, 
+>steady climb in the chance to perform an action. Speed itself 
+>grows at a faster rate and continues increasing throughout the 
+>time the skill is being learned. The difference between a high 
+>level typist's accuracy and a low level typist's accuracy is much 
+>less significant than the difference between their speeds.
+
+FOr the cynics in the crowd:  I totally agree with this.  There is a 
+lot of evidence to support this and it is one of things that has 
+constantly tempted me to make a real serious shift in BArdic Tales.  
+Wah!  I have resisted so far...
+
+BT would be more realistic with a strong stat-based portion to 
+skills- say the stat added to the level factor directly or maybe even
+the stat as a skill or double the stat... then only 5% per rank, but
+maintaining all the SPD and DAM bonuses for rank.    I have struggled
+mightily but that is a better model than a minor stat bonus plus
+10% per rank.  WAHHH!
+
+
+Subject: Re:  Systems rules and Questions
+
+     Okay, so I didn't consider the effect on secondary stats.  I still
+wouldn't give up on the idea.  I might actually divide the formulas all
+by 20, because I think they are a bit gross right now.  (As Stephen, I
+love them, but I think they are too powerful).
+     Obviously, if you make this change, you will need to tweak your
+secondary stat formulas to fit.  I still think that any arithmetic modifier
+will be lost in time and will only be a patch.  You definately need to 
+build in a multiplier to cover the effects of stats.
+
+                                                          -Jeff
+
+Subject: DES: Re:  Systems rules and Questions
+
+Jeff Hodge says:
+
+>     Okay, so I didn't consider the effect on secondary stats.  I still
+>wouldn't give up on the idea.  I might actually divide the formulas all
+>by 20, because I think they are a bit gross right now.  (As Stephen, I
+>love them, but I think they are too powerful).
+                                                   
+Divide which formulas by 20?  You have lost me here, Jeff... I can't imagine 
+any of my formulas surviving a div 20 cut!
+
+>     Obviously, if you make this change, you will need to tweak your
+>secondary stat formulas to fit.  I still think that any arithmetic modifier
+>will be lost in time and will only be a patch.  You definately need to 
+>build in a multiplier to cover the effects of stats.
+
+True- but as mentioned in the last post it isn't clear exactly how much of an 
+impact stats actually have on higher skilled individuals...  I think in REAL 
+LIFE(TM) skill does make the stat modifier dwindle...
+
+Just my thoughts...
+
+Alex
+
+
+Subject: Re:  DES: Humility
+
+     This isn't really a reply to "Humility," but I am too lazy to redefine
+my own alias file.  This message will actually be a dissertation on the
+three relationships that I think are worth modelling.  There is arguably a
+relationship between several stats, like Str and Con, Agl and Dex, and Int
+and Trenchancy or Discernment, but we all seem to have decided that these
+relationships are not worth modelling.  (I may actually make use of these in
+the Powers for super-heros, but not in the main system).
+     I would say that three relationships make up the core of stat-skill
+relationships:  Skills influence similar skills, stats influence skills, and
+skills influence stats.
+
+     Skills Affect Other Skills:  Understanding chemistry and physics will
+increase your understanding of biology.  Being a good tennis player will
+give you an edge over a racketball player of equal experience.  I think we
+all agree that skills influence eachother.  What we don't agree on is the
+mechanism.  That is because the relationships are very complex.
+     The most realistic way to model the relationship between skills would
+be to list all the possible skills, then list, one by one, how closely each
+pair of skills is related and award a bonus proportional to how closely they
+are related.  ShadowRun actually does something like that with their "Skill
+Web," but then again they only use 20 or so skills.  Try that with a
+hundred or more skills and you will get something that looks like a micro-
+chip design!
+     I have chosen a tree structure because, as I sat down to map out all
+those relationships, I found that they fell into various patterns, and 
+those patterns formed a rough tree.  Admittedly it as a very gnarled tree
+with tangled branches, but a tree nonetheless.  I think Alex has been
+finding the same thing in BT.  BT actually has a sort of tree stucture too,
+but it has been cleverly disguised. :-)  Level factors are the first branch
+point.  Then there are sister skills (3/5 minus 10%, or 4/5, etc).  Finally,
+there are general skills.  Sister skills are really like the areas of TL.
+General skills are really like the classes of TL, and level factor divisions
+are really like the fields of TL.
+     The major difference is that I have mapped out a tree structure with
+nice even branches.  Alex has chosen to use uneven branches, and he
+determines the relationship on a case by case basis.  This is definately a
+more realistic mechanism than I use in TL, but it is completely GM driven.
+Players are often in the dark as to what skills affect what other skills,
+and it is up to GM discretion, which may change week to week.  I think it 
+is a powerful method that Alex runs well, but it is not really a system--
+more like a set of guidelines.  I don't think it could ever be committed
+to paper.
+     On the other hand, Taliesin looses flexibility by forcing each skill
+into a particular slot in the tree.  I have tried to correct for this by
+using specializations (which connect skills regardless of area or field), 
+but in the end the tree system will either be less flexible or require GM
+discretion as well.  The idea is just to greatly reduce the discretion 
+needed.
+
+
+     I think I will address the other two topics in a separate post, just
+so I don't lose everything.  :-)
+
+                                                        -Jeff
+
+Subject: Re:  DES: Humility
+
+     Skill and Stat Dissertation, Part II
+
+     Stats Affect Skills:  Everybody agrees on this too, but not on the model.
+I think that stats affect skills equally at every rank.  Perhaps they are
+more important at very low levels, but the effect is not continually lost as
+skill is increased.  In my opinion, this is a problem with both BT and SH.
+     Let's take an example to the extreme, because that's usually the best
+way to test a model.  Let's take a genius and an idiot, and teach them 
+physics.  In BT, the genius will have an immediate advantage of several
+percent.  In SH (old or new) this advantage will be somewhat bigger.  In TL
+the genius will have no advantage without skill.  How well can anyone do
+physics without a skill or similar skills?  I don't know--this is tough to
+model, but I would think the genius should be better.  In this respect, TL
+needs a mechanism to deal with low levels.
+     Now lets teach them both physics for a millenium.  In TL, the genius will
+be significantly better at physics than the idiot.  In BT, at equal ranks,
+the genius would not be significantly better than the idiot, but because of
+XPM, the genius will get to higher ranks in the same amount of time.  I'm
+not sure how much difference a 10 XPM makes when your skill is rank 250, but
+at least there is some mechanism.  Of course if we are taking about someone
+with a great Agl and a klutz, the mechanism is lost.  In SH there doesn't
+seem to be any reward over time, so eventually (with in a few decimal places)
+the idiot will be as good a physicist as the genius.  I don't think that
+is reality.
+     In TL, I could easily see replacing the "ease factor" base for each
+skill with a Stat mutliple instead of a flat number.  That way, high stats
+would start as an advantage, would diminish over time, but always affect
+skills so that idiots won't catch up to geniuses.  For BT and SH, I think
+some kind of miltiplying effect from stats is needed.
+
+     Skills Affect Stats:  If you use a stat enough, it should increase,
+just like a skill.  The rate is much, much slower, but I think if you do
+enough activities that require high agility, your agility will improve.
+For this reason, I think that skills should feed back to stats.  BT does a
+good job of approximating this with level factors.  Even though they don't
+increase the actual stat, they might as well since they increase everything
+you might want to do with that stat.
+     TL does not have any mechamism to model this, and I have not seen one
+in SH.  I have just been thinking of adding a rule to TL to allow each 
+skill to contribute points toward increasing stats.  I have designed TL so
+that increasing stats is not as rare a thing as in many systems.  Each skill
+could potentially contribute its XP worth divided by 10 to its requisite 
+stat(s).
+
+
+     I guess that's enough for one sitting.  In summary, I think TL handles
+the skill-skill relationship well, the stat-skill relationship well at the
+mid levels and high end (but not the low end), and does not handle the skill
+-stat relationship.
+     BT covers the skill-skill relationship well, but requires a good and
+thorough GM.  It covers the low end of stat-skill relatively well, but loses
+out on the high end.  BT has the only system of skill-stat feedback.  I 
+think level factors are a bit broad, and too powerful, but that is just my
+tree-based opinion. :-)
+     I don't know SH very well, but it seems to be in need of a skill-skill
+and skill-stat mechanism, and I think that the stat-skill influence is lost
+at the high end.  Admittedly, characters may never see the high end because
+skills don't do very much relative to the base chance.  I am not sure that
+even 2*stat + 4*rank makes skills useful enough.
+
+
+     As always, no offense is meant, and comments are welcome.
+
+                                                      -Jeff
+
+Subject: DES: Speed and Accuracy per Rank
+
+BTW:  Given the erudite flow that can occasionally flow out 
+of our mouths (especially Jeff, Jim and I- Jeff and I especially),
+some may be concerned with volume.  Anyone currently recieving this
+distribution let me know!  I resurrected this list from the old
+list of people who were interested- if you now aren't give me a 
+ring!
+
+BTW:  Alan Hicks has joined us as he expressed interest...
+
+Now back to your regularly scheduled program...
+
+*******************************************************
+
+Mark Desmarais says:
+
+>I have problems with the typist example.  (No problem with the curve)
+>Speed vs accuracy isn't a real comparison.  You need to say accuracy 
+>for a given rate of speed to compare the two.  (Speaking in BT) If 
+>the low level typist needs to speed up his actions to keep up with 
+>the faster, his error rate is going to increase significantly.  
+>However, the high level typist (with his awesome 200% chance) can 
+>easily afford to sacrifice some accuaracy for blinding speed.  I 
+>believe that this problem is already covered by the current BT 
+>system.  
+
+Hmmm... I don't think that is quite true.  What the data seems to 
+point to is that the error rate at their "cruising speed" is the 
+same, or very close.  When the master typist slows down he does 
+not gain a proportional amount of error- so people gain more speed
+at higher levels and less "accuracy"- at least in a basic motor-function
+skill like typing.  "Never the less" the following is still true I think-
+sort of!
+
+>I do agree that the curve (steep, then gradual) is not as well 
+>modeled, but I'm not sure I'd want to assign those knee points- ie, 
+>for physical skills the knee is fairly sharp.  For something like, 
+>say, Chemistry or Engineering, I don't think the knee is as sharp- 
+>that is, I think its more of a linear slope.
+
+I am not sure- I always hated massive lore skills like Chemistry!
+The relationship between CHemistry and science is interesting...
+
+If someone has never done Chemistry at all and one learns the basic
+principles...*shrug*  I think the differnce between a RANK 5 and a RANK 0
+in CHemistry is much much much greater than the difference between a 
+RANK 5 and a RANK 10.  I am not sure I can substatiate that opinion 
+though.  Let me think about it and I owuld like to hear some other
+opinions... or maybe even some facts.
+
+Enough for today....
+
+Alex
+
+Subject: Re:  DES: Speed and Accuracy per Rank
+
+     I find the speed vs. accuracy info interesting and significant, but I
+wouldn't go so far as to say "That is reality."  I think that may be true
+for a select sub-set of skills, but not all.  For example Jim, you and I
+both have skills in biology, and I would venture (all humility aside :-)
+to say that mine is higher.  I think this does more for me than making me
+faster.  I think it allows me to do things that you cannot.  Your comment
+about speed and accuracy may even apply to all physical skills, however
+your skill system applies to _all_ skills.  Be careful not to extrapolate
+too much from your data.
+
+     Alex:  I meant divide the level factor formulas by 20, then multiply
+by the requisite stat (and tweak the secondary stats).
+     You say that "the data" shows that skills overtake the effect of
+stats.  What do you have to say about the idiot and genius physicist 
+example?  I think there is a variable missing in your analysis of the data.
+I would say that as you increase your skills, you also increase your stats.
+The reason that two people typing may close the gap in real life is that
+(oops, that was skill vs skill, not stat vs stat, nevermind).  In the
+two martial artists, for example, if one has a very low Agl and Dex, they
+will improve over time along with his skills.  This will help to close the
+gap between low stats and high stats over time.
+     Also, the typist example does not consider "stats" as far as I can
+tell.  It seems to assume that the stats are the same.  If that is the
+case, both BT and TL model this data by making it harder and harder to
+increase in rank.  A newbie will catch up with an experienced person just
+because their learning curve is steeper.
+
+     James:  I don't like the idea of dividing the amount generated by
+the dice.  It works very nicely mathematically, but I think it would be
+a bit cumbersome to do with every damage roll.
+     The idea of feedback from skills to stats doesn't necessarily defeat
+the example of the genius and idiot physicist.  Only if skills and stats
+are increased at the same rate (which they are not in TL).  Also, the 
+point of the example was to examine what happens *if the stats stay the
+same*.  In fact, I think that if anyone studied physics for a millenium,
+their effective Intel would increase a bit.
+
+     Jim:  I think that if you want to model the accuracy vs speed data,
+a success in a skill should net you a large lump sum of "success," and
+each level of effect should add a small amount to the large lump.  Each
+should also add speed, but since there is no base "lump" of speed, the
+increase will be linear as the skills increase.  That will make each skill
+level mostly increase speed, and only slightly increase effect (accuracy).
+     This is sort of what I have done with TL.  Success with a weapon or
+spell gives you a base damage or spell effect.  That is increased by 
+levels of effect.  The only difference is that I have set the contribution
+of Levels of Effect to be fairly high, because, as you pointed out,
+reality is not always fun to play.
+
+
+                                                         -Jeff
+Subject: Re: DES: Speed and Accuracy per Rank
+
+> Mark Desmarais says:
+
+He did?  I don't remember receiving it.
+
+> >I have problems with the typist example.  (No problem with the curve)
+> >Speed vs accuracy isn't a real comparison.  You need to say accuracy 
+> >for a given rate of speed to compare the two.  (Speaking in BT) If 
+> >the low level typist needs to speed up his actions to keep up with 
+> >the faster, his error rate is going to increase significantly.  
+> >However, the high level typist (with his awesome 200% chance) can 
+> >easily afford to sacrifice some accuaracy for blinding speed.  I 
+> >believe that this problem is already covered by the current BT 
+> >system.  
+
+Alex stuff deleted
+
+> >I do agree that the curve (steep, then gradual) is not as well 
+> >modeled, but I'm not sure I'd want to assign those knee points- ie, 
+> >for physical skills the knee is fairly sharp.  For something like, 
+> >say, Chemistry or Engineering, I don't think the knee is as sharp- 
+> >that is, I think its more of a linear slope.
+> 
+> 
+> I am not sure- I always hated massive lore skills like Chemistry!
+> The relationship between CHemistry and science is interesting...
+> 
+> If someone has never done Chemistry at all and one learns the basic
+> principles...*shrug*  I think the differnce between a RANK 5 and a RANK 0
+> in CHemistry is much much much greater than the difference between a 
+> RANK 5 and a RANK 10.  I am not sure I can substatiate that opinion 
+> though.  Let me think about it and I owuld like to hear some other
+> opinions... or maybe even some facts.
+
+	These comments point out one of the problems with going for
+too much realism.  Different skills should be modelled completely
+differently.  I seem to remember howls of displeasure at dinner after
+the last TL run against such taking place in BT.  Sure you could use
+a, "meta-system."  But you'll probably lose the interest of players
+and customers with the possible exception of the exclusive, "math
+weenie," clientele.
+
+				No Math Weenie Here,
+						James
+
+
+Subject: DES: From Chris
+
+Alex: Would you forward this to all in your list?
+
+Since I am currently familiar with BT and not T or SH (although when Jim
+sends me the copy of the rules that he has promised....), I will respond
+relative to BT.
+
+In regards to stats and their effects on skills, etc.:
+
+It seems to me that stats affect skills in this manner: 
+1st, the higher the stat in a particular area, the easier or faster that a
+person will accelerate in that area.  Perhaps the higher the primary stat,
+the more likely you are to increase your skill, ie. an XPM of Stat-10.  This
+would make people of lower stats advance slower and higher stats advance
+faster.  If 10 is the average stat, and since most people have some stats
+that are over the average and some that are below the average, this would
+make them increase faster for certain skills and slower for others, which
+should maintain game balance without changing the game system other than the
+XPM modifier.   NOTE: In BT each skill is only realted to one stat, eg. the
+skill of Blacksmithing is only related to the stat of INT (DSC?) although it
+really requires Strength, Dexterity, Contitution, Intelligence, and
+Discernment.  In a more complex system, the variance of each of these stats
+above or below the average would have to be factored in.
+2nd, I believe that the suggestion was made to divide the skill by 10 and
+then mutliply by the stat, thus allowing the stat a greater effect on the
+final skill.  Instead, why not retain the additive effect of the stat as a
+minor boost or hindrance to new skills, and also make use of the stat to
+create a "cap" for the skill, ie. a character with a strength stat of 7
+could raise his PCF skills no higher than Rank 7.0, one with a strenght of
+14 could raise the skill no higher than rank 14.  (the only thing that
+bothers me about this suggestion is that it reminds me of the relationship
+of stats to abilities in AD&D....)
+
+Chris
+
+Subject: DES: Speed and Accuracy
+
+Bob says:
+
+>Your claim of accuracy not improving with level in REAL LIFE seems a bit
+>improbable.  
+
+Agreed- but it isn't that it doesn't improve- rather it improves rapidly
+in the beginning and then levels off, while speed continues to grow at a 
+slower but fairly linear rate
+
+>The Typing example is much too broad of an example.
+>Typing uses the following:  Intell-spelling, Dex & Agil-accuracy w/
+>fingers, perception of item to be copied (written or verbal) AND
+>Florantine of both skills.  As we can see, the "real life" scenario looks
+>at the general skill typing; not the interaction and benifits of sister
+>skills.  **NOTE**  The only fair comparison would be between individuals
+>of similar sister skill levels, but unequal typing skill.  In this case
+>you can count the error data toward "Accuracy" and not worry about the
+>error being caused by a DEFICIENT SISTER SKILL used in the flourintine
+>action!
+
+First see my long post about breakdown of skill units.  As far as AGL
+and DEX goes that is the stat effect on the skill and is a seperate issue.
+
+The study about typing took a group of people and studied the improvement
+in their production of the result over time as they learned.
+
+SO we can speak about those results- which were that accuracy rose very 
+rapidly and then the curve flattened out and accuracy became relatively 
+standard and typng speed which had also been increasing rapidly, continued
+to increase after accuracy flattened.
+
+In your education training, Bob, ws their any discussion of cognitive skill
+types, and the way people learn on a fundamental level?  (Some courses of
+education, I imagine deal with the practical "methodology" approach
+rathe rthan the whys!  I odn't know what yours was like....) 
+
+Subject: [long but cool post] DES: The relationship for everything
+
+This is long but I think it will be interesting!
+
+--------------------------------------------------
+OH my Gawd!  What have I created!
+
+OKay... I am going to be organized about this!  
+
+I will try to address these threads without referencing too much
+of the other posts...
+
+I am going to see what threads we have here:
+
+Relationships between attributes
+	Stat-to-skill
+	Skill-to-skill
+	Skill-to-stat
+The way skills increase through learning
+The way to control randomness in TL
+Psionics in SH
+and a new one: Skill eeps?  Are they fair?
+
+This post will deal only with Relationships between attributes
+
+
+ON RELATIONSHIPS BETWEEN ATTRIBUTES
+
+>Jeff
+
+>There is arguably a
+>relationship between several stats, like Str and Con, Agl and Dex, and Int
+>and Trenchancy or Discernment, but we all seem to have decided that these
+>relationships are not worth modelling. 
+
+Agreed- the relationships exist, and I think they are not worth modelling...
+
+>     I would say that three relationships make up the core of stat-skill
+>relationships:  Skills influence similar skills, stats influence skills, and
+>skills influence stats.
+
+Agreed! 
+
+
+I. 	Skills Affect Other Skills
+	       ------ (I hate the whole effect/affect conversation!)
+
+>     Skills Affect Other Skills:  Understanding chemistry and physics will
+>increase your understanding of biology.  Being a good tennis player will
+>give you an edge over a racketball player of equal experience.  I think we
+>all agree that skills influence eachother.  What we don't agree on is the
+>mechanism.  That is because the relationships are very complex.
+
+Yes...  if anyone does not agree with this assertion- which is the basic 
+conversation of this discussion- please pipe up now!  I would love to
+hear an alternate perspective...
+
+I actually agree with everything Jeff said- my method does rely heavily on 
+GM discretion, but I have not found a way to create a skill tree or graph 
+that satisfies me...
+
+II 	Stats Affect Skills
+
+>Chris says:
+
+>NOTE: In BT each skill is only realted to one stat, eg. the
+>skill of Blacksmithing is only related to the stat of INT (DSC?) although it
+>really requires Strength, Dexterity, Contitution, Intelligence, and
+>Discernment.  In a more complex system, the variance of each of these stats
+>above or below the average would have to be factored in.
+
+This is unfortunately true.  I have not been able to come up with an elegant 
+method outside of proscribing a stat ratuio bonus for each skill.
+
+ 
+>create a "cap" for the skill, ie. a character with a strength stat of 7
+>could raise his PCF skills no higher than Rank 7.0, one with a strenght of
+>14 could raise the skill no higher than rank 14.  (the only thing that
+>bothers me about this suggestion is that it reminds me of the relationship
+>of stats to abilities in AD&D....)
+
+I just don't buy it!  I think it is an artificial mechanism that has no 
+basis in reality- as I see it.
+
+But, onward... First the BT formula for skill improvement (or how to make an eep role!):
+
+TARGET NUMBER: RANK*10 - XPM - LEVEL_FACTOR/10
+
+You must roll over the Target Number on % dice to gain .1 in RANK in the skill.  If
+you roll over it by 40(inclusive) you gain .2, by 80 .3, by 120 .4, etc. etc.
+
+In light of recent conversations the [+LEVEL_FACTOR/10] May have to be lowered 
+in effect.  BUt I am not sure.  (IT is based on the premise that the more skilled 
+you are in a field the more you can draw on alternate resources during learning.
+
+>Jeff:
+
+> Let's take a genius and an idiot, and teach them 
+>physics.  In BT, the genius will have an immediate advantage of several
+>percent.  In SH (old or new) this advantage will be somewhat bigger.  In TL
+>the genius will have no advantage without skill.  How well can anyone do
+>physics without a skill or similar skills?  I don't know--this is tough to
+>model, but I would think the genius should be better.  In this respect, TL
+>needs a mechanism to deal with low levels.
+
+I agree.. and I think Bardic Tales also needs a soup up in that department.
+I think the advanytage is more than a few percent.  
+
+>     Now lets teach them both physics for a millenium.  In TL, the genius will
+>be significantly better at physics than the idiot.  In BT, at equal ranks,
+>the genius would not be significantly better than the idiot, but because of
+>XPM, the genius will get to higher ranks in the same amount of time.  I'm
+>not sure how much difference a 10 XPM makes when your skill is rank 250, but
+>at least there is some mechanism. 
+
+A HUGE difference!    Take a look at Kay and Mordanith.  Kay has run an 
+unbelievable amount and generally gets top notch role-playing eeps.  
+MOrdanith has run maybe a quarter to POSSIBLY half of what Kay has run.
+
+Mordanith is now higher level than Kay.  Why?  Two reasons:
+1) Jim is more of a power gamer than Jack
+2) Kay has a -1 XPM and MOrdanith has a +8.  That difference REALLY starts 
+showing up between RANKS 7.0 and 10.7.  At RANK 9 and above an 8 XPM doubles
+your chance to make your eep role!  AT each transition the XPM becomes more 
+critical, and gives the "genius " more of an edge. As they approach infinity
+the gap between the genius and the moron in BT will grow and grow and grow. 
+
+>Of course if we are taking about someone
+>with a great Agl and a klutz, the mechanism is lost.  In SH there doesn't
+>seem to be any reward over time, so eventually (with in a few decimal places)
+>the idiot will be as good a physicist as the genius.  I don't think that
+>is reality.
+
+XPM affects physical skills too, Jeff.  SO an acrobat also benefits fro
+m XPM.
+If a moron manages to get a RANK 100 (and the genius does too) then I think
+they should both be able to be about equal.    HOwever we are now delving into
+the fact there are different types of skills in the real world (As JAMes 
+notes in a later post).  However James- I think we can use the same basic skill
+structure we must just be conscious of what we ar enaming certain skills.
+
+IN BT there are several skill types:
+Primary skills- a measure of success, gradiated into partial, full and 
+	critical successes
+General skills- support skills for a group of related primary skills.
+Support skills- skills which add a linear modifer to a primary skill or a
+	a stat when it is used in a particular way.(Called Shot, Endurance, etc)
+
+IN life there ar emany ways to describe skills.  If I may slip into Human 
+Factors and Cognitive Science Jargon....
+
+There are Analytical, COgnitive, Mechanical, and Perceptual skills.
+
+Analytical skills are divided into two catagories: Algorythmic and Heuristic.
+Heuristic skills are divided into Relational Analysis and Hierarchical Analysis.
+Algorythmic Analysis is broken down into Algorythmic Analysis and Arithmentic Analysis.
+
+Cognitive skills are broken into Cognitive referencing skills and Cognitive Retention skills.
+
+Mechanical skills are physical actions, usually trained by repitition.
+(typing is an example of a mechanical skill).
+
+Perceptual skills are skills that improve the speed and facility of analysis
+of perceptual input.  
+
+NOw the studies on typing are working on a Mechanical skill.  BUT what a 
+secretary usually does is use both Mechanical, COgnitive Referencing, and 
+Perceptual skills- in that she is readingCR) a letter in front of her(PER)
+and then typing(MECH) it into the keyboard.  
+
+Now a genius versus a moron in Chemistry.  Chemistry uses a lot of the skills 
+available.  In the first couple of years a CHemist learns to use their Relational 
+and their Algorythmic Analysis.  They learn the process of 
+"Chemistry".  AFter two years or so they have pretty much gotten the process 
+and their main effort is in Cognitive Retention and Referencing- they
+are building their datbase of knowledge and getting skilled at pulling the  
+right facts out at the right time.  
+
+Now- even basic skills are close to this complicated: take Long Sword.  
+LOng Sword is basically a mechanical skill.  HOWEVER, using a LONG SWord in
+combat involves a Heuristic skill which we could call Personal LOng Sword 
+Tactics.  It also involves suppressed Cognitive referencing skills to 
+produce learned series of moves like kata or combinations.  
+
+DO I think we should model all this?  NOOOOOOOOOOOO!
+However we can be infomred by it in making our decsions on which models to 
+use.  I disagree with Jame sin that our effort is wasted here because building
+a balnced game is challenging but noit impossible- what make swhat we do interesting
+(at least to me) is our striving to create a PLAYABLE and 
+REASONABLE model of reality.  
+
+What cognitive science calls "skills" is a unit of skill that is so small 
+that most skills we have in our systems are collections of a bunch of them.
+WHat I want to do is determine what is the major influence in each skill then
+classify it accordingly.  
+
+III. SKill Affect Stats
+
+>     Skills Affect Stats:  If you use a stat enough, it should increase,
+>just like a skill.  The rate is much, much slower, but I think if you do
+>enough activities that require high agility, your agility will improve.
+>For this reason, I think that skills should feed back to stats.  BT does a
+>good job of approximating this with level factors.  Even though they don't
+>increase the actual stat, they might as well since they increase everything
+>you might want to do with that stat.
+>     TL does not have any mechamism to model this, and I have not seen one
+>in SH.  I have just been thinking of adding a rule to TL to allow each 
+>skill to contribute points toward increasing stats.  I have designed TL so
+>that increasing stats is not as rare a thing as in many systems.  Each skill
+>could potentially contribute its XP worth divided by 10 to its requisite 
+>stat(s).
+
+NOW - back to the genius and the moron.  People have abasic aptitude but as 
+they gain mastery in an area they become more facile with it.  Now a 
+longswordman's STR is not, IMO going to go up as his skill with sword goes up 
+except in a very minimal not worth modeling way- but his strength and dex and 
+agility in performing the specific actions of that skill will- I know fencers
+(and I bet mark can back me up on this who are generally wimpy but have very 
+well developed right arms!  I know my DEX and AGL skyrocket the instant I move 
+into a kata or a martial arts movement that I know well- but I am still clumsy.
+I think STATS as we use them are far too broad to be affected by skills directly
+unless the skill is a stats improvement skill.  
+
+THe MORON however will gain his Chemistry muscles as he goes on and his specific 
+muscle for Chemistry will continuously grow to match his RANK.. NOw the 
+genius will grow in rank faster and so be higher rank- but at equal ranks they 
+will be almost the same- just in a millenium the genius will be much higher level.
+
+
+WHEW! 
+ 
+JAMES:   DO you see the importance for us to create a reasonable model
+ of reality?
+
+ALex
+
+More later.
+
+Subject: DES: Skill eeps,  are they fair?
+
+I and Pook had a conversation this morning on the way to work.
+It was very enlightening.  Out of it came the following
+
+****
+As of now people get an e.p. role in a skill they use in the run, two if 
+they did it a lot or very well, and three if they were extraordinary. 
+
+They get 1 - 8 e.p.s for role-play, and 1-2 e.p.s for scenario stuff
+
+Some people, if they roll for every skill they use and make a point 
+of using their skills can generate 40 - 50 rolls a run this way.
+
+Others, who play equally well, can generate only 10- 15 rolls.  
+
+This makes for as massive disparity in advancment because of a playing 
+style difference.  NOW- I am not interested in maintaining that difference. 
+I want people to have the option of not rolling their portaging skill 
+when they Portage and still advancing in it, without having to take run 
+time out to roll a non-critical roll.  
+
+
+SO... Jim mentioned a system he had dealt wiht in MIT that used 
+HARD e.p.s and SOFT e.p.s.  SOFT e.p.s could only be applied to skills that 
+you had used in the run.  HARD e.p.s could be applied anywhere.  
+
+I like this idea.... Her eis what I am proposing (remember this idea is 
+only six hours old so don't pnaic if I missed a flaw!)
+
+You tick off the skills you used in the run (deosn't matter whether you 
+critical of not).  At the end of the run I iwll give a set number of skill
+e.p.s.  They can only be applied to skills that you used, with a maximum of 
+three e.p.s per skill per run.  
+
+I was thinking the base would be 30.  IF you used your skills clevelry or 
+very effectively I would give "bonus e.p.s" for particulally clever skill 
+usage.  This, or these, bonus e.p.(s) would apply to the clever skill.  It
+would still be under the restriction of 3 e.p.s total unless I made an excpetion.
+
+Character and scenario e.p.s could still be applied to any 1.0+ skill.   
+
+
+What do you guys think?
+
+
+Alex
+
+Subject: Re:  DES: Speed and Accuracy
+
+     James:  You said "if you feel that way you should really change your
+damage system." (or something to that effect).  Which may did you mean?
+I was telling Jim what I thought was realistic, then told him why I did
+not bother to model it.  In "reality" I think Levels of Effect contribute
+less then they do in Taliesin.  But most gamers do not just want to get
+faster as their mid-level skills get higher.  I doubt Jim would be as 
+psyched to increase Menahan's weapon skills if he merely got faster.  I
+decided to let LoEs have more impact than I think they do in real life
+because it is more fun.  If you score 5 more LoE than your opponent, I 
+have no problem with you doing 5 more points of damage.  In real life,
+heros can be dropped by a lucky blow from someone with no talent.  That is
+(in my opinion) not fun in a gaming world.  On the other hand, I don't have
+fun playing a high level character if there is no chance I can be hurt. 
+I think all of us are trying to walk that tightrope and have our skill
+effects somewhere in the middle.
+     I agree with Alex.  I am not trying to figure out reality so that I
+model it in my gaming system at all costs.  I like to figure out how to
+model reality for two reasons:  1) I enjoy the mental challenge.  It is 
+a fun exercise for me.  2)  I think understanding reality helps you design
+a better system when you strip it down the complexity to a playable level.
+Yes, you might end up with the same result you would have just by making
+playable rules, but not in many cases, I think.
+     That was the reason for the idiot vs genius physicist example.  It 
+was not because I want to model everything--I am just using it to ask some
+basic questions like "what is a stat" and, "what is a skill?"
+
+     Chris:  I really like the idea of XPM being the requisite stat -10
+(in BT).  Maybe it should be the average of Int and the requisite stat,
+though, because I like the effect of Int in the current XPM model.  This
+is what I was driving at when I said XPM didn't help with physical skills.
+What I meant was that the requisite stat didn't have any XPM like effect.
+
+     Alex:  I think the idea of hard and soft XP is okay.  It has been 
+used in many other systems, but I don't think it will change that much.
+Power gamers will still try to find excuses to use many skills, they just
+won't actually roll the dice.
+     I understand the effect of XPM.  I like the idea of the requisite 
+stat helping out.
+     If you want to model skills feeding back to stats, either you have to
+write it off as too complicated, have skills increase the stat as a whole,
+or break stats down further (like right arm Dex, left hand Dex, etc).
+I would like to model it if it can be done simply.  I think there are 
+really distinctions between upper and lower body strength, etc, but I don't
+want to get that complicated.  I would just let the skill raise the whole
+stat.  Btw, why do you think stat raising skills should be the only things
+to affect stats?  When you train in a stat, aren't you just using it a lot?
+Isn't that what you are doing when you use your other skills?  When you
+train in a stat, you challenge it much more, so training should increase you
+faster.  It is also more well rounded, I admit, but most people will have a
+distribution of skills that use each stat.  When you think of it, when you
+do weight training, aren't you getting ranks in Bench Press, Push-up, etc?
+(I know this is silly, but I think you get the idea).
+
+     One last thought.  I realized that we have a large communication gap
+going here.  What we are calling ranks are actually not the same thing.
+In BT rank is an absolute measure of skill.  Two people with the same rank
+will be roughly equal (all other things being equal).
+     In TL, however, two people with the same rank may have extremely 
+different chances, depending upon their stat.  Rank indicates how much you
+have studied the skill, not what you got out of it.  In BT, high intel 
+increases number of skills you gain per unit time, so smarter people will
+gain more ranks in X time.  In TL, you gain the same number of ranks per
+unit time, but you get a higher chance if your stat is higher.
+     Although there are some fundamental differences in theses two models,
+the main effect is the same--the longer you study, the better you get, and
+the higher your stats, the better you get per unit time.
+
+
+                                                        -Jeff
+Subject: DES:  ACCURACY VS. SPEED; and TACTICS
+
+Geoffry Hodge says:
+
+>     On Accuracy vs Damage:  I think there is something that is often 
+>missed--something Mark pointed out early in this discussion.  Speed and
+>accuracy are interchangable.  Typists set their speed such that they make
+>few mistakes.  If you told a novice typist that they had to type 60 wpm,
+>their error rate would be incredibly high.  They slow down so that they
+>won't make as many mistakes.  I haven't seen this study, but I can't 
+>imagine how they separated speed, effect, and "rank."  These concepts seem
+>much too interconnected to me.
+
+This doesn't seem to be true.  What happens is (I say arrogantly basing this 
+on the cog sci stuff i have read) that as the person becomes higher ranked the
+skill is "supressed" from the conscious part of the mind and becomes automatic.
+At this level, as I believe Jim brought up, bringing the skill back into the 
+conscious mind actually slows the perosn down.  The perosn is actually more 
+effective at some "cruising speed" which is actually quite close to their 
+max speed. 
+
+This would indicate that there is not a linear exchange of speed and accuracy.
+Effect and rank are not terribly distinguishable in the REAL WORLD.  
+BUt speed can be distinguished because of this "cruising speed" effect.
+
+TACTICS:
+
+Geoffry Hodge says:
+
+>     Damage:  I just thought of an up side to the high randomness of 
+>damage.  You can't afford to let your opponent hit you.  In many systems,
+>I can fairly accurately calculate the tight damage distribution of my
+>opponent and figure out, relative accurately, how many hits I can take.
+>I know who much I can afford to be hit, and can plan my strategy accordingly.
+>In TL as is ti currenlty, you can't do that.  Alex pointed out that this 
+>detracts from your ability to use tactics.  I agreed at first, but now
+>I'm not so sure.  I think it just changes you tactics greatly.  Now you
+>can't afford to let someone punch you in the face because you know that
+>(barring a 01) it will not hurt you much.  Just a random thought :-)
+
+
+Hmmm.... Re-read the original posting I did on that... the randomness is 
+equal to more than a 100% to-hit differential.  That means to even 
+blance out the randomness with any tactics requires generating +100
+in mods.    You can walk into a fight and NOT concern yourself with 
+tactics because the damage range will overshadow almost any tactical
+decisions.  Also- in terms of real life tactics- Shotokan and Shao Lin long fIst
+have manuevers wher eyou are willing to take a punch to execute a truly 
+devastating blow.  People can take punches in real life- to drop someone in real 
+life with a punch takes astounding skill or astounding luck! 
+
+AND if you want people to use tactics you have to make it worthwhile- and I am 
+not sure it is right now in TL.  
+
+I know ther ewas a lot more but I am immersed in work so more later!!!!
+
+Alex
+
+Subject: DES:  Hard and Soft e.p.s
+
+Jeff says:
+
+>Alex:  I think the idea of hard and soft XP is okay.  It has been 
+>used in many other systems, but I don't think it will change that much.
+>Power gamers will still try to find excuses to use many skills, they just
+>won't actually roll the dice.
+
+Mark says:
+
+>Sounds good to me- but then I think I'm one of those 10-15ers :-)
+>I think I'd make the max 2 Soft eps per skill.  Hard eps could be 
+>awarded to 3.   So on many runs, there would be no hard eps, just a 
+>pool of 30 soft, for any skill you used, 1-8 character for anywhere, 
+>X scenario for anywhere, with no one skill getting more than 2 rolls 
+>due to soft eps.  So you could still take 2 soft and throw all your 
+>character eps on that skill.  It works for me.... hmmmm.   So if I 
+>say, sprinted across a street, hopped on my motorcycle and drove 
+>away, I could take rolls in accelerate, movement,  drive 
+>motorcycle, and accelerate motorcycle?  In a fight, I could tkae eps 
+>in Pankido, punch, defense, etc?  You're saying you no longer need to 
+>have actually made a roll to take an ep?
+
+First to address Jeff's query:
+
+You do realize that skill e.p.s will be relatively fixed right?
+
+That is the major change.  Even if you use 50 skills you will still get
+only 30 or 25 rolls.   I will INFREQUENTLY give more skill eeps for 
+exceptional skill use in particular skills. 
+
+So the numbe ris fixed.  So people who role-play their skills more can
+get as many as the people who roll al the time.  Fair?  I don't know.  
+I think it is as long as I do give bonuses for clever skill use.  
+
+ 
+II. RANK differences in BT and TL
+
+>In BT rank is an absolute measure of skill.  Two people with the same rank
+>will be roughly equal (all other things being equal).
+>     In TL, however, two people with the same rank may have extremely 
+>different chances, depending upon their stat.  Rank indicates how much you
+>have studied the skill, not what you got out of it.  In BT, high intel 
+>increases number of skills you gain per unit time, so smarter people will
+>gain more ranks in X time.  In TL, you gain the same number of ranks per
+>unit time, but you get a higher chance if your stat is higher.
+
+This is a good point- there is a very basic differnece in the two models.
+Please state whethe ryou are speaking of BT ranks or TL ranks.
+
+Mochel- which are yours?  I think they are more like mine.
+
+
+Alex
+

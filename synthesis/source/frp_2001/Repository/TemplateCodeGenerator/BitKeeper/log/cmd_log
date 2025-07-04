@@ -1,0 +1,339 @@
+!jmochel 999286166 20010709210512: sfio -i = 0
+!jmochel 999286166 20010709210512: sfiles -pAC = 0
+!jmochel 999286166 20010709210512: sfiles -D = 0
+!jmochel 999286166 20010709210512: parent file://g:/TemplateCodeGenerator = 0
+!jmochel 999286185 20010709210512: parent = 0
+!jmochel 999286188 20010709210512: parent ? = 0
+!jmochel 999286191 20010709210512: gethelp parent e:/bitkee~1 = 0
+!jmochel 999286201 20010709210512: help parent = 0
+!jmochel 999286201 20010709210512: parent --help = 0
+!jmochel 999286206 20010709210512: parent -r = 0
+!jmochel 999286209 20010709210512: parent = 1
+!jmochel 999286276 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999286276 20010709210512: _listkey = 0
+!jmochel 999286276 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 999286276 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999286276 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999286276 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999286276 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999286276 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999286276 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999286276 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999286276 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 999286279 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999286279 20010709210512: _probekey = 0
+!jmochel 999286279 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 999286279 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999286279 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999286279 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999286279 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999286279 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999286279 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999286279 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999286279 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 999289918 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999289918 20010709210512: _listkey = 0
+!jmochel 999289918 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 999289918 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999289918 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999289918 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999289918 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999289918 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999289918 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999289918 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999289918 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 999289918 20010709210512: idcache -q = 0
+!jmochel 999289918 20010709210512: idcache -q = 0
+!jmochel 999289918 20010709210512: takepatch -vvv -c = 0
+!jmochel 999289919 20010709210512: sane = 0
+!jmochel 999289919 20010709210512: sfind RESYNC = 0
+!jmochel 999289919 20010709210512: sfio -omq = 0
+!jmochel 999289919 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.jt = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CodeGeneratorEngine.java = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.TemplateCodeGenerator.java = 0
+!jmochel 999289919 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999289919 20010709210512: _keysort = 0
+!jmochel 999289919 20010709210512: sane = 0
+!jmochel 999289919 20010709210512: check -a - = 8
+!jmochel 999289919 20010709210512: sfind = 8
+!jmochel 999289919 20010709210512: clean BitKeeper/etc = 0
+!jmochel 999289919 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.jt = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.output = 0
+!jmochel 999289919 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CodeGeneratorEngine.java = 0
+!jmochel 999289920 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.TemplateCodeGenerator.java = 0
+!jmochel 999289920 20010709210512: sfio -im = 0
+!jmochel 999289920 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999289920 20010709210512: _keysort = 0
+!jmochel 999289920 20010709210512: sane = 0
+!jmochel 999289920 20010709210512: check -a - = 8
+!jmochel 999289920 20010709210512: sfind = 8
+!jmochel 999289920 20010709210512: unlock -p RESYNC/SCCS/s.ChangeSet = 0
+!jmochel 999289920 20010709210512: resolve -t -c = 1
+!jmochel 999290000 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290004 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290024 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 999290024 20010709210512: _keysort = 0
+!jmochel 999290024 20010709210512: sane = 0
+!jmochel 999290024 20010709210512: check -ag - = 8
+!jmochel 999290024 20010709210512: sfind = 8
+!jmochel 999290025 20010709210512: gone - = 0
+!jmochel 999290032 20010709210512: sane = 0
+!jmochel 999290032 20010709210512: clean ChangeSet = 0
+!jmochel 999290032 20010709210512: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+!jmochel 999290033 20010709210512: sfiles -vg -xcpA -oG:/Temp/bk_cilist1008 . = 0
+!jmochel 999290033 20010709210512: _sort = 0
+!jmochel 999290033 20010709210512: clean ChangeSet = 0
+!jmochel 999290033 20010709210512: prs -h -d$each(:C:){(:C:)
+} -r1.0 BitKeeper/etc/gone = 0
+!jmochel 999290033 20010709210512: prs -h -d$each(:C:){(:C:)
+} -r1.1 BitKeeper/etc/gone = 0
+!jmochel 999290033 20010709210512: prs -hr1.0 -nd:PARENT: BitKeeper/etc/gone = 0
+!jmochel 999290033 20010709210512: diffs -u -r..1.0 BitKeeper/etc/gone = 0
+!jmochel 999290035 20010709210512: prs -hr1.1 -nd:PARENT: BitKeeper/etc/gone = 0
+!jmochel 999290035 20010709210512: diffs -u -r1.0..1.1 BitKeeper/etc/gone = 0
+!jmochel 999290037 20010709210512: prs -hr1.1 -nd:PARENT: BitKeeper/etc/gone = 0
+!jmochel 999290037 20010709210512: diffs -u -r1.0..1.1 BitKeeper/etc/gone = 0
+!jmochel 999290042 20010709210512: lock -s = 1
+!jmochel 999290045 20010709210512: citool = 0
+!jmochel 999290051 20010709210512: abort = 0
+!jmochel 999290053 20010709210512: sane = 0
+!jmochel 999290053 20010709210512: clean ChangeSet = 0
+!jmochel 999290053 20010709210512: prs -hr+ -d:HASHCOUNT:
+ ChangeSet = 0
+!jmochel 999290054 20010709210512: sfiles -vg -xcpA -oG:/Temp/bk_cilist1304 . = 0
+!jmochel 999290054 20010709210512: _sort = 0
+!jmochel 999290054 20010709210512: clean ChangeSet = 0
+!jmochel 999290054 20010709210512: prs -h -d$each(:C:){(:C:)
+} -r1.0 BitKeeper/etc/gone = 0
+!jmochel 999290054 20010709210512: prs -h -d$each(:C:){(:C:)
+} -r1.1 BitKeeper/etc/gone = 0
+!jmochel 999290054 20010709210512: prs -hr1.0 -nd:PARENT: BitKeeper/etc/gone = 0
+!jmochel 999290054 20010709210512: diffs -u -r..1.0 BitKeeper/etc/gone = 0
+!jmochel 999290057 20010709210512: lock -s = 0
+!jmochel 999290058 20010709210512: lock -s = 0
+!jmochel 999290058 20010709210512: _logging = 0
+!jmochel 999290058 20010709210512: sfind -pC BitKeeper/etc/gone = 0
+!jmochel 999290058 20010709210512: sfind -pC ChangeSet = 0
+!jmochel 999290058 20010709210512: sfind -pC BitKeeper/etc/gone = 0
+!jmochel 999290058 20010709210512: _keysort = 0
+!jmochel 999290058 20010709210512: get -kpsC BitKeeper/etc/gone = 1
+!jmochel 999290058 20010709210512: idcache -q = 0
+!jmochel 999290059 20010709210512: cset -q -YG:/Temp/cmt1304 = 0
+!jmochel 999290059 20010709210512: _probekey = 0
+!jmochel 999290060 20010709210512: citool = 0
+!jmochel 999290061 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = ?
+!jmochel 999290061 20010709210512: _keysort = 0
+!jmochel 999290061 20010709210512: get -kpsC BitKeeper/etc/gone = 0
+!jmochel 999290061 20010709210512: _adler32 = 0
+!jmochel 999290061 20010709210512: makepatch -e -s - = 0
+!jmochel 999290061 20010709210512: _keysort = 0
+!jmochel 999290061 20010709210512: get -kpsC BitKeeper/etc/gone = 0
+!jmochel 999290061 20010709210512: _adler32 = 0
+!jmochel 999290061 20010709210512: makepatch -e -s - = 0
+!jmochel 999290061 20010709210512: _socket2pipe -h -p 4096 www.openlogging.org 80 = 0
+!jmochel 999290061 20010709210512: log -q http://www.openlogging.org:80////LOG_ROOT/// = 0
+!jmochel 999290087 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290087 20010709210512: _listkey = 0
+!jmochel 999290094 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290099 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290131 20010709210512: abort f:/Repository/TemplateCodeGenerator = 0
+!jmochel 999290142 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290172 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290172 20010709210512: _probekey = 0
+!jmochel 999290172 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 999290172 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 999290172 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 999290172 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 999290172 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 999290172 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 999290172 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 999290172 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 999290172 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 999290172 20010709210512: _keysort = 0
+!jmochel 999290172 20010709210512: get -kpsC BitKeeper/etc/gone = 0
+!jmochel 999290172 20010709210512: _adler32 = 0
+!jmochel 999290172 20010709210512: makepatch -s - = 0
+!jmochel 999290197 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 999290197 20010709210512: _listkey = 0
+!jmochel 1000495180 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1000495180 20010709210512: _listkey = 0
+!jmochel 1000495189 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1000495189 20010709210512: _probekey = 0
+!jmochel 1000495189 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495189 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1000495189 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1000495189 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1000495189 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1000495189 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1000495189 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495189 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1000495189 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1000495189 20010709210512: _keysort = 0
+!jmochel 1000495189 20010709210512: get -kpsC BitKeeper/etc/gone = 0
+!jmochel 1000495190 20010709210512: _adler32 = 0
+!jmochel 1000495190 20010709210512: makepatch -s - = 0
+!jmochel 1000495241 20010709210512: test = 1
+!jmochel 1000495252 20010709210512: abort = 0
+!jmochel 1000495265 20010709210512: helptopics = 0
+!jmochel 1000495266 20010709210512: gethelp All e:/bitkee~1 = 0
+!jmochel 1000495266 20010709210512: help -p All = 0
+!jmochel 1000495304 20010709210512: helptool = 0
+!jmochel 1000495307 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 1000495307 20010709210512: _keysort = 0
+!jmochel 1000495307 20010709210512: get -q BitKeeper/etc/gone = 0
+!jmochel 1000495307 20010709210512: sane = 0
+!jmochel 1000495307 20010709210512: check = 0
+!jmochel 1000495624 20010709210512: sfind -S -sx,c,p,n = 0
+!jmochel 1000495624 20010709210512: status = 0
+!jmochel 1000495633 20010709210512: resolve = 0
+!jmochel 1000495976 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1000495976 20010709210512: _probekey = 0
+!jmochel 1000495976 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495976 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1000495976 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1000495976 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1000495976 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1000495976 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1000495976 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495976 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1000495976 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1000495979 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1000495979 20010709210512: _listkey = 0
+!jmochel 1000495979 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495979 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1000495979 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1000495979 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1000495979 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1000495979 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1000495979 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000495979 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1000495979 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1000495979 20010709210512: idcache -q = 0
+!jmochel 1000495980 20010709210512: takepatch -vvv -c = 0
+!jmochel 1000495980 20010709210512: sane = 0
+!jmochel 1000495980 20010709210512: sfind RESYNC = 0
+!jmochel 1000495980 20010709210512: sfio -omq = 0
+!jmochel 1000495980 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 1000495980 20010709210512: clean BitKeeper/etc/SCCS/s.gone = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.jt = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CodeGeneratorEngine.java = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CommonTagLibrary.java = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.IncorrectNestingException.java = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.ITagLibrary.java = 0
+!jmochel 1000495981 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.TemplateCodeGenerator.java = 0
+!jmochel 1000495981 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 1000495981 20010709210512: _keysort = 0
+!jmochel 1000495981 20010709210512: sane = 0
+!jmochel 1000495981 20010709210512: check -a - = 0
+!jmochel 1000495981 20010709210512: sfind = 0
+!jmochel 1000495981 20010709210512: resolve -t -c = 0
+!jmochel 1000520196 20010604201538: cd d:/Repository/TemplateCodeGenerator = 0
+!jmochel 1000520199 20010604201538: _probekey = 0
+!jmochel 1000520200 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1000520201 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1000520201 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1000520202 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1000520202 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1000520202 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1000520203 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1000520203 20010604201538: putenv BK_ROOT=g:/workspace/TemplateCodeGenerator = 0
+!jmochel 1000520208 20010604201538: _keysort = 0
+!jmochel 1000520210 20010604201538: get -kpsC BitKeeper/etc/gone = 0
+!jmochel 1000520231 20010604201538: _adler32 = 0
+!jmochel 1000520231 20010604201538: makepatch -s - = 0
+!jmochel 1000900391 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1000900391 20010709210512: _probekey = 0
+!jmochel 1000900392 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000900392 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1000900392 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1000900392 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1000900392 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1000900392 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1000900392 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1000900392 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1000900392 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1002139200 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1002139200 20010709210512: _listkey = 0
+!jmochel 1002139200 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1002139200 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1002139200 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1002139200 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1002139200 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1002139200 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1002139200 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1002139200 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1002139200 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1002139201 20010709210512: idcache -q = 0
+!jmochel 1002139202 20010709210512: takepatch -vvv -c = 0
+!jmochel 1002139203 20010709210512: sane = 0
+!jmochel 1002139203 20010709210512: sfind RESYNC = 0
+!jmochel 1002139203 20010709210512: sfio -omq = 0
+!jmochel 1002139203 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.ActionTag.java = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.DataTag.java = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.InvalidArgumentException.java = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/testcases/templatecodegenerator/SCCS/s.TemplateCodeGeneratorTestCase.java = 0
+!jmochel 1002139203 20010709210512: clean BitKeeper/etc/SCCS/s.gone = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.jt = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CodeGeneratorEngine.java = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CommonTagLibrary.java = 0
+!jmochel 1002139203 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.ITagLibrary.java = 0
+!jmochel 1002139204 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 1002139204 20010709210512: _keysort = 0
+!jmochel 1002139204 20010709210512: sane = 0
+!jmochel 1002139204 20010709210512: check -a - = 0
+!jmochel 1002139204 20010709210512: sfind = 0
+!jmochel 1002139204 20010709210512: resolve -t -c = 0
+!jmochel 1002139208 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1002139209 20010709210512: _probekey = 0
+!jmochel 1002139209 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1002139209 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1002139209 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1002139209 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1002139209 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1002139209 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1002139209 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1002139209 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1002139209 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1004717082 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1004717082 20010709210512: _listkey = 0
+!jmochel 1004717082 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1004717082 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1004717082 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1004717082 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1004717082 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1004717082 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1004717082 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1004717082 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1004717082 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0
+!jmochel 1004717083 20010709210512: idcache -q = 0
+!jmochel 1004717084 20010709210512: takepatch -vvv -c = 0
+!jmochel 1004717084 20010709210512: sane = 0
+!jmochel 1004717084 20010709210512: sfind RESYNC = 0
+!jmochel 1004717084 20010709210512: sfio -omq = 0
+!jmochel 1004717084 20010709210512: clean SCCS/s.ChangeSet = 0
+!jmochel 1004717084 20010709210512: clean BitKeeper/etc/SCCS/s.gone = 0
+!jmochel 1004717084 20010709210512: clean TemplateCodeGenerator/scm/SCCS/s.stdtest.jt = 0
+!jmochel 1004717084 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.CodeGeneratorEngine.java = 0
+!jmochel 1004717084 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.ITagLibrary.java = 0
+!jmochel 1004717084 20010709210512: clean TemplateCodeGenerator/src/org/mushin/templatecodegenerator/SCCS/s.TemplateCodeGenerator.java = 0
+!jmochel 1004717085 20010709210512: sccscat -h ChangeSet = 0
+!jmochel 1004717085 20010709210512: _keysort = 0
+!jmochel 1004717085 20010709210512: sane = 0
+!jmochel 1004717085 20010709210512: check -a - = 0
+!jmochel 1004717085 20010709210512: sfind = 0
+!jmochel 1004717085 20010709210512: resolve -t -c = 0
+!jmochel 1004717092 20010709210512: cd f:/Repository/TemplateCodegenerator = 0
+!jmochel 1004717092 20010709210512: _probekey = 0
+!jmochel 1004717092 20010709210512: putenv BK_VHOST=devilmountain.corp.foliage.com = 0
+!jmochel 1004717092 20010709210512: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1004717092 20010709210512: putenv BK_VERSION=20010709210512 = 0
+!jmochel 1004717092 20010709210512: putenv BK_UTC=20010709210512 = 0
+!jmochel 1004717092 20010709210512: putenv BK_TIME_T=994712712 = 0
+!jmochel 1004717092 20010709210512: putenv _BK_USER=jmochel = 0
+!jmochel 1004717092 20010709210512: putenv _BK_HOST=devilmountain.corp.foliage.com = 0
+!jmochel 1004717092 20010709210512: putenv BK_LEVEL=1 = 0
+!jmochel 1004717092 20010709210512: putenv BK_ROOT=g:/TemplateCodeGenerator = 0

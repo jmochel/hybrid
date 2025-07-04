@@ -1,0 +1,47 @@
+.Name MYRE
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 16(24)
+.PEN 19		
+.DEX 14
+.PAG 17		
+.PAW 14
+.MST 13		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 6'0"      
+.WT 178		 
+.AGE 45
+.BeginDesc
+ 7:DARK HAIRED AND PALE SKINNED. BROWN EYES
+.EndDesc
+.BeginSkills
+Weapon: JO(2)			   , 
+.EndSkills
+.Locale TRAVELS
+.BeginKnownAssoc
+ CHURCH OF SIF LEEWARD
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends SEVIN NAYMES OF SAN SIR
+.EndFriends
+.BeginComment
+ A HOLY AND FRIENDLY MAN. TRAINS MANY OF THE PALADINS OF SIF. QUITE		
+ACCOMPLISHED IN THE MARSHALLING OF INNER RESOURCES.
+.EndComment
+.BeginPossess
+ +4 JO, CHAIN OF ABSORBANCES
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

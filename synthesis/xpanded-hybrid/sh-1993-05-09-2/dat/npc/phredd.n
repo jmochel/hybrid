@@ -1,0 +1,42 @@
+.Name PHREDD "DUREL"
+.Title THE SUBVERTED PALADIN		
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 
+.PEN		
+.DEX 
+.PAG		
+.PAW 14
+.MST		
+.MEN 14
+.PSI 
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+.EndDesc
+.BeginSkills
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ PATRON ADVOCATE OF THE PATIENT AND TRIUMPHANT.AND LOST CAUSES
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

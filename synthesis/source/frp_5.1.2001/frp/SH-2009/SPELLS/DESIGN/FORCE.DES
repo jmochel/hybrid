@@ -1,0 +1,20 @@
+.Name ForceShield
+.NRG Force
+.ACT Summon
+.ACT Bind
+.ACT Shield
+
+.TARGET Self
+
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 10
+.CDF -5
+.RNGSCALE 1m
+.RNG 1
+.DUR 1
+.DURSCALE 2Min
+.CTSCALE Pulse
+.QE 20
+.LINKQE 1

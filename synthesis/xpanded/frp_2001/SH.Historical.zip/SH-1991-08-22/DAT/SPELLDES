@@ -1,0 +1,70 @@
+LNFVER 3.2                                       
+  500   -3
+
+!    0   36   -3
+    3  801 __work
+    1  801 bigsed
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+!    1  500    2
+sedwin_Class
+132
+132
+4 1 21 78 1 0 0 0 7 0 7
+
+bd_prompt
+Spell Design Template
+
+exp_std
+5 185 32000 4 0 0 7340032 32 32
+-1 -1 0 2 0
+list_funcs
+char *
+NrgType
+@p[0,13]@f{EnergyType}D2[@[23,#]]
+Enter the Energy Type
+Fire
+-1 -1 0 2 0
+list_funcs
+char *
+Action1
+@p[1,14]@f{ActionOne}D2[@[23,#]]
+Enter the Energy Type
+Detect
+-1 -1 0 2 0
+list_funcs
+char *
+Action2
+@p[2,14]@f{ActionTwo}D2[@[23,#]]
+Enter the Action Type
+Detect
+-1 -1 0 2 0
+list_funcs
+char *
+Action1
+@p[3,14]@f{ActionOne}D2[@[23,#]]
+Enter the E
+!    2  342   -3
+nergy Type
+Detect
+-1 -1 0 2 0
+list_funcs
+char *
+Action1
+@p[4,14]@f{ActionOne}D2[@[23,#]]
+Enter the Energy Type
+Detect
+184 0
+ Energy Type                        
+ Action Type                        
+ Action Type                        
+ Action Type                        
+ Action Type                        0 0
+0 7 7 112 15 112
+
+
+
+675115327
+                                                                                                                                                              
+!    3    7   -3
+bigsed
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

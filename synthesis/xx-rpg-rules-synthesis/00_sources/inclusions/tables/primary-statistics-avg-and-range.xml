@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table xml:id="table-primary-statistics-avg-and-range">
+    <title>Primary Statistics Average and Range</title>
+    <?dbfo keep-together="auto" ?>
+    <tgroup cols="4">
+        <thead>
+            <row>
+                <entry>Statistic</entry>
+                <entry>Minimum</entry>
+                <entry>Maximum</entry>
+                <entry>Average</entry>
+            </row>
+        </thead>
+        <tbody>
+            <row>
+                <entry>PST</entry>
+                <entry>1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>PEN</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>DEX</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>PAG</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>PAW</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>MST</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>MEN</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>MAG</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>PSI</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+            <row>
+                <entry>MAW</entry>
+                <entry> 1</entry>
+                <entry>30</entry>
+                <entry>12</entry>
+            </row>
+        </tbody>
+    </tgroup>
+</table>

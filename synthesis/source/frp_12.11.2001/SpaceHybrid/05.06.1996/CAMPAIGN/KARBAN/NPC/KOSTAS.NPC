@@ -1,0 +1,139 @@
+.BeginNPC
+.Nomen  Origin Noka Napirox
+.Nomen  Alias Nahabidian
+.Nomen  Title 1st Pilot
+.Nomen  Title Principes Regus
+.Species Homo Sapiens:Proximan:Prime
+.Gender Male
+.Culture Proximan:Rajak:Royal Family
+.BeginStats
+.PST 17
+.PEN 17
+.DEX 15
+.PAG 17
+.PAW 19
+.MST 16
+.MEN 14
+.PSI 03
+.MAG 15
+.MAW 18
+.HT 1.7
+.WT 85
+.AGE 
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame 
+.Build Stocky
+.Bone Large
+.Tone Excellent
+.Text Moves well.
+.EndFrame
+
+.BeginHair
+.Length Short
+.Color Black
+.Texture Fine
+.Style 
+.Curl Curly
+.Ornament 
+.Text 
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Scar On left Shoulder
+.IDMark Scar On Right pectoralis Major
+.IDMark Scar On right buttock
+.IDMark Scar On Left palm
+
+.BeginVoice
+.Type Tenor
+.Depth
+.Clarity Precise
+.SpeechHabits 
+.Accent Proximan:Rajak
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+# .Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.Histom	235 Origin Proxima Known Birthdate
+.Histom	249 Ceremony None Known Blooding Date
+.Histom	250 Transition None Known Entered CSS Academy
+.Histom	252 Transition None Known Assigned as 3rd pilot to the CSS Exeter
+.Histom	253 Transition None Known Assigned as 2nd pilot to the CSS Prometheus
+.Histom	254 Transition None Known Assigned as 1st pilot to the CSS Mammon
+.Histom	254 Transition None Known Assigned as 1st pilot to the CSS Little Pheonix
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+One of the most gifted pilots to come out of Proxima. He is a son of the 
+imperial house of Proxima. 
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+

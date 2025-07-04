@@ -1,0 +1,109 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210161138.389;
+          10 Dec 91 16:12:02 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210161138.389;
+          10 Dec 91 16:11:51 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04628; Tue, 10 Dec 91 16:13:27 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01355; Tue, 10 Dec 91 15:47:45 -0500
+Message-Id: <9112102047.AA01355@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2296; Tue, 10 Dec 91 15:47:53 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9987;
+ Tue, 10 Dec 91 15:47:52 EST
+Date:         Tue, 10 Dec 1991 15:46:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Guidelines (proposed)
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+===============================================================================
+     GMAST-L Role-Playing Game Designers' Guidelines, 12/10/92 (Proposed)
+===============================================================================
+
+Goal:
+
+Discuss the problems of creating a role-playing game (RPG) and conceive a
+well-designed RPG.
+
+
+Subject:
+
+For the purpose of this project, we will create a RPG in the Fantasy genre, due
+to the fact that most designers are very familiar with the aspects of the
+Fantasy genre and the common problems of FRPGs.
+
+However, every effort should be made to make the RPG as general as possible, so
+that new modules can be added to the RPG for other genres.  The only reason we
+are limiting ourselves to Fantasy is to reduce the amount of work and provide a
+more narrow focus.
+
+
+Aspects:
+
+As discussed, we will strive to satisfy many different aspects or mini-goals
+that we find desirable in RPGs in general.  These aspects are detailed below.
+
+
+1. Clarity
+
+The rules -- and proposed rules! -- should be clearly written and easily
+understood.
+
+2. Efficiency
+
+Whenever possible, rules should be in their _simplest form_.  This does not
+imply that the rules cannot be complex, just that we need to strip away extra
+baggage that is not necessary.  Game mechanics should be easy to use.
+Eliminate tables, charts, and formulas whenever possible.  Mark optional rules
+as such.
+
+3. Skill-based
+
+The foundation of the game system will be the attribute and skill systems.
+There will be no _forced_ "classes" or "archetypes."  All other game systems
+will be founded on the concept of skills.
+
+4. Basis
+
+Every term will be reduced, whenever possible and desirable, to its simplest
+forms.  That means Dexterity might be reduced to Agility, Manual Dexterity,
+Grace and Reflex, if this is desirable.
+
+5. Modularity
+
+The game should be composed of separate sections that can be removed and
+replaced easily.  The sections should be independent of each other, but all
+based on the same skill/attribute system.  It should be easy to add-in new
+systems, such as a new type of magic system, and so on.
+
+6. Scalability
+
+As much as possible, the game should allow the players and GM to scale the
+various systems to the levels of detail that they prefer.
+
+
+
+===============================================================================
+                     Order of Business (Proposed)
+===============================================================================
+
+A. Concepts and Guidelines
+B. Foundation systems
+	1. Attribute names & definitions
+	2. Task resolution system
+	3. Temporal concerns (game turns, combat rounds)
+C. Skill lists & definitions
+D. Combat system
+	1. Hand-to-hand (HTH)
+	2. Ranged
+	3. Special cases
+E. Magic system
+	1. Types of magic, magic theory
+	2. Adjudication of casting
+	3. Examples, guidelines, spell lists (if necessary)
+F. Character Generation
+G. Development

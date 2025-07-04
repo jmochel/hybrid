@@ -1,0 +1,60 @@
+h04397
+s 00032/00000/00000
+d D 1.1 99/12/02 16:07:30 jmochel 2 1
+cC
+cK30504
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:07:26 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/kurrock.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45045
+cPworlds/tanah/races/kurrock.rac
+cReb4787a15cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Kurrock}
+
+\section*{Statistics}
+
+\begin{itemize}
+        \item[Culture Name] Kurrock
+        \item[Avg. Height]  4'6"/4'6"
+        \item[Avg. Weight] 140/135
+        \item[Skin Color]  Chalky white
+        \item[Hair Color]  Usually dark brown to black.
+        \item[Eye Color]   Black.
+        \item[Stat Mods]   PST +2; PAG -2; PEN +1; PSI -4;
+		\item[Inherent Skills] Kurrock are naturals at feats involving 
+		physical strength (DF +2). In addition they are able to directly 
+		able to convert mental fatigue into physical fatigue.
+\end{itemize}
+
+\section*{Description}
+
+Kurrock are truly the most frightening fighters and drinkers around.
+They tend to get a reputation for just those things as a result but in
+reality, Kurrock are also skilled artisans, mechanicians, and miners.
+
+They are intense and focused , which makes them a subject of unease for 
+most humans. They rarely get distracted and have a strong scorn for those 
+that do.
+
+Despite their low PSI they seem to excel in producing weapons and 
+tools that are almost magical  in quality.
+
+\section*{Cultures and Sub-Groups}
+Kurrock
+E 2
+I 1
+E 1

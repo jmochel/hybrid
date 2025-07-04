@@ -1,0 +1,39 @@
+.rm 120
+.in 5
+.nj
+.nf
+.me //Spells for Clerics of Shtarra//
+.fo //Pg -#-//
+
+1st Level                2nd Level           3rd Level              4th Level
+------------------------ ------------------- ---------------------- ------------------------
+Bless                    Aid (UA2)           Animate Dead           Abjure (UA4)
+Combine (UA1)            Augury              Continual Light        Cure Serious Wounds
+Command                  Chant               Create Food & Water    Detect Lie
+Create Water             Detect Charm        Cure Blindness         Divination
+Cure Light Wounds        Detect Life (UA2)   Cure Disease           Exorcise          
+Detect Evil              Hold Person         Death's Door (UA3)     Imbue w Spell Abil(UA4)
+Detect Magic             Holy Symbol (UA2)   Dispel Magic           Lower Water
+Enthrall (UA2)           Know Alignment      Feign Death            Neutralize Poison
+Light                    Messenger (UA2)     Glyph of Warding       Prot From Evil 10' 
+Penetrate Disguise (UA1) Silence 15' Radius  Locate object          Spell Immunity (UA4)
+Portent (UA1)            Slow Poison         Magical Vestment (UA3) Tongues
+Prot from evil           Spiritual Hammer    Prayer
+Purify Food and Drink    Withdraw (UA2)      Remove Curse            
+Remove Fear              Wyvern Watch (UA2)  Speak with Dead
+Sanctuary
+
+.bp
+5th Level                6th Level                7th Level
+------------------------ ------------------------ ------------------------
+Atonement                Ariel Servant            Astral Spell
+Commune                  Animate Object           Exaction (UA7)
+Cure Critical Wounds     Blade Barrier            Gate 
+Dispel Evil              Conjure Animals          Holy Word
+Magic Font (UA5)         Forbiddance (UA6)        Regenerate
+Plane Shift              Heal                     Restoration
+Quest                    Heroes' Feast (UA6)      Resurrection  
+Rainbow (UA5)            Stone Tell               Succor(UA7)
+Raise Dead               Word of Recall           Symbol
+True Seeing                                       Wind Walk
+

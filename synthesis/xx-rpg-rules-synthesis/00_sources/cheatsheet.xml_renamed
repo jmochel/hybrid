@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.2/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.2/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.2">
+    <info>
+        <title>Cheatsheets</title>
+    </info>
+    <?dbfo-need-new-page?>
+    <bridgehead renderas="section" role="pagebreak"/>
+    <section>
+        <title>Initiative - Who Goes First</title>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="2d6.svg" format="SVG"></imagedata>
+                </imageobject>
+            </inlinemediaobject>
+            When a character first enters a situation where action may be required they must determine how much they know and how quickly they react. 
+            When a character <emphasis>first</emphasis> becomes involved in a conflict they roll a perception roll followed by an initiative roll. 
+            The person with the lowest initiative goes first. Any initiative below 0 becomes 0.
+            <informalequation>
+                <mathphrase>Initiative = 2d6 + 8 - <emphasis>Reaction Speed</emphasis> + <emphasis>Situational Modifiers</emphasis></mathphrase>
+            </informalequation>
+        </para>     
+        <para>
+            <emphasis>Reaction Speed</emphasis> defaults to either <emphasis role="bold">Physical Speed</emphasis> or <emphasis role="bold">Mental Speed</emphasis> 
+            from the characters spreadsheet.
+        </para>
+        <para>
+            If the character is actively using a skill, the <emphasis>Reaction Speed</emphasis> is increased by 1/2 of that skill. So a character has ranked 10 in using  
+            a weapon, they will have an additional 5 points of reaction speed when using that weapon.
+        </para>
+        <para>
+        There a set of situational modifiers to <emphasis>Initiative</emphasis>
+            <table>
+                <title>Situational Modifiers for Initiative</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <?dbfo bgcolor="lightgray" ?>
+                            <entry>Situation</entry>
+                            <entry>Modifier</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Failed Perception Roll</entry>
+                            <entry>+5</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </para>
+    </section>
+    <?dbfo-need-new-page?>
+    <section>
+        <title>Success or Failure</title>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="10_sided_die.svg" format="SVG"></imagedata>
+                </imageobject>
+            </inlinemediaobject>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="10_sided_die.svg" format="SVG"></imagedata>
+                </imageobject>
+            </inlinemediaobject>
+        Most actions require the use of skill rolls or saving throws which are done using 2 10 sided dice to generate numbers from 01 to 100.    
+        </para>
+        <para>
+        The chance to perform a skill is calculated, and then the player rolls under that chance. Depending on how well or how poorly they roll, they can have greater success or less of success.
+            <table>
+                <title>Success and Failure</title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <?dbfo bgcolor="lightgray" ?>
+                            <entry>Rolled</entry>
+                            <entry>Name</entry>
+                            <entry>Effect</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Under Half</entry>
+                            <entry>Solid Success</entry>
+                            <entry>1.25 more effective</entry>
+                        </row>
+                        <row>
+                            <entry>Under a Quarter</entry>
+                            <entry>Notable Success</entry>
+                            <entry>1.5 more effective</entry>
+                        </row>
+                        <row>
+                            <entry>Under a Tenth</entry>
+                            <entry>Very Notable Success</entry>
+                            <entry>2.0 more effective</entry>
+                        </row>
+                        <row>
+                            <entry>Under 100th</entry>
+                            <entry>Amazing Success</entry>
+                            <entry>3.0 more effective</entry>
+                        </row>
+                        <?dbfo bgcolor="lightgray" ?>
+                        <row>
+                            <entry>1.5 times what is needed</entry>
+                            <entry>Solid Failure</entry>
+                            <entry>25% less effective</entry>
+                        </row>
+                        <row>
+                            <entry>2.0 times what is needed</entry>
+                            <entry>Notable Failure</entry>
+                            <entry>75% less effective</entry>
+                        </row>
+                        <row>
+                            <entry>3.0 times what is needed</entry>
+                            <entry>Very Notable Failure</entry>
+                            <entry>100% less effective</entry>
+                        </row>
+                        <row>
+                            <entry>10 times what is needed</entry>
+                            <entry>Amazing Failure</entry>
+                            <entry>200% less effective</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+
+            
+            
+        
+        
+        </para>
+    </section>
+    <section>
+        <title>Perception</title>
+        <para>
+                
+        </para>
+    </section>
+    <section>
+        <title>Training</title>
+        <para>
+            
+        </para>
+    </section>
+    <section>
+        <title>Experience and Leveling Up</title>
+        <para>
+            
+        </para>
+    </section>
+</article>
+

@@ -1,0 +1,35 @@
+Specialisations
+
+
+Type I - Speed Based 
+
+							Attacks/Round 
+	Slots		Melee	L.Xbow	H.XBow	T.Dagger	Dart	Thrown Other
+1	2*			3/2		1/1		1/2		3/1			4/1		3/2
+2	4*			2/1		3/2		1/1		4/1			5/1		2/1
+3	6*			5/2		2/1		3/2		5/1			6/1		5/2
+
+
+Type II - Accuracy Based
+
+							To Hit/ To Damage Mods
+	Slots		Melee		Missile
+1	2*			+1/+2		+2/+1
+
+
+- For Each proficiency put into a Type II skill a +1 to Hit or +1 to
+Damage is gained
+
+- All missile weapons have a point blank range. Specialists gain an
+additional +1 to Hit at point blank and add their damage bonuses in
+before doubling the damage. 
+
+- All melee weapon specialists add their to Hit and To Damage bonuses to
+the following situations:
+	Evasive Parrying, Active Parrying, Blocking, Disarming
+
+* All bow weapons add 1 to their proficiency cost.
+
+ 
+
+

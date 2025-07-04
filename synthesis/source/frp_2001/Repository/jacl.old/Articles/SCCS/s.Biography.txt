@@ -1,0 +1,34 @@
+h54055
+s 00006/00000/00000
+d D 1.1 99/11/17 07:24:57 jmochel 2 1
+cC
+cK16700
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 07:24:54 jmochel 1 0
+c BitKeeper file e:/jacl/Articles/Biography.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK43381
+cPArticles/Biography.txt
+cR908c82af5cb6bb7a
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+A misplaced Chemist working for Foliage
+Software Systems, a very sharp contract house. Currently working on an 
+information retrieval toolkit so I can organize my other hobbies.
+
+
+
+E 2
+I 1
+E 1

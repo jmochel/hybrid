@@ -1,0 +1,87 @@
+h37733
+s 00000/00000/00038
+d D 1.3 99/11/23 12:12:52 jmochel 4 3
+c Delete: java/src/MacroProcessor/CodeGeneratorTextParserTokenTypes.txt
+cC
+cK39339
+cPjava/src/MacroProcessor/.del-CodeGeneratorTextParserTokenTypes.txt
+e
+s 00036/00004/00002
+d D 1.2 99/11/19 13:17:37 jmochel 3 2
+c Updated the grammar without getting it to work.
+cC
+cK28732
+e
+s 00006/00000/00000
+d D 1.1 99/11/17 12:54:53 jmochel 2 1
+cC
+cK07980
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:54:49 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/MacroProcessor/CodeGeneratorTextParserTokenTypes.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45361
+cPjava/src/MacroProcessor/CodeGeneratorTextParserTokenTypes.txt
+cR2f93d73e5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+CodeGeneratorTextParser    // output token vocab name
+INCLUDE=4
+D 3
+IF=5
+ENDIF=6
+STRINGLITERAL=7
+IGNORE=8
+E 3
+I 3
+NEWLINE=5
+SET=6
+ASSIGN=7
+DOLLAR=8
+LPAREN=9
+RPAREN=10
+LCURLY=11
+RCURLY=12
+IDENT=13
+INT=14
+STRINGLITERAL=15
+DELIMITEDSTRINGLITERAL=16
+IGNORE=17
+IF=18
+ENDIF=19
+COMMA=20
+EQUAL=21
+LNOT=22
+BNOT=23
+NOT_EQUAL=24
+DIV=25
+DIV_ASSIGN=26
+PLUS=27
+PLUS_ASSIGN=28
+INC=29
+MINUS=30
+MINUS_ASSIGN=31
+DEC=32
+MULTIPLY=33
+MULTIPLY_ASSIGN=34
+MOD=35
+MOD_ASSIGN=36
+GE=37
+GT=38
+LE=39
+LT=40
+E 3
+E 2
+I 1
+E 1

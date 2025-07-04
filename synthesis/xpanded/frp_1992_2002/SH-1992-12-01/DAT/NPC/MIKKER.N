@@ -1,0 +1,48 @@
+.Name MIKKER
+.Title VALET						
+.Race 1/2 ELF
+.Culture
+.Aspect 
+.PST 16
+.PEN 13		
+.DEX 12
+.PAG 10		
+.PAW 14
+.MST 12		
+.MEN 14
+.PSI 11
+.MAG 14
+.MAW 14
+.HT 6'5"      
+.WT 220		 
+.AGE 450
+.BeginDesc
+ 14
+.EndDesc
+.BeginSkills
+Weapon: DAGGER(+2 TO HIT)  , 
+.EndSkills
+.Locale RANNOCK
+.BeginKnownAssoc
+ LADY FEM MIASA
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends AKALABETH
+.EndFriends
+.BeginComment
+ AN ENIGMA TO MANY; MIKKER, WHO IS OF NO KNOWN OR ACKNOWLEDGED CLAN,	
+DISPLAYS A WIDE VARIETY OF SKILLS. HE IS THE PERFECT COMPANION FOR THE LADY		
+MIASA, WHOM HE ADORES. HE IS ALSO CONSIDERED TO BE IRRESISTABLE TO WOMENFOLK
+.EndComment
+.BeginPossess
+ ELVEN CHAIN ,+3 DAGGER
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,21 @@
+jmochel 965441212: mordanith.ne.mediaone.net:I:/Repository/jacl remote clone -q to mordanith.ne.mediaone.net:/jacl = 0
+jmochel 966474120: mordanith.ne.mediaone.net:i:/Repository/jacl remote clone -q to mordanith.ne.mediaone.net:/jacl = 0
+jmochel 967076134: mordanith.ne.mediaone.net:I:/Repository/jacl remote pull to jmochel@mordanith.ne.mediaone.net:/jacl = 0
+jmochel 968719168: mordanith.ne.mediaone.net:I:/Repository/jacl remote clone -q to mordanith.ne.mediaone.net:/jacl = 0
+jmochel 968760276: devilmountain:f:/Repository/jacl remote pull to jmochel@devilmountain:/jacl = 0
+jmochel 968807562: mordanith.ne.mediaone.net:I:/Repository/jacl remote pull to jmochel@mordanith.ne.mediaone.net:/jacl = 0
+jmochel 968807590: mordanith.ne.mediaone.net:I:/Repository/jacl remote pull to jmochel@mordanith.ne.mediaone.net:/jacl = 0
+jmochel 968965695: devilmountain:f:/Repository/jacl remote push from jmochel@devilmountain:/jacl = 0
+!jmochel 995047024 bk-2.0beta11c: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1
+!jmochel 995047028 bk-2.0beta11c: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1
+!jmochel 995047036 bk-2.0beta11c: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1
+!jmochel 995047046 bk-2.0beta11c: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1
+!jmochel 995048455 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl push = 1 xfered=0
+!jmochel 995048671 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 0 xfered=0
+!jmochel 995048673 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part2 = 1 xfered=0
+!jmochel 995048692 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote pull part1 -z6 = 0 xfered=0
+!jmochel 995048692 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote pull part2 -z6 = 0 xfered=0
+!jmochel 995049142 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote clone = 0 xfered=1875460
+!jmochel 995049177 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote clone = 0 xfered=1875460
+!jmochel 995049339 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1
+!jmochel 995049343 20010709210512: devilmountain.corp.foliage.com:f:/Repository/jacl remote push part1 = 1

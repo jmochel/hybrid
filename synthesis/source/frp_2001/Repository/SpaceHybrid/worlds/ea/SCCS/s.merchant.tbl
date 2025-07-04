@@ -1,0 +1,64 @@
+h54383
+s 00036/00000/00000
+d D 1.1 99/12/02 16:03:42 jmochel 2 1
+cC
+cK16550
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:03:39 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/ea/merchant.tbl
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45022
+cPworlds/ea/merchant.tbl
+cReb47879f5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+MERCHANT TABLE
+
+% ROLL		TYPE		MODIFIER
+
+01-40		POOR		-20
+41-65		FAIR		-10
+66-80		GOOD		+0
+81-95		WEALTHY 	+5
+96-00		VERY		+10
+
+PROTECTION
+
+% ROLL		TYPE
+
+01-30		NONE
+31-40		MANUAL
+41-55		DECEPTION
+56-79		MINOR MAGIC
+80-89		BODY GUARD
+90-98		MED MAGIC
+99-00		MAJOR MAGIC
+
+
+% ROLL - TO DETERMINE EFFECTIVENESS
+
+
+
+
+
+
+
+
+
+
+
+
+E 2
+I 1
+E 1

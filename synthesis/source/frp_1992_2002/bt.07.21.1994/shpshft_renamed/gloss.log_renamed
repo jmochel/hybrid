@@ -1,0 +1,108 @@
+This is emTeX (btexp), Version 3.1415 [3c-beta11] (preloaded format=latex 94.6.14)  21 JUL 1994 08:29
+**&latex gloss.ltx
+(gloss.ltx
+LaTeX2e <1994/06/01> patch level 2
+(d:/emtex/texinput/latex209.def
+File: latex209.def 1994/06/01 Standard LaTeX file
+
+Entering LaTeX 2.09 compatibility mode.
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+(d:/emtex/texinput/tracefnt.sty
+Package: tracefnt 1994/05/29 v2.3k Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 113.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 179.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 180.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 187.
+LaTeX Info: Redefining \em on input line 197.
+ (d:/emtex/texinput/latexsym.sty
+Package: latexsym 1994/05/27 v2.1e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 262.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 264.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 266.
+)
+(d:/emtex/texinput/report.cls
+Document Class: report 1994/06/02 v1.2s Standard LaTeX document class
+(d:/emtex/texinput/size10.clo
+File: size10.clo 1994/06/02 v1.2s Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+\bibindent=\dimen105
+) (d:/emtex/texinput/makeidx.sty
+Package: makeidx 1994/05/01 v1.0h Standard LaTeX package
+Standard package `makeidx' <1994/05/29>.
+)
+\@indexfile=\write4
+
+Writing index file gloss.idx 
+No file gloss.aux.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    No math setup on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 7.
+(d:/emtex/texinput/ulasy.fd
+File: Ulasy.fd 1994/05/27 v2.1eLaTeX symbol font definitions
+) [0
+
+]
+! Undefined control sequence.
+l.15 ...e Seven Towers. Possessed the \ndx
+                                          {Ring of
+? x
+ 
+Here is how much of TeX's memory you used:
+ 388 strings out of 6069
+ 3717 string characters out of 16933
+ 45753 words of memory out of 262143
+ 3188 multiletter control sequences out of 10000
+ 12648 words of font info for 46 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 20i,6n,19p,175b,241s stack positions out of 300i,100n,60p,5000b,1000s
+Output written on gloss.dvi (1 page, 340 bytes).

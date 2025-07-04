@@ -1,0 +1,138 @@
+H20041
+s 00108/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK55924
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/docs/McTrie.htm
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK01232
+cPdocs/McTrie.htm
+cR477a95d4
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META NAME="Author" CONTENT="Jim Jackl-Mochel">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (WinNT; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<H1>McTries</H1>
+
+<P>JimJM - 10.23.96</P>
+
+<H2>Standard Tries</H2>
+
+<P>Terms: gallop, gel, gentle, giant, giraffe, glorious, grape, grass,
+graze</P>
+
+<P>A standard trie would look like figure 1.</P>
+
+<H2>Multi-character Tries (McTries)</H2>
+
+<P>A 3 character McTrie would look like figure 2.</P>
+
+<P>To implement, I squeezed it into an array.</P>
+
+<P>Picture an array of fixed length nodes (called a block) with each node
+containing a fragment of the term (called a segment) , a boolean to indicate
+whether or not the segment terminates a term and a offset (in nodes ) to
+the next segment of the same level.</P>
+
+<P><B><TT>[Segment (3bytes)][Terminated?(1byte)][Right Offset (1byte)]</TT></B></P>
+
+<P>So the above set of words would be represented as:</P>
+
+<P><B><TT>00 [gal][0][2]<BR>
+01 [lop][1][0]<BR>
+02 [gel][1][1]<BR>
+03 [gen][0][2]<BR>
+04 [tle][1][0]<BR>
+05 [gia][0][2]<BR>
+06 [nt_][1][0]<BR>
+07 [gir][0][3]<BR>
+08 [aff][0][0]<BR>
+09 [e__][1][0]<BR>
+10 [glo][0][3]<BR>
+11 [rio][0][0]<BR>
+12 [us_][1][0]<BR>
+13 [gra][0][0]<BR>
+14 [pe_][1][1]<BR>
+15 [ss_][1][1]<BR>
+16 [ze_][1][0]</TT></B><BR>
+</P>
+
+<H2>Implementation</H2>
+
+<P>No bit manips currently.</P>
+
+<P>Adding a term to a McTrie takes 80 lines of fairly simple code (unoptimized
+as of yet).</P>
+
+<P>Searching for a terms takes 60 lines of less simple code (unoptimized
+as of yet).<BR>
+There is a stack of ints used.</P>
+
+<P>Printing out the whole thing takes even less code but is similiar to
+the searching code.</P>
+
+<H2>Implications</H2>
+
+<P>Much easier to build and search. </P>
+
+<P>Speed is still a question (sort of).</P>
+
+<P>Maximum word length becomes a function of the <B>segment size * number
+of nodes in a block</B>.</P>
+
+<P>Invert offsets stored in the McTrie are of as many bytes as each node
+takes up.</P>
+
+<H2>Sizes</H2>
+
+<P>For a 21,520 term sorted word list (NURS). </P>
+
+<H3>FTD&nbsp;</H3>
+
+<UL>
+<LI>339,968 Bytes </LI>
+
+<LI>Compressed 3to2</LI>
+</UL>
+
+<H3>McTrie </H3>
+
+<UL>
+<LI>Segment length is 3 bytes</LI>
+
+<LI>331,600 Bytes</LI>
+
+<LI>Without docs and occs storage</LI>
+
+<LI>44k in wasted bits. </LI>
+
+<LI>Uncompressed</LI>
+</UL>
+
+</BODY>
+</HTML>
+E 2
+I 1
+E 1

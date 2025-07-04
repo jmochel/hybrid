@@ -1,0 +1,145 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210111646.366;
+          10 Dec 91 11:17:06 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210111646.366;
+          10 Dec 91 11:16:56 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04495; Tue, 10 Dec 91 11:18:36 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11655; Tue, 10 Dec 91 11:01:33 -0500
+Message-Id: <9112101601.AA11655@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0184; Tue, 10 Dec 91 11:01:39 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 1673;
+ Tue, 10 Dec 91 11:01:38 EST
+Date:         Mon, 9 Dec 1991 18:31:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Dave_Wetzel%VOS.STRATUS.COM@uga.cc.uga.edu
+Subject:      RPG: Attributes
+X-To:         GMAST-L%UTCVM.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Re: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+
+>Ah, but not all learning is productive.  We learn bad habits, bad procedures,
+>and the bad learning becomes instinctive, just as good learning often does.  I
+>truly believe that failures can reduce your chances of further success.
+
+     But you can also learn (sometimes a LOT) from your mistakes!!  Failure
+or success shouldn't garentee increases or decreases in knowledge.  Usually
+it should increase skill, because even if it isn't perfect, you've learned
+a way to accomplish the task (or a way not to).
+
+[Regarding Dieties]
+
+     Dieties by definition should have no stats.  If you accept the concept
+of a diety, s/he should have 100% control over his sphere/element.  By the
+same token dieties shouldn't appear (but their followers/supernatural agents/
+etc can and those should be defined).
+
+     I absolutely hate the "Let's raid Hell today!!" game concept!  A true
+diety should be such a master of his home that he could remove anyone there
+from existance with a single thought.
+
+>Why stamp "Rogue" on a PC?  Why limit what a PC can learn anyway?
+
+     The reason for classes is that when you are trained to be say, a
+compter scientist, you learn a certain method of thinking.  Things that fall
+in line with that methodology are easier to learn than things that don't.
+
+     I don't think it's wise to limit what a PC can learn, but it is
+necessary (to be realistic anyway) to make some things HARD to learn based on
+the PC's fundemental training.  There are two ways to do this (that I can
+think of):
+
+     1) For every skill mark the related skills (as well as pre-reqs of
+          course) and the skills that are "in opposition".  The opposition
+          skills must be more expensive and the related ones cheaper.  Skills
+          that aren't listed as either are not affected.
+
+          My initial reaction to this is YUCK!!!  If you have more than about
+          5 skills people will give up on the disgusting links created.
+
+     2) Declare the character to be of a particular class/profession/career
+          and set the costs of skills on the basis of career.  The choice of
+          career indicates initial training:  a computer specialist is
+          assumed to have taken basic math, so advanced math comes easier to
+          him than if his initial training were in art.
+
+>Another thing I have a problem with is the idea of the Universal RPG.  I
+>*hate* the idea of GURPS!...  I think the system that covers all genres
+>adequately covers none of them well.
+
+     I have to agree (but not as vehemently) that it's difficult to make a
+good Generic RPG.  Generics tend to be not real good at any one genre because
+too many concessions have to be made to make it work for all.
+
+[dice system]
+>     - Use a difficulty system
+>     - Keep the numbers small
+>     - Keep arithmetic to naught
+>     - Stick with one or two types of dice
+
+     I also like difficulty systems.
+
+     I recommend however, percentile.  Though it covers a bigger range, it's
+much easier to deal with.  EVERYONE has an intuitive feel for percentages.
+If the GM decides there's a 17% chance to accomplish something, which is
+easier for him to figure out:  what to roll on 1d6, 3d6, d20, or d100?  Plus
+the advantage of a good range of numbers that gives the GM freedom to give
+slight advantages to specific rolls.  (ie:  that idea's a little better than
+average; I'll give you a +4%)  And all you need is d10's.
+
+>Well, some comments.  If I never see the words "Strength," "Constitution," or
+>"Dexterity" again, I'll be a very happy man.  Those old D&D stats have gotten
+>a little too much publicity, and they're not even good names.
+
+     I personally see no advantage to calling Stength Muscle.  Other than an
+irrational hatred for words begining with 'S', what specifically do you have
+against Strength?  I agree (as my earlier post shows) that Dex is not a fine
+enough graduation for what should be fine-motor control (call it manual
+dexterity or eye-hand-coordination) and gross-motor control (call it agility
+or co-ordination).  And I think con may suffer from the same sizing-problem,
+but I still don't see a problem with Strength.
+
+     And I'm not about to exclude words that have been used by other game
+systems!  We'll never get anywhere that way (Roll to hit, dice, skill,
+intellegence, power, etc)
+
+     I actually like our current list of stats, but here's some comments on
+your list:
+
+>Coordination -- grace and hand-eye coordination
+
+     Very different things.  See my earlier post.
+
+>Speed -- reflex and quickness of muscle
+
+     How is this different from Co-ordination's Grace aspect when doing large
+movements or the eye-hand coordination for fine, detailed movements?
+
+>Reason -- logical and mathematical ability
+>Creativity -- ability to come up with new ideas or combine things in new ways
+
+     Where's memory?  As in recolection of aquired fact.  I'd also rather put
+Reason and Creativity together as Reasoning:  the generation of concepts and
+inferences.  Sort of the application of facts.  Unless you're thinking of a
+specific game mechanism to go with Creativity.  Maybe magic requires
+creativity where as science and engineering require reasoning?  Otherwize I'm
+missing the point.
+
+>Instinct -- a perceptual "sixth sense" based on minute details picked up
+>          by the subconscious
+
+     I'd rather keep to the general category of Perception than specify a
+sense here.
+
+>Personality -- charm, "likeability"
+
+     Why not call it Charm?  Or (dare I use a D&D term??) Charisma?
+Personality is the sum total of your mental/emotional/spiritual being.  Or to
+use the dictionary's definition:  "the pattern of collective character,
+behavioral, tempermental, emotional, and mental traits of an individual"
+
+Dave_Wetzel@vos.stratus.com

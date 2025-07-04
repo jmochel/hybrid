@@ -1,0 +1,13 @@
+% Targeted Action Movement Modifiers
+\begin{table}[htb]
+\centering
+\caption{Targeted Action Movement Modifiers}
+	\begin{tabular}{||l|l||} \hline
+	Slow move: crawls, slow walks (combat )   & EF -1 \\
+	Normal move: Walking                      & EF -2 \\
+	Double Move: jog                          & EF -3 \\
+	Triple Move: Run                          & EF -4 \\
+	Fast move: Dash                           & EF -5 \\
+	Vehicular Movement                        & EF -6 \\  \hline
+	\end{tabular}
+\end{table}

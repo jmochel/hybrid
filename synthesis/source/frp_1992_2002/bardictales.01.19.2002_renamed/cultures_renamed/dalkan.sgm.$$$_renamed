@@ -1,0 +1,348 @@
+<!doctype book public "-//OASIS//DTD DocBook V4.0//EN">
+<book>
+
+<bookinfo>
+    <title>Dal-Kan Culture</title>
+    <author><firstname>Jim</firstname><surname>Jckl-Mochel</surname></author>
+</bookinfo>
+
+<chapter>
+	<title>Resources</title>
+    <epigraph>
+        <attribution>Some Guy</attribution>
+        <para>Some Saying</para>
+    </epigraph>
+    <para>Text</para>
+    <sect1>
+        <title>Noticeable Raw Materials</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Hidden Raw Materials</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Noticeable Other Assets</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Hidden Other Assets</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Nearby Assets</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Technology</title>
+        <para>Text</para>
+    <sect1>
+        <title>General</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Medical</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Weapon</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Magic</title>
+        <para>Text</para>
+    <sect1>
+        <title>General</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Medical</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Weapon</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Subsistence Patterns</title>
+        <para>Text</para>
+</chapter>
+
+<chapter>
+	<title>Values and Kinship</title>
+        <para>Text</para>
+</chapter>
+
+<chapter>
+	<title>Language</title>
+        <para>Text</para>
+    <sect1>
+        <title>Language Tree</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Mapping</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Dialects</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Literacy</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Writing Forms</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Sounds</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Vocabulary and Grammar</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Religion,Myths,and History</title>
+        <para>Text</para>
+    <sect1>
+        <title>Religion</title>
+        <para>Text</para>
+        <sect2>
+            <title>Cosmology</title>
+            <para>Text</para>
+        </sect2>
+        <sect2>
+            <title>Deities</title>
+        <para>Text</para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Myths</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>History</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Tradition</title>
+        <para>Text</para>
+    <sect1>
+        <title>Wedding</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Bedding</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Birthing</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Battle</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Other</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Institutions</title>
+        <para>Text</para>
+</chapter>
+
+<chapter>
+	<title>Institutions</title>
+        <para>Text</para>
+    <sect1>
+        <title>Clergy?</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Rites and Rituals</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Religious Norms</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Art, Architecture, and Symbolism</title>
+        <para>Text</para>
+    <sect1>
+        <title>Symbolism</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Common Motifs</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Significant Numbers</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Art</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Architecture</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Politics</title>
+        <para>Text</para>
+    <sect1>
+        <title>Leadership</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Fellowship?</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Class Structure</title>
+        <para>Text</para>
+</chapter>
+
+<chapter>
+	<title>Judicial Structure</title>
+        <para>Text</para>
+    <sect1>
+        <title>Making the Laws</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Enforcing the Laws</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Legal Code</title>
+        <para>Text</para>
+    <sect1>
+        <title>Ownership of Goods</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Land</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Male and Female Roles</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Church and State</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Death by Suicide</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Death by Anothers Hand</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Death in Self Defense</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Military</title>
+        <para>Text</para>
+    <sect1>
+        <title>Standing</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Command</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Routine</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Arms</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Outfitting</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Theory</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<chapter>
+	<title>Military</title>
+        <para>Text</para>
+    <sect1>
+        <title>Standing</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Command</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Routine</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Arms</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Outfitting</title>
+        <para>Text</para>
+    </sect1>
+    <sect1>
+        <title>Theory</title>
+        <para>Text</para>
+    </sect1>
+</chapter>
+
+<appendix>
+    <title>Clans</title>
+    <refentry>
+        <refmeta>
+            <refentrytitle>Musashi</refentrytitle>
+        </refmeta>
+        <refnamediv>
+            <refname>Musashi</refname>
+            <refpurpose>
+            </refpurpose>
+        </refnamediv>
+    </refentry>
+</appendix>
+
+</book>

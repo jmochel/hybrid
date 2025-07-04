@@ -1,0 +1,1004 @@
+h28329
+s 00976/00000/00000
+d D 1.1 99/11/17 12:49:47 jmochel 2 1
+cC
+cK55806
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:49:44 jmochel 1 0
+c BitKeeper file e:/jacl/C++/support/tm/BasicClass.ct
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45330
+cPC++/support/tm/BasicClass.ct
+cR2f93d7d35cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.. BasicClass.java.ct
+.. Defines the standard class member functions and so on for a java class.
+..
+.. JSJM
+.. 03/20/98
+..
+.. Generate the class and root file name
+..
+.insert Util.ct
+.insert BasicUnitTest.Amat.ct
+..
+.. Translates the string given to an appropriate type
+.set ndx ${strindex . ${dsfilename}}
+.set ndx ${- $(ndx) 1}
+.set fileroot ${strpad ${dsfilename} $(ndx) _ }
+.set classname C${strpad ${dsfilename} $(ndx) _ }
+..
+..
+..
+..
+.. Basic Class Declaration
+$(fileroot).hpp : Basic Class Declaration
+..
+..
+..
+..
+
+.. Header #ifndefs
+
+.redirect $(fileroot).h
+#ifndef __${toupper $(fileroot)}_H__
+#define __${toupper $(fileroot)}_H__
+#pragma once
+
+// @doc
+//============================================================================
+//
+//    Copyright Applied Materials Inc., 
+//    Unpublished work, create 1998.
+//    All use, disclosure, and/or reproduction of this material is
+//    prohibited unless authorized in writing.
+//    All Rights Reserved.
+//
+//    Rights in this program belong to:
+//
+//        Applied Materials Inc.
+//        Foundry Lane
+//        Horsham, West Sussex, RH13 5PY
+//
+//
+//============================================================================
+//
+//  File Name:  <???>
+//
+//  Description:
+//      <???>
+//
+//  Classes defined in this file:
+//      <???>
+//
+//============================================================================
+//
+//      $Archive:$
+//      $Author: jmochel $
+//      $Date: 1998/06/12 16:36:29 $
+//      $Revision: 1.1.1.1 $
+//
+//============================================================================
+
+#pragma message("JSJM: Code Guideline: Check API Naming")
+#pragma message("JSJM: Code Guideline: Check API Types")
+#pragma message("JSJM: Code Guideline: Check API Returns")
+#pragma message("JSJM: Code Guideline: Check API Exceptions")
+#pragma message("JSJM: Code Guideline: Check API Exception Specifications")
+#pragma message("JSJM: Code Guideline: Check Comments")
+
+#pragma message("JSJM: Code Guideline: Use new cast operators - dynamic_cast etc... ")
+#pragma message("JSJM: Code Guideline: Test array indices before using them to ensure no off-by-ones")
+#pragma message("JSJM: Code Guideline: Use const on parameters not modified by a method")
+#pragma message("JSJM: Code Guideline: Avoid friend functions or document why !")
+#pragma message("JSJM: Code Guideline: All switch statements => default clause")
+#pragma message("JSJM: Code Guideline: Avoid abbreviations")
+#pragma message("JSJM: Code Guideline: Used mixed case for identifeirs")
+#pragma message("JSJM: Code Guideline: Do not use exceptions as a normal means of reporting errors")
+
+#pragma message("JSJM: Code Guideline: Hung Notation - p=>Ptr, h=>Handle, r=>Reference, vVariant")
+
+
+// Library Headers
+
+
+#include "swiftverify.h"    // For SWIFT_VERIFY(condition)
+
+.. Class declaration
+
+.foreach T ${ttypelist}
+.set classname C${capitalize $T}
+.set varclassname $T
+
+//
+//
+//  @ClassDesc
+//
+//      $(classname) <???>
+//
+//  @ClassLongDesc
+//
+//      <???>
+//
+//  @ClassNotes
+//
+//      <???>
+//
+//
+//
+
+class $(classname)
+{
+    // @Access  Public
+
+    public:
+
+        // Typedefs, enums
+
+
+.foreach A ${ctypelist}
+        // @MemberDesc    <???>
+
+        enum ${capitalize $A}
+        {
+.foreach B ${conslist $A}
+           ${capitalize  $B},
+.endforeach
+        };
+.endforeach
+
+        // @MemberDesc    Void Constructor
+
+        $(classname)();
+
+        // @MemberDesc    Copy Constructor
+
+        $(classname)(const $(classname)& $(varclassname));
+
+        // @MemberDesc    Constructor
+
+        $(classname)(
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set vareltname $E
+.. If the type is an enum, add a class scope prefix.
+.set elttype ${ttypename $T $E}
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "const string&"
+.endif
+         $(elttype) $(vareltname),
+.endforeach
+        );
+
+        // @MemberDesc    Destructor
+
+        virtual ~$(classname)();
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string&"
+.endif
+
+        // @MemberDesc    Gets $(eltname)
+
+        const $(elttype) get$(eltname)(void) const;
+
+.endforeach
+
+        // Mutators
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set vareltname $E
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string"
+.endif
+
+        // @MemberDesc    Sets $(eltname)
+
+        HRESULT Set$(eltname)(const $(elttype)& $(vareltname));
+
+.endforeach
+
+        // @MemberDesc    Assignment Operator
+
+        $(classname)& operator =(const $(classname)& $(varclassname));
+
+        // Logic operators
+
+        // @MemberDesc    Generic compare for $(classname)
+
+        signed int  CompareTo(const $(classname)& $(varclassname)) const;
+        #pragma message(__FILE__ "(1) :"  "$(classname)::CompareTo needs to be implemented or removed")
+
+        // @MemberDesc    Equality operator
+
+        bool operator ==(const $(classname)& $(varclassname)) const;
+
+        // @MemberDesc    Less-than operator
+
+        bool operator <(const $(classname)& $(varclassname)) const;
+
+    // @Access Protected
+
+    protected:
+
+        // @MemberDesc Sets the Default values for the objects data members
+
+	    void SetDefaults(void);
+        
+    // @Access Protected
+
+    protected:
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+
+        // @MemberDesc      <???>
+
+        $(elttype)  m_$(eltname);
+
+.endforeach
+};
+.endforeach
+//============================================================================
+//
+//  Revision Log:
+//
+//      $Log: BasicClass.ct,v $
+//      Revision 1.1.1.1  1998/06/12 16:36:29  jmochel
+//      JACL-Rearranged for JAVA
+//
+//      Revision 1.1.1.1  1998/06/08 14:48:38  jmochel
+//      Origin
+//
+//      
+//      
+//============================================================================
+
+#endif //  __${toupper $(fileroot)}_H__
+
+.endredirect
+.redirect $(fileroot).cpp
+// @doc
+//============================================================================
+//
+//    Copyright Applied Materials Inc., 
+//    Unpublished work, create 1998.
+//    All use, disclosure, and/or reproduction of this material is
+//    prohibited unless authorized in writing.
+//    All Rights Reserved.
+//
+//    Rights in this program belong to:
+//
+//        Applied Materials Inc.
+//        Foundry Lane
+//        Horsham, West Sussex, RH13 5PY
+//
+//
+//============================================================================
+//
+//  File Name:  <???>
+//
+//  Description:
+//
+//      <???>
+//
+//============================================================================
+//
+//      $Archive:$
+//      $Author: jmochel $
+//      $Date: 1998/06/12 16:36:29 $
+//      $Revision: 1.1.1.1 $
+//
+
+#pragma message("JSJM: Code Guideline: Check API Naming")
+#pragma message("JSJM: Code Guideline: Check API Types")
+#pragma message("JSJM: Code Guideline: Check API Returns")
+#pragma message("JSJM: Code Guideline: Check API Exceptions")
+#pragma message("JSJM: Code Guideline: Check API Exception Specifications")
+#pragma message("JSJM: Code Guideline: Check Comments")
+
+#pragma message("JSJM: Code Guideline: Use new cast operators - dynamic_cast etc... ")
+#pragma message("JSJM: Code Guideline: Test array indices before using them to ensure no off-by-ones")
+#pragma message("JSJM: Code Guideline: Use const on parameters not modified by a method")
+#pragma message("JSJM: Code Guideline: Avoid friend functions or document why !")
+#pragma message("JSJM: Code Guideline: All switch statements => default clause")
+#pragma message("JSJM: Code Guideline: Avoid abbreviations")
+#pragma message("JSJM: Code Guideline: Used mixed case for identifeirs")
+#pragma message("JSJM: Code Guideline: Do not use exceptions as a normal means of reporting errors")
+
+#pragma message("JSJM: Code Guideline: Hung Notation - p=>Ptr, h=>Handle, r=>Reference, vVariant")
+
+.. Include header
+
+#ifndef EXCEPTIONS_HPP
+#include "Exceptions.hpp"
+#endif
+
+#ifndef CONDITION_HPP
+#include "Condition.hpp"
+#endif
+
+#ifndef REPORTER_HPP
+#include "Reporter.hpp"
+#endif
+
+#include "$(fileroot).hpp"
+
+.. Class Methods
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+.set varclassname $T
+
+/*
+    ===============================================================================
+
+                                    Constructors/Destructor
+
+    ===============================================================================
+
+*/
+
+//
+//
+//  @MethodDesc
+//
+//      Void Constructor
+//
+
+$(classname)::$(classname)()
+{
+	SetDefaults();
+}
+
+
+//
+//
+//  @MethodDesc
+//
+//      Copy Constructor
+//
+
+$(classname)::$(classname)(const $(classname)& $(varclassname))
+{
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+    SWIFT_VERIFY($(varclassname).m_$(eltname) != 0);
+.endforeach
+   
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set elttype ${ttypename $T $E}
+    m_$(eltname) = $(varclassname).m_$(eltname);
+.endforeach
+}
+
+//
+//
+//  @MethodDesc
+//
+//      Constructor
+//
+.foreach E ${telmlist $T}
+.set eltname $E
+.set elttype ${ttypename $T $E}
+//  @MethodParm.<???>
+//
+//      <???>
+//
+.endforeach
+//
+//  @MethodNotes
+//
+//      <???>
+//
+//
+//
+
+
+$(classname)::$(classname)(
+.foreach E ${telmlist $T}
+.set eltname $E
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "const string&"
+.endif
+$(elttype) $(eltname),
+.endforeach
+        )
+{
+.foreach E ${telmlist $T}
+.set eltname $E
+.set elttype ${ttypename $T $E}
+    SWIFT_VERIFY($(eltname) != 0);
+.endforeach
+.foreach E ${telmlist $T}
+.set eltname $E
+.set membername m_${capitalize $E}
+.set elttype ${ttypename $T $E}
+    $(membername) = $(eltname);
+.endforeach
+}
+
+//
+//
+//  @MethodDesc
+//
+//      Destructor
+//
+//  @MethodNotes
+//
+//      <???>
+//
+
+$(classname)::~$(classname)()
+{
+}
+
+/*
+    ===============================================================================
+
+                                    Initialization
+
+    ===============================================================================
+
+*/
+
+//
+//
+//  @MethodDesc
+//
+//      Sets the class to the default state.
+//
+//  @MethodNotes
+//
+//      <???>
+//
+
+void $(classname)::SetDefaults(void)
+{
+.foreach E ${telmlist $T}
+.set membername m_${capitalize $E}
+.set elttype ${ttypename $T $E}
+.if ${eq $(elttype) string}
+    $(membername) = "";
+.else
+    $(membername) = 0;
+.endif
+.endforeach
+}
+
+
+/*
+    ===============================================================================
+
+                                    Accessors
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set membername m_${capitalize $E}
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string&"
+.endif
+
+
+//
+//
+//  @MethodDesc
+//
+//      Gets $(eltname)
+//
+//
+//  @MethodReturn
+//
+//      const $(eltname) of type $(elttype)
+//
+//  @MethodNotes
+//
+//      <???>
+//
+
+const $(elttype) $(classname)::Get$(eltname)(void) const
+{
+    return($(membername));
+}
+
+.endforeach
+
+/*
+    ===============================================================================
+
+                                    Mutators
+
+    ===============================================================================
+
+*/
+
+.foreach E ${telmlist $T}
+.set eltname ${capitalize $E}
+.set vareltname $E
+.set membername m_${capitalize $E}
+.set elttype ${ttypename $T $E}
+.. If the type is an enum, add a class scope prefix.
+.if ${member ${tolower $(elttype)} ${ctypelist} }
+.set elttype $(classname)::$(elttype)
+.endif
+.. If the type is a string, set it to a reference to a string
+.if ${eq $(elttype) string}
+.set elttype "string&"
+.endif
+
+//
+//
+//  @MethodDesc
+//
+//      Sets $(eltname) 
+//
+//
+//  @MethodParm.$(vareltname) 
+//
+//      The vaue to be assigned to the attribute $(eltname)
+//
+//  @MethodNotes
+//
+//      <???>
+//
+
+HRESULT $(classname)::Set$(eltname)(const $(elttype)& $(vareltname))
+{
+    SWIFT_VERIFY($(vareltname) != 0);
+
+    // Defensive response to incorrect parameter contents
+
+    if ($(vareltname) == 0 )
+    {
+        return(ERROR_INVALID_PARAMETER);
+    }
+
+    // Assign the data to the member
+
+	$(membername) = $(vareltname);
+
+    return(ERROR_SUCCESS);
+}
+
+.endforeach
+
+/*
+    ===============================================================================
+
+                                    Logic Operators
+
+    ===============================================================================
+
+*/
+
+//
+//
+//  @MethodDesc
+//
+//      Compares two $(classname) objects
+//
+//
+//  @MethodParm.$(varclassname)
+//
+//      Object to be compared to this one.
+//
+//  @MethodReturn
+//
+//        -1 if *this falls into sequence before a$(classname)
+//         0 if the two objects are equal.
+//        +1 if *this falls into sequence after a$(classname)
+//
+//  @MethodNotes
+//
+#pragma message("JSJM: $(fileroot).cpp : document the comparison collation sequence")
+//
+//
+//
+   
+signed int  $(classname)::CompareTo(const $(classname)& $(varclassname)) const
+{
+    #pragma message(__FILE__ "(1) :"  "$(classname)::CompareTo needs to be implemented or removed")
+
+
+    return(0);
+}
+
+//
+//
+//  @MethodDesc
+//
+//      Checks two $(classname) objects for equality
+//
+//
+//  @MethodParm.$(varclassname)
+//
+//      Object to be compared to this one.
+//
+//  @MethodReturn
+//
+//      true if the two object are equal.
+//
+//  @MethodNotes
+//
+//      Explain the equality criteria.
+//
+    
+bool  $(classname)::operator ==(const $(classname)& $(varclassname)) const
+{
+    return(CompareTo($(varclassname)) == 0);
+}
+
+//
+//
+//  @MethodDesc
+//
+//      Checks two $(classname) objects for the less than relationship
+//
+//
+//  @MethodParm.$(varclassname)
+//
+//      Object to be compared to this one.
+//
+//  @MethodReturn
+//
+//      true if the the left hand object is less than the right.
+//
+//  @MethodNotes
+//
+//      Explain the equality criteria.
+//
+
+bool  $(classname)::operator <(const $(classname)& $(varclassname)) const
+{
+    return(CompareTo($(varclassname)) == -1);
+}
+
+/*
+    ===============================================================================
+
+                                    Assignment
+
+    ===============================================================================
+
+*/
+
+//
+//
+//  @MethodDesc
+//
+//      Assignment Operator
+//
+//
+//  @MethodParm.$(varclassname)
+//
+//      Object to be assigned to this one.
+//
+//  @MethodReturn
+//
+//      A reference to this object.
+//
+//  @MethodNotes
+//
+//      <???>
+//
+//
+//
+
+$(classname)& $(classname)::operator =(const $(classname)& $(varclassname))
+{
+    if ( this == &$(varclassname) )
+    {
+        return(*this);
+    }
+
+.foreach E ${telmlist $T}
+.set membername m_${capitalize $E}
+.set elttype ${ttypename $T $E}
+    $(membername) = $(varclassname).$(membername);
+.endforeach
+
+    return(*this);
+}
+.endforeach
+
+//============================================================================
+//
+//  Revision Log:
+//
+//      $Log: BasicClass.ct,v $
+//      Revision 1.1.1.1  1998/06/12 16:36:29  jmochel
+//      JACL-Rearranged for JAVA
+//
+//      Revision 1.1.1.1  1998/06/08 14:48:38  jmochel
+//      Origin
+//
+//      
+//      
+//============================================================================
+.endredirect
+
+..
+..
+..
+..
+.. Unit Test
+$(fileroot)UnitTest.cpp : Unit Test
+..
+..
+..
+..
+.redirect $(fileroot)UnitTest.cpp
+// @doc
+//============================================================================
+//
+//    Copyright Applied Materials Inc., 
+//    Unpublished work, create 1998.
+//    All use, disclosure, and/or reproduction of this material is
+//    prohibited unless authorized in writing.
+//    All Rights Reserved.
+//
+//    Rights in this program belong to:
+//
+//        Applied Materials Inc.
+//        Foundry Lane
+//        Horsham, West Sussex, RH13 5PY
+//
+//
+//============================================================================
+//
+//  File Name:  <???>
+//
+//  Description:
+//
+//      <???>
+//
+//============================================================================
+//
+//      $Archive:$
+//      $Author: jmochel $
+//      $Date: 1998/06/12 16:36:29 $
+//      $Revision: 1.1.1.1 $
+//
+
+
+#pragma message("JSJM: Code Guideline: Check API Naming")
+#pragma message("JSJM: Code Guideline: Check API Types")
+#pragma message("JSJM: Code Guideline: Check API Returns")
+#pragma message("JSJM: Code Guideline: Check API Exceptions")
+#pragma message("JSJM: Code Guideline: Check API Exception Specifications")
+#pragma message("JSJM: Code Guideline: Check Comments")
+
+#pragma message("JSJM: Code Guideline: Use new cast operators - dynamic_cast etc... ")
+#pragma message("JSJM: Code Guideline: Test array indices before using them to ensure no off-by-ones")
+#pragma message("JSJM: Code Guideline: Use const on parameters not modified by a method")
+#pragma message("JSJM: Code Guideline: Avoid friend functions or document why !")
+#pragma message("JSJM: Code Guideline: All switch statements => default clause")
+#pragma message("JSJM: Code Guideline: Avoid abbreviations")
+#pragma message("JSJM: Code Guideline: Used mixed case for identifeirs")
+#pragma message("JSJM: Code Guideline: Do not use exceptions as a normal means of reporting errors")
+
+#pragma message("JSJM: Code Guideline: Hung Notation - p=>Ptr, h=>Handle, r=>Reference, vVariant")
+
+.. Include headers
+
+#include "$(fileroot).h"
+
+.. Now the unit test
+
+/*
+    @ProcDesc
+
+        Unit test of $(fileroot)
+
+    @ProcNotes
+
+        <???>
+*/
+
+HRESULT $(classname)UnitTest(int argCnt, char* argValues[])
+{
+    $(classname)*   aDynamic$(classname);
+
+    try
+    {
+        $(classname)    aStack$(classname);
+    
+        // Test the dynamic allocation 
+    
+        aDynamic$(classname) = new $(classname)();
+
+        delete(aDynamic$(classname));
+    }
+    catch (...)
+    {
+        // Clean up to known state
+
+        delete(aDynamic$(classname));
+
+        throw();
+    }
+
+    return(ERROR_SUCCESS);
+}
+
+//============================================================================
+//
+//  Revision Log:
+//
+//      $Log: BasicClass.ct,v $
+//      Revision 1.1.1.1  1998/06/12 16:36:29  jmochel
+//      JACL-Rearranged for JAVA
+//
+//      Revision 1.1.1.1  1998/06/08 14:48:38  jmochel
+//      Origin
+//
+//      
+//      
+//============================================================================
+.endredirect
+
+.redirect $(fileroot)UnitTestMain.cpp
+.. File comment
+
+/*
+    @doc
+
+    .Contains: $(fileroot) Unit Test Main 
+
+    .Author: Jim Jackl-Mochel
+
+    .Date: <???>
+
+    .Copyright:  This code is in the public domain.
+
+    Revision Information 
+    ==================== 
+    $$Author: jmochel $$
+    $$Revision: 1.1.1.1 $$
+    $$Date: 1998/06/12 16:36:29 $$
+*/
+
+.. Checklist
+
+#pragma message("$(fileroot)UnitTestMain.cpp : Check that all Exceptions are caught and handled.")
+#pragma message("$(fileroot)UnitTestMain.cpp : Check local variable and parameter naming")
+#pragma message("$(fileroot)UnitTestMain.cpp : Lint")
+#pragma message("$(fileroot)UnitTestMain.cpp : PRofile")
+
+.. Include headers
+
+#include <cstdlib>
+
+#ifndef REPORTER_HPP
+#include "Reporter.hpp"
+#endif
+
+#include "$(fileroot).hpp"
+
+.. Now the unit test
+
+extern int $(classname)UnitTest(int argCnt, char* argValues[]);
+
+// Unit Test 
+
+Reporter GlobalReporter(AppInfo(string("${tolower $(fileroot)}unittest"),string("1.00.00")));
+
+/*
+    @ProcDesc
+
+        Main for unit test of $(fileroot)
+
+    @ProcNotes
+
+        <???>
+*/
+
+int main(int argCnt, char* ArgValues[])
+{
+    try
+    {
+        return( $(classname)UnitTest(argCnt,argValues));
+    }
+    catch (...)
+    {
+        // Get out of this
+
+        return(EXIT_FAILURE);
+    }
+
+    return(EXIT_SUCCESS);
+}
+
+.endredirect
+
+.redirect $(fileroot)IO.cpp
+.. File comment
+/*
+    @doc
+
+    $$Author: jmochel $$
+
+    $$Revision: 1.1.1.1 $$
+
+    $$Date: 1998/06/12 16:36:29 $$
+
+    .Contains iostream io routines for ${tolower $(fileroot)}.cpp 
+
+    .Copyright DateHere Jim Jackl-Mochel, All rights reserved
+*/
+.. Include header
+
+#include <iostream>
+
+#include "$(fileroot).hpp"
+
+.. Class Methods
+
+.foreach T ${ttypelist}
+.set classname ${capitalize $T}
+
+.. ostream& $(classname)::operator <<(ostream& os, const $(classname)& a$(classname))
+.. {
+..     // Put out the name of the class
+..     
+..     os << "$(classname):\n";
+..     
+..     // Now the data members of the class
+.. .foreach E ${telmlist $T}
+.. .set eltname ${capitalize $E}
+.. .set elttype ${ttypename $T $E}
+..     os << "\t" << "$(eltname)=" << a$(classname)._$(eltname) << "\n";
+.. .endforeach
+.. 
+..     return(os);
+.. }
+.endforeach
+.endredirect
+E 2
+I 1
+E 1

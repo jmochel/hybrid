@@ -1,0 +1,94 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209151257.272;
+          09 Dec 91 15:14:16 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209151257.272;
+          09 Dec 91 15:14:08 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03934; Mon, 9 Dec 91 15:14:47 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA12457; Mon, 9 Dec 91 14:11:19 -0500
+Message-Id: <9112091911.AA12457@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 5698; Mon, 09 Dec 91 14:11:14 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 1867;
+ Mon, 09 Dec 91 14:10:46 EST
+Date:         Mon, 9 Dec 1991 13:55:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Dave_Wetzel%VOS.STRATUS.COM@uga.cc.uga.edu
+Subject:      GD: Attribute System
+X-To:         GMAST-L%UTCVM.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+********* Comment on attributes...
+
+     I think the attributes should be above all else easy to understand.  In
+fact it should be the easiest thing to understand in the whole system.  For
+that reason (and really, only that reason) I'd prefer to stay away from the
+mind/body concept and keep with more easily identified attributes.
+
+*********  Open questions...
+
+Brian (BM5371A@DRAKE.BITNET) asks:
+     "BIG QUESTION ON ATTRIBUTE SYSTEM:  Will it be a randomly generated
+     attribute system (a la D&D and Rolemaster) or a player-chosen system
+     based on points (a la GURPS and HEROSystem)???"
+
+     I think we could have both.  I'ld propose the following three methods of
+character generation (the choice would be up to the player, though the GM has
+the option of not allowing a method to be used in his/her campaign):
+
+     a) Roll #d# per attribute.  Then move them as desired if you
+          have a character in mind.
+     b) Roll #d# total die.  This is the total number of points you have
+          to be split amongst the attributes as you see fit.
+     c) Each player gets # points to be split amongst the attributes as
+          they see fit.
+
+     I really don't see a conflict here.  The second sentence I don't really
+understand:
+
+          "I think that this will be important to decide early because it
+          will determine whether we need to decide the costs of skills and
+          the like (in points) or set up tables for random generation."
+
+     What tables do you need for random generation of attributes??
+
+Greg Porter says:
+     "As a general note on how finely you wish to split attributes, it makes
+     a big difference on whether skills are "skill-driven" or "attribute
+     driven"."
+
+     I get your point.  I've never seen a system that was so skill-driven
+that it didn't matter at all what attributes you use (I have never played
+your game, sorry).  I think as long as it could give you a +1 to the skill
+(whatever that means in the system), the dex needs to be split.  If the
+attributes don't affect the resolution of action at all, then maybe we should
+not have attributes.
+
+*********  New Comments...
+
+     As much as I like the comments about increasing skills through use (as
+opposed to xp), I want to point out that if we go that route, we need to
+develop a mechanism for learning new skills during play.  I'm not necessarily
+opposed to it, but I think we need to discuss that a bit before we decide.
+Actually I like the concept of getting better at something through use, but
+there also needs to be a way of picking up new skills (and improving existing
+ones for that mater) through instruction.
+
+     I also think that the attributes should be able to change over time.
+I'd like to see (and so I'm proposing) that the character be allowed to take
+instruction in or perform activities that can increase attributes.  As an
+example I recently decided to take a t'ai ch'i class.  If I learn it well, it
+will improve my agility (thanks for supplying that term!).  Likewize, someone
+could take wieght-lifting to improve their strength.  There may not be
+"classes" for all the attributes, but at least those two should be worked in.
+
+     I thought of a new attribute as well.  It's another Con derivative.  How
+about Endurance?  Resistance and Endurance are surely seperate things, right?
+I mean Endurance here to measure how long a person can continually perform a
+physical activity.  Like:  your agility and strength let you move at 5 meters
+per round; but your endurance lets you do that only for N rounds.  I may be
+complicating this too much.
+
+dave_wetzel@vos.stratus.com

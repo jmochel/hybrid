@@ -1,0 +1,66 @@
+h10656
+s 00038/00000/00000
+d D 1.1 99/12/02 16:00:02 jmochel 2 1
+cC
+cK38327
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:59:59 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/confed/race.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45000
+cPworlds/confed/race.txt
+cReb47865b5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Terran
+======
+PBD Mod=1.0
+PMV Mod=1.0
+MDB Mod=1.0
+MMV Mod=1.0
+HT (Avg=1.8m,Var=0.1m)
+WT (Avg=80kg,Var=7kg)
+
+Proximan
+========
+PST+2,PEN+1,PAG+1,PAW+1,PSI-3,MAW-1
+PBD Mod=1.1
+PMV Mod=1.1
+MDB Mod=1.0
+MMV Mod=0.9
+HT (Avg=1.7m,Var=0.1m)
+WT (Avg=80kg,Var=5kg)
+
+Alpha
+=====
+PSI+3,MAW+1,MST+1,MEN+1,PST-1,PBD-2,PFT-2,PAW-1
+PBD Mod=0.95
+PMV Mod=0.90
+MDB Mod=1.0
+MMV Mod=1.3
+HT (Avg=1.9m,Var=0.1m)
+WT (Avg=80kg,Var=5kg)
+
+Artifact:Combat-2226
+====================
+PST+1,PEN+1,DEX+1,PAG+1,PSI-4,PAW+1
+PBD Mod=1.2
+PMV Mod=1.2
+MDB Mod=1.0
+MMV Mod=0.9
+HT (Avg=1.8m,Var=0.1m)
+WT (Avg=1.8m,Var=0.1m)
+E 2
+I 1
+E 1

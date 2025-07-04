@@ -1,0 +1,57 @@
+Hi Folks,
+	Here is some quick detail about fatigue and exhaustion followed 
+        by some ideas I have about how to model it. 
+
+People typically have a basal(at rest) metabolic rate of 70 cal/hr. Humans
+typically take in enough oxygen for 90 cal/hr.a minute. As a person becomes
+more active the body tends to balance the oxygen intake with the actual 
+energy expenditures. The continues up until the persons activity gos beyond
+a brisk walk. At that point the body's efforts to counter the energy 
+expenditures with oxygen intake are no longer completely successful and
+so the body makes use of a stored pool of energy called the oxygen reserve. 
+This pool is roughly 75 calories in size. 
+
+Once you go beyond the so-called normal levels of activity up into
+the super-normal activitys (jogging, running, sprinting) energy starts
+to come from the reserve to the point where a 100 meter dash is an almost
+aerobic activity since O2 intake cannot even begin to balance out the 
+energy costs. When the reserve is depleted the person displays all the 
+symptoms we have come to know as exhausted.
+
+Once the activity has ended the body continues to labor to refill the
+reserve. Usually about 90% of the depeleted energies have been returned
+inside a period of three minutes. Of course, this ignores the muscle fatigue
+that is also a by product of the work performed. 
+
+I intend to model this in a fairly simple manner in the beginning.
+I will create a stat called Physical EXhaustion or PEX. This stat will
+average about 75 points. Most lighter activities will expend PFT and 
+expending 10 PFT will expend 1 PEX. The heavier activitys such as running
+and so on will directly expend PEX, with all the culmulative modifiers 
+implied by exhaustion. 
+
+The values for energy and PEX expenditure are below for joe average:
+
+Action                  PEX or Calories cost
+CRAWL (.5m/sec)         -
+WALK  (1m/sec)          -
+JOG (2m/sec)            1 PEX/min
+RUN (4m/sec)            6 PEX/min
+DASH (8m/sec)           2 PEX/sec
+
+The only problem with this is that , if I were designing strictly to model
+reality I would have most of the PEX return in 3 or 4 minutes and have 
+a seperate model for muscle fatigue. The very concept scares me. What I 
+was thinking instead was  that I would assume that muscle fatigue and 
+energy fatigue (as modeled above ) would proceed at the same rate and thus
+PEX would be an effective representation of the OVERALL fatigue of the 
+character. I would then let the person get back their PEX at a rate closer
+to the rate at which muscle fatigue returns than currently.
+
+Comments, Suggestions, Flames.
+
+
+This detailed research is brought to you, in part, by Mochel's
+Muddy Modeling - "M.M.M. - For an equationless tommorrow."
+
+

@@ -1,0 +1,112 @@
+h30123
+s 00085/00000/00000
+d D 1.1 00/02/04 15:12:39 jmochel 2 1
+cK56731
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:12:36 jmochel 1 0
+c BitKeeper file g:/BardicTales/ShapeShifters/Questions.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07851
+cPShapeShifters/Questions.txt
+cR84cc63785cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+q: Is it possible that Catbird is unconciously using the Gates of Chronos?
+
+Anything is possible... but no, it is very unlikely.  She might be managing
+to slip through the Gates and not be stopped by them.  They as much ward time and
+space as control it.
+
+q: Is it possible that the secondary ward placed on Morphus is
+will magic ?
+
+Yes.  It is also Abjurational - Warding mucho grande.
+
+q: Do I remember any mention of Falstaff saving Tyriontill  from a raver
+
+Yes. One of the Grey Wanderers- Known as the White Mage- fought the
+Air Raver Oleanth who tried to link to Tyriontill and absorb him.  The White Mage
+is said to be a Binder and a Willworker of some Power.
+The White Mage and The Blade of Stone were said to often be at odds.  The
+Ice Wolf and the Stormlord were other Grey Wanderers that were rumored or storied
+to interact with the elves.
+
+q: Now that I know which Vordak this is (Guards the Gates of Chronos, He who
+>brought the Book of Winds back, etc..) can I figure out who else has summoned
+>him.
+
+ Not a chance.  Your lore of the Vordock is much to small.  This is a
+BIG, and super unusually, powerful Vordock.  You think your summoning probably
+should not have called one so powerful.
+
+
+q: How easily cold the Vordak have mistaken Morphus's pattern for that of
+>a dragon ?
+
+ Unlikely.  You think Morphus' mind doesn't look anything like a Dragon's.
+
+
+q: I get the impression that Kheldar may have done something to help
+>initiate the original purge. Do I remember the names of any of those who
+>did so ? Wh may have performed some heedless action and endangered or
+>killed others ?
+
+Yes. The Ice Wolf is said to havehad something to do with the orignal purge
+but it was primarily, according to conservative elven scholars, the Blade 
+of Stone that caused the Purge.  Others argue the "it was inevitable, 
+and the Grey Wanderers did what they had to" argument.
+The Lord of The Dorian Empire Chepu Akanasi was the first major Lord
+to declear Purge.  The rest of the human world quickly followed suit.  
+It happened fast- irrationally fast!  It was probably aided by 
+external forces but noone knows who.
+
+q: By Morpus's past memories I can guess that Morphus has been keyed
+>to ABjuration in the Human manner. Is it possible that he has incorporated
+>that key into himself ?
+
+ Yes.  It seems almost certain that he has been keyed.  It is also possible,
+though less so that he incorporated the Ke
+y into himself.
+
+q: Is there any quiet way for me to contact Lord Carolyn of the High Elves? Does he
+>accept messages from Itinerate Wizards ?
+
+ Pray.  Not usually!  A priest of Labelas is a likelier bet if you still
+wanted to contact a higher up.
+
+q: How does one break the connection between a Greater Dark and the
+>Dark Mage controlling it ? Does the Sunbane have any effect on Greater
+>Dark ?
+
+ Kill the Dark Mage.  Destroy the material pattern of the control(there will
+always be one).  Shape it out of existence.  Tear it up with a power attack.
+ Yes, the sunbane effects them but they are so strong they can fight it.
+
+q: Can a greater Death dodamge  to a FaerHan-Quenyan hald breed ?
+
+ Only physical damage.  Its illusions and enchantments would be at half
+effective against you, and its death attacks would not work.
+
+q: Is there enough left to Tyriontil to communicate with ?
+Yes and no.  There can be slow translated communication.  There are experts
+at that process.
+
+q: What is destroying the Linking Ward in the Hall of kings ?
+>Is it likely that this only one of severallinking wards ?
+
+ Hard to say.  Hard to say.  There are probably other linking wards.
+
+E 2
+I 1
+E 1

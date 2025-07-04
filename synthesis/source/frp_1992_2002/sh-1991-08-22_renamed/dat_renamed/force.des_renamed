@@ -1,0 +1,14 @@
+.Name ForceShield
+.NRG Light
+.ACT Summon
+.ACT AntiTransport
+
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 7
+.CEF 7
+.RNGSCALE 1m
+.RNG 1
+.CTSCALE Pulse
+.QE 11

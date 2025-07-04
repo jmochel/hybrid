@@ -1,0 +1,97 @@
+h52787
+s 00069/00000/00000
+d D 1.1 99/12/02 15:40:50 jmochel 2 1
+cC
+cK12259
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:46 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Data/Skills/physicalskills.skilldat
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44885
+cPData/Skills/physicalskills.skilldat
+cReb47851f5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Title Physical Skills
+
+.BeginSkill	Dance:(Type)
+.BaseType ART
+.Interaction U
+.Implementation NT
+.StatBasis		PAG
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Movement:(Environment)
+.BaseType PDISC
+.Interaction U
+.Implementation NT
+.StatBasis PAG
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Quickdraw Projectile Weapon:(Specify Class of Weapon)
+.BaseType PDISC
+.Interaction U
+.Implementation ST
+.StatBasis		PDX
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Projectile Weapon:(Specify Weapon)
+.BaseType PDISC
+.Interaction U
+.Implementation ST
+.StatBasis		ACC
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Melee Weapon:(Specify Weapon)
+.BaseType PDISC
+.Interaction U
+.Implementation ST
+.StatBasis		PCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Dodge
+.BaseType PDISC
+.Interaction U
+.Implementation NT
+.StatBasis		PDF
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//w3c//dtd html 4.0 transitional//en" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML> 
+  <HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META NAME="GENERATOR" CONTENT="Mozilla/4.5 [en] (WinNT; U) [Netscape]">
+    <META NAME="Author" CONTENT="Bruce Johnston"> 
+    <TITLE>weblogic.properties for DPI environments</TITLE> 
+  </HEAD> 
+  <BODY BGCOLOR="#FFFFFF"> 
+    <H2> weblogic.properties changes for NMC2 </H2> Make the following changes
+    in each of the sections listed below (<A HREF="weblogic.properties">click here
+    to see an example of an editted file</A>) 
+    <H4> WEBLOGIC EJB DEMO PROPERTIES</H4> 
+    <BLOCKQUOTE>Add: 
+      <BLOCKQUOTE> 
+        <PRE>&nbsp;</PRE><FONT
+        FACE="Courier New, Courier, mono">weblogic.ejb.deploy=d:/nmc2/code/nmc2.jar</FONT>
+        </BLOCKQUOTE> where "d:/nmc2" is the root of the code tree</BLOCKQUOTE> 
+    <H4> WEBLOGIC JDBC CONNECTION POOL MANAGEMENT</H4> 
+    <BLOCKQUOTE>Add: 
+      <BLOCKQUOTE> 
+        <PRE></PRE><FONT
+        FACE="Courier New, Courier, mono">weblogic.jdbc.connectionPool.ejbPool=\&nbsp;&nbsp;&nbsp;&nbsp;
+        url=jdbc:weblogic:oracle,\&nbsp;
+        driver=weblogic.jdbc.oci.Driver,\&nbsp;&nbsp;&nbsp;&nbsp;
+        loginDelaySecs=1,\&nbsp; initialCapacity=4,\&nbsp;&nbsp;&nbsp;&nbsp;
+        maxCapacity=10,\&nbsp; capacityIncrement=2,\&nbsp;&nbsp;&nbsp;&nbsp;
+        allowShrinking=true,\&nbsp; shrinkPeriodMins=15,\&nbsp;&nbsp;&nbsp;&nbsp;
+        refreshMinutes=10,\&nbsp; testTable=dual,\&nbsp;&nbsp;&nbsp;&nbsp;
+        props=user=techplanner;password=nmc2;server=DevilMountain</FONT> </BLOCKQUOTE>
+      And add the following after "Set up ACLs for this connection..." 
+      <BLOCKQUOTE> 
+        <PRE></PRE><FONT
+        FACE="Courier New, Courier, mono">weblogic.allow.reserve.weblogic.jdbc.connectionPool.ejbPool=everyone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        weblogic.allow.reset.weblogic.jdbc.connectionPool.ejbPool=everyone&nbsp;
+        weblogic.allow.shrink.weblogic.jdbc.connectionPool.ejbPool=everyone</FONT>
+        </BLOCKQUOTE> 
+      <H4> <BR> <FONT FACE="Courier New, Courier, mono">USER-WRITTEN AND DEMO
+        SERVLET REGISTRATIONS</FONT></H4> Add a section to register the NMC2 Servlets
+      beginning with the following header: 
+      <BLOCKQUOTE> 
+        <PRE></PRE><FONT
+        FACE="Courier New, Courier, mono">###################################################################
+        # Registration of NMC2 Servlets.&nbsp; The initArgs of SpiderLogin # are as
+        follows: # #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WebServer&nbsp; = the URL of
+        the WebServer #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServletURL = suffix to
+        WebServer URL to get at servlets #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        FileURL&nbsp;&nbsp;&nbsp; = suffix to WebServer URL to get at files #
+        ###################################################################</FONT>
+        </BLOCKQUOTE> After the above header add the individual servlet
+      registrations.&nbsp; These can be obtained using the
+      <A
+       HREF="WLPropertiesDataForNewServlets.xls">WLPropertiesDataForNewServlets.xls</A>
+      spreadsheet.&nbsp; This should produce a series of servlet registrations
+      (several dozen) which look like: <BR><FONT
+      FACE="Courier New, Courier, mono"></FONT>&nbsp; 
+      <BLOCKQUOTE> 
+        <PRE></PRE><FONT
+        FACE="Courier New, Courier, mono">weblogic.httpd.register.SrvInitialToolSel=com.prn.nmc2.Presentation.SrvInitialToolSel
+        weblogic.httpd.initArgs.SrvInitialToolSel=\
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        WebServer=http://DevilMountain.corp.foliage.com:7001/,ServletURL=,FileURL=file/NMC2/</FONT>
+        </BLOCKQUOTE> <FONT FACE="Courier New, Courier, mono"></FONT> 
+      <P><BR>Cut and paste the results after the header above.
+        <BR>&nbsp;</P></BLOCKQUOTE> </BODY>
+</HTML>

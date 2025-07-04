@@ -1,0 +1,44 @@
+H61319
+s 00000/00000/00001
+d D 1.3 01/09/14 15:19:54 jmochel 4 3
+c Rename: BitKeeper/deleted/.del-gone~64e17d32 -> BitKeeper/etc/gone
+cC
+cK06025
+cPBitKeeper/etc/gone
+e
+s 00000/00000/00001
+d D 1.2 01/09/14 15:19:52 jmochel 3 2
+c 'Auto converge rename'
+cK14916
+cPBitKeeper/deleted/.del-gone~64e17d32
+e
+s 00001/00000/00000
+d D 1.1 01/08/31 16:32:58 jmochel 2 1
+cC
+cF1
+cK10243
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/31 16:32:58 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/BitKeeper/etc/gone
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK14636
+cPBitKeeper/etc/gone
+cR64e17d32
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+jmochel@devilmountain.corp.foliage.com|SerializingDoclet/src/SerializingDoclet.java|20010622170051|07114|5a3b82b7
+E 2
+I 1
+E 1

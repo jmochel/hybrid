@@ -1,0 +1,92 @@
+\chapter{Skills}
+
+A \ndx{skill} is an area of knowledge. A skill is defined as something that can
+be learned and allows you to do something. Skills are used in almost every
+action a player character performs and are discussed seperately from
+other subjects because they are extremely important.
+
+Proficiency in a skill is described by a number with a range of 0-20.
+The higher the number, the greater the character's expertise. Someone
+is completely unfamiliar with a skill is considered to be
+\ndx{unranked}. Someone who is familiar with the basics of
+the skill is rank 0. A talented amateur is has a rank 3 or 4. A
+solid workaday craftsman has a rank 5-7. A professional is rank 8 or 9. 
+An expert in a skill has a rank 12 - 14.
+A true master of a skill has a rank 16-20 in a skill. 
+
+\section{Skills}
+
+\ndx{Skills} are described fairly simply:
+
+\begin{relate}
+	\item[Name] 
+	Self Explanatory
+	\item[Stat Basis] 
+	The stat, or combination of stats, that is needed
+	when using the skill.
+	\item{Difficulty Factor] 
+	The modifier for doing any action with this skill.
+	\item[Cost] 
+	The experience point cost is the amount of experience points it takes to
+	buy a roll in a skill. 
+	\item[Generation Cost]
+	The cost in Skill Pool Points of a skill or skill package. Skills
+	only cost 1 Skill Pool Point. Skill packages typically vary from 1
+	to 10 Skill Points in cost.
+\end{relate}
+
+\subsection{Use}
+\INDEX{Skill Use}{Skill Use}
+
+To use a skill the GM determines what the Base Chance of the skill is 
+and adds in the modifiers for the task being performed.
+
+The Base Chance of using a skill is three times the Stat Basis of the skill
+or \[ 3 \times SB_{skill} \] For each rank the character has in the skill add 4\%.
+The modifiers for the task vary for each situation.
+
+\example{
+A character with rank:0 in Rock Throwing is throwing a rock 
+across the street. The chaarcter has a Accuracy (ACC) of 12. Their Base Chance 
+to hit is \( 3 \times 12 = 36\% \).
+}
+
+\subsection{Gaining}
+\INDEX{Gaining Skills}{Gaining Skills}
+A character can gain rank in skills by using a skill, gaining Experience Points
+for its use and using those experience points to buy a learning roll for that
+skill. 
+
+The experience points gained for using a skill are:
+
+\begin{relate}
+	\item[Non-Ranked] Critical gains 50 experience. Normal Usage gains 30 exp.
+	\item[Ranked] Critical gains 25. Normal usage gains 15.
+\end{relate}
+
+\subsection{Learning Rolls}
+\INDEX{Learning Rolls}{Learning Rolls}
+
+In order to gain rank in a skill the character uses experience points to
+buy a learning roll in the skill. The experience point cost to buy a learning roll
+is listed with the skill. Once the character spends
+those experience points they roll to see if their rank in that
+skill goes up.
+
+The learning roll is based on the Success Chance of the skill with the  
+DF for making the Learning Roll being: 
+
+\[DF_{Learning\ Roll} = (-Rank) + ({Training\ Mods})\]
+
+If the character fails to make the learning roll they gain a Df +2 to the next 
+learning roll in that skill. The failure modifier is culmulative. A character
+that has failed four times will get a DF +8 modifier to their next earning roll
+in that skill.
+
+\subsection{Training in Skills}
+
+\ndx{Training} in a skill directly modifies the EF of the Learning roll in
+that skill. Training Alone adds \[+.5 DF/10 hours\] 
+Training under a Teacher adds \[+(.5 \times {Teachers\ Rank})/10 hours\]
+Training with notes or study aids adds \[+(.5 \times {Teachers Rank}/3) \over {10 hours}\]
+

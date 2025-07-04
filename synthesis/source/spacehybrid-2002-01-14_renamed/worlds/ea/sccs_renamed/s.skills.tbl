@@ -1,0 +1,67 @@
+h50026
+s 00039/00000/00000
+d D 1.1 99/12/02 16:04:45 jmochel 2 1
+cC
+cK12572
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:04:41 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/ea/skills.tbl
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45028
+cPworlds/ea/skills.tbl
+cReb47878e5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+         ROLL D% AND CONSULT TABLE - TAILOR SKILL TO CHARACTER'S
+         HISTORY,SOCIAL STANDING,RACE, AND AREA OF BIRTH
+
+
+         SECONDARY SKILLS OF EA
+
+         ROLL      SKILL               DESCRIPTION
+         --------------------------------------------------
+         01-02     ARMOURER            SEE OA
+         03        BLACKSMITH          SEE OA
+         04        BOWYER              SEE OA
+         05-07     AGRICULTURE         SEE OA
+         08-10     POTTER              SEE OA
+         11-14     FORESTER            TREAT AS SURVIVAL IN OA
+         15-20     FISHER              SEE OA
+         21-23     GAMING              SEE OA
+         24-26     HUNTER              SEE OA
+         27-31     ANIMAL HANDLING     SEE OA
+         32-33     MASON               SEE OA
+         34-35     JEWELER             SEE OA
+         36-37     TANNER              SEE OA
+         38-39     LIMNER/PAINTER      SEE OA
+         40-43     WEAVER              SEE OA
+         44-45     TAILOR              SEE OA
+         46-47     COOKING             SEE OA
+         48-49     HORSEMANSHIP        SEE OA
+         50-52     HUSBANDRY           SEE OA
+         53-55     NAVIGATION          SEE OA
+         56-58     SAIL SMALL BOAT     SEE OA
+         59-60     SWIMMING            SEE OA
+         61-63     SHIPWRIGHT
+         64-64     INSTRUMENT MAKER
+         65-66     CARPENTER           SEE OA
+         67-70     HERBALIST           SEE OA
+         71-79     R/W AS SCRIBE       SEE OA
+         80-81     BREWER              SEE OA
+         82-89     CHOICE
+         90-97     2 SKILLS
+         98-00     CHOICE TWO SKILLS
+E 2
+I 1
+E 1

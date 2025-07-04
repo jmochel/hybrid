@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<customcommand version="2.0" name="Make the NMC2 Jar" type="0" path="cmd /c" classpath="" arguments="BuildJar.cmd" startupdir="&lt;PICSHOME&gt;\Development\com\pics\nmc2" projectclasspath="0" addtofilemenu="0" addtoprojectmenu="0" addtoeditormenu="0" redirect="3" applytoext="0" extension="" useabsolutepath="0" addtocustomizemenu="1" executeatstart="0">
+<environmentvariables count="1">
+<environmentvariable name="MSVC_DIR" value="E:\Microsoft Visual Studio\">
+</environmentvariable>
+</environmentvariables>
+</customcommand>

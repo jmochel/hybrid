@@ -1,0 +1,38 @@
+h15314
+s 00007/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK46335
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/CodeGenerator.tws
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK48152
+cPsrc/CodeGenerator.tws
+cR87b4a013
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+workspace.diagram.open.2 = <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.diagram:oiref>
+workspace.diagramPane.visible = true
+workspace.diagram.initial = <oiref:design#Class#id39jgbc28tdoj9c28tgftk.diagram:oiref>
+workspace.diagram.active = <oiref:design#Class#id3bza2c2bh9rluc2bh9t4n.diagram:oiref>
+workspace.diagram.open.0 = <oiref:design#Class#id39jgbc28tdoj9c28tgftk.diagram:oiref>
+workspace.editorPane.visible = true
+workspace.diagram.open.1 = <oiref:design#Class#id3bsebc28tdoj9c28tdozy.diagram:oiref>
+E 2
+I 1
+E 1

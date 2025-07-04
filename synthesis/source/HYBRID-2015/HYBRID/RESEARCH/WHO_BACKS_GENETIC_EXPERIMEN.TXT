@@ -1,0 +1,78 @@
+WHO-backs-genetic-experiments-with-smallpox
+18:15 12 November 2004 
+NewScientist.com news service 
+Debora MacKenzie 
+Related Articles
+Bioterror simulations back targeted treatment
+17 February 2004
+US develops lethal new viruses
+29 October 2003
+US smallpox vaccination plan grinds to a halt
+22 August 2003
+Search New Scientist
+Contact us
+Web Links
+Smallpox, WHO
+Smallpox, CDC
+DA Henderson, University of Pittsburgh
+ 
+
+Scientists who advise the World Health Organization have decided to allow 
+researchers to work with live, genetically modified smallpox virus, and to put 
+smallpox genes into other viruses. The aim will be to find better drugs and 
+vaccines against smallpox.
+
+But some smallpox experts think the work is pointless, as no one is likely to 
+develop or stockpile any drug or vaccine discovered, and it may set an 
+undesirable precedent. The decision to allow the research must be approved by 
+the WHO’s member countries at their assembly in May 2005.
+
+The WHO declared in 1980 that smallpox had been eradicated, after a global 
+vaccination campaign. It permitted only two labs to keep stocks of the Variola 
+virus that causes smallpox: the US Centers for Disease Control in Atlanta, and 
+Vector, the Russian State Research Center for Virology near Novosibirsk.
+
+All work with the virus at the two labs must be approved by the WHO’s advisory 
+committee on Variola research, which insists that the benefits must outweigh the 
+risk of smallpox escaping. Significant reservations
+
+In 2003, US scientists asked the committee for permission to insert a “marker” 
+gene into the virus, and to transplant its genes into other viruses in the same 
+“orthopox” family. The committee had “significant reservations” about the work. 
+
+But at a November meeting it approved the research in principle. Each study must 
+still be approved individually by the committee, as well as the relevant local 
+biosafety authorities, says Geoffrey Smith of Imperial College London, who 
+chaired the meeting.
+
+In one kind of experiment scientists will insert the gene for a fluorescent 
+protein from jellyfish into the Variola genome - so the live virus will light 
+up, and the dead virus will not. This will allow large numbers of potential 
+antiviral drugs to be screened rapidly for their ability to kill Variola. 
+
+“That means the staff of the lab will be working with live Variola virus for a 
+shorter time,” says Smith. Lab workers pose the greatest risk as a potential 
+escape route for the virus.
+
+In the other experiment approved, single genes from Variola will be transplanted 
+to other orthopoxes. But the aim will not be to see how they make smallpox so 
+deadly.
+
+“That is off-limits,” says Smith. The idea is to test antiviral drugs that 
+target specific viral enzymes, for example the enzyme that replicates its DNA, 
+against a virus carrying the true Variola enzyme. 
+
+“This is all aimed at finding better drugs and vaccines,” says Smith.
+
+But DA Henderson of the University of Pittsburgh, who led the drive to eradicate 
+smallpox and chairs the WHO’s committee on orthopoxes, calls the research 
+“pointless”.
+
+As long as smallpox is a theoretical threat, and any drugs developed cannot be 
+tested in people, he says, “No one is going to spend the billions of dollars it 
+will take to develop and stockpile any new drugs or vaccines they discover.”
+
+Henderson told New Scientist the experiments could pose unknown risks. The 
+transplanted Variola gene must not alter the biology of the host virus, 
+stipulates the committee. But, asks Henderson: “How do you know?”
+

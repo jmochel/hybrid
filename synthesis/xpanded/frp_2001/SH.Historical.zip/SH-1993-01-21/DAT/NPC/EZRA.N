@@ -1,0 +1,49 @@
+.Name EZRA
+.Title								
+.Race WOOD ELF
+.Culture
+.Aspect 
+.PST 15
+.PEN 15		
+.DEX 19
+.PAG 10		
+.PAW 14
+.MST 9		
+.MEN 14
+.PSI 12
+.MAG 14
+.MAW 14
+.HT 4'7"      
+.WT 80		 
+.AGE 151
+.BeginDesc
+ 18
+.EndDesc
+.BeginSkills
+Weapon: SHORT BOW2		   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ KORIEL THE KRAZY, FENRIN, KIKEND THE CRITIC
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ TROUBLEMAKER
+.EndComment
+.BeginPossess
+ "CURVE" REPLETE WITH SCABBARD AND BRACER,ELVEN CHAIN				
+POTIONS: FIREBALL,  OIL OF SLIPPERYNESS2, HEALING3, HEAL CRIT, XTRAHEALING,		
+FIRE RESISTANCE, GROWTH, MIRROR CASTING, ENT DRAUGHT3,							
+10 CONLIGHT BULLETS, DANCING BEADS
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

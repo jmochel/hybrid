@@ -1,0 +1,94 @@
+This is emTeX, Version 3.0 [3a] (preloaded format=lplain 90.9.23)  1 FEB 1993 22:25
+**&lplain pg.ltx
+(pg.ltx
+ILaTeX Version 2.09 <9 Jan 1990>
+(\emtex\texinput\book.sty
+Document Style `book' <13 Nov 89>, international version <20 Sep 90>.
+(\emtex\texinput\bk10.sty)
+\descriptionmargin=\dimen99
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+) (\emtex\texinput\sh.sty)
+(\emtex\texinput\stable.sty
+\@stablebox=\box29
+) (\emtex\texinput\makeidx.sty)
+(\emtex\texinput\relate.sty
+\relateleft=\dimen100
+\relateright=\dimen101
+\RELbox=\box30
+\RELcount=\count88
+\RELoldmax=\dimen102
+\RELnewmax=\dimen103
+)
+\@indexfile=\write3
+
+Writing index file pg.idx 
+(pg.aux (troll1.aux) (tcgen4.aux)) [0
+
+] (pg.toc [1
+
+] [2])
+\tf@toc=\write4
+ [3] [4
+
+] (pg.lot)
+\tf@lot=\write5
+
+(intro.tex [1] [2
+
+]
+Chapter 1.
+[3] [4] (troll1.tex) [5]) (chargen.tex [6
+
+
+]
+Chapter 2.
+[7] [8] [9] [10] (tcgen2.tex) [11] (tcgen5.tex) [12] [13] [14] (tcgen3.tex)
+[15] [16] (tcgen4.tex) [17
+
+] [18
+
+]) (skills.tex [19] [20
+
+]
+Chapter 3.
+[21]) (gpm.tex [22]
+Chapter 4.
+(tgpm6.tex) [23
+
+] (tgpm7.tex [24]) [25] (tskill1.tex) (tskill2.tex) (tskill3.tex) [26] (tskill4
+.tex) (tskill5.tex) [27] [28] (tgpm8.tex) (tgpm9.tex)
+(tgpm10.tex [29]) (tgpm2.tex) [30] (tgpm4.tex) [31]) (combat.tex [32]
+Chapter 5.
+[33
+
+] (tgpm11.tex) (tgpm12.tex) [34] [35] [36] [37] [38]) (npcpc.tex [39]
+[40
+
+]
+Chapter 6.
+) [41]
+! I can't find file `pg.ids'.
+\@iinput #1->\@@input #1 
+                         
+l.63 ^^I\input{pg.ids}
+                      
+Please type another input file name: nul
+(nul.tex) [42] (pg.aux (troll1.aux) (tcgen4.aux)) ) 
+Here is how much of TeX's memory you used:
+ 338 strings out of 6937
+ 2760 string characters out of 13060
+ 37324 words of memory out of 65533
+ 2182 multiletter control sequences out of 3500
+ 20732 words of font info for 79 fonts, out of 32766 for 127
+ 14 hyphenation exceptions out of 307
+ 16i,12n,18p,183b,332s stack positions out of 200i,40n,60p,1024b,600s
+
+Output written on pg.dvi (47 pages, 127124 bytes).

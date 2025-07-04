@@ -1,0 +1,74 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210111626.363;
+          10 Dec 91 11:16:48 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210111626.363;
+          10 Dec 91 11:16:36 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04489; Tue, 10 Dec 91 11:18:14 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA13103; Tue, 10 Dec 91 11:06:13 -0500
+Message-Id: <9112101606.AA13103@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0208; Tue, 10 Dec 91 11:06:21 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 2019;
+ Tue, 10 Dec 91 11:06:20 EST
+Date:         Mon, 9 Dec 1991 16:57:20 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: EWN%CORNELLA.BITNET@uga.cc.uga.edu
+Subject:      Re: Attributes
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Message of Mon,
+              9 Dec 1991 10:29:53 CST from <jason@HERMES.CRAY.COM>
+
+After finishing the string... let me add a bit more, and perhaps change a few
+things in my suggestion.   First, I have Agility in a category of its own.
+We could easily divide this into manual dexterity and grace.  Again d100 for
+Agility, plus 2d10 to split.  thus a thief could indeed be an artful cutpurse,
+but, if he can't climb walls, he wont trip over his own two feet either.
+
+Finally, add a stat for Willpower.  d100.  It wouldnt be under intellect,
+because even the smartest people can be tempted to, say, play with internet all
+week instead of studying for finals.
+
+An example:  Hroth's player rolls the following on a d100 for the five major
+             groups.
+
+    44      29      87      82      60
+
+             The player wants Hroth to be a fighter type so he assigns them
+like this:
+ Fitness: 87   this gives   Strength: 87   Endurance: 87
+ Intellect: 44              Reasoning: 44  Knowledge: 44
+ Willpower: 29
+ Agility: 60                Manual Dex: 60 Grace:60
+ Charisma: 82               Appearance: 82 Personality (Charm): 82
+
+ This gives a basic definition.  He is very fit and healthy.  Not dumb, but not
+smart.  Not clumsy, but not a Barishnikov.  Handsome, though, and funny; "nice"
+Now, the player rolls the 2d10s.  He ends up with:
+     3,4 (7)   8,2 (10)   9,7 (16)   10,5 (15)
+Again, Hroth is a fighter type so these are distributed as follows:
+
+16 Fitness   87  and mod-   Str: (+6) 93    End: (+10) 97
+15 Intellect 44  ifies so   Reas: (+10) 59  Know: (+5) 49
+   Willpower 29
+16 Agility   60  that he    M.Dex: (+0)     Grac: (+16) 76
+10 Charisma  82  gets:      App: (+3) 85    Per: (+7) 89
+
+ So Hroth is quite strong and can keep going for a very long time; he certainly
+isn't dumb, but he obviously didn't learn as much as he could have.  He's about
+average, intellectually.  He can keep his feet most of the time, but he might
+have trouble with origami.  He is handsome and very witty.  However, he is a
+sucker for a beautiful girl.
+
+Note:  d100 isn't vital to this.  I used that as an example; all games seem to
+use d10s, so why not use JUST d10s?  This would give the game a good set of
+stats to use for any given situation;  does he know a certain fairy tale? Know.
+What happens when the barmaid gets flirtacious with him? Will.  How much damage
+can he take?>  End.  He jumps off the edge of the roof and tries to catch the
+ledge of the next building.  does he make it? M.Dex.  He jumps to the next
+rooftop.  However, it is winter and there is a spot if ice.  Does he fall?
+Grace.  And so on.
+
+Comment away.                                 Michael baswell

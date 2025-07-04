@@ -1,0 +1,39 @@
+//
+// A Cauntlet Script for java.lang.Byte
+//
+
+class java.lang.Byte
+{
+
+	// 
+	// Constructors with inputs
+	// 	Used to create the object to be tested.
+	// 
+
+	public java.lang.Byte(java.lang.String input)
+	{
+	    input = "0";
+	    input = "1";
+	    input = "255";
+	}
+
+	// Simple method to be tested;
+
+	public static byte parseByte(java.lang.String input) 
+	{
+		input = "1";
+		input = "2";
+		input = "255";
+		input = "0";
+	}
+
+	//
+	// Methods to be excluded.
+	//
+
+	exclude public static byte parseByte(java.lang.String input, int a) 
+	{
+	}
+};
+
+

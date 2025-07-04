@@ -1,0 +1,90 @@
+h40917
+s 00062/00000/00000
+d D 1.1 99/11/17 12:45:19 jmochel 2 1
+cC
+cK05115
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:45:16 jmochel 1 0
+c BitKeeper file e:/jacl/C++/doc/FolderIt.3
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45303
+cPC++/doc/FolderIt.3
+cR2f93d79e5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.TH dir_it 3 " May 1997" "Universität Konstanz" "Filesystem Tools"
+.SH NAME
+dir_it - dir_it 
+
+.SH SYNOPSIS
+
+
+.nf
+  #include "directory.h"
+
+  class dir_it: public input_iterator<string, int>
+  {
+  public:
+    dir_it();
+    explicit dir_it(string const &);
+    dir_it(dir_it const &it);
+    dir_it &operator= (dir_it const &it);
+    ~dir_it();
+
+    string operator* () const;
+
+    dir_it &operator++ ();
+    dir_it operator++ (int);
+
+    bool operator== (dir_it const &it) const;
+    bool operator!= (dir_it const &it) const;
+  };
+.fi 0 
+.SH DESCRIPTION
+The class \fBdir_it\fP is an STL conformant input iterator which iterates over the entries of a directory. It is modelled very much along the standard \fBistream_iterator\fP class: To iterate over the complete directory, a begin iterator is created with the directory's name and a "past the end" iterator is created with the default constructor of class \fBdir_it\fP. Then, the begin iterator yields a \fBstring\fP with the name of the current directory entry. The begin iterator (or a copy thereof) can be advanced until either the whole directory was scanned or an error occured: In both cases the iterator object used to advance compares equal to the "past the end" iterator. Note that the initial begin iterator will also compare equal to the "past the end" iterator if opening the directory failed for some reason. 
+
+Like the \fBistream_iterator\fP, the class \fBdir_it\fP is a one pass iterator over the directory: Copying an iterator is legal but advancing both resulting iterators will bring them out of sync. Also the original and the copy will iterate over different elements of the directory. The same holds for assignment. However, both the copy and the left hand side of the assignment store the same value of the right hand side and may be used to compare against other \fBdir_it\fPs: Two \fBdir_it\fPs are considered to be equal if they are either equal to the "past the end" iterator (effectively indicating that either the whole directory was travered or an error occured) or if both iterators yield the same name with the dereference operator. Note that in the latter case the iterators may actually be positioned on different files if they are obtained from iterators created for different directories. 
+.SH EXAMPLE
+Here is an example how the class \fBdir_it\fP can be used to produce an output similar to the output of "\fBls -1fa .\fP": 
+
+.nf
+  #include "directory.h"
+  #include <algorithm>
+  #include <iostream.h>
+
+  int main()
+  {
+    dir_it begin("."), end;
+    copy(begin, end, ostream_iterator<string>(cout, "\n"));
+    return 0;
+  }
+.fi 0 
+
+This code compiles with gcc-2.7.2 and libg++-2.7.2 (provided that the header file "directory.h" is stored somewhere where it is found by the compiler; use a -I argument to the compiler invokation if necessary). However, it is not strictly conforming to the prospective ISO C++ standard (e.g. there is a \fBusing namespace std;\fP clause missing). 
+.SH POSSIBLE ENHANCEMENTS
+There is a big potentatial to add enhancements to this class. For example, a wrapper could be implemented to skip certain names like e.g. the "." and ".." entries. Such a class would be rather straight forward to implement and could be useful for other input iterators, too, if it takes a predicate as argument to determine which items should be skipped. A more interesting extension would be a wrapper which provides access to the file properties of the current name, e.g. by using the \fBstat()\fP family of functions from the POSIX system interface. 
+.SH SEE ALSO
+ls(1), opendir(3C), readdir(3C), closedir(3C) 
+.SH AUTHOR
+Dietmar Kühl (Universität Konstanz)
+.br
+e-mail: dietmar.kuehl@uni-konstanz.de
+.br
+http://www.informatik.uni-konstanz.de/~kuehl
+.br
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,1189 @@
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                      Version: December 7, 1993
+              Copyright 1992, 1993 by Steffan O'Sullivan
+           Please read the legal notice following the text.
+
+7  Addenda: Samples and Options
+    7.1  Sample Magic System: FUDGE Magic
+          7.11  Magic Potential
+          7.12  Spells
+          7.13  Mana
+          7.14  Skill
+          7.15  Resolution
+          7.16  Personal Magic Resistance
+          7.17  Certain Spell-Casting
+          7.18  Enchanting Items
+          7.19  FUDGE Magic Options
+                  7.191  Generalized Magic Potential
+                  7.192  Magicians & Non-Magicians
+                  7.193  Spell-Casting Skill Alternatives
+                  7.194  Less Risky Spell-Casting
+    7.2  Sample Miracle System: FUDGE Miracles
+          7.21  Divine Favor
+          7.22  Petitioning a Miracle
+          7.23  Modifiers to the Petitioning Skill Level
+    7.3  Sample Psionic System: FUDGE Psi
+          7.31  Psychic Reservoir
+          7.32  Psionic Powers
+          7.33  Psionic Skills
+          7.34  Psionic Actions
+          7.35  Desperation Psionics
+          7.36  Psi Modifiers Summary
+          7.37  Psi Examples
+
+7  Addenda
+==========
+
+The Addenda consist of a variety of supplementary material for FUDGE.
+
+Chapters 2 through 5 represent plain, vanilla FUDGE - here you can
+find and create fancier fare.  If you pass FUDGE around, please add
+any customization to this chapter (quoting Section number and name,
+such as 2.33, Gifts), rather than change the original. Suggestions for
+a specific genre also go in the Addenda.  Examples: a list of sample
+superpowers, or a list of guns and their damage.
+
+Please include a date and credit (your name) for the change, and, if
+possible, notify Steffan O'Sullivan, the original author of FUDGE, via
+the Internet (to sos@oz.plymouth.edu) or via the Post Office (c/o Wild
+Mule Games, P.O. Box 838, Randolph, MA 02368).
+
+7.1  Sample Magic System: FUDGE Magic
+-------------------------------------
+
+Date: November, 1992 to November, 1993
+By: Steffan O'Sullivan
+
+Here is a sample magic system, based on the following premises
+mentioned in Section 3.5, Magic:
+
+Who can cast: Magicians only (supernormal power needed).
+Levels of Power: yes.  There are two game effects: the greater the
+   power, the easier it is to cast more powerful spells; and power
+   levels act as a reserve in case of severe failure, which
+   temporarily drains Power.  Voluntarily draining a level of Power
+   can also guarantee success for one spell.
+Source of Power: manipulation of local area mana.
+Reliability: Fair.
+Time to cast spells: depends on potency of spell (one minute to days).
+   This can be speeded up by taking a penalty to the roll.
+Spells: improvised.  Exact wording isn't important, so magic books
+   tend to be collections of effects, not formulae.
+Material Components: none needed, but good use can give a +1 bonus to
+   skill.
+Drawbacks: casting non-trivial spells is fatiguing; severe failure
+   causes distress.
+Societal constraints: none - magic is rare, but not unheard of.
+
+This system is based on the conviction that a *player* using magic
+should never be blase: there should always be some tension and
+excitement when a character casts a spell, or the magic has gone out
+of the game.  Too often in a roleplaying game, the player running a
+magician uses tried-and-true spells so regularly that spell-casting
+becomes mundane.  Since "mundane magic" seems a contradiction in
+terms, FUDGE Magic attempts to instill a little excitement into spell-
+casting.
+
+There are many ways to achieve this.  FUDGE Magic has chosen the
+following limitations:
+
+1) The mana available for a specific spell result gradually becomes
+   depleted in a given area.  That is, casting two fireballs in a row
+   is harder than casting one fireball and one lightning blast, for
+   example.
+
+2) Magic is an untamable force; there is a skill cap for casting
+   spells.
+
+3) Magic is somewhat risky to use - there are penalties for severe
+   failure.
+
+Options are provided to alter these limitations, for any GMs who
+disagree with them.  In fact, Section 7.193, Spell-Casting Skill
+Alternatives, is essential for Faerie races and demigods, who have
+much more dependable magic powers than humans.  (However, such
+characters would have to buy it normally if using the Objective
+Character Creation system, unless the GM is very generous.  Taking
+some faults to balance such Powers is quite in keeping with the nature
+of demigods and Faerie races.)
+
+See Section 6.31 for sample characters using FUDGE Magic.
+
+7.11  Magic Potential
+---------------------
+
+Magic Potential is a Supernormal Power.  (A suggested cost in the
+Objective Character Creation system is two gifts for each level of
+Magic Potential.  This can be reduced in a magic-rich campaign.)  A
+character with at least one level of Magic Potential (usually
+abbreviated to Potential, sometimes simply called Power) is referred
+to as a "magician" in these rules - substitute your favorite word.
+Only magicians may cast spells.  (However, see Section 7.192,
+Magicians & Non-Magicians, for other options.)  Magic Potential may be
+taken more than once, but each level counts as a separate supernormal
+power.
+
+Each level of Magic Potential must be bought as a specialization.
+Specializations can be suggested by the player or set by the GM.  (In
+the latter case, she should make a list of acceptable magic
+specializations.)  The categories can be as broad or as narrow as the
+GM wishes - the broader the terms, the more powerful the magicians.
+
+Examples of specialized Potential: Alter Inanimate Material, Augury,
+Combat Magic, Communication Magic, Defensive Magic, Elemental Magic,
+Flying Magic, Healing Magic, Illusion, Information-Gathering Magic,
+Mind Control, Necromancy, Only Affects Living Beings, Only Affects
+Sentient Beings, Only Affects Technological Items, Shapeshifting,
+White Magic (cannot harm anyone, even indirectly), etc.
+
+A character may have Power levels in more than one specialization,
+unless the GM disallows it for some reason.  Certain disciplines may
+have societal constraints: in most cultures, studying Necromancy is
+offensive and probably illegal.  Mind Control, Invisibility,
+Teleportation, Illusion Magic, etc., might all be limited to
+government-approved magicians, at best.  It's even possible that such
+magicians will be outlaws.  Anything that can be used easily to commit
+a crime (especially assassination or thievery) will be difficult, if
+not impossible, to learn openly in most cultures.  If a given culture
+allows such magic openly, it is sure to have powerful defenses against
+being damaged by it.
+
+Very narrow specializations should probably cost less than one
+supernormal power: perhaps each very specialized Potential is worth
+one gift.
+
+In order to cast a spell of a given result, the magician *must* have
+at least +1 Potential specialized in that type of magic (on the
+character sheet, that is: he may be temporarily reduced to 0
+Potential).  Someone with +1 Potential: Combat Magic and +2 Potential:
+Information-Gathering Magic could not cast a spell to control
+someone's mind, for example.
+
+Failing a spell miserably causes the temporary loss of a level of
+Magic Potential (see Section 7.15, Resolution).  When this happens,
+the magician faints for at least one combat round.  He needs a Good
+Constitution roll to wake up (roll each round).  When he comes to, the
+magician may function normally, even attempting to cast the same spell
+again - *if* he hasn't dropped below 0 Potential.
+
+If a magician has two or more types of Potential that are appropriate
+for the spell being cast, and a loss of Potential is called for, the
+GM decides which type of Potential is reduced.  For example, if a
+magician has one level of Combat Magic and two levels of Fire Magic,
+and fails miserably on a fireball spell, the GM could say that he has
+lost either his one level of Combat Magic or one of his Fire Magic
+levels, but not one of each.
+
+If a magician drops to -1 Potential in *any* given specialty, he
+immediately falls into a coma, lasting anywhere from an hour to a day
+(GM's decision).  When he wakes, he must roll against his
+Constitution: on a Mediocre or worse roll, he takes a point of damage.
+He checks Constitution again at the end of every day he is *active* -
+a failed result means another point of damage.  These wounds *cannot*
+be healed until he recharges his Magic Potential back up to level 0.
+
+A magician with 0 Potential may still cast spells; a magician at -1
+Magic Potential, however, cannot attempt any magic spells that would
+involve that specialty.  He *may* still cast spells of another
+specialty.  For example, a magician who falls to -1 Encyclopedic Magic
+can no longer cast a spell that allows him to open his blank book and
+read the encyclopedia entry on a specified topic that would magically
+appear.  But he *can* still cast spells using his Animal Empathy
+Magic, allowing him to call and converse with wild animals, provided
+that Potential is still 0 or greater.  He must still make a
+Constitution check for every day he his active, however, to see if his
+-1 Encyclopedic Magic Potential is causing him wounds.
+
+Magic Potential may be recharged *only* by resting for one week per
+level.  (GMs may alter this time to taste, of course: resting for one
+day might be sufficient for more epic campaigns.)  For example, a
+magician falls to -1 Potential.  Resting one week will bring him up to
+0 Potential (and cure any wounds incurred by being active while at -1
+Potential).  A second week of rest will bring him up to +1 Potential.
+
+However, no character may gain Magic Potential levels beyond his
+starting level (except through Character Development - see Chapter 5).
+
+7.12  Spells
+------------
+
+When a magician wishes to cast a spell, he describes the result he has
+in mind.  The GM assesses how powerful such an effect would be, based
+on how prevalent magic is in her campaign.  In a low-magic campaign,
+even a simple spell such as levitating the jail keys to an imprisoned
+character would be taxing.  In a high-magic campaign, however, that
+would be a trivial spell, and even shooting forth a flash of lightning
+from a fingertip wouldn't be out of the ordinary.
+
+The potency of the spell also depends on the magician's appropriate
+Power level.  A recommended medium is three levels of Power in a given
+specialization.  This means a magician with three levels of Power
+governing the spell in question has no modifier.  (Note that the
+levels of Power in question do not have to be all of the same
+specialization so long as they all govern the spell in question.  For
+example, a spell to make a sword fly up and attack a foe could be
+governed by Flying Magic, Combat Magic, and Control Inanimate
+Material.  If a mage had one level of each of those types of magic,
+the spell would be of average potency for him.)  A spell is more
+difficult for a magician with less than three levels of an appropriate
+Power.  Likewise, a magician with four or more appropriate Power
+levels treats a spell as more trivial than it would be for an average
+magician.
+
+Spells may then be either Trivial, Average, or Potent.  (They may also
+be Very Trivial, or Very Potent, if the GM wishes.  In fact, the
+players will undoubtedly propose truly awesome spells, which should be
+labelled as Extraordinarily Potent, or with some other impressive
+adjective.)  The GM tells the player what the potency of a proposed
+spell is - any magician character would have a fairly good idea of a
+spell's potency.
+
+The spell's potency determines the Difficulty level.  A spell of
+average potency has a Fair Difficultly level, while a Potent spell has
+a Difficulty level of at least Good.  Likewise, a Trivial spell has a
+Difficulty level of Mediocre or Poor.
+
+The GM also decides the duration of the spell, if it succeeds -
+seconds, minutes, hours, days, etc.  The character may try to adjust
+this, subject to GM approval.  For example, the magician can
+voluntarily take more fatigue or reduce the scope of the effect - or
+accept some other penalty - to lengthen the spell's duration.  Rolling
+a higher relative degree can also mean the spell lasts longer.  Some
+spells might have permanent effects: healing (until wounded again),
+busting a hole in a wall (until repaired manually or by magic),
+teleporting to a distant place (until you come back), and so on.  Of
+course, even these spell effects may be temporary in a given GM's
+world: healing only lasts a day and the wound reappears, or a hole in
+the wall fixes itself after a few minutes, or a teleported person
+automatically returns after an hour in the other location . . .
+
+The GM also needs to determine if there are any drawbacks to casting a
+spell.  FUDGE Magic assumes that spells are tiring to cast, and a
+magician reduces his Fatigue attribute when casting.  The more potent
+the spell, the more the fatigue.  (Fatigue is regained by resting, of
+course.  If Fatigue goes below Terrible, the character passes out.
+The GM may have separate Fatigue attribute, or base it on Endurance,
+Constitution, Strength, etc.)
+
+A GM who dislikes the idea of keeping track of fatigue can change the
+drawback to something else.  Perhaps a magician has a limited number
+of spells he can cast in a day (or in an hour).  In this case, he may
+have a Spell Point attribute, which is drained by spell casting and
+regained simply by the passage of time.  (A trivial spell might not
+drain any Spell Point levels, while an average spell might drop a
+magician from Good Spell Points to Fair, for example, and more potent
+spells drain 2 or more levels at a time.)  Draining spell points would
+not necessarily make the magician tired in this case, and Spell Points
+would regenerate whether the magician was resting or not.  (Or they
+might only regenerate with sleep.)  Or maybe each spell affects his
+Sanity attribute, and he needs to convalesce to restore it.  (Reduced
+Sanity can manifest in many amusing ways in the meantime, of course!)
+
+7.13  Mana
+----------
+
+Mana is an energy source capable of manipulating matter, time and
+space.  It can be tapped only by those with Magic Potential.
+
+The GM determines the availability and density of mana in a given game
+world, just as she does the average potency of a spell.  Mana density
+can affect two things: how large an area is needed to fuel a given
+spell effect, and (optionally), how easy or hard it is to cast a
+spell.
+
+When a spell of a particular effect is cast, the magician draws a
+specific type of mana to him to create the effect.  The next time this
+same effect is desired, it will be harder to do: he has drained some
+of that mana type in the local area.
+
+The size of the area is defined by the GM.  For most fantasy worlds,
+assume it's about 50 yards or meters in diameter.  In a low-level
+magic campaign, the area might be the size of town or even city.
+(This would give meaning to the old line, "This town ain't big enough
+for both of us" - dueling wizards!)  On the other hand, a high-level
+magic campaign might be so mana-rich that the magician can simply take
+a step or two and be in a new area.  Note that the *area* governs
+which spells can be cast without penalty: if one magician casts a
+healing spell, a second magician will be at -1 to cast a healing spell
+in the same area within the next 24 hours.  (Mana may recharge at a
+different rate in a given game world, of course.)  Note also that a
+magician may be unaware of what spells were cast in an area before he
+arrived . . .
+
+In a mana-rich area, spells may also be easier to cast: +1 or +2 to
+skill level.  Likewise, in a mana-poor area, spells can be harder to
+cast: -1 or more.  The GM decides if this rule is in effect.
+
+Mana is probably very dispersed and weak in a world such as modern
+Earth.  The average fantasy game world will have much stronger mana,
+and some high-magic campaigns will simply reek of mana.  But even in a
+given world, it is possible to vary the amount of mana.  Some lands
+may be mana-rich, while neighboring countries are mana-poor.  Mana may
+flow in currents, or tides with the phases of the moon.  There may be
+"rogue" mana streams that change course and invade new areas, or a
+mana drought may afflict a given locale.  Astrological alignments can
+affect mana, too - thus even here on mana-poor Earth there will be
+places and times of the year when cultist gather to call forth unseen
+powers . . .
+
+A PC magician would know the general mana level for at least his home
+area.  He may or may not know whether it fluctuates periodically, or
+if far lands have different mana levels.  In order to determine the
+mana level of the local area at a given time, a magician must cast a
+spell specifically to that end.
+
+7.14  Skill
+-----------
+
+Spell-casting is a skill that must be learned.  The default is Non-
+Existent, and, due to the element of uncertainty in FUDGE Magic
+(mentioned in Section 7.1, FUDGE Magic), the maximum base skill level
+is Fair.  This cannot be raised permanently - but see Section 7.193,
+Spell-Casting Skill Alternatives.
+
+One generic Spell-Casting skill is assumed, but the GM may require
+more if she breaks magic down into different types.  It should cost
+one level just to get a Spell-Casting skill at Terrible.
+
+Spell-casting skill may be modified (to a maximum of Great) by the
+following:
+
+Taking an average time to cast a spell: +0.  (Note: the GM assesses
+   the average time for any given spell proposed.  Potent spells might
+   take all day, or even longer, while Trivial ones might take one to
+   five minutes.)
+Taking a long time to cast a spell carefully: +1.  (Relative to each
+   spell, of course.  For a Trivial spell, this might mean taking a
+   half an hour or more.)
+Casting a spell much more quickly than normal: -1.  (For a Trivial
+   spell, this could mean as quickly as one combat round of
+   concentration.)
+
+Using normal effort to cast a spell: +0.
+Using extra effort to cast a spell (more fatigue than normal, or
+   counts as two spells cast if there is a limit per day, or reduces
+   Sanity more than normal, etc.): +1 or +2.
+Using less effort than normal to cast a spell: -1 or more.  (Reduced
+   fatigue, or it only counts as half a spell against a daily limit,
+   etc.)
+
+First spell-casting of a particular effect in a given area within 24
+   hours: +0.  (See Section 7.13, Mana, for the size of an area.)
+Additional spell-castings of a particular effect in a given area
+   within 24 hours: -1 per casting.
+
+For using authentic magic formulae: +1.  (The Law of Contagion or the
+   Law of Similarity, for example - see James Frazer's classic
+   anthropological study, *The Golden Bough*.  Both Laws require some
+   physical component: a feather to cast a flight spell, a piece of
+   the subject's hair to heal or hurt her, a drop of water that
+   becomes a water jet, a stick that becomes a staff, a bearskin to
+   change the magician into a bear, etc.  Drafting the spell in
+   poetical form might also earn +1 level, if the GM is willing.)
+
+Multiple magicians casting a spell that they have *all* tried before:
+   +1 (for 2 to X magicians) or +2 (for more than X magicians).  (X is
+   set by the GM, anywhere from two to ten, or even more for low-magic
+   campaigns.  One magician is assumed to be the primary caster: roll
+   only once against his skill.)
+
+Mana-rich area: +1 or +2 (optional).
+Normal mana area: +0
+Mana-poor area: -1 or more (optional).
+
+Other modifiers may also apply, such as in a spell to search the
+   mountains magically for someone you love (+1) or searching for
+   someone you've never met (-1).
+
+7.15  Resolution
+----------------
+
+Each spell is then resolved as an Unopposed action: the Difficulty
+level is dependent on the spell potency.  Spells of average potency
+have a Difficulty level of Fair, while more trivial spells have
+difficultly levels of Mediocre or Poor.  (No spell has a Difficulty
+level of Terrible - magic just doesn't work at that level.)  More
+potent spells have Difficultly levels of Good to Superb, or even
+beyond Superb if a truly powerful effect is desired.
+
+If the magician *surpasses* the Difficulty level, the spell occurs as
+he described it.  The better the relative degree, the better the
+result.  The magician suffers -1 (or more) to his Fatigue attribute
+*if* the GM deems the spell is fatiguing.  (If the GM has chosen some
+other drawback, of course, that is applied instead.)
+
+Sometimes a skill roll is then needed to *do* something with the end
+result of a spell.  For example, a fireball needs to be thrown
+accurately: use the Throwing Skill and Ranged Weapon rules in Chapter
+4.
+
+If the magician *equals* the Difficulty level, then a watered-down
+version of the spell occurs.  Either it will have a very short
+duration, or reduced potency, or there is a time lag before the spell
+takes effect, etc.  There may be an unexpected side effect, though it
+won't be harmful to the magician.  There is no penalty for the
+magician beyond a possible -1 or -2 to Fatigue, at worst.
+
+If the magician rolls *below* the Difficulty level, however, he is
+adversely affected.  The energy inherent in mana lashes out at the
+magician's psyche instead of being focused as desired.  There may (or
+may not) be some visible magical effect, but it will *not* be the
+desired effect, and, if he rolled poorly enough, it may even be
+inimical to the magician's goals - or health . . .
+
+On a failed roll, the magician is stunned for one combat round (no
+actions or defense) and takes at least -1 Fatigue.  A Terrible result
+always fails.
+
+If he rolls a result of -4, the spell automatically fails (no matter
+what the resulting level) *and* he also temporarily drains one level
+of his Magic Potential - see Section 7.11, Magic Potential, for
+effects.  (This is the "riskiness" of magic mentioned in Section 7.1,
+FUDGE Magic.)
+
+Examples: Barney casts a spell, Create Pizza, of Average potency in a
+normal mana area and gets -3: a Terrible result.  The spell fails and
+Barney is stunned for a combat round, but he does *not* drain a level
+of Magic Potential because he did not roll a -4.  Later, in a mana-
+rich area (+1 to cast), Barney takes a long time (+1) to cast Detect
+Food, a very Trivial spell (Poor result or better needed for success).
+He has temporarily raised his skill to Great, the maximum allowed.  He
+rolls a -4 result, which is a Poor rolled result.  Although the rolled
+degree is good enough to cast the spell, Barney still fails because he
+rolled a -4 result.  Barney not only doesn't detect any food, he also
+exhausts 1 level of Magic Potential - ouch!
+
+7.16  Personal Magic Resistance
+-------------------------------
+
+If the spell is one which attempts to Control another being - either
+mentally, physically or spiritually - Opposed action rolls are *also*
+called for.  First, the magician casts the spell (as above); then he
+has to overcome the Personal Magic Resistance of the subject.  Magic
+Resistance may be an attribute or gift (Willpower is a good choice, if
+there is no specific anti-magic trait), as the GM desires.  Magic
+Resistance may even be a different attribute for different types of
+spells (a mental attribute for attempts to control the mind, etc.).
+Note that this second roll is Opposed - the subject of the spell gets
+a chance to resist it, and so can influence the result.
+
+If the GM is willing, the magician may use the result he just *rolled*
+as his skill level for the Opposed action.  That is, if he rolled a
+Great result on the spell, he rolls the Opposed action as if his skill
+were Great. Otherwise, he uses the same level he rolled initially
+against.
+
+"Control" can mean many things to different GMs.  Personal Magic
+Resistance would resist an attempt to read someone's mind to one GM,
+but not to another.  Magic Resistance does *not* resist any spell that
+calls or creates physical energy to lash out at another being, though.
+If the magician successfully creates lightning at his fingertips to
+blast at the subject, that is not resisted by Personal Resistance; it
+is treated as a physical weapon.
+
+7.17  Certain Spell-Casting
+---------------------------
+
+Sometimes a magician desperately needs a certain result.  In this
+case, he may opt not to roll the dice at all, and simply drain one
+level of Magic Potential for a guaranteed success.  He takes the usual
+penalties for losing a level of Potential - see Section 7.11, Magic
+Potential.  This means he'll faint - be unconscious - after casting
+the spell, which limits the utility for certain spells.  You can't
+control someone's mind when you are unconscious, for example . . .
+
+The GM may restrict this to Trivial spells, or non-Potent spells, or
+have no restrictions at all, beyond requiring the normal fatigue (or
+other) penalties.  If the spell is one that could logically be
+resisted by the subject, however, the subject still gets a Resistance
+roll.  In this case, the magician rolls as if his skill were Great.
+
+7.18  Enchanting Items
+----------------------
+
+Items may be permanently enchanted in this system.  The magician works
+for a number of weeks or months (as required by the GM), depending on
+the number and potency of the spells desired, and the general
+availability of magic items in the campaign.  At the end of *each*
+month (or week), the magician rolls against two skills: Spell-casting,
+and the appropriate Craft skill for the material being worked.  The
+usual penalties apply on failing a spell roll.  If he surpasses the
+Difficulty level on each roll, the spell is slowly being set into the
+item, one stage at a time.  On a roll that only matches the Difficulty
+level, the work counts as only half a time period, but does progress
+the enchantment.
+
+Obviously, a mana-rich area will attract magicians, especially
+enchanters.
+
+7.19  FUDGE Magic Options
+-------------------------
+
+These options offer ways to make FUDGE Magic more sweeping, more
+reliable, less risky, and even make it available to non-magicians.
+
+7.191  Generalized Magic Potential
+----------------------------------
+
+Some GMs may want the players to have sweeping powers.  In this case,
+each level of Magic Potential allows a character to try *any* magic
+effect desired.  This is in keeping with certain fictional settings in
+which learning magic involves general principles rather than specific
+spell effects.  This makes for a *very* free and open game, which may
+or may not be to your tastes.
+
+Note that specializations can still be handled in this system.  Simply
+use faults to limit a mage's ability to cast certain spells.  See
+Section 6.311, Character Examples, Brogo the Scout.
+
+7.192  Magicians & Non-Magicians
+--------------------------------
+
+The GM may allow non-magicians to cast spells.  In this case, it is
+*very* risky, as there is no Magic Potential "cushion" - one severe
+failure is enough to devastate the character.  Still, in an emergency,
+it may be worth the risk.  Such a character would still need to have
+some Spell-casting skill, however.  (But see Section 7.193, Spell-
+casting Skill Alternatives).
+
+As a substitute for Magic Potential specialization, the GM looks over
+the character sheet (checking traits, personality, and character
+background) and decides if a proposed spell would be appropriate for
+the character.  The character must have some aptitude in the proposed
+spell subject, or he may not cast such a spell.  For example, a
+trained fighter with no knowledge of book learning or foreign
+languages could conceivably try a combat spell, but not a spell to
+translate a book written in an unknown script.
+
+Of course, the same spell is of greater potency for a non-magician
+than for a magician.  This probably means that a non-magician will
+only have a chance of casting a spell that a magician would consider
+trivial.
+
+7.193  Spell-Casting Skill Alternatives
+---------------------------------------
+
+Since tastes differ, and FUDGE Magic tends to be undependable (see
+Section 7.1, FUDGE Magic), three options are provided for more
+reliable spell-casting:
+
+1) Use the basic FUDGE Magic system, but allow a magician to improve
+   his chances of casting a spell beyond Fair.  At a cost of one gift
+   (or even supernormal power), this may be raised to Good.  At a cost
+   of *two more* gifts (or supernormal powers), casting skill may be
+   raised from Good to Great, the maximum.
+
+2) GMs who want magic to be a *lot* more reliable can simply treat
+   Spell-casting as any other skill.  That is, it costs the usual
+   skill costs to raise it to Good or even Great.  Superb Spell-
+   casting is not recommended for any but inherently magical races,
+   however, even in high-level magic campaigns.
+
+3) Another possibility for potent magic is simply having Spell-Casting
+   equal to the Will attribute, or perhaps at Will-2.  (There may
+   still be a ceiling of Great, Good, or even Fair for Spell-Casting,
+   regardless of the level of Will.)  This is especially appropriate
+   for games in which non-magicians can cast spells - see Section
+   7.192, Magicians & Non-Magicians.  This is a potent option because
+   the player doesn't have to buy Spell-casting skill for his
+   character.
+
+7.194  Less Risky Spell-Casting
+-------------------------------
+
+To make spell-casting less risky (not necessarily a good thing - see
+Section 7.1, FUDGE Magic), make it harder to drain a level of
+Potential.
+
+Examples (apply as many or as few as desired):
+
+1) A magician cannot deplete a level of Magic Potential if he is
+   attempting a Trivial spell;
+2) A magician cannot exhaust a level of Magic Potential if he is
+   attempting a Trivial or Average spell;
+3) A magician cannot deplete a level of Magic Potential if he takes
+   enough time to get a +1 bonus for slow and careful spell-casting;
+4) A level of Magic Potential can only be depleted on a hurried spell-
+   casting attempt that fails badly;
+5) A magician cannot drain a level of Magic Potential on the first
+   spell cast each day, or when the moon is full, or if the mana level
+   is low (not enough mana to backlash potently), etc.
+
+7.2  Sample Miracle System: FUDGE Miracles
+------------------------------------------
+
+Date: December, 1992
+By: Steffan O'Sullivan
+
+Here is a sample miracle system (not generic), based on the following
+premises mentioned in Section 3.6, Miracles:
+
+Can miracles occur by petition: Yes.
+Who can petition: Anyone.  Holy persons have an advantage, however.
+   (A holy person is one with the supernormal power: Divine Favor.  In
+   addition, a holy person's behavior must be in synch with the
+   deity's goals - GM decision on how the player is roleplaying.)
+   Religious Investiture is not required, and, in fact, does no good
+   if behavior is inappropriate.  Religious Investiture is primarily a
+   social title that may or may not coincide with Divine Favor.
+Certainty of petitioned miracles: Mediocre.
+Broad or specific requests: Specific requests are more likely to be
+   granted.
+
+7.21  Divine Favor
+------------------
+
+Divine Favor is a supernormal power that can be taken more than once.
+Each time Divine Favor is taken, it is dedicated to a single deity.
+It is possible to have Divine Favor from more than one deity in a
+polytheistic world, or you can have multiple steps of Divine Favor
+from a single deity.  Each step of Divine Favor counts as *two*
+supernormal powers (recommended).
+
+Divine Favor can be temporarily lost if the character does not act in
+accordance with the deity's desires.  Usually a period of atonement is
+required to regain Divine Favor.  This may be instantaneous for a very
+merciful deity, or it may take up to a month for stricter deities.
+All steps are lost and regained as a unit when this happens.
+
+7.22  Petitioning a Miracle
+---------------------------
+
+A character may petition a miracle at any time.  However, some deities
+do not like to be disturbed for trivial matters, and may ignore
+requests when it is obvious the character hasn't even tried to help
+himself.
+
+In FUDGE Miracles, the petition should be fairly precisely worded.
+Rather than a simple, "Please help me," the character should focus the
+plea: "We are starving, please feed us," or, "My friend is dying,
+please heal him."  A holy character can petition for any miraculous
+result desired, however - there is no established list of miracles.
+
+Characters without Divine Favor have a Petitioning skill of Poor (or
+Mediocre, if the GM wants a more deity-active game).  Those with one
+or more steps of Divine Favor have a Petitioning skill of Fair.
+Petitioning skill cannot be raised.  (If the GM wants a high-level
+deity-active campaign, Petitioning skill can be raised to Good at the
+cost of one supernormal power.)  Petitioning skill *can* be modified,
+however - see the next section.
+
+To resolve a petition, make an Unopposed action roll against
+Petitioning skill.  Each step of Divine Favor grants the holy
+character one extra chance to roll the dice in a petition to his
+deity.
+
+On a Fair or worse result, the roll is a failure.  If the character
+has any steps of Divine Favor from the same deity, he may roll again
+for each step (this does not count as a separate petition).  He can
+stop at any point - only the last result rolled counts.  This means a
+character with two steps of Divine Favor can try one, two, or three
+rolls.  If he gets Good, Fair, and Mediocre results, in that order,
+the result of the petition is Mediocre.
+
+On a Fair or Mediocre result, the petition isn't answered by the
+deity, but the deity isn't annoyed by the petitioner.  On Poor or
+worse result, however, the deity is angry with the character, and
+there will be a -1 on the next petition attempt.  If the deity is
+evil, a miracle may actually occur, but not one the petitioner is
+likely to enjoy . . .
+
+On a Good or better result, the petition is granted.  The better the
+rolled result, the better the answer to the prayer.  For example, a
+Good result might heal one wound, while a Superb result would totally
+heal the character.  A Good result might call a wolf to defend the
+petitioner, while a Superb result might call three lions.  And so on.
+
+7.23  Modifiers to the Petitioning Skill Level
+----------------------------------------------
+
+The GM decides modifiers.  The following modifiers are suggested:
+
+The petitioner's behavior has been strictly in accordance with the
+   deity's desires: +1
+The petitioner's behavior has not been in accordance with the deity's
+   desires: -1 or more
+
+The petition will further the deity's desires: +1
+The petition goes against the deity's desires: -1 or more
+
+The petition involves the deity's sphere of influence: +1  (Calling
+   for a fireball from a fire god, for example.  This is not
+   appropriate for a Supreme God, whose sphere encompasses all
+   things!)
+The petition involves an element antagonistic to the deity: -1 or more
+   (asking the Fire deity to use water, for example.)
+
+The petition is phrased too generally: -1 or more
+
+The petitioner has not tried to help himself first: -1 or more.
+The petition is too trivial to bother the deity with: -1 or more
+The petition is a simple, but important, request: +1, provided the
+   petitioner has exhausted his own abilities to accomplish this task.
+   (An example might be requesting a piece of chalk, which is
+   trifling, but simply cannot be found anywhere near the character.
+   In this case, chalk would have to be essential to the character's
+   state of body, mind or soul.)
+
+The last petition was a Poor or worse result: -1
+The deity feels the petitioner is calling for help too frequently: -1
+   or more  (This is optional, and may be invoked by a GM annoyed at
+   constant requests for miracles . . .)
+
+7.3  Sample Psionic System: FUDGE Psi
+-------------------------------------
+
+Date: February, 1993 & December, 1993
+By: Shawn Garbett and Steffan O'Sullivan
+
+In this system, only psionicists can *use* psi powers, though everyone
+has some ability to resist psionic attacks.  Psychic Reservoir, an
+attribute, is defined below.  Like most attributes, this starts at
+Fair unless deliberately altered.  The GM may change this, depending
+on the level of psi she envisions: the default may be Poor or
+Terrible, for example, and there may be a ceiling on how high Psychic
+Reservoir can be set.
+
+Merely having a Psychic Reservoir attribute does not mean the
+character is capable of actively using psi.  There are an
+indeterminate number of psionic Powers and skills - as many as the GM
+wishes to include.  It is the presence of these Powers and skills that
+separates a psionicist from mundane people.
+
+7.31  Psychic Reservoir
+-----------------------
+
+Psychic Reservoir is a measure of psi power available.  A low Psychic
+Reservoir can negatively modify any active psi ability, while a high
+Reservoir can be tapped to increase your chances of success.
+
+A psionicist taps his Psychic Reservoir when he uses a psychic skill.
+Continued use gradually drains a Reservoir, and short but potent uses
+of a psi Power also drains a Reservoir, but normal brief use doesn't.
+However, a rolled degree of Terrible or worse on a psionic skill roll
+always lowers Psychic Reservoir by one level, at least.
+
+A psionicist can also attempt to drain his Psychic Reservoir
+deliberately.  Each level of Psychic Reservoir sacrificed gains a +1
+bonus to a psionic *skill*, if done after rolling for the skill (see
+Section 7.34, Psionic Actions).  If done before rolling for the skill,
+each level drained gains +1 *Power* level (see Section 7.35,
+Desperation Psionics).
+
+There is no *immediate* penalty for dropping a level of Psychic
+Reservoir, as long as it remains Terrible or higher.  However, your
+next use of psi may be affected: there is a negative modifier for
+using a Psychic skill when your Psychic Reservoir is below Fair - see
+Section 7.36, Psi Modifiers Summary.
+
+If the Psychic Reservoir is drained to below Terrible, the character
+immediately loses consciousness.  It requires a Good roll versus some
+sort of Constitution attribute to regain consciousness, which may be
+attempted every combat round.
+
+Even after regaining consciousness, a character with Psychic Reservoir
+below Terrible is in trouble.  The GM may impose any type of
+affliction she desires on such a character until the Psychic Reservoir
+reaches at least Terrible.  Suggested afflictions include mild
+insanity (hallucinations, delusions, paranoia, etc.), physical
+debility (drooling, shaking, twitching, etc.), attribute reductions,
+and negative modifiers for even non-psi actions.
+
+A character can regain one level of his Psychic Reservoir for each
+week of rest, up to his current maximum level.  (This time period may
+be adjusted by the GM, of course.)
+
+7.32  Psionic Powers
+--------------------
+
+The GM must decide how precisely she wants to define Psi Powers.
+Since each Power must be bought separately, defining them broadly
+makes for more powerful characters.  The following chart shows some
+*very* broad groups that include the more narrowly defined Psi power
+groups listed with them.  These in turn contain even more narrowly
+defined powers, which a GM may use as individual Powers if desired.
+This list may be regrouped, expanded, some powers disallowed, a
+narrowly defined group made into a broad group that includes other
+powers, etc.  The list is not intended to be comprehensive, but merely
+a sample.
+
+Very Broad Groups   Mildly Broad Groups     Narrow Groups
+-----------------   -------------------     -------------
+Antipsi                                     Distort
+                                            Nullify
+                                            Resist
+ESP                 Astral Projection
+                    Telesense               Clairaudience
+                                            Clairvoyance
+                                            Locate Object
+                                            Locate Person
+                                            Sense Aura
+                    Temporal Revelation     Postcognition
+                                            Precognition
+                                            Psychometry
+Psychokinesis       Control Animate         Healing
+                                            Levitation
+                                            Metabolism Control
+                                            Shapeshifting
+                    Control Inanimate       Force Shield
+                                            Photokinesis
+                                            Sonarkinesis
+                                            Telekinesis
+                                            Transmogrify Object
+                    Electrokinesis          Alter Electric Current
+                                            Control Electrical Devices
+                                            Cyberpsi
+                                            Electric Blast
+                    Temperature Control     Cryokinesis
+                                            Pyrokinesis
+Telepathy           Empathy                 Emotion Control
+                                            Emotion Sensing
+                    Mind Shield
+                    Mental Communication    Mind Reading
+                                            Thought Sending
+                    Mental Control          Alter Memory
+                                            Persuasion
+                                            Prevent Clear Thinking
+                                            Send Violent Energy
+                                            Telehypnosis
+                    Vampirism               Borrow Skill
+                                            Drain Psychic Reservoir
+                                            Drain Health
+                                            Drain Energy
+Teleportation                               Teleport Self
+                                            Teleport Other
+                                            Teleport Object
+                                            Planar Travel
+                                            Open Dimension Portal
+
+The GM should let the players know what depth of Psi skills she is
+using.  Each Power costs one Supernormal Power (two gifts).
+
+Buying a Psi Power gets it at Terrible.  Powers may then be raised at
+the cost of two *skill* levels per level, if using the Objective
+Character Creation system.  That is, to raise Telekinesis Power to
+Poor, for example, requires two skill levels, and to raise it to
+Mediocre would cost two more skill levels.
+
+If a GM envisions a psi-rich campaign, of course, the costs should be
+much cheaper.  The best way to arrange this is probably to allow many
+free levels of Supernormal Powers and Supernormal skills, but not
+allow them to be traded for mundane traits.
+
+Power levels define range, quantity or size of subject affected, etc.
+- see Section 3.7, Psi.  A Fair Power can do whatever the default
+average is for the campaign world.
+
+Some tasks require a minimum Power level, as set by the GM.  If the
+character has the Power, but not at the minimum level required, he may
+not attempt the action unless he uses Desperation Psionics (Section
+7.35).  If the psi has the appropriate Power at three or more levels
+above the minimum required, he is at +1 for that use.
+
+No psionic ability can be used unless the character has the Power
+listed on his character sheet.
+
+Latent Powers: a character may take a *latent* psi Power at the cost
+of one gift.  He can't use the Power (may not take any related psi
+skills), but later in the campaign he may spend EP equal to another
+gift to awaken the Power.  He would then have to learn the skills to
+control the Power.
+
+It is also possible to take some interesting faults that will limit
+the nature of any Power.  "Usable only in emergencies" is a common
+theme in fiction, for example.
+
+7.33  Psionic Skills
+--------------------
+
+You cannot attempt any psionic action unless you have the specific
+skill to control the Power in question.  Each Power must have an
+accompanying skill of corresponding broadness or narrowness (Control
+Telekinesis, Use Telepathy, Read Minds, etc.).
+
+The default for psionic skills is Non-existent.  Raising a skill to
+Terrible costs one skill level, etc.  Skills may be taken as high as
+Fair at the beginning of a game.  (The GM may allow higher levels if
+the campaign is centered around psionic abilities.)  They may be
+improved through normal character development, and new ones may be
+added if the GM is willing.  The player should have a good story
+concerning awakening new skills, however.
+
+7.34  Psionic Actions
+---------------------
+
+Two kinds of psionic action are possible, Opposed and Unopposed.
+
+An Opposed action is a psionic attack upon an unwilling subject.  The
+attacker rolls against his specific psionic skill, and defender rolls
+against some sort of Will attribute to resist.  (A defender may have
+an appropriate psi skill to use instead, such as Mind Shield.)  An
+example of an Opposed action would be an attempt to control someone's
+emotions by filling them with fear.
+
+Unopposed psionic actions usually target inanimate objects.  An
+Unopposed action could be as simple as examining an object
+psychically, or as complex as opening a dimensional door at one's
+feet.  Telekinetically hurling an object at a foe is an Unopposed
+action because the object, not the foe, is the subject of the psionic
+skill.
+
+When a Psi wishes to use an ability, the player describes the result
+he wants to the GM.  The GM then assesses how difficult such an effect
+would be and assigns a Difficulty level to it.  Even if a psi
+overcomes a defender's Will roll to resist, he must still roll the
+Difficulty level or higher to succeed at a task.
+
+There may also be a minimum Power level needed in order to attempt an
+action.  For example, telekinetically lifting a pencil might only
+require a Terrible Telekinesis Power, but lifting a large book might
+require a Mediocre Telekinesis Power, and lifting a car might require
+a Superb Telekinesis Power.  If the psi's Power level is three or more
+above the minimum needed, he gets a +1 to his skill level.
+
+Note that mentally lifting a pencil might only require a Terrible
+Power level, but manipulating it to sign one's name would probably
+require a Superb skill result.  To accurately forge another person's
+signature would not only require a Superb Telekinesis skill result,
+but also a Fair or better Forgery skill result.
+
+The time required to activate a psionic ability depends on the potency
+of the desired effect and the Power level of the character.  It is set
+by the GM.  This can range from a single combat round to hours of
+concentration.  The individual can also vary the time concentrating
+(which must be uninterrupted) to speed up the results or increase the
+chances of success - see Section 7.36, Psi Modifiers Summary.
+
+The Psi now applies all modifiers and rolls against the Difficulty
+level using the appropriate skill.  In an Opposed action, both parties
+involved make their rolls.  On tie results, the status quo is
+maintained, whatever that may be.
+
+At this point, a psi (or animate target of a psionic attack) may
+attempt to sacrifice one or more levels of Psychic Reservoir to
+augment his rolled result.  (That is, if a psi fails in an Unopposed
+action, he may stress himself in attempt to succeed.  In an Opposed
+action, this can be considered two people locked in psionic combat,
+each struggling to boost their power a bit to overcome the other.)
+
+To augment a rolled result, a Psionicist rolls against the psionic
+skill he just used, with current modifiers still effective.  If the
+result is Good, he may sacrifice one level of Psychic Reservoir to
+give him a +1 on the result of the skill attempt.  On a result of
+Great, he may sacrifice one or two levels, gaining +1 for each level,
+and on a roll of Superb or better, he may sacrifice up to three levels
+of Psychic Reservoir.  On a result of Fair, Mediocre or Poor, there is
+no effect: he may not sacrifice a level of Psychic Reservoir, but
+there is no penalty for having tried.  On a result of Terrible or
+worse, however, he not only drains one level of Psychic Reservoir, he
+also *loses* one level of rolled result!  This can intensify any
+negative consequences of having failed.
+
+If one party of an Opposed action is successful in augmenting his
+rolled result, the other may then try to augment his.  They may
+continue to trade sacrificing levels of Psychic Reservoir until one of
+them fails to change the result, or falls below Terrible Psychic
+Reservoir.
+
+Someone defending with no psionic abilities rolls against Will-2 to
+augment his result.  While a psionic attack is resisted by straight
+willpower, draining Psychic Reservoir is actually a psionic activity.
+This is hard for people totally untrained in psi skills to do - harder
+than merely defending yourself against a psionic attack.
+
+Once augmenting is complete, the GM decides the duration of the
+effects - the better the roll, the better the results.  Continuous
+concentration may be required to sustain the effect; this may slowly
+drain one's Psychic Reservoir.  Rolling above the Difficulty level can
+increase the effect and/or cause it to last longer.  Some effects will
+be permanent, such as Healing.
+
+Psionic abilities are sometimes dangerous to use.  A rolled degree of
+Terrible or worse will usually result in the exact opposite of the
+desired outcome, or some other entertaining backfire.  In addition,
+the psi loses one level of Psychic Reservoir, as outlined in Section
+7.31.  It may also have a gruesome result: brain hemorrhage, loss of
+sanity, or a similar outcome.  A Terrible result on an Opposed psionic
+action can mean the loser is now psychically open to his opponent.
+Such an open channel to another's psyche means that if the winner has
+any psychic ability at all, he can automatically draw on the loser's
+Psychic Reservoir to power his own abilities!  The GM should determine
+these effects based on the situation at hand.
+
+7.35  Desperation Psionics
+--------------------------
+
+Ordinarily, if the minimum Power level of a proposed psionic action is
+higher than the character's Power level, the psionicist may not
+attempt the action at all.  However, if one is desperate enough, he
+*can* try it - at a great price.
+
+For each level of Psychic Reservoir voluntarily drained *before* the
+skill roll, a psionicist can increase his Power level by +1.  Simply
+pushing the Power level up to match the minimum level needed is all it
+takes to try the skill - but he is at -2 to his skill for *each* level
+of Psychic Reservoir he drained for this attempt.  Unlike augmenting a
+rolled result (as described in the previous section), no roll against
+a psi skill is needed to willingly drain a level of Psychic Reservoir.
+Draining one level of Psychic Reservoir *before* the die roll is
+automatically successful: it raises Power level by one (so you can
+even try an action), and lowers the skill rolled against by 2.
+
+This is obviously not for casual use: the risk of a Terrible outcome
+is much higher than normal, as well as the guaranteed drain on Psychic
+Reservoir.  Nonetheless, if one were being attacked by the Spawn of
+The Other, a demon of tremendous power, one might try anything to
+survive.
+
+7.36  Psi Modifiers Summary
+---------------------------
+
+Apply as many modifiers to the skill as are appropriate:
+
+Psychic Reservoir Level:      Psionic Skill use at:
+       Mediocre                        -1
+       Poor                            -2
+       Terrible                        -3
+       Below Terrible              Prohibited
+
+Concentration time reduced by half: -1
+Concentration time doubled: +1
+
+Power level is 3 or more greater than necessary for the task: +1
+
+Successful sacrifice of Psychic Reservoir after the roll: +1 per level
+Rolled Terrible or worse on sacrifice attempt: -1
+
+Desperation attempts: -2 per level of Psychic Reservoir spent
+
+Certain drugs, devices, fields, star alignments, areas, etc., can also
+have modifiers.  As a GM-chosen option, psionics may be blocked by
+metal - either all metal or just certain ones.
+
+7.37  Psi Examples
+------------------
+
+Yardmower Man wants to mow the lawn without exerting himself
+physically.  He's not lazy, it's just the ego satisfaction he's after,
+as well as the practice.  He currently has a Good Psychic Reservoir
+and an interesting assortment of psi Powers and skills.  The GM
+decides that to move and control the yard mower is a Great Difficulty
+level task on Telekinesis skill.  It requires only Mediocre
+Telekinesis Power, however.  Yardmower Man has a Good Telekinesis
+Power but only Fair Telekinesis skill.  It may be tough to do it well,
+but he's willing to try it.
+
+Yardmower Man declares he's going to spend twice as much time
+concentrating (+1) and is also under the influence of Batch-5, a psi-
+enhancing drug (+1).  He rolls a -1 result, which means a Good
+Telekinesis effort due to his modifiers.  He just missed the
+Difficulty level.  Since his power is adequate to move the lawn mower,
+he still mows the lawn telekinetically, but doesn't do a very good
+job.  In fact, it looks sloppy: there are thin strips of unmowed grass
+here and there, and he took out half of his daisy bed with one poorly
+aimed swipe.
+
+Since this is a continued use, the GM decides that for each hour spent
+mowing he reduces his Psychic Reservoir by one level.  It takes him
+two hours.
+
+The next day, Yardmower Man decides the director of the local
+government psionic research facility should be Molecularly Rearranged.
+(He's always snooping around, and has been known to lock up psis in
+the past.)  The GM rules that Molecularly Rearranging a human other
+than the Psi himself is a Superb Difficulty level task against the
+Shapeshift skill, and requires at least a Great Shapeshift Power.  It
+is also a taxing thing to do: it will drain one level of Psychic
+Reservoir at the end of the action.  It will be opposed by the
+director's Presence attribute, which is close as this campaign comes
+to willpower.
+
+Fortunately for Yardmower man, he has the Shapeshift Power and skill
+both at Superb level.  He also consumes a double dose of Batch-5,
+giving him a +2 in the Opposed action, but severely risking side
+effects.  His Psychic Reservoir is down to Mediocre from activities
+the night before (-1 to skill).  Yardmower man rolls a -1 Result.
+This is modified -1 for low Psychic Reservoir, and +2 for Batch-5,
+giving him a Superb Result.
+
+The poor director has a Good Presence and Fair Psychic Reservoir.  He
+gets lucky and rolls a Great Presence result trying to resist the
+psionic attack.  But Great is not good enough (Yardmower man got a
+Superb result), so he tries to augment his result by sacrificing a
+level of Psychic Reservoir to fight the rearrangement of his
+molecules.  His sacrifice roll (against Presence) is a Good Result, so
+he increases his result to Superb.  He's still holding on, but just
+barely.  Also, his Reservoir will be Mediocre after this round of
+psychic combat.
+
+Yardmower Man, not to be outdone, attempts to sacrifice his own
+Psychic Reservoir.  He started the combat with a Mediocre Psychic
+Reservoir and full of Batch-5, so he still applies the +1 overall
+modifier to his Superb Shapeshift skill on his augmentation roll.  He
+easily achieves a Good Result, and he therefore augments *his* result
+to Superb+1.  (After this round, his Reservoir will also drop another
+level.)
+
+The director desperately tries to augment his result again, but rolls
+a Fair result: he's reached the limit of his ability to stave off
+defeat.  Yardmower Man rearranges the director into a lovely bush, and
+stares blankly at the outcome.  At this point, his Psychic Reservoir
+drops one more level, as required by the GM for such a taxing action.
+
+Since he lost one level of Psychic Reservoir augmenting his skill, and
+another for the difficult Shapeshift action, Yardmower Man is now left
+with a Terrible Psychic Reservoir; he'd better not try anything this
+difficult for a while.  Also, the GM demands a Good Difficulty level
+roll against Constitution to avoid any unpleasant side effects from
+the Batch-5 overdose.  Yardmower Man gets a Mediocre result, missing
+by two levels.  The GM smiles at the player, and secretly jots down
+that the next time he uses Batch-5, he'll hallucinate that the
+director has returned to human form and is out to get him . . .
+Yardmower Man may someday drain his Psychic Reservoir fighting someone
+that isn't there.
+
+[More Addenda in the next file . . .]
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+

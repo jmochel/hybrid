@@ -1,0 +1,132 @@
+Goals
+	1. Unification: Statistics should be applied equally to PCs, NPCs, Vehicles
+    Monsters, etc...
+	2. Skill based: Allow characters to be created through a choice of skills amnd
+    knowledge.
+	3. Modularity: The individual systems within the RPG should be modular
+    4. Scalability: The GM and players should be able to tailor the scale
+    of tf the game to fit. GM should have control over the speed of combat,
+	rate of play etc.. The rules should supply the fundemental detail
+	and offer scalability rules... The rules aren't optional- they simply
+	expand...
+
+	6. Clarity !!!!
+
+
+General Bookeeping
+	Do up Fatigue and Exhaustion Technical notes
+
+Character Gen
+	Add in detailed discussions
+	Do up character sheets
+		Add in specifics of various hard-coded skills
+
+Conversion
+	Do up Step by Step conversion sheets
+
+Skills
+        Data sheets and filters
+        Packages
+        Add in DF relation to Skill Type
+	- MOre abstract = harder to do
+	- more lore = harder to learn
+
+Combat
+	Attacks against inanimate objects
+	Subduing
+	Mounted Combat
+	Vehicular Combat
+	Spray Fire, Subsequent Fire
+        Weapon Swing Times
+        Damage amount versus strength
+
+Damage
+	Battle Damage
+        falling objects, falling damage
+        effect of charging on damage
+	relationship between hps|armour| structural Points
+	damage to shields
+	injuries, illness, first aid
+
+weapons
+        data sheets and filters
+
+
+movement
+        encumbrance
+        terrain mods
+        Simplify and Tablifiy
+
+drugs
+        formats
+        saves
+        summary data
+        poison
+
+spells
+        equate qe to ke
+        come up with a backlash system.
+        do up the spell research system
+        priestly magic
+
+perception
+	! Explanation
+        perception accuracy increase with higher skill.
+        reaction time lower limit = 1 pulse
+        2d6 for reaction time + buffer ?
+
+racial data sheets - Ysdak, Alphan, Proximan, etc
+Cultural Notes - Terran(Israeli), Elysian, Wiccan, Calvinists, Free Traders.
+Allometric equations
+
+module notes for vehicles
+mass & length conversion
+ships details
+space travel details (several types of drives)
+maintainence of equipment
+vacuum, fire, cold, heat, starvation, dehydration
+lifting
+generalized comp manipulations
+data analysis rules
+mi warning orders/op orders
+chronology
+material description format
+
+Decker Program Design Attributes
+
+Visibility
+Integrity
+Speed
+Attack
+Defense
+Carrying Capacity.
+
+or
+
+MST		FCS
+MEN		MCA
+MAG		MDF
+PSI		GAW
+
+MBD
+MFT
+MAW
+MMV
+
+
+Tasks
+        Skills Applicable
+        Description
+        Type
+                Should encompass failure modes, fumbles, etc
+        DF
+        Time 
+                Some base amount to allow variability
+
+Repair cost = (1% of base cost)  x (DF of repair)
+
+Encounter Tables
+
+
+Basic Rxn/Action sequencing
+

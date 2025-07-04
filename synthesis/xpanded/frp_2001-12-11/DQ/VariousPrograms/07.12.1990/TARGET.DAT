@@ -1,0 +1,15 @@
+Inanimate			0		4		10
+Flora				1		4		10
+Creatures			2		6		10
+Sentients			2		7		10
+Enchanted			2		7		20
+Iron				7		15		30
+Unrestricted		13		15		50
+Single				0		5		10
+Multiple			2		10		15
+Small				1		1		1
+Medium				2		2		2
+Large				3		3		3
+Caster				-10		-15		10
+
+

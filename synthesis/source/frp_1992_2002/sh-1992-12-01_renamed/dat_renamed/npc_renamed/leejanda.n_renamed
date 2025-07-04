@@ -1,0 +1,49 @@
+.Name LEEJANDAR
+.Title DOM						   
+.Race G.ELF
+.Culture
+.Aspect 
+.PST 14
+.PEN 14		
+.DEX 15
+.PAG 16		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 6'2"      
+.WT 150		 
+.AGE 274
+.BeginDesc
+ 14 TALL BLONDE HAIRED GRAY ELF WITH YELLOW EYES AND A LONG HEAD OF  
+HAIR. SEVERAL TINY SCARS CRISSCROSS NEAR HIS EYS AND LIPS.
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale CULMAIEA
+.BeginKnownAssoc
+ HIS HUMAN WIFE ALOMA,DAUGHTER SILON
+.EndKnownAssoc
+.BeginSecretAssoc
+ ASSOCIATED WITH THE DROW OF THE SILVER LIVES
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ PARTIALLY SHUNNED BECAUSE OF HIS HUMAN WIFE AND HIS WITCHLY INTERESTS.
+.EndComment
+.BeginPossess
+ A DEDICATED LONGSWORD OF THE SILVER LIFE.							
+SEVERAL POTIONS AND MANY TOMES ON PSIONICS.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

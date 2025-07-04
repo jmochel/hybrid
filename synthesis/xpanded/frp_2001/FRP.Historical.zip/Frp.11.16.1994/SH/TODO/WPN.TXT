@@ -1,0 +1,31 @@
+Weapons should be broken down by 
+
+[1] Body Mechanics
+[2] Style and Familiarity
+
+Sticks
+Swords
+Hafts
+Bows
+X-Bows
+Bows
+Thrown
+
+Body
+----
+   Swing
+   Thrust
+
+Lore of the weapon is proprotional to the # of body mechanics used
+
+
+Melee Weapons
+-------------
+
+Swing			Thrust			Flexible
+----------------------------------------
+Short			Short			Short
+Med				Med				Med
+Long			Long			Long
+V.Long(halberd) V.Long
+				GigaLong (Pike)

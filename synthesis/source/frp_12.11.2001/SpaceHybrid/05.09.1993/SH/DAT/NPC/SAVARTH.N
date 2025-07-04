@@ -1,0 +1,47 @@
+.Name SAVARTH NEMEROL
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 16
+.PEN 9		
+.DEX 16
+.PAG 9		
+.PAW 14
+.MST 7		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 5'8"      
+.WT 140		 
+.AGE 27
+.BeginDesc
+ 16
+.EndDesc
+.BeginSkills
+Weapon: DAGGER(2)			  , 
+.EndSkills
+.Locale WIND HILLS
+.BeginKnownAssoc
+ SWALLOWS GUILD(SILVER HAND)
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends ARMSMASTER EWAN DATHOR
+.EndFriends
+.BeginComment
+ A SCARRED AND CYNICAL ASSASIN BUT SKILLED AND HONORABLE FOR ALL THAT.  
+SAID TO BE THE LORD MARQUIS'S BASTARD GET.
+.EndComment
+.BeginPossess
+ RING OF SILENCE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

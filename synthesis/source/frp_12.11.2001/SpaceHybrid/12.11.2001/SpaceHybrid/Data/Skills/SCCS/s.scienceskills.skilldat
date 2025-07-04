@@ -1,0 +1,767 @@
+h61443
+s 00739/00000/00000
+d D 1.1 99/12/02 15:40:57 jmochel 2 1
+cC
+cK21174
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:53 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Data/Skills/scienceskills.skilldat
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44885
+cPData/Skills/scienceskills.skilldat
+cReb47851d5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.Title Science Skills
+
+.BeginSkill	Accounting Science
+.BaseType SCI
+.Interaction U
+.Implementation CT
+.StatBasis		FCS
+.BeginDesc
+The science of analysing the flow of financial transactions
+.EndDesc
+.BeginDF
+7	Design a plan for analysing the flow of assets within a given organization
+.EndDF
+.EndSkill
+
+.BeginSkill	Archeology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Astro Physics  
+.BaseType SCI
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Biochemistry  
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Biology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Botany			
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Chemistry
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Classical Physics			  
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Cognoscology   
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+The science of how organisms learn
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Computer Sci		
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Cultural Anthropology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Electrical and Magnetic Field Physics			  
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Eco Engineering			
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Ecology			
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Electrical Engineering		 
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Electrical Operations
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Electrical Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Field Physics  
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Forensic Engineering 
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Forensic Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Forensics
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Genetic Engineering			
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Genetic Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Genetics		
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Geology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	History
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Hydroponics Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Hyper Atomics	
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Linguistics Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Linguistics	   
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Math Analyst
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mathematics				 
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mechanical Engineering		  
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mechanical Ops
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mechanical Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Medicine		 
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Medical Ops
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Medical Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Metallurgy		
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Mining Engineering		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mining Ops
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Mining Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Modeling Engineering	
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Navigation:(Interstellar)
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Navigation:(Intrastellar)
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Nexialism		 
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Optical Engineering
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Optical Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Pharmacognosy	
+.BaseType TECH
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Pharmacology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Physical Anthropology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Planetology	   
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Power Engineering		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Power Operations
+.BaseType TECH
+.Interaction U
+.Implementation CT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Power Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Psi Engineering			
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Psi Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Psychiatry		
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Psychology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Robotics		
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Robotics Tech
+.BaseType TECH
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Terraforming		
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Zoology
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+E 2
+I 1
+E 1

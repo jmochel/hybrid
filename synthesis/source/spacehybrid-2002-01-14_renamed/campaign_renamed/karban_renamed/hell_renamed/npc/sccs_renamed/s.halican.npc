@@ -1,0 +1,155 @@
+h38172
+s 00127/00000/00000
+d D 1.1 99/12/02 15:40:24 jmochel 2 1
+cC
+cK63473
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:20 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/halican.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44882
+cPCampaign/Karban/Hell/npc/halican.npc
+cReb4785e65cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Thraxhalican
+.Nomen  Title Arm Leader
+.Species Homo Sapiens:Proximan:Prime
+.Gender Male
+.Culture Proximan:Sajak
+.BeginStats
+.PST 18
+.PEN 17
+.DEX 16
+.PAG 18
+.PAW 16
+.MST 14
+.MEN 15
+.PSI 10
+.MAG 15
+.MAW 15
+.HT 1.7
+.WT 80
+.AGE
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build 
+.Bone
+.Tone
+.Text
+.EndFrame
+
+.BeginHair
+.Length
+.Color
+.Texture
+.Style
+.Curl
+.Ornament
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+.Indom	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+.Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+A highly trained and experienced war leader. 
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+
+E 2
+I 1
+E 1

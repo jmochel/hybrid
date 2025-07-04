@@ -1,0 +1,280 @@
+<chapter>
+	<title>Weapons</title>
+
+
+	<sect1>
+		<title>Melee Weapons</title>
+
+
+	<variablelist>
+
+		<varlistentry>
+			<term>Name</term>
+			<listitem><para> 
+	Self Explanatory
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Type (T)</term>
+			<listitem><para> 
+	Whether the weapon does (most commonly) Crushing, Slicing, or Piercing
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Length (L)</term>
+			<listitem><para> 
+	The overall size in centimeters of a weapon.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mass (M)</term>
+			<listitem><para>	
+	The mass of the unit in kilograms
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Speed (S)</term>
+			<listitem><para> 
+	The time it takes, in pulses, to use the weapon in a combat action.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Accuracy (A)</term>
+			<listitem><para> 
+	Any additional bonus the weapon gets to hit for its workmanship or materials. This is usually very small.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage Multiplier (DM)</term>
+			<listitem><para> 
+	The multiple times the users base that is used to produce a characters damage.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Technological Index (TI)</term>
+			<listitem><para> 
+	The tech level in which the weapon made its 1st appearance.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Tech Level Breakpoints:</term>
+			<listitem><para> 
+	(MASS-LENGTH-ACC-DM)
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+
+	<sect1>
+		<title>Hand to Hand Techniques</title>
+
+
+	<variablelist>
+
+		<varlistentry>
+			<term>Name</term>
+			<listitem><para> 
+	Self Explanatory
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Type (T)</term>
+			<listitem><para> 	
+	Whether the weapon does (most commonly) Crushing, Cutting, or Piercing
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Speed (S)</term>
+			<listitem><para> 	
+	The time it takes, in pulses, to use the technique in a combat action.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage Multiplier (DM)</term>
+			<listitem><para> 	
+	The multiple times the users base that is used to produce a characters damage.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+
+	<sect1>
+		<title>Missile and Projectile Weapons</title>
+
+
+	<variablelist>
+
+		<varlistentry>
+			<term>Name</term>
+			<listitem><para> 
+	The most common and correct names are given. In the cases of weapons that are very common in ther effects, only the most notable will be described.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Configuration (Cfg)</term>
+			<listitem><para> 
+	The physical form the weapon has. Typically : Heavy Rifle, Rifle, Carbine, Pistol 
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Action (Act)</term>
+			<listitem><para> 	
+	The type of trigger pull vs firing mechanism. Typically Single Shot, Auto Burst,	Auto, Semi Auto, Revolver.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Type (T)</term>
+			<listitem><para>	
+Chemical Propellant, CW Laser, Pulse Laser, Focused Sonic, Rocket, Gauss
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Caliber (Cal)</term>
+			<listitem><para>
+ 	The Apeture of the weapon
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Energy (NRG)</term>
+			<listitem><para>	
+The amount of energy the weapon delivers.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Length (L)</term>
+			<listitem><para>	
+The overall size in centimeters of a weapon.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mass (M)</term>
+			<listitem><para>
+	The mass of the unit in kilograms
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Speed (S)</term>
+			<listitem><para>
+ The time in which the weapon can be brought to bear on a target. This is the normal time involved in bring a weapon to bear on a target and needs	to be doubled if the weapon is being brought to bear on any target for the first time ( ie brought to the aiming position ) and needs to be tripled when the weapon is being drawn from a holster.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Accuracy (A)</term>
+			<listitem><para>
+ Any additional bonus to the chance to hit the weapon may have as a result of its design.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Accuracy Decrement (AD)</term>
+			<listitem><para>
+	A measurement of how much the to hit chance of the weapon is lowered for a given amount of distance.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage (D)</term>
+			<listitem><para>
+ The base amount of dam</para></listitem></varlistentry>
+-age done by a given weapon
+		<varlistentry>
+			<term>Damage Decrement  (DD)</term>
+			<listitem><para>
+ How much the damage of a given weapon is lowered for a given amount of distance.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Technological Index (TI)</term>
+			<listitem><para>
+	The Technological Index in which the weapon made first 1st appearance.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Tech Level Breakpoints</term>
+			<listitem><para>	
+(MASS-LENGTH-WA/WAD-WD/WDD)
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+
+	<sect1>
+		<title>Thrown Weapons</title>
+
+
+	<variablelist>
+pa
+		<varlistentry>
+			<term>Name</term>
+			<listitem><para>
+	Self Explanatory
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Length (L)</term>
+			<listitem><para>
+	The overall size in centimeters of a weapon.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mass (M)</term>
+			<listitem><para>
+	The mass of the unit in kilograms
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Accuracy (A)</term>
+			<listitem><para>
+	The additional bonus the weapon gets to hit for its workmanship or
+	materials. This is usually very small.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Accuracy Decrement (AD)</term>
+			<listitem><para>
+	The decrement per a given portion of the range that the weapon travels through
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage Multiplier (DM)</term>
+			<listitem><para>
+	The multiple times the entitie's PSE base that is used to produce a characters
+	damage.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage Decrement (DD)</term>
+			<listitem><para>
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Technological Index (TI)</term>
+			<listitem><para>
+	The Technological Index in which the weapon made its 1st appearance.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Tech Level Breakpoints:</term>
+			<listitem><para>
+	(MASS-LENGTH-WA/WAD-WDM/WDD)
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+
+	<sect1>
+		<title>Explosives</title>
+
+
+These are specific to blocks of explosive and weapons whose main 
+function is as an explosive device. Shrapnel is treated as a
+projectile weapon.
+
+	<variablelist>
+
+		<varlistentry>
+			<term>Name</term>
+			<listitem><para>
+	Usually self explanatory
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Type </term>
+			<listitem><para>
+	The type of process that causes its explosion. There are a wide 
+	variety : Propellant, Brisant, Gas, Electrochem, Fission, Fusion.
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage (DM)</term>
+			<listitem><para>
+	Each package has a base damage In the case of bulk explosive the value
+	will be given in damage / unit mass. 
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Damage Decrement (DD)</term>
+			<listitem><para>
+	The decrease in damage per unit distance. This measure is based on 
+	a situation with no atmosphere. Double the damage decrement for an 
+	Earth normal atmosphere. 
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+begin{table}[h]
+
+caption{Explosive Affect Modifiers}
+	begin{tabular}{ll} hline
+		Placed Charge  & DAM = 2.5* 
+		Shaped Charge  & DAM = 3.5*  hline
+	end{tabular}
+end{table}
+
+
+
+</sect1>
+</chapter>

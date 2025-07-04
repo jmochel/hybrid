@@ -1,0 +1,8 @@
+
+|| File: 
+|| Author: CvR
+||
+|| Datastructure file for exhaustive test of tm.
+
+folderIter == ( currContext:FolderContext, currSpec:FolderSpec, currInfo:FolderInfo );
+

@@ -1,0 +1,92 @@
+General Bookeeping
+	Do up Fatigue and Exhaustion Technical notes
+
+Character Gen
+	Add in detailed discussions
+	Do up character sheets
+		Add in specifics of various hard-coded skills
+
+Conversion
+	Do up Step by Step conversion sheets
+
+Skills
+	! Data sheets and filters
+	! Packages
+	! Add in DF relation to Skill Type
+	- MOre abstract = harder to do
+	- more lore = harder to learn
+
+Combat
+	Attacks against inanimate objects
+	Subduing
+	Mounted Combat
+	Vehicular Combat
+	Spray Fire, Subsequent Fire
+	! Do up Combat Options Sheet
+
+Damage
+	Battle Damage
+	! falling objects, falling damage
+	! effect of charging on damage
+	relationship between hps|armour| structural Points
+	damage to shields
+	injuries, illness, first aid
+
+weapons
+	! data sheets and filters 
+
+movement
+	! encumbrance
+	! terrain mods
+
+drugs
+	! formats
+	! saves
+	! summary data
+	! poison
+
+spells
+	! equate qe to ke
+	! cOME UP WITH A BACKLASH SYSTEM.
+
+perception
+	! Explanation
+
+racial data sheets - Ysdak, Alphan, Proximan, etc
+Cultural Notes - Terran(Israeli), Elysian, Wiccan, Calvinists, Free Traders.
+
+module notes for vehicles
+mass & length conversion
+ships details
+space travel details (several types of drives)
+maintainence of equipment
+vacuum, fire, cold, heat, starvation, dehydration
+overshooting the mark
+lifting
+generalized comp manipulations
+data analysis rules
+mi warning orders/op orders
+chronology
+material description format
+
+Decker Program Design Attributes
+
+Visibility 
+Integrity
+Speed
+Attack
+Defense
+Carrying Capacity.
+
+or
+
+MST		FCS
+MEN		MCA
+MAG		MDF
+PSI		GAW
+
+MBD		
+MFT
+MAW
+MMV
+

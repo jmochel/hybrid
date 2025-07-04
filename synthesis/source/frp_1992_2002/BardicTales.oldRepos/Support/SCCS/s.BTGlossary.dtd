@@ -1,0 +1,82 @@
+h26549
+s 00054/00000/00000
+d D 1.1 00/02/04 15:10:28 jmochel 2 1
+cC
+cK54112
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:10:24 jmochel 1 0
+c BitKeeper file g:/BardicTales/Support/BTGlossary.dtd
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07838
+cPSupport/BTGlossary.dtd
+cR84cc635a5cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!-- ====================================================================== -->
+<!--
+    BT Glossary DTD
+
+    This code was last modified on $Date: 1998/11/10 20:02:11 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.1 $
+-->
+<!-- ====================================================================== -->
+
+<!-- A set of Glossaries -->
+<!--
+
+<glossaries>
+    <glossary>
+        <title>Shape Shifteren Knowledge Base</title>
+        <glosslist>
+            <title>Player's Glossary</title>
+            <glosslist>
+                <title>Mysterious NPCs</title>
+                <entry>
+                  	<term>Acrivan</term>
+                  	<alias>Acrivan of the Seven Towers</alias>
+                  	<alias>The Elder</alias>
+                	<def viewpoint=Morphus>
+                        <p>
+                   		Possessed the Ring of Channeling. Wore it at the Tower of ForTal.
+                		</p>
+                	</def>
+
+                	<def viewpoint=Mordanith>
+                        <p>
+                   		Possessed the Ring of Channeling. Wore it at the Tower of ForTal.
+                		</p>
+                	</def>
+                </entry>
+        </glosslist>
+    <glossary>
+</glossaries>
+
+-->
+
+<!ELEMENT glossaries - - ( title, (glossary)+ ) >
+<!ELEMENT glossary   - - ( title, (glosslist)+ ) >
+<!ELEMENT glosslist  - - ( title, (glossentry)+ ) >
+<!ELEMENT entry      - - ( title, term, (alias)+, (def)+ ) >
+<!ELEMENT def        - - ( (p)* ) >
+<!ELEMENT p        - - (#PCDATA) >
+<!ELEMENT title    - - (#PCDATA) >
+
+<!ATTLIST (entry | def | p)         viewpoint (none|Mordanith|Morphus|Kheldar|Wotan|Erithmaeon|Catbird|Sigmund|Kilsorana|Kalarina) "none"
+                              disc      (public|private|secret|topsecret|hidden) "public"
+>
+E 2
+I 1
+E 1

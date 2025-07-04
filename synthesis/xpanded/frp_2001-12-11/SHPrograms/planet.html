@@ -1,0 +1,226 @@
+<html>
+<head>
+<title>Modeling accretion disks and embedded protoplanets</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="accretion disks protoplanetary system smoothed particle hydrodynamics astrophysics theoretical simulation modeling 
+disk protoplanet planet formation ">
+</head>
+
+<body bgcolor="#B3C3FF" text="#000000" link="#666666" vlink="#333333" alink="#CC6633">
+<table width="99%" border="0" cellspacing="0" cellpadding="0" height="175">
+  <tr> 
+    <td width="26%" height="388" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif">Planet 
+      formation </font></td>
+    <td width="57%" height="388"> 
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+    <td width="17%" height="388"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#introduction">introduction</a></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#theory">theory</a> 
+        </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#problems">problems</a></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#simulations">simulations</a></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#talks">talks</a></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="#related_links">related 
+        links</a></font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="26%" height="218" align="left" valign="top">&nbsp;</td>
+    <td height="218" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="26%" height="218" align="left" valign="top"><a name="introduction"></a><font face="Verdana, Arial, Helvetica, sans-serif">introduction</font></td>
+    <td height="218" colspan="2" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">Since the discovery 
+        of the first extrasolar planet by Queloz and Mayor in 1995, theorists 
+        get more and more data about the properties of extrasolar planets and 
+        their systems.<br>
+        Our solar system is not anymore the only one existing, it is not anymore 
+        special. Most of the new found extrasolar planets have extreme properties: 
+        Extrasolar planets were found with masses up to 15 Jupitermasses, semi-major 
+        axis down to 0.04 AU and eccentricities up to 0.93.<br>
+        So far, all extrasolar planets have been detected using the high-precision 
+        radial velocity (Doppler) measurements, two of them with a direct transit 
+        of the planet in front of the central star. While there are a lot of new 
+        ideas for the detection, both directly using infrared techniques and indirectly 
+        by microlensing effects, no extra solar planet could be found by any different 
+        method. Planets with significantly lower mass than Jupiter cannot be detected 
+        with current radial velocity and moreover planets with a large semi-major 
+        axis and therefore long periods require a long time measurement of several 
+        years. That is why less massive planets on greater orbital radii are expected 
+        to be found in the next years. There is, however, evidence for two sub-saturn 
+        massive planets.<br>
+        Based on present knowledge, it is assumed that about 5% of solar-type 
+        stars host massive planets, which means in other words the number of planets 
+        in our galaxy can be up to one billion.</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="26%" height="217" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a name="theory"></a>theory</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+    <td height="217" colspan="2" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">Planet formation is 
+        highly correlated to star formation. Today theories assume planet formation 
+        and star formation to take place in the same protoplanetary or protostellar 
+        accretion disk. So let us first take a look at star formation itself:</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">In the so-called standard 
+        model of star formation, stars form from gravitational instabilities in 
+        interstellar clouds of dust and gas. If in a certain region of the cloud 
+        the gravitational binding energy exceeds its thermal energy, the region 
+        begin to contract. This is called the Jeans instability criterion. This 
+        can happen due to a distortion by e.g. a shock wave due to a novae nearby. 
+        After several time, a accretion disk is formed out of the cloud due to 
+        angular momentum conservation. Dust and grain particles now settle to 
+        the midplane in the disk.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">These accretion disks 
+        are the birthplaces of planets. In a first step, dust and grain particles 
+        hit and stick together in the disk and form objects with sizes up to several 
+        meters, all of them orbiting the central star in the same direction. As 
+        a comparable picture, one might think about the objects found in the rings 
+        of Saturn. Further collisions lead to the formation of so-called planetesimals 
+        with sizes up to one kilometer that interact by gravitation. Afterwards, 
+        the gravitational interaction leads to changes in their orbits and growing 
+        is possible by further collisions. Finally one gets so-called embryos, 
+        that can have masses of about 10e-7 solar masses in the terrestrial region. 
+        Out of these embryos form the later planets, depending on several circumstances 
+        either terrestrial planets or giant planets are formed. Terrestrial planets 
+        consist of rock material while giant planets are gas planets, which can 
+        only form beyond the so-called snowy line, the ice-condensation radius, 
+        which is about 4 AU. Fragmentation and collisions lead to the formation 
+        of terrestrial planets, while giant gas planets form differently:<br>
+        Following the so-called core instability model, a massive solid core located 
+        beyond the ice-condensation radius can get large enough to accrete gas 
+        out of the disk, and finally gets more and more massive.<br>
+        As a result of all these accretion and collision processes, there are 
+        a lot of less massive rock particles at arbitrary orbits, which form the 
+        later comets.<br>
+        Finally the planet formation process stops by the disappearence of the 
+        accretion disk itself.</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="26%" height="217" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a name="problems"></a>problems</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+    <td height="217" colspan="2" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">Based on the new data 
+        of extrasolar planets, one gets into trouble describing the formation 
+        of giant planets. As mentioned above high massive planet formation is 
+        not thought to be possible for orbital radii less than the ice-condensation 
+        radius, but high massive planets were discovered down to 0.04 AU. Furthermore, 
+        planets with up to 15 jupitermasses were found, and it is not quite clear, 
+        whether the standard model can describe the formation of such planets 
+        by gas accretion. A high massive protoplanet can open a gap in the orbital 
+        region by tidal interaction between the protoplanet and the disk. In detail, 
+        gap opening occurs if the gravitational torques excerted by the protoplanet 
+        exceed the internal torques due to the viscosity in the disk. However, 
+        gap opening decreases the accretion rate since the material of the disk 
+        is pushed away from the planet at the planet's orbital region. Therefore 
+        it is of interest whether accretion can stop totally or if the resulting 
+        decreased accretion rate still leads to high massive planets during the 
+        estimated lifetime of the protoplanetary disk (which is about 10e6-10e7 
+        years). Furtheron, it follows from analytical considerations that a embedded 
+        protoplanet migrates in the disk as soon as the torques from the inside 
+        of the disk and the outside of the disk differ. It is assumed, that giant 
+        planets form on radii beyond the snow-line and migrate inwards, where 
+        they will be stopped by a unknown mechanism (e.g. by interaction with 
+        other protoplanets or magnetohydrodynamical effects). It is even possible 
+        that giant planets form out of several smaller gas planets which migrated 
+        inwards from radii beyond the snow-line and collided in the inner region 
+        of the disk.</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="26%" height="217" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif"><a name="simulations"></a>simulations</font></td>
+    <td height="217" colspan="2" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">To gather information 
+        about migration rates and the evolution of a protoplanet in the disk, 
+        a protoplanetary disk with one or several embedded protoplanet(s) have 
+        been simulated using <a href="sph.html">Smoothed Particle Hydrodynamics</a>. 
+        We have used a undistorted keplerian accretion disk as our initial particle 
+        distribution. Most of the simulations were twodimensional, although threedimensional 
+        disks were simulated but as no significant differences were found, the 
+        threedimensional simulations were skipped due to longer simulation times. 
+        For all simulations we used the code <font face="Courier New, Courier, mono">v3sph3d<font face="Verdana, Arial, Helvetica, sans-serif">, 
+        which has been developed by Roland Speith. <font face="Courier New, Courier, mono">v3sph3d<font face="Verdana, Arial, Helvetica, sans-serif"> 
+        is a scalar, fortran77 sph code, using a tree algorithm that allows the 
+        consideration of the selfgravity of the disk. More information including 
+        the source itself can be found at <a href="http://www.tat.physik.uni-tuebingen.de/%7Espeith/misc.html">Roland 
+        Speith's site</a>.<br>
+        You need the Macromedia Flash Player to play the result video.</font></font></font></font></font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" height="217" align="left" valign="top"><a name="talks"></a><font face="Verdana, Arial, Helvetica, sans-serif">talks</font></td>
+    <td height="217" colspan="2" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.tat.physik.uni-tuebingen.de/%7Eschaefer/svps.htm">Simulation 
+      of protoplanetary disks - talk at TAT in 2001</a>.</font></td>
+  </tr>
+  <tr> 
+    <td width="26%" height="217" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a name="related_links"></a>related 
+        links</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+    <td height="217" colspan="2" align="left" valign="top"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">Homepage of <a href="http://www.tat.physik.uni-tuebingen.de/%7Ekley">Willy 
+        Kley</a> at TAT.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.exoplanets.org">exoplanets.org</a>: 
+        Homepage of Debra Fischer, Geoff Marcy, Paul Butler and Steve Vogt.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.obspm.fr/encycl/catalog.html">Extrasolar 
+        planets catalog</a> maintained by Jean Schneider.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://ast.star.rl.ac.uk/darwin">Darwin 
+        project</a>: Space infrared interferometer project.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">Homepage of <a href="http://star-www.st-and.ac.uk/%7Epja3">Phil 
+        Armitage</a> at University of St Andrews, Scotland.</font> </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

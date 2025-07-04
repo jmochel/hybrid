@@ -1,0 +1,48 @@
+h06207
+s 00017/00000/00000
+d D 1.1 00/08/14 16:15:54 jmochel 2 1
+cC
+cF1
+cK37277
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/08/14 16:15:54 jmochel 1 0
+c BitKeeper file F:/Repository/CodeGen/src/CodeGenerator.tpr
+cBjmochel@devilmountain|ChangeSet|20000814201452|24445|7a8511c8
+cHdevilmountain
+cK48652
+cPsrc/CodeGenerator.tpr
+cR87b32503
+cV3
+cX0x1a1
+cZ-04:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+[Project]
+Language=java
+Root.0=$TGH$/lib/swingall.jar
+Root.0.access=import
+Root.0.package_prefix=
+Root.1=E:/jdk1.1.7A/lib/classes.zip
+Root.1.access=import
+Root.1.package_prefix=
+Root.2=$PROJECT_DIR$
+Root.2.access=writable
+Root.2.file_types=java_source;java_class;diagram
+Root.2.package_prefix=
+Root.2.srcControlEnabled=false
+Root.2.srcControlProject=
+Version=3.0
+[newDiagramExpert]
+includeInCurrentDiagram=false
+E 2
+I 1
+E 1

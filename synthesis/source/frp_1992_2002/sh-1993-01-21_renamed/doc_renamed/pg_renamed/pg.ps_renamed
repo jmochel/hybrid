@@ -1,0 +1,2285 @@
+%!PS-Adobe-2.0
+%%Creator: dvips 5.47 Copyright 1986-91 Radical Eye Software
+%%Title: pg.dvi
+%%Pages: 47 1
+%%BoundingBox: 0 0 596 843
+%%DocumentFonts: Palatino-Bold Palatino-Roman Palatino-Oblique Courier
+%%+ Palatino-Italic
+%%EndComments
+%%BeginProcSet: texc.pro
+/TeXDict 200 dict def TeXDict begin /N /def load def /B{bind def}N /S /exch
+load def /X{S N}B /TR /translate load N /isls false N /vsize 10 N /@rigin{
+isls{[0 1 -1 0 0 0]concat}if 72 Resolution div 72 VResolution div neg scale
+Resolution VResolution vsize neg mul TR matrix currentmatrix dup dup 4 get
+round 4 exch put dup dup 5 get round 5 exch put setmatrix}N /@letter{/vsize 10
+N}B /@landscape{/isls true N /vsize -1 N}B /@a4{/vsize 10.6929133858 N}B /@a3{
+/vsize 15.5531 N}B /@ledger{/vsize 16 N}B /@legal{/vsize 13 N}B /@manualfeed{
+statusdict /manualfeed true put}B /@copies{/#copies X}B /FMat[1 0 0 -1 0 0]N
+/FBB[0 0 0 0]N /nn 0 N /IE 0 N /ctr 0 N /df-tail{/nn 8 dict N nn begin
+/FontType 3 N /FontMatrix fntrx N /FontBBox FBB N string /base X array
+/BitMaps X /BuildChar{CharBuilder}N /Encoding IE N end dup{/foo setfont}2
+array copy cvx N load 0 nn put /ctr 0 N[}B /df{/sf 1 N /fntrx FMat N df-tail}
+B /dfs{div /sf X /fntrx[sf 0 0 sf neg 0 0]N df-tail}B /E{pop nn dup definefont
+setfont}B /ch-width{ch-data dup length 5 sub get}B /ch-height{ch-data dup
+length 4 sub get}B /ch-xoff{128 ch-data dup length 3 sub get sub}B /ch-yoff{
+ch-data dup length 2 sub get 127 sub}B /ch-dx{ch-data dup length 1 sub get}B
+/ch-image{ch-data dup type /stringtype ne{ctr get /ctr ctr 1 add N}if}B /id 0
+N /rw 0 N /rc 0 N /gp 0 N /cp 0 N /G 0 N /sf 0 N /CharBuilder{save 3 1 roll S
+dup /base get 2 index get S /BitMaps get S get /ch-data X pop /ctr 0 N ch-dx 0
+ch-xoff ch-yoff ch-height sub ch-xoff ch-width add ch-yoff setcachedevice
+ch-width ch-height true[1 0 0 -1 -.1 ch-xoff sub ch-yoff .1 add]/id ch-image N
+/rw ch-width 7 add 8 idiv string N /rc 0 N /gp 0 N /cp 0 N{rc 0 ne{rc 1 sub
+/rc X rw}{G}ifelse}imagemask restore}B /G{{id gp get /gp gp 1 add N dup 18 mod
+S 18 idiv pl S get exec}loop}B /adv{cp add /cp X}B /chg{rw cp id gp 4 index
+getinterval putinterval dup gp add /gp X adv}B /nd{/cp 0 N rw exit}B /lsh{rw
+cp 2 copy get dup 0 eq{pop 1}{dup 255 eq{pop 254}{dup dup add 255 and S 1 and
+or}ifelse}ifelse put 1 adv}B /rsh{rw cp 2 copy get dup 0 eq{pop 128}{dup 255
+eq{pop 127}{dup 2 idiv S 128 and or}ifelse}ifelse put 1 adv}B /clr{rw cp 2
+index string putinterval adv}B /set{rw cp fillstr 0 4 index getinterval
+putinterval adv}B /fillstr 18 string 0 1 17{2 copy 255 put pop}for N /pl[{adv
+1 chg}bind{adv 1 chg nd}bind{1 add chg}bind{1 add chg nd}bind{adv lsh}bind{
+adv lsh nd}bind{adv rsh}bind{adv rsh nd}bind{1 add adv}bind{/rc X nd}bind{1
+add set}bind{1 add clr}bind{adv 2 chg}bind{adv 2 chg nd}bind{pop nd}bind]N /D{
+/cc X dup type /stringtype ne{]}if nn /base get cc ctr put nn /BitMaps get S
+ctr S sf 1 ne{dup dup length 1 sub dup 2 index S get sf div put}if put /ctr
+ctr 1 add N}B /I{cc 1 add D}B /bop{userdict /bop-hook known{bop-hook}if /SI
+save N @rigin 0 0 moveto}N /eop{clear SI restore showpage userdict /eop-hook
+known{eop-hook}if}N /@start{userdict /start-hook known{start-hook}if
+/VResolution X /Resolution X 1000 div /DVImag X /IE 256 array N 0 1 255{IE S 1
+string dup 0 3 index put cvn put}for}N /p /show load N /RMat[1 0 0 -1 0 0]N
+/BDot 260 string N /rulex 0 N /ruley 0 N /v{/ruley X /rulex X V}B /V
+statusdict begin /product where{pop product dup length 7 ge{0 7 getinterval
+(Display)eq}{pop false}ifelse}{false}ifelse end{{gsave TR -.1 -.1 TR 1 1 scale
+rulex ruley false RMat{BDot}imagemask grestore}}{{gsave TR -.1 -.1 TR rulex
+ruley scale 1 1 false RMat{BDot}imagemask grestore}}ifelse B /a{moveto}B
+/delta 0 N /tail{dup /delta X 0 rmoveto}B /M{S p delta add tail}B /b{S p tail}
+B /c{-4 M}B /d{-3 M}B /e{-2 M}B /f{-1 M}B /g{0 M}B /h{1 M}B /i{2 M}B /j{3 M}B
+/k{4 M}B /w{0 rmoveto}B /l{p -4 w}B /m{p -3 w}B /n{p -2 w}B /o{p -1 w}B /q{p 1
+w}B /r{p 2 w}B /s{p 3 w}B /t{p 4 w}B /x{0 S rmoveto}B /y{3 2 roll p a}B /bos{
+/SS save N}B /eos{clear SS restore}B end
+%%EndProcSet
+%%BeginProcSet: texps.pro
+TeXDict begin /rf{655360 div mul Resolution mul 7227 div /PixPerEm X findfont
+dup length 1 add dict /nn X{1 index /FID ne{nn 3 1 roll put}{pop pop}ifelse}
+forall 256 dict begin nn /Encoding get 0 1 255{2 copy get 3 index 2 index get
+1000 mul PixPerEm div def pop}for pop pop nn /Metrics currentdict put end
+/fontname X /nn dup nn definefont[PixPerEm 0 0 PixPerEm neg 0 0]makefont N
+fontname{/foo setfont}2 array copy cvx N fontname load 0 nn put}N
+/ObliqueSlant{dup sin S cos div neg}B /SlantFont{/foo X[1 0 foo 1 0 0]
+TransFont}N /ExtendFont{/foo X 3 2 roll[S{foo div}forall]3 1 roll[foo 0 0 1 0
+0]TransFont}N /TransFont{S findfont S makefont dup length dict /nn X{1 index
+/FID ne{nn 3 1 roll put}{pop pop}ifelse}forall dup nn definefont pop}N end
+%%EndProcSet
+TeXDict begin 1000 300 300 @start /Fa [ 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 14 21 25 21
+37 32 12 14 14 16 25 10 14 10 12 21 21 21 21 21 21 21 21 21
+21 10 10 25 25 25 21 31 30 25 28 32 25 23 30 32 14 14 28 23
+39 32 32 25 32 28 23 25 32 30 39 30 28 28 14 25 14 25 21 12
+18 19 17 21 16 12 21 21 12 12 18 12 32 23 18 21 19 16 16 14
+23 21 30 21 21 18 14 25 14 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 21 21 7 28 21 21 25
+14 21 21 14 14 22 23 0 21 21 21 10 0 21 21 12 21 21 21 42 42
+0 21 0 14 14 14 14 14 14 14 14 0 14 14 0 14 14 14 42 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 39 0 14 0 0 0 0 23 32 43 14 0 0 0
+0 0 26 0 0 0 12 0 0 12 18 28 21 0 0 0 0 ] /Palatino-Italic
+1000 655360 rf /Fb 1 62 df<B512FCA2C8FCA6B512FCA2160A7E8C1B>61
+D E /Fc 1 3 df<EA4001EAC003EA6006EA300CEA1818EA0C30EA0660EA03C0EA0180A2EA03C0
+EA0660EA0C30EA1818EA300CEA6006EAC003EA400110127B901B>2 D E
+/Fd [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 8 11 17 20 17 30 26 9 11 11 13 20 8 11 8 10 17 17
+17 17 17 17 17 17 17 17 8 8 20 20 20 17 25 24 20 22 26 20 18
+24 26 11 11 22 18 31 26 26 20 26 22 18 20 26 24 31 24 22 22
+11 20 11 20 17 9 15 15 14 17 13 9 17 17 9 9 15 9 26 18 15 17
+15 13 13 11 18 17 24 17 17 15 11 20 11 20 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 17 17
+6 22 17 17 20 11 17 17 11 11 18 18 0 17 17 17 8 0 17 17 9 17
+17 17 33 33 0 17 0 11 11 11 11 11 11 11 11 0 11 11 0 11 11
+11 33 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 31 0 11 0 0 0 0 18 26
+34 11 0 0 0 0 0 21 0 0 0 9 0 0 9 15 22 17 0 0 0 0 ] /Palatino-Italic
+1000 524288 rf /Fe 15 120 df<EA07FEEA00E0485AA4485AA448C7FCA31420000E1340A214
+801301EA1C07B5120013147F9317>76 D<3807FFC03800E0703801C018141CA338038038147014
+C0EBFF00380703C01301EB00E0A2380E01C0A314C2001C13C438FF807817147F9319>82
+D<381FFFF838381C18EA2038140812401410EA807000001300A35BA4485AA4485AEA3FF8151480
+9314>84 D<EA07B0EA0C701210EA30601260A3EAC0C013C8A21241EA62D0EA3C700D0D7E8C12>
+97 D<EA0780EA0C40EA1020EA30401260EA7F80EA6000124012C0EA4020EA6040EA2180EA1E00
+0B0D7E8C10>101 D<EA01D8EA02381204EA0C301218A3EA3060A3EA10E0EA19C0120E1200A2EA
+618012E1EAC300127C0D137F8C10>103 D<1206120712061200A41238124CA2128C12981218A2
+123012321262A21264123808147F930C>105 D<123E12065AA45A137013B8EA1938EA3230EA34
+001238123E12631310A3EAC320EAC1C00D147E9312>107 D<127C120C1218A41230A41260A412
+C012D0A4126006147E930A>I<EA30F8EA590C124E129C12981218A2EA301813191331A2EA6032
+131C100D7F8C15>110 D<EA0380EA0C60EA1820EA30301260A3EAC060A2EA40C0EA6080EA2300
+121E0C0D7E8C10>I<EA0C78EA168CEA1304EA2606A21206A2EA0C0CA213081310EA1A20EA19C0
+EA1800A25AA312FC0F13818C11>I<EA31E0EA5A70124CEA9C60EA98001218A25AA45AA20C0D7F
+8C0F>114 D<1207EA1880EA19C0EA3180EA3800121E7EEA0380124112E1EAC1001282127C0A0D
+7E8C10>I<38381820004C13601420EA8C3012981218A238306040A21480A23818B100EA0F1E13
+0D7F8C18>119 D E /Ff [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 25 25 25 25 25 25 25 25 25 25
+25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25
+25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25
+25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25
+25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25
+25 25 25 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 25 25 25 25 25 25 25 25 25 25 25 25 25
+0 0 0 25 25 25 25 0 25 25 25 25 25 25 25 0 0 25 0 25 25 25
+25 25 25 25 25 0 25 25 0 25 25 25 25 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 25 0 0 0 0 25 25 0 25 0 0 0 0 0 0 0 0 0 25 0
+0 25 25 0 25 0 0 0 0 ] /Courier 1000 655360 rf /Fg [ 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8
+9 12 20 17 28 26 9 11 11 13 20 8 11 8 20 17 17 17 17 17 17
+17 17 17 17 8 8 20 20 20 15 25 26 20 24 26 20 18 25 28 11 11
+24 20 31 28 26 20 26 22 17 20 26 24 33 22 22 22 11 20 11 20
+17 9 17 18 15 20 16 11 18 19 10 8 18 10 29 19 18 20 19 13 14
+11 20 19 28 17 18 17 11 20 11 20 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 17 17 6 17 17 17
+20 7 17 17 11 11 20 20 0 17 17 17 8 0 21 20 9 17 17 17 33 38
+0 15 0 11 11 11 11 11 11 8 11 0 11 11 0 13 10 11 33 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 31 0 11 0 0 0 0 20 28 33 11 0 0 0 0
+0 25 0 0 0 10 0 0 10 18 27 18 0 0 0 0 ] /Palatino-Roman 1000
+524288 rf /Fh [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 6 7 9 15 12 21 19 7 8 8 10 15 6 8 6 15
+12 12 12 12 12 12 12 12 12 12 6 6 15 15 15 11 19 19 15 18 19
+15 14 19 21 8 8 18 15 24 21 20 15 20 17 13 15 19 18 25 17 17
+17 8 15 8 15 12 7 12 14 11 15 12 8 14 14 7 6 14 7 22 14 14
+15 14 10 11 8 15 14 21 13 14 12 8 15 8 15 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 12 12 4
+12 12 12 15 5 12 12 8 8 15 15 0 12 12 12 6 0 16 15 7 12 12
+12 25 28 0 11 0 8 8 8 8 8 8 6 8 0 8 8 0 9 8 8 25 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 24 0 8 0 0 0 0 15 21 25 8 0 0 0 0 0 19
+0 0 0 7 0 0 7 14 21 14 0 0 0 0 ] /Palatino-Roman 1000 393216
+rf /Fi [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 7 8 11 18 15 24 23 8 10 10 11 18 7 10 7 18 15
+15 15 15 15 15 15 15 15 15 7 7 18 18 18 13 22 23 18 21 22 18
+16 22 24 10 10 21 18 27 24 23 18 23 19 15 18 23 21 29 19 19
+19 10 18 10 18 15 8 15 16 13 18 14 10 16 17 8 7 16 8 26 17
+16 17 16 11 12 9 18 16 24 15 16 15 10 18 10 18 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 15
+15 5 15 15 15 18 6 15 15 10 10 18 18 0 15 15 15 7 0 18 18 8
+15 15 15 29 33 0 13 0 10 10 10 10 10 10 7 10 0 10 10 0 11 9
+10 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 27 0 10 0 0 0 0 18 24
+29 10 0 0 0 0 0 22 0 0 0 8 0 0 8 16 24 16 0 0 0 0 ] /Palatino-Roman
+1000 458752 rf /Fj 5 22 df<B61280A219027D8A20>0 D<0040132000C01360006013C03830
+018038180300EA0C066C5A6C5AEA01B0EA00E0A2EA01B0EA0318EA060C487E487E383001803860
+00C04813600040132013147A9320>2 D<EA0180A4EA4182EAF18FEA399CEA0FF0EA03C0A2EA0F
+F0EA399CEAF18FEA4182EA0180A410127E9215>I<EA03C0EA0FF0EA1FF8EA3FFCEA7FFEA2B5FC
+A4EA7FFEA2EA3FFCEA1FF8EA0FF0EA03C010107E9115>15 D<12C012F0123C120FEA03C0EA00F0
+133C130FEB03C0EB00F0143C140FEC0380EC0F00143C14F0EB03C0010FC7FC133C13F0EA03C000
+0FC8FC123C127012C0C9FCA7007FB5FCB6128019227D9920>21 D E /Fk
+4 62 df<13401380EA0100120212065AA25AA25AA212701260A312E0AC1260A312701230A27EA2
+7EA27E12027EEA008013400A2A7D9E10>40 D<7E12407E7E12187EA27EA27EA213801201A313C0
+AC1380A312031300A21206A25AA25A12105A5A5A0A2A7E9E10>I<1306ADB612E0A2D80006C7FC
+AD1B1C7E9720>43 D<007FB512C0B612E0C9FCA8B612E06C14C01B0C7E8F20>61
+D E /Fl 1 3 df<6C13C0EAC00138600300EA30066C5A6C5A6C5A6C5A6C5AA2EA0360EA063048
+7E487E487E487E38C001C0EA800012127A911E>2 D E /Fm 16 89 df<1304130C1318A31330A3
+1360A313C0A3EA0180A3EA0300A31206A35AA35AA35AA35AA35AA20E257E9B13>61
+D<141014301470A214F814B8EB01381302A21304A213081310143CEB201CA2EB7FFCEB801CA2EA
+01005A120248131E140E001C131EB4EBFFC01A1A7F991D>65 D<903807E04090383C18C0EBE005
+3801C0033903800180EA0700120E5A003C14001238007890C7FCA25AA41404A35C00705B123000
+3813606C1380D80703C7FCEA01FC1A1A7E991B>67 D<3801FFFC38003807EC0380EC01C0903870
+00E0A315F05BA43901C001E0A315C038038003A21580EC07003807000E141E14385C380E01E0B5
+C7FC1C1A7E9920>I<48B512C038003801140015405BA49038E04000A314C048B45A13C0A3D803
+81C7FCEB8001A21402EA07005C140C5C000E1378B55A1A1A7E991C>I<903807E04090383C18C0
+EBE0053801C0033903800180EA0700120E5A003C14001238007890C7FCA25AA3903801FF809038
+001C00A400705B123012386C1378380703903801FC101A1A7E991E>71 D<3803FF8038003800A3
+5BA45BA4485AA4485AA448C7FCA45AEAFFE0111A7F9911>73 D<D801FCEB07F0D8003CEB0F00A2
+1517015C132E134E154EA2018E5BEC011CA21402D8010E5B14041408A23902071070A214201440
+00045C1480A2000C1300391C0601C039FF861FFC241A7E9925>77 D<3901F803FC39003C00E015
+40A2014E1380A31347903887010013831481A2380101C2A3EB00E2000213E4A21474A248137814
+38A2120C001C1310EAFF801E1A7E991F>I<EB0FE0EB3838EBE00E48487EEA070048EB0380120E
+5A003C14C012381278A248EB0780A3EC0F00A2140E141E5C007013385C6C5B381C03C0D80E0FC7
+FCEA03F81A1A7E991D>I<3801FFFC3800380FEC0380A2017013C0A49038E00780A2EC0F00141E
+3801C038EBFFE001C0C7FCA2485AA448C8FCA4120EEAFFE01A1A7E9919>I<3801FFF83800381E
+140715801370A49038E00F00140E5C14703801FFC013C014601470EA0380A4380700F0A2154015
+80000E137939FFE01E001A1A7E991D>82 D<EB1F08EB60D8EB8038EA01004813101206A3140012
+0713C0EA03FC6CB4FC38007F80EB07C01301A213001220A238600180A2EB0300EA7006EACC0CEA
+83F0151A7E9917>I<003FB5128038380E010020130012405B1280A348481300A45BA45BA4485A
+A41203EA7FFE191A7F9916>I<3AFFC1FF07F83A1C007801C09138700080ED010014B81502EB01
+385D130201045B5D13085DEA1E10000E5C132001605BEB4039018090C7FC143AEA0F00143C000E
+131C1418120C1410251A7E9924>87 D<3901FF83FE39003C00F015C0011C138090381E0100EB0E
+025C6D5A5C14A0EB03C0A213011303497E1304497EEB10701320497E13803801003C0002131C00
+06131E121E39FF80FFC01F1A7F9920>I E /Fn 3 44 df<1380EA010012025A120C120812185A
+A35AA412E0AA1260A47EA37E1208120C12047E7EEA008009267D9B0F>40
+D<7E12407E7E12181208120C7EA37EA41380AA1300A41206A35A1208121812105A5A5A09267E9B
+0F>I<130CACB61280A2D8000CC7FCAC191A7E951E>43 D E /Fo [ 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+9 10 14 23 19 31 29 10 12 12 15 23 9 12 9 23 19 19 19 19 19
+19 19 19 19 19 9 9 23 23 23 17 28 29 23 26 29 23 21 29 31 13
+12 27 23 35 31 29 23 29 25 20 23 29 27 37 25 25 25 12 23 12
+23 19 10 19 21 17 23 18 12 21 22 11 9 21 11 33 22 20 22 21
+15 16 12 23 21 31 19 21 19 12 23 12 23 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 19 19 6
+19 19 19 23 8 19 19 12 12 23 23 0 19 19 19 9 0 23 23 10 19
+19 19 37 43 0 17 0 12 12 12 12 12 12 9 12 0 12 12 0 14 12 12
+37 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 35 0 12 0 0 0 0 23 31 37
+12 0 0 0 0 0 28 0 0 0 11 0 0 11 21 31 21 0 0 0 0 ] /Palatino-Roman
+1000 589824 rf /Fp [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 15 16 23 35 29 52 48 16 19 19 26
+35 15 19 15 17 29 29 29 29 29 29 29 29 29 29 15 15 35 35 35
+26 43 45 39 42 48 36 32 48 48 23 23 45 36 58 48 48 36 48 42
+36 39 45 45 58 39 39 39 19 35 19 35 29 16 29 36 26 36 29 23
+32 36 19 19 36 19 52 36 32 36 36 23 26 19 36 32 48 29 32 29
+18 35 18 35 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 16 29 29 10 29 29 29 35 13 29 29 23 23
+36 36 0 29 29 29 15 0 37 35 19 29 29 29 58 58 0 26 0 19 19
+19 19 19 19 19 19 0 19 19 0 19 19 19 58 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 58 0 25 0 0 0 0 36 48 58 28 0 0 0 0 0 45 0 0 0
+19 0 0 19 32 48 36 0 0 0 0 ] /Palatino-Bold 1000 917504 rf
+/Fq [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 21 23 33 50 42 74 69 23 28 28 37 50 21 28 21 25 42
+42 42 42 42 42 42 42 42 42 21 21 50 50 50 37 62 65 55 60 69
+51 46 69 69 32 32 65 51 83 69 69 51 69 60 51 55 65 65 83 55
+55 55 28 50 28 50 42 23 42 51 37 51 42 32 46 51 28 28 51 28
+74 51 46 51 51 32 37 28 51 46 69 42 46 42 26 50 26 50 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 23 42 42 14 42 42 42 50 19 42 42 32 32 51 51 0 42 42 42 21
+0 53 50 28 42 42 42 83 83 0 37 0 28 28 28 28 28 28 28 28 0
+28 28 0 28 28 28 83 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 83 0 36
+0 0 0 0 51 69 83 41 0 0 0 0 0 65 0 0 0 28 0 0 28 46 69 51 0
+0 0 0 ] /Palatino-Bold 1000 1310720 rf /Fr [ 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 12 15
+25 21 35 32 12 14 14 16 25 10 14 10 25 21 21 21 21 21 21 21
+21 21 21 10 10 25 25 25 18 31 32 25 29 32 25 23 32 35 14 14
+30 25 39 34 33 25 33 28 22 25 32 30 42 28 28 28 14 25 14 25
+21 12 21 23 18 25 20 14 23 24 12 10 23 12 37 24 23 25 23 16
+18 14 25 23 35 21 23 21 14 25 14 25 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 21 21 7 21 21
+21 25 9 21 21 14 14 25 25 0 21 21 21 10 0 26 25 12 21 21 21
+42 47 0 18 0 14 14 14 14 14 14 10 14 0 14 14 0 16 13 14 42
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 39 0 14 0 0 0 0 25 35 41 14
+0 0 0 0 0 31 0 0 0 12 0 0 12 23 34 23 0 0 0 0 ] /Palatino-Oblique
+/Palatino-Roman .167 SlantFont 1000 655360 rf /Fs 44 122 df<126012F0A212600404
+7C830C>58 D<130113031306A3130CA31318A31330A31360A213C0A3EA0180A3EA0300A31206A2
+5AA35AA35AA35AA35AA210297E9E15>61 D<140CA2141CA2143C147C145C149C148EEB010EA213
+021304A21308A213101320EB3FFEEB4007A21380EA0100A21202A21206121E39FF807FF01C1D7F
+9C1F>65 D<48B5FC39003C01C090383800E015F01570A25B15F0A2EC01E09038E003C0EC0780EC
+1F00EBFFFC3801C00FEC0780EC03C0A2EA0380A439070007801500140E5C000E1378B512C01C1C
+7E9B1F>I<903801F80890380E0618903838013890386000F048481370485A48C7123048142012
+0E5A123C15005AA35AA45CA300701302A200305B00385B6C5B6C136038070180D800FEC7FC1D1E
+7E9C1E>I<48B5128039003C01E090383800701538151CA25B151EA35BA44848133CA315384848
+1378157015F015E039070001C0EC0380EC0700141C000E1378B512C01F1C7E9B22>I<48B512F8
+39003C0078013813181510A35BA214101500495AA21460EBFFE03801C040A43903808040140015
+80A23907000100A25C1406000E133EB512FC1D1C7E9B1F>I<48B512F038003C00013813301520
+A35BA214101500495AA21460EBFFE03801C040A448485A91C7FCA348C8FCA45AEAFFF01C1C7E9B
+1B>I<903801F80890380E0618903838013890386000F048481370485A48C71230481420120E5A
+123C15005AA35AA2EC7FF0EC07801500A31270140E123012386C131E6C136438070184D800FEC7
+FC1D1E7E9C21>I<3A01FFC3FF803A003C00780001381370A4495BA449485AA390B5FC3901C003
+80A4484848C7FCA43807000EA448131E39FFE1FFC0211C7E9B23>I<3803FFC038003C001338A4
+5BA45BA4485AA4485AA448C7FCA45AEAFFF0121C7E9B12>I<EB7FF8EB03C01480A4EB0700A413
+0EA45BA45BA31220EA707012F0EAE060EA80E0EA81C0EA4380003EC7FC151D7D9B17>I<D801FE
+14FFD8003E14F0012EEB01E01502A21504014EEB09C0A201471311A20187EB23801543A215833A
+0107010700A2EB0382A20002EB840E1488A214900004EBA01CA2EB01C0120C001CEB803C3AFF81
+03FF80281C7E9B28>77 D<D801FCEBFF80D8001CEB1C00012E13181510A2132701475B13431480
+A2903881C040A3EB80E0D801005B1470A300020139C7FCA3141D48131E140EA2120C001C1304EA
+FF80211C7E9B21>I<EB03F8EB0E0E90383803809038E001C0EA01C039038000E048C7FC4814F0
+121E121C123CA25AA348EB01E0A3EC03C0A2EC0780A2EC0F000070130E5C6C5B003C5B381C01C0
+38070780D801FCC7FC1C1E7E9C20>I<48B5FC39003C03C090383800E015F01570A24913F0A315
+E0EBE001EC03C0EC0780EC1E003801FFF001C0C7FCA3485AA448C8FCA45AEAFFE01C1C7E9B1B>
+I<3801FFFE39003C03C090383800E015F01570A24913F0A3EC01E001E013C0EC0780EC1E00EBFF
+F03801C03080141CA2EA0380A43807003C1508A2151048131E39FFE00E20C7EA07C01D1D7E9B20
+>82 D<EB0FC1EB3033EB400FEB80061201EA0300A200061304A200071300A27FEA03F06CB4FC6C
+13C0EB3FE01303EB00F014701430A21220A200601360A214C0148038F00300EACC06EA83F8181E
+7E9C19>I<001FB512F0391C03807039300700300020142012601240130E1280A2000014005BA4
+5BA45BA45BA41201EA7FFF1C1C7F9B18>I<397FF03FE0390F000700000E13061404A3485BA448
+5BA4485BA4485BA35CA249C7FCEA60025B6C5AEA1830EA07C01B1D7D9B1C>I<39FFC00FF0391E
+000380001C140014025C121E000E5BA25C5CA25C5CA2D80F01C7FC120713025BA25B1318131013
+A0120313C05BA290C8FCA21C1D7D9B18>I<3AFFC1FFC1FF3A1C003C003C021C13101620143C02
+7C1340145C029C1380A29039011C0100A2010213025D130401085B121ED80E105BA2496C5A1560
+014013405D1380260F000FC7FCA2000E130EA2000C130C1408281D7D9B27>I<3A01FFC0FF803A
+001E003C001530010E1320010F5B6D5B4AC7FC1482EB038414C8EB01D014F06D5AA280EB017013
+02497E1308EB103CEB201CEB401EEB800E12013803000F00067F001E497E39FF803FF0211C7F9B
+22>I<EA01E3EA0717EA0C0F1218EA380E12301270A2485AA4EB3880A3EA607838319900EA1E0E
+11127E9116>97 D<123F1207A2120EA45AA4EA39E0EA3A30EA3C1812381270131CA3EAE038A313
+301370136013C01261EA2300121E0E1D7E9C12>I<EA01F0EA030C120EEA1C1EEA383CEA3018EA
+7000A25AA51304EA60081310EA3060EA1F800F127E9112>I<EB07E01300A2EB01C0A4EB0380A4
+3801E700EA0717EA0C0F1218EA380E12301270A2485AA4EB3880A3EA607838319900EA1E0E131D
+7E9C16>I<EA01F0EA0708120CEA1804EA38081230EA7030EA7FC0EAE000A51304EA60081310EA
+3060EA0F800E127E9113>I<EB01E0EB0630EB0E78EB0CF0EB1C601400A3133C1338A23803FFC0
+38003800A25BA55BA5485AA55B1203A20063C7FC12F312F612E4127815257E9C14>I<EB7180EA
+018BEA03071206000E1300120C121CA2EA380EA45BA3EA183CEA08F8EA07381200A25B1260EAF0
+6013E0EAE180007EC7FC111A7F9114>I<EA0FC01201A2485AA448C7FCA4EA0E3E13C3380F0380
+120E121E121CA338380700A3130E00701320A2131C144038E00C8038600700131D7E9C18>I<EA
+01C01203A2EA0180C7FCA6121C12271247A21287A2120EA25AA35A1380A21270EA71001232121C
+0A1C7E9B0E>I<EA0FC01201A2485AA448C7FCA4EA0E07EB1880EB21C01323381C4780EB830000
+1DC7FC121EEA3F80EA39C0EA38E0A2EA70E1A313E2EAE062EA603C121D7E9C16>107
+D<EA1F801203A2EA0700A4120EA45AA45AA45AA412E4A412641238091D7E9C0C>I<39381F81F0
+394E20C618394640E81CEB80F0EA8F00008E13E0120EA2391C01C038A315703938038071A215E1
+15E23970070064D83003133820127E9124>I<EA381F384E6180384681C0EA4701128F128E120E
+A2381C0380A3EB070000381310A2130E1420387006403830038014127E9119>I<13F8EA030CEA
+0E06487E1218123000701380A238E00700A3130EA25BEA60185BEA30E0EA0F8011127E9114>I<
+380707803809C8603808D03013E0EA11C014381201A238038070A31460380700E014C0EB0180EB
+8300EA0E86137890C7FCA25AA4123CB47E151A819115>I<EA383CEA4E42EA4687EA470FEA8E1E
+130CEA0E00A25AA45AA45A123010127E9113>114 D<EA01F0EA060CEA0404EA0C0EEA180CEA1C
+00121FEA0FE013F0EA03F8EA0038EA201CEA701812F01310EA8030EA6060EA1F800F127E9113>
+I<13C01201A3EA0380A4EAFFF0EA0700A3120EA45AA4EA3820A21340A2EA1880EA0F000C1A8099
+0F>I<001C13C0EA27011247A238870380A2120EA2381C0700A438180E20A3EA1C1E380C264038
+07C38013127E9118>I<EA1C02EA270712471303EA8701A2120EA2EA1C02A3130412181308A2EA
+1C10EA0C20EA07C010127E9114>I<001C13C0EA27011247A238870380A2120EA2381C0700A4EA
+180EA3EA1C1EEA0C3CEA07DCEA001C1318EA6038EAF0305B485AEA4180003EC7FC121A7E9114>
+121 D E /Ft [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 10 12 15 25 21 35 32 12 14 14 16 25 10 14
+10 25 21 21 21 21 21 21 21 21 21 21 10 10 25 25 25 18 31 32
+25 29 32 25 23 32 35 14 14 30 25 39 34 33 25 33 28 22 25 32
+30 42 28 28 28 14 25 14 25 21 12 21 23 18 25 20 14 23 24 12
+10 23 12 37 24 23 25 23 16 18 14 25 23 35 21 23 21 14 25 14
+25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 12 21 21 7 21 21 21 25 9 21 21 14 14 25 25 0 21
+21 21 10 0 26 25 12 21 21 21 42 47 0 18 0 14 14 14 14 14 14
+10 14 0 14 14 0 16 13 14 42 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+39 0 14 0 0 0 0 25 35 41 14 0 0 0 0 0 31 0 0 0 12 0 0 12 23
+34 23 0 0 0 0 ] /Palatino-Roman 1000 655360 rf /Fu [ 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+12 17 25 21 37 35 12 14 14 18 25 10 14 10 12 21 21 21 21 21
+21 21 21 21 21 10 10 25 25 25 18 31 32 28 30 35 25 23 35 35
+16 16 32 25 42 35 35 25 35 30 25 28 32 32 42 28 28 28 14 25
+14 25 21 12 21 25 18 25 21 16 23 25 14 14 25 14 37 25 23 25
+25 16 18 14 25 23 35 21 23 21 13 25 13 25 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 21 21
+7 21 21 21 25 9 21 21 16 16 25 25 0 21 21 21 10 0 27 25 14
+21 21 21 42 42 0 18 0 14 14 14 14 14 14 14 14 0 14 14 0 14
+14 14 42 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 42 0 18 0 0 0 0 25
+35 42 20 0 0 0 0 0 32 0 0 0 14 0 0 14 23 35 25 0 0 0 0 ] /Palatino-Bold
+1000 655360 rf /Fv [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 12 14 20 30 25 44 41 14 17 17 22
+30 12 17 12 15 25 25 25 25 25 25 25 25 25 25 12 12 30 30 30
+22 37 39 33 36 41 30 28 41 41 19 19 39 30 50 41 41 30 41 36
+30 33 39 39 50 33 33 33 17 30 17 30 25 14 25 30 22 30 25 19
+28 30 17 17 30 17 44 30 28 30 30 19 22 17 30 28 41 25 28 25
+15 30 15 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 14 25 25 8 25 25 25 30 11 25 25 19 19 30
+30 0 25 25 25 12 0 32 30 17 25 25 25 50 50 0 22 0 17 17 17
+17 17 17 17 17 0 17 17 0 17 17 17 50 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 50 0 22 0 0 0 0 30 41 50 24 0 0 0 0 0 39 0 0 0 17
+0 0 17 28 41 30 0 0 0 0 ] /Palatino-Bold 1000 786432 rf /Fw
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 26 29 42 63 52 92 86 29 35 35 46 63 26 35 26 31 52 52
+52 52 52 52 52 52 52 52 26 26 63 63 63 46 78 81 69 75 86 63
+58 86 86 40 40 81 63 104 86 86 63 86 75 63 69 81 81 104 69
+69 69 35 63 35 63 52 29 52 63 46 63 52 40 58 63 35 35 63 35
+92 63 58 63 63 40 46 35 63 58 86 52 58 52 32 63 32 63 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 29 52 52 17 52 52 52 63 24 52 52 40 40 63 63 0 52 52 52 26
+0 67 63 35 52 52 52 104 104 0 46 0 35 35 35 35 35 35 35 35
+0 35 35 0 35 35 35 104 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 104
+0 45 0 0 0 0 63 86 104 51 0 0 0 0 0 81 0 0 0 35 0 0 35 58 86
+63 0 0 0 0 ] /Palatino-Bold 1000 1638400 rf end
+%%EndProlog
+%%BeginSetup
+%%Feature: *Resolution 300
+TeXDict begin @a4
+%%EndSetup
+%%Page: 0 1
+bop 1241 593 a Fw(Space)27 b(Hybrid)p 540 660 1350 7 v 1534
+769 a Fv(Players)13 b(Manual)1641 1055 y(V)-6 b(ersion)13 b(1.0)1670
+1577 y Fu(Jim)d(Mochel)1633 1745 y(April)h(23,)f(1992)1229
+1795 y(Copyright)h(1988,1989,1990,1991,1992)p eop
+%%Page: 1 2
+bop 150 506 a Fw(Contents)150 764 y Fu(1)41 b(How)10 b(to)g(Play)1124
+b(3)212 814 y Ft(1.1)44 b(Requir)o(ements)9 b(for)i(Play)24
+b Fs(:)c(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(3)212 863 y(1.2)44 b(Rolling)10
+b(Dice)k Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73
+b Ft(3)212 913 y(1.3)44 b(T)l(ypes)10 b(of)g(Rolls)15 b Fs(:)20
+b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(3)212 963 y(1.4)44
+b(Open)10 b(Ended)h(Rolls)34 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73
+b Ft(4)212 1013 y(1.5)44 b(Evaluating)10 b(Success)h(and)f(Failur)o(e)27
+b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)73 b Ft(4)150 1104 y Fu(2)41 b(Character)11 b(Generation)949
+b(7)212 1154 y Ft(2.1)44 b(Statistics)12 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(7)308 1204 y(2.1.1)50 b(Primary)10
+b(Statistics)g Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(8)308 1254 y(2.1.2)50
+b(Calculated)10 b(Statistics)27 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(9)212
+1303 y(2.2)44 b(Other)10 b(Statistics)24 b Fs(:)d(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)52 b Ft(12)308 1353 y(2.2.1)e(Character)11 b(Speeds)i Fs(:)20
+b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(12)308 1403 y(2.2.2)e(Racial)10 b(Modi\256ers)33
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(12)308 1453 y(2.2.3)e(Gender)10
+b(Modi\256ers)40 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(12)308 1503 y(2.2.4)e(Cultural)10
+b(Modi\256ers)23 b Fs(:)d(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(13)308 1553 y(2.2.5)e(Determination)9
+b(of)h(Height)f(and)i(W)l(eight)j Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(13)212 1602 y(2.3)44 b(Backgr)o(ound)12
+b(and)e(Car)o(eers)j Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)
+h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(14)308 1652
+y(2.3.1)e(Backgr)o(ound)14 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)
+g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(14)308 1702 y(2.3.2)e(Car)o(eers)32 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(15)212 1752 y(2.4)44 b(Designers)10 b(Notes)35
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(16)212 1802
+y(2.5)44 b(Buying)11 b(Skills)f(and)h(Advantages)41 b Fs(:)20
+b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(16)212 1851 y(2.6)44 b(Skill)10 b(Costs)15 b Fs(:)20 b(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(17)212 1901 y(2.7)44 b(Skill)10
+b(Packages)i Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(17)212 1951 y(2.8)44 b(Enhancements)10 b(and)h(Limitations)23
+b Fs(:)d(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)52 b Ft(17)212 2001 y(2.9)44 b(Statistics)8 b(Costs)31 b
+Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(18)212 2051
+y(2.10)23 b(Special)10 b(Abilities)42 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(19)308 2100 y(2.10.1)29 b(Enhanced)11 b(Stats)20 b Fs(:)g(:)g(:)g(:)h(:)
+f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+52 b Ft(19)308 2150 y(2.10.2)29 b(Ambidexterity)j Fs(:)20 b(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(19)308 2200 y(2.10.3)29 b(Eidectic)11 b(Memory)20 b Fs(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(19)308 2250 y(2.10.4)29 b(Pr)o(esence)11 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(19)308 2300 y(2.10.5)29 b(Lightning)11 b(Calculator)j
+Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(19)308 2350 y(2.10.6)29 b(Mage)10 b(Ability)g(?)32
+b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(19)308 2399 y(2.10.7)29
+b(Other)10 b(SP)l(AB)h(Costs)35 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(19)212
+2449 y(2.11)23 b(Envir)o(onmental)11 b(Enhancements)41 b Fs(:)20
+b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(19)308 2499 y(2.11.1)29 b(W)l(ealth)10 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(19)308 2549 y(2.11.2)29 b(Friends)11
+b(and)f(Allies)30 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(20)308 2599 y(2.11.3)29
+b(Reputation)h Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(20)212
+2648 y(2.12)23 b(A)10 b(Checklist)28 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(20)864 2938 y(i)p eop
+%%Page: 2 3
+bop 450 50 a Ft(ii)1187 b Fr(CONTENTS)450 174 y Fu(3)41 b(Skills)1226
+b(21)512 224 y Ft(3.1)44 b(Skills)12 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(21)608 274 y(3.1.1)e(Use)37
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(21)608
+324 y(3.1.2)e(Gaining)23 b Fs(:)e(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(22)608 374 y(3.1.3)e(Learning)11 b(Rolls)32 b Fs(:)20
+b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(22)608 423 y(3.1.4)e(T)l(raining)11
+b(in)g(Skills)23 b Fs(:)d(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(22)450 515 y Fu(4)41
+b(General)10 b(Playing)g(Mechanics)816 b(23)512 565 y Ft(4.1)44
+b(T)n(ime)10 b(Scale)j Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(23)512 614 y(4.2)44 b(Per)o(ception)12 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(23)512 664 y(4.3)44 b(Initiative)e
+Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(23)608
+714 y(4.3.1)e(Speed)10 b(Gains)f(Due)i(to)e(Rank)i(in)f(a)g(Skill)19
+b Fs(:)h(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b
+Ft(24)608 764 y(4.3.2)e(Pr)o(eset)10 b(Reactions)33 b Fs(:)20
+b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(24)512 814 y(4.4)44 b(Actions)34 b Fs(:)21
+b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(24)512
+863 y(4.5)44 b(Speeds)10 b(of)f(Actions)42 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)
+f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+52 b Ft(24)512 913 y(4.6)44 b(Drawing)10 b(a)g(T)l(ool)h(or)f(W)l(eapon)36
+b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(25)512 963 y(4.7)44 b(Resolving)10 b(an)g(Action)30
+b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(25)512 1013 y(4.8)44
+b(T)l(asks)e Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)
+g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(25)608 1063 y(4.8.1)e(Dif)o(\256culty)30 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(25)608 1112 y(4.8.2)e(Results)36 b Fs(:)21 b(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(25)512 1162 y(4.9)44 b(Modi\256ers)30
+b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b
+Ft(25)608 1212 y(4.9.1)e(Unranked)11 b(in)g(the)f(Skill)38
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(25)608 1262 y(4.9.2)e(Set-up)19 b Fs(:)h(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1312 y(4.9.3)e(Flor)o(entine)17
+b Fs(:)j(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1362 y(4.9.4)e(Physically)
+10 b(Injur)o(ed)i(or)e(T)n(ir)o(ed)40 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1411 y(4.9.5)e(Movement)36
+b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1461 y(4.9.6)e(Envir)o
+(onmental)11 b(Conditions)38 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1511 y(4.9.7)e(Relations)8
+b(Among)j(Skills)33 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)608 1561 y(4.9.8)e(Unfamiliar)10
+b(T)l(ools)25 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(26)512 1611 y(4.10)23
+b(Filter)10 b(Skills)34 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(27)512 1660 y(4.11)23 b(Support)9 b(Skills)14 b Fs(:)20
+b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(27)512 1710 y(4.12)23
+b(Multiple)10 b(Actions)27 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)
+f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(27)512 1760 y(4.13)23 b(Fatigue)10 b(and)g(Exhaustion)31
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(27)608 1810 y(4.13.1)29 b(Losing)10
+b(Fatigue)28 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(28)608 1860
+y(4.13.2)29 b(Losing)10 b(Exhaustion)23 b Fs(:)d(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b
+Ft(28)608 1910 y(4.13.3)29 b(Restoring)9 b(Fatigue)h(and)h(Exhaustion)33
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(28)512 1959 y(4.14)23 b(Physical)10 b(Movement)38 b Fs(:)21
+b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)52 b Ft(28)608 2009 y(4.14.1)29 b(Acceleration)38
+b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(28)512 2059 y(4.15)23
+b(Mental)10 b(Movement)29 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(28)512 2109 y(4.16)23 b(Opposing)9 b(Skill)i(Rolls)24
+b Fs(:)d(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(29)512 2159 y(4.17)23 b(Stealth)9
+b(and)i(Concealment)39 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)
+h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(29)512 2208
+y(4.18)23 b(Deception)10 b(and)g(Detection)h Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)
+f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(29)450 2300 y Fu(5)41 b(Combat)11 b(Mechanics)973 b(33)512
+2350 y Ft(5.1)44 b(Description)26 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(33)512 2399 y(5.2)44 b(First)10 b(Action)g(Determination)35
+b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(33)512 2449 y(5.3)44 b(Attack)21 b Fs(:)f(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(33)608 2499
+y(5.3.1)e(Closing)10 b(to)g(Attack)j Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(33)608 2549 y(5.3.2)e(Calculating)10 b(Chances)h(to)f(Hit)33
+b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(34)608 2599 y(5.3.3)e(All)10 b(out)g(attack)19 b Fs(:)i(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)52 b Ft(34)608 2648 y(5.3.4)e(Advance)41 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(34)608 2698 y(5.3.5)e(Called)11 b(Shots)37 b
+Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(34)608 2748 y(5.3.6)e(Hit)9
+b(Location)38 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(34)608 2798
+y(5.3.7)e(Indir)o(ect)11 b(Fir)o(e)i Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)
+h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(34)p eop
+%%Page: 3 4
+bop 150 50 a Fr(CONTENTS)1177 b Ft(iii)212 174 y(5.4)44 b(Damage)21
+b Fs(:)g(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b
+Ft(35)308 224 y(5.4.1)e(General)10 b(Notes)37 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(35)308 274 y(5.4.2)e(Critical)11 b(Damage)34 b Fs(:)20
+b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(35)308 324 y(5.4.3)e(T)l(ypes)10 b(of)g(Damage)15
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(35)308 374 y(5.4.4)e(Secondary)10
+b(ef)o(fects)k Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(36)212 423 y(5.5)44
+b(Defenses)9 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(37)308 473 y(5.5.1)e(Rolling)10 b(with)g(the)g(blow)30
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(37)308 523 y(5.5.2)e(Normal)10 b(Defense)32
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(37)308 573 y(5.5.3)e(Retr)o(eating)13
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(37)308 623 y(5.5.4)e(Evasion)
+25 b Fs(:)c(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(37)308 672
+y(5.5.5)e(Dodging)42 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(37)308 722 y(5.5.6)e(Dr)o(opping)11 b(Pr)o(one)36 b Fs(:)20
+b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(37)308 772 y(5.5.7)e(Cr)o(ouching)43 b Fs(:)20
+b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(37)308 822 y(5.5.8)e(Parrying)11
+b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(38)308 872
+y(5.5.9)e(Block)38 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)
+f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(38)308 922 y(5.5.10)29 b(Disarm)35 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(38)212 971 y(5.6)44 b(Fancy)11 b(Maneuvers)g
+Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(38)308 1021 y(5.6.1)e(Spinning)38
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(38)308 1071
+y(5.6.2)e(Jumping)11 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(38)308 1121 y(5.6.3)e(Feint)14 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(39)212 1171 y(5.7)44 b(Close)10 b(Con\257ict)15
+b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(39)308
+1220 y(5.7.1)e(Overbear)32 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)
+f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(39)308 1270 y(5.7.2)e(Thr)o(ow)17 b Fs(:)j(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(39)308 1320 y(5.7.3)e(Grapple)20 b Fs(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)52 b Ft(39)308 1370 y(5.7.4)e(Hold)12 b Fs(:)20
+b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(39)150 1461
+y Fu(6)41 b(NPC-PC)11 b(Interaction)959 b(41)212 1511 y Ft(6.1)44
+b(Outline)35 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(41)212 1561 y(6.2)44 b(Reaction)9 b(Rolls)h Fs(:)20 b(:)h(:)f(:)g(:)h(:)
+f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(41)212 1611 y(6.3)44 b(Pr)o(esence)15
+b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(41)212 1660 y(6.4)44 b(Morale)12 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(41)p eop
+%%Page: 4 5
+bop 450 50 a Ft(iv)1176 b Fr(CONTENTS)p eop
+%%Page: 1 6
+bop 150 506 a Fw(List)26 b(of)g(T)-12 b(ables)212 722 y Ft(1.1)44
+b(Critical)11 b(Result)e(T)l(able)33 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)73
+b Ft(5)212 814 y(2.1)44 b(Primary)11 b(Statistics)i Fs(:)20
+b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)73 b Ft(8)212 863 y(2.2)44 b(Secondary)11
+b(Statistics)35 b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(11)212
+913 y(2.3)44 b(Character)11 b(Speed)f(T)l(able)25 b Fs(:)20
+b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(12)212 963 y(2.4)44 b(Limit)10 b(in)g(Skill)h(Ranks)f
+(fr)o(om)g(Base)g(Education)37 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)
+h(:)f(:)g(:)52 b Ft(14)212 1013 y(2.5)44 b(Cost)9 b(of)h(Statistics)34
+b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h
+(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(18)212 1063
+y(2.6)44 b(Friend)11 b(and)g(Ally)g(Costs)30 b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(20)212 1154 y(4.1)44 b(Per)o(ception)10 b(Modi\256ers)17
+b Fs(:)k(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(24)212 1204 y(4.2)44 b(Speeds)10
+b(of)f(Basic)i(Actions)34 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f
+(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(30)212
+1254 y(4.3)44 b(Generic)11 b(Dif)o(\256culty)g(Factors)27 b
+Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(30)212 1303 y(4.4)44 b(General)10 b(Modi\256ers)36
+b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(30)212 1353 y(4.5)44
+b(Physical)10 b(Condition)h(Modi\256ers)25 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)g(:)
+h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(30)212
+1403 y(4.6)44 b(Mental)10 b(Condition)g(Modi\256ers)16 b Fs(:)21
+b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)52 b Ft(31)212 1453 y(4.7)44 b(Movement)10 b(Modi\256ers)j
+Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(31)212 1503 y(4.8)44 b(Envir)o(onmental)11
+b(Condition)f(Modi\256ers)33 b Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h
+(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(31)212 1553 y(4.9)44 b(Skill)10
+b(Relations)41 b Fs(:)21 b(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)
+g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(31)212 1602 y(4.10)23 b(PFT)11 b(and)f(PEX)h(costs)e(for)h(activity)42
+b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f
+(:)g(:)52 b Ft(31)212 1652 y(4.11)23 b(MFT)11 b(and)g(MEX)f(costs)f(for)i
+(activity)i Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g
+(:)h(:)f(:)g(:)52 b Ft(32)212 1702 y(4.12)23 b(PFT)11 b(and)f(PEX)h(gains)f
+(for)g(activity)34 b Fs(:)20 b(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)
+h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(32)212 1752 y(4.13)23 b(Movement)10
+b(T)l(ypes)20 b Fs(:)g(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)
+f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(32)212
+1802 y(4.14)23 b(T)l(ar)o(geted)11 b(Action)f(Movement)g(Modi\256ers)33
+b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(32)212 1893 y(5.1)44 b(Called)11 b(Shot)e(Modi\256ers)34
+b Fs(:)20 b(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(34)212 1943 y(5.2)44 b(Hit)9
+b(Location)42 b Fs(:)20 b(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52
+b Ft(35)212 1993 y(5.3)44 b(System)9 b(Shock)h(Ef)o(fects)16
+b Fs(:)21 b(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g
+(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b Ft(36)212 2042 y(5.4)44
+b(Melee)10 b(Combat)f(modi\256ers)k Fs(:)20 b(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)g
+(:)h(:)f(:)g(:)h(:)f(:)g(:)g(:)h(:)f(:)g(:)h(:)f(:)g(:)52 b
+Ft(38)860 2938 y(1)p eop
+%%Page: 2 7
+bop 450 50 a Ft(2)1103 b Fr(LIST)11 b(OF)f(T)m(ABLES)p eop
+%%Page: 3 8
+bop 150 486 a Fq(Chapter)19 b(1)150 693 y Fw(How)27 b(to)e(Play)150
+920 y Ft(Space)17 b(Hybrid)h(is)g(a)f(Role-Playing)g(Game)g(or)h(RPG.)f(A)h
+(RPG)f(is)g(a)h(impr)o(ovisational)150 970 y(theatr)o(e)13
+b(of)g(the)g(mind.)24 b(In)14 b(an)f(RPG)g(the)g(main)g(participants,)h(or)g
+(players,)g(cr)o(eate)f(alter)150 1020 y(egos)j(called)h(Player)h(Characters)
+f(\(PCs\),)h(and)f(interact)g(as)f(those)g(characters)h(with)f(a)150
+1070 y(world)h(of)e(someone)g(elses)h(making.)33 b(That)16
+b(someone)f(is)h(called)h(the)f(Games-Master)150 1120 y(\(GM\).)h(The)h(GM)g
+(cr)o(eates)f(the)g(backgr)o(ound)i(of)e(the)g(world)g(in)h(which)g(the)f
+(PCs)g(\256nd)150 1169 y(themselves.)k(He)12 b(or)h(she)f(sets)f(the)i(stage)
+e(for)i(the)f(PCs)h(by)f(describing)i(what)e(they)g(see,)150
+1219 y(hear)m(,)f(otherwise)e(sense.)212 1269 y(All)j(the)f(activity)h(is)f
+(verbal.)19 b(A)12 b(few)f(playing)h(aids,)g(such)f(as)g(maps,)g(can)h(be)f
+(used)h(to)150 1319 y(aid)f(in)f(visualizing)h(the)f(story)f(but)h(they)g(ar)
+o(e)h(not)f(necessary)-5 b(.)212 1369 y(The)18 b(end)g(r)o(esult)f(of)g(play)
+g(is)g(the)g(cr)o(eation)g(of)g(a)g(story)g(that)f(you,)j(thr)o(ough)f(your)
+150 1418 y(Player)o(-Characters,)11 b(have)g(participated)f(in.)150
+1561 y Fp(1.1)58 b(Requirements)13 b(for)h(Play)150 1656 y
+Ft(All)f(that)e(is)h(needed)h(to)e(play)h(is)g(the)g(rule)g(books,)g(the)g
+(GM's)f(notes)g(,a)i(set)e(of)g(per)o(centile)150 1705 y(dice,)g(and)g
+(imagination.)j(Ther)o(e)d(ar)o(e)g(a)f(number)g(of)g(items)f(that)g(will)h
+(make)g(the)g(player)s('s)150 1755 y(and)g(GM's)g(lives)g(a)g(gr)o(eat)g
+(deal)g(easier:)15 b(A)c(hexmap)f(such)g(as)g(a)g(battlemap,)f(a)h
+(calculator)m(,)150 1805 y(Markers)h(for)f(the)g(battlemap.)150
+1948 y Fp(1.2)58 b(Rolling)15 b(Dice)150 2042 y Ft(Ther)o(e)h(is)e(one)g
+(type)g(of)g(die)h(used)f(in)h(Space)f(Hybrid\(S)1050 2052
+y(H)1080 2042 y(\).)28 b(They)15 b(ar)o(e)f(typically)h(either)150
+2092 y(actual)10 b(ten-sided)g(dice)i(or)e(twenty-sided)g(dice)h(number)o(ed)
+g(between)f(1-10.)15 b(These)10 b(dice)150 2142 y(ar)o(e)i(r)o(eferr)o(ed)h
+(to)e(as)g(D10.)19 b(Thus,)13 b(if)e(two)g(tensided)g(dice)i(need)f(to)e(be)i
+(r)o(olled)g(and)g(added)150 2192 y(together)d(the)g(notation)f(would)i(be)f
+(2D10.)15 b(If)9 b(a)h(number)f(between)g(one)g(to)g(one)g(hundr)o(ed)150
+2242 y(needs)k(to)f(be)h(generated)f(simply)h(r)o(oll)g(two)f(D10s)g(and)h
+(let)f(one)h(die)g(stand)g(for)f(the)h(tens)150 2291 y(position)8
+b(and)i(one)f(die)h(be)g(the)f(ones)g(position.)14 b(This)9
+b(kind)i(of)e(r)o(oll)h(is)f(called)h(a)f(per)o(centile)150
+2341 y(r)o(oll.)16 b(A)11 b(r)o(oll)f(of)g(00)g(is)g(a)g(one)g(hundr)o(ed.)
+150 2484 y Fp(1.3)58 b(T)-5 b(ypes)14 b(of)g(Rolls)150 2578
+y Ft(Ther)o(e)f(is)f(one)f(main)h(type)f(of)h(die)g(r)o(oll)h(in)f(S)842
+2588 y(H)883 2578 y(.)20 b(The)13 b(r)o(oll)f(is)g(made)f(with)h(per)o
+(centile)g(dice)150 2628 y(against)7 b(a)g(Success)g(Chance)i(\(SC\).)f(If)f
+(the)g(r)o(oll)h(is)g(under)g(or)g(equal)f(to)g(the)g(Success)h(Chance,)150
+2678 y(then)i(the)g(r)o(oll)h(is)f(successful.)212 2728 y(The)15
+b(Success)e(Chance)i(is)e(the)h(chance)h(to)e(perform)g(a)h(given)g(task)f
+(for)h(a)g(particular)150 2778 y(character)m(.)21 b(This)13
+b(SC)f(is)g(determined)g(fr)o(om)g(the)g(Base)f(Chance)i(\(BC\))g(of)e(the)h
+(action)g(and)150 2827 y(modi\256ers)d(based)g(on)g(the)g(situation)f(and)i
+(the)f(character)m(.)15 b(The)10 b(most)e(common)h(modi\256er)860
+2938 y(3)p eop
+%%Page: 4 9
+bop 450 50 a Ft(4)860 b Fr(CHAPTER)11 b(1.)25 b(HOW)9 b(T)o(O)i(PLA)-5
+b(Y)450 174 y Ft(is)9 b(called)g(a)g(Dif)o(\256culty)g(Factor)g(\(DF\).)g
+(This)h(is)e(a)h(number)g(that)f(typically)h(ranges)g(fr)o(om)g(-10)450
+224 y(to)h(+10.)15 b(The)c(Success)g(Chance)g(for)g(an)f(action)g(is)g(the)h
+(Base)f(Chance)h(plus)f(the)g(Dif)o(\256cluty)450 274 y(Factor)d(times)g
+(5\045.)14 b(Don't)6 b(worry)i(if)g(you)f(don't)g(understand)h(this)f(right)g
+(away)-5 b(.)14 b(Ther)o(e)9 b(is)e(a)450 324 y(disscussion)i(of)g(actions)g
+(and)i(modi\256ers)e(in)h(the)g(chapter)g(on)f(General)h(Play)g(Mechanics.)
+450 467 y Fp(1.4)58 b(Open)14 b(Ended)e(Rolls)450 561 y Ft(The)e(range)h(of)e
+(die)i(r)o(olls)f(is)f(1-100.)14 b(A)d(r)o(oll)f(of)g(00)f(is)h(100)f(and)h
+(automatically)f(has)g(another)450 611 y(r)o(oll)i(added)g(on)f(to)g(it.)450
+754 y Fp(1.5)58 b(Evaluating)15 b(Success)d(and)i(Failure)450
+848 y Ft(When)7 b(per)o(centile)i(dice)f(ar)o(e)g(r)o(olled)g(and)g(the)g(r)o
+(esult)f(is)g(under)i(the)e(success)g(chance,)j(that)c(is)450
+898 y(a)k(normal)g(success.)15 b(When)10 b(the)g(r)o(olled)h(value)g(is)f
+(signi\256cantly)g(lower)h(than)f(the)f(needed)450 948 y(value)k(ther)o(e)g
+(is)g(a)f(chance)i(of)e(the)h(action)f(having)i(gr)o(eater)f(than)f(normal)h
+(success.)23 b(The)450 997 y(following)10 b(table)f(describes)i(the)f(r)o
+(olls)g(needed.)p eop
+%%Page: 5 10
+bop 150 50 a Fr(1.5.)26 b(EV)-5 b(ALUA)m(TING)13 b(SUCCESS)e(AND)g(F)m
+(AILURE)568 b Ft(5)p 150 145 1441 12 v 576 220 a(T)m(ABLE)13
+b(1.1:)i(Critical)c(Result)e(T)l(able)p 392 240 946 3 v 417
+287 a(T)l(ype)i(of)f(Success)68 b(value)50 b(Subjective)10
+b(V)l(alue)p 392 317 V 417 364 a(One)g(Half)g(1)p Fs(=)p Ft(2)112
+b(1.25)78 b(Solid)10 b(Success)417 414 y(One)g(Quarter)g(1)p
+Fs(=)p Ft(4)49 b(1.5)99 b(Notable)10 b(Success)417 463 y(One)g(T)l(enth)h(1)p
+Fs(=)p Ft(10)69 b(2.0)99 b(V)-5 b(ery)11 b(Notable)f(Success)417
+513 y(1)p Fs(=)p Ft(100)249 b(3.0)99 b(Amazing)10 b(Success)p
+392 555 V 150 592 1441 12 v eop
+%%Page: 6 11
+bop 450 50 a Ft(6)860 b Fr(CHAPTER)11 b(1.)25 b(HOW)9 b(T)o(O)i(PLA)-5
+b(Y)p eop
+%%Page: 7 12
+bop 150 486 a Fq(Chapter)19 b(2)150 693 y Fw(Character)26 b(Generation)150
+909 y Ft(A)7 b(Player)g(Character)g(\(Abbr)o(eviated:)15 b(PC\))7
+b(is)g(an)g(imaginary)g(individual)g(with)g(their)g(own)150
+959 y(physical)12 b(and)g(mental)f(abilities,)g(skills,)i(history)-5
+b(,)12 b(etc)g(.)7 b(.)g(.)g(Each)13 b(character)g(has)e(physical)150
+1009 y(and)g(mental)e(attributes)g(that)g(ar)o(e)i(quanti\256ed)f(in)h(10)f
+(primary)h(statistics.)212 1059 y(This)f(chapter)g(discusses)f(the)h(method)f
+(used)h(to)f(generate)g(characters.)16 b(The)10 b(chapter)150
+1108 y(includes)j(all)f(the)f(tables)g(needed)i(and)f(the)g(information)f(is)
+g(pr)o(esented)h(in)h(r)o(oughly)f(the)150 1158 y(or)o(der)f(needed)g(to)f
+(generate)g(the)g(character)m(.)150 1301 y Fp(2.1)58 b(Statistics)150
+1395 y Ft(In)10 b(S)213 1405 y(H)253 1395 y(the)g(physical)g(and)h(mental)e
+(attributes)g(of)g(a)h(character)h(ar)o(e)g(described)g(by)g(a)f(series)150
+1445 y(of)g(numbers)h(called)g(statistics)d(or)j(stats.)k(Physical)c(Str)o
+(ength)f(is)h(a)f(typical)h(statistic.)k(The)150 1495 y(higher)g(a)f
+(statistic)e(is,)j(the)f(better)f(the)h(character)s('s)g(chance)h(to)e(do)i
+(actions)e(using)h(that)150 1545 y(stat.)212 1595 y(In)d(generating)g(the)f
+(statistics)e(of)j(the)f(character)h(the)g(player)f(distributes)g(155)g
+(points)150 1644 y(among)h(the)h(10)f(primary)i(statistics.)18
+b(The)12 b(minimum)f(number)h(of)g(points)f(that)g(may)g(be)150
+1694 y(put)d(into)g(a)g(statistic)f(is)h(5.)14 b(The)9 b(maximum)f(amount)f
+(that)h(may)g(be)g(placed)h(into)f(a)g(statistic)150 1744 y(is)i(25.)k(Ther)o
+(e)d(ar)o(e)f(modi\256ers)g(for)g(the)f(character)s('s)h(race)h(and)f(gender)
+g(that)f(ar)o(e)i(added)f(on)150 1794 y(later)m(.)212 1844
+y(The)k(next)f(section)f(gives)h(the)g(name)f(and)i(abbr)o(eviation)f(of)f
+(each)h(statistic)f(and)h(de-)150 1893 y(scribes)d(what)g(the)g(statistic)e
+(r)o(epr)o(esents.)860 2938 y(7)p eop
+%%Page: 8 13
+bop 450 50 a Ft(8)597 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 174 y Fv(2.1.1)50 b(Primary)14 b(Statistics)450
+246 y Fo(Physical)7 b(Str)o(ength)i(\(PST\))161 b(Physical)9
+b(Str)o(erngth)i(is)h(the)g(overall)g(power)g(of)h(body)l(.)22
+b(This)998 292 y(r)o(epr)o(esents)7 b(the)g(character)s('s)e(raw)i(muscle)e
+(power)j(and)f(is)g(not)998 338 y(tied)12 b(to)i(some)f(particular)f(set)h
+(of)h(limbs.)24 b(Actions)13 b(such)e(as)998 383 y(lifting)e(ar)o(e)g(based)f
+(on)h(PST)m(.)450 445 y(Physical)e(Endurance)g(\(PEN\))111
+b(Physical)6 b(End)o(ura)o(nce)f(is)h(th)o(e)g(physic)o(al)f(r)o(esilien)o
+(ce)h(a)o(nd)f(stamina)998 491 y(of)j(body)l(.)13 b(This)7
+b(is)g(a)g(measur)o(e)g(of)h(the)f(character)s('s)f(overall)h(en-)998
+537 y(durance)12 b(and)i(ability)f(to)i(r)o(esist)f(har)o(dship)g(as)g(well)g
+(as)g(the)998 582 y(ability)8 b(to)i(bounce)e(back)g(fr)o(om)i(har)o(dship.)
+450 645 y(Dexterity)f(\(DEX\))283 b(Dexterity)10 b(is)g(the)g(eye)g(and)g
+(hand)f(coor)o(dination)h(and)g(speed)998 690 y(of)e(hand)f(movement.)13
+b(This)7 b(is)h(speci\256cally)d(tied)j(to)g(the)f(char)o(-)998
+736 y(acter)s('s)h(manipulatory)g(limbs.)450 798 y(Physical)f(Agility)i(\(P)m
+(AG\))174 b(Physical)6 b(Agility)h(is)h(the)g(overall)g(\257exibity)f(and)g
+(r)o(esponsive-)998 844 y(ness)g(of)h(body)l(.)13 b(This)7
+b(af)o(fects)h(the)g(whole)f(body)h(actions)f(of)h(the)998
+890 y(character)m(.)450 952 y(Physical)f(A)m(war)o(eness)i(\(P)m(A)m(W\))105
+b(Physical)6 b(A)m(war)o(eness)i(is)g(how)h(sensitive)f(the)g(character)e(is)
+i(to)998 998 y(the)h(physical)f(part)h(of)h(the)g(envir)o(onment.)450
+1060 y(Mental)f(Str)o(ength)g(\(MST\))170 b(Mental)10 b(Str)o(ength)g(is)h
+(raw)g(mental)f(power)m(.)20 b(It)11 b(is)f(a)h(measur)o(e)998
+1106 y(of)17 b(the)g(characters)d(overall)j(computational)f(and)g(r)o(eason-)
+998 1151 y(ing)10 b(str)o(ength.)19 b(It)11 b(is)g(also)g(associated)f(with)h
+(the)g(character)s('s)998 1197 y(str)o(ength)d(of)i(will.)450
+1259 y(Mental)f(Endurance)e(\(MEN\))120 b(Mental)7 b(Endurance)e(is)i(r)o
+(esilience)f(and)h(stamina)f(of)j(mind.)j(It)998 1305 y(is)6
+b(a)h(measur)o(e)g(of)h(the)f(mind's)g(ability)f(to)i(r)o(ecover)f(fr)o(om)h
+(shock)998 1350 y(or)h(disorientation.)450 1413 y(Mental)g(Agility)g(\(MAG\))
+180 b(Mental)7 b(Agility)h(is)g(the)f(overall)h(\257exibility)f(and)g(r)o
+(esponsive-)998 1458 y(ness)12 b(of)j(mind.)26 b(In)13 b(another)g(day)f(and)
+h(age)g(this)g(might)g(be)998 1504 y(called)8 b(\252Cunning\272,)g
+(\252Canniness\272,)f(or)j(\252Shr)o(ewdness\272.)450 1566
+y(Psi)f(Potential)f(\(PSI\))253 b(Psi)7 b(Potential)h(is)f(a)h(measur)o(e)f
+(of)i(how)g(easily)e(a)h(character)e(can)998 1612 y(gain)h(access)g(to)j
+(their)e(\252supernatural\272)e(or)i(psychic)g(abilities.)450
+1674 y(Mental)h(A)m(war)o(eness)g(\(MA)m(W\))111 b(Mental)10
+b(A)m(war)o(eness)h(is)g(how)g(sensitive)g(the)g(character)e(is)h(to)998
+1720 y(the)f(non-physical)f(part)i(of)g(the)f(envir)o(onment.)p
+450 1817 1441 12 v 914 1891 a Ft(T)m(ABLE)17 b(2.1:)25 b(Primary)16
+b(Statis-)914 1941 y(tics)p 914 1961 503 3 v 939 2005 a Fo(Stat)80
+b(Overall)49 b(Human)1082 2051 y(Range)68 b(A)m(verage)p 914
+2079 V 939 2123 a(PST)77 b(1-30)104 b(15)939 2169 y(PEN)66
+b(1-30)104 b(15)939 2215 y(DEX)66 b(1-30)104 b(15)939 2260
+y(P)m(AG)65 b(1-30)104 b(15)939 2306 y(MST)65 b(1-30)104 b(15)939
+2352 y(MEN)54 b(1-30)104 b(15)939 2397 y(MAG)50 b(1-30)104
+b(15)939 2443 y(PSI)87 b(1-30)104 b(15)p 914 2484 V 450 2512
+1441 12 v eop
+%%Page: 9 14
+bop 150 50 a Fr(2.1.)26 b(ST)m(A)m(TISTICS)1107 b Ft(9)150
+174 y Fv(2.1.2)50 b(Calculated)12 b(Statistics)150 246 y Fo(These)e
+(statistics)g(ar)o(e)g(determined)g(fr)o(om)i(the)e(primary)g(stats.)18
+b(Like)10 b(the)h(primary)f(statistics)f(they)150 292 y(br)o(eak)f(down)i
+(evenly)f(into)g(mental)g(and)f(physical)h(categories.)150
+358 y(Physical)e(Body)i(\(PBD\))277 b(The)14 b(amount)g(of)h(physical)e
+(damage)g(a)h(character)e(can)769 404 y(absorb.)h(Derived)c(fr)o(om)h(PST)f
+(and)f(PEN.)933 479 y Fn(\()p Fm(P)d(S)r(T)14 b Fn(+)9 b Fm(P)c(E)r(N)t
+Fn(\))j Fl(\002)g Fm(RAC)s(M)t(O)q(D)150 560 y Fo(Physical)f(Fatigue)h
+(\(PFT\))248 b(The)10 b(amount)g(of)h(ener)o(gy)f(a)g(character)e(can)i
+(expend,)h(ei-)769 606 y(ther)c(in)g(damage)f(or)i(in)f(work.)13
+b(Derived)7 b(fr)o(om)h(PEN)f(and)769 652 y(P)m(AG.)1017 697
+y Fn(\()p Fo(2)h Fl(\002)g Fm(P)d(E)r(N)t Fn(\))k(+)f Fm(P)d(AG)150
+764 y Fo(Physical)i(Exhaustion)i(\(PEX\))181 b(The)11 b(amount)f(of)i(ener)o
+(gy)e(r)o(eserve)g(a)h(character)e(can)g(ex-)769 809 y(pend)k(as)e(the)i(r)o
+(esult)e(of)i(damage)e(or)i(fr)o(om)g(work.)23 b(De-)769 855
+y(rived)9 b(fr)o(om)h(PEN)f(and)g(P)m(AG.)1017 930 y Fn(\()p
+Fo(4)f Fl(\002)g Fm(P)d(E)r(N)t Fn(\))k(+)f Fm(P)d(AG)150 1012
+y Fo(Physical)i(Movement)j(\(PMV\))174 b(A)13 b(measur)o(e)e(of)i(the)f
+(character)s('s)e(movemnt.)23 b(Derived)769 1057 y(fr)o(om)11
+b(STR)d(and)h(END)g(and)g(racial)f(modi\256ers.)902 1132 y
+Fn(\(\()p Fm(P)d(S)r(T)14 b Fn(+)9 b Fm(P)c(AG)p Fn(\))p Fm(=)p
+Fo(5)p Fn(\))j Fl(\002)g Fm(RAC)s(M)t(O)q(D)150 1214 y Fo(Mental)h(Body)g
+(\(MBD\))286 b(The)9 b(amount)f(of)i(mental)e(damage)g(a)h(character)d(can)i
+(ab-)769 1260 y(sorb.)14 b(Derived)9 b(fr)o(om)h(MEN)f(and)g(MST)m(.)921
+1335 y Fn(\()p Fm(M)t(S)r(T)15 b Fn(+)9 b Fm(M)t(E)r(N)t Fn(\))f
+Fl(\002)h Fm(RAC)s(M)t(O)q(D)150 1417 y Fo(Mental)g(Fatigue)f(\(MFT\))257
+b(The)11 b(amount)g(of)i(mental)e(ener)o(gy)f(a)i(character)d(can)h(ex-)769
+1462 y(pend,)h(either)f(in)g(damage)f(or)h(in)g(work.)17 b(Derived)9
+b(fr)o(om)769 1508 y(MEN)h(and)f(MAG.)1005 1583 y Fn(\()p Fo(2)g
+Fl(\002)f Fm(M)t(E)r(N)t Fn(\))h(+)f Fm(M)t(AG)150 1665 y Fo(Mental)h
+(Exhaustion)f(\(MEX\))191 b(The)11 b(amount)g(of)h(mental)f(r)o(eserve)g
+(ener)o(gy)f(a)h(character)769 1710 y(can)e(expend,)i(either)e(in)g(combat)h
+(or)g(in)f(work.)16 b(Derived)769 1756 y(fr)o(om)11 b(MEN)e(and)g(MAG.)1005
+1831 y Fn(\()p Fo(4)g Fl(\002)f Fm(M)t(E)r(N)t Fn(\))h(+)f
+Fm(M)t(AG)150 1913 y Fo(Mental)h(Movement)h(\(MMV\))183 b(A)12
+b(measur)o(e)f(of)h(the)g(characters)d(rate)i(of)i(movement)e(in)769
+1958 y(the)c(pur)o(ely)f(mental)f(r)o(ealms)h(of)i(psionics)e(and)f(computer)
+769 2004 y(interfaces.)898 2079 y Fn(\()p Fm(M)t(S)r(T)15 b
+Fn(+)8 b Fm(M)t(AG)p Fn(\))p Fm(=)p Fo(5)p Fn(\))h Fl(\002)f
+Fm(RAC)s(M)t(O)q(D)150 2161 y Fo(Accuracy)f(\(ACC\))349 b(A)17
+b(measur)o(e)f(of)h(the)g(character)s('s)d(ef)o(fectiveness)j(with)769
+2207 y(pr)o(ojectile)12 b(or)g(missile)f(weapons.)21 b(Derived)11
+b(fr)o(om)i(STR)769 2252 y(and)c(DEX.)g(Could)h(also)f(be)g(called)f
+(Physical)f(Accuracy)l(.)1032 2327 y Fn(\()p Fm(P)e(S)r(T)15
+b Fn(+)8 b Fm(D)q(E)r(X)s Fn(\))p Fm(=)p Fo(2)150 2409 y(Physical)f(Combat)j
+(Ability)f(\(PCA\))104 b(A)7 b(measur)o(e)f(of)i(a)e(character)s('s)f
+(ability)h(to)h(in\257ict)f(damage)769 2455 y(in)i(hand-to-hand)g(and)g
+(melee)g(combat.)13 b(Derived)7 b(fr)o(om)769 2500 y(STR,)j(P)m(AG,)e(DEX.)
+964 2575 y Fn(\()p Fm(P)d(S)r(T)15 b Fn(+)8 b Fm(D)q(E)r(X)j
+Fn(+)e Fm(P)c(AG)p Fn(\))p Fm(=)p Fo(3)150 2657 y(Physical)i(Defense)i
+(\(PDF\))233 b(A)18 b(measur)o(e)f(of)h(a)g(character)s('s)d(ability)i(to)h
+(dodge)g(or)769 2703 y(evade)e(to)h(avoid)g(taking)e(damage)g(in)i
+(hand-to-hand)769 2749 y(or)10 b(melee)f(combat.)k(Derived)c(fr)o(om)h(P)m
+(AG,)e(DEX.)1029 2823 y Fn(\()p Fm(P)d(AG)j Fn(+)h Fm(D)q(E)r(X)s
+Fn(\))p Fm(=)p Fo(2)p eop
+%%Page: 10 15
+bop 450 50 a Ft(10)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 174 y Fo(Focus)c(\(FCS\))423 b(A)17 b(measur)o(e)f(of)h
+(the)g(character)s('s)d(ef)o(fectiveness)j(with)1069 220 y(focused)d(mental)f
+(actions.)27 b(Derived)13 b(fr)o(om)i(MST)f(and)1069 266 y(MAG.)c(could)f
+(also)g(be)g(called)f(Mental)h(Accuracy)l(.)1325 347 y Fn(\()p
+Fm(M)t(S)r(T)15 b Fn(+)8 b Fm(M)t(AG)p Fn(\))p Fm(=)p Fo(2)450
+436 y(Mental)h(Combat)h(Ability)e(\(MCA\))114 b(A)13 b(measur)o(e)e(of)j(a)e
+(character)s('s)e(ability)i(to)h(in\257ict)e(dam-)1069 482
+y(age)f(in)g(Mind)g(to)g(Mind)g(combat.)16 b(Derived)9 b(fr)o(om)j(MST)m(,)
+1069 527 y(MAG,)e(PSI)1264 608 y Fn(\()p Fm(M)t(S)r(T)15 b
+Fn(+)8 b Fm(P)d(S)r(I)12 b Fn(+)c Fm(M)t(AG)p Fn(\))p Fm(=)p
+Fo(3)450 697 y(Mental)h(Defense)g(\(MDF\))242 b(A)16 b(measur)o(e)e(of)j(a)e
+(character)s('s)e(ability)i(to)h(avoid)f(tak-)1069 743 y(ing)d(damage)g(in)g
+(mental)g(combat)g(or)g(highly)f(str)o(essful)1069 789 y(situations.)i
+(Derived)c(fr)o(om)h(MAG.)1335 870 y Fn(\()p Fm(M)t(AG)e Fn(+)h
+Fm(P)c(S)r(I)s Fn(\))p Fm(=)p Fo(2)450 959 y(General)j(A)m(war)o(eness)g
+(\(GA)m(W\))175 b(A)19 b(measur)o(e)f(of)i(a)e(character)s('s)f(connection)h
+(and)g(r)o(e-)1069 1005 y(sponse)8 b(to)h(his)e(Mental)g(and)g(physical)f
+(senses.)13 b(Derived)1069 1050 y(fr)o(om)e(MA)m(W)f(and)f(P)m(A)m(W)m(.)1316
+1131 y Fn(\()p Fm(M)t(AW)14 b Fn(+)9 b Fm(P)c(AW)g Fn(\))p
+Fm(=)p Fo(2)p eop
+%%Page: 11 16
+bop 150 50 a Fr(2.1.)26 b(ST)m(A)m(TISTICS)1086 b Ft(11)p 150
+145 1441 12 v 579 220 a(T)m(ABLE)12 b(2.2:)j(Secondary)c(Statistics)p
+253 251 1225 3 v 277 298 a(Stat)88 b(Formula)520 b(Overall)50
+b(Human)1113 348 y(Range)71 b(A)l(verage)p 253 377 V 277 424
+a(PBD)77 b Fk(\()p Fs(P)6 b(S)r(T)15 b Fk(+)10 b Fs(P)c(E)r(N)f
+Fk(\))k Fj(\002)g Fs(RAC)s(M)c(O)q(D)142 b Ft(02-60)89 b(30)277
+474 y(PEX)81 b Fk(\()p Ft(4)9 b Fj(\002)g Fs(P)d(E)r(N)f Fk(\))k(+)h
+Fs(P)c(AG)322 b Ft(20-150)68 b(75)277 524 y(PFT)86 b Fk(\()p
+Ft(2)9 b Fj(\002)g Fs(P)d(E)r(N)f Fk(\))k(+)h Fs(P)c(AG)322
+b Ft(09-90)89 b(45)277 574 y(PMV)65 b Fk(\(\()p Fs(P)6 b(AG)i
+Fk(+)i Fs(P)c(S)r(T)g Fk(\))p Fs(=)p Ft(5)p Fk(\))j Fj(\002)h
+Fs(RAC)s(M)5 b(O)q(D)75 b Ft(0.4-12)k(6)p 253 603 V 277 651
+a(MBD)63 b Fk(\()p Fs(M)5 b(S)r(T)16 b Fk(+)9 b Fs(M)c(E)r(N)g
+Fk(\))k Fj(\002)h Fs(RAC)s(M)5 b(O)q(D)117 b Ft(02-60)89 b(30)277
+701 y(MEX)67 b Fk(\()p Ft(4)9 b Fj(\002)g Fs(M)c(E)r(N)g Fk(\))10
+b(+)f Fs(M)c(AG)298 b Ft(20-150)68 b(75)277 750 y(MFT)k Fk(\()p
+Ft(2)9 b Fj(\002)g Fs(M)c(E)r(N)g Fk(\))10 b(+)f Fs(M)c(AG)298
+b Ft(09-90)89 b(45)277 800 y(MMV)51 b Fk(\(\()p Fs(M)5 b(AG)k
+Fk(+)g Fs(M)c(S)r(T)h Fk(\))p Fs(=)p Ft(5)p Fk(\))k Fj(\002)g
+Fs(RAC)s(M)5 b(O)q(D)50 b Ft(0.4-12)79 b(6)p 253 830 V 277
+877 a(ACC)69 b Fk(\()p Fs(P)6 b(S)r(T)15 b Fk(+)10 b Fs(D)q(E)r(X)s
+Fk(\))p Fs(=)p Ft(2)357 b(3-30)110 b(15)277 927 y(PCA)73 b
+Fk(\()p Fs(P)6 b(S)r(T)15 b Fk(+)10 b Fs(D)q(E)r(X)j Fk(+)d
+Fs(P)c(AG)p Fk(\))p Fs(=)p Ft(3)208 b(3-30)110 b(15)277 977
+y(PDF)79 b Fk(\()p Fs(P)6 b(AG)i Fk(+)i Fs(D)q(E)r(X)s Fk(\))p
+Fs(=)p Ft(2)351 b(3-30)110 b(15)p 253 1043 V 277 1078 a(FCS)85
+b Fk(\()p Fs(M)5 b(S)r(T)16 b Fk(+)9 b Fs(M)c(AG)p Fk(\))p
+Fs(=)p Ft(2)341 b(3-30)110 b(15)277 1128 y(MCA)59 b Fk(\()p
+Fs(M)5 b(S)r(T)16 b Fk(+)9 b Fs(P)d(S)r(I)13 b Fk(+)d Fs(M)5
+b(AG)p Fk(\))p Fs(=)p Ft(3)208 b(3-30)110 b(15)277 1178 y(MDF)65
+b Fk(\()p Fs(M)5 b(AG)k Fk(+)g Fs(P)d(S)r(I)s Fk(\))p Fs(=)p
+Ft(2)363 b(3-30)110 b(15)p 253 1245 V 277 1280 a(GA)m(W)56
+b Fk(\()p Fs(M)5 b(AW)15 b Fk(+)10 b Fs(P)c(AW)g Fk(\))p Fs(=)p
+Ft(2)322 b(3-30)110 b(15)p 253 1322 V 150 1358 1441 12 v eop
+%%Page: 12 17
+bop 450 50 a Ft(12)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 175 y Fp(2.2)58 b(Other)14 b(Statistics)450
+270 y Ft(Race)358 b(Race)18 b(describes)f(the)h(actual)f(genetic)g(backgr)o
+(ound)i(of)e(the)895 320 y(character)m(.)450 403 y(Gender)308
+b(If)10 b(Applicable.)450 486 y(Height)g(\(HT\))219 b(Expr)o(essed)18
+b(in)g(Centimeters.)36 b(If)18 b(the)f(cr)o(eatur)o(e)h(being)g(de-)895
+535 y(scribed)c(is)f(quadrapedal,)i(the)e(height)g(given)g(is)g(the)g(height)
+895 585 y(to)d(the)g(shoulder)m(.)450 668 y(W)l(eight)g(\(WT\))209
+b(Expr)o(essed)11 b(in)g(Kilograms.)450 751 y(Appear)o(ence)g(\(APP\))104
+b(A)14 b(measur)o(e)f(of)g(how)g(physically)h(attractive)f(a)h(character)g
+(is)895 801 y(to)c(others)f(of)h(their)h(race.)450 922 y Fv(2.2.1)50
+b(Character)13 b(Speeds)450 1001 y Ft(For)f(each)f(of)g(the)g(awar)o(eness)g
+(stats)e(ther)o(e)j(ar)o(e)g(two)e(speed)h(statistics.)16 b(Ther)o(e)d(ar)o
+(e)f(Unen-)450 1051 y(gaged)h(Speed)f(and)h(Engaged)h(Speed)e(stats)f(next)h
+(to)g(each)h(awar)o(eness)f(stat.)20 b(These)13 b(ar)o(e)450
+1101 y(derived)f(fr)o(om)e(the)g(following)g(table:)p 450 1174
+1441 12 v 856 1250 a(T)m(ABLE)i(2.3:)j(Character)c(Speed)g(T)l(able)p
+729 1280 873 3 v 754 1328 a(SB)106 b(Engaged)11 b(Speed)50
+b(Unengaged)11 b(Speed)p 729 1357 V 754 1404 a(1\2612)90 b(0)313
+b(0)754 1454 y(3\2613)90 b(1)313 b(0)754 1504 y(4\2615)90 b(1)313
+b(1)754 1554 y(6\2618)90 b(2)313 b(1)754 1604 y(9\26111)69
+b(3)313 b(2)754 1653 y(12\26115)48 b(4)313 b(2)754 1703 y(16\26119)48
+b(5)313 b(3)754 1753 y(20\26124)48 b(6)313 b(3)754 1803 y(25\26129)48
+b(7)313 b(4)754 1853 y(30\26134)48 b(8)313 b(4)754 1903 y(35\26135)48
+b(9)313 b(4)754 1952 y(36\26139)48 b(9)313 b(5)754 2002 y(40\26145)48
+b(10)292 b(5)p 729 2044 V 450 2081 1441 12 v 450 2240 a Fv(2.2.2)50
+b(Racial)12 b(Modi\256ers)450 2319 y Ft(The)d(player)f(must)e(decide,)k(with)
+e(the)f(GM's)g(agr)o(eement,)i(on)f(the)f(race)i(that)e(the)g(character)450
+2369 y(will)j(be.)16 b(Once)10 b(that)g(decision)g(is)g(made)g(any)h(racial)g
+(modi\256ers)f(must)f(be)h(applied)h(to)e(the)450 2419 y(statistics.)20
+b(Fr)o(om)12 b(that)g(point)g(on,)h(no)f(statistic)f(may)h(be)g(allowed)g(to)
+g(exceed)h(the)g(racial)450 2469 y(maxima.)450 2590 y Fv(2.2.3)50
+b(Gender)14 b(Modi\256ers)450 2669 y Ft(Some)d(races)g(may)g(have)h
+(modi\256ers)g(to)e(the)i(statistics)d(of)i(the)g(PC)h(based)g(on)f(the)g
+(gender)450 2719 y(of)f(the)g(character)m(.)p eop
+%%Page: 13 18
+bop 150 50 a Fr(2.2.)26 b(OTHER)10 b(ST)m(A)m(TISTICS)930 b
+Ft(13)150 174 y Fv(2.2.4)50 b(Cultural)13 b(Modi\256ers)150
+253 y Ft(Members)6 b(of)g(a)g(speci\256c)g(cultur)o(es)g(should)g(only)g
+(rarely)g(hav)q(e)g(modifers)g(to)g(their)g(statistics)150
+303 y(as)11 b(a)g(r)o(esult)g(of)g(being)g(a)g(member)g(of)g(that)f(cultur)o
+(e.)19 b(Such)12 b(modi\256ers)f(would)g(indicate)g(a)150 353
+y(cultur)o(e)g(wide)f(obsession)f(with)h(a)g(given)h(physical)f(or)h(mental)e
+(type.)212 403 y(A)i(GM)f(may)g(have)h(speci\256c)g(skills)f(or)g(skill)g
+(packages)g(speci\256c)h(to)f(a)g(cultur)o(e.)150 524 y Fv(2.2.5)50
+b(Determination)13 b(of)f(Height)g(and)i(W)l(eight)150 603
+y Ft(If)e(the)g(character)h(has)e(no)h(pr)o(efer)o(ence)i(for)e(the)f(height)
+h(of)g(the)g(characterit)g(may)g(be)g(ran-)150 653 y(domly)e(generated)h
+(using)f(the)g(following)f(formula:)315 805 y Fs(H)s(eig)q(ht)j
+Fk(=)g Fs(Av)q(er)q(ag)q(eH)s(eig)q(ht)f Fk(+)f(\()860 777
+y Ft(2)p Fs(d)p Ft(10)e Fj(\000)h Ft(11)p 860 796 177 2 v 927
+834 a(10)1050 805 y Fj(\002)h Fs(H)s(eig)q(htV)g(ar)q(iation)p
+Fk(\))304 979 y Fs(W)c(eig)q(ht)12 b Fk(=)g Fs(Av)q(er)q(ag)q(eW)6
+b(eig)q(ht)12 b Fk(+)d(\()863 951 y Ft(2)p Fs(d)p Ft(10)f Fj(\000)i
+Ft(11)p 863 969 V 931 1007 a(10)1054 979 y Fj(\002)f Fs(W)d(eig)q(htV)k(ar)q
+(iation)q Fk(\))212 1083 y Ft(These)f(\256gur)o(es)f(ar)o(e)h(based)f(on)g
+(an)h(adult)f(of)g(the)g(given)h(race)g(and)f(the)g(values)h(for)f(these)150
+1133 y(variables)i(can)h(be)f(found)h(in)f(the)g(description)h(of)f(the)g
+(race.)p eop
+%%Page: 14 19
+bop 450 50 a Ft(14)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 175 y Fp(2.3)58 b(Background)12 b(and)i(Careers)450
+270 y Ft(The)h(next)g(step)f(is)h(determining)g(the)f(backgr)o(ound)i(of)e
+(the)h(character)g(and)h(the)e(car)o(eer)450 320 y(path)c(they)g(took)f(up)h
+(until)h(this)e(time.)450 441 y Fv(2.3.1)50 b(Background)450
+520 y Ft(The)16 b(begining)g(character)h(starts)d(out)h(with)g(a)g(set)g(of)g
+(skills)g(fr)o(om)h(either)f(general)h(life)450 570 y(experience)h(or)f
+(formal)g(educational)f(training.)33 b(As)16 b(a)g(r)o(esult)g(of)f(this)g
+(education)h(the)450 619 y(character)d(gains)f(20)f(skill)i(points.)19
+b(These)13 b(skill)f(points)f(may)g(be)i(used)f(to)f(buy)h(skills)g(or)450
+669 y(skill)g(packages.)19 b(The)12 b(types)f(of)g(skills)g(that)g(may)g(be)h
+(gained)g(must)f(be)g(consistent)g(with)450 719 y(the)f(type)g(of)g
+(education)g(the)g(character)h(r)o(ecieved.)512 769 y(The)g(skills)f(gained)h
+(should)f(be)g(simple)g(skills.)15 b(!!!!)e(Expand)512 819
+y(As)g(a)f(r)o(esult)h(of)f(just)f(living)j(in)f(the)f(envir)o(onment)h(they)
+g(gr)o(ew)f(up)h(in)g(the)f(character)450 869 y(automatically)e(gets)g
+(skills)g(in)i(the)e(lor)o(e)i(of)e(their)h(own)g(cultur)o(e,)h(skills)f(in)g
+(the)g(language,)450 918 y(and)g(simple)e(skills)h(covering)i(movement)d(in)i
+(the)f(home)f(envir)o(onment.)512 968 y(These)i(skills)f(ar)o(e)g(listed)g
+(in)h(the)f(table)f(below)l(.)450 1081 y Fu(Initial)h(Skill)h(Points)502
+1160 y Ft(1.)21 b(20)10 b(points)f(of)h(education)g(skills.)502
+1243 y(2.)21 b(20)10 b(points)f(of)h(skills)g(in)g(written)g(and)h(spoken)e
+(language.)502 1326 y(3.)21 b(20)10 b(points)f(of)h(skill)g(in)h(Cultural)g
+(Lor)o(e.)k(Both)c(local)f(and)h(lar)o(ger)g(scale.)502 1409
+y(4.)21 b(20)10 b(points)f(of)h(skill)g(in)h(Lor)o(e:[T)l(ech)h(Index])f(of)f
+(Cultur)o(e.)502 1492 y(5.)21 b(15)10 b(points)f(of)h(manuevering)h(skills)f
+(for)g(the)g(native)g(envir)o(onment)450 1605 y Fu(Upper)h(Limit)f(to)h
+(Skill)f(Rank)450 1684 y Ft(Ther)o(e)17 b(is)e(a)g(limit)g(to)g(the)g
+(highest)g(rank)h(in)g(a)g(skill)f(a)g(character)i(can)f(achieve)g(during)450
+1734 y(character)10 b(generation.)15 b(This)10 b(limitation)e(is)h(based)g
+(on)g(the)g(stat)f(basis)g(of)h(the)g(skill)h(and)f(is)450
+1784 y(only)h(applicable)h(to)e(to)h(the)g(basic)g(education)g(skills.)512
+1833 y(A)h(summary)e(of)h(that)g(limitation)f(is)h(pr)o(esented)g(in)h(table)
+e(.)e(.)g(.)h(.)p 450 1907 1441 12 v 847 1982 a(T)m(ABLE)23
+b(2.4:)37 b(Limit)21 b(in)h(Skill)g(Ranks)847 2032 y(fr)o(om)10
+b(Base)g(Education)p 847 2052 636 3 v 872 2099 a(Stat)f(Basis)49
+b(Rank)10 b(\(Upper)h(Limit\))p 847 2129 V 910 2176 a(03-05)87
+b(0)938 2226 y(06)115 b(2)938 2275 y(07)g(3)938 2325 y(08)g(4)910
+2375 y(09-10)87 b(5)910 2425 y(11-12)g(6)910 2475 y(13-19)g(7)910
+2525 y(20-34)g(8)925 2574 y(35+)103 b(9)p 847 2616 V 450 2653
+1441 12 v 512 2741 a(Don't)9 b(worry)h(if)f(many)h(of)f(the)g(skill)h(names)e
+(and)i(costs)f(don't)g(make)g(sense)g(yet,)g(they)450 2791
+y(will)h(be)g(explained.)p eop
+%%Page: 15 20
+bop 150 50 a Fr(2.3.)26 b(BACKGROUND)11 b(AND)g(CAREERS)694
+b Ft(15)150 174 y Fv(2.3.2)50 b(Careers)150 253 y Ft(This)9
+b(phase)e(of)h(character)h(generation)f(is)g(wher)o(e)h(a)f(majority)f(of)h
+(a)g(character)s('s)h(skills)f(and)150 303 y(history)i(will)g(be)g
+(developed.)212 353 y(In)e(delineating)g(a)f(character)s('s)h(history)f(it)g
+(is)g(assumed)g(that)f(he)i(or)g(she)f(has)g(embarked)150 403
+y(on)j(a)g(course)g(of)f(car)o(eer)i(or)g(non-car)o(eer)f(that)f(brings)i
+(him)f(into)f(contact)h(with)f(chances)i(to)150 453 y(raise)f(his)g(skills,)h
+(his)f(status,)f(and)h(his)g(material)g(wealth.)212 502 y(During)j(the)f(r)o
+(olling)h(of)f(a)g(characters)h(car)o(eer)g(points)f(gained)g(ar)o(e)h(added)
+g(and)g(sub-)150 552 y(tracted)h(to)f(or)i(fr)o(om)f(four)g(\252pools\272.)25
+b(These)14 b(four)g(pools)f(:)23 b(Stats,)14 b(Skills,)h(W)l(ealth,)g(and)150
+602 y(Status)10 b(ar)o(e)i(the)g(basis)f(of)g(the)h(\256nal)g(r)o(esolution)f
+(of)h(the)f(character)s('s)h(skills,)g(history)-5 b(,)13 b(and)150
+652 y(station.)212 702 y(Each)f(of)e(the)g(available)h(paths)e(has)i(its)f
+(own)g(advantages)g(and)h(disadvantages.)k(Ed-)150 751 y(ucational)j(car)o
+(eers)g(give)h(one)f(little)f(chance)i(to)e(injur)o(e)i(one's)d(self)i(but)g
+(the)f(possible)150 801 y(monetary)e(gains)h(ar)o(e)h(low)l(.)33
+b(Military)17 b(car)o(eers)g(ar)o(e)f(danger)o(ous,)j(but)c(possibly)h
+(fairly)150 851 y(r)o(ewar)o(ding.)212 901 y(The)11 b(four)f(pools)g(each)g
+(have)h(a)f(dif)o(fer)o(ent)h(basic)f(function.)212 951 y(The)k(Statistics)d
+(pool)h(or)h(\252Stat\272)e(pool,)j(serves)f(as)f(the)h(point)f(pool)g(for)h
+(incr)o(easing)h(a)150 1000 y(PC)d(statistics)d(or)i(cr)o(eating)h(special)g
+(abilities.)212 1050 y(The)k(Skill)f(pool)g(is)f(the)h(r)o(epository)g(of)f
+(points)h(to)f(be)h(spent)f(in)i(gaining)f(skills)g(and)150
+1100 y(skill)c(packages.)212 1150 y(The)j(W)l(ealth)e(pool)h(contains)g
+(points)f(to)h(be)g(spent)f(in)i(establishing)e(the)h(character)s('s)150
+1200 y(basic)e(\256nancial)h(state.)212 1250 y(The)h(Status)e(pool)h
+(contains)g(points)f(to)h(be)g(spent)f(in)i(gaining)g(all)f(the)g(possible)g
+(trap-)150 1299 y(pings)f(of)g(status:)k(r)o(eputation,)c(syncophants,)f(or)i
+(r)o(ecognition.)212 1349 y(Players)g(do)f(have)h(a)f(limited)g(amount)f(of)h
+(lateral)g(movement)f(for)h(these)g(points.)212 1399 y(In)g(addition)g(a)g
+(player)g(can)g(add)g(and)h(subtract)e(to/fr)o(om)g(the)g(pools)g(by)h(the)f
+(usage)h(of)150 1449 y(Advantages)g(and)h(Disadvantages.)212
+1499 y(Each)e(car)o(eer)g(is)f(delineated)g(by)g(a)g(simple)f(set)g(of)h
+(numbers)f(combined)i(with)e(a)h(simple)150 1548 y(description.)16
+b(It)9 b(has)h(the)g(following)g(format:)150 1640 y Fu(Name)20
+b Ft(Self)10 b(explanatory)150 1723 y Fu(Base)g(Skill)h(Points)21
+b Ft(The)13 b(base)f(skill)g(points)g(is)g(how)g(many)g(skill)g(points)f(ar)o
+(e)i(normally)254 1773 y(r)o(ecieved)f(during)f(a)f(one)g(year)h(period)g(of)
+f(endeavor)m(.)150 1856 y Fu(Base)g(Financial)h(Gain)20 b Ft(The)9
+b(base)f(amount)g(of)g(stads\(standar)o(ds\))f(gained)i(in)g(a)f(one)h(year)
+254 1905 y(period)h(of)g(a)g(car)o(eer)m(.)150 1988 y Fu(DF)g(\(Stat|Skill|W)
+m(ealth|Status\))150 2071 y(Stat)21 b Ft(The)8 b(DF)g(for)g(a)f(GA)m(W)g(r)o
+(oll)i(to)e(determine)g(the)h(overall)g(ef)o(fect)g(the)f(car)o(eer)i(had)f
+(during)254 2121 y(a)j(given)i(time)e(period)h(on)g(an)g(entities)e(health.)
+20 b(Success)12 b(puts)f(points)f(into)i(a)f(Stat)254 2171
+y(Pool)f(that)f(can)i(be)g(used)f(for)g(raising)h(primary)g(statistics.)j
+(Critical)d(failur)o(e)g(ef)o(fects)254 2221 y(usually)f(involves)h(the)f
+(loss)f(of)h(points)f(fr)o(om)h(the)g(Stat)f(Pool.)150 2304
+y Fu(Skill)21 b Ft(The)11 b(DF)g(for)f(a)g(GA)m(W)g(r)o(oll)h(to)f(determine)
+g(whether)g(or)h(not)e(the)h(character)i(gained)254 2354 y(any)f(skills)f
+(during)i(this)f(time)f(period.)17 b(The)11 b(GN)h(=)f(Base)f(Skill)h(Points)
+f(associated)254 2404 y(with)h(the)g(car)o(eer)h(and)g(is)f(applied)h(to)f
+(the)g(Skill)h(Pool.)18 b(Critical)12 b(failur)o(e)g(ef)o(fects)f(do)254
+2453 y(not)f(apply)g(to)f(this)h(r)o(oll.)150 2536 y Fu(W)m(ealth)20
+b Ft(The)8 b(EF)g(for)g(a)g(GA)m(W)f(r)o(oll)h(to)f(determine)h(whether)g(or)
+f(not)h(the)f(character)i(gained)254 2586 y(in)h(the)g(material)g(or)g
+(\256nancial)h(ar)o(ea.)16 b(GN)10 b(=)h(Base)f(Financial)h(Gain)f(of)g(the)g
+(car)o(eer)m(.)150 2669 y Fu(Status)21 b Ft(The)9 b(DF)g(for)f(a)h(GA)m(W)f
+(r)o(oll)h(to)e(determine)i(whether)f(or)g(not)g(the)g(character)i(gained)254
+2719 y(in)15 b(the)f(ar)o(ea)h(of)f(Status.)26 b(Status)13
+b(is)h(a)h(rather)g(subjective)f(thing)h(but)f(typically)-5
+b(,)16 b(a)254 2769 y(military)g(car)o(eer)h(leads)f(to)f(incr)o(eases)h(in)h
+(rank)f(and)h(possible)e(minor)h(fame.)32 b(A)254 2819 y(incr)o(ease)9
+b(in)g(status)e(in)i(a)g(shadowy)f(car)o(eer)i(would)f(lead)g(to)f(the)g
+(development)h(of)f(a)p eop
+%%Page: 16 21
+bop 450 50 a Ft(16)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)554 174 y Ft("Rep".)j(Obviously)-5 b(,)11 b(the)e(types)g(of)
+h(gain)g(would)f(need)h(to)f(be)h(negotiated)f(between)554
+224 y(the)h(player)g(and)h(the)f(GM.)h(The)f(GN)h(is)f(1.)1232
+209 y Fi(1)512 304 y Fu(T)l(ypical)h(Careers)450 377 y Ft(Pick)g(Pocket)279
+b(4rnks:4,000stads:\(5-6-4-6\))450 455 y(Smuggler)313 b
+(5rnks:10,000stads:\(4-7-5-3\))450 534 y(T)l(erran)12 b(Space)e(Navy)144
+b(6rnks:14,000stads:\(4-7-3-3\))450 612 y(Grunt)10 b(Mer)o(cenary)174
+b(5rnks:7,000stads:\(4-7-3-5\))450 690 y(Scouts)371 b
+(6rnks:4,000stads:\(4-8-4-5\))450 769 y(Nurse)378 b
+(8rnks:12,000stads:\(6-7-5-3\))450 847 y(T)l(raf)o(\256c)12
+b(Contr)o(oller)177 b(6rnks:25,000stads:\(5-6-3-2\))450 925
+y(Advanced)12 b(Education)104 b(8rnks:2000stads:\(6-7-3-3\))512
+999 y(The)14 b(example)e(car)o(eers)h(listed)g(above)f(would)h(usually)f(be)h
+(\257eshed)f(out)g(with)h(addi-)450 1048 y(tional)d(detail)g(such)g(as)g(a)g
+(description)h(of)f(rank)g(and)h(status,)e(etc.)e(.)g(.)1528
+1033 y Fi(2)450 1189 y Fp(2.4)58 b(Designers)14 b(Notes)450
+1283 y Ft(The)f(nominal)g(maximum)f(number)h(of)g(points)f(that)g(may)g(be)h
+(gained)g(each)h(r)o(esolution)450 1333 y(period)d(is)f(as)h(below)l(.)k
+(This)c(is)g(not)f(the)g(maximum)g(that)g(the)g(character)i(may)e(r)o(oll)h
+(,)g(but)f(it)450 1383 y(is)g(the)g(maximum)g(that)f(may)h(be)g(a)g(part)g
+(of)g(the)g(design)h(of)e(a)i(car)o(eer)m(.)405 1462 y(W)l(ealth)20
+b(10)10 b(points)f(W)l(ealth)h(values)g(ar)o(e)g(table)g(based)g(as)g(per)g
+(car)o(eer)i(?)j(Should)10 b(this)g(be)g(?)421 1541 y(Status)19
+b(2)10 b(points)434 1619 y(Skills)21 b(10)10 b(points)408 1697
+y(Health)20 b(2)10 b(points)450 1838 y Fp(2.5)58 b(Buying)14
+b(Skills)g(and)g(Advantages)450 1932 y Ft(In)d(the)f(pr)o(evious)h(portion)g
+(of)f(the)g(character)i(generation)e(pr)o(ocess)h(we)f(added)i(and)f(sub-)450
+1982 y(tracted)16 b(points)f(to)g(four)h(\252pools\272.)30
+b(These)16 b(four)g(pools)e(:)27 b(Stats,)16 b(Skills,)h(W)l(ealth,)g(and)450
+2032 y(Status)7 b(ar)o(e)i(the)f(basis)g(of)g(the)g(\256nal)h(r)o(esolution)f
+(of)g(the)h(character)s('s)f(skills,)h(history)-5 b(,)10 b(etc)e(.)f(.)g(.)
+512 2082 y(The)k(four)f(pools)g(each)g(have)h(a)f(dif)o(fer)o(ent)h(basic)f
+(function.)512 2132 y(The)k(Statistics)d(pool)h(or)h(\252Stat\272)e(pool,)j
+(serves)f(as)f(the)h(point)f(pool)g(for)h(incr)o(easing)h(a)450
+2181 y(PC)d(statistics)d(or)i(cr)o(eating)h(special)g(abilities.)512
+2231 y(The)g(Skill)g(pool)e(is)h(the)g(r)o(epository)g(of)g(points)f(to)h(be)
+g(spent)g(in)g(gaining)h(skills.)512 2281 y(The)18 b(W)l(ealth)e(pool)h
+(contains)f(points)g(to)h(be)g(spent)f(in)i(gaining)f(an)g(idea)h(of)e(basic)
+450 2331 y(\256nancial)11 b(state.)512 2381 y(The)h(Status)e(pool)h(contains)
+g(points)f(to)h(be)g(spent)f(in)i(gaining)g(all)f(the)g(possible)g(trap-)450
+2430 y(pings)f(of)g(status.)k(Reputation,)9 b(syncophants.)512
+2480 y(Players)h(do)f(have)h(a)f(limited)h(amount)e(of)h(lateral)g(movement)f
+(for)i(these)e(points.)15 b(The)450 2530 y(W)l(ealth)d(and)h(Status)d(pool)i
+(can)h(exchange)h(to)e(a)g(maximum)g(of)g(???)23 b(The)13 b(Statistics)e(and)
+450 2580 y(Skill)f(pools)g(can)h(exchange)g(a)f(maximum)f(of)h(???)17
+b(points.)512 2630 y(In)10 b(addition)g(a)g(player)g(can)g(add)g(and)h
+(subtract)e(to/fr)o(om)g(the)g(pools)g(by)h(the)f(usage)h(of)450
+2679 y(Advantages)g(and)h(Disadvantages.)p 450 2713 576 2 v
+495 2741 a Fh(1)510 2753 y Fg(All)c(car)o(eers)h(should)h(have)f(a)g(rank)h
+(gain)f(cost)g(in)h(status)e(points)495 2782 y Fh(2)510 2793
+y Fg(An)h(important)h(question)f(is)g(that)g(of)h(when)g(a)f(character)f(is)i
+(allowed)e(to)i(dr)o(op)g(out)g(of)f(military)g(and)h(so)g(on)450
+2833 y(car)o(eers.)p eop
+%%Page: 17 22
+bop 150 50 a Fr(2.6.)26 b(SKILL)11 b(COSTS)1052 b Ft(17)150
+175 y Fp(2.6)58 b(Skill)14 b(Costs)150 270 y Ft(When)9 b(characters)g(ar)o(e)
+g(\256rst)g(generated)f(their)h(skills)g(ar)o(e)g(pur)o(chased)h(using)e
+(points)g(fr)o(om)150 320 y(the)i(skill)h(pool.)16 b(T)l(ypically)c(all)f
+(skills)g(cost)f(1)g(skill)h(point)f(to)g(pur)o(chase)i(at)e(the)g(beginning)
+150 369 y(and)h(all)f(skill)g(packages)g(cost)g(mor)o(e)g(than)g(one)g
+(point.)212 419 y(Once)e(characters)f(have)h(been)f(generated)g(all)h
+(advancement)f(and)h(gain)f(in)h(skill)f(ranks)150 469 y(is)j(pur)o(chased)h
+(with)f(experience)h(points.)150 612 y Fp(2.7)58 b(Skill)14
+b(Packages)150 706 y Ft(What)h(we)g(have)h(discussed)f(up)h(till)g(now)f(has)
+g(been)g(single)h(skills.)31 b(Quite)15 b(often)f(the)150 756
+y(character)d(will)f(be)g(using)g(a)g(skill)g(package.)15 b(A)10
+b(skill)g(package)g(is)g(a)g(collection)g(of)g(r)o(elated)150
+806 y(skills)k(that)f(have)h(a)g(bundled)h(experience)h(point)d(cost.)26
+b(All)15 b(skills)f(in)g(a)g(skill)g(package)150 856 y(may)8
+b(be)h(used)g(normally)f(with)g(the)h(exception)g(that)e(package)i(skills)f
+(have)h(a)g(lower)f(Rank)150 906 y(Bonus)i(and)h(DF)l(.)212
+955 y(A)g(typical)f(skill)h(package)f(would)g(be)g(:)150 1047
+y Ff(Aikido)24 b(\(3/4)h(package\))150 1146 y(Dodging)f(In)75
+b(\(SB=PAG\))150 1196 y(Dodging)24 b(Away)75 b(\(SB=PAG\))150
+1246 y(Grapple)49 b(\(SB=PCA\))150 1296 y(Balance)24 b(Throw)50
+b(\(SB=PCA\))150 1346 y(Joint)24 b(Throw)50 b(\(SB=PCA\))150
+1445 y(Cost)25 b(\()f(50)h(+)g(3/4\(50+50+50+50\))e(\))i(=)g(200)150
+1495 y(Generation)f(Cost)h(=)f(1+3/4\(1+1+1+1\))g(=)h(4)150
+1595 y(Skill)f(PAckage)h(SB:)f(PAG|PCA)150 1787 y Fp(2.8)58
+b(Enhancements)12 b(and)h(Limitations)150 1882 y Ft(After)k(a)f(character)i
+(has)f(some)e(points)h(in)h(the)g(four)g(pools)e(associated)h(with)g(charac-)
+150 1931 y(ter)f(cr)o(eation)f(\()h(health,)h(wealth,)f(status,)f(skill\))h
+(he)f(may)h(choose)f(to)g(use)g(them)g(to)g(buy)150 1981 y(Enhancements)c
+(that)f(will)i(add)g(\257avour)f(to)g(the)g(character)m(.)212
+2031 y(Ther)o(e)e(ar)o(e)g(always)d(the)i(base)f(enhancements)g(allowed)h(to)
+f(the)h(character)m(.)15 b(The)7 b(points)150 2081 y(in)12
+b(the)f(Skill)h(pool)f(can)h(be)g(used)f(to)g(buy)h(skills)f(at)h(the)f
+(generation)g(cost.)19 b(The)12 b(points)f(in)150 2131 y(the)f(Stat)f(pool)h
+(can)g(be)h(used)f(to)f(buy)i(stats)d(at)i(the)g(costs)f(listed)h(in)h(the)f
+(stat)e(cost)i(tables.)212 2181 y(Enhancements)g(ar)o(e)g(gains)f(in)h
+(either)f(backgr)o(ound)i(or)f(special)f(abilities)g(that)f(can)i(be)150
+2230 y(paid)f(for)g(with)g(points)f(fr)o(om)h(one)g(of)f(the)h(pools.)14
+b(Ther)o(e)c(ar)o(e)g(two)e(main)h(types.)14 b(Ther)o(e)c(ar)o(e)150
+2280 y(special)g(abilities)g(or)g(SP)l(ABS)h(and)g(ther)o(e)f(ar)o(e)h(Envir)
+o(onmental)g(Enhancements.)212 2330 y(SP)l(ABS)k(ar)o(e)g(natural)f
+(aptitudes)f(that)h(ar)o(e)h(typically)f(permanent)g(and)h(inher)o(ent)g(to)
+150 2380 y(the)10 b(character)s('s)g(makeup.)212 2430 y(Envir)o(onmental)i
+(Enhancements)g(ar)o(e)g(typically)f(advantages)g(that)g(depend)h(on)f(the)
+150 2479 y(character)g(to)f(maintain)f(them.)15 b(Such)c(as)e(wealth)h(and)g
+(various)h(components)e(of)h(status.)p eop
+%%Page: 18 23
+bop 450 50 a Ft(18)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 174 y Fp(2.9)58 b(Statistics)15 b(Costs)p
+450 282 1441 12 v 910 357 a Ft(T)m(ABLE)d(2.5:)j(Cost)10 b(of)g(Statistics)p
+733 377 865 3 v 758 424 a(Stat)82 b(Cost)49 b(Stat)89 b(Cost)49
+b(Stat)81 b(Cost)p 733 454 V 758 501 a(PST)g(5)112 b(PBD)78
+b(2)112 b(ACC)62 b(2)758 551 y(PEN)69 b(2)112 b(PSE)88 b(5)112
+b(PCA)66 b(3)758 601 y(DEX)i(3)112 b(PFT)87 b(1)112 b(PDF)72
+b(2)758 650 y(P)l(AG)c(5)112 b(P)l(A)m(W)68 b(2)1044 700 y(PMV)e(4)758
+750 y(MST)h(5)112 b(MBD)64 b(2)112 b(FCS)78 b(2)758 800 y(MEN)55
+b(2)112 b(MSE)74 b(5)112 b(MCA)52 b(3)758 850 y(MAG)e(5)112
+b(MA)m(W)50 b(2)112 b(MDF)58 b(2)758 899 y(PSI)92 b(4)112 b(MMV)52
+b(4)1337 949 y(GA)m(W)d(4)p 733 991 V 450 1028 1441 12 v eop
+%%Page: 19 24
+bop 150 50 a Fr(2.10.)25 b(SPECIAL)12 b(ABILITIES)910 b Ft(19)150
+175 y Fp(2.10)58 b(Special)14 b(Abilities)150 270 y Ft(SP)l(ABS)d(have)g
+(both)e(Depth)h(and)h(Scope)f(to)g(help)g(govern)h(their)f(cost.)212
+320 y(Depth)j(r)o(efers)g(to)f(the)h(numeric)g(advantage)g(given)g(by)g(the)g
+(SP)l(AB)g(in)g(a)g(given)h(ar)o(ea.)150 369 y(The)9 b(scope)e(denotes)g(the)
+h(number)g(of)g(dif)o(fer)o(ent)g(ar)o(eas)g(that)f(the)g(spab)h(may)f(be)h
+(applicable)150 419 y(to.)212 469 y(In)13 b(the)f(case)g(of)g(raising)h(a)f
+(character)h(statistic)e(the)h(scope)g(r)o(efers)g(to)g(the)g(number)h(of)150
+519 y(other)d(stats)e(af)o(fected.)212 569 y(A)h(SP)l(AB)g(that)e(involves)h
+(enhancing)h(a)f(statistic)f(is)g(dif)o(fer)o(ent)i(fr)o(om)f(raising)g(the)g
+(statis-)150 619 y(tic.)15 b(A)10 b(raised)g(statistic)e(ends)i(up)f(incr)o
+(easing)i(the)e(SB)h(of)f(the)h(character)g(in)g(that)f(stat.)14
+b(The)150 668 y(enhanced)k(stat)e(SP)l(AB)i(incr)o(eases)g(the)f(Rank)g(of)g
+(the)g(character)h(for)f(any)h(dir)o(ect)g(r)o(olls)150 718
+y(against)f(that)g(stat.)37 b(Thus)18 b(an)g(Enhanced)h(Stat)e(SP)l(AB)h(af)o
+(fects)f(Saving)i(Thr)o(ows)f(and)150 768 y(Concentration)10
+b(Checks.)150 889 y Fv(2.10.1)50 b(Enhanced)15 b(Stats)150
+968 y Ft(SP)l(ABs)c(that)e(involve)i(stats)d(have)i(a)g(cost)g(identical)g
+(to)g(the)g(cost)f(of)h(raising)g(the)g(stat)f(with)150 1018
+y(the)h(following)g(exceptions.)212 1068 y(Physical)i(A)m(war)o(eness)f(\(P)l
+(A)m(W\))g(has)g(a)g(scope)g(of)g(5,)h(Hearing,)f(Feeling,)i(T)l(asting,)f
+(See-)150 1118 y(ing,)k(Smelling.)26 b(This)15 b(means)e(that)g(to)g(get)h(a)
+g(SP)l(AB:)h(Enhanced)g(Physical)g(A)m(war)o(eness)150 1167
+y(costs)9 b(5)g Fj(\002)h Ft(2)g(or)g(10)g(points.)212 1217
+y(MA)m(W)h(has)f(a)g(scope)g(of)f(one.)212 1267 y(GA)m(W)h(has)g(a)g(scope)g
+(of)g(6.)15 b(5)10 b(P)l(A)m(W)g(and)h(1)f(MA)m(W)l(.)150 1388
+y Fv(2.10.2)50 b(Ambidexterity)150 1476 y(2.10.3)g(Eidectic)13
+b(Memory)150 1563 y(2.10.4)50 b(Presence)150 1650 y(2.10.5)g(Lightning)13
+b(Calculator)150 1737 y(2.10.6)50 b(Mage)12 b(Ability)f(?)150
+1825 y(2.10.7)50 b(Other)14 b(SP)l(AB)f(Costs)150 1904 y Ft(Most)c(other)h
+(SP)l(ABs)h(have)g(ef)o(fects)e(that)h(can)g(be)h(linked)g(to)e(one)h(of)g
+(the)g(statistics.)150 2046 y Fp(2.11)58 b(Environmental)13
+b(Enhancements)150 2141 y Ft(Envir)o(onmental)e(Enhancements)e(have)h(both)g
+(Depth)f(and)i(Scope)e(to)g(help)h(govern)h(their)150 2191
+y(cost.)150 2312 y Fv(2.11.1)50 b(W)l(ealth)150 2391 y Ft(The)13
+b(\256rst)e(and)h(most)f(commonly)g(used)h(is)g(the)g(wealth)f(advantage.)20
+b(This)12 b(dif)o(fers)g(fr)o(om)150 2441 y(the)c(basic)g(wealth)g(that)f
+(can)i(be)f(gained)h(by)g(spending)f(the)g(points)g(fr)o(om)g(the)g(wealth)g
+(pool)150 2490 y(in)k(that)e(the)i(gain)f(is)h(appr)o(oximately)f(one)g(thir)
+o(d)h(that)f(of)g(a)g(pur)o(e)i(monetary)d(spend,)i(but)150
+2540 y(the)e(gain)h(so)f(obtained)g(is)h(income)f(that)g(will)g(continue)h
+(to)f(be)h(generated)f(for)h(as)f(long)h(as)150 2590 y(the)i(PC)i(pays)e
+(attention)f(to)h(the)g(inter)o(ests)g(that)g(generate)g(the)h(funds.)25
+b(The)15 b(lar)o(ger)f(the)150 2640 y(income)c(the)g(mor)o(e)g(work)h
+(involved)g(in)g(maintaining)f(it.)p eop
+%%Page: 20 25
+bop 450 50 a Ft(20)576 b Fr(CHAPTER)11 b(2.)26 b(CHARACTER)12
+b(GENERA)m(TION)450 174 y Fv(2.11.2)50 b(Friends)13 b(and)h(Allies)450
+253 y Ft(Another)j(important)e(Envir)o(onmental)i(Enhancement)g(is)g(that)e
+(of)i(Friends.)34 b(Friends)450 303 y(have)7 b(a)g(depth)g(associated)e(with)
+i(them)f(dependent)h(on)g(how)f(much)h(they)g(can)g(be)g(counted)450
+353 y(upon.)15 b(The)c(scope)f(is)g(dependent)h(on)f(how)g(easily)f(the)h(PC)
+h(can)g(access)f(that)f(Friend.)p 450 426 1441 12 v 859 502
+a(T)m(ABLE)k(2.6:)i(Friend)c(and)g(Ally)g(Costs)p 853 532 624
+3 v 878 580 a(V)l(alue)49 b(Dependability)h(Scope)p 853 597
+V 878 631 a(1)132 b(10)10 b(\045)226 b(10)10 b(\045)878 681
+y(2)132 b(20)10 b(\045)226 b(20)10 b(\045)878 731 y(3)132 b(30)10
+b(\045)226 b(30)10 b(\045)878 781 y(4)132 b(40)10 b(\045)226
+b(40)10 b(\045)878 831 y(5)132 b(50)10 b(\045)226 b(50)10 b(\045)878
+880 y(6)132 b(60)10 b(\045)226 b(60)10 b(\045)878 930 y(7)132
+b(70)10 b(\045)226 b(70)10 b(\045)878 980 y(8)132 b(80)10 b(\045)226
+b(80)10 b(\045)878 1030 y(9)132 b(90)10 b(\045)226 b(90)10
+b(\045)878 1080 y(10)111 b(100)10 b(\045)205 b(100)10 b(\045)p
+853 1097 V 853 1124 V 450 1160 1441 12 v 450 1320 a Fv(2.11.3)50
+b(Reputation)450 1407 y(Continued)13 b(Careers)450 1486 y Ft(A)i(continued)f
+(car)o(eer)h(as)f(a)g(Law)g(Enfor)o(cement)h(Of)o(\256cer)f(or)h(soldier)f
+(is)g(a)g(balanced)h(ad)450 1536 y(and)c(disad)f(situation.)450
+1679 y Fp(2.12)58 b(A)15 b(Checklist)450 1773 y Ft(T)l(o)c(cr)o(eate)f(a)g
+(Player)h(Character)m(,)g(you)g(start)e(with)512 1864 y Fj(\017)21
+b Ft(Initial)10 b(Point)g(Allocation)604 1947 y Fu(\261)20
+b Ft(Allocate)10 b(Primary)h(Statistics)604 2014 y Fu(\261)20
+b Ft(Calculate)10 b(Secondary)h(Statistics)604 2080 y Fu(\261)20
+b Ft(Calculate)10 b(T)l(ertiary)i(Statistics)512 2163 y Fj(\017)21
+b Ft(Education)604 2246 y Fu(\261)f Ft(Pick)11 b(basic)f(skills)g(derived)i
+(fr)o(om)e(education)512 2329 y Fj(\017)21 b Ft(Backgr)o(ound)12
+b(Generation)604 2412 y Fu(\261)20 b Ft(Pick)11 b(a)f(car)o(eer)i(or)e(a)g
+(set)g(of)f(car)o(eers)604 2479 y Fu(\261)20 b Ft(Pick)11 b(the)f(skills)g
+(gained)h(fr)o(om)f(those)f(car)o(eers)604 2545 y Fu(\261)20
+b Ft(Rearrange)11 b(Point)e(Pool)h(Gains)512 2628 y Fj(\017)21
+b Ft(Limits)9 b(and)i(Enhancements)604 2711 y Fu(\261)20 b
+Ft(Pick)11 b(Limitations)e(and)i(Enhancements)p eop
+%%Page: 21 26
+bop 150 486 a Fq(Chapter)19 b(3)150 693 y Fw(Skills)150 909
+y Ft(A)c(skill)g(is)g(an)g(ar)o(ea)g(of)f(knowledge.)29 b(A)15
+b(skill)g(is)g(de\256ned)h(as)e(something)g(that)g(can)h(be)150
+959 y(learned)c(and)f(allows)f(you)h(to)f(do)h(something.)k(Skills)c(ar)o(e)g
+(used)g(in)g(almost)f(every)h(action)150 1009 y(a)k(player)g(character)h
+(performs)f(and)g(ar)o(e)g(discussed)g(seperately)g(fr)o(om)f(other)h
+(subjects)150 1059 y(because)c(they)g(ar)o(e)h(extr)o(emely)f(important.)212
+1108 y(Pr)o(o\256ciency)16 b(in)f(a)g(skill)f(is)h(described)g(by)g(a)f
+(number)h(with)f(a)g(range)h(of)f(0-20.)28 b(The)150 1158 y(higher)9
+b(the)f(number)m(,)h(the)e(gr)o(eater)i(the)f(character)s('s)g(expertise.)14
+b(Someone)7 b(is)h(completely)150 1208 y(unfamiliar)j(with)g(a)g(skill)g(is)g
+(consider)o(ed)h(to)f(be)g(unranked.)19 b(Someone)10 b(who)g(is)h(familiar)
+150 1258 y(with)i(the)g(basics)f(of)h(the)g(skill)g(is)g(rank)h(0.)24
+b(A)13 b(talented)g(amateur)f(is)h(has)g(a)g(rank)g(3)h(or)f(4.)150
+1308 y(A)f(solid)g(workaday)g(craftsman)f(has)h(a)g(rank)g(5-7.)20
+b(A)13 b(pr)o(ofessional)e(is)h(rank)g(8)g(or)g(9.)21 b(An)150
+1357 y(expert)11 b(in)g(a)f(skill)g(has)h(a)f(rank)h(12)f(-)g(14.)16
+b(A)11 b(true)f(master)f(of)i(a)f(skill)g(has)h(a)f(rank)h(16-20)e(in)i(a)150
+1407 y(skill.)150 1550 y Fp(3.1)58 b(Skills)150 1644 y Ft(Skills)10
+b(ar)o(e)h(described)g(fairly)g(simply:)150 1736 y(Name)292
+b(Self)10 b(Explanatory)150 1819 y(Stat)f(Basis)230 b(The)17
+b(stat,)g(or)f(combination)g(of)g(stats,)h(that)f(is)g(needed)h(when)554
+1869 y(using)10 b(the)g(skill.)150 1952 y(Dif)o(\256culty)h(Factor)104
+b(The)10 b(modi\256er)h(for)f(doing)h(any)f(action)g(with)g(this)g(skill.)150
+2035 y(Cost)320 b(The)17 b(experience)h(point)f(cost)f(is)h(the)g(amount)e
+(of)i(experience)554 2084 y(points)9 b(it)h(takes)f(to)h(buy)g(a)g(r)o(oll)h
+(in)g(a)f(skill.)150 2167 y(Generation)g(Cost)104 b(The)15
+b(cost)g(in)g(Skill)h(Pool)f(Points)f(of)h(a)g(skill)g(or)g(skill)h(package.)
+554 2217 y(Skills)8 b(only)g(cost)g(1)g(Skill)g(Pool)g(Point.)14
+b(Skill)9 b(packages)f(typically)554 2267 y(vary)j(fr)o(om)f(1)g(to)g(10)f
+(Skill)i(Points)e(in)i(cost.)150 2388 y Fv(3.1.1)50 b(Use)150
+2467 y Ft(T)l(o)11 b(use)f(a)h(skill)f(the)g(GM)h(determines)f(what)g(the)g
+(Base)g(Chance)i(of)e(the)g(skill)h(is)f(and)h(adds)150 2517
+y(in)g(the)f(modi\256ers)g(for)g(the)g(task)f(being)i(performed.)212
+2567 y(The)g(Base)f(Chance)h(of)f(using)h(a)f(skill)g(is)g(thr)o(ee)g(times)g
+(the)g(Stat)f(Basis)g(of)h(the)g(skill)g(or)770 2658 y(3)f
+Fj(\002)g Fs(S)r(B)899 2664 y Fe(sk)q(ill)150 2750 y Ft(For)j(each)g(rank)g
+(the)f(character)i(has)e(in)h(the)f(skill)h(add)g(4\045.)19
+b(The)12 b(modi\256ers)f(for)h(the)f(task)150 2799 y(vary)g(for)f(each)h
+(situation.)1076 b Fd(Example:)58 b Fg(A)16 b(character)g(with)h(rank:0)g(in)
+1650 2839 y(Rock)9 b(Thr)o(owing)h(is)e(thr)o(owing)h(a)g(r)o(ock)g(acr)o
+(oss)1650 2878 y(the)i(str)o(eet.)18 b(The)11 b(chaar)o(cter)f(has)h(a)f
+(Accuracy)1650 2918 y(\(ACC\))f(of)h(12.)17 b(Their)10 b(Base)g(Chance)f(to)h
+(hit)g(is)1650 2957 y(3)d Fc(\002)i Fg(12)g Fb(=)h Fg(36\045.)849
+2938 y Ft(21)p eop
+%%Page: 22 27
+bop 450 50 a Ft(22)993 b Fr(CHAPTER)11 b(3.)26 b(SKILLS)450
+174 y Fv(3.1.2)50 b(Gaining)450 253 y Ft(A)13 b(character)h(can)f(gain)g
+(rank)g(in)g(skills)f(by)h(using)g(a)g(skill,)g(gaining)h(Experience)g
+(Points)450 303 y(for)9 b(its)g(use)g(and)h(using)g(those)e(experience)j
+(points)d(to)h(buy)h(a)f(learning)i(r)o(oll)f(for)f(that)g(skill.)512
+353 y(The)i(experience)g(points)f(gained)h(for)f(using)g(a)g(skill)h(ar)o(e:)
+450 444 y(Non-Ranked)104 b(Critical)11 b(gains)f(50)g(experience.)16
+b(Normal)11 b(Usage)f(gains)g(30)g(exp.)450 527 y(Ranked)199
+b(Critical)11 b(gains)f(25.)15 b(Normal)10 b(usage)g(gains)g(15.)450
+649 y Fv(3.1.3)50 b(Learning)14 b(Rolls)450 727 y Ft(In)h(or)o(der)h(to)d
+(gain)i(rank)g(in)g(a)g(skill)g(the)f(character)h(uses)f(experience)i(points)
+e(to)f(buy)i(a)450 777 y(learning)9 b(r)o(oll)g(in)g(the)f(skill.)15
+b(The)9 b(experience)g(point)f(cost)g(to)g(buy)h(a)f(learning)h(r)o(oll)g(is)
+f(listed)450 827 y(with)13 b(the)g(skill.)24 b(Once)13 b(the)g(character)h
+(spends)f(those)f(experience)j(points)d(they)h(r)o(oll)h(to)450
+877 y(see)c(if)g(their)g(rank)h(in)g(that)e(skill)h(goes)g(up.)512
+927 y(The)h(learning)g(r)o(oll)g(is)f(based)g(on)g(the)g(Success)g(Chance)i
+(of)d(the)h(skill)h(with)f(the)g(DF)g(for)450 977 y(making)g(the)g(Learning)h
+(Roll)f(being:)734 1080 y Fs(D)q(F)796 1086 y Fe(Lear)q(ning)g(Roll)1025
+1080 y Fk(=)i(\()p Fj(\000)p Fs(Rank)q Fk(\))e(+)f(\()p Fs(T)d(r)q(aining)12
+b(M)5 b(ods)p Fk(\))512 1171 y Ft(If)12 b(the)g(character)g(fails)g(to)f
+(make)g(the)h(learning)g(r)o(oll)h(they)f(gain)g(a)f(Df)h(+2)g(to)f(the)h
+(next)450 1221 y(learning)g(r)o(oll)g(in)g(that)e(skill.)18
+b(The)12 b(failur)o(e)g(modi\256er)g(is)f(culmulative.)18 b(A)12
+b(character)g(that)450 1271 y(has)f(failed)f(four)h(times)f(will)h(get)g(a)f
+(DF)h(+8)g(modi\256er)h(to)e(their)h(next)g(earning)g(r)o(oll)h(in)f(that)450
+1320 y(skill.)450 1442 y Fv(3.1.4)50 b(T)-6 b(raining)14 b(in)e(Skills)450
+1521 y Ft(T)l(raining)18 b(in)e(a)g(skill)h(dir)o(ectly)g(modi\256es)f(the)g
+(EF)g(of)g(the)g(Learning)h(r)o(oll)g(in)f(that)g(skill.)450
+1570 y(T)l(raining)c(Alone)e(adds)1020 1620 y Fk(+)p Fs(:)p
+Ft(5)p Fs(D)q(F)s(=)p Ft(10)p Fs(hour)q(s)450 1695 y Ft(T)l(raining)i(under)f
+(a)f(T)l(eacher)i(adds)870 1786 y Fk(+\()p Fs(:)p Ft(5)d Fj(\002)g
+Fs(T)d(eacher)q(s)11 b(Rank)q Fk(\))p Fs(=)p Ft(10)p Fs(hour)q(s)450
+1878 y Ft(T)l(raining)h(with)e(notes)f(or)h(study)g(aids)g(adds)939
+1966 y Fk(+\()p Fs(:)p Ft(5)f Fj(\002)g Fs(T)d(eacher)q(sRank)r(=)p
+Ft(3)p Fk(\))p 939 1985 463 2 v 1096 2023 a Ft(10)p Fs(hour)q(s)p
+eop
+%%Page: 23 28
+bop 150 486 a Fq(Chapter)19 b(4)150 693 y Fw(General)26 b(Playing)g
+(Mechanics)150 921 y Ft(This)19 b(chapter)g(discusses)e(various)i(pieces)f
+(of)g(the)h(game)f(system)f(that)g(ef)o(fect)h(every)150 971
+y(character)m(.)d(These)7 b(rules)g(ar)o(e)h(not)f(speci\256c)h(to)e(either)i
+(combat)e(or)h(non-combat)g(situations.)212 1020 y(The)14 b(model)g(of)f
+(tasks)f(and)i(actions)e(in)i(S)873 1030 y(H)916 1020 y(is)f(based)h(on)f(a)g
+(series)g(of)g(r)o(eactions)h(and)150 1070 y(actions.)j(The)11
+b(characters)h(determine)f(how)f(long)h(their)h(r)o(eaction)f(will)g(take,)g
+(and)g(when)150 1120 y(they)j(ar)o(e)g(r)o(eady)g(to)f(act,)i(declar)o(e)g
+(their)f(action.)26 b(When)13 b(their)h(action)g(is)f(\256nished)h(they)150
+1170 y(r)o(e-r)o(eact.)150 1313 y Fp(4.1)58 b(T)m(ime)14 b(Scale)150
+1407 y Ft(T)n(ime)f(is)h(r)o(eferr)o(ed)h(to)e(by)g(the)g(units)g(we)g(ar)o
+(e)h(used)g(to,)g(Hours,)g(minutes,)f(and)h(seconds)150 1457
+y(and)e(one)f(that)g(is)g(new:)17 b(Pulses.)h(A)12 b(pulse)f(is)h(1/10th)e
+(of)h(a)h(second.)19 b(Pulses)10 b(ar)o(e)i(used)g(in)150 1507
+y(combat)d(and)i(other)f(time)g(critical)h(activities.)150
+1649 y Fp(4.2)58 b(Perception)150 1744 y Ft(Most)10 b(of)h(the)g(time)f(a)h
+(situation)f(is)h(self)f(evident.)18 b(A)12 b(player)f(automatically)f(knows)
+g(that)150 1794 y(ther)o(e)e(is)h(a)f(bar)g(in)h(the)f(r)o(oom)g(and)g(how)g
+(many)g(people)g(ar)o(e)h(in)f(it.)15 b(But)8 b(if)g(something)f(could)150
+1844 y(go)h(unnoticed)h(by)f(the)g(character)m(,)i(such)e(as)g(a)g(suprise)g
+(attack)g(or)g(something)f(hidden,)j(the)150 1893 y(player)h(should)f(make)g
+(a)h(per)o(ception)g(r)o(oll.)16 b(A)11 b(per)o(ception)g(r)o(oll)g(is)g
+(typically)f(SB)h(=)g(GA)m(W)l(,)150 1943 y(DF=0,)i(with)e(modi\256ers)h(for)
+g(how)g(alert)f(the)h(character)h(is)f(trying)g(to)f(be.)20
+b(A)13 b(per)o(ception)150 1993 y(r)o(oll)i(takes)e(8)g(pulses.)26
+b(A)15 b(quick)g(per)o(ception)f(r)o(oll)h(can)f(be)g(performed)g(at)g(one)f
+(half)h(the)150 2043 y(normal)8 b(speed)h(and)f(one)h(half)f(the)g(success)h
+(chance.)15 b(A)9 b(Passive)f(Per)o(ception)h(Roll)f(can)h(be)150
+2093 y(made)i(during)i(any)f(action)g(at)f(1/4)g(the)h(success)f(chance)i(of)
+e(a)h(normal)f(per)o(ception)h(r)o(oll.)150 2142 y(A)f(passive)e(per)o
+(ception)i(r)o(oll)g(takes)e(no)h(time.)150 2285 y Fp(4.3)58
+b(Initiative)150 2380 y Ft(When)9 b(a)g(character)h(\256rst)g(becomes)e
+(involved)j(in)e(a)g(con\257ict)h(they)f(r)o(oll)h(a)g(per)o(ception)f(r)o
+(oll.)150 2429 y(Then)15 b(the)g(PC)g(r)o(olls)g(an)g(Initiative)f(r)o(oll.)
+29 b(The)16 b(Initiative)e(r)o(oll)h(is)g(simply)f(2D10)g(added)150
+2479 y(together)m(.)709 2582 y Fs(I)s(nitiativ)q(e)g Fk(=)e
+Ft(2)p Fs(d)p Ft(10)212 2674 y(If)7 b(the)g(per)o(ception)g(r)o(oll)g(is)g
+(successful,)e(the)i(character)g(gets)g(to)g(s)o(ubtract)g(t)o(he)g
+(characters)150 2723 y(unengaged)k(speed.)526 2827 y Fs(I)s(nitiativ)q(e)i
+Fk(=)f Ft(2)p Fs(d)p Ft(10)c Fj(\000)i Fs(U)5 b(neng)q(ag)q(edS)r(peed)849
+2938 y Ft(23)p eop
+%%Page: 24 29
+bop 450 49 a Ft(24)462 b Fr(CHAPTER)11 b(4.)25 b(GENERAL)12
+b(PLA)-5 b(YING)11 b(MECHANICS)512 174 y Ft(All)17 b(initiative)f(r)o(olls)h
+(after)f(the)g(\256rst)g(ar)o(e)h(made)f(using)h(the)f(character)s('s)g
+(Engaged)450 224 y(Speed.)717 327 y Fs(I)s(nitiativ)q(e)e Fk(=)e
+Ft(2)p Fs(d)p Ft(10)c Fj(\000)h Fs(E)r(ng)q(ag)q(edS)r(peed)i
+Fj(\000)e Fs(Rank)q(S)r(peed)512 419 y Ft(Ther)o(e)j(ar)o(e,)f(of)f(course,)g
+(modi\256ers)g(to)g(the)g(per)o(ception)h(r)o(oll)f(as)g(detailed)g(in)h
+(table)20 b(4.2)512 468 y(If)13 b(the)g(initiative)f(r)o(oll)h(is)g(lower)g
+(than)f(0)h(the)f(excess)h(speed)g(can)g(be)g(applied)g(to)f(buy)450
+518 y(per)o(ception)f(r)o(olls.)16 b(If)10 b(ther)o(e)h(ar)o(e)g(4)f(extra)h
+(speed)f(points)g(a)g(quick)h(per)o(ception)g(r)o(oll)g(can)g(be)450
+568 y(bout)f(and)g(with)g(8)g(speed)g(points)g(a)g(full)g(per)o(ception)h(r)o
+(oll)f(can)h(be)f(bought.)450 689 y Fv(4.3.1)50 b(Speed)14
+b(Gains)f(Due)g(to)f(Rank)h(in)g(a)f(Skill)450 768 y Ft(The)h(character)g
+(may)f(add)h Fs(Rank)q(=)p Ft(3)e(points)h(to)f(their)i(speed)f(when)g(using)
+g(a)g(skill.)22 b(This)450 818 y(may)10 b(only)g(be)g(done)h(once)f(the)g
+(character)h(has)f(decided)i(to)e(use)g(a)g(given)h(skill.)450
+939 y Fv(4.3.2)50 b(Preset)13 b(Reactions)450 1018 y Ft(A)i(character)h(may)f
+(decide)h(to)f(pr)o(eset)f(a)h(r)o(eaction.)30 b(A)16 b(pr)o(eset)f(r)o
+(eaction)g(is)g(attempt)e(to)450 1068 y(make)c(yourself)g(sensitive)f(to)h(a)
+g(speci\256c)h(stimuli)e(to)h(the)g(exclusion)g(of)g(all)h(other)f(stimuli.)
+450 1118 y(The)15 b(advantage)f(is)g(that)f(it)h(allows)f(an)i(additional)f
+(DF)g(+2)g(to)g(a)g(per)o(ception)h(r)o(oll)f(and,)450 1168
+y(if)h(the)g(per)o(ception)h(r)o(oll)g(is)f(made,)i(the)e(character)h(gets)e
+(to)h(apply)g(their)h(full)f(Engaged)450 1217 y(Speed)10 b(and)h(twice)e
+(their)i(Rank)f(Speed)g(to)f(the)h(initiative)g(r)o(oll.)16
+b(Gun\256ghters)10 b(waiting)f(on)450 1267 y(someone)g(else's)g(draw)h(of)g
+(a)g(weapon)g(would)g(pr)o(eset)g(a)g(r)o(eaction.)512 1317
+y(A)f(Pr)o(eset)g(r)o(eaction)g(may)f(only)h(be)f(held)h(for)g(MST)g(in)g
+(the)g(time)f(scale)g(that)g(the)g(players)450 1367 y(ar)o(e)j(working)f(in)h
+(befor)o(e)f(a)g(cost)g(of)g(1)g(MFT)h(must)e(be)h(expended.)450
+1510 y Fp(4.4)58 b(Actions)450 1604 y Ft(Actions)13 b(normally)h(begin)f(at)g
+(the)g(count)g(given)h(by)g(the)f(initiative)g(r)o(oll.)25
+b(The)14 b(must)e(be)450 1654 y(made)i(at)h(this)f(point.)28
+b(The)15 b(speed)f(of)h(the)f(action)g(is)h(determined)g(and)g(the)f
+(character)450 1704 y(takes)9 b(this)h(action)g(on)g(a)g(pulse)g(given)h(by)g
+(Initiative)f(+)g(Action)h(Speed.)450 1846 y Fp(4.5)58 b(Speeds)13
+b(of)h(Actions)450 1941 y Ft(Most)g(actions)f(have)i(a)f(speed)g(associated)g
+(with)f(them.)27 b(All)15 b(simple)f(actions)g(,)i(unless)450
+1991 y(otherwise)9 b(noted,)i(have)f(a)g(standar)o(d)h(speed)f(of)g(10)g
+(counts.)p 450 2097 1441 12 v 923 2172 a(T)m(ABLE)39 b(4.1:)68
+b(Per)o(ception)923 2221 y(Modi\256ers)p 923 2241 494 3 v 948
+2288 a(Situation)222 b(DF)p 923 2318 V 948 2365 a(Blinded)246
+b(-5)948 2415 y(Deafened)213 b(-3)948 2465 y(Drunk/Stoned)116
+b(-5)948 2515 y(Asleep)262 b(-4)948 2564 y(Poor)10 b(Lighting)135
+b(-3)948 2614 y(Not)10 b(Alert)214 b(-3)948 2664 y(Alert)295
+b(0)948 2714 y(Actively)11 b(W)l(atching)50 b(+3)p 923 2756
+V 450 2792 1441 12 v eop
+%%Page: 25 30
+bop 150 50 a Fr(4.6.)26 b(DRA)m(WING)10 b(A)g(T)o(OOL)h(OR)f(WEAPON)659
+b Ft(25)212 174 y(Actions)8 b(can)h(be)f(performed)g(faster)m(.)14
+b(Speeding)8 b(up)g(an)g(action)g(lowers)g(the)f(chance)j(of)150
+224 y(success.)k(For)9 b(each)f(per)o(centage)h(of)f(time)f(units)h(the)g
+(action)f(is)h(sped)h(up)f(a)g(corr)o(esponding)150 274 y(per)o(centage)13
+b(is)f(r)o(emoved)h(fr)o(om)g(the)f(success)g(chance.)23 b(Thus)13
+b(an)g(action)f(performed)h(in)150 324 y(1/4)d(the)g(time)g(has)f(1/4)h(the)g
+(success)g(chance.)150 467 y Fp(4.6)58 b(Drawing)15 b(a)g(T)-6
+b(ool)14 b(or)h(W)l(eapon)150 561 y Ft(This)c(most)e(often)h(applies)f(to)h
+(drawing)h(a)f(weapon)g(but)g(can)h(also)f(apply)g(to)g(other)g(tools.)150
+611 y(In)15 b(general,)i(when)e(a)g(weapon)g(is)f(in)i(hand,)h(all)e(normal)g
+(weapon)f(speeds)h(apply)-5 b(.)30 b(In)150 661 y(or)o(der)11
+b(to)f(get)g(a)g(weapon)f(into)h(ones)g(hand)h(it)f(takes)f(2)g
+Fj(\002)g Fs(S)r(peed)1165 667 y Fe(w)q(eapon)1291 661 y Ft(in)i(pulses.)212
+710 y(In)g(or)o(der)g(to)e(get)h(a)g(weapon)g(in)g(hand)h(faster)e(than)h(2)f
+Fj(\002)g Fs(S)r(peed)1208 716 y Fe(w)q(eapon)1334 710 y Ft(r)o(equir)o(es)i
+(a)f(fast)150 760 y(draw)f(or)h(r)o(eady)f(r)o(oll)h(against)e(the)h
+(weapon's)e(skill.)15 b(A)10 b(successful)e(r)o(eady)i(r)o(oll)g(brings)f
+(the)150 810 y(tool)g(or)i(weapon)e(to)h(bear)g(at)g Fs(S)r(peed)728
+816 y Fe(w)q(eapon)843 810 y Ft(.)150 953 y Fp(4.7)58 b(Resolving)15
+b(an)f(Action)150 1047 y Ft(Actions)c(usually)g(r)o(equir)o(e)i(only)e(a)g
+(skill)h(r)o(oll)g(to)e(be)h(made.)150 1190 y Fp(4.8)58 b(T)-6
+b(asks)150 1284 y Ft(Skills)15 b(ar)o(e)g(used)g(to)f(perform)h(tasks.)27
+b(A)15 b(task)f(can)i(be)e(a)h(single)g(action)f(or)h(a)g(series)g(of)150
+1334 y(actions.)150 1456 y Fv(4.8.1)50 b(Dif)o(\256culty)150
+1535 y Ft(The)14 b(dif)o(\256culty)g(of)f(a)h(task)e(is)h(described)i(by)f(a)
+f(number)g(r)o(eferr)o(ed)j(to)c(as)h(an)h(\252Dif)o(\256culty)150
+1584 y(Factor)s(\272)9 b(or)h(DF)l(.)h(Dif)o(\256culty)f(Factors)f(typically)
+h(range)g(fr)o(om)f(-10)g(to)g(+4.)15 b(Thr)o(oughout)c(S)1556
+1594 y(H)150 1634 y(it)f(is)g(assumed)f(that)h(the)g(base)f(DF)i(of)f(an)g
+(action)g(is)g(0)g Fu(unless)i(otherwise)e(stated)p Ft(.)212
+1684 y(The)h(modi\256er)g(for)f(a)g(task)f(is)h(simply)g(5\045)g(times)f(the)
+h(Dif)o(\256culty)h(Factor)g(or:)545 1775 y Fs(M)5 b(odif)t(ier)14
+b Fk(=)e Ft(5)d Fj(\002)g Fs(D)q(if)t(f)t(icul)q(ty)15 b(F)6
+b(actor)150 1938 y Fv(4.8.2)50 b(Results)150 2017 y Ft(The)13
+b(end)g(r)o(esult)f(of)g(a)g(r)o(oll)h(is)g(either)f(a)g(numeric)h(value)g
+(or)g(a)f(simple)g(subjective)g(r)o(esult.)150 2067 y(See)e(the)g(Success)g
+(T)l(able)h(in)f(section)g(.)d(.)g(.)150 2210 y Fp(4.9)58 b(Modi\256ers)150
+2304 y Ft(This)10 b(section)f(describes)g(the)g(common)g(Dif)o(\256culty)h
+(Factors)f(for)g(various)g(situations.)14 b(All)150 2354 y(these)9
+b(modi\256ers)i(ar)o(e)f(culmulative.)150 2475 y Fv(4.9.1)50
+b(Unranked)15 b(in)d(the)g(Skill)150 2554 y Ft(A)17 b(character)h(who)e(has)g
+(training)h(or)g(experience)g(in)g(an)g(action)f(is)h(unranked)g(in)g(the)150
+2604 y(r)o(equir)o(ed)e(skill.)23 b(Any)13 b(character)h(performing)f(an)g
+(action)g(using)g(a)f(skill)h(they)g(have)g(no)150 2654 y(rank)e(in)f(has)g
+(1/2)g(the)g(normal)g(base)g(chance.)p eop
+%%Page: 26 31
+bop 450 50 a Ft(26)462 b Fr(CHAPTER)11 b(4.)25 b(GENERAL)12
+b(PLA)-5 b(YING)11 b(MECHANICS)450 174 y Fv(4.9.2)50 b(Set-up)450
+253 y Ft(The)9 b(term)f(Set-up)g(means)g(to)f(wait)h(and)h(pr)o(epar)o(e)g
+(for)g(a)f(given)i(action.)k(Setting)8 b(Up)h(for)f(an)450
+303 y(action)j(takes)f(as)h(long)g(as)g(it)g(takes)f(to)g(perform)h(the)g
+(action.)18 b(The)12 b(end)g(ef)o(fect)f(is)g(a)g(bonus)450
+353 y(to)f(the)g(Success)g(Chance)h(of)1023 403 y(20\045)e
+Fk(+)h Ft(2\045)p Fs(=r)q(ank)450 477 y Ft(.)450 599 y Fv(4.9.3)50
+b(Florentine)450 678 y Ft(Performing)11 b(two)e(actions)g(at)h(the)g(same)f
+(time)h(is)g(called)h(Flor)o(entining.)512 727 y(One)j(of)g(the)f(two)g
+(actions)h(is)g(the)f(primary)i(action)f(and)g(it)g(r)o(ecieves)h(a)f(DF)g
+(-3.)27 b(The)450 777 y(secondary)12 b(action)f(r)o(ecieves)i(a)f(DF)g(-6.)19
+b(This)12 b(is)f(only)h(true)f(if)h(the)f(two)g(actions)g(ar)o(e)h(both)450
+827 y(physical)k(or)g(both)g(mental.)31 b(If)16 b(one)g(action)f(is)h(a)g
+(mental)f(action)h(and)g(the)g(other)g(is)f(a)450 877 y(physical)c(one)f(the)
+g(modi\256ers)g(go)g(down)g(to)g(DF)g(-2)g(and)h(DF)f(-4.)450
+998 y Fv(4.9.4)50 b(Physically)12 b(Injured)i(or)f(T)m(ired)450
+1077 y Ft(A)8 b(character)g(that)f(is)g(injur)o(ed)h(or)g(fatigued)f(has)g
+(DF)h(modi\256ers)f(to)g(their)g(actions.)14 b(Physical)450
+1127 y(fatigue)f(has)h(the)g(gr)o(eatest)f(ef)o(fect)h(on)h(physical)f
+(actions)g(and)g(Mental)g(fatigue)g(has)f(the)450 1177 y(gr)o(eatest)c(ef)o
+(fect)h(on)h(Mental)f(actions.)450 1298 y Fv(4.9.5)50 b(Movement)450
+1377 y Ft(When)11 b(performing)g(an)g(action)g(the)g(character)h(may)f(be)g
+(af)o(fected)g(by)g(his)g(rate)g(of)g(move-)450 1427 y(ment.)24
+b(If)13 b(the)g(character)h(is)f(moving)g(faster)g(than)f(a)i(walk)e(the)h
+(DF)h(due)g(to)e(movement)450 1477 y(applys)j(to)g(any)h(physical)g(action)f
+(they)h(ar)o(e)g(attempting.)29 b(ANy)17 b(mental)e(action)g(they)450
+1526 y(perform)10 b(is)g(subject)g(to)f(1/2)h(the)g(listed)g(DFs.)450
+1648 y Fv(4.9.6)50 b(Environmental)13 b(Conditions)450 1727
+y Ft(This)i(is)g(a)g(catchall)g(ar)o(ea.)29 b(Characters)15
+b(generally)g(ar)o(e)h(at)e(their)h(best)f(performance)h(in)450
+1776 y(conditions)e(similiar)h(to)f(the)g(envir)o(onment)h(in)g(which)g(they)
+f(wer)o(e)h(raised.)25 b(Any)14 b(dras-)450 1826 y(tic)i(modi\256cations)f
+(fr)o(om)g(that)g(envir)o(onment)h(in)g(terms)e(of)i(light,)h(gravity)-5
+b(,)18 b(humidity)-5 b(,)450 1876 y(etc.)7 b(.)g(.)h(can)i(lower)g(the)g
+(character)s('s)h(performance.)450 1997 y Fv(4.9.7)50 b(Relations)12
+b(Among)g(Skills)450 2076 y Ft(In)d(situations)f(wher)o(e)h(the)g(character)h
+(does)f(not)f(have)i(a)f(skill)g(that)f(is)h(dir)o(ectly)h(applicable)450
+2126 y(to)g(the)g(task)f(being)h(performed)h(the)f(character)h(may)f(choose)g
+(to)f(use)h(a)g(r)o(elated)h(skill.)512 2176 y(A)g(typical)g(example)g(would)
+f(be)h(in)g(using)g(two)f(dif)o(fer)o(ent)h(types)f(of)g(handguns.)18
+b(The)450 2226 y(character)g(has)e(rank)h(10)f(in)h(Slug)g(Pistol)f(but)g(is)
+h(using)g(a)f(Stun)h(W)l(eapon.)33 b(The)18 b(stun)450 2276
+y(weapon)11 b(is)h(fairly)h(dif)o(fer)o(ent)f(fr)o(om)g(the)g(Slug)g(Pistol)f
+(so)h(the)g(character)g(can)h(only)f(apply)450 2325 y(1/5)c(of)g(his)h
+(expertise)f(in)h(Slug)f(Pistol)g(to)g(using)g(this)g(pistol.)14
+b(So)8 b(he)g(has)h(an)f(ef)o(fective)h(rank)450 2375 y(2)h(in)h(the)f
+(weapon.)512 2425 y(As)h(a)f(rule)g(the)g(following)g(r)o(elations)f(apply)-5
+b(.)450 2546 y Fv(4.9.8)50 b(Unfamiliar)13 b(T)-6 b(ools)450
+2625 y Ft(If)13 b(the)g(skill)h(r)o(equir)o(es)g(the)f(use)g(of)g(tools)f
+(and)i(the)f(tool)f(that)h(the)g(character)h(is)f(utilizing)450
+2675 y(is)g(unfamiliar)m(,)i(then)f(the)f(action)g(occurs)i(at)e(a)g(DF)h
+(-2.)26 b(This)14 b(usually)f(only)h(happens)f(if)450 2725
+y(the)d(dif)o(fer)o(ences)h(between)e(the)h(version)h(of)f(the)g(tool)f(the)h
+(character)h(normally)f(uses)g(and)450 2775 y(the)i(curr)o(ent)i(one)e
+(actual)g(ef)o(fect)g(how)g(it)g(is)g(used.)22 b(A)13 b(gun)f(with)g(a)g(dif)
+o(fer)o(ent)h(mass)e(than)450 2824 y(the)g(entity)g(is)h(used)f(to)g(is)g
+(unfamiliar)m(,)h(wher)o(eas)g(a)f(gun)h(of)f(the)g(same)g(model)g(and)h
+(same)p eop
+%%Page: 27 32
+bop 150 50 a Fr(4.10.)25 b(FIL)m(TER)12 b(SKILLS)1003 b Ft(27)150
+174 y(manufactur)o(er)12 b(is)g(not.)19 b(T)l(o)12 b(eliminate)g(this)f
+(unfamiliarity)g(modi\256er)h(r)o(equir)o(es)h(that)e(the)150
+224 y(entity)i(familiarize)f(himself)h(with)f(the)h(tool)f(with)h(a)g(DF)h
+(-3)e(r)o(oll)i(against)e(the)h(SB)h(of)e(the)150 274 y(skill)e(with)g(a)g
+(gain)h(of)f(1)g(DF)g(per)h(r)o(oll.)150 417 y Fp(4.10)58 b(Filter)15
+b(Skills)150 511 y Ft(Ther)o(e)7 b(is)g(a)g(category)g(of)g(skills)g(which)g
+(af)o(fects)f(the)g(use)h(o)o(f)g(o)o(ther)g(skills)f(in)h(an)g(envir)o
+(onment)150 561 y(they)h(wer)o(e)h(not)f(designed)h(to)f(be)g(used)g(in.)15
+b(These)9 b(skills)f(ar)o(e)h(called)g(\256lter)g(skills.)14
+b(A)9 b(Filter)150 611 y(skill)18 b(is)g(any)g(skill)g(that)f(can)i(allow)e
+(for)h(the)g(full)g(expr)o(ession)g(of)g(other)g(skills)g(in)g(an)150
+661 y(envir)o(onment)11 b(other)f(than)g(that)f(for)h(which)h(those)e(skills)
+h(wer)o(e)h(designed)f(for)m(.)212 710 y(T)l(ypical)16 b(\256lter)e(skills)f
+(include)j(the)d(following:)23 b(0-g)13 b(maneuver)m(,)j(T)l(ech)f(Level)g
+(Lor)o(e,)150 760 y(Cultur)o(e)8 b(Lor)o(e,)i(Mounted)d(Combat)g(and)h(other)
+f(vehicular)i(combat)e(skills,)h(Armor)g(W)l(ear)o(-)150 810
+y(ing,)j(and)g(Computer)f(operations.)212 860 y(For)18 b(situations)e(in)i
+(which)h(the)e(character)i(is)e(attempting)f(to)h(apply)h(a)f(skill)h(in)g(a)
+150 910 y(envir)o(onment)h(he)f(is)h(not)f(familiar)g(with)g(and)g(that)g
+(skill)g Fa(must)38 b Ft(interact)18 b(with)g(that)150 960
+y(envir)o(onment,)f(then)d(the)h(rank)g(in)g(the)f(\256lter)h(skill)g
+(becomes)f(the)g(upper)h(limit)g(on)f(the)150 1009 y(ef)o(fective)c(rank)h
+(of)f(the)g(skill)g(being)h(used.)212 1059 y(As)k(an)g(example,)h(if)f
+(someone)e(has)i(a)g(horsemanship)f(skill)h(at)f(rank)h(5,)h(he)f(or)g(she)
+150 1109 y(may)10 b(use)h(their)g(ar)o(chery)h(skill)f(up)g(to)f(rank)h(5)g
+(without)e(making)i(any)g(r)o(olls)g(against)f(their)150 1159
+y(horsemanship.)17 b(If)12 b(the)f(character)h(has)f(a)g(higher)h(ar)o(chery)
+h(skill)e(and)h(wants)e(to)g(bring)i(it)150 1209 y(all)f(to)f(bear)h(on)f(a)h
+(shot,)f(they)h(must)e(r)o(oll)j(against)e(their)g(horsemanship)g(\256rst)h
+(in)g(or)o(der)h(to)150 1258 y(get)e(the)g(full)g(use)g(of)g(the)g(ar)o
+(chery)i(skill.)150 1401 y Fp(4.11)58 b(Support)13 b(Skills)150
+1496 y Ft(Support)d(skills)g(such)g(as)g(Katana:Parry)g(give)h(2\045/rank.)
+150 1638 y Fp(4.12)58 b(Multiple)15 b(Actions)150 1733 y Ft(For)g(each)g
+(\252T)l(ask\272)f(ther)o(e)h(ar)o(e)g(a)f(number)h(of)f(actions)g(that)g
+(can)h(be)g(performed.)28 b(If)14 b(the)150 1783 y(actions)8
+b(involved)h(in)g(the)f(task)g(ar)o(e)g(simple)g(the)g(GM)h(may)f(choose)f
+(to)h(r)o(esolve)h(them)f(with)150 1832 y(one)13 b(r)o(oll)h(rather)f(than)g
+(r)o(esolving)h(each)g(individual)h(action.)24 b(This)13 b(is)g(best)g(done)g
+(when)150 1882 y(each)e(action)f(is)g(simple)f(\()h(i.e.)p
+Fs(D)q(F)19 b Fj(\025)12 b Ft(0)e(\).)212 1932 y(Jogging)k(acr)o(oss)g(the)g
+(str)o(eet)f(and)h(leaping)g(a)g(small)f(fence)i(is)e(something)g(suited)h
+(to)150 1982 y(being)j(a)g(task.)36 b(Normally)17 b(though,)i(the)e(GM)g
+(would)g(not)g(normally)g(even)h(ask)e(the)150 2032 y(character)d(to)f(r)o
+(oll)h(a)f(task)f(r)o(oll)i(simply)f(because)g(the)g(actions)g(ar)o(e)h(all)f
+(very)h(easy)-5 b(.)22 b(But)12 b(if)150 2081 y(the)h(character)g(stands)f
+(the)h(chance)h(of)e(being)h(exposed)g(to)f(someone)f(looking)i(for)g(him)150
+2131 y(then)d(a)g(r)o(oll)h(should)f(be)h(made.)212 2181 y(The)g(DF)g(for)f
+(the)g(\252T)l(ask\272)g(Roll)g(is)g(given)h(by)522 2272 y
+Fs(D)q(F)584 2278 y Fe(T)t(ask)674 2272 y Fk(=)h Fj(\000)p
+Fk(\()p Ft(1)d Fj(\002)h Fs(N)5 b(umber)11 b(of)16 b(Actions)q
+Fk(\))150 2415 y Fp(4.13)58 b(Fatigue)15 b(and)f(Exhaustion)150
+2510 y Ft(A)d(character)g(using)g(ener)o(gy)g(to)f(perform)h(actions)e(draws)
+i(fr)o(om)f(two)g(dif)o(fer)o(ent)h(types)f(of)150 2559 y(r)o(eservoirs:)18
+b(Fatigue)11 b(and)h(Exhaustion.)19 b(For)12 b(physical)f(actions)g(the)g
+(stats)f(ar)o(e)i(Physical)150 2609 y(Fatigue)h(and)i(Physical)f(Exhaustion)f
+(\(PFT)i(and)f(PEX\).)g(For)g(mental)f(actions)g(the)h(stats)150
+2659 y(ar)o(e)d(Mental)f(Fatigue)g(and)g(Mental)g(Exhaustion)g(\(MFT)h(and)g
+(MEX\).)212 2709 y(Fatigue)e(is)h(the)f(quick)i(access)e(pool)g(of)h(ener)o
+(gy)g(a)g(character)g(can)g(use.)15 b(Exhaustion)9 b(is)150
+2759 y(the)h(r)o(eserve)h(pool)f(of)g(ener)o(gy)h(a)f(character)h(can)g(use.)
+p eop
+%%Page: 28 33
+bop 450 50 a Ft(28)462 b Fr(CHAPTER)11 b(4.)25 b(GENERAL)12
+b(PLA)-5 b(YING)11 b(MECHANICS)450 174 y Fv(4.13.1)50 b(Losing)13
+b(Fatigue)450 253 y Ft(A)8 b(character)h(loses)e(fatigue)g(as)g(the)h(r)o
+(esult)f(of)h(physical)g(activity)g(or)g(combat.)13 b(A)8 b(character)450
+303 y(that)g(has)g(lost)f(all)i(their)g(fatigue)f(has)g(no)h(modi\256ers)f
+(to)g(their)h(actions.)14 b(Fatigue)8 b(will)g(come)450 353
+y(back)j(quickly)-5 b(.)16 b(For)11 b(each)g(10)f(points)f(of)h(fatigue)f
+(used)i(the)f(character)h(also)e(loses)g(1)i(point)450 403
+y(of)f(exhaustion.)450 524 y Fv(4.13.2)50 b(Losing)13 b(Exhaustion)450
+603 y Ft(A)h(character)g(loses)e(Exhaustion)h(by)h(performing)f(str)o(enous)g
+(activity)g(or)h(by)f(losing)h(fa-)450 653 y(tigue.)h(Ther)o(e)c(ar)o(e)g
+(modi\256ers)f(for)g(being)h(low)f(in)g(Exhaustion.)512 703
+y(Characters)h(lose)f(MFT)h(and)f(MEX)h(in)g(the)f(same)f(manner)m(.)450
+824 y Fv(4.13.3)50 b(Restoring)12 b(Fatigue)f(and)j(Exhaustion)450
+903 y Ft(The)9 b(r)o(estoration)e(of)h(Fatigue)g(is)g(usually)g(very)h
+(quick.)16 b(Exhaustion)8 b(and)g(Fatigue)g(r)o(estor)o(e)450
+953 y(themselves)h(independently)i(of)f(each)h(other)m(.)450
+1095 y Fp(4.14)58 b(Physical)14 b(Movement)450 1190 y Ft(Each)c(character)f
+(has)f(a)h(statistic)e(named)i(Physical)g(Movement.)14 b(This)9
+b(is)g(the)f(character)s('s)450 1240 y(movement)i(in)h(meters/second)g(at)f
+(a)h(dash.)17 b(Ther)o(e)12 b(ar)o(e)g(a)f(total)e(of)i(\256ve)g(dif)o(fer)o
+(ent)h(types)450 1289 y(of)17 b(movement)f(that)h(a)g(character)i(may)e
+(utilize.)36 b(Each)18 b(type)f(of)g(movement)g(has)g(its)450
+1339 y(own)11 b(movement)f(rate)g(which)i(is)f(derived)i(fr)o(om)e(the)f
+(character)s('s)h(movement)f(statistic.)450 1389 y(Ideally)e(the)f(player)h
+(will)g(have)g(the)f(full)h(range)g(of)f(movements)g(listed)g(on)g(his)h
+(character)s('s)450 1439 y(sheet.)512 1489 y(If)j(the)f(movement)f(is)i
+(being)g(r)o(esolved)g(during)h(a)e(time)g(scale)g(of)g(gr)o(eater)h(than)f
+(every)450 1538 y(pulse)j(one)g(can)h(get)f(the)g(distance)g(traveled)h(by)f
+(simply)g(multiplying)g(the)g(movement)450 1588 y(of)f(the)g(individual)i
+(times)e(the)g(time)g(spent)f(moving.)23 b(The)13 b(time)e(spent)h
+(accelerating)h(is)450 1638 y(ignor)o(ed)e(as)f(being)h(negligible.)-1166
+b Fd(Example:)56 b Fg(Let)17 b(us)g(say)f(that)g(Joe)h(Daring)-210
+1678 y(spends)d(15)e(seconds)i(running)g(down)f(a)g(de-)-210
+1717 y(serted)j(str)o(eet.)33 b(If)16 b(he)g(doesn't)g(run)f(out)h(of)-210
+1756 y(str)o(eet)e(he)g(will)f(have)g(cover)o(ed)h(4)g(*)g(15)f(=)h(60)-210
+1796 y(meters.)k(If)10 b(this)g(seems)h(a)e(bit)h(short,)i(keep)e(in)-210
+1835 y(mind)i(that)f(a)g(run)h(is)f(not)h(a)f(full)f(dash.)22
+b(At)11 b(a)-210 1875 y(full)h(dash)g(Joe)g(would)g(have)g(cover)o(ed)g
+(twice)-210 1914 y(the)7 b(distance)g(and)h(would)f(be)g(slowing)h(down)-210
+1954 y(pr)o(etty)h(drastically)e(due)h(to)h(losing)f(wind.)450
+1759 y Fv(4.14.1)50 b(Acceleration)-210 2014 y Ft(It)12 b(is)g(important)f
+(to)h(r)o(emember)g(that)-210 2063 y(the)31 b(accelleration)g(rules)g(should)
+-210 2113 y(only)15 b(be)g(used)g(when)g(the)f(distance)-210
+2163 y(travelled)9 b(by)g(the)f(characters)h(over)g(a)-210
+2213 y Fu(short)h(period)g Ft(of)e(time)g(is)h(important)450
+1838 y(In)k(dealing)g(with)f(movement)g(on)g(a)h(pulse)f(by)h(pulse)f(scale)g
+(we)h(need)g(to)e(actually)i(deal)450 1888 y(with)d(acceleration.)16
+b(The)11 b(sequence)g(is)f(quite)g(simple.)15 b(Whatever)10
+b(the)g(\256nal)h(movement)450 1938 y(rate)f(is)g(that)f(the)h(character)h
+(intends)f(to)f(use)h(is)g(consider)o(ed)h(the)f(tar)o(get)g(movement)f
+(rate.)450 1988 y(When)k(the)g(character)i(\256rst)e(starts)f(moving)h(he)h
+(makes)e(an)i(skill)f(r)o(oll)h(in)g(or)o(der)g(to)f(start)450
+2038 y(moving)g(at)f(the)h(movement)f(rate)g(just)g(below)h(the)f(tar)o(get)h
+(movement)e(rate.)23 b(Once)13 b(the)450 2087 y(r)o(oll)8 b(is)f(made)g(the)h
+(character)g(is)f(now)g(moving)h(at)e(that)h(lower)g(rate.)14
+b(On)7 b(his)h(next)f(initiative)450 2137 y(the)k(character)i(may)e(attempt)e
+(to)i(accelerate)h(to)e(the)i(tar)o(get)f(movement.)18 b(Note)11
+b(that)f(the)450 2187 y(gain)f(number)g(is)g(the)f(movement)g(rate.)15
+b(If)8 b(an)h(acceleration)g(r)o(oll)h(is)e(failed)h(the)g(end)g(r)o(esult)
+450 2237 y(is)h(that)f(the)h(character)h(dr)o(ops)g(to)f(the)g(next)g(lowest)
+f(available)h(movement)f(rate.)616 2328 y(Reed)j(Johnson)f(has)g(a)g
+(movement)g(of)g(Dash)g(10,)h(Run)g(5,)g(Jog)f(2.5,)i(W)l(alk)554
+2378 y(1.3,)d(Crawl)h(.6)450 2562 y Fp(4.15)58 b(Mental)15
+b(Movement)450 2657 y Ft(This)f(is)f(a)g(measur)o(e)g(of)f(the)h(character)s
+('s)h(speed)f(of)f(mental)h(travel.)24 b(It)13 b(is)g(usually)g(only)450
+2707 y(used)d(in)h(Psionics)f(and)h(Computer)f(usage.)p eop
+%%Page: 29 34
+bop 150 50 a Fr(4.16.)25 b(OPPOSING)10 b(SKILL)h(ROLLS)802
+b Ft(29)150 175 y Fp(4.16)58 b(Opposing)14 b(Skill)h(Rolls)150
+270 y Ft(An)9 b(opposing)e(skill)i(r)o(oll)g(in)f(a)g(r)o(oll)h(in)g(which)g
+(the)f(character)h(attempts)d(to)h(undo)i(an)f(action)150 320
+y(done)i(pr)o(eviously)h(by)f(another)g(character)m(.)16 b(T)l(ypically)11
+b(the)f(SN)h(of)e(the)h(original)h(action)e(is)150 369 y(taken)h(as)g(a)g
+(negative)g(modi\256er)g(to)g(the)g(curr)o(ent)h(skill)g(r)o(oll.)150
+512 y Fp(4.17)58 b(Stealth)15 b(and)e(Concealment)150 607 y
+Ft(Opposing)c(Skill)i(Rolls)150 749 y Fp(4.18)58 b(Deception)15
+b(and)e(Detection)150 844 y Ft(Opposing)c(Skill)i(r)o(olls)p
+eop
+%%Page: 30 35
+bop 450 50 a Ft(30)462 b Fr(CHAPTER)11 b(4.)25 b(GENERAL)12
+b(PLA)-5 b(YING)11 b(MECHANICS)p 450 149 1441 12 v 845 224
+a Ft(T)m(ABLE)h(4.2:)j(Speeds)10 b(of)g(Basic)g(Actions)p 802
+255 727 3 v 827 302 a(Action)441 b(Speed)p 802 331 V 827 379
+a(Sitting)i(15)827 428 y(Standing)399 b(20)827 478 y(Kneeling\(1)10
+b(Knee\))246 b(10)827 528 y(Arising\(1)10 b(Knee\))274 b(12)827
+578 y(Kneeling\(2)10 b(Knee\))246 b(26)827 628 y(Arising\(2)10
+b(Knee\))274 b(28)827 678 y(Lift)10 b(Light)g(object)273 b(10)827
+727 y(Lift)10 b(Heavy)g(Object)239 b(40)827 777 y(Any)11 b(Simple)e(Physical)
+i(Action)50 b(10)827 827 y(T)l(urning)419 b(10)827 877 y(Per)o(ception)368
+b(8)p 802 919 V 450 955 1441 12 v 450 1008 V 919 1084 a(T)m(ABLE)21
+b(4.3:)32 b(Generic)20 b(Dif)o(\256-)919 1134 y(culty)10 b(Factors)p
+919 1164 493 3 v 943 1212 a(Subjective)201 b(DF)p 919 1241
+V 943 1288 a(T)l(rivial)271 b(0)943 1338 y(Non-T)l(rivial)176
+b(-1)943 1388 y(dif)o(\256cult)244 b(-3)943 1438 y(V)-5 b(ery)12
+b(Dif)o(\256cult)141 b(-5)943 1488 y(Damned)11 b(Dif)o(\256cult)67
+b(-7)943 1537 y(Nearly)12 b(Impossible)48 b(-10)p 919 1579
+V 450 1616 1441 12 v 450 1669 V 894 1745 a(T)m(ABLE)12 b(4.4:)j(General)c
+(Modi\256ers)p 649 1764 1032 3 v 674 1811 a(Situation)203 b(DF)11
+b(Modi\256er)51 b(Other)10 b(Modi\256er)p 649 1841 V 674 1888
+a(No)g(rank)h(in)g(skill)361 b(1)p Fs(=)p Ft(2)p Fs(B)r(C)674
+1938 y Ft(Flor)o(entine)10 b(Action)p 649 1955 V 674 1990 a(Mental)g(Mental)
+100 b(-3/-6)182 b(DF)10 b(-2)g(A)m(war)o(eness)674 2040 y(Physical)h
+(Physical)53 b(-3/-6)182 b(DF)10 b(-2)g(A)m(war)o(eness)674
+2090 y(Mental)g(Physical)77 b(-2/-4)182 b(DF)10 b(-2)g(A)m(war)o(eness)674
+2139 y(Setup)541 b(20\045)8 b Fk(+)i Ft(2\045)f Fj(\002)g Fs(Rank)p
+649 2181 V 450 2218 1441 12 v 450 2271 V 799 2347 a Ft(T)m(ABLE)d(4.5:)15
+b(Physical)6 b(Condition)g(Modi\256ers)p 799 2377 733 3 v 823
+2424 a(Situation)290 b(DF)10 b(Modi\256er)p 799 2454 V 823
+2501 a(Out)g(of)g(PEX)250 b(-6)10 b(physical)823 2551 y(Out)g(of)g(PEX)250
+b(-3)10 b(mental)823 2601 y(25\045)g(wounded)h(in)f(PBD)54
+b(-2)10 b(Physical)823 2651 y(25\045)g(W)l(ounded)h(in)f(PBD)51
+b(-1)10 b(Mental)823 2700 y(50\045)g(W)l(ounded)h(in)f(PBD)51
+b(-4)10 b(Physical)823 2750 y(50\045)g(W)l(ounded)h(in)f(PBD)51
+b(-2)10 b(Mental)p 799 2792 V 450 2829 1441 12 v eop
+%%Page: 31 36
+bop 150 50 a Fr(4.18.)25 b(DECEPTION)13 b(AND)e(DETECTION)684
+b Ft(31)p 150 161 1441 12 v 503 236 a(T)m(ABLE)12 b(4.6:)k(Mental)10
+b(Condition)g(Modi\256ers)p 493 256 744 3 v 518 303 a(Situation)300
+b(DF)11 b(Modi\256er)p 493 333 V 518 380 a(Out)e(of)h(MEX)247
+b(-6)10 b(mental)518 430 y(Out)f(of)h(MEX)247 b(-3)10 b(physical)518
+480 y(25\045)g(wounded)g(in)h(MBD)50 b(-2)10 b(Mental)518 529
+y(25\045)g(wounded)g(in)h(MBD)50 b(-1)10 b(Physical)518 579
+y(50\045)g(wounded)g(in)h(MBD)50 b(-4)10 b(Mental)518 629 y(50\045)g(wounded)
+g(in)h(MBD)50 b(-2)10 b(Physical)p 493 671 V 150 708 1441 12
+v 150 785 V 567 860 a(T)m(ABLE)i(4.7:)j(Movement)10 b(Modi\256ers)p
+563 880 605 3 v 587 927 a(Double)h(Move:)k(jog)102 b(DF)11
+b(-2)587 977 y(T)l(riple)h(Move:)k(Run)108 b(DF)11 b(-4)587
+1027 y(Fast)f(move:)15 b(Dash)125 b(DF)11 b(-6)587 1077 y(V)-5
+b(ehicular)12 b(Movement)49 b(DF)11 b(-10)p 563 1119 V 150
+1155 1441 12 v 150 1233 V 548 1308 a(T)m(ABLE)k(4.8:)22 b(Envir)o(onmental)15
+b(Condi-)548 1358 y(tion)9 b(Modi\256ers)p 548 1378 635 3 v
+573 1425 a(Situation)191 b(DF)10 b(Modi\256er)p 548 1454 V
+573 1502 a(Lighting)g(50\045)g(of)o(f)54 b(-3)573 1552 y(Lighting)10
+b(75\045)g(of)o(f)54 b(-4)573 1601 y(Gravity)10 b(50\045)g(of)o(f)70
+b(-3)573 1651 y(Gravity)10 b(100\045)f(of)o(f)50 b(-4)p 548
+1668 V 548 1695 V 150 1732 1441 12 v 150 1809 V 630 1885 a(T)m(ABLE)12
+b(4.9:)j(Skill)c(Relations)p 511 1904 709 3 v 536 1952 a(Similiar)f(in)h
+(many)f(r)o(espects)107 b(2/5)536 2001 y(Dissimiliar)10 b(in)g(many)g(r)o
+(espects)50 b(1/5)536 2051 y(Really)10 b(Str)o(etching)g(it)223
+b(1/10)p 511 2068 V 511 2095 V 150 2132 1441 12 v 150 2209
+V 519 2285 a(T)m(ABLE)20 b(4.10:)31 b(PFT)19 b(and)g(PEX)g(costs)e(for)519
+2334 y(activity)p 519 2365 692 3 v 544 2412 a(Activity)229
+b(PFT)93 b(PEX)p 519 2442 V 544 2489 a(Crawling)544 2539 y(W)l(alking)201
+b(1/min)66 b(6/hr)544 2589 y(Jogging)381 b(1/min)544 2638 y(Running)363
+b(6/min)544 2688 y(Dash)436 b(2/sec)544 2738 y(Chopping)11
+b(W)l(ood)49 b(3/min)56 b(18/hr)p 519 2780 V 150 2817 1441
+12 v eop
+%%Page: 32 37
+bop 450 50 a Ft(32)462 b Fr(CHAPTER)11 b(4.)25 b(GENERAL)12
+b(PLA)-5 b(YING)11 b(MECHANICS)p 450 226 1441 12 v 844 301
+a Ft(T)m(ABLE)19 b(4.11:)29 b(MFT)18 b(and)f(MEX)h(costs)844
+351 y(for)11 b(activity)p 844 381 641 3 v 869 429 a(Activity)183
+b(MFT)73 b(MEX)p 844 458 V 869 505 a(Studying)147 b(1/min)60
+b(6/hr)869 555 y(Spell)11 b(Resear)o(ch)49 b(3/min)h(18/hr)p
+844 597 V 450 634 1441 12 v 450 841 V 770 916 a(T)m(ABLE)12
+b(4.12:)j(PFT)c(and)g(PEX)f(gains)g(for)g(activity)p 712 947
+906 3 v 737 994 a(Activity)463 b(PFT)79 b(PEX)p 712 1023 V
+737 1071 a(Sitting/T)l(alking)315 b(1/sec)60 b(2/hr)737 1121
+y(Resting\(pr)o(one\))323 b(1/sec)60 b(5/hr)737 1170 y(Sleeping)439
+b(1/sec)49 b(10/hr)737 1220 y(Eating)10 b(\(Lar)o(ge)h(Pasta)e(like)i(meal\))
+49 b(1/sec)93 b(6)p 712 1262 V 450 1299 1441 12 v 450 1506
+V 892 1580 a(T)m(ABLE)12 b(4.13:)j(Movement)10 b(T)l(ypes)p
+624 1610 1083 3 v 649 1658 a(Movement)g(T)l(ype)97 b(Rate)9
+b(of)h(Movement)g(\(meter/second\))p 624 1687 V 649 1734 a(No)g(Move)224
+b(0)9 b Fj(\003)g Fs(M)c(ov)q(ement)649 1784 y Ft(crawls,)10
+b(slow)g(walks)49 b(0)p Fs(:)p Ft(50)8 b Fj(\003)h Fs(W)d(al)q(k)649
+1834 y Ft(W)l(alking)243 b(0)p Fs(:)p Ft(50)8 b Fj(\003)h Fs(J)t(og)649
+1884 y Ft(Jog)336 b(0)p Fs(:)p Ft(50)8 b Fj(\003)h Fs(Run)649
+1934 y Ft(Run)319 b(0)p Fs(:)p Ft(50)8 b Fj(\003)h Fs(D)q(ash)649
+1983 y Ft(Dash)301 b(1)p Fs(:)p Ft(00)8 b Fj(\003)h Fs(M)c(ov)q(ement)p
+624 2000 V 624 2027 V 450 2064 1441 12 v 450 2271 V 704 2346
+a Ft(T)m(ABLE)13 b(4.14:)i(T)l(ar)o(geted)c(Action)f(Movement)g(Modi\256ers)p
+675 2377 980 3 v 700 2424 a(Slow)f(move:)15 b(crawls,)c(slow)e(walks)h
+(\(combat)f(\))50 b(DF)10 b(-2)700 2474 y(Normal)g(move:)15
+b(W)l(alking)375 b(DF)10 b(-4)700 2524 y(Double)g(Move:)16
+b(jog)477 b(DF)10 b(-6)700 2574 y(T)l(riple)h(Move:)16 b(Run)484
+b(DF)10 b(-8)700 2623 y(Fast)f(move:)15 b(Dash)501 b(DF)10
+b(-10)700 2673 y(V)-5 b(ehicular)11 b(Movement)425 b(DF)10
+b(-14)p 675 2715 V 450 2752 1441 12 v eop
+%%Page: 33 38
+bop 150 486 a Fq(Chapter)19 b(5)150 693 y Fw(Combat)26 b(Mechanics)150
+909 y Ft(The)18 b(combat)f(section)f(details)h(the)g(types)g(of)g(actions)g
+(that)f(may)h(be)g(taken)g(while)h(in)150 959 y(combat.)26
+b(The)15 b(chapter)g(on)f(General)g(Play)h(Mechanics)g(must)e(be)h
+(understood)g(befor)o(e)150 1009 y(working)c(with)g(the)g(combat)g(details.)
+150 1151 y Fp(5.1)58 b(Description)150 1246 y Ft(Combat)8 b(normally)h
+(occurs)h(on)f(a)g(pulse)g(by)g(pulse)g(basis.)14 b(The)c(pr)o(ocess)f(is)g
+(fairly)g(simple:)150 1296 y(Determine)14 b(First)f(Reaction.)26
+b(For)14 b(each)h(of)e(those)g(r)o(eactions)h(in)g(or)o(der)h(determine)f
+(the)150 1346 y(action)e(or)h(attack,)g(the)f(damage)g(fr)o(om)g(the)g
+(attack)g(\()h(if)f(any\),)i(the)e(secondary)h(ef)o(fects)f(of)150
+1395 y(that)d(damage)h(\()g(if)h(any\).)k(T)l(ake)c(a)f(br)o(eath.)15
+b(Continue.)150 1538 y Fp(5.2)58 b(First)15 b(Action)g(Determination)150
+1633 y Ft(As)h(detailed)g(in)g(the)f(chapter)h(on)g(General)f(Play)h
+(mechanics.)32 b(Per)o(ception)16 b(is)g(r)o(olled,)150 1682
+y(initiative)10 b(is)g(determined)h(and)f(actions)g(ar)o(e)h(chosen.)150
+1825 y Fp(5.3)58 b(Attack)150 1928 y Fv(5.3.1)50 b(Closing)12
+b(to)g(Attack)150 2007 y Ft(When)j(attacking)g(someone)f(with)h(a)g(weapon)g
+(of)g(gr)o(eater)g(r)o(each)i(than)e(their)g(own)g(an)150 2057
+y(attacker)g(must)f(close)g(to)h(get)g(in)g(range)g(to)g(strike.)29
+b(If)15 b(the)g(defender)h(is)f(awar)o(e)g(of)f(the)150 2106
+y(attack)d(and)h(has)g(a)f(usable)h(initiative)f(the)h(may)f(actively)h(r)o
+(esist)g(the)f(closing)h(action.)20 b(T)l(o)150 2156 y(do)c(so)f(they)h(must)
+f(make)g(an)h(skill)g(r)o(oll)h(using)f(a)f(weapon)h(to)f(fend)h(the)g
+(attacker)f(of)o(f.)150 2206 y(Fending)10 b(does)e(not)g(r)o(equir)o(e)j(a)d
+(r)o(e-r)o(oll)i(of)e(initiative,)h(the)g(time)f(taken)g(for)h(the)f(fend)h
+(\(same)150 2256 y(as)h(block)g(and)h(parry\))g(is)f(simply)g(added)h(to)e
+(the)h(defender)s('s)h(curr)o(ent)g(initiative.)212 2306 y(A)16
+b(fend)f(is)g(tr)o(eated)g(as)g(any)g(other)g(attack)f(form)h(and)h(all)f
+(active)g(defenses)g(can)g(be)150 2356 y(performed)9 b(against)f(it.)14
+b(If)9 b(the)f(fend)i(is)e(successful)h(and)g(the)f(attacker)g(chooses)g(to)g
+(ignor)o(e)150 2405 y(it)i(the)g(fend)h(does)e(1/2)h(normal)h(damage)e(for)i
+(the)f(weapon.)212 2455 y(If)17 b(a)g(character)g(that)f(has)h(closed)g(with)
+f(their)h(opponent)f(is)h(unarmed)g(they)g(may)150 2505 y(pr)o(oceed)11
+b(to)f(grapple,)h(to)e(thr)o(ow)l(,)i(or)f(to)g(overbear)m(.)212
+2555 y(If)k(the)f(defender)h(wishes)e(to)h(simply)g(r)o(etr)o(eat)g(they)g
+(may)g(do)g(so.)24 b(They)14 b(may)f(do)h(so)150 2605 y(by)e(r)o(olling)h(to)
+e(fend)h(of)o(f)g(the)f(closing)i(action)e(at)g(a)h(DF)g(+6.)21
+b(Of)11 b(course,)i(they)f(do)g(end)g(up)150 2654 y(moving)e(backwar)o(ds.)
+212 2704 y(If)j(an)g(attacker)f(has)g(been)h(closed)f(upon)h(they)f(may)h
+(choose)f(to)g(dr)o(op)h(their)g(curr)o(ent)150 2754 y(weapon)c(and)i(use)e
+(a)h(shorter)g(one,)g(they)g(may)g(choose)f(to)g(use)h(their)g(curr)o(ent)h
+(weapon)f(as)150 2804 y(if)g(it)g(wer)o(e)h(a)f(club,)h(or)g(they)f(may)f
+(attempt)g(to)g(r)o(etr)o(eat.)849 2938 y(33)p eop
+%%Page: 34 39
+bop 450 50 a Ft(34)679 b Fr(CHAPTER)11 b(5.)26 b(COMBA)m(T)11
+b(MECHANICS)450 174 y Fv(5.3.2)50 b(Calculating)12 b(Chances)h(to)f(Hit)450
+253 y Ft(The)j(attack)g(has)f(a)h(chance)h(to)e(hit)g(that)g(comes)h(fr)o(om)
+f(the)h(SC)g(of)g(the)f(weapon)g(and)h(is)450 303 y(modi\256ed)9
+b(by)f(the)h(DF)f(of)g(the)h(envir)o(onment)f(and)h(also)f(the)g(defense)g
+(of)g(the)h(person)f(being)450 353 y(attacked.)29 b(Melee)15
+b(weapons)e(base)i(all)f(their)i(attacks)d(on)i(PCA.)h(Missile)f(and)g(thr)o
+(own)450 403 y(weapons)9 b(base)h(all)g(their)g(attacks)f(on)i(ACC.)512
+453 y(Mental)k(actions)g(performed)g(against)g(inanimate)f(objects)h(is)g
+(based)g(on)g(FCS)h(and)450 502 y(mental)9 b(attacks)h(against)f(an)h(entity)
+g(ar)o(e)g(based)g(on)h(MCA.)450 624 y Fv(5.3.3)50 b(All)12
+b(out)g(attack)450 703 y Ft(A)c(character)h(may)f(choose)g(to)f(perform)h(an)
+g(all)g(out)g(attack)f(and)h(thus)g(gain)g(DF)g(+4)h(to)e(their)450
+752 y(attacks)j(and)h(lose)g(his)g(MDF)g(or)h(PDF)l(.)g(This)f(is)g(simply)g
+(an)g(extension)f(to)h(the)f(concept)i(of)450 802 y(applying)c(T)l(otal)f
+(Concentration)g(as)g(detailed)h(in)f(the)g(General)h(Play)f(Mechanics)i
+(chapter)m(.)450 923 y Fv(5.3.4)50 b(Advance)450 1002 y Ft(A)9
+b(character)g(may)e(choose)h(to)f(pr)o(ess)h(in)h(on)f(an)g(opponent.)14
+b(In)8 b(doing)h(so)e(they)h(gain)h(DF)f(+4)450 1052 y(to)j(all)g(of)o
+(fensive)g(actions)f(and)i(DF)g(-4)e(to)h(all)g(defensive)h(actions.)17
+b(This)12 b(is)f(only)g(possible)450 1102 y(if)f(the)g(attacker)g(has)g(a)g
+(weapon)f(of)h(gr)o(eater)h(or)f(equal)h(length)f(to)g(the)f(defender)m(.)450
+1223 y Fv(5.3.5)50 b(Called)12 b(Shots)450 1302 y Ft(In)h(any)g(physical)g
+(tar)o(geted)f(action)h(ther)o(e)g(is)f(the)h(potential)e(to)h(specify)h(the)
+f(location)h(of)450 1352 y(the)d(strike.)15 b(That)10 b(of)g(course)g
+(entails)g(DF)g(modi\256ers)h(to)e(the)h(action.)p 450 1415
+1441 12 v 927 1490 a(T)m(ABLE)26 b(5.1:)43 b(Called)25 b(Shot)927
+1540 y(Modi\256ers)p 927 1559 477 3 v 984 1607 a(T)l(ar)o(get)82
+b(Size)68 b(DF)1007 1657 y(Eye)105 b(1)10 b(sq\272)50 b(-18)989
+1706 y(Hand)229 b(-15)991 1756 y(Head)88 b(1)10 b(sq')59 b(-12)952
+1806 y(Leg/Arm)193 b(-9)989 1856 y(Chest)229 b(-6)p 927 1898
+V 450 1934 1441 12 v 450 2105 a Fv(5.3.6)50 b(Hit)13 b(Location)450
+2184 y Ft(The)e(tar)o(get)g(number)f(is)h(calculated,)h(the)e(r)o(oll)h(is)g
+(made.)16 b(If)11 b(the)f(attack)g(is)g(a)h(success)f(then)450
+2233 y(the)g(damage)g(is)g(applied)g(against)g(the)g(armour)g(and)h(then)f
+(the)g(tar)o(get.)512 2283 y(All)h(hits)f(ar)o(e)h(checked)g(against)e(the)h
+(hit)h(location)e(table.)512 2333 y(If)i(any)g(r)o(esult)g(on)f(the)h(Hit)f
+(Location)g(table)h(indicates)f(a)h(tar)o(get)f(for)h(which)h(ther)o(e)f(is)f
+(a)450 2383 y(right)i(and)f(a)g(left,)h(the)f(one's)f(value)i(of)f(the)g(die)
+g(r)o(oll)h(determines)f(the)g(side.)18 b(If)12 b(the)f(die)g(is)450
+2433 y(odd,)g(the)f(hit)g(was)f(against)g(the)g(left.)15 b(If)10
+b(the)g(die)g(is)g(even,)h(the)f(hit)f(was)h(against)f(the)g(right.)450
+2554 y Fv(5.3.7)50 b(Indirect)14 b(Fire)450 2633 y Ft(Indir)o(ect)9
+b(\256r)o(e)g(\(i.e.)15 b(a)8 b(Lob\))g(r)o(equir)o(es)h(an)f(additional)g
+(DF)h(-2.)14 b(Range)8 b(is)g(the)g(PST)g(in)h(meters.)p eop
+%%Page: 35 40
+bop 150 49 a Fr(5.4.)26 b(DAMAGE)1118 b Ft(35)150 174 y Fp(5.4)58
+b(Damage)150 277 y Fv(5.4.1)50 b(General)14 b(Notes)150 356
+y Ft(All)g(damage)e(is)h(calculated)h(and)f(then)g(applied)h(to)e(the)h
+(location)g(speci\256ed)g(by)g(the)g(hit)150 406 y(location)8
+b(table.)14 b(If)9 b(that)f(ar)o(ea)h(is)g(armor)o(ed)g(the)f(damage)h(is)f
+(\256rst)h(applied)g(to)f(that)g(armour)m(.)150 456 y(If)g(the)f(damage)h(is)
+f(gr)o(eat)h(enough)g(to)f(get)g(past)g(the)g(armour)m(,)i(the)e(damage)h(is)
+f(then)h(applied)150 506 y(against)k(the)h(appr)o(opriate)f(type)h(of)g
+(Fatigue)f(such)i(as)e(PFT)i(or)f(MFT)h(and)f(then)g(against)150
+555 y(the)d(PBD)h(or)f(MBD)h(of)f(the)g(entity)-5 b(.)212 605
+y(If)9 b(the)f(weapon)f(has)h(any)h(secondary)g(ef)o(fects)f(such)g(as)g
+(knockback)h(or)g(radiation)f(they)150 655 y(ar)o(e)j(applied)f(and)h
+(calculated.)150 776 y Fv(5.4.2)50 b(Critical)12 b(Damage)150
+855 y Ft(Any)e(attacks)e(that)h(cause)g(critical)h(damage)f(apply)g(the)g
+(additional)h(damage)f(to)f(the)h(PBD)150 905 y(or)h(MBD)i(after)d(armour)m
+(.)150 1026 y Fv(5.4.3)50 b(T)l(ypes)13 b(of)f(Damage)150 1105
+y Ft(Ther)o(e)i(ar)o(e)f(several)f(types)g(of)g(damage.)22
+b(Ther)o(e)14 b(is)e(Crushing,)i(Cutting,)g(Pier)o(cing,)h(Pr)o(o-)150
+1155 y(jectile,)f(Laser)m(,)g(Ener)o(gy)-5 b(,)16 b(and)e(explosive)f
+(damage.)23 b(Each)14 b(one)f(is)g(typically)g(associated)150
+1205 y(with)d(a)g(speci\256c)h(weapon)e(type.)150 1296 y(Crushing)i(Damage)
+111 b(Crushing)6 b(damage)g(is)g(damage)g(caused)g(by)g(low)g(speed)g(blunt)
+597 1346 y(weapons)j(such)i(as)e(a)h(club,)i(a)e(staf)o(f,)f(a)h(\256st,)g
+(or)h(a)f(chair)m(.)150 1429 y(Cutting)g(Damage)142 b(Cutting)8
+b(damage)g(is)g(caused)h(by)f(the)g(use)g(of)g(slicing)h(or)f(chop-)597
+1479 y(ping)j(motions)d(with)i(an)g(edge)h(weapon.)150 1562
+y(Pier)o(cing)h(Damage)132 b(Pier)o(cing)16 b(damage)d(is)h(caused)h(by)f
+(low)g(speed)g(pointed)g(ob-)597 1612 y(jects)9 b(entering)i(the)f(body)g
+(along)h(the)e(axis)i(of)f(the)g(point.)150 1695 y(Pr)o(ojectile)g(Damage)114
+b(Pr)o(ojectile)11 b(damage)g(is)g(caused)g(by)h(objects)e(moving)h(at)g
+(high)597 1744 y(speeds.)26 b(The)14 b(only)h(r)o(eal)f(dif)o(fer)o(ence)h
+(between)e(pier)o(cing)j(or)597 1794 y(crushing)21 b(and)f(pr)o(ojectile)g
+(damage)f(is)h(that)f(the)h(weapon)597 1844 y(moves)12 b(at)h(a)f(high)i
+(speed)f(and)g(imparts)f(a)h(high)h(amount)e(of)597 1894 y(kinetic)f(ener)o
+(gy)g(to)e(the)h(tar)o(get.)p 150 2000 1441 12 v 649 2075 a(T)m(ABLE)f(5.2:)
+14 b(Hit)7 b(Location)p 649 2094 432 3 v 695 2142 a(Roll)71
+b(Location)684 2192 y(01-06)59 b(Head)952 2177 y Fi(1)684 2241
+y Ft(07-30)g(Chest)684 2291 y(31-48)g(Abdomen)684 2341 y(49-56)g(Gr)o(oin)958
+2326 y Fi(2)684 2391 y Ft(57-72)g(Upper)11 b(Leg)684 2441 y(73-84)59
+b(Lower)10 b(Leg)684 2491 y(85-86)59 b(Foot)684 2541 y(87-92)g(Upper)11
+b(Arm)684 2590 y(93-98)59 b(Lower)10 b(Arm)674 2640 y(99-100)48
+b(Hand)p 649 2682 V 150 2719 1441 12 v eop
+%%Page: 36 41
+bop 450 50 a Ft(36)679 b Fr(CHAPTER)11 b(5.)26 b(COMBA)m(T)11
+b(MECHANICS)450 174 y Ft(Laser)f(Damage)183 b(Laser)19 b(damage)f(is)g
+(caused)h(by)f(optical)g(lasers.)40 b(Damage)897 224 y(caused)16
+b(by)f(non-optical)g(lasing)g(devices)i(such)f(as)e(Masers)897
+274 y(and)d(X\261lasers)e(is)h(classi\256ed)g(as)g(Ener)o(gy)h(damage.)450
+357 y(Ener)o(gy)h(Damage)151 b(Ener)o(gy)14 b(damage)e(\(abbr)o(ev)-5
+b(.)22 b(NRG\))13 b(is)f(typically)g(associated)897 407 y(with)e(non-optical)
+f(electr)o(omagnetic)h(weapons.)450 490 y(Explosive)h(Damage)103
+b(Explosive)12 b(damage)f(is,)i(quite)e(logically)-5 b(,)13
+b(caused)f(by)g(explo-)897 540 y(sions.)35 b(It)17 b(is)g(the)g(r)o(esult)g
+(of)g(a)g(expanding)h(wave)f(fr)o(ont)h(of)897 589 y(gasses)9
+b(or)h(minute)g(particles.)450 711 y Fv(5.4.4)50 b(Secondary)14
+b(ef)o(fects)450 790 y Ft(Ther)o(e)d(ar)o(e)g(several)f(types)f(of)h
+(secondary)g(ef)o(fects.)15 b(Ther)o(e)c(is)e(knockback,)j(bleeding,)f(and)
+450 839 y(Shock.)450 952 y Fu(Knockback)450 1031 y Ft(When)k(a)h(character)g
+(has)f(been)h(hit)f(by)h(a)f(something)f(with)h(lar)o(ge)h(amount)f(of)g
+(kinetic)450 1081 y(ener)o(gy)i(they)f(can)g(fall)g(down)g(or)g(lose)g(their)
+g(balance.)33 b(This)16 b(is)g(called)h(Knock-Back.)450 1131
+y(It)g(happens)h(when)f(mor)o(e)h(than)g(1/2)f(of)h(the)f(entities)g(PFT)h
+(or)g(1/4)g(of)f(their)h(PBD)g(is)450 1181 y(taken)c(away)g(in)h(a)g(single)f
+(crushing)h(or)g(pr)o(ojectile)g(strike.)28 b(It)14 b(can)h(also)f(happen)h
+(with)450 1231 y Fa(any)e Ft(explosive)f(attack.)21 b(The)13
+b(Knockback)g(r)o(esistance)f(r)o(oll)h(is)f(DF)h(-2.)21 b(If)12
+b(successful)g(the)450 1280 y(character)i(is)g(unaf)o(fected.)25
+b(If)14 b(failed)g(the)f(entity)g(has)g(fallen)h(to)f(the)g(gr)o(ound.)26
+b(The)15 b(stat)450 1330 y(basis)9 b(is)h(typically)h(PST)g(or)f(P)l(AG)h
+(whichever)g(is)f(gr)o(eater)m(.)450 1443 y Fu(Bleeding)450
+1522 y Ft(Bleeding)k(is)e(the)h(r)o(esult)g(of)f(a)h(cutting)f(or)h(pier)o
+(cing)i(attack)d(that)g(has)g(done)h(actual)f(PBD)450 1572
+y(damage.)k(The)11 b(Bleeding)g(r)o(esistance)f(r)o(oll)h(is)g(DF)g(-3.)k(If)
+c(failed)f(the)h(end)g(r)o(esult)f(is)g(1)h(point)450 1622
+y(of)f(PFT)h(loss)e(to)h(bleeding)h(per)f(20)g(pulses.)15 b(The)10
+b(stat)f(basis)h(is)g(PEN.)450 1735 y Fu(Shock)450 1814 y Ft(Shock)k(is)f
+(the)g(state)f(br)o(ought)i(on)f(by)h(massive)e(disruption)i(of)f(the)g
+(senses)f(or)i(nervous)450 1864 y(system)f(of)i(the)f(character)m(.)30
+b(Shock)15 b(ef)o(fects)f(range)h(fr)o(om)f(the)h(minor)g(\(startled\))e(to)h
+(the)450 1913 y(major)c(\(being)g(unconscious\).)512 1963 y(A)j(System)f
+(Shock)g(r)o(oll)i(is)e(necessary)g(when)h(an)g(attack)e(does)i(either)f(PBD)
+h(or)g(MBD)450 2013 y(damage)k(or)g(when)g(a)f(successful)h(attack)f(is)h
+(made)f(with)h(ener)o(gy)h(weapons)d(such)j(as)450 2063 y(Char)o(ged)10
+b(particle)f(or)g(T)m(ASER)h(weapons.)j(A)d(System)d(Shock)i(r)o(oll)h(is)e
+(made)h(against)f(PEN)450 2113 y(or)i(MEN.)p 450 2175 1441
+12 v 868 2251 a(T)m(ABLE)i(5.3:)k(System)9 b(Shock)h(Ef)o(fects)p
+784 2281 763 3 v 912 2328 a(Roll)153 b(Ef)o(fect)222 b(DF)808
+2378 y(Normal)11 b(Failur)o(e)50 b(Jolted/Startled)f(-2)826
+2428 y(Failed)11 b(by)f(25+)67 b(Stunned)172 b(-4)826 2478
+y(Failed)11 b(by)f(50+)67 b(Badly)11 b(Stunned)55 b(-6)826
+2528 y(Failed)11 b(by)f(75+)67 b(Unconscious)91 b(-)p 784 2570
+V 450 2606 1441 12 v eop
+%%Page: 37 42
+bop 150 50 a Fr(5.5.)26 b(DEFENSES)1102 b Ft(37)150 175 y Fp(5.5)58
+b(Defenses)150 278 y Fv(5.5.1)50 b(Rolling)11 b(with)i(the)f(blow)150
+357 y Ft(The)d(act)g(of)f(r)o(olling)i(with)e(the)h(blow)f(involves)h(an)g
+(attempt)e(to)h(take)g(the)h(allotted)f(damage)150 407 y(but)13
+b(absorb)f(it)h(in)h(such)f(a)g(way)g(that)f(the)h(normal)g(secondary)h(ef)o
+(fects)e(such)i(as)e(stun)h(or)150 457 y(knockback)e(do)f(not)g(take)g(ef)o
+(fect.)15 b(The)10 b(action)g(r)o(equir)o(es)i(no)e(time)g(but)f(does)h(r)o
+(equir)o(e)i(that)150 507 y(the)f(defender)i(be)e(awar)o(e)g(of)g(the)h
+(attack)e(and)i(declar)o(e)h(that)d(he)i(wishes)f(to)f(r)o(oll)i(with)f(the)
+150 556 y(attack.)j(The)9 b(base)f(r)o(oll)h(goes)f(against)g(P)l(AG)h(for)f
+(physical)h(attacks)e(and)i(MAG)g(for)g(mental)150 606 y(attacks.)14
+b(It)8 b(adds)i(DF)f(+5)g(to)g(the)g(System)f(Shock)h(r)o(oll)h(if)f(any)g
+(is)g(made.)15 b(The)9 b(act)g(of)g(r)o(olling)150 656 y(with)h(the)g(blow)f
+(causes)h(a)g(r)o(er)o(oll)i(of)d(initiative.)150 774 y Fv(5.5.2)50
+b(Normal)13 b(Defense)150 853 y Ft(Ther)o(e)h(ar)o(e)g(a)f(number)h(of)f
+(forms)f(of)h(active)h(defense.)24 b(All)14 b(entities,)f(if)h(they)f(ar)o(e)
+g(awar)o(e)150 903 y(of)d(an)h(attack,)f(may)g(apply)g(their)h(normal)f
+(defense)g(against)g(that)g(attack.)15 b(This)c(does)f(not)150
+952 y(count)g(as)g(an)g(action)g(!)150 1070 y Fv(5.5.3)50 b(Retreating)150
+1149 y Ft(A)15 b(character)g(may)f(choose)g(to)g(r)o(etr)o(eat)g(any)g(time)g
+(they)g(have)h(the)f(initiative)g(to)g(do)g(so.)150 1199 y(A)d(r)o(etr)o(eat)
+g(may)g(be)g(performed)g(simultaneously)e(with)i(any)g(other)f(action)h(at)f
+(no)h(mods.)150 1249 y(Retr)o(eat)c(will)h(add)g(DF)h(+6)f(to)f(any)h
+(defensive)g(action)g(and)g(DF)g(-6)g(to)f(any)h(of)o(fensive)g(action.)150
+1367 y Fv(5.5.4)50 b(Evasion)150 1446 y Ft(Evasion)11 b(involves)f(the)h
+(active)f(avoidance)h(of)f(incoming)h(attacks.)j(For)d(as)f(long)g(as)g(a)g
+(PC)150 1495 y(is)g(avoiding)g(an)g(attack)g(or)g(series)f(of)h(attacks)e
+(their)j(defense)e(is)h(2)e Fj(\002)h Fs(P)d(D)q(F)g(or)q(M)f(D)q(F)h
+Ft(.)15 b(The)150 1545 y(character)10 b(need)f(only)g(declar)o(e)i(that)d
+(they)h(ar)o(e)g(evading)h(and)f(it)g(takes)f(ef)o(fect)h(at)f(their)h
+(\256rst)150 1595 y(action)f(point.)15 b(Of)8 b(course)g(the)h(character)g
+(can)g(perform)g(other)f(actions)g(at)g(the)g(same)g(time)150
+1645 y(but)13 b(they)h(will)f(be)h(consider)o(ed)h(as)e(\257or)o(entine)h
+(actions.)24 b(The)15 b(character)f(is)g(at)f(a)g(DF)h(+3)150
+1695 y(when)c(performing)h(a)f(dodge)h(fr)o(om)f(an)g(evading)h(state.)150
+1812 y Fv(5.5.5)50 b(Dodging)150 1891 y Ft(Dodging)10 b(is)f(an)h(extension)e
+(of)h(the)g(normal)h(defensive)f(technique)h(of)f(getting)g(out)f(of)h(the)
+150 1941 y(way)-5 b(.)18 b(Dodging)13 b(implies)d(that)h(the)g(PC)h(is)f
+(actively)h(thr)o(owing)f(himself)g(out)g(of)g(the)g(path)150
+1991 y(of)j(an)h(attack.)27 b(Dodging)15 b(takes)f(5)g(pulses)g(to)g(start,)h
+(10)f(pulses)g(of)g(movement,)h(and)g(5)150 2041 y(pulses)c(of)h
+(deceleration.)20 b(A)13 b(Dodge)f(leaves)g(the)f(character)i(in)g(the)e(act)
+h(of)g(a)f(contr)o(olled)150 2091 y(fall.)k(A)9 b(skilled)g(individual)i(may)
+d(r)o(oll)i(to)e(acr)o(obatically)i(r)o(ecover)m(.)16 b(A)9
+b(dodging)h(character)150 2140 y(has)j(2)e Fj(\002)g Fs(P)6
+b(D)q(F)19 b Ft(during)14 b(the)f(\256rst)g(part)h(of)f(the)g(dodge,)i(3)10
+b Fj(\002)h Fs(P)6 b(D)q(F)19 b Ft(during)c(the)e(second)150
+2190 y(part)d(of)g(the)g(dodge)h(and)f(normal)g(PDF)h(for)f(the)g(r)o
+(ecovery)i(portion)e(of)g(the)g(dodge.)150 2308 y Fv(5.5.6)50
+b(Dropping)14 b(Prone)150 2387 y Ft(A)c(specialized)g(form)g(of)f(Dodge)i
+(that)e(only)h(works)f(within)h(a)g(str)o(ong)g(gravity)g(\256eld.)16
+b(It)9 b(is)150 2437 y(a)h(5)g(pulse)g(action)g(that)f(leaves)h(the)g
+(character)h(in)g(a)f(pr)o(one)g(position.)k(During)e(the)d(action)150
+2487 y(the)j(character)i(has)e(a)g(defense)g(of)g(3)f Fj(\002)f
+Fs(P)c(D)q(F)18 b Ft(Once)13 b(down)f(the)h(character)g(has)f(1/2)g(the)150
+2536 y(normal)e(PDF)l(.)h(30)f(pulses)g(ar)o(e)g(r)o(equir)o(ed)j(to)c(get)h
+(back)h(up.)150 2654 y Fv(5.5.7)50 b(Crouching)150 2733 y Ft(Cr)o(ouching)10
+b(down)e(can)h(be)f(used)g(as)g(a)g(one)g(time)g(evasive)g(maneuver)h
+(against)e(an)h(incom-)150 2783 y(ing)k(attack.)17 b(It)11
+b(is)g(a)g(\256ve)h(pulse)f(action)g(that)f(gives)i(2)d Fj(\002)h
+Fs(P)c(D)q(F)17 b Ft(against)10 b(the)h(attack.)18 b(This)150
+2833 y(is)10 b(in)h(lieu)f(of)g(full)g(evasion.)p eop
+%%Page: 38 43
+bop 450 50 a Ft(38)679 b Fr(CHAPTER)11 b(5.)26 b(COMBA)m(T)11
+b(MECHANICS)450 174 y Fv(5.5.8)50 b(Parrying)450 253 y Ft(Parrying)13
+b(an)g(attack)e(involves)i(r)o(edir)o(ecting)h(an)e(attacker)s('s)f(weapon)h
+(with)f(the)h(charac-)450 303 y(ter)s('s)c(own.)14 b(A)c(parry)f(is)g(done)g
+(with)g(a)g(shield)g(or)g(weapon.)14 b(DF)9 b(-3,)g(SB)h(=)f(Wpn)g(SB,)g
+(Speed)450 353 y(as)i(per)g(1/2)g(weapon)f(speed.)18 b(DF)11
+b(-5)g(against)f(Thr)o(own,)j(DF)e(-10)g(against)f(Pr)o(ojectile,)i(DF)450
+403 y(-20)e(against)f(NRG.)i(This)f(is)g(simply)g(a)g(skill)h(opposition)d(r)
+o(oll.)450 516 y Fu(Binding)j(W)m(eapons)450 595 y Ft(If)e(a)h(defender)g
+(succeeds)f(in)h(a)f(parry)i(by)e(less)g(than)g(5\045)g(the)g(two)f(weapons)g
+(ar)o(e)i(assumed)450 644 y(to)i(have)g(become)g(\252Bound\272)h(and)g(the)f
+(attacker)f(has)h(advanced)i(on)e(the)g(defender)m(.)22 b(See)450
+694 y(rules)13 b(on)g(advance.)24 b(The)13 b(defender)h(may)f(r)o(oll)g(at)g
+(their)g(next)g(initiative)f(to)h(r)o(elease)f(the)450 744
+y(weapon.)i(This)d(is)f(a)g(skill)h(opposition)d(r)o(oll.)450
+857 y Fu(Overrunning)450 936 y Ft(If)17 b(the)f(attacker)h(fails)f(to)g
+(avoid)h(a)g(parry)g(by)g(mor)o(e)g(than)g(25\045)f(then)h(the)f(attacker)g
+(is)450 986 y(ef)o(fectively)d(of)o(f)f(balance)h(and)g(is)g(subject)f(to)g
+(DFs)g(just)g(as)g(if)h(they)f(had)h(failed)g(a)g(system)450
+1036 y(shock)d(r)o(oll.)450 1157 y Fv(5.5.9)50 b(Block)450
+1236 y Ft(A)14 b(block)g(is)f(an)h(attempt)d(to)i(use)g(a)g(weapon)g(or)h(a)f
+(shield)h(to)f(pr)o(ovide)i(addition)e(armor)450 1286 y(against)7
+b(damage.)14 b(DF)9 b(-2.)14 b(If)8 b(the)f(block)i(is)f(successful)f(the)h
+(defender)h(r)o(olls)f(damage)g(with)450 1335 y(the)14 b(weapon)f(and)h(can)g
+(apply)g(that)f(damage)g(as)h(armor)m(.)26 b(Speed)14 b(as)f(per)h(1/2)g
+(weapon)450 1385 y(speed.)450 1507 y Fv(5.5.10)50 b(Disarm)450
+1585 y Ft(DF)11 b(=)f(-4,)g(Skill)h(opposition)e(r)o(oll.,)i(Speed)g(as)e
+(per)i(weapon)e(speed.)450 1728 y Fp(5.6)58 b(Fancy)14 b(Maneuvers)450
+1831 y Fv(5.6.1)50 b(Spinning)450 1910 y Ft(Any)12 b(action)f(performed)g
+(while)g(spinning)h(has)f(a)g(DF)g(-2,)h(a)f(damage)g(modi\256er)g(of)g(1)p
+Fs(:)p Ft(5)e Fj(\002)450 1960 y Fs(N)c(or)q(mal)12 b(D)q(amag)q(e)p
+Ft(,)g(and)f(is)f(1.5)g(times)f(slower)h(than)g(a)g(normal)g(attack.)450
+2081 y Fv(5.6.2)50 b(Jumping)450 2160 y Ft(A)11 b(jumping)f(attack)f(is)h(as)
+g(per)h(spinning)f(with)g(a)g(DF)h(-3.)p 450 2233 1441 12 v
+834 2309 a(T)m(ABLE)h(5.4:)j(Melee)c(Combat)e(modi\256ers)p
+802 2328 727 3 v 826 2376 a(Spinning)51 b(DF)10 b(-2)g(DAM)h(1.5*)g(SPD)f
+(1.5*)826 2426 y(Jumping)57 b(DF)10 b(-3)g(DAM)h(1.5*)g(SPD)f(1.5*)p
+802 2467 V 450 2504 1441 12 v eop
+%%Page: 39 44
+bop 150 50 a Fr(5.7.)26 b(CLOSE)11 b(CONFLICT)953 b Ft(39)150
+174 y Fv(5.6.3)50 b(Feint)150 253 y Ft(A)9 b(feint)f(is)g(used)h(to)f
+(distract)g(an)g(opponent)g(or)h(to)f(trigger)h(an)f(opponents)f(pr)o(eset)h
+(actions.)212 303 y(The)16 b(main)f(thing)g(to)g(r)o(emember)g(that)f(a)h
+(feint)g(is,)h(in)g(ef)o(fect,)g(a)f(deception)g(r)o(oll.)30
+b(It)150 353 y(involves)14 b(a)f(weapon)f(skill)i(r)o(oll)g(to)e(convince)j
+(the)e(other)g(individual)i(that)d(an)i(attack)e(is)150 403
+y(being)g(made.)18 b(The)11 b(feint)g(r)o(oll)h(takes)e(a)i(DF)f(-6.)18
+b(All)12 b(who)f(ar)o(e)g(within)g(range)h(may)f(r)o(oll)h(to)150
+453 y(save)e(against)f(being)i(fooled)f(by)g(the)g(feint.)212
+502 y(This)k(is)g(consider)o(ed)h(an)f(opposing)f(skill)g(r)o(oll)i(so)e(the)
+g(amount)g(the)g(feinted)h(makes)150 552 y(their)c(r)o(oll)h(by)g(is)f
+(subtracted)g(fr)o(om)g(the)g(feintee's)f(per)o(ception)h(r)o(oll.)150
+695 y Fp(5.7)58 b(Close)15 b(Con\257ict)150 789 y Ft(Once)e(someone)e(has)i
+(closed)g(to)f(within)g(arms)h(r)o(each)g(they)g(may)f(choose)h(to)f(do)h
+(any)g(of)150 839 y(the)d(following.)150 960 y Fv(5.7.1)50
+b(Overbear)150 1039 y Ft(An)8 b(overbear)h(is)e(simply)h(performed)f(by)h
+(closing)g(with)g(an)g(opponent)e(and)j(then)e(making)150 1089
+y(a)15 b(normal)g(attack)g(using)g(SB=PCA.)i(Like)f(any)g(other)f(attack)g
+(it)g(may)g(be)g(r)o(epulsed)h(or)150 1139 y(actively)11 b(counter)o(ed.)212
+1189 y(The)g(gain)e(for)h(such)g(an)g(attack)f(is)g(to)g(have)h(the)g
+(opponent)f(on)g(the)h(gr)o(ound.)16 b(Damage)150 1239 y(for)10
+b(an)h(overbear)f(attack)g(is)g(simply)g(equal)g(to)g(the)g(attackers)f(PSE.)
+150 1360 y Fv(5.7.2)50 b(Throw)150 1439 y Ft(A)15 b(thr)o(ow)e(is)h(simply)g
+(performed)g(by)g(closing)h(with)e(an)i(opponent)e(and)h(then)g(making)150
+1489 y(a)h(normal)g(attack)g(using)g(SB=PCA.)i(Like)f(any)g(other)f(attack)g
+(it)g(may)g(be)g(r)o(epulsed)h(or)150 1538 y(actively)11 b(counter)o(ed.)212
+1588 y(The)g(gain)e(for)h(such)g(an)g(attack)f(is)g(to)g(have)h(the)g
+(opponent)f(on)g(the)h(gr)o(ound.)16 b(Damage)150 1638 y(for)10
+b(a)g(thr)o(ow)g(attack)g(is)g(simply)g(equal)g(to)g(the)g(attackers)f
+Fs(P)d(S)r(E)12 b Fj(\002)d Ft(2.)15 b(DF)c(-5.)150 1759 y
+Fv(5.7.3)50 b(Grapple)150 1838 y Ft(A)13 b(grapple)g(is)f(simply)h(an)f
+(attempt)f(to)h(get)g(a)h(hand)g(hold)g(on)f(the)h(opponent.)21
+b(It)12 b(is)h(like)150 1888 y(any)d(other)g(attack)g(in)g(that)g(it)g(may)g
+(be)g(counter)o(ed)h(normally)-5 b(.)212 1938 y(A)9 b(successful)e(grapple)h
+(gives)h(a)e(DF)i(+5)f(modi\256er)g(to)f(any)h(other)g(close)g(combat)f
+(attack)150 1988 y(such)k(as)e(thr)o(ow)l(,)i(overbear)m(,)g(and)g(any)f
+(attempts)e(to)h(incr)o(ease)i(the)f(hold.)150 2109 y Fv(5.7.4)50
+b(Hold)150 2188 y Ft(A)10 b(hold)h(is)e(initiated)h(by)g(a)f(grapple)h
+(action)g(and)g(the)g(initial)g(str)o(ength)f(of)h(a)f(hold)i(is)e(given)150
+2238 y(by)j(the)g(SN)g(of)f(the)h(grapple.)20 b(If)12 b(the)f(attempt)f(to)h
+(hold)h(or)g(immobilize)f(someone)g(is)g(the)150 2288 y(sole)k(aim)h(of)f
+(the)h(attack)f(then)g(the)h(attacker)f(may)g(choose)h(to)f(impr)o(ove)h(the)
+g(hold)g(by)150 2337 y(r)o(olling)c(again.)k(For)c(each)f(attempt)d(to)j
+(impr)o(ove)g(the)f(hold)h(the)g(attacker)f(may)h(only)g(add)150
+2387 y(1/2)i(of)f(the)h(SN)g(of)g(the)g(r)o(oll.)24 b(No)13
+b(hold)g(may)g(be)g(gr)o(eater)g(in)h(str)o(ength)e(than)h(5)g(*)g(PST)h(of)
+150 2437 y(the)e(holder)m(.)20 b(The)13 b(opponent)e(may)g(r)o(educe)j(the)d
+(str)o(ength)h(of)f(a)h(hold)h(by)f(the)f(SN)h(of)g(any)150
+2487 y(grapple)e(skill)h(r)o(olls)f(he)h(makes.)p eop
+%%Page: 40 45
+bop 450 50 a Ft(40)679 b Fr(CHAPTER)11 b(5.)26 b(COMBA)m(T)11
+b(MECHANICS)p eop
+%%Page: 41 46
+bop 150 486 a Fq(Chapter)19 b(6)150 693 y Fw(NPC-PC)27 b(Interaction)150
+934 y Fp(6.1)58 b(Outline)150 1028 y Ft(This)11 b(chapter)f(discusses)g(the)g
+(rules)g(for)h(the)f(various)g(ways)g(that)f(the)h(player)h(characters)150
+1078 y(may)f(interact)g(with)g(non-player)g(characters.)150
+1221 y Fp(6.2)58 b(Reaction)15 b(Rolls)150 1316 y Ft(A)c(r)o(eaction)h(r)o
+(oll)f(is)g(a)g(r)o(oll)g(made)g(to)f(determine)h(a)g(Non)g(player)h
+(character)s('s)f(r)o(eaction)g(to)150 1365 y(some)e(action)h(on)g(the)g
+(part)g(of)g(a)g(PC)h(or)g(NPC.)g(It)f(should)h(never)g(be)f(r)o(olled)h(by)f
+(a)h(PC.)212 1415 y(A)i(Reaction)g(Roll)f(upon)h(encountering)g(a)g(PC)g(for)
+g(the)f(\256rst)h(time)f(has)g(horr)o(endous)150 1465 y(numbers)k(of)h
+(variables)f(attached)h(to)f(it)g(but)g(as)g(a)h(rule)g(of)f(thumb)g(the)g(r)
+o(oll)h(is)g(DF)g(0,)150 1515 y(SB=GA)m(W)10 b(with)g(a)g(gain)g(of)g
+(getting)g(the)g(NPCs)h(basic)f(r)o(espect.)150 1657 y Fp(6.3)58
+b(Presence)150 1752 y Ft(Pr)o(esence)10 b(is)e(the)h(outwar)o(d)f(r)o
+(e\257ection)i(of)e(an)h(person's)f(awar)o(eness)g(of)h(his)f(envir)o
+(onment.)150 1802 y(It)13 b(is)g(also)f(known)h(as)g(Aura)h(and)f(Charisma.)
+24 b(Pr)o(esence)14 b(is)f(usually)g(the)g(end)g(r)o(esult)h(of)150
+1852 y(the)e(player)s('s)g(r)o(ole)g(playing)h(but)f(it)g(can)h(be)f
+(enhanced)h(by)g(the)f(intentional)f(decision)i(to)150 1901
+y("make)d(an)g(entrance")h(or)g("make)f(an)g(impr)o(ession".)212
+1951 y(T)l(o)15 b(do)g(so)e(the)i(character)g(must)e(decide)j(whether)e(he)g
+(wishes)g(to)g(make)f(a)i(general)150 2001 y(attempt)7 b(at)i(establishing)f
+(a)i(pr)o(esence)g(or)f(whether)g(he)h(wants)e(to)h(establish)f(himself)g(as)
+h(a)150 2051 y(physical)j(or)g(mental)f(personality)g(of)g(note.)19
+b(Remember)11 b(that)f(Albert)i(Schwietzer)g(had)150 2101 y(as)e(much)g(of)g
+(a)g(pr)o(esence)h(as)f(Darth)g(V)l(ader)m(.)212 2150 y(The)h(actual)f(pr)o
+(esence)h(r)o(oll)h(is)e(made)g(at)g(an)g(DF-3,)h(SB)g(=)g(GA)m(W)f(or)g(P)l
+(A)m(W)h(or)f(MA)m(W)h(or)150 2200 y(any)j(other)f(statistic)f(depending)j
+(on)f(the)f(type)g(of)h(pr)o(esence)g(the)f(character)i(wishes)e(to)150
+2250 y(establish.)150 2393 y Fp(6.4)58 b(Morale)150 2487 y
+Ft(Morale)10 b(r)o(olls)g(ar)o(e)g(typically)g(made)g(when)g(an)g(NPC)h(r)o
+(ealizes)e(that)g(a)h(con\257ict)h(\()e(physical,)150 2537
+y(Mental,)20 b(or)d(verbal)h(\))g(is)f(not)g(going)h(as)f(planned.)38
+b(At)17 b(that)g(point,)i(usually)e(after)g(a)150 2587 y(per)o(ception)10
+b(r)o(oll,)h(the)f(NPC)h(has)e(to)g(make)h(a)f(morale)h(r)o(oll.)15
+b(Morale)10 b(r)o(olls)h(ar)o(e)f(SB)g(=)g(GA)m(W)l(,)150 2637
+y(MA)m(W)l(,)h(P)l(A)m(W)l(.)849 2938 y(41)p eop
+%%Page: 42 47
+bop 450 413 a Fw(Index)450 623 y Fv(A)450 673 y Ft(Acceleration,)11
+b(28)450 722 y(Actions,)g(24)450 819 y Fv(C)450 868 y Ft(Concealment,)f(29)
+450 964 y Fv(D)450 1014 y Ft(Deception,)g(29)450 1064 y(Detection,)g(29)450
+1114 y(Dif)o(\256culty)h(Factor,)g(25)450 1210 y Fv(F)450 1260
+y Ft(Filter)f(Skills,)h(27)450 1310 y(Flor)o(entine,)g(26)450
+1406 y Fv(G)450 1456 y Ft(Gaining)f(Skills,)h(22)450 1552 y
+Fv(I)450 1602 y Ft(Initiative,)f(23)450 1698 y Fv(L)450 1747
+y Ft(Learning)h(Rolls,)f(22)450 1844 y Fv(M)450 1893 y Ft(Mental)g(Movement,)
+g(28)450 1990 y Fv(P)450 2039 y Ft(Passive)g(Per)o(ception)h(Roll,)f(23)450
+2089 y(Per)o(ception,)h(23)450 2139 y(per)o(ception)g(r)o(oll,)g(23)450
+2189 y(Physical)g(Movement,)f(28)450 2239 y(Player)h(Character,)g(7)450
+2288 y(Pr)o(eset)f(Reactions,)g(24)450 2338 y(pulse,)g(23)450
+2434 y Fv(S)450 2484 y Ft(Set-up,)g(26)450 2534 y(Simultaneous)f(Actions,)h
+(26)450 2584 y(skill,)h(21)450 2634 y(Skill)f(Use,)h(21)450
+2683 y(Skills,)f(21)450 2733 y(Filter,)h(27)450 2783 y(statistics,)e(7)450
+2833 y(Stealth,)g(29)1243 623 y Fv(T)1243 673 y Ft(Results,)g(25)1243
+722 y(T)l(ask)h(Dif)o(\256culty,)h(25)1243 772 y(T)l(asks,)f(25)1243
+822 y(T)n(ime,)g(23)1243 872 y(T)n(ime)g(Scale,)h(23)1243 922
+y(T)l(raining,)h(22)1243 1021 y Fv(U)1243 1071 y Ft(unranked,)f(21)1149
+2938 y(42)p eop
+%%Trailer
+end
+userdict /end-hook known{end-hook}if
+%%EOF

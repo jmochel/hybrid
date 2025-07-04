@@ -1,0 +1,155 @@
+h37379
+s 00127/00000/00000
+d D 1.1 99/12/02 15:39:21 jmochel 2 1
+cC
+cK63904
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:39:16 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/deste.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44876
+cPCampaign/Karban/npc/deste.npc
+cReb4785f75cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Marizio Deste
+.Nomen  Title First-In Scout
+.Species Base:Sub:Sub
+.Gender Male
+.Culture Base:Sub:Sub
+.BeginStats
+.PST 14
+.PEN 15
+.DEX 24
+.PAG 23
+.PAW 17
+.MST 14
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 12
+.HT 
+.WT
+.AGE
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build Lithe
+.Bone Medium
+.Tone Excellent
+.Text
+.EndFrame
+
+.BeginHair
+.Length 
+.Color
+.Texture
+.Style
+.Curl
+.Ornament 
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament Gold Earring in left ear
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark 
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix Black
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+Tends to by somewhat absurd but with a dry sense of humor
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+
+E 2
+I 1
+E 1

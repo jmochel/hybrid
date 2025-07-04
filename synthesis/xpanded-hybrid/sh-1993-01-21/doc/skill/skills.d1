@@ -1,0 +1,724 @@
+.Title Miscellaneous Skills
+
+.BeginSkill	Accounting
+.BaseType TS
+.Interaction U
+.Implementation CT
+.StatBasis		FCS
+.BeginDesc
+The technical study of the tracking of financial transactions
+.EndDesc
+.BeginDF
+7 Balance a set of properly kept books
+.EndDF
+.EndSkill
+
+.BeginSkill Appraisal
+.BaseType ENG
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+The discipline involving the evaluation and determination of the worth of 
+an item.
+.EndDesc
+.BeginDF
+7 Evaluate the currrent value of an item
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Bribery
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+7 Determine a persons price
+.EndDF
+.EndSkill
+
+.BeginSkill	Business Administration
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+5 Determine the most profitable market to pursue
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Cartography
+.BaseType CFT
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Clerical Studies
+.BaseType (,,)
+.StatBasis FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill	Confiscation
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Cryptograhy			  
+.BaseType SCI
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Debate
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill	Diplomacy
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Disguise:(Psionic)
+.BaseType CFT
+.Interaction U
+.Implementation ST
+.StatBasis		PSI
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Disguise:(General)
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis	MCA+FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Disguise:(Verbal)
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Disguise:(Visual)
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Dry Art
+.BaseType ART
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Elocution
+.BaseType MD
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Forgery
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis	FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Gambling
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill	Holography
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill	Hypnotism
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Impersonation
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Infiltration
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Instrumental Music
+.BaseType ART
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Interrogation
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Investigation
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Journalism
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Language:(Specify)
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis	FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Law:(Business)
+.BaseType TS 
+.Interaction AS
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Law:(Patent)
+.BaseType TS 
+.Interaction AS
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Law:(Criminal)
+.BaseType TS 
+.Interaction AS
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Logic
+.BaseType MD 
+.Interaction UN
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Mime
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Office Technical Systems
+.BaseType TS
+.Interaction U
+.Implementation ST
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Philosophical Anthropology
+.BaseType SCI
+.Interaction UN
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Philosophy
+.BaseType MD
+.Interaction UN
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Pilot/craft
+.BaseType TS 
+.Interaction UN
+.Implementation CT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Prevarication	
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Presence:(Mental)
+.BaseType MD
+.Interaction UN
+.Implementation NT
+.StatBasis		MAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill Presence:(Physical)
+.BaseType MD
+.Interaction UN
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill Presence:(General)
+.BaseType MD
+.Interaction UN
+.Implementation NT
+.StatBasis		GAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+
+.BeginSkill	Reconnasciance
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+
+.BeginSkill	Sculpture
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA+PDX
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Security Devices
+.BaseType TS 
+.Interaction UN
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Singing
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MCA+FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Songwriting
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Stealth:(Aural)
+.BaseType PD
+.Interaction U
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Stealth:(General)
+.BaseType PD
+.Interaction U
+.Implementation NT
+.StatBasis		GAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Stealth:(Olfactory)
+.BaseType PD
+.Interaction U
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Stealth:(Psionic) 
+.BaseType MD
+.Interaction U
+.Implementation NT
+.StatBasis		MAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Stealth:(Tactile)
+.BaseType PD
+.Interaction U
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Stealth:(Visual)
+.BaseType PD
+.Interaction U
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Survival:(Environment)
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		PAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Tailing
+.BaseType MD
+.Interaction U
+.Implementation NT
+.StatBasis		GAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Teaching
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MST
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Theatre
+.BaseType ART
+.Interaction U
+.Implementation NT
+.StatBasis GAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Theft
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		DEX
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Theology
+.BaseType MD
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Tracking
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		GAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Trading
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		MAG
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Vehicle:(Specify Vehicle)
+.BaseType TS
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill	Writing
+.BaseType CFT
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+

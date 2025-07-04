@@ -1,0 +1,11 @@
+           List of relations
+         Name         | Type  |  Owner  
+----------------------+-------+---------
+ sc_system            | table | jmochel
+ sc_system_components | table | jmochel
+ sc_system_location   | table | jmochel
+ sc_system_names      | table | jmochel
+ sc_system_visuals    | table | jmochel
+ sc_systems           | table | jmochel
+(6 rows)
+

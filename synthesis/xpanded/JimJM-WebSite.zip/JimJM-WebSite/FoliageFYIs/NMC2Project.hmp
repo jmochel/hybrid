@@ -1,0 +1,95 @@
+SQPStream 1 38 true true false {file} {} {} {} 0 {/////Foliage3/J/Java/j2sdkee1_2-doc-win.exe} {} {} true {file://///Foliage3/J/Java/j2sdkee1_2-doc-win.exe} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2J2EE.htm} {} {} true {NMC2J2EE.htm} {} false 8823144 
+2 {} 956252552 7672901 {application/x-msdownload} {} {} {} {} {} 0 {} {} {} false {} {} false true true false {file} {} {} {} 0 {/////Foliage3/J/Java/j2sdkee1_2-win.exe} {} {} true {file://///Foliage3/J/Java/j2sdkee1_2-win.exe} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2J2EE.htm} {} {} true {NMC2J2EE.htm} {} false 8823144 
+2 {} 956252332 12051731 {application/x-msdownload} {} {} {} {} {} 0 {} {} {} false {} {} false true true false {file} {} {} {} 0 {/////Foliage3/J/Java/jdk-1_2_2_006-win.exe} {} {} true {file://///Foliage3/J/Java/jdk-1_2_2_006-win.exe} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+2 {} 964449856 20485117 {application/x-msdownload} {} {} {} {} {} 0 {} {} {} false {} {} false true true false {file} {} {} {} 0 {/////Foliage3/J/Java/jdk1_2_2-001-doc.zip} {} {} true {file://///Foliage3/J/Java/jdk1_2_2-001-doc.zip} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+2 {} 958398250 17628120 {application/x-zip-compressed} {} {} {} {} {} 538976288 {} {} {} false {} {} true true true false {file} {} {} {} 0 {/////Foliage3/J/Java/jdk1_2_2-src.zip} {} {} true {file://///Foliage3/J/Java/jdk1_2_2-src.zip} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+2 {} 958398368 24824855 {application/x-zip-compressed} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.01/jdk122debug.zip} {} {} true {file://///Longshot/Installs/Kawa/4.01/jdk122debug.zip} {} false 3 3 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 8823144 
+4 {File does not exist} 0 0 {application/x-zip-compressed} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.01/kinst401a.exe} {} {} true {file://///Longshot/Installs/Kawa/4.01/kinst401a.exe} {} false 3 3 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 8823144 
+4 {File does not exist} 0 0 {application/x-msdownload} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.10a%20Upgrade/kup41a.exe} {} {} true {file://///Longshot/Installs/Kawa/4.10a Upgrade/kup41a.exe} {} false 3 3 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 8823144 
+4 {File does not exist} 0 0 {application/x-msdownload} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/ActiveXEmbeddedScripting.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\ActiveXEmbeddedScripting.htm} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/FoliageLogo.jpg} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\FoliageLogo.jpg} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/KawaKeyAndCode.txt} {} {} true {KawaKeyAndCode.txt} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 8823144 
+2 {} 965415861 1289 {text/plain} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/Make%20the%20NMC2%20Jar.kcx} {} {} true {Make%20the%20NMC2%20Jar.kcx} {} false 3 0 0 
+0 0 2 {} 965311496 555 {text/plain} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2General.htm} {} {} true {NMC2General.htm} {} false 1 0 0 
+2 {http} {} {} {foliage4.bedford.foliage.com} 0 {/sqa.html} {} {} true {http://foliage4.bedford.foliage.com/sqa.html} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds/p12c07.gif} {} {} true {images/backgrounds/p12c07.gif} {} false 4668238 
+2 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Project.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\NMC2Project.htm} {} false 8823144 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 965306048 938 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2J2EE.htm} {} {} true {NMC2J2EE.htm} {} false 2 0 0 
+3 {file} {} {} {} 0 {/////Foliage3/J/Java/j2sdkee1_2-win.exe} {} {} true {file://///Foliage3/J/Java/j2sdkee1_2-win.exe} {} false 4668238 
+{file} {} {} {} 0 {/////Foliage3/J/Java/j2sdkee1_2-doc-win.exe} {} {} true {file://///Foliage3/J/Java/j2sdkee1_2-doc-win.exe} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds/p12c07.gif} {} {} true {images/backgrounds/p12c07.gif} {} false 4668238 
+1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 966779624 926 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 2 0 0 
+6 {file} {} {} {} 0 {/////Foliage3/J/Java/jdk-1_2_2_006-win.exe} {} {} true {file://///Foliage3/J/Java/jdk-1_2_2_006-win.exe} {} false 4668238 
+{http} {} {} {java.sun.com} 0 {/products/jdk/1.2/download-windows.html} {} {} true {http://java.sun.com/products/jdk/1.2/download-windows.html} {} false 4668238 
+{file} {} {} {} 0 {/////Foliage3/J/Java/jdk1_2_2-001-doc.zip} {} {} true {file://///Foliage3/J/Java/jdk1_2_2-001-doc.zip} {} false 4668238 
+{http} {} {} {java.sun.com} 0 {/products/jdk/1.2/download-docs.html} {} {} true {http://java.sun.com/products/jdk/1.2/download-docs.html} {} false 4668238 
+{file} {} {} {} 0 {/////Foliage3/J/Java/jdk1_2_2-src.zip} {} {} true {file://///Foliage3/J/Java/jdk1_2_2-src.zip} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds/p12c07.gif} {} {} true {images/backgrounds/p12c07.gif} {} false 4668238 
+1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 965302252 1708 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 2 0 0 
+5 {file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.01/kinst401a.exe} {} {} true {file://///Longshot/Installs/Kawa/4.01/kinst401a.exe} {} false 4668238 
+{http} {} {} {www.tek-tools.com} 0 {/} {} {} true {http://www.tek-tools.com} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/KawaKeyAndCode.txt} {} {} true {KawaKeyAndCode.txt} {} false 4668238 
+{file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.10a%20Upgrade/kup41a.exe} {} {} true {file://///Longshot/Installs/Kawa/4.10a Upgrade/kup41a.exe} {} false 4668238 
+{file} {} {} {} 0 {/////Longshot/Installs/Kawa/4.01/jdk122debug.zip} {} {} true {file://///Longshot/Installs/Kawa/4.01/jdk122debug.zip} {} false 4668238 
+1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 966779508 3967 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Oracle.htm} {} {} true {NMC2Oracle.htm} {} false 2 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 965302059 1092 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 1 0 0 
+8 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2General.htm} {} {} true {NMC2General.htm} {} false 4668238 
+{http} {} {} {foliage4.bedford.foliage.com} 0 {/sqa.html} {} {} true {http://foliage4.bedford.foliage.com/sqa.html} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2J2EE.htm} {} {} true {NMC2J2EE.htm} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2WebLogic.htm} {} {} true {NMC2WebLogic.htm} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Oracle.htm} {} {} true {NMC2Oracle.htm} {} false 4668238 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds/p12c07.gif} {} {} true {images/backgrounds/p12c07.gif} {} false 4668238 
+1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Project.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\NMC2Project.htm} {} false 8823144 
+2 {} 965054980 2437 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Project.hmp} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\NMC2Project.hmp} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Project.hpp} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\NMC2Project.hpp} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Project.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\NMC2Project.htm} {} false 0 0 0 
+2 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 26951392 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2General.htm} {} {} true {NMC2General.htm} {} false 26953232 
+0 2 {} 965306059 498 {text/html} {Contents} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2WebLogic.htm} {} {} true {NMC2WebLogic.htm} {} false 2 0 0 
+2 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/WebLogicLicense.xml} {} {} true {WebLogicLicense.xml} {} false 4668238 
+{http} {} {} {penguin.tek-tools.com} 0 {/kawa/docs/tutorial.htm} {ejb} {} true {http://penguin.tek-tools.com/kawa/docs/tutorial.htm#ejb} {} false 4668238 
+1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+2 {} 966780102 3106 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/WebLogicDebugger.txt} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\WebLogicDebugger.txt} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/WebLogicLicense.xml} {} {} true {WebLogicLicense.xml} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2WebLogic.htm} {} {} true {NMC2WebLogic.htm} {} false 8823144 
+2 {} 965127105 1117 {text/xml} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/WeblogicProperties.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\WeblogicProperties.htm} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/XMLJumpOff.htm} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\XMLJumpOff.htm} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/debugWebLogic.cmd} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\debugWebLogic.cmd} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\images} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\images\\backgrounds} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/images/backgrounds/p12c07.gif} {} {} true {images/backgrounds/p12c07.gif} {} false 2 0 0 
+0 4 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2General.htm} {} {} true {NMC2General.htm} {} false 8823144 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2J2EE.htm} {} {} true {NMC2J2EE.htm} {} false 8823144 
+2 {} 964705805 19820 {image/gif} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/startWebLogic.cmd} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\startWebLogic.cmd} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/weblogic.properties} {} {} true {file:///F:\\JimJM-WebSite\\FoliageFYIs\\weblogic.properties} {} false 0 0 0 
+0 0 1 {} 0 0 {} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {http} {} {} {foliage4.bedford.foliage.com} 0 {/sqa.html} {} {} true {http://foliage4.bedford.foliage.com/sqa.html} {} false 2 0 0 
+0 2 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2PrjectTOC.htm} {} {} true {NMC2PrjectTOC.htm} {} false 8823144 
+{file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2General.htm} {} {} true {NMC2General.htm} {} false 8823144 
+1 {} 0 0 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {http} {} {} {java.sun.com} 0 {/products/jdk/1.2/download-docs.html} {} {} true {http://java.sun.com/products/jdk/1.2/download-docs.html} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+1 {} 0 0 {text/html} {} {} {} {} {} 538976288 {} {} {} false {} {} true true false false {http} {} {} {java.sun.com} 0 {/products/jdk/1.2/download-windows.html} {} {} true {http://java.sun.com/products/jdk/1.2/download-windows.html} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2JDK.htm} {} {} true {NMC2JDK.htm} {} false 8823144 
+1 {} 0 0 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {http} {} {} {penguin.tek-tools.com} 0 {/kawa/docs/tutorial.htm} {} {} true {http://penguin.tek-tools.com/kawa/docs/tutorial.htm#ejb} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2WebLogic.htm} {} {} true {NMC2WebLogic.htm} {} false 8823144 
+1 {} 0 0 {text/html} {} {} {} {} {} 0 {} {} {} false {} {} false true false false {http} {} {} {www.tek-tools.com} 0 {/} {} {} true {http://www.tek-tools.com} {} false 3 0 0 
+0 1 {file} {} {} {} 0 {///F|/JimJM-WebSite/FoliageFYIs/NMC2Kawa.htm} {} {} true {NMC2Kawa.htm} {} false 8823144 
+1 {} 0 0 {text/plain} {} {} {} {} {} 0 {} {} {} false {} {} false 

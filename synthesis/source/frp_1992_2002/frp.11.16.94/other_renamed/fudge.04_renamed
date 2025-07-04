@@ -1,0 +1,888 @@
+From world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!pipex!uunet!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:17 1993
+Xref: world rec.games.design:5975
+Newsgroups: rec.games.design
+Path: world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!pipex!uunet!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: Chapter 4a
+Message-ID: <1993Dec8.200509.2101@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:05:09 GMT
+Lines: 875
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                        By Steffan O'Sullivan
+                      Version: December 7, 1993
+
+Table of Contents
+=================
+
+4  Action Resolution
+    4.1  Action Resolution Terms
+    4.2  Rolling the Dice
+          4.21  Reading the Dice
+          4.22  Other Dice Techniques
+          4.23  Success Rates
+    4.3  Action Modifiers
+    4.4  Unopposed Actions
+    4.5  Opposed Actions
+    4.6  Combat
+          4.61  Subjective Combat
+          4.62  Objective Melee Combat
+          4.63  Offensive/Defensive Tactics
+          4.64  Multiple Combatants in Melee
+          4.65  Objective Ranged Combat
+
+4  Action Resolution
+====================
+
+This chapter covers how to determine whether or not a character
+succeeds at an attempted action.  In the previous chapters, traits
+were defined in terms of levels: Superb, Great, Good, etc.  This
+chapter explains how those levels affect a character's chances of
+success at an action, whether fighting a giant or tracking down a
+clue.  Sometimes a Fair result is sufficient to complete a task, and
+sometimes a Good - or better! - result is needed.  The better your
+skill, the better your chances of getting these higher results.
+
+4.1  Action Resolution Terms
+----------------------------
+
+Dice: Each player and the GM need two six-sided dice.
+
+Unopposed Action: some actions are *Unopposed*.  This means the
+     character is trying to perform an action which isn't influenced
+     by anyone else.  Examples include jumping a wide chasm, climbing
+     a cliff, performing a chemistry experiment, etc.  The player
+     simply rolls the dice and reads the result.
+
+Rolled Degree: this refers to how well you did at a particular task.
+     If you are Good at Climbing in general, but the die-roll shows a
+     Great result on a particular attempt, then the rolled degree is
+     Great.
+
+Difficulty Level: the GM will set a Difficulty Level when you try an
+     Unopposed Action.  Usually it will be Fair, but some tasks are
+     easier or harder.  Example: climbing an average vertical cliff
+     face, even one with lots of handholds, is a fairly difficult
+     obstacle (Fair Difficulty Level).  For a very hard cliff, the GM
+     may set the Difficulty Level at Great.  This means the player
+     must make a rolled degree of Great or higher to climb the cliff
+     successfully.
+
+Opposed Action: actions are *Opposed* when other people (or animals,
+     etc.) may have an effect on the outcome of the action.  In this
+     case, each contestant rolls a pair of dice, and the results are
+     compared to determine the outcome.  Examples include combat,
+     seduction attempts, haggling, tug-of-war, etc.
+
+Relative Degree: this refers to how well you did compared to another
+     participant in an Opposed Action.  Unlike a rolled degree,
+     relative degree is expressed as a number of levels.  For example,
+     if you get a rolled degree result of Good in a fight, and your
+     foe gets a rolled degree result of Mediocre, you beat her by 2
+     levels - the relative degree is +2 from your perspective, -2 from
+     hers.
+
+Situational Roll: occasionally a die roll will be called for that is
+     not based on a character's trait at all, but on the overall
+     situation or outside circumstances.  This Situational roll is
+     simply a normal FUDGE die roll, but not based on any trait.  That
+     is, a result of 0 means a Fair result, +1 a Good result, -1 a
+     Mediocre result, and so on.  This is most commonly used with
+     Reaction and damage rolls, but can be used elsewhere as needed.
+     For example, the players ask the GM if there are any passersby on
+     the street at the moment - perhaps they want to try something
+     illicit.  The GM might decide there are none if a Situational
+     roll gives a Good or better result, and rolls the dice.  However,
+     if the GM deems something has a 50% chance of occurring, she
+     should simply roll 1d6 rather than use a standard FUDGE die roll.
+
+Beyond Superb: it is possible to achieve a level of rolled degree that
+     is beyond Superb.  Rolled degrees from Superb +1 to Superb +4 are
+     possible.  These levels are only reachable on rare occasions by
+     human beings.  No trait may be taken at (or raised to) a level
+     beyond Superb (unless the GM is allowing a PC to be at Legendary,
+     which is the same as Superb +1.  See Section 5.2, Objective
+     Character Development).  For example, the American baseball
+     player Willie Mays was a Superb outfielder.  His most famous
+     catch, often shown on television, is a Superb +4 rolled degree.
+     It isn't possible for a human to have that level of excellence as
+     a routine skill level, however: even Willie was "just" a Superb
+     outfielder, who could sometimes do even better.  A GM may set a
+     Difficulty Level beyond Superb, but it is for nearly impossible
+     actions.
+
+Below Terrible: likewise, there are rolled degrees from Terrible -1
+     down to Terrible -4.  No Difficulty Level should be set this low,
+     however: anything requiring a Terrible Difficulty Level or worse
+     should be automatic for most characters - no roll needed!
+
+4.2  Rolling the Dice
+---------------------
+
+There is no need to roll the dice when a character performs an action
+that is so easy as to be automatic.  Likewise, an action so difficult
+that it has no chance to succeed requires no roll, either - it simply
+can't be done.  The dice are needed for the middle ground, where the
+outcome of an action is uncertain.
+
+The GM is encouraged to keep die-rolling to a minimum.  Do not make
+the players roll the dice when their characters do mundane things.
+There is no need to make a roll to see if someone can cook lunch
+properly, or pick an item from a shelf, or climb a ladder, etc.  It's
+not a bad idea to extend this philosophy a bit, even.  Don't make them
+roll to climb a cliff unless it's a difficult cliff.  Even then, a
+Superb climber shouldn't need a roll - he should get up it
+automatically unless it's a *very* difficult cliff!
+
+For any action the player character wishes to perform, the Game Master
+must determine which trait is tested.  (This will usually be a skill
+or an attribute.)  If the action is Unopposed, the GM also determines
+the Difficulty Level - usually Fair.  (See also Section 4.5, Opposed
+Actions.)
+
+4.21  Reading the Dice
+----------------------
+
+Of the three dice techniques presented in FUDGE, this one is
+recommended.  It gives results from -4 to +4 quickly and easily,
+without intruding into roleplaying or requiring complex math.
+
+Each player and the GM need 2d6, and each person should preferably
+have two different colors or sizes.  One die must be designated the
+"plus" or "positive" die, and the other the "minus" or "negative" die.
+Ideally, all players will have uniform sets of dice (for example, one
+red and one white), and all will use the same color to be the plus
+die.  (If you only have two identical dice, such as borrowed from a
+board game, place your pencil on the table pointing away from you.
+Assign one side of the pencil to be plus, the other minus, and roll
+one die on each side of the pencil.)
+
+When a die roll is called for, the player rolls both dice and examines
+them.  If they are doubles, he has scored his trait level exactly -
+leave both dice on the table.
+
+If the dice show different numbers, the player should physically
+remove the higher die from the table, leaving only the lesser number
+rolled.  That number on that die, either plus or minus, is the result.
+If the die left on the table is the plus die showing a 3, for example,
+the player rolled +3 above his trait level.  If it is the minus die
+showing a 1, however, he just rolled a -1 to his trait level.
+
+There are two exceptions to the rule above: results of +5 and -5.
+These results are too extreme for FUDGE, so they are converted to a +0
+result: the character just achieved his trait level.  They do not
+occur very often, so no special care need be taken to watch out for
+them.  When the GM hears "Plus five" or "Minus five" as a result, she
+can simply say, "That means zero in FUDGE," and the game goes on.
+
+Trying to read a non-zero result while both dice are on the table can
+be a bit confusing - it is best to actually remove the higher die from
+your view.  This makes reading the result extremely easy, which speeds
+up play and keeps the focus on the roleplaying, not on the dice.
+
+The trait levels again are:
+    
+    +3  Superb
+    +2  Great
+    +1  Good
+     0  Fair
+    -1  Mediocre
+    -2  Poor
+    -3  Terrible
+
+While the numbers are optional, it can be helpful to include them on
+the character sheet.  They often make determining the final result
+easier.  For example, if your skill is Good and you roll a -3 result
+on a particular action, it might be easier to envision (1 - 3 = -2)
+than (Good -3 = Poor).  Or, you could just use your finger and count
+down three levels from your trait level!
+
+Example:  Nathaniel, who has a Good Bow Skill, is shooting in an
+archery contest.  He rolls two dice, using the procedure described
+above.  If he rolls a 0, he gets a result equal to his skill: Good, in
+this case.  If he rolls a +1, however, he gets a Great result, since
+Great is one level higher than his Good Archery skill.  If he rolls a
+-3, unlucky Nathaniel has just made a Poor shot.
+
+Note that it is not always necessary to figure the exact rolled
+degree.  If you only need to know whether or not a character succeeded
+at something, it is usually sufficient for the player simply to
+announce the appropriate trait level and the die roll result.  The
+game goes much faster this way.  For example, a player wants his
+character, Captain Wallop of the Space Patrol, to fly between two
+asteroids that are fairly close together.  The GM says this requires a
+Great Difficulty Level Piloting roll and asks the player to roll the
+dice.  The player looks up Captain Wallop's Piloting skill, which is
+Great, and rolls a +2 result.  He simply announces "Great +2" as the
+result.  This answer is sufficient - the GM knows that Captain Wallop
+not only succeeded at the task, but didn't even come close to damaging
+his craft.  There is no need, in this case, to figure out the exact
+level "Great +2" represents.  In this case, only if the announced
+result was obviously close to the Difficulty Level would it be
+necessary to figure it out exactly.
+
+Of course, there are many times when you want to know exactly how well
+the character did, even if it's not a matter of being close.  If the
+character is composing a poem, for example, and his Poetry skill is
+Fair, you will want to figure out what "Fair+2" means: it means he
+just wrote a Great poem!  There are many other instances where degrees
+of success is more important than merely knowing success/failure.
+
+4.22  Other Dice Techniques
+---------------------------
+
+For those who dislike the dice technique in the previous section, two
+different options are available.  They do not alter the odds of
+achieving a certain result.
+
+Roll 2 six-sided dice.  As above, one is the minus die, and one the
+   plus die.  Take the difference of the dice.  If the minus die is
+   higher, the result is negative.  If the plus die is higher, the
+   result is positive.  Example: a roll of 4 on the minus die and 2 on
+   the plus die gives a -2 result.  Convert any results of +5 or -5 to
+   0.
+
+Roll 2 six-sided dice, add them together, and subtract 7.  If the
+   result is +5 or -5, convert it to 0.  Otherwise, the resulting
+   number is how well the character just did, compared to his trait
+   being tested.  There are no plus or minus dice in this method.
+
+A table can also be used with this last method, if desired.  This
+could be printed on each character sheet, as follows:
+
+Rolled: |  2 |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11 | 12
+--------|----|-----|-----|-----|-----|-----|-----|-----|-----|----|---
+Result: | +0 | -4  | -3  | -2  | -1  | +0  | +1  | +2  | +3  | +4 | +0
+
+4.23  Success Rates
+-------------------
+
+The following table is provided so that players can better evaluate
+their chances of success.
+
+Chance of achieving +4 or better:   6%.
+Chance of achieving +3 or better:  14%.
+Chance of achieving +2 or better:  25%.
+Chance of achieving +1 or better:  39%.
+Chance of achieving  0 or better:  61%.
+Chance of achieving -1 or better:  75%.
+Chance of achieving -2 or better:  86%.
+Chance of achieving -3 or better:  94%.
+Chance of achieving -4 or better: 100%
+
+Thus, if your trait is Fair, and the GM says you need a Good result or
+better to succeed, you need to roll +1 or better.  You'll do this
+about two times out of five, on the average.
+
+4.3  Action Modifiers
+---------------------
+
+There may be modifiers for any given action, which can affect the odds
+referred to in the preceding section.
+
+A modifier of -1 means the trait is reduced by one for the matter at
+hand.  (This is not a permanent reduction.)  Likewise, modifiers can
+temporarily improve a character's traits.
+
+Examples: Joe, Good with a sword, is Hurt (-1 to all actions).  He is
+thus only Fair with his sword until he's healed.  (In fact, he's at -1
+to all relevant traits.)  Jill has Mediocre Lockpicking skills, but an
+exceptionally fine set of lock picks gives her a Fair Lockpicking
+skill while she's using them.
+
+If a character has a secondary trait that could contribute
+significantly to a task, the GM may allow a +1 bonus if the trait is
+Good or better.
+
+Example: Verne is at the library, researching an obscure South
+American Indian ritual.  He uses his Research skill of Good, but he
+also has a Good Anthropology skill.  The GM decides this is
+significant enough to give Verne a Great Research skill for this
+occasion.  If his Anthropology skill were Superb, the GM could simply
+let Verne use that instead of Research: you don't get to be Superb in
+Anthropology without having done a lot of research in the subject!
+
+Other conditions may grant a +/-1 to any trait.  In FUDGE, +/-2 is a
+large modifier - +/-3 is the maximum that should ever be granted
+except under *extreme* conditions.
+
+4.4  Unopposed Actions
+----------------------
+
+For each Unopposed action, the GM sets a Difficulty Level (Fair is the
+most common) and announces which trait should be rolled against.  If
+no Skill seems relevant, choose the most appropriate Attribute.  If
+there is a relative Skill, but the character is untrained in it (it's
+not listed on his character sheet), then use the default: usually
+Poor.  If a high attribute could logically help an *untrained* skill,
+set the default at Mediocre.  For example, a character wishes to palm
+some coins without being observed.  The GM says to use Sleight of Hand
+skill, but the character is untrained in Sleight of Hand.  The player
+points out that the character's Dexterity attribute is Superb, so the
+GM allows a default of Mediocre Sleight of Hand for this attempt.
+
+The player then rolls against the character's trait level, and tries
+to match or surpass the Difficulty Level set by the GM.  In cases
+where there are degrees of success, the better the roll, the better
+the character did; the worse the roll, the worse the character did.
+
+In setting the Difficulty Level of a task, the GM should remember that
+Poor is the default for most skills.  The average *trained* climber
+can climb a Fair cliff most of the time, but the average *untrained*
+climber will usually get a Poor result.  In the example in Section 4.2
+(Nathaniel shooting at an archery target), if the target is large and
+close, even a Mediocre archer could be expected to hit it: Mediocre
+Difficulty Level.  If it were *much* smaller and farther away, perhaps
+only a Great archer could expect to hit it regularly: Great Difficulty
+Level.  And so on.
+
+Example of setting Difficulty Level: Two PCs (Mickey and Arnold) and
+an NPC guide (Parri) come to a cliff the guide tells them they have to
+climb.  The GM announces this is a difficult, but not impossible,
+cliff: a Good Difficulty Level roll is required to scale it with no
+delays or complications.  Checking the character sheets, they find
+that Parri's Climbing skill is Great and Mickey's is Good.  Arnold's
+character sheet doesn't list Climbing, so his skill level is at
+default: Poor.  Parri and Mickey decide to climb it, then lower a rope
+for Arnold.
+
+Parri rolls a +1 result, which means a rolled degree of Superb, so she
+gets up the cliff without difficulty, and much more quickly than
+expected.  Mickey rolls a -1, however, for a rolled degree of Fair.
+Since this is one level lower than the Difficulty Level, he's having
+problems.  Had Mickey done Poorly or even Mediocre, he would perhaps
+have fallen - or not even been able to start.  Since his rolled degree
+is only slightly below the Difficulty Level, though, the GM simply
+rules he is stuck half way up, and can't figure out how to go on.
+Parri ties a rope to a tree at the top of the cliff, and lowers it for
+Mickey.  The GM says it is now Difficulty Level: Poor to climb the
+cliff with the rope in place, and Mickey makes this easily on another
+roll.
+
+Arnold would also need a Poor rolled degree to climb the cliff with
+the rope, but since his skill is Poor, they decide not to risk it.
+Mickey and Parri have Arnold loop the rope under his arms, and pull
+him up as he grabs handholds along the way in case they slip.  No roll
+is needed in this case, unless they are suddenly attacked when Arnold
+is only half way up the cliff . . .
+
+Occasionally, the GM will roll in secret for the PC.  There are times
+when even a failed roll would give the player knowledge he wouldn't
+otherwise have.  These are usually information rolls.  For example, if
+the GM asks the player to make a roll against Perception attribute (or
+Find Hidden Things skill), and the player fails, the character doesn't
+notice anything out of the ordinary.  But the player now knows that
+there *is* something out of the ordinary that his character didn't
+notice . . .  Far better for the GM to make the roll in secret, and
+only mention it on a successful result.
+
+4.5  Opposed Actions
+--------------------
+
+To resolve an Opposed action between two characters, each side rolls
+two dice against the appropriate trait and announces the result.  The
+traits rolled against are not necessarily the same: for example, a
+seduction attempt would be rolled against a Seduction skill for the
+active participant (or possibly Appearance attribute) and against Will
+for the resisting participant.  There may be modifiers: someone with a
+vow of chastity might get a bonus of +2 to his Will, while someone
+with a Lecherous fault would have a penalty - or not even try to
+resist!
+
+The Game Master compares the rolled degrees to determine a relative
+degree.  For example, if Lisa is trying to flimflam Joe into thinking
+she's from the FBI, and rolls a Great result, this doesn't
+automatically mean she succeeds.  If Joe also rolls a Great result on
+his trait to avoid being flimflammed (Knowledge of Police Procedure,
+Learning, Intelligence, etc. - whatever the GM decides is
+appropriate), then the relative degree is 0 - which means the status
+quo is maintained.  In this case, Joe remains unconvinced that Lisa is
+legitimate.  If Joe rolled a Superb result, Lisa's Great result would
+have actually earned her a relative degree of -1: Joe is not going to
+be fooled this encounter, and will probably even have a bad reaction
+to Lisa.
+
+The Opposed action mechanism can be used to resolve almost any
+conflict between two characters.  Are two people both grabbing the
+same item at the same time?  This is an Opposed action based on some
+sort of Dexterity attribute - the winner gets the item.  Is one
+character trying to shove another one down?  Roll Strength vs.
+Strength (or Wrestling skill) to see who goes down.  Someone trying to
+hide from a search party?  Perception attribute (or Find Hidden skill)
+vs. Hide skill (or Camouflage, Stealth, etc.).  Trying to outdrink a
+rival?  Constitution vs. Constitution (or Drinking skill, Carousing,
+etc.).  And so on.
+
+Some Opposed actions have a minimum level needed for success.  For
+example, an attempt to control a person's mind with a Telepathy skill
+might require at least a Fair result.  If the telepath only gets a
+Mediocre result, it doesn't matter if the intended victim rolls a Poor
+resistance: the attempt fails.  Most combat falls into this category -
+see the next section.
+
+For an example of Opposed actions involving more than two characters,
+see Section 4.64, Multiple Combatants in Melee.
+
+As an easy alternative for resolving Opposed actions, the GM can
+simply roll 1d6 for an NPC.  On a result of 2-5, the NPC gets the
+listed trait level as a result.  On a result of 1, the NPC did worse
+than her trait level; on a result of 6 the NPC did better than her
+trait level.  (How much worse or better is left to the GM to fudge -
+whatever is most timely for the story at this point!  Or the GM can
+simply roll another d6: 1,2,3 = +/-1, whichever is appropriate; 4,5 =
++/-2; 6 = +/-3.)  This method assumes that an NPC will usually perform
+at her appropriate trait level.  While this is not strictly accurate,
+it does emphasize the PCs' performance, and reduces the possibility of
+an NPC's lucky roll deciding the game.
+
+4.6  Combat
+-----------
+
+Combat is an Opposed action in FUDGE, unless one participant is
+unaware of an attack or decides to ignore it.  The GM can handle it
+very loosely and quickly, as in the Subjective system below, or more
+elaborately, as in the Objective system following.
+
+Melee combat usually occurs in simultaneous rounds: each fighter
+attempts to defeat the other at the same time.  Ranged combat (with
+such weapons as bows, thrown spears, guns, or blast rifles) may be
+handled as an Opposed action.  Alternatively, the GM may determine
+Initiative (perhaps by an Initiative attribute modified by
+circumstances and a die roll) and have the opponents alternate taking
+pot shots at each other.  See Section 4.65, Objective Ranged Combat.
+
+4.61  Subjective Combat
+-----------------------
+
+Combat can be handled very subjectively in FUDGE.  The GM should
+describe the situation in as much detail as is apparent, then ask the
+players what their characters are doing.  Each player should describe
+what his character action's would be during this fight.  The better
+the description, the better the GM will have an idea of how to assess
+the situation.  This can be especially important if she has something
+that won't be revealed until the middle of a battle!
+
+Once the GM has decided which trait (or traits) each PC should use for
+this combat, she then gives them a modifier, ranging from -3 to +3 at
+the worst or best.  Zero should be the most common modifier.  This is
+based partly on how well the PCs' plan would work, given what she
+knows of the NPCs, and partly on other situational modifiers: fatigue,
+lighting, footing, surprise, weapon superiority, bravery or cowardice
+of NPCs, wounds, etc.
+
+The players should then each make three rolls against an appropriate
+trait.  Average these results, rounding to the nearest whole number.
+(Example: a player has a Good Combat skill.  He rolls a +2, -1, and
++1.  The sum of these three results is +2.  Divided by 3, this equals
+2/3, which rounds to +1: the character got a Great Combat result.)
+This is how the PC did in general during the combat, or at least the
+initial portion of it.
+
+The GM may break the battle down into segments, or treat the whole
+encounter as one segment.  This is largely dependent on the GM's
+style, the importance of the battle, the number of participants,
+whether or not there are unexpected surprises, etc.  Each segment
+should be a dramatic unit.  For example, perhaps the PCs are facing a
+detachment of guards at the door, while the evil mastermind is trying
+to activate the Doomsday machine at the back of the room.  In this
+case, a logical breakdown might be two segments: the fight with the
+guards, and the confrontation with Dr. Doomsday.  Whatever the number
+of segments, it is most exciting to keep the battle description as
+word-oriented as possible.
+
+Example: Gunner, separated from the other PCs, surprises five members
+of a rival gang in a garage.  The player announces that Gunner will
+shout and charge the rival mob, carrying his Tommy gun as if he's
+about to fire - they don't know it's jammed.  He hopes to see them
+either run away, hit the dirt, or freeze in fear.  He'll then use his
+Tommy gun as club, starting at the left end of their line.  He'll keep
+his current opponent in between him and the others as long as
+possible.  He hopes to then roll up their line, one at a time, keeping
+the wall to his left side as he charges.
+
+The GM makes a Situational roll for the mob: Mediocre.  They don't
+recover quickly from their surprise, so she gives Gunner a +1 to his
+Brawling skill of Good for this plan, and decides that one will run
+away, and the others won't draw their guns until he's already engaged
+the first enemy.  His Running skill is Great, so she gives him another
++1, since he can cover ground quickly.  Total modifier for Gunner is
++2, bringing his Brawling skill to Superb for this combat.
+
+Gunner rolls 0, -3, and +1 for a total of -2.  Divided by three, this
+becomes -2/3, which rounds to -1.  This is a Great result for Gunner.
+The GM decides this is good enough to have downed the first two
+mobsters, and describes the battle so far in entertaining detail.  One
+other ran away, but now Gunner is facing the last two, who finally
+have their pistols out and could probably plug him before he charges
+that far.  The GM asks, "What does Gunner do now?"
+
+The player, thinking quickly, decides Gunner will hurl the Tommy gun
+into the face of one gunman while making a low diving tackle for the
+other, hoping to dodge under the bullets.  The GM calls for a single
+roll against Throwing to see how hurling the gun goes: Gunner gets a
+Fair result.  This is enough to distract the gunman, but not put him
+out of action.  Gunner's Acrobatics skill is only Fair, but since he
+wants to fight after he tackles, the GM allows him to use his Good
+Brawling skill for the combined action of diving and battling.  She
+then requires three rolls against Brawling skill (Good) to see how he
+is at dodging bullets while diving at a foe's knees.  Gunner gets a
++2, 0, +1, which average to +1: a Great result.  Gunner manages to
+tackle and subdue the gunman, whose shots all go wild.
+
+At this point, Gunner's luck runs out: the GM rules that the mobster
+hit by the Tommy gun now steps over and points his pistol to Gunner's
+head while he's kneeling over the other mobster.  Gunner wisely heeds
+the call to surrender and hopes his friends can rescue him . . .
+
+4.62  Objective Melee Combat
+----------------------------
+
+Objective Combat is usually handled as a series of Opposed actions,
+each taking place during a "combat round."  In FUDGE, a combat round
+is an indeterminate length of time set by the GM - around 3 seconds
+seems reasonable to some people, while that might seem grossly short
+or absurdly long to others.  A melee combat round combines offense and
+defense of both sides into one Opposed action roll (each participant
+rolling separately, and comparing results).  A round can either be a
+stand-off, or there is one winner.  (See the next section for an
+optional system in which both combatants can be hurt in a given
+round.)
+
+Melee simply means any combat that is at close enough range to strike
+the opponent without letting go of a hand-held weapon.
+
+The GM determines which traits the combatants should roll against.
+This depends largely on whether or not they are using a weapon, and
+what type.  Each combatant makes an Opposed action roll, as above.  A
+relative degree of zero means that the combat round is a stand-off -
+the fighters either circled each other looking for an opening, or
+exchanged blows on each other's shields, etc.  At any rate, nobody is
+hurt.
+
+The weapon used (which can be simply a fist) determines which trait a
+fighter uses to roll against, but otherwise does not affect the
+Opposed action roll in combat unless one fighter has a much bigger
+weapon than the other - see the modifiers, below.  The type of the
+weapon also affects damage - see Section 4.7, Damage and Healing.
+
+A minimum result of Poor is needed to hit a (roughly) equal-sized
+opponent.  That is, a human needs to score a Poor blow (and still win
+the Opposed action) in order to hit another human.  If both opponents
+roll worse than Poor, the round is a standoff.  If one opponent is
+*significantly* bigger than the other, he needs a Mediocre or even
+Fair result to hit his smaller foe, while even a Terrible result will
+allow the small fighter to hit the larger.  (Of course, such a blow
+must still *win* the Opposed action.)  Extremely small targets, such
+as a pixie, may require a Good or even a Great result.  Other examples
+include humans fighting giants, or very large or small animals.
+
+If the result is a relative degree other than zero, and the minimum
+level needed to score a hit is achieved or surpassed, the winner
+checks to see if he hit hard enough to damage the loser.  In general,
+the better the hit (the greater the relative degree), the more
+likelihood of damage.
+
+Many times, combat will take more than one combat round.  Characters
+are not limited to attacking each round - they may attempt to flee,
+negotiate, try a fancy acrobatic stunt, or any other appropriate
+action.  If one combatant is unable to fight in a given round
+(possibly because he's unaware of the attacker, or because of a
+critical result in the previous round - see Section 4.8, Critical
+Results), the combat may become an Unopposed Action for the active
+fighter, usually with a Poor Difficulty Level.  If a character can
+defend himself in some way, such as using a shield, it is still an
+Opposed Action, but the defending character cannot hurt the other
+character even if he wins the combat round.
+
+Some situations call for one side or the other's trait level to be
+modified.  Here are some examples:
+
+A fighter who is Hurt is at -1, while one who is Very Hurt is at -2.
+
+If one fighter has a positional advantage over the other, there is a
+   penalty (usually -1) to the fighter in the worse position.
+   Examples include bad footing, lower elevation, light in his eyes,
+   kneeling, etc.
+
+For melee combatants, compare their weapon sizes and shields (see
+   Section 4.72, Objective Damage).  If one fighter's weapon is +2 (or
+   more) greater than the other fighter's weapon + shield modifiers,
+   the fighter with a larger weapon gets a +1 to his combat skill.
+   (Example: one fighter has a Two-handed sword: +4 to damage.  His
+   opponent has a knife and an average shield: +1 to damage, +1 for
+   shield makes a total of +2.  The sword wielder gets +1 to skill in
+   this combat since his weapon modifier is +2 greater than the knife
+   fighter's.)
+
+Aiming at a very precise, specific body part (such as an eye or hand)
+   will not only require a minimum result of Good or Great to hit, but
+   may also have a -1 to the trait level.  If a result of Great is
+   needed, for example, and the fighter only gets a Good result but
+   still wins the Opposed action, he hits the other fighter, but not
+   in the part aimed for.
+
+A fighter may have a magical blessing (+1 or more) or curse (-1 or
+   worse).
+
+All-out offense, such as a berserk attack, grants a +1 to the combat
+   skill (and an additional +1 for damage, if he wins).  However, if
+   an all-out attacker *ties* or loses the Opposed action, the other
+   fighter wins, and gets +2 to damage!  (Only applies to melee
+   combat.)
+
+An All-out defensive stance earns a +2 to the combat skill, but such a
+   combatant cannot harm his foe except with a critical result.
+
+Optionally, a successful All-out Defense and a successful Perception
+   or Tactics roll can grant a bonus on the *next* round.  In this
+   case, the fighter is taking a few seconds to scope out the area and
+   maneuver to take advantage of any terrain or conditional
+   irregularity.  Similar combat subtleties are possible, and
+   encouraged - taking a successful All-out defense one round can
+   allow a player to try an acrobatics maneuver the next combat round
+   without risk of being hit, for example.
+
+4.63  Offensive/Defensive Tactics
+---------------------------------
+
+This optional rule allows a little more tactical flavor to combat, at
+a small expense of complexity.  This option replaces the All-out
+attack and defense options listed above, and allows for both
+combatants to be injured in the same combat round.
+
+Before each round, a fighter may choose to be in an offensive posture
+or defensive posture.  Such a stance will increase the appropriate
+combat skill by a certain amount in one aspect of combat (offense or
+defense), and decrease the same skill by an equal amount for the other
+aspect of combat.  There are five basic options:
+   
+   +2 to Offense, -2 to Defense
+   +1 to Offense, -1 to Defense
+   Normal Offense and Defense
+   -1 to Offense, +1 to Defense
+   -2 to Offense, +2 to Defense
+
+Each combat round, a player secretly chooses either a positive die set
+to 1 or 2 (offensive posture), a negative die set to 1 or 2 (defensive
+posture), or both dice (normal posture).  Both sides reveal their
+choices simultaneously by lifting their hands from the dice once
+chosen.
+
+Each side then makes a single Opposed action roll as normal.  The
+result is applied to both offense and defense, however, and will thus
+have different results for offense and defense if anything other than
+a normal posture is chosen.  The offensive rolled result of each
+fighter is then compared to the defense of the other fighter.
+
+For example, a fighter with Good sword skill chooses +1 to offense and
+-1 to defense for a particular combat round.  (This is done by
+revealing only the positive die, with 1 showing on top, when the
+player's hand is taken away.)  This means his offensive sword skill is
+at Great this round, while his defensive sword skill is at Fair.  His
+opponent, a Great swordswoman, chooses normal posture - no separate
+offense and defense rating.  The swordswoman rolls a -1: a Good result
+for both offense and defense.  The swordsman rolls a 0 result: his
+offensive rolled result is Great, his defense is Fair.
+
+His offense result of Great is compared with her Good defense: he wins
+by +1.  However, her offense result of Good is simultaneously compared
+with his defense of Fair: she also wins the Opposed action by +1!
+Both sides check for damage, to see if they got through each other's
+armor - see the Objective Damage System, Section 4.72.
+
+4.64  Multiple Combatants in Melee
+----------------------------------
+
+Realistic Method: When more than one opponent attacks a single
+fighter, they have a positional advantage - at the very least.  To
+reflect this, the lone fighter is at -1 to his skill for each
+additional foe beyond the first.  The lone fighter rolls once, and the
+result is compared with *each* of the opponents' rolled degrees, one
+after the other.  The solo combatant has to defeat *all* of the
+opponents in order to inflict a wound on one of them.  The lone
+fighter can inflict damage on only *one* foe in any given round - his
+choice.  But he *takes* multiple wounds in a single round if two or
+more enemies hit him!
+
+Epic Campaign Method: In those games with heroic PCs facing hordes of
+enemies, the GM can reduce the penalty to -1 for each *two* opponents
+the character faces.  Or, she can simply give the hordes Poor skills
+and Poor Damage Capacity (which is not out of character for a horde).
+It's also possible to allow a sweeping blow to damage more than one
+foe at a time.  Of course, this slows a slash down: reduce damage done
+by 1 for each foe cut through.
+
+Either Method: The GM may allow a PC who ties with one foe, but scores
+at least two rolled degrees better than another, to have hit the
+second foe and still defended himself.
+
+Example: Paco is facing three thugs, who have just rolled a Great,
+Good, and Mediocre result, respectively.  Paco rolls a Great result,
+tying the best thug.  The GM allows him to hit the thug who rolled a
+Mediocre result (since he's at +3 relative degree), but not be hit
+himself.
+
+Of course, a well-armored fighter facing weak opponents can simply
+concentrate on one foe and let the others try to get through his armor
+(that is, not defend himself at all against some of his attackers).
+In this case, attacking characters need to succeed at Unopposed
+Mediocre Difficulty Level to hit the lone fighter who is ignoring
+them.  (It is Mediocre, not Poor as in Section 4.62, Objective Melee
+Combat, because multiple fighters can interfere with each other.)
+This is historically accurate for knights wading through peasant
+levies, for example.
+
+There's a limit to the number of foes that can attack a single
+opponent.  Six is about the maximum under ideal conditions (such as
+wolves or spear-wielders attacking a solitary target), while only
+three or four can attack if using weapons or martial arts that require
+a lot of maneuvering space.  If the lone fighter is in a doorway, only
+one or two fighters can reach him, at most.
+
+When multiple NPCs beset a lone PC, the GM may wish to roll only once
+for all the NPCs, rather than having to roll for each combatant.  The
+lone fighter is still at -1 per extra opponent, but the GM's single
+roll is moved one degree closer to zero.  For example, if the GM gets
+a +4 result, each attacker actually scores a +3.  A zero result
+remains a zero.
+
+Example: Three NPC pirates, complete with eye-patches, scars,
+earrings, sneers and generally bad attitudes, are attacking dashing PC
+hero Tucker.  The pirates (whose names are Molly, Annie, and Maggie)
+are Fair, Good, and Mediocre, respectively, at combat skills.  Tucker
+is a Superb swordsman, but is at -2 for having two extra fighters
+attacking him at once: his skill is Good for this combat.  The GM
+wants to roll just once (applying the result to all three pirates)
+rather than rolling three times each combat round.
+
+On the first round, she gets a +2.  This becomes a +1 (moved closer to
+zero), and the pirates have just gotten Good, Great, and Fair results,
+respectively.  If Tucker scores a Great result that round (equal to
+the best pirate result), the round is a stand-off (nobody takes wounds
+on either side - unless the GM is using the option detailed in the
+example with Paco, above).  However, if Tucker scores a Superb result,
+he could hit the pirate of his choice and remain unhit.  If poor
+Tucker rolls a Fair result, both Molly and Annie would hit him.  The
+process is repeated each round.
+
+Alternately, the GM could simply use the 1d6 method discussed in
+Section 4.5, Opposed Actions.
+
+4.65  Objective Ranged Combat
+-----------------------------
+
+Ranged combat may or may not be an Opposed action:
+
+If the target is unaware of the assault, the attacker makes an
+Unopposed action roll to see if he hits his target - the GM sets the
+Difficulty Level based on distance, lighting, cover, etc.  Do not
+modify the attacker's skill for range, partial cover, or other
+circumstances - that's included in the Difficulty Level.  Equipment
+such as a laser sighting scope can modify the attacker's skill,
+though.
+
+If the defender is aware of the attack, however, it is an Opposed
+action: the attacker's ranged weapon skill against the defender's
+defensive trait.  (A Difficulty Level for range, lighting, etc., is
+still set by the GM, and is the minimum rolled degree needed to hit.)
+A defensive roll should be made against a Dodge skill, or Agility
+attribute, or something similar.
+
+If the ranged weapon is thrown, there is no modifier to the defense
+roll.  However, a propelled weapon, such as a bow, gun, or beam
+weapon, is much harder to avoid.  In this case, reduce the defender's
+trait by -2 or even -3.
+
+Of course, the defender may decline to dodge, but shoot back instead.
+In this case, the action is Unopposed - making the Difficulty Level is
+all that is needed to hit.  The GM may make such actions simultaneous.
+
+Example: Nevada Slim and the El Paso Hombre are facing off in a
+showdown. Both are in the open, in the sunlight, so there's no
+lighting or cover difficulty.  The range is obviously the same for
+both - the GM rules it's a Fair task to hit each other.  Slim rolls a
+Poor result, and the Hombre a Mediocre result.  The Hombre's bullet
+came closer to Nevada Slim than vice versa, but both missed since
+neither made the Difficulty Level.
+
+Another Example: Will Scarlet is shooting a longbow from the greenwood
+at Dicken, the Sheriff's man, who has a crossbow.  Dicken knows Will
+is there, because the man next to him just keeled over with an arrow
+through his chest.  Dicken is in the open, in good light, so only
+range is of any concern to Will Scarlet: the GM says even a Mediocre
+shot will hit since they are fairly close.  The range for Dicken to
+hit Will is of course the same, but Will is partially hidden behind a
+log (cover), and just inside the foliage, so the lighting makes it
+hard to see him clearly.  The GM decrees Dicken needs a Good roll to
+hit Will.  Dicken rolls a Fair result, missing Will.  Will rolls a
+Mediocre result, which hits Dicken, even though it wasn't as good a
+shot as Dicken's.
+
+In both examples, the fighters forfeited their Dodges in order to
+shoot simultaneously.  Each combatant simply needed to make the
+appropriate Difficulty Level to hit.  Under these conditions, it's
+possible for both combatants to succeed in the same combat round.  Had
+Dicken's shot hit, Will and Dicken would have skewered each other.
+
+Guns and similar weapons that do not rely on muscle power should be
+rated for damage at the beginning of the game.  No detailed list is
+provided, but as a rough guideline:  The average small hand gun might
+be of +2 to +3 Strength, while a derringer might be +1 or even +0.
+Powerful two-handed projectile weapons will be +5 and higher, while
+bazookas and other anti-tank weapons will be +10 and higher.  Science
+fiction small weapons might do as much damage as a modern bazooka - or
+they might be designed to capture people without hurting them.
+
+[Chapter Four continued in the next file . . .]
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

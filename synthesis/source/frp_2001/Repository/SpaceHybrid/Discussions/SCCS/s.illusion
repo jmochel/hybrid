@@ -1,0 +1,1706 @@
+h27004
+s 01678/00000/00000
+d D 1.1 99/12/02 15:42:50 jmochel 2 1
+cC
+cK54827
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:42:46 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Discussions/illusion
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44897
+cPDiscussions/illusion
+cReb47853d5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06554; Thu, 15 Aug 91 05:45:56 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA18673; Thu, 15 Aug 91 01:39:30 -0400
+Message-Id: <9108150539.AA18673@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 7386; Thu, 15 Aug 91 01:39:10 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 6387; Thu, 15 Aug 91 01:39:09 EDT
+Date:         Wed, 14 Aug 1991 22:48:53 -0400
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Geoffrey L. Hodge" <uunet!pucc.PRINCETON.EDU!glhodge%UMASSMED.UMMED.EDU>
+Subject:      SCA styles/Illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Chris:
+	I was just about to post this question when I saw your post:
+Have any of you SCA fighters used (or seen used) successfully any parrying
+weapons?  I would love to know how well they work in "actual" combat, and
+how good a model of medieval combat you people believe SCA combat is.  I
+went to one fight about 10 years ago, got my legs "cut off" in about 10
+seconds, and was completely bewildered. :-)   Anyone care to run down the
+pros and cons of shields vs. parrying weapons vs. single weapons?  (Send
+your responses directly to me if you think they are too dull for the
+list :-)
+
+Tabby:
+	*If* you run in a system where illusions can kill people, then
+IMHO, the only logical explanation (of magic can be explained logically)
+is that the illusion fools the mind enough to have physical effects.
+If you accept that idea, you can run that in a couple of different ways:
+	A)  The victim believes s/he is being impaled/burned or whatever
+nasty thing is happening to them, but shows no damage to neutral observers.
+The victim, however, believes so strongly that they create the pain, and
+if the illusion is strong enough, they literally "scare themselves to death."
+	B)  As above except that the mind/soul has enough power over the
+body to actually create the changes it believes to have occured (but only
+to the best of its ability).  It might be able to produce wounds, and
+could certainly mimic the effects of a disease.  Victim might have a fever,
+waste away, etc, but wouldn't *really* have the disease (it couldn't be
+caught by another character, for example).
+	In either case, I don't think the *illusion* should have the
+power to create.  If someone takes damage from an illusionary disease
+(how do you convince someone they have an illusionary disease, btw?),
+it should not be because the illusion created the disease.  If someone
+suffocates because of an illusionary bag over their head (which I would
+rule as possible) it should not be because the bag is at all real.  Other-
+wise illusion becomes even more powerful as a form of creation magic.
+
+	This is why I hate illusions.  I realize that your question assumes
+that illusions can kill, but if you have any power over this, you might
+want to reconsider it.  It makes illusions very powerful and opens several
+cans of worms.  Can I be healed by drinking an illusionary healing potion?
+Can I turn into a deity by drinking an illusionary potion of "polymorph
+into deity?"... you get the idea.
+
+							-Jeff
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06609; Thu, 15 Aug 91 05:46:25 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA21518; Thu, 15 Aug 91 02:09:30 -0400
+Message-Id: <9108150609.AA21518@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 8240; Thu, 15 Aug 91 02:09:12 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 7678; Thu, 15 Aug 91 02:09:11 EDT
+Date:         Wed, 14 Aug 1991 17:06:05 MST
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Bill Barney <uunet!pucc.PRINCETON.EDU!IDWXB%ASUACAD.BITNET>
+Subject:      sexism and illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+First, I think there are a few very well-known archetypes (that is the
+definition of archetype isn't it?) which give rise to the 'sexism' charge.
+For instance the covers to "<insert noun phrase here> of Gor."  Which OUGHT
+to be sexist because the books are pretty blatantly sexist too.  I think
+the Conan books were like that too.  Obviously this sells books on the premise
+that the content of the book is somehow related to the cover; same prinicple
+they use to sell trashy romances and sleazy westerns.  I don't think that the
+same prinicple applies to games--they're much more expensive and much less
+likely to contain steamy narratives--but I'm sure it probably has some small
+effect.  And yes, there is a lot of fantasy art which isn't sexist.
+
+As Ananda pointed out it is very hard to debate the effects of illusions
+because illusion mechanics are so different from game to game.  In my own
+game I observe the following basic rules:
+
+ 1)Illusions are VISUAL.  (The more complex spells can also be audio, thermal,
+   etc.)  If you cannot sense the illusion it has no effect on you.  A visual
+   illusion cast behind someone will not affect them unless you can get them
+   to turn around.
+
+ 2)The ONLY effects of an illusion result from the mind of the victim.  I do
+   permit illusions to cause damage, although normal illusions (not P-killer)
+   cannot cause death; only unconsciousness and possible psych complications.
+   This works great in ADND where "hit points" are an amalgamation of factors
+   including stamina, stress, "coolness", etc. and do not just represent
+   physical damage.  A phantasmal crossbow bolt would have an effect on the
+   morale of the person who was shot, IF he could be convinced that he was hit.
+   A phantasmal fireball might have some effect on a person if he had
+   experienced fireballs before and was terrified of them.  Of course such an
+   illusion would probably fall flat without thermal and auditory components.
+
+   From rule two, it follows that phantasmal armor would affect the way in
+   which the blow was struck but not physically affect the blow.  For instance,
+   a dagger-wielding orc facing an opponent in illusionary plate might think,
+   "hmm, my dagger won't pierce that; I'll attack someone else."  On the other
+   hand the same orc with a bastard sword might reason "he's got plate armor,
+   I better swing harder."  So it could have the opposite of the desired
+   effect.
+
+Regarding damage, it is true that all sensation takes place in the brain and
+the nerves are only I/O devices.  Probably most of you have had the experience
+of "burning" yourself with cold water that you expected to be hot.  Thus a
+character under attack from illusionary crossbow bolts might feel a hit if he
+truly expected it to come.  On the other hand, as in the "hot" water example,
+he might immediately afterwards realize that he hadn't been hit, as there is
+no blood, no bolt shaft sticking out of his armor, etc.  Thus the only effect
+of that illusion would be to distract him for a round or maybe a few, while
+he tried to sort out what happened.  (On the other hand, a GM might rule that
+in the "fog of combat" the victim was not sufficiently clear-minded to realize
+all this and lost some hit points in terms of disorientation.)
+
+As a player, it depends on what the GM's philosophy is, but I usually try to
+avoid person-affecting illusions for that reason.  I prefer distance illusions
+that obscure, confuse, distract, or misdirect.  Another question you might
+ask yourselves is "when an illusion is disbelieved (strictly ADND here) does
+it vanish, or does the victim simply realize that it is an illusion?"  For
+instance, take an illusion of a stone wall obscuring a corridor.  Anyone
+successfully disbelieving THAT illusion will be no better off than when they
+started (at least in my game).  They will realize that they can walk through
+the wall, but they still cannot see through it.  If there are archers on the
+other side, they can't see them either (although the archers are at a similar
+disadvantage).  If there is a deep pit on the other side, they won't know until
+they step through.
+
+About the nastiest thing I ever saw done, and unfortunately it was done to ME,
+was a GM who used an illusionary wraith.  My character was familiar with
+non-corporeal, level-draining undead, and though he had never seen a wraith
+before, he had a pretty good idea of what it was and what its powers were.
+I lost many levels to this creature before its creator took a hit which spoiled
+the spell.  Even then the shock was great enough that it took a few hours for
+me to be functioning fully.  Of course the illusion would have no effect on
+any character who had never experienced or heard of level draining undead,
+except of course for fear.  Ignorance can be bliss, sometimes.
+
+So what would be the effect of an illusionary chainmail bikini?
+
+Bill Barney
+-------------------------------------------------------------------------
+Office of Sponsored Projects ASB 206             Arizona State University
+(602) 965-2170                                       Tempe, AZ 85287-1903
+-------------------------------------------------------------------------
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06722; Thu, 15 Aug 91 09:41:05 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA25647; Thu, 15 Aug 91 08:00:37 -0400
+Message-Id: <9108151200.AA25647@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0763; Thu, 15 Aug 91 08:00:27 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 3801; Thu, 15 Aug 91 08:00:24 EDT
+Date:         Thu, 15 Aug 1991 12:49:00 GMT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!ARHN6001%IRUCCVAX.UCC.IE
+Subject:      Re:  Illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+        I've only skimmed the post on this, but there are a lot of good points
+in it. I think that if you begin with the premise that illusions can kill,
+becuase of the power of the mind, as if they are sort of halfway between
+magic and psionics, then, yes, if you die by falling into an illusionary
+pit, you are dead.
+        However, some of the examples Tabby used raise an important issue -
+yopu must have a frame of referecne in which to illusion can kill you. In a
+fantasy world, a plastic bag over the head illusion won't work, becuase no one
+knows what plastic is, or that you can't breath through it.  a heart attack
+might not work either, or a disease, due to lack of medical knowledge
+        Mike Cosgrave
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06727; Thu, 15 Aug 91 09:41:07 EDT
+Received: from pucc.PRINCETON.EDU by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA25340; Thu, 15 Aug 91 08:09:27 -0400
+Message-Id: <9108151209.AA25340@relay2.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 1182; Thu, 15 Aug 91 08:07:04 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4279; Thu, 15 Aug 91 08:07:01 EDT
+Date:         Thu, 15 Aug 1991 08:05:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Mysto king of Phrygia ruler of many servant to none!
+              <uunet!EKU.BITNET!STURNKIN>
+Subject:      Re:  Illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+     Mike,
+
+  I agree with you there but what if you used and easly noticed desiese(sp)
+such as Lepercy(sp) which everyone recognized as sore spots on the skin. And if
+you say Illusios can kill then can Illusionary aurmor protect and if it does
+can a mage wear it??
+
+                                        rob
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06772; Thu, 15 Aug 91 11:13:27 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA07868; Thu, 15 Aug 91 09:36:06 -0400
+Message-Id: <9108151336.AA07868@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 7745; Thu, 15 Aug 91 09:25:35 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 2540; Thu, 15 Aug 91 09:23:58 EDT
+Date:         Thu, 15 Aug 1991 15:10:09 MEZ
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Benedikt Rosenau <uunet!pucc.PRINCETON.EDU!I3150101%DBSTU1.BITNET>
+Subject:      Re: Illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Message of Wed, 14 Aug 1991 20:27:00 EDT from <JSTONER@SNYESCVA>
+Status: RO
+
+How should illusions able can kill be handled? I say like any other death
+magic, with the special effect that they work by illusions.
+
+Allowing your average illusion spell to be able to induce death makes it
+damn powerful, probably toppling game balance.
+
+The main point behind illusions seems to be that you believe in them, and make
+them actually happen. However, someone affected by a disease would rarely give
+in to it, there is hope as long as there is breath. The body's inner workings
+won't be too much affected by conscient thought anyway. You might rule that
+this struggle of the body against the imaginated disease is the actual cause
+of death, antigenes, shock, etc, but it assumes that our medicinical knowledge
+and magic can exist together, and further, that one can induce the effects of
+illusionary germs by playing with perception. IMO, this is too farfetched to
+be used in games. Death magic is much easier.
+   Benedikt
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06777; Thu, 15 Aug 91 11:13:30 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA07986; Thu, 15 Aug 91 09:36:25 -0400
+Message-Id: <9108151336.AA07986@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 9025; Thu, 15 Aug 91 09:35:22 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4092; Thu, 15 Aug 91 09:35:16 EDT
+Date:         Thu, 15 Aug 1991 08:35:18 CDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Dave Boddie <uunet!pucc.PRINCETON.EDU!dboddie%UAFHP.UARK.EDU>
+Subject:      Re: chainmail bikinis and Illusions.
+X-To:         Gamemasters Interest Group
+              <GMAST-L%UTCVM.BITNET@pucc.PRINCETON.EDU>
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  from "Tabby" at Aug 14, 91 5:11 pm
+Status: RO
+
++> Allright, now suppose an illusionist casts an illusion that makes it's
++> victim believe that he has contracted a terminal illness?  (illusory
++> spots on the skin and other symptoms)  Will the victim eventually die,
++> assuming the illusion is maintained long enough for the 'illness' to
++> run it's course?  What about an illusory heart attack?  an illusory
++> plastic bag around the victim's head that suffocates him?  oooh, this
++> is getting evil.... what does everyone (anyone) think?
++>    thanks,
++>      Tabby
+
+Well, IMHO, psychologically, anything is possible. I believe that every
+illusion should have some chance of killing the patient, or why do we have
+people who die in their sleep while having bad dreams. Otherwise, I would
+think that the subconscious mind would/could cause the body to go into shock
+or make the person pass out, etc because of what the conscious mind is/was
+experiencing.
+
+'General failure reading drive brain: (A)bort, (R)etry, (I)gnore?'
+
+Dave
+--
+========================Greetings from the Flux==========================
+: ___________   : Within every man : David C. Boddie                    :
+: |+         |_ : is the innate    : Lab Consultant / Computer Operator :
+: | NorthWest / : ability to do    : Computing Services, Univ of Ark    :
+: | Arkansas |  : something really : Fayetteville, Arkansas             :
+: |_ U of A /   : stupid!          : Bitnet: dboddie@uafsysb.uark.edu   :
+:   |______|    :         -- Me    : Internet: dboddie@uafhp.uark.edu   :
+=========================================================================
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06852; Thu, 15 Aug 91 13:14:43 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01105; Thu, 15 Aug 91 11:50:32 -0400
+Message-Id: <9108151550.AA01105@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2255; Thu, 15 Aug 91 09:59:13 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 8241; Thu, 15 Aug 91 09:58:16 EDT
+Date:         Thu, 15 Aug 1991 08:55:30 CDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Dave Boddie <uunet!pucc.PRINCETON.EDU!dboddie%UAFHP.UARK.EDU>
+Subject:      Re: illusions
+X-To:         Gamemasters Interest Group
+              <GMAST-L%UTCVM.BITNET@pucc.PRINCETON.EDU>
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  from "Mysto king of Phrygia ruler of many servant to none!" at
+              Aug 14, 91 6:11 pm
+Status: RO
+
++>   Now I have a question for you. Will Illusionary aurmor protect the wearer,
++> and if it does could Magic users wear it? Would Illusionary weapons do damage
++> and if so could a magic user use it (Remember it isn't a real weapon).
++>                                         Rob
+
+This does not prove a point. Illusion armor is stupid, because it does not
+protect the user (really) from physical stuff. An illusory weapon's effective-
+ness is dependant upon who is actually seeing the weapon, because then this
+usually indicates who is effected most by it.
+
+Dave
+--
+========================Greetings from the Flux==========================
+: ___________   : Within every man : David C. Boddie                    :
+: |+         |_ : is the innate    : Lab Consultant / Computer Operator :
+: | NorthWest / : ability to do    : Computing Services, Univ of Ark    :
+: | Arkansas |  : something really : Fayetteville, Arkansas             :
+: |_ U of A /   : stupid!          : Bitnet: dboddie@uafsysb.uark.edu   :
+:   |______|    :         -- Me    : Internet: dboddie@uafhp.uark.edu   :
+=========================================================================
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06857; Thu, 15 Aug 91 13:14:48 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01177; Thu, 15 Aug 91 11:50:48 -0400
+Message-Id: <9108151550.AA01177@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 3035; Thu, 15 Aug 91 10:04:47 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 9063; Thu, 15 Aug 91 10:04:44 EDT
+Date:         Thu, 15 Aug 1991 15:31:16 MEZ
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Benedikt Rosenau <uunet!pucc.PRINCETON.EDU!I3150101%DBSTU1.BITNET>
+Subject:      Re: sexism and illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Message of Wed, 14 Aug 1991 17:06:05 MST from <IDWXB@ASUACAD>
+Status: RO
+
+By the way:
+
+What happens if someone makes an illusionary opening in a wall, affecting all
+senses? Is one able to walk through it?
+Reminds me of an old trap: a waterfall falling in front an opening in the wall.
+There is an illusion of an opening (in fact, the opening) and another
+of a water fall cast over it. Our intrepid explorers will soon doubt the
+reality of the illusionary waterfall, make their saving throw, and walk
+through it. But there IS a waterfall.
+
+Illusions affect the perception, but have no physical reality other than
+the physics of perception. On the other hand, I can't see any difference
+between real and illusionary pain. What now?
+
+Do people really die in sleep from what they dream? How come we know that?
+People are said to have died from a sudden experience of fear, but not everyone
+ought to be prone to it.
+
+All of this depends on a set of premises that many won't agree to either for
+being too few or too many. Illusions should, IMO, do nothing else than change
+the input for CONSCIENT thought, not being able to trigger even a knee-jerk or
+other reflex. IMO, everything else is too real to be called an illusion.
+   Benedikt
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06862; Thu, 15 Aug 91 13:14:50 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01189; Thu, 15 Aug 91 11:50:53 -0400
+Message-Id: <9108151550.AA01189@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 3064; Thu, 15 Aug 91 10:05:33 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 9110; Thu, 15 Aug 91 10:04:59 EDT
+Date:         Thu, 15 Aug 1991 10:02:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Mysto king of Phrygia ruler of many servant to none!
+              <uunet!EKU.BITNET!STURNKIN>
+Subject:      Re: illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+     Dave,
+
+ You say an Illusonary Orc can kill someone. So if a real Orc come up to a mage
+and doens't disbelieve he will see the aurmor. And to him it will be real. So
+to him it will protect. Now what if you put the aurmor on the Orc he thinks it
+is still real so to hime it will protect him as well. Now wouldn't it? It might
+not actually but to him it would am I right??
+
+                                        rob
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06867; Thu, 15 Aug 91 13:14:53 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01420; Thu, 15 Aug 91 11:51:55 -0400
+Message-Id: <9108151551.AA01420@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 7562; Thu, 15 Aug 91 10:52:21 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 5024; Thu, 15 Aug 91 10:52:01 EDT
+Date:         Thu, 15 Aug 1991 09:51:02 CDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Dave Boddie <uunet!pucc.PRINCETON.EDU!dboddie%UAFHP.UARK.EDU>
+Subject:      Re: sexism and illusions
+X-To:         Gamemasters Interest Group
+              <GMAST-L%UTCVM.BITNET@pucc.PRINCETON.EDU>
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  from "Benedikt Rosenau" at Aug 15, 91 3:31 pm
+Status: RO
+
+I think that we are throwing and missing at the target here about illusions.
+If you will recall, someone stated that illusions 'changed the perceptions of
+the victim'. This is the main function of the illusion power.
+
+Since I would classify sight as a main sense, and that all others are second-
+ary, I would say that sight sense takes up a majority of a person's perception
+of the world around him. Even if an illusion was sight only, it would still
+cause the person to perceive that something was there. Illusions also have a
+'dulling' effect on the other senses. To prove my point, I am going to say
+this:
+
+In the past I have had a lot of friends who took heavy drugs like acid. From
+what I have heard, IMHO, acid severely alters a person's sight perceptions,
+allowing him or her to see illusions unleashed by his subconscious mind. And
+even though the person knew that the illusions were false, and that he could
+reach out and touch them, smell them, etc, he still could not change his
+perception of what was happening. If this illusion was a hostile one (my
+friend once got attacked by a phone), it puts undue stress on the system
+(natural reaction). If this continues, or the perceptions seem deadly, I
+would rule that the victim of the illusions *might* (5%-10% chance?) die
+from system shock. I am not saying that they should kill all the time, I
+am saying that there is a *chance* of killing.
+
+I also think that the effectiveness of an illusion also depends on the
+special effect, i.e. the description of the illusion. I think that illusive
+armor is stupid, just causes the opponent to swing harder (I know...I have
+seen, and been in several SCA fights...nothing special...I just authorized
+in sword and shield) to do more damage. However, an illusive weapon *might*
+be effective in combat, but unless it had some form of special function, it
+should not kill. Only when an illusion is overwhelmingly frightful should it
+be considered a killing blow...and then it should have a *chance*. Such ex-
+amples would be: falling into a lake/pit/whatever of lava, falling from a
+distance that you know you will die from (in AD&D, a high level character can
+fall a great distance, which I think is stupid), the grim reaper cutting you
+in half with his scythe, etc...you know what I mean. Stuff you *know* you can
+instantly die from.
+
+In conclusion, I would like to add that if illusions are powerful enough to
+affect the mind as well as they do, then there should be some sort of real
+use in it besides that creating goofy pictures of your surroundings. You are
+dealing with the human (or other) nervous system here!
+
+Dave Boddie
+aka Malaak al Maheem
+Shire March of the Grimfells
+Calontir
+
+--
+========================Greetings from the Flux==========================
+: ___________   : Within every man : David C. Boddie                    :
+: |+         |_ : is the innate    : Lab Consultant / Computer Operator :
+: | NorthWest / : ability to do    : Computing Services, Univ of Ark    :
+: | Arkansas |  : something really : Fayetteville, Arkansas             :
+: |_ U of A /   : stupid!          : Bitnet: dboddie@uafsysb.uark.edu   :
+:   |______|    :         -- Me    : Internet: dboddie@uafhp.uark.edu   :
+=========================================================================
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06877; Thu, 15 Aug 91 13:14:58 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01838; Thu, 15 Aug 91 11:53:18 -0400
+Message-Id: <9108151553.AA01838@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0388; Thu, 15 Aug 91 11:19:52 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 8209; Thu, 15 Aug 91 11:19:03 EDT
+Date:         Thu, 15 Aug 1991 10:00:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!Dave_Wetzel%VOS.STRATUS.COM
+Subject:      Illusionary chainmail bikinis
+X-To:         gmast-l%utcvm.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+     First I'ld like to say that in general I like illusions.  They require
+
+more interaction and imagination than most spells.  Yes they can be
+incredably powerful, BUT ONLY IF THEY ARE BELIEVED!  That's the big draw
+back.  They're not as effective against smart opponents.
+
+     Now a few specific responses:
+
+** Re: Tabby <MUALLEMA%ECUVM1.BITNET@pucc.PRINCETON.EDU>
+
+     I'ld say no to illusionary diseases and heart attacks because of the
+lack of understanding of the workings of the human body.  Illusions only work
+if both the caster and the victim understand the effects of the illusion.
+That's why there are incredible bonuses for the victim if the caster is
+trying to make an illusion of something he's never seen.
+
+     But even assuming that it did work, what caster is going to maintain a
+spell that requires concentration and line-of-sight for the time it would
+take a disease to run it's course?  Imagine a mage following his victim
+everywhere.  Pretty soon the victim will either attack the mage out of
+frustration or call the local constable to take care of this wacko.
+
+** Re: Rob  <STURNKIN%EKU.bitnet@uunet.uu.net>
+
+     I'ld say illusionary armor works assuming the opponent believes it.
+It'ld be like the shield spell that way.  Of course if the mage then casts a
+spell the opponent would get a pretty good modifier to disbelieve the
+illusion (he know's mages don't wear armor).
+
+     I'ld also give him a new save everytime he would have hit the mage but
+didn't because of the illusionary AC.  That simulates the chance that the
+mage doesn't understand as well as his opponent the way armor reacts when
+struck.
+
+** Re: Bill Barney <IDWXB%ASUACAD.BITNET@pucc.PRINCETON.EDU>
+
+Trust bill to come up with the really pertant question:
+"So what would be the effect of an illusionary chainmail bikini?"
+
+     The enemy would probably die laughing!  So illusions can kill! ;-)
+
+-dlw
+Dave_Wetzel@vos.stratus.com
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06887; Thu, 15 Aug 91 13:15:03 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02256; Thu, 15 Aug 91 11:55:13 -0400
+Message-Id: <9108151555.AA02256@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2154; Thu, 15 Aug 91 11:42:51 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 0379; Thu, 15 Aug 91 11:38:41 EDT
+Date:         Thu, 15 Aug 1991 08:21:25 MST
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Bill Barney <uunet!pucc.PRINCETON.EDU!IDWXB%ASUACAD.BITNET>
+Subject:      illusionary armor
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+>From:         Mysto king of Phrygia ruler of many servant to none!
+>              <STURNKIN@EKU.BITNET>
+
+>You say an Illusonary Orc can kill someone. So if a real Orc come up to a mage
+>and doens't disbelieve he will see the aurmor. And to him it will be real. So
+>to him it will protect. Now what if you put the aurmor on the Orc he thinks it
+>is still real so to hime it will protect him as well. Now wouldn't it? It
+>might not actually but to him it would am I right??
+
+The idea of illusions having real effects is based on the apparent fact that
+the mind can cause physical changes to one's OWN body without apparent physical
+input.  In other words, you feel pain in your mind; thus a mind affecting spell
+can make you feel pain even if nothing touches you.
+
+Your mind CAN'T affect your external surroundings.  Thus if the orc saw a mage
+wearing armor, he might believe it is real, but his belief would not MAKE it
+real because the armor is a physical object outside the sphere of influence
+of the orc's mind.  By the same token, you might by illusion convince the orc
+he can fly, but he will not really be flying and he will not go anywhere; he'll
+just stand on the ground and flap his arms.
+
+On the other hand, if you attack that same orc with a sword and the orc
+believes it's real, the orc will expect to feel pain when hit.  The brain can
+feel pain without outside intervention!  That's within its sphere of influence.
+So the illusionary sword will have a real effect; the illusionary armor won't.
+
+Another way of looking at it is that the illusionary sword acts on the orc.
+The mage's illusionary armor acts on the orc's sword.  Since the orc's sword
+is nonsentient, it cannot be affected by the illusion.  If the orc were to
+beat on the mage with his fist, the "armor" might cause pain to the orc--but
+it still would not protect the mage a bit!
+
+- Bill
+
+>                                       rob
+
+Bill Barney
+-------------------------------------------------------------------------
+Office of Sponsored Projects ASB 206             Arizona State University
+(602) 965-2170                                       Tempe, AZ 85287-1903
+-------------------------------------------------------------------------
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06892; Thu, 15 Aug 91 13:15:05 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02313; Thu, 15 Aug 91 11:55:34 -0400
+Message-Id: <9108151555.AA02313@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 3050; Thu, 15 Aug 91 11:51:34 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 1687; Thu, 15 Aug 91 11:47:49 EDT
+Date:         Thu, 15 Aug 1991 11:45:31 TZONE
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Brandon Cope <uunet!pucc.PRINCETON.EDU!A_COPEAB%CCSVAX.SFASU.EDU>
+Subject:      illusions
+X-To:         GMAST-L%UTCVM.BITNET@CUNYVM.CUNY.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Well, I do allow illusions to kill, but it is very difficult. The first
+time an illusion does something that would cause damage (were it real),
+the victim is allowed another save. If it fails, the victim believes
+he/she has been injured, and the damage is recorded seperately from 'real'
+damage that the victim has taken. Any additonal attacks by the illusion
+against the victim grant no free saves. If the victim should ever fall
+unconscious from damage sustained, no problem; they are out. If the
+real and illusionary damage totaled kills the character (less than
+-10 in AD&D, or if a death roll is forced and failed in GURPS), roll
+vs HT+5 in GURPS or make a system shock roll in AD&D. If the roll fails,
+the person suffers major heart attack or stroke, and dies.
+
+--------------------------------------------------------------------------------
+Brandon Cope                               ! "I have a plan so cunning you
+Student Consultant, Stephen F. Austin State!  could stick a tail on it and
+A_COPEAB@ccsvax.sfasu.edu                  !  call it a weasel."
+Also.... A generous and Sadistic DM        !       Black Adder (III)
+--------------------------------------------------------------------------------
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06912; Thu, 15 Aug 91 13:15:15 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03578; Thu, 15 Aug 91 12:02:21 -0400
+Message-Id: <9108151602.AA03578@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 4318; Thu, 15 Aug 91 12:01:21 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 3503; Thu, 15 Aug 91 12:00:21 EDT
+Date:         Thu, 15 Aug 1991 11:50:45 edt
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Neuromancer (Girardot, David)" <uunet!pucc.PRINCETON.EDU!GIRARDOT%DICKINSN.BITNET>
+Subject:      Acid Dreams
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Hello, what I have to say is perhaps unrelated to Gmast, but I would like to
+clear up something that Dave Boddie mentioned in relation to acid.  Most
+peoples have startlingly wrong misconceptions about that, and other drugs, and
+I felt it was important for me to express the truth.
+
+>From: Dave Boddie <dboddie@UAFHP.UARK.EDU>
+>Subj: Re: sexism and illusions
+>
+>In the past I have had a lot of friends who took heavy drugs like acid. From
+>what I have heard, IMHO, acid severely alters a person's sight perceptions,
+>allowing him or her to see illusions unleashed by his subconscious mind. And
+>even though the person knew that the illusions were false, and that he could
+>reach out and touch them, smell them, etc, he still could not change his
+>perception of what was happening. If this illusion was a hostile one (my
+>friend once got attacked by a phone), it puts undue stress on the system
+>(natural reaction). If this continues, or the perceptions seem deadly, I
+
+I'm sorry, Dave, but your friend was having a bit of fun at your expense.
+Acid, indeed, *any* psychodelic drug does *not* "allow one to see illusions
+unleashed by his subconcious mind".  It does subtly alter ones perceptions but
+in no way would make a phone seem as if it were about to attack or pink
+elephants jump out of the walls.  That sort of thing is an unfortunate fallacy
+that many people share.  The actual effects of psychoactive drugs are very
+subtle; i.e. if one does not concentrate one will not realise much is going on
+at all.  The colors of the room may seem brighter, the sounds of Beethoven's
+9th may seem more immediate, you may even be able to concentrate on the
+minutest of detail for periods of time.  Also, acid does not "distract" as the
+pink elephant argument suggests, ones perceptions are not "flawed".  A person
+under the influence of psychodelic drugs, basically, is *more* aware than you
+are I.  (An opposite effect from narcotics such as beer.)
+
+>Dave Boddie
+
+
+--David
+
+--David M Girardot
+
+Girardot@dickinsn.bitnet
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06917; Thu, 15 Aug 91 13:15:18 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA04524; Thu, 15 Aug 91 12:04:56 -0400
+Message-Id: <9108151604.AA04524@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 4537; Thu, 15 Aug 91 12:04:14 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 3873; Thu, 15 Aug 91 12:02:29 EDT
+Date:         Thu, 15 Aug 1991 11:56:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!Dave_Wetzel%VOS.STRATUS.COM
+Subject:      Illusionary Armor
+X-To:         gmast-l%utcvm.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+A quick comment:
+
+     I had said I felt illusionary armor would work.  This is the rationale
+(not that magic needs to be rational - it is magic): If the opponent believes
+that the sword he's weilding has struck armor it can't penetrate wouldn't he
+subconciously stop his swing in order to pull back and swing on a differnt
+area where he might be effective?  Affording the "wearer" of such armor at
+least some protection?  There are a lot of problems with the realism of
+this:  Someone weilding a mace vs illusionary plate would probably not
+stop the swing, etc.  But AD&D combat is pretty inexact anyway.
+
+     I'ld be willing to allow it with the provisions mentioned before plus
+the comment that the first time the mage actually gets hit the spell is
+likely to break from his lack of concentration.
+
+     It doesn't seem a particularly useful application of an illusion anyway.
+Any mage who finds himself in melee and uses an illusion spell to create
+armor instead of using it to get himself out of combat is in deep sneakers
+anyway.
+
+Dave_Wetzel@vos.stratus.com
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06927; Thu, 15 Aug 91 13:15:23 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA18397; Thu, 15 Aug 91 13:02:50 -0400
+Message-Id: <9108151702.AA18397@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0754; Thu, 15 Aug 91 13:02:34 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 2411; Thu, 15 Aug 91 13:02:32 EDT
+Date:         Thu, 15 Aug 1991 13:05:46 -0400
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Geoffrey L. Hodge" <uunet!pucc.PRINCETON.EDU!glhodge%UMASSMED.UMMED.EDU>
+Subject:      3 Daves (illusions)
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Dave Wetzel:  You say that you would not allow a disease or heart attack
+illusion to work because of the lack of knowledge on the part of the
+victim of how diseases etc work.  Would you let an illusion of a magic
+missile work on a grunt fighter who doesn't understand how magic works?
+(I still don't understand how you could cast the illusion of a heart
+attack--at least not if illusions are supposed to be externally observable).
+I would think that a disease like Bubonic plague (which many people in the
+middle ages were all too familiar with) could cause death (in a campaign
+where illusions cause death) because 1) it creates observable effects--
+the black "buboes," and 2) the victim would (probably) know it is fatal.
+
+Dave Boddie:  No, I don't think we were "throwing and missing the mark"
+about illusions.  Most of us were responding directly to Tabby's question
+which assumes that illusions can kill.  The discussion has now shifted, and
+I agree with many people that the easiest and best way (in terms of game
+balance and consistant interpretation of spell effects) to run illusions
+is to rule that they are only observable hoaxes, like holograms, etc.
+
+David Giridot:  I run illusions in a similar way.  "Programming" an illusion
+would be very difficult.  If the caster was controlling the illusion, s/he
+might be able to program it to respond the way it would be expected to, but
+if the illusion is to be cast and then left unattended, it would be hard to
+cover all the bases.  In some game systems it may be possible to have another
+kind of programmed illusion which is linked with a telepathy magic.  This
+sort of spell would be very difficult, but could make the illusion act the
+way the victim expected it to (like the Star Trek episode "Shore Leave").
+
+							-Jeff
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06932; Thu, 15 Aug 91 13:15:26 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA01684; Thu, 15 Aug 91 11:52:36 -0400
+Message-Id: <9108151552.AA01684@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 9493; Thu, 15 Aug 91 11:11:55 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 7036; Thu, 15 Aug 91 11:11:28 EDT
+Date:         Thu, 15 Aug 1991 10:56:15 edt
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Neuromancer (Girardot, David)" <uunet!pucc.PRINCETON.EDU!GIRARDOT%DICKINSN.BITNET>
+Subject:      Illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+The following is my own estimation of how illusions should work, and I do not
+propose to say that it is *the* way; only to offer a possible viewpoint.
+Having said that...
+
+                        ILLUSIONS
+
+Illusions are, simply, a pattern woven by the caster of the illusion, that has
+an effect similar to hypnosis on the minds of all but the caster who percieve
+the pattern.  These patterns may be woven of a number of different varieties
+each with their differing effects.  Whatever the type though, all hold a few
+characteristics in common.
+
+First of all, the reality the pattern produces is
+_entirely_in_the_mind_of_the_beholder_.  Such a contention is fairly simple to
+understand until one considers the added complexity of multiple beholders.
+Suppose a pattern is woven onto victim 1 such as that his hair is on fire.
+Victim 2 sees this.  There are two possible outcomes.  First: victim runs
+around screaming and victim 2 wonders what all the fuss was about.  Second:
+victim 1 runs, and victim 2 is alarmed that victim 1's hair is on fire.
+However, mindless objects cannot be affected by the pattern.  So what if
+victim 2 pours some water on victim 1's head?  The water doesn't know victim
+1's head should appear to be on fire.  If the pattern were not sufficiently
+complex to recognize the action of water and know to fizzle out it is entirely
+concievable that to our victims, the water will appear to have no effect.
+Addtionally, unless the pattern is sufficiently complex to dictate that victim
+1's hair will begin to show the damage that fire will produce, victim 1 will
+not suffer any beyond a general sort of upset.
+
+Thus, we see that an illusion is limited by the complexity of its own pattern.
+ A pattern sufficiently complex can have truly amazing effect.  Consider a
+sort of pattern woven onto a victim such that he perceives his hair is on
+fire, such that if not "put out" by water, etc. it will begin to burn his head
+and skin, such that eventually the damage will be so great that the victim
+will die.  The effect of such an elaborate illusion would, at best, knock out
+the victim if he could not put the fire out (he would appear to be consumed by
+flame).
+
+The simplest pattern to create is known as an Image.  An image affects only
+the eyes of all who behold it.
+
+A complex pattern is whats known as a Program.  This is an "interactive" image
+that comes in two varieties, and is often quite complex to affect all senses
+and have a limited interaction with the inanimate similated by fooling the
+mind.  This is accomlished in the example already mentioned.  A fire Program
+could be made such that it fizzeles when it comes in contact with water.
+Programs tend to come in two varieties, depending upon whether their effect is
+Internal, or Complex.  Internal affects individuals.  I.E.  a fire Program
+Internal would cause victims to percieve fire, but they could dismiss the
+Program by the fact that each would not notice the program's effects on the
+other.  Needless to say, Internal is the easiest program.  A Complex Program
+not only works internally, but externally also, so that a number of victims
+experience the Program collaboratively also.  Complex programs are inherently
+difficulty, especially with tactile programs experienced by a large number of
+individuals.
+
+Patterns remain as long as they are energised by the caster, with one
+exception.  Their memory may remain in the victim's mind long after the
+pattern has ceased to exist, and this may "self-simulate" the patterns
+internal effects indefinitely.  Example, consider a a warrior entirely too
+sure of himself.  He becomes victim of an Internal Program such that he is
+especially skilled against demonkind.  Because of his own hubris, the danger
+is that the warrior may continue to beleive the pattern long after it is gone.
+
+A pattern can only be as complex as it is designed to be.  The difficulty of
+creating and maintaining a pattern is proportional to its complexity.
+General, anything beyond Images requires months of research and effort to gain
+the expertise neccesary to weave a good pattern.  Note that patterns, once
+reseacrhed, can then be used easily.  Think of Pattern Programs just like a
+computer program, though.  Even at the expert level, it takes hours of
+programming to create a pattern that works properly.
+
+One last note, Illusion Patterns are the basis of real magic.  I.E, they are
+creation of the unreal, whereas magic can create the real.  Illusions, because
+they create so little reality, are (besides the time) quite easy to make.
+Magick, because it creates real change in the world (for however long) is more
+difficult.  However, there is a third category of creation that is between the
+two.  Call it a quasi-real pattern.  It is creation that is not real as far as
+the universe is concerned, and yet is.  At any rate, the secret of its
+creation is carefully guarded, if it exists at all -- for the technique allows
+the de facto creation of magic without any effort.  There is, however, a
+price.  It is as if the universe is tricked into accepting the quasi-pattern,
+and then realises its mistake (to late to extract energy from the magician).
+Well, the universe must balance things somehow, so the fabric of reality is
+altered slightly to accept the quasi-pattern.  An example in legend is of the
+mage Kenephoreus creating a quasi-real apple that caused the nose of king
+Refuild half a world away, to turn blue.
+
+The most successful patterns are those that are subtle rather than complex.
+AN example is the Aprentice Yixor's enterprising spell of invisibility that
+achieves the effect, not by complex warping of light and photo-displacement
+effects, but my causing the mind to "shy away" from whatever is marked by the
+pattern.
+
+--David
+
+
+--David M Girardot
+
+Girardot@dickinsn.bitnet
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06937; Thu, 15 Aug 91 13:15:28 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02176; Thu, 15 Aug 91 11:54:59 -0400
+Message-Id: <9108151554.AA02176@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2034; Thu, 15 Aug 91 11:38:29 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 0143; Thu, 15 Aug 91 11:37:54 EDT
+Date:         Thu, 15 Aug 1991 11:30:55 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!alexj%JULIET.LL.MIT.EDU
+Subject:      Bikinis and Illusions;-)
+X-To:         GMAST-L%UTCVM.BITNET@mitvma.mit.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+ON SUBSERVIENCE
+
+Not only are womnen typically subservient in the
+ "mostly-accurate-medieval-society" fantasy, they are also typically
+sunservient in the _Conan_ series books, the _Gor_ books,
+the _Tarzan_ books, the _Mars_ books, and any host of other "mighty thewed
+barbarian" epics- which I think is the originating fantasy for the
+chainmail bikini.
+
+Even a lot, maybe most, of contemporary fantasy
+involves some male character saving everyone through ther ingenuity and
+skill.  But they are sensitive at least!;-)
+
+There are notable exceptions- Mercedes Lackey is often so anti-male(hetero-
+sexual male anyways) that it hurts.;-)  She represents the reflection, on
+the other side of the "mighty thewed barbarian".  Marion Zimmer Bradley
+often has strong female characters, and weak male characters.;-)
+Even Robert Howard had his strong female characters- Red Sonya, and
+Valeria for examples.
+
+THE FOLLOWING IS MY THEORY:
+I think it is mildly inaccurate to say that "the reality of the fantasy
+genre *is* subservience in women" but it is MOSTLY true.  Why?  Much
+of the classic proto-type fanatsy was written in a time when woman's
+rights were just starting to be heard.   It was a time dominated by  male
+authors.  Conan and Tarzan were the archetypes for much fantasy- thus their
+prejudices and tendencies went with the archetype.   Although there is a
+much MUCH stronger representation of women now in fantasy literature it is
+still a new trend.  The new books coming out tend to be a lot more
+"enlightened".
+
+I, for one, will not mock the mighty thewed barbarian.  Yea, it is sometimes
+testosterone-laden, sexist  violence- but it can be fun!;-)
+
+In terms of art(oh yeah- we were talking about art!;-)) I also like Frank
+ Frazzetta, but I tend to also be turned off by sniveling, subservient
+females.  Though chainmail bikinis can be VERY attractive on some bodies!
+
+ON ILLUSIONS
+
+People do die from shock.  Stress, emotional pressure, and sudden sensory
+stimuli can cause people to put physical pressure of their cardiovascular
+ system.  It seems feasible to me that if someone were frightened enough
+they could die of a heart attack.
+
+I have no evidence that people die of fright except hearsay- but I have no
+ evidence that they can't either, and the popular opinion is that they can.
+
+The whole question of illusions killing people depends on what kinf of illusion
+ they are.  MAgical illusions seem to come in three types:
+
+1)
+They effect your sensory organs and stimulate them so that you see, smell,
+hear, feel things that are not really there.
+
+I think this type of illusion would be the most difficult to kill with.
+I think a person would only die if they were so terrified of dying that
+they had a heart attack at the moment the illusion killed them(or
+whatever).  I think it is unlikely.
+
+This is how illusions in my campaign work.
+
+2)
+They effect the parts of your mind that interpret sensory data and make you
+ believe you are seeing things.  This is mor epowerful as it involves
+reaching into the persons mind and manipulating their thoughts.  It also allows
+ the illusionist potential to access the subjective manner in which
+the victim interprets the illusion.  In that sense the illusionist can make
+an illusion inherently SCARY as opposed to cretaing an image that the
+illusionist thinks will scare the victim.
+
+This type of illusion would be easier to kill with because you could induce
+fright and such strong emotions as to put a lot of stress on the perosn,
+possibly leading to a stroke or heart attack!
+
+DEpending on how much the GM thinks the mind controls the body it could
+also cause bleeding from imaginary sword wounds, sores from imaginary
+diseases, etc.
+
+IN my campaign only very sophisticated enchanters can perform this type of
+illusion and it usually requires a thorough understanding of the illusionary
+magics and the enchantment magics(charm, hypnosis, cause emotion, etc.).
+
+3)
+This one is on the wierd side, and in my opinion does not belong in the
+illusion discussion.  It is based on the concept that we make our own
+reality.   ANd that if the illusionist convinces us of his reality
+using his magics then whatecve rthe illusion is is real for whoever it is
+cast on. SO basically if the character did not make a perception/
+saving throw/magic resistance roll, or whatever, then they would be
+enrolled in the illusionists reality and it WOULD BE REAL for them.
+
+Many AD&D illusions seem to be based on this premise.  I think it is
+far too powerful to even call it illusion- because if the character can
+actually CHANGE the REALITY of his opponent then no magic is more powerful.
+ALSO- this mechanism does explain how illusionary armor or weapons or
+illusionary bridges could work.  The caster is just changing HIS reality.
+
+I would recommend that spells of this type be scrapped form anyones campaign,
+or at least made unbelievably hard.  (In AD&D terms I would add FIVE levels
+to many of the illusion spells that are in this catagory.  The ones that
+just effect senses are probably fine just where they are).
+
+To answer questions like the plastic bag over the head choking someone and
+dying of a long term illusionary illness, you have to decide what kind of
+illusions exist and are possible in your campaign.  My reccommendations are
+based on MY preference for a realistic, balanced campaign.  I have run
+in really FUN campaigns where Phantasmal Forces(an AD&D spell that allows
+you to create the illusion of anything in a fairly large area- it is also
+the lowest level spell possible{outside of simple tricks and cantrips})
+were thrown around like crazy- it just isn't the kind of campaign I would
+run.
+
+
+Tabby says:
+>btw, my favorite interpretation of illusion was that Star Trek episode
+>when they were in the wild west..  The illusory bullet killed Chekov,
+>and then when Spock dispelled the illusion, he 'came back to life',
+
+Actually Spock didn't dispel the illusion he mad eit possible for McCoy,
+Scotty, and Kirk to see that it was an Illusion and not "REALITY"
+That struck me as a carefully maintained and constabntlky supervised
+illusion because CHekov didn't come back till the Melkotians(I think)
+dispelled the illusion themselves.
+
+I think it was a type II illusion!;-)
+
+I JUST got Jeff's post about this!  I agree with it, of course!
+
+						Alex
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06976; Thu, 15 Aug 91 15:13:07 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA21801; Thu, 15 Aug 91 13:16:54 -0400
+Message-Id: <9108151716.AA21801@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 1609; Thu, 15 Aug 91 13:13:07 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 3690; Thu, 15 Aug 91 13:11:45 EDT
+Date:         Thu, 15 Aug 1991 13:16:38 -0400
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Geoffrey L. Hodge" <uunet!pucc.PRINCETON.EDU!glhodge%UMASSMED.UMMED.EDU>
+Subject:      Abusing illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Sharon:  You said you had a ranger who cast an illusion of a good foot
+and then walked back to town with it (is that correct?)  If that is the
+case, I wouldn't have let you do that, even if other people don't disbelieve
+in it.  The fact is that the ranger *knows* that it is not real.  I would
+rule that if a person *knows* that something is an illusion, they can ignore
+the illusion's effects.  (Actually, I would run illusions completely
+differently... :-)
+
+	About a decade ago when I was running a D&D campaign, I thought up
+two relatively nasty ideas involving illusions.  I used one on my players,
+but never was nasty enough to use the other.  I think they might amuse you.
+
+	The party broke into the house of a mysteriously vanished wizard.
+They got to the magic library, which the wizard obviously didn't want people
+messing with, so he cast a couple of illusions.  First, he cast the illusion
+that the room was completely bricked up solid.  On top of that, he cast a
+second illusion that the room was a dusty bedroom.
+	Sure enough, the party ransacked the house, then said "this can't
+just be a dusty bedroom--it must be an illusion."  Unfortunately, one of the
+PCs was inside the room when he successfully disbelieved.  He found himself
+encased in brick!  Now, years later, they are still trying to figure out what
+is real and what is illusion.  Heh heh.
+
+	The other idea I had hinges on the fact that (at least in 1st Ed
+AD&D) there was a rule stating that characters gain no experience for killing
+illusionary monsters.  My idea was to run them through a long, grueling
+dungeon with a super-unbelievably-nasty monster at the end.  When the party
+disbelieves in the much-too-tough monster, the entire (illusionary) dungeon
+disappears, along with all their hard earned treasure and experience.
+	I would not be writing this now if I had actually tried this one...
+
+							-Jeff
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06981; Thu, 15 Aug 91 15:13:09 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA23089; Thu, 15 Aug 91 13:22:09 -0400
+Message-Id: <9108151722.AA23089@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2561; Thu, 15 Aug 91 13:21:54 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4987; Thu, 15 Aug 91 13:21:52 EDT
+Date:         Thu, 15 Aug 1991 10:06:01 MST
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Bill Barney <uunet!pucc.PRINCETON.EDU!IDWXB%ASUACAD.BITNET>
+Subject:      concentration!
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+>From:         Dave_Wetzel@VOS.STRATUS.COM
+
+>    It doesn't seem a particularly useful application of an illusion anyway.
+>Any mage who finds himself in melee and uses an illusion spell to create
+>armor instead of using it to get himself out of combat is in deep sneakers
+>anyway.
+
+An excellent point which I had completely forgotten about!  In most games I
+have played in or GMed, maintenance of an illusion requires full concentration
+of the mage, so if the mage makes himself an illusionary set of armor, he
+can then do nothing but stand there and maintain the illusion.  He can't cast
+any more spells.  In AD&D anyway, mages (esp. low levels) often face the
+problem of running out of spells and/or hit points and becoming virtually
+useless.  Even so, I would imagine that it would make more sense to use your
+last spell on something that would protect you and any other incapacitated
+PC's (i.e. an illusion that you're "not there") than to blow it on something
+as dicey as illusionary armor.  (Guess you could put illusionary armor on
+someone ELSE without canceling his ability to act, but then see all my other
+objections.)
+
+Dave's other argument about 'subconsciously stopping his swing to hit somewhere
+more effective' (a paraphrase)--well, it's a matter of opinion.  If you're
+talking about subconsciously stopping a blow mid-swing, I doubt it.  If you
+are talking about directing the swing to an area not covered or less covered
+by the illusionary armor, I would agree, but I don't think it would be very
+useful except in certain very specialized situations.
+
+Bill
+
+>Dave_Wetzel@vos.stratus.com
+
+Bill Barney
+-------------------------------------------------------------------------
+Office of Sponsored Projects ASB 206             Arizona State University
+(602) 965-2170                                       Tempe, AZ 85287-1903
+-------------------------------------------------------------------------
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06986; Thu, 15 Aug 91 15:13:12 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA25480; Thu, 15 Aug 91 13:33:02 -0400
+Message-Id: <9108151733.AA25480@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 3415; Thu, 15 Aug 91 13:31:15 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 6301; Thu, 15 Aug 91 13:30:31 EDT
+Date:         Thu, 15 Aug 1991 13:22:28 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!sharons%JULIET.LL.MIT.EDU
+Subject:      illusions
+X-To:         GMAST-L%UTCVM.BITNET@mitvma.mit.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+Geof Hodge:
+	Actually, it was not my ranger, but someone else in a campaign
+I was in.  I agree that the use was pretty weird - I don't think I
+would allow it either. I just mentioned it as fodder for the discussion.
+
+Sharon
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA06991; Thu, 15 Aug 91 15:13:14 EDT
+Received: from pucc.PRINCETON.EDU by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA26370; Thu, 15 Aug 91 14:00:37 -0400
+Message-Id: <9108151800.AA26370@relay2.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 5984; Thu, 15 Aug 91 14:00:16 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 9894; Thu, 15 Aug 91 14:00:14 EDT
+Date:         Thu, 15 Aug 1991 13:52:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!Dave_Wetzel%VOS.STRATUS.COM
+Subject:      3 Daves (illusions)
+X-To:         gmast-l%utcvm.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+     New Disclaimer:  This is all off-the-cuff and relates to worlds where
+
+illusionary magic exists.
+
+Re: "Geoffrey L. Hodge" <glhodge%UMASSMED.UMMED.EDU@pucc.PRINCETON.EDU>
+
+>Dave Wetzel:  You say that you would not allow a disease or heart attack
+>illusion to work because of the lack of knowledge on the part of the
+>victim of how diseases etc work.  Would you let an illusion of a magic
+>missile work on a grunt fighter who doesn't understand how magic works?
+
+     Depends.  First let me say the grunt doesn't need to be able to do
+magic, he just needs to understand that when the mage points those little
+globs of light at someone they take damage.  Conversely, if the fighter
+truely has never seen a magic missile, he wouldn't take damage.
+
+     Here's why, the theory is that the illusion itself doesn't cause effect,
+it's the believer's mind that does.  If the believer has no idea what the
+effect of this object flying at him will be, he will take no effect from it.
+He may cringe from it, not knowing if he's about to become a frog or perhaps
+go insane, or get real weak, etc.  But when it hits, if he doesn't know what
+will happen nothing will.
+
+     For this reason, we've always played that certain spells can make good
+illusions, but most can't.  Fireball is a good example of one that makes a
+good illusion because it has a real, understandable, visual effect (being
+encased in fire).  I can't image illusionary charm person (unless cast
+against a mage who was watching the opponent cast and trying to figure out
+what was cast and *believes* it was charm person and then fails his
+"disbelieve" save despite his high int and then fails his normal save vs
+charm person -- pretty bloody unlikely).
+
+     I don't understand how the effect of a heart attack could be made
+with an illusion either (except by making a good scary illusion appear:-).
+
+     As for disease, if both the caster and the victim were healers or
+otherwize had a real detailed knowledge of disesase, I suppose it could be
+fatal.  But, again, what caster is going to follow his victim around for the
+days/weeks/months/years it takes to die from the disease.  Even the plague
+took days to actually die from.  The only way I could see this working is if
+the two were in a town currently infected with a real nasty plague.  The
+caster could cast the illusion of disease on his victim in hopes that the
+townsfolk would believe it and toss the "infected" person on the fire with
+the rest of the infected people.
+
+     That's the real use of illusions, to make others react to something
+that's not real.  Getting them to either achieve an effect for you or to
+distract them from you and your friends.
+
+     As an aside, I agree with you Jeff, the ranger with one foot would not
+be able to walk on an illusionary one because he *KNOWS* it's not real.  You
+can't take the benefit of an illusion you don't believe in just because you
+want to believe.  And as GM, I'ld make sure you checked for belief the first
+time you tried to use it (and I'ld make it an automatic failure, unless there
+was a real good excuse to give the character a chance to believe).  Of course
+if they had magically altered the ranger's memory (hypotism, et al),
+convincing him that he never lost the foot, he'ld have a normal save to
+believe the illusion.  I'm not sure I'ld let him walk on it afterwards
+anyway.  I'ld have to think about that.
+
+
+Dave_Wetzel@vos.stratus.com
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA07040; Thu, 15 Aug 91 17:12:35 EDT
+Received: from pucc.PRINCETON.EDU by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA15364; Thu, 15 Aug 91 15:30:09 -0400
+Message-Id: <9108151930.AA15364@relay2.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 5859; Thu, 15 Aug 91 15:29:45 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 5050; Thu, 15 Aug 91 15:29:40 EDT
+Date:         Thu, 15 Aug 1991 15:27:38 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!sharons%JULIET.LL.MIT.EDU
+Subject:      illusions
+X-To:         GMAST-L%UTCVM.BITNET@mitvma.mit.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+I feel I must point out that how a character would react to thinking that
+she/he was dead would depend on that character's view of death and the
+afterlife.
+
+Sharon
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA07046; Thu, 15 Aug 91 17:12:37 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA23452; Thu, 15 Aug 91 15:33:21 -0400
+Message-Id: <9108151933.AA23452@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2474; Thu, 15 Aug 91 15:03:41 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 9841; Thu, 15 Aug 91 14:58:46 EDT
+Date:         Thu, 15 Aug 1991 14:35:59 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Tabby <uunet!pucc.PRINCETON.EDU!MUALLEMA%ECUVM1.BITNET>
+Subject:      illusions in the cat's campaign
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+ok.. I know you're sick of this topic, but I want to answer some of the
+questions directed at me.  Mainly, to be more specific about how I *do*
+run illusions.
+
+The illusion is entirely in the believer's mind.  If an illusory ton of
+bricks fell on a believer, he would believe he was dead and act accordingly.
+Witnesses who believed the ton of bricks would believe he was dead and act
+accordingly.  So if everyone around thought he was dead, he would lie there,
+not moving, metabolism slowed almost to death, until he starved, died of
+thirst, or someone dispelled the illusion that he had died.
+(Once again, I am reminded of the Star Trek where Chekov died from an illusory
+bullet, but Spock dispelled the illusion, bringing him back to life.)
+
+So, ok, if a mage wore illusory armor, a blow would still hit him for full
+damage, but the victim might think it bounced off the armor, and would swing
+even harder the next time.  If he gave someone else the armor, that person
+would get hit and think that he hadn't, and might stand there thinking he
+was invulnerable until he really died.  If a ranger believed he had an illusory
+foot, he would think he was walking along, when really he would be hobbling
+along pathetically, doing horrible damage to his stump.  If he had an entire
+illusory leg, he would think he was walking along, when really he'd be doing
+the curly shuffle.  A mage could create an illusion that he is wielding a
+sword, and if he struck a killing blow to a believer, the believer would
+believe he was dead:  same as the ton of bricks above.  Ok, so if plague
+was common in the world, and someone did Maintain an illusion of plague on
+a believer for long enough, i would rule that the believer would think he
+was dead.
+
+
+Ok, Now I have another question:  Have there been any actual instances of
+someone under hypnosis being made to believe they had died??   If so,
+what happens??  This might shed some light on the subject....
+
+
+ Tabby
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA07056; Thu, 15 Aug 91 17:12:42 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA15294; Thu, 15 Aug 91 17:03:19 -0400
+Message-Id: <9108152103.AA15294@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 4777; Thu, 15 Aug 91 17:03:01 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 8845; Thu, 15 Aug 91 17:00:29 EDT
+Date:         Thu, 15 Aug 1991 15:55:00 CDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!ANANDA%BSU.DECNET%MSUS1.BITNET
+Subject:      illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: RO
+
+So, Tabby, did you get the "more intelligent" discussion you wanted?  :-)
+
+One thing no one's mentioned directly, but several people have perhaps alluded
+to is psychosomatic effects.  Basically, a psychosomatic illness is a *real*
+illness caused by a person's mind.
+
+How might this transfer over into the illusion discussion?  Well, if a person
+thinks he's sick because he appears to have a disease, he may well make himself
+truly physically sick.  If he sees an arrow sticking out of his chest, with
+blood flowing from the wound, his mind may well create the pain such a wound
+would cause -- but if he's never had such a wound, the amount of pain his mind
+would create could be much greater or lower than it "should" be.  (Okay,
+explanation via game mechanic:  an arrow does 1d6 damage.  If the victim here
+has never been hit by an arrow before, his mind could cause 1d4 or 1d8 of "pain
+damage" as easily as 1d6.)  The aforementioned fighter who's never seen a magic
+missle could possibly die if he perceives the missle as lethal magic, or not
+even bat an eyelash if he perceives it as nothing more than a little light-
+bolt.
+
+As far as people having heart attacks due to fright, I read something about
+that in an issue of _Discover_ magazine several years ago.  I believe it said
+that such things are not only possible, but at least implied if not stated that
+fright-induced heart attacks have happened.
+
+(Brandon:  I like your ideas for adnd mechanics for 'damaging illusions'.  They
+just might get used tonight....umm, make that in about ten minutes; I'm late
+already....)
+
+--Ananda
+
+ananda%bsu.decnet@msus1.msus.edu  /ananda%bsu@msus1.msus.edu \__if the .decnet
+ananda%bsu.decnet@msus1.bitnet    \ananda%bsu@msus1.bitnet   /  causes problems
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA07258; Thu, 15 Aug 91 23:15:20 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA13761; Thu, 15 Aug 91 22:06:11 -0400
+Message-Id: <9108160206.AA13761@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 2263; Thu, 15 Aug 91 22:05:58 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 5075; Thu, 15 Aug 91 22:05:58 EDT
+Date:         Wed, 14 Aug 1991 14:03:33 HST
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Tanis Half-Elven <uunet!pucc.PRINCETON.EDU!SWALKER%UHUNIX.BITNET>
+Subject:      Re: chainmail bikinis and Illusions.
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Your message of Wed, 14 Aug 1991 17:11:52 EDT
+Status: RO
+
+^Anyway.. I have a question for everyone.  I asked this on Adnd-l a while
+^back, but I think I could probably get a more intelligent discussion
+^on this list.  it's about illusions.. obviously we're talking fantasy
+^genre's now.  Okay, suppose you rule that illusions can hurt and kill.
+^
+^Allright, now suppose an illusionist casts an illusion that makes it's
+^victim believe that he has contracted a terminal illness?  (illusory
+^spots on the skin and other symptoms)  Will the victim eventually die,
+
+Add the effects of a few cantrips (like sneeze, belch, cough, scratch,
+twitch, yawn, etc. :)
+
+^assuming the illusion is maintained long enough for the 'illness' to
+^run it's course?  What about an illusory heart attack?  an illusory
+^plastic bag around the victim's head that suffocates him?  oooh, this
+^is getting evil.... what does everyone (anyone) think?
+^   thanks,
+^     Tabby
+
+I think the best way to handle the death-by-illusion would be to have the
+character (victim) make a system shock check.  If the check is failed, the
+character dies, or goes to 0 hp (unconscious (sp?)), or whatever.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+             Sunny Walker [Tanis Half-Elven], Xevian Technology
+ swalker@uhunix1.uhcc.Hawaii.Edu [Internet]  SWALKER@UHUNIX.BITNET [Bitnet]
+"Discussion, n. A method of confirming others in their errors." -- A. Bierce
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA00574; Tue, 20 Aug 91 05:15:09 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02058; Tue, 20 Aug 91 00:54:01 -0400
+Message-Id: <9108200454.AA02058@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0304; Tue, 20 Aug 91 00:52:32 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4756; Tue, 20 Aug 91 00:50:15 EDT
+Date:         Thu, 15 Aug 1991 15:37:00 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: "Take me drunk, I'm home." <uunet!pucc.PRINCETON.EDU!WN71292%LTUVAX.BITNET>
+Subject:      Spell Limitations
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: R
+
+On the topic of this illusion business, what would be the true limitations
+of other spells?
+
+Could a magic-user shape change into a virus that he knew is a cause of
+a plague and kill an entire town if not country-side?
+
+Normal illusions should not be able to kill.  There are the more powerful
+spells that do that.  A normal illusion could fool someone into thinking
+that they have been killed and the shock could send them into
+unconsciousness (Dm's option) but on the question if they die, they may
+be given a system shock roll to avoid the heart attack idea of the scare
+of dying.  But I would say that at that instant (if they make their first
+system shock roll to avoid unconsciousness) that the illusion is broken.
+The reason behind this is the idea "I should have been killed.  What
+happened?".  At that moment that doubt enters the persons mind the
+illusion is broken...  They are sitting thier with pieces of them
+hanging all over (all illisionary) and they are fine.  They could have
+an arm blown off and if they fall to the ground and throw their arms out
+to catch themselves (a reflex to throw out both) then both will catch
+them and they will feel an invisible force holding them up where their
+arm used to be.  Again, the idea of that instant of doubt...  To do
+anything otherwise makes low level illusion spells more powerful than
+a power word kill that is an 8th level spell (I think)...  this is most
+non-triumphant (for the villians that is, hahahahahahaha)....
+
+            William O. Nielsen
+            "I used to hate evil people but now I'm their leader!"
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA00579; Tue, 20 Aug 91 05:15:11 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02153; Tue, 20 Aug 91 00:54:29 -0400
+Message-Id: <9108200454.AA02153@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0319; Tue, 20 Aug 91 00:52:59 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4774; Tue, 20 Aug 91 00:50:21 EDT
+Date:         Fri, 16 Aug 1991 13:34:00 GMT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: uunet!pucc.PRINCETON.EDU!ARHN6001%IRUCCVAX.UCC.IE
+Subject:      Re: illusions
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: R
+
+        I suffer from being a few timezones away from you all, so I get huge
+bundles of mail when I log in - it also means that other people get to say
+all the wonderful things i wanted to say. (Sob, sob)
+
+        Illusionary Armour - well, if you believe that it is real and can
+protect you, your mind may well make some changes to the damage you suffer
+to reflect that -- and it must work both ways - if an illusion can convince
+your mind that you are hurt, then it can also convince your mind that you
+aren't, and you won't be.
+
+        However, you obviously can't cast Illusionary armour on yourself,
+becuase you would know that it was an illusion, wouldn't you? So a mage has
+to cast it on a fighter and not tell the fighter that it is an illusion.
+
+        This pretty much wipes out that ranger with his illusory foot,
+doesn't it? and even if someone else cast it for him, and said it was a
+"healing" spell, there is no way anyone could maintain a permanent illusion
+of that complexity beyond concentration time.
+
+        Actually, given the complexity required for a killing illusion -
+it would have to fool several senses simulataneously, it would almost always
+have to move convincingly and be "done" with a lot of artistry and skill, they
+would be very rare. Since very few of us can, with time, draw a brick that
+looks real, then people who can whip up a ton of falling bricks on demand
+would be rare. The most regular, and useful, use of illusions in campaigns
+I've played in has been to subtly alter the lightening or sound in a limited
+area. The worst we ever ran into was last session, in the "halls of the High
+ King" where the three watevertheycallem in 2nd Ed hit us with three
+different killers simultaneously - the old crushing walls was one - and
+all we lost was a few swords, whanged off walls that had illusions cast on
+them.
+
+        Mike Cosgrave
+Return-Path: <uunet!UTCVM.BITNET!GMAST-L>
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA00609; Tue, 20 Aug 91 05:15:28 EDT
+Received: from pucc.PRINCETON.EDU by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA02196; Tue, 20 Aug 91 00:54:51 -0400
+Message-Id: <9108200454.AA02196@relay1.UU.NET>
+Received: from PUCC.PRINCETON.EDU by pucc.PRINCETON.EDU (IBM VM SMTP V2R1)
+   with BSMTP id 0339; Tue, 20 Aug 91 00:53:21 EDT
+Received: from PUCC.BITNET by PUCC.PRINCETON.EDU (Mailer R2.08 R208004) with
+ BSMTP id 4802; Tue, 20 Aug 91 00:50:46 EDT
+Date:         Fri, 16 Aug 1991 10:55:31 EDT
+Reply-To: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+Sender: Gamemasters Interest Group <uunet!pucc.PRINCETON.EDU!GMAST-L%UTCVM.BITNET>
+From: Jim Mochel <uunet!pucc.PRINCETON.EDU!oak!jim%UUNET.UU.NET>
+X-To:         uunet!UTCVM.BITNET!GMAST-L@uunet.UU.NET
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+Status: R
+
+Hi there folks,
+	I spend one day away from the office and you people get a really
+interesting discussion on illusion going ! I can't leave you alone
+for more than a minute !
+
+	I have thought about illusions and their effects for many years,
+ever since I first came across AD&D techniques of handling illusion
+as a different type of magery that did more damage to an indeterminate
+number of people in an unspecified and internally inconsistent manner.
+
+	The end result of all this is that I tend to view all illusion
+as mind affectting and not environment affecting. Thus an illusion
+can only affect what the mind can effect.
+
+	This limits an illusion to affecting the mind and, indirectly, the body
+of the affected character.
+
+	That is what ILLUSION magic can affect. If the caster instead
+chooses to use light to create an image rather than directly affecting
+the mind of the target, that is not illusion magic, that is light
+magic. Of course a good illusionist will use both the strengthen the
+effect desired.
+
+	There is no doubt in my mind that the mind has the ability
+to affect the body greatly. There are documented cases of death
+caused from fright. They seem to be VERY hard to induce externally
+but supposedly it can be done. By the same token hypnosis is supposed
+to be capable of allowing surgery to be performed on unanesthesized
+patients. SO it is possible to block pain. And of course there is a
+common belief in the "placebo" effect and in psychosomatic illness
+and injury. The mental stretch to the concepts implied by illusion
+not that large.
+
+	The problem with illusion is in creating a pattern of magic that
+is an accurate duplication of all of the perceptions and effects
+of the event the caster is trying to mimic. An illusion of a spear that
+does not correctly mimic the perceptions and stimuli of a real spear
+is less likely to cause the body to respond as if it had been speared.
+If there is enough confusion to cause themind to reevaluate and sort
+out the signals it just recieved, then the fake spear is less likely
+to do more than cause the recipient to pause.
+
+	So one key in illusion becomes experience, the more experienced
+the caster is
+the more effective their casts become. If you are in a high detail
+campaign you may want to require the caster to have rankings in each
+of the various effects they intend to use.
+	For this reason a mage can usually do a convincing illusion
+of themself. Other illusions will depend on who is facing them.
+A mage that casts a fighters image will do best against those
+who are less famailiar with fighters and the manner in which
+they move and act.
+
+	Another key becomes time. If the target has the time to take
+in all the elements of an illusion then they will have time to see the
+inconsistentcies. Thus a quick effect is more likely to be accepted
+easily.
+
+	Saving throws are always a headache with illusion since it is never
+clear what a saving throw really represents. As far as I am concerned
+it is nothing more than a perception roll.  If something abnormal
+is noted about the illusion it is couched in terms that describe it
+in a way consistent with how well the roll was made.
+
+	Example:
+
+	A person running around a corner into an illusionary wall gets to roll
+a perception roll.
+
+	1) He makes the perception roll(barely) , realizes he is about to hit it
+, and makes all the appropriate physical actions to avoid it. If he/she
+hits it, there will be some damage ( assuming the mage was not a complete klutz)
+ as the characters mind had enough input from the wall to convince him
+that he ran into it. End result: a dazed person wandering around without a mark
+ on him or
+her until some bruising appears.
+
+	2) He fails the perception roll, he doesn't see the wall at
+all, runs through it. The character still has to deal with the effects
+of the illusion trying to stimulate his mind into believing they
+have run into a wall.
+
+	3) They make the perception roll(critically) and realize the
+wall is "wrong" . DEcides to run ythrough it. The character still
+has to deal with the effects of the illusion but they have an edge
+on any rolls they make because of the knowledge about the wall.
+
+
+	With the above as a background I would like to respond to
+some of the ideas I have been reading.
+
+---------------------------------------------------------------------
+>From Bill:
+>   From rule two, it follows that phantasmal armor would affect the way in
+>   which the blow was struck but not physically affect the blow.  For instance>
+   a dagger-wielding orc facing an opponent in illusionary plate might think,
+>   "hmm, my dagger won't pierce that; I'll attack someone else."  On the other
+>   hand the same orc with a bastard sword might reason "he's got plate armor,
+>   I better swing harder."  So it could have the opposite of the desired
+>   effect.
+>
+
+I would tend to classify phantasmal armour as a simple force casting and
+not an Illusion.
+
+>From Geoffrey :
+
+>David Giridot:  I run illusions in a similar way.  "Programming" an illusion
+>would be very difficult.  If the caster was controlling the illusion, s/he
+>might be able to program it to respond the way it would be expected to, but
+>if the illusion is to be cast and then left unattended, it would be hard to
+>cover all the bases.  In some game systems it may be possible to have another
+>kind of programmed illusion which is linked with a telepathy magic.  This
+>sort of spell would be very difficult, but could make the illusion act the
+>way the victim expected it to (like the Star Trek episode "Shore Leave").
+>
+>							-Jeff
+
+I tend to think that all illusions are programmed to a greater or lesser extent
+. The real key is how familiar the caster is with a given effect.
+A good illusionist would have to be an expert observer ! Admittedly the
+depth of the rppogramming would be dependent on how much time and energy
+the caster put into it but it is certainly possible for a mage to cast
+an illusion of himself (as he/she views themself) that would fool
+most people and handle limited conversations.
+E 2
+I 1
+E 1

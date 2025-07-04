@@ -1,0 +1,112 @@
+.nj
+.nf
+.rm 80
+.in 5
+.he //Spell List of the Sulamane Shamans//
+
+lvl     Name                                    type
+----------------------------------------------------
+1       Comprehend Languages                    MU
+1       Message                                 MU
+1       Read Magic                              MU
+1       Spell Learning                          MU
+1       Remove Fear                             CL #
+1       Pass W/O trace                          DR
+1       Predict Weather                         DR
+1       Purify Water & Food                     DR
+1       Dark                                    IL #
+1       Ghost Light                             WU #
+1       Animal Companion                        SH
+1       Augury                                  SH
+1       Detect Harmony                          SH
+1       Know History                            SH      
+1       Trance                                  SH #
+
+2       Speak With animals                      CL
+2       Obscurement                             DR
+2       ESP                                     MU
+2       Levitate                                MU #                              
+2       Scare                                   MU #
+2       Strength                                MU #
+2       Detect Life                             SH
+2       Dream Sight                             SH
+2       Shamans Steed ( as opal eyed steed)     **
+2       Know Motivation                         SH
+2       Messenger                               SH
+2       Poison Clear ( as Cummorah )            ** #
+2       Warning                                 SH #
+2       Swim                                    WU
+2       Misdirection                            WU 
+
+3       Flame Walk                              CL #
+3       Feign Death                             CL
+3       Hold Animal                             DR
+3       Cure light wounds                       DR 
+3       Flame Arrow                             MU
+3       Gust of wind                            MU #
+3       Item                                    MU
+3       Wind Wall                               MU #
+3       Dispel Magic                            SH #
+3       Divination                              SH 
+3       Commune with Lesser Spirit              SH(2) 
+3       Tongues                                 SH
+3       Memory                                  WU
+3       Scry                                    WU
+3       Detect Lie                              CL(4)
+
+.bp
+lvl     Name                                    type
+----------------------------------------------------
+4       Exorcise                                CL #
+4       Imbue with Spell Ability                CL
+4       Prot from lightning                     DR
+4       Cure Serious Wounds                     DR
+4       Polymorph Self                          MU  
+4       Remove Curse                            MU
+4       Dispel Illusion                         MU
+4       Dispel Exhaustion                       IL
+4       Shadow Monsters                         IL #
+4       Whispering Wind (2 x range )            IL
+4       Dream Vision                            WU
+4       Bargain                                 WU
+4       Dimension Door                          WU
+4       Vengeance                               WU
+4       Ceremony                                CL
+
+5       Plane Shift                             CL #
+5       True seeing                             CL #
+5       Dismissal                               MU #
+5       Telekinesis                             MU #
+5       Dolor                                   MU 
+5       Sending                                 MU 
+5       Feeblemind                              MU # ( for duration )
+5       Faithful Hound ( as Mordakainans )      MU 4 
+5       Pacify                                  SH
+5       Air Walk                                SH #
+5       Mental Strength                         SH #
+5       Remember                                SH
+5       Aiming at the target                    WU
+5       Spirit Self                             WU
+
+6       Find The Path                           CL
+6       Forbiddance                             CL
+6       Weather Summoning                       DR  #
+6       Cure Critical Wounds                    DR
+6       Contigency                              MU
+6       INvisible Stalker                       MU #
+6       Legend Lore                             MU
+6       Reincarnation                           MU
+6       Shadow Walk                             IL (7) #
+6       Instruct                                SH 
+6       Longevity                               SH
+6       Aura                                    WU #
+
+7       Astral Spell                            CL
+7       Sunray                                  DR #
+7       Banishment                              MU 
+7       Teleport                                MU(5)
+7       Power Word Stun                         MU
+7       Restore Spirit                          SH   
+7       Pain                                    WU #
+7       Commune With Greater Spirit             WU as SH(5)
+7       Great Shout                             **

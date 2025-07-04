@@ -1,0 +1,21 @@
+<Book>		"\\documentstyle\[sh,stable,relate\]{book}"
+</Book> 	"\end{document}"
+<BookInfo>  
+</BookInfo> 	"\\begin{document}"
+<BookBiblio>  	
+</BookBiblio>
+<Title>			"\\title{"
+</Title>		"}"
+<AuthorGroup>
+<Author>		"\author{"
+<FirstName>		
+</FirstName>
+<SurName>
+</SurName>
+</Author>		"}"
+</AuthorGroup>
+<Part>			"\part{"
+<Appendix>		"\appendix{"
+<LiteralLayout> 	"\verbatim{"
+</LiteralLayout>	"}"
+</Appendix>         "}"

@@ -1,0 +1,168 @@
+From world!news.kei.com!eff!news.umbc.edu!europa.eng.gtefsd.com!howland.reston.ans.net!news.moneng.mei.com!uwm.edu!spool.mu.edu!bloom-beacon.mit.edu!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:16 1993
+Xref: world rec.games.frp.misc:30233 rec.games.design:5972
+Newsgroups: rec.games.frp.misc,rec.games.design
+Path: world!news.kei.com!eff!news.umbc.edu!europa.eng.gtefsd.com!howland.reston.ans.net!news.moneng.mei.com!uwm.edu!spool.mu.edu!bloom-beacon.mit.edu!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE: Latest version now out
+Message-ID: <1993Dec8.200316.1623@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:03:16 GMT
+Lines: 155
+
+The latest version of FUDGE is now released.  It is:
+
+A) Posted to rec.games.design in ASCII format;
+B) Archived in compressed, tarred format at two sites - see below.
+
+I don't yet know if the GRASS version is up to date, however - I've
+asked Loren Miller, but haven't given him enough time to answer, to be
+honest.  At any rate, enclosed is the FUDGE FAQ.  The only answer I'm
+currently unsure of is the GRASS-SERVER answer.
+
+Enjoy!
+
+FUDGE Frequently Asked Questions, Revised 12/7/93 (answers by Steffan
+     O'Sullivan, sos@oz.plymouth.edu):
+
+Q1.  What is the Current Version?
+=================================
+A1.  Version December 7, 1993.
+
+Q2.  What is FUDGE?
+===================
+A2.  FUDGE is a free role-playing game (face-to-face table gaming, that
+     is - not a computer game or Live Roleplaying Game).  It is just a
+     gaming "engine" - each GM must provide the "body" of the RPG in
+     order to make it work.  A certain amount of customization work is
+     necessary in order to use FUDGE, and many things are left
+     unstated: the GM will have to fudge a lot.
+
+     However, it provides a simple, word-based mechanism for creating
+     characters and resolving actions that is very easy to use in
+     almost any given situation.
+
+     FUDGE stands for:
+     Freeform   (simple, laid-back, not rules-heavy.  Customizable to
+		 taste.)
+     Universal  (usable with any genre.)
+     Donated    (it costs nothing, and may be reproduced and given to
+		 players legally.)
+     Gaming     (role-playing gaming, that is.)
+     Engine     (it's just the basic mechanism for character creation
+		 and development, as well as action resolution.  No
+		 world details are provided.)
+
+     [Actually, FUDGE can stand for other things, too: Freeform Universal
+      Do-it-yourself Gaming Experience is a good one, for example!]
+
+     FUDGE was written by, and is copyright by, Steffan O'Sullivan.
+     Much valuable aid was received from many people on
+     rec.games.design, most of whom are credited in the actual FUDGE
+     manuscript.
+
+Q3.  Who is the target audience?
+================================
+A3.  FUDGE is for experienced GMs, though it can be used with novice
+     players.  You must enjoy making decisions on the fly in order to
+     run FUDGE.  It's also not for those who want extreme detail.  You
+     must enjoy either creating or adapting your own world background,
+     as none is provided (but sample characters from a number of genres
+     are included).
+
+Q4. What genres is it for?
+===========================
+A4.  Any.  Of course, it hasn't yet been tried with *every* possible
+     genre, so only time will tell if it really works with any genre.
+
+Q5.  Where can I get it?
+========================
+A5.  FUDGE is available via anonymous ftp from:
+
+     Site: oz.plymouth.edu
+     Directory: pub/fudge
+
+     It is in a single, compressed, tarred file called fudge.tar.Z.
+
+     Ask your sys admin if you don't know how to ftp or extract files
+     from a tarred, compressed file.
+
+     Basically, after you get the file via ftp (be sure to enter "binary"
+     before getting the file), you first uncompress it then untar it:
+          uncompress fudge.tar.Z
+          tar xf fudge.tar
+
+     It is also available from:
+
+     Site: soda.berkeley.edu
+     Directory: /pub/fudge/rules
+
+     At that site, it's called fudge.rules.tar.Z.
+
+     Supplementary materials are available at soda.berkeley.edu, also, in
+     the directories:
+
+     /pub/fudge/options
+     /pub/fudge/samples
+     /pub/fudge/programs
+
+Q6.  What if I don't have ftp capability?
+=========================================
+A6.  You have two choices.  You can get FUDGE from a listserv mailing
+     list server: GRASS.  Simply e-mail:
+     GRASS-SERVER@wilma.wharton.upenn.edu with a total message of:  get
+     FUDGE.RULES You can get the addenda with a message of: get
+     FUDGE-ADDENDA.RULES
+
+     Your second choice is to buy a copy.  Send a self-addressed
+     stamped envelope (use International Reply Coupon if from outside
+     the USA) and a query for current prices to: Wild Mule Games, P.O.
+     Box 838, Randolph, MA 02368.  Formats available:  IBM 360K disk or
+     720K disk, Mac disk, and nicely typeset hard copy.
+
+Q7.  Can I contribute?
+======================
+A7.  Yes, you can.  At this point, it would be very hard to get
+     something in the main text - but not impossible.  If you find
+     something grossly wrong, or seriously absent, let me know!  My
+     main criteria for including rules are simplicity and necessity.
+
+     It is easy to contribute to the Addenda, though.  I don't filter
+     things.  Simply write a clear, concise rules addition, in ASCII,
+     using existing Addenda sections as guidelines.  Upload any 
+     submissions via ftp to:
+
+     soda.berkeley.edu
+     Directory: /pub/fudge/upload
+
+     and send e-mail to appel@soda.berkeley.edu that incoming FUDGE
+     material has arrived.  If possible, compress each file.  Although
+     it may take only a few hours, please allow Shannon a day or two to
+     move the material to the correct directory.
+
+     Each submission should be clearly labelled as an OPTION, SAMPLE,
+     or PROGRAM so Shannon knows which directory to put the material
+     in.  Alternate rules and proposed changes are OPTIONS; lists of
+     equipment or skills or powers are SAMPLES, as are new magic
+     systems, psi systems, etc.  See the directories for examples.
+
+     My thanks to Shannon Appel for for making this site available!
+
+     If you don't have ftp capability, send submissions to:
+     sos@oz.plymouth.edu
+
+     (MS-DOS ASCII or XyWrite format submissions may be sent to:
+      Steffan O'Sullivan, P.O. Box 465, Plymouth, NH  03264 USA.)
+
+Q8.  Is the Name a Rip-off of The Amazing Engine?
+=================================================
+A8.  No.  It was developed before I ever heard of the Amazing Engine.
+     FUDGE was first published in 1992, at least eight months before
+     the Amazing Engine.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

@@ -1,0 +1,43 @@
+.Name MACHAUT
+.Title								
+.Race W.ELF
+.Culture
+.Aspect 
+.PST 17
+.PEN 17		
+.DEX 19
+.PAG 12		
+.PAW 14
+.MST 08		
+.MEN 14
+.PSI 12
+.MAG 14
+.MAW 14
+.HT 5'7"      
+.WT 96		 
+.AGE 25
+.BeginDesc
+ 15:
+.EndDesc
+.BeginSkills
+Weapon: LONG SWORD		   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

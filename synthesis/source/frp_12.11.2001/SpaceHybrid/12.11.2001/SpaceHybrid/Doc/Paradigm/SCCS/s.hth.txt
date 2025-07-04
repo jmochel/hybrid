@@ -1,0 +1,68 @@
+h09158
+s 00040/00000/00000
+d D 1.1 99/12/02 15:44:36 jmochel 2 1
+cC
+cK37408
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:44:32 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Paradigm/hth.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44907
+cPDoc/Paradigm/hth.txt
+cReb47855f5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+HTH Striking Technique Listing
+     
+Name			Type	Speed		DM
+
+Close Fist		CR		3			3
+Open Hand		CR		3			2.5
+Blade Hand		CR		2			2.0
+Finger Strike   PRC		2			0.5 
+
+Front Kick		CR		4			3.5
+Side Kick		CR		5			3.5
+Round House		CR		6			4.0						
+
+                                       
+
+HTH Grappling Technique Listing
+
+Name			Type	Speed		DM
+
+Grapple			None	3			0
+
+Throw			CR		5			2
+Hold			None	2			0
+Overbear		CR		3			1.5
+
+Balance Hold	None	2			0
+Pain Hold		None	2			0
+Strength Hold	None	2			0
+
+Strength Throw	CR		6			PSE
+Hip Throw		CR		5			2.5
+Leg Throw		CR		4			1.5
+Sacrifice Throw CR		7			3.5
+Balance Throw	CR		3			2.0
+
+
+
+
+	
+
+E 2
+I 1
+E 1

@@ -1,0 +1,32 @@
+bk new doc
+bk new h
+h/nt
+h/unx
+h/w32
+bk new output
+output/lib
+output/obj
+output/obj/m11w32d
+bk new scm
+bk new src
+src/appinfo
+src/appinfo/w32
+src/callbackmanager
+src/commandline
+src/date
+src/hash
+src/io
+src/io/stream
+src/io/stream/unx
+src/io/stream/w32
+src/mctrie
+src/posix
+src/reporter
+src/reporter/w32
+src/string
+src/system
+src/util
+src/version
+bk new support
+support/general
+support/tm

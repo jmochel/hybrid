@@ -1,0 +1,153 @@
+h58151
+s 00125/00000/00000
+d D 1.1 99/12/02 15:51:37 jmochel 2 1
+cC
+cK19510
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:51:33 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Research/Summaries/ill.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44949
+cPResearch/Summaries/ill.txt
+cReb4786a85cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+Hi there folks,
+	I spend one day away from the office and you people get a really
+interesting discussion on illusion going ! I can't leave you alone
+for more than a minute !
+
+	I have thought about illusions and their effects for many years,
+ever since I first came across AD&D techniques of handling illusion
+as a different type of magery that did more damage to an indeterminate
+number of people in an unspecified and internally inconsistent manner.
+
+	The end result of all this is that I tend to view all illusion 
+as mind affectting and not environment affecting. Thus an illusion
+can only affect what the mind can effect.
+
+	This limits an illusion to affecting the mind and, indirectly, the body
+of the affected character. 
+
+	That is what ILLUSION magic can affect. If the caster instead 
+chooses to use light to create an image rather than directly affecting
+the mind of the target, that is not illusion magic, that is light
+magic. Of course a good illusionist will use both the strengthen the 
+effect desired.
+
+	There is no doubt in my mind that the mind has the ability 
+to affect the body greatly. There are documented cases of death 
+caused from fright. They seem to be VERY hard to induce externally
+but supposedly it can be done. By the same token hypnosis is supposed
+to be capable of allowing surgery to be performed on unanesthesized
+patients. SO it is possible to block pain. And of course there is a
+common belief in the "placebo" effect and in psychosomatic illness
+and injury. The mental stretch to the concepts implied by illusion 
+not that large.
+
+	The problem with illusion is in creating a pattern of magic that
+is an accurate duplication of all of the perceptions and effects
+of the event the caster is trying to mimic. An illusion of a spear that
+does not correctly mimic the perceptions and stimuli of a real spear
+is less likely to cause the body to respond as if it had been speared.
+If there is enough confusion to cause themind to reevaluate and sort
+out the signals it just recieved, then the fake spear is less likely 
+to do more than cause the recipient to pause.
+
+	So one key in illusion becomes experience, the more experienced 
+the caster is
+the more effective their casts become. If you are in a high detail 
+campaign you may want to require the caster to have rankings in each 
+of the various effects they intend to use. 
+	For this reason a mage can usually do a convincing illusion
+of themself. Other illusions will depend on who is facing them.
+A mage that casts a fighters image will do best against those
+who are less famailiar with fighters and the manner in which 
+they move and act.
+
+	Another key becomes time. If the target has the time to take
+in all the elements of an illusion then they will have time to see the 
+inconsistentcies. Thus a quick effect is more likely to be accepted
+easily.
+
+	Saving throws are always a headache with illusion since it is never
+clear what a saving throw really represents. As far as I am concerned
+it is nothing more than a perception roll.  If something abnormal 
+is noted about the illusion it is couched in terms that describe it
+in a way consistent with how well the roll was made.
+
+	Example:
+
+	A person running around a corner into an illusionary wall gets to roll
+a perception roll. 
+
+	1) He makes the perception roll(barely) , realizes he is about to hit it
+, and makes all the appropriate physical actions to avoid it. If he/she
+hits it, there will be some damage ( assuming the mage was not a complete klutz) as the characters mind had enough input from the wall to convince him
+that he ran into it. End result: a dazed person wandering around without a mark on him or
+her until some bruising appears. 
+
+	2) He fails the perception roll, he doesn't see the wall at
+all, runs through it. The character still has to deal with the effects 
+of the illusion trying to stimulate his mind into believing they
+have run into a wall.
+
+	3) They make the perception roll(critically) and realize the 
+wall is "wrong" . DEcides to run ythrough it. The character still
+has to deal with the effects of the illusion but they have an edge
+on any rolls they make because of the knowledge about the wall.
+
+
+	With the above as a background I would like to respond to 
+some of the ideas I have been reading.
+
+---------------------------------------------------------------------
+From Bill:
+>   From rule two, it follows that phantasmal armor would affect the way in
+>   which the blow was struck but not physically affect the blow.  For instance>   a dagger-wielding orc facing an opponent in illusionary plate might think,
+>   "hmm, my dagger won't pierce that; I'll attack someone else."  On the other
+>   hand the same orc with a bastard sword might reason "he's got plate armor,
+>   I better swing harder."  So it could have the opposite of the desired
+>   effect.
+>
+
+I would tend to classify phantasmal armour as a simple force casting and
+not an Illusion.
+
+From Geoffrey :
+
+>David Giridot:  I run illusions in a similar way.  "Programming" an illusion
+>would be very difficult.  If the caster was controlling the illusion, s/he
+>might be able to program it to respond the way it would be expected to, but
+>if the illusion is to be cast and then left unattended, it would be hard to
+>cover all the bases.  In some game systems it may be possible to have another
+>kind of programmed illusion which is linked with a telepathy magic.  This
+>sort of spell would be very difficult, but could make the illusion act the
+>way the victim expected it to (like the Star Trek episode "Shore Leave").
+>
+>							-Jeff
+
+I tend to think that all illusions are programmed to a greater or lesser extent
+. The real key is how familiar the caster is with a given effect.
+A good illusionist would have to be an expert observer ! Admittedly the 
+depth of the rppogramming would be dependent on how much time and energy 
+the caster put into it but it is certainly possible for a mage to cast 
+an illusion of himself (as he/she views themself) that would fool 
+most people and handle limited conversations.
+
+
+
+E 2
+I 1
+E 1

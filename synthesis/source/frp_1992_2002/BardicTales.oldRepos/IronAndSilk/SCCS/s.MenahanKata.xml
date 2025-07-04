@@ -1,0 +1,206 @@
+h14294
+s 00178/00000/00000
+d D 1.1 00/02/04 15:11:34 jmochel 2 1
+cC
+cK41016
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:11:30 jmochel 1 0
+c BitKeeper file g:/BardicTales/IronAndSilk/MenahanKata.xml
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07845
+cPIronAndSilk/MenahanKata.xml
+cR84cc634a5cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<?xml-stylesheet href="btkata.xsl"type="text/xsl" ?>
+<kataset>
+    <name></name>
+    <kata>
+        <name>Nito-Kenjutsu</name>
+        <sequence>
+            <name>1st Form</name>
+            <action>
+                Neutral Stance
+            </action>
+            <action>
+                Step/Draw
+            </action>
+            <action>
+                Step/Draw
+            </action>
+            <action>
+                Pause/Pose
+            </action>
+            <action>
+                Look/Turn
+            </action>
+            <action>
+                Wak left Parry
+            </action>
+            <action>
+                Kat Left Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak right Parry
+            </action>
+            <action>
+                Kat right Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak left Block
+            </action>
+            <action>
+                Kat Left Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak right Block
+            </action>
+            <action>
+                Kat right Strike
+            </action>
+            <action>
+                Turn/Look
+            </action>
+            <action>
+                Pause/Pose
+            </action>
+            <action>
+                Repeat Sequence 6 times
+            </action>
+            <action>
+                Hagamejutsu Flourish and Sheath to Kneeling
+            </action>
+        </sequence>
+
+        <sequence>
+            <name>2nd Form</name>
+
+            <action>
+                Kneeling Stance
+            </action>
+            <action>
+                Half Rise/Draw
+            </action>
+            <action>
+                Fulle Ris/Draw
+            </action>
+            <action>
+                Pause/Pose
+            </action>
+            <action>
+                Look/Turn
+            </action>
+            <action>
+                Wak left Parry
+            </action>
+            <action>
+                Kat Left Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak right Parry
+            </action>
+            <action>
+                Kat right Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak left Block
+            </action>
+            <action>
+                Kat Left Strike
+            </action>
+            <action>
+                Step
+            </action>
+            <action>
+                Wak right Block
+            </action>
+            <action>
+                Kat right Strike
+            </action>
+            <action>
+                Turn/Look
+            </action>
+            <action>
+                Pause/Pose
+            </action>
+            <action>
+                Repeat Sequence 6 times
+            </action>
+            <action>
+                Simultaneous Weapons Slash and Sheath
+            </action>
+        </sequence>
+    </kata>
+
+    <kata>
+        <name>Weeping Blade</name>
+        <sequence>
+            <name></name>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+        </sequence>
+        <sequence>
+            <name></name>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+            <action>
+            </action>
+        </sequence>
+    </kata>
+
+</kataset>
+E 2
+I 1
+E 1

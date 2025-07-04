@@ -1,0 +1,50 @@
+.Name NYLAND
+.Title LORD HIGH PRIEST				 
+.Race HU
+.Culture
+.Aspect 
+.PST 12
+.PEN 16		
+.DEX 16
+.PAG 13		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 14
+.MAG 14
+.MAW 14
+.HT 6'0"      
+.WT 170		 
+.AGE 54
+.BeginDesc
+ TALL,THIN,FLOWING WHITE HAIR TO SHOULDER,GRAY EYES,STRONG BUT		 
+ASCETIC FACE. A NOSE THAT COULD PIERCE ARMOUR
+.EndDesc
+.BeginSkills
+Weapon: T SWORD(4)		   , 
+.EndSkills
+.Locale CAITHNARD
+.BeginKnownAssoc
+ TEMPLE OF AURIOCH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends BLACKSTONE OF LEEWARD
+.EndFriends
+.BeginComment
+ A SPARE AND HARSH BUT JUST LEADER. A TRULY DEDICATED BELIEVER.			
+OFTEN WEARS BLACK EVEN AT CEROMONIES. 
+A PRECISE MAN - A PERFECTIONIST
+Of poor background.
+.EndComment
+.BeginPossess
+ LAWBREAKER - T SWORD
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

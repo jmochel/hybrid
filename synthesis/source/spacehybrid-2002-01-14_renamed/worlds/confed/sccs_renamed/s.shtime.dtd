@@ -1,0 +1,140 @@
+h02176
+s 00112/00000/00000
+d D 1.1 99/12/02 16:00:09 jmochel 2 1
+cC
+cK29496
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:00:06 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/confed/shtime.dtd
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45000
+cPworlds/confed/shtime.dtd
+cReb4786595cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!-- Contains Declaration of SH Time Line DTD -->
+<!--
+    Author Jim Jackl-Mochel
+
+    Date 03.30.98
+
+    Copyright - This code is in the public domain
+
+    Revision Information 
+    ==================== 
+    $Author: jmochel $
+    $Revision: 1.1.1.1 $
+    $Date: 1999/06/11 18:31:06 $
+-->
+
+<!ELEMENT TIMELINE - - (TITLE , (EPOCH)+) >
+<!ELEMENT EPOCH - - (TITLE , EVENT+) >
+<!ELEMENT EVENT - - (DATE & DESC & TITLE) >
+<!ELEMENT DATE - - (#PCDATA) >
+<!ELEMENT DESC - - (#PCDATA) >
+<!ELEMENT TITLE - - (#PCDATA) >
+
+
+<!ATTLIST EVENT CATEGORY (POLITICAL|SCIENTIFIC|SOCIAL|TECHNICAL) "POLITICAL" >
+<!ATTLIST EVENT IMPORTANCE (HIGH|MEDIUM|LOW) "LOW" >
+
+<!-- The following entities are for conditional sections -->
+<!-- PUBLIC information is just that -->
+<!-- PRIVATE information is only known to members of that group and rarely shared -->
+<!-- SECRET information is only known to members of that groups upper echelon and very rarely shared -->
+<!-- TOPSECRET information is only known to select members of that groups upper echelon and very, very rarely shared -->
+<!-- HIDDEN information is only known to the manipulators of that groups upper echelon, and maybe not even them -->
+
+<-- Confed Mechanized Infantry -->
+
+<!ENTITY % MI_PUBLIC 'INCLUDE'>
+<!ENTITY % MI_PRIVATE 'IGNORE'>
+<!ENTITY % MI_SECRET 'IGNORE'>
+<!ENTITY % MI_TOPSECRET 'IGNORE' >
+<!ENTITY % MI_HIDDEN    'IGNORE' >
+
+<-- Confed Scouts -->
+
+<!ENTITY % SCOUT_PUBLIC 'INCLUDE'>
+<!ENTITY % SCOUT_PRIVATE 'IGNORE'>
+<!ENTITY % SCOUT_SECRET 'IGNORE'>
+<!ENTITY % SCOUT_TOPSECRET 'IGNORE' >
+<!ENTITY % SCOUT_HIDDEN 'IGNORE' >
+
+<-- Conservancy Rangers -->
+
+<!ENTITY % RANGER_PUBLIC 'INCLUDE'>
+<!ENTITY % RANGER_PRIVATE 'IGNORE'>
+<!ENTITY % RANGER_SECRET 'IGNORE'>
+<!ENTITY % RANGER_TOPSECRET 'IGNORE' >
+<!ENTITY % RANGER_HIDDEN    'IGNORE' >
+
+<-- Confed Marshall -->
+
+<!ENTITY % MARSHALL_PUBLIC 'INCLUDE'>
+<!ENTITY % MARSHALL_PRIVATE 'IGNORE'>
+<!ENTITY % MARSHALL_SECRET 'IGNORE'>
+<!ENTITY % MARSHALL_TOPSECRET 'IGNORE' >
+<!ENTITY % MARSHALL_HIDDEN  'IGNORE' >
+
+<-- Confed Council -->
+
+<!ENTITY % COUNCIL_PUBLIC 'INCLUDE'>
+<!ENTITY % COUNCIL_PRIVATE 'IGNORE'>
+<!ENTITY % COUNCIL_SECRET 'IGNORE'>
+<!ENTITY % COUNCIL_TOPSECRET 'IGNORE' >
+<!ENTITY % COUNCIL_HIDDEN   'IGNORE' >
+
+<-- Confed Senate -->
+
+<!ENTITY % SENATE_PUBLIC 'INCLUDE'>
+<!ENTITY % SENATE_PRIVATE 'IGNORE'>
+<!ENTITY % SENATE_SECRET 'IGNORE'>
+<!ENTITY % SENATE_TOPSECRET 'IGNORE' >
+<!ENTITY % SENATE_HIDDEN    'IGNORE' >
+
+<-- Alphans -->
+
+<!ENTITY % ALPHAN_PUBLIC 'INCLUDE'>
+<!ENTITY % ALPHAN_PRIVATE 'IGNORE'>
+<!ENTITY % ALPHAN_SECRET 'IGNORE'>
+<!ENTITY % ALPHAN_TOPSECRET 'IGNORE' >
+<!ENTITY % ALPHAN_HIDDEN    'IGNORE' >
+
+<-- Terrans -->
+
+<!ENTITY % TERRAN_PUBLIC 'INCLUDE'>
+<!ENTITY % TERRAN_PRIVATE 'IGNORE'>
+<!ENTITY % TERRAN_SECRET 'IGNORE'>
+<!ENTITY % TERRAN_TOPSECRET 'IGNORE' >
+<!ENTITY % TERRAN_HIDDEN    'IGNORE' >
+
+<-- Proximans -->
+
+<!ENTITY % PROXIMAN_PUBLIC 'INCLUDE'>
+<!ENTITY % PROXIMAN_PRIVATE 'IGNORE'>
+<!ENTITY % PROXIMAN_SECRET 'IGNORE'>
+<!ENTITY % PROXIMAN_TOPSECRET 'IGNORE' >
+<!ENTITY % PROXIMAN_HIDDEN  'IGNORE' >
+
+<-- Wiccans -->
+
+<!ENTITY % WICCAN_PUBLIC 'INCLUDE'>
+<!ENTITY % WICCAN_PRIVATE 'IGNORE'>
+<!ENTITY % WICCAN_SECRET 'IGNORE'>
+<!ENTITY % WICCAN_TOPSECRET 'IGNORE' >
+<!ENTITY % WICCAN_HIDDEN  'IGNORE' >
+E 2
+I 1
+E 1

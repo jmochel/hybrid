@@ -1,0 +1,491 @@
+.Title Psionic Skills
+
+.BeginSkill	Disguise:(Psionic)
+.BaseType MDISC
+.Interaction U
+.Implementation ST
+.StatBasis		PSI
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Stealth:(Psionic) 
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		MAW
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Discipline:(Pick Name)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		FCS
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+.BeginSkill	Discipline:(Pick Name)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telekinetics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telekinetic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telekinesis
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Levitate
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Biokinetics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Biokinetic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Biokinesis
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Gestalt Lore:My Own Body
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Temporokinetics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Temporokinetic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Temporokinesis
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Teleportation
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Memorize Location
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Energetics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Energetic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Energetics (Transform Energy )
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Knowledge of Energy:Heat or
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Physics E\&M or
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Gestalt Lore:IR
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telepathics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telepathic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Telepathy
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Empathy
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Telempathic Projection
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Surface Read
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Telepathic Surface Projection
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Telepathic Read
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Telepathic Projection
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Telepathy
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Mind Meld
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Mystokinetics(Filter)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Mystokinetic Perception
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Mystokinetics
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Precognition
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Retrocognition
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Discipline:Object Reading
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+
+.BeginSkill Deception(Psionic)
+.BaseType MDISC
+.Interaction U
+.Implementation NT
+.StatBasis		
+.BeginDesc
+.EndDesc
+.BeginDF
+.EndDF
+.EndSkill
+
+

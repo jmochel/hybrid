@@ -1,0 +1,234 @@
+H16885
+s 00015/00000/00150
+d D 1.4 02/01/14 20:41:47 jmochel 5 4
+c HISTORY.HTM	BitKeeper file g:/workspace/BardicTales/Cultures/HISTORY.HTM
+c Story.cfm.html	BitKeeper file g:/workspace/BardicTales/Cultures/Story.cfm.html
+c genji.sgml	BitKeeper file g:/workspace/BardicTales/Cultures/genji.sgml
+c Edit3.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Edit3.txt
+c noto10.txt	BitKeeper file g:/workspace/BardicTales/Cultures/noto10.txt
+c utrkj10.txt	BitKeeper file g:/workspace/BardicTales/Cultures/utrkj10.txt
+c sofre10.txt	BitKeeper file g:/workspace/BardicTales/Cultures/sofre10.txt
+c jpnft10.txt	BitKeeper file g:/workspace/BardicTales/Cultures/jpnft10.txt
+c Vocabulary.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Vocabulary.txt
+c Vocab2.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Vocab2.txt
+c invnr10.txt	BitKeeper file g:/workspace/BardicTales/Cultures/invnr10.txt
+c directions.txt	BitKeeper file g:/workspace/BardicTales/Cultures/directions.txt
+c Takeda.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Takeda.txt
+c Dal-Kon-Riff.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Dal-Kon-Riff.txt
+c Takeda.Sakura.txt	BitKeeper file g:/workspace/BardicTales/Cultures/Takeda.Sakura.txt
+cC
+cK50611
+e
+s 00001/00000/00149
+d D 1.3 00/12/09 08:35:41 jmochel 4 3
+c Updated
+cC
+cK03178
+e
+s 00147/00000/00002
+d D 1.2 00/12/08 09:40:48 jmochel 3 2
+c Import changeset
+cC
+cK03181
+e
+s 00002/00000/00000
+d D 1.1 00/12/08 09:39:26 jmochel 2 1
+c Initial repository create
+cC
+cK23359
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:39:25 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ChangeSet
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cC
+cHdevilmountain
+cK39592
+cPChangeSet
+cR56cfc6eb
+cSBK key2
+cV4
+cX0x161
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x161
+t
+T
+I 5
+jmochel@devilmountain|Cultures/Dal-Kon-Riff.txt|20020115011732|27093|af8edad4 jmochel@devilmountain|Cultures/Dal-Kon-Riff.txt|20020115011733|43972
+jmochel@devilmountain|Cultures/directions.txt|20020115011732|62921|af936152 jmochel@devilmountain|Cultures/directions.txt|20020115011733|10383
+jmochel@devilmountain|Cultures/Edit3.txt|20020115014120|06990|151efefb jmochel@devilmountain|Cultures/Edit3.txt|20020115014121|16048
+jmochel@devilmountain|Cultures/genji.sgml|20020115014120|18745|15202085 jmochel@devilmountain|Cultures/genji.sgml|20020115014121|61668
+jmochel@devilmountain|Cultures/HISTORY.HTM|20020115014121|16583|1527bb28 jmochel@devilmountain|Cultures/HISTORY.HTM|20020115014122|38466
+jmochel@devilmountain|Cultures/invnr10.txt|20020115011732|17835|af9438d2 jmochel@devilmountain|Cultures/invnr10.txt|20020115011733|30070
+jmochel@devilmountain|Cultures/jpnft10.txt|20020115011732|65205|af94f1d3 jmochel@devilmountain|Cultures/jpnft10.txt|20020115011733|62360
+jmochel@devilmountain|Cultures/noto10.txt|20020115011733|18612|af96c21d jmochel@devilmountain|Cultures/noto10.txt|20020115011734|37620
+jmochel@devilmountain|Cultures/sofre10.txt|20020115011733|64177|af97fd89 jmochel@devilmountain|Cultures/sofre10.txt|20020115011734|61496
+jmochel@devilmountain|Cultures/Story.cfm.html|20020115014121|23193|1528594d jmochel@devilmountain|Cultures/Story.cfm.html|20020115014122|51745
+jmochel@devilmountain|Cultures/Takeda.Sakura.txt|20020115011732|50450|af902449 jmochel@devilmountain|Cultures/Takeda.Sakura.txt|20020115011733|42661
+jmochel@devilmountain|Cultures/Takeda.txt|20020115011732|32253|af9162ea jmochel@devilmountain|Cultures/Takeda.txt|20020115011733|42661
+jmochel@devilmountain|Cultures/utrkj10.txt|20020115011733|54323|af995e1a jmochel@devilmountain|Cultures/utrkj10.txt|20020115011734|64216
+jmochel@devilmountain|Cultures/Vocab2.txt|20020115011732|00548|af91e67a jmochel@devilmountain|Cultures/Vocab2.txt|20020115011733|01397
+jmochel@devilmountain|Cultures/Vocabulary.txt|20020115011732|02308|af92741a jmochel@devilmountain|Cultures/Vocabulary.txt|20020115011733|54334
+E 5
+I 4
+jmochel@devilmountain|CharacterSheets/Mordan6.xls|20001208144036|08044|65ec985c jmochel@devilmountain|CharacterSheets/Mordan6.xls|20001209133523|16878
+E 4
+I 3
+jmochel@devilmountain|import284|20001208144041|28217|66f36ecc jmochel@devilmountain|import284|20001208144042|08769
+jmochel@devilmountain|CharacterSheets/CharSheet6.xls|20001208144036|59774|65db0e09 jmochel@devilmountain|CharacterSheets/CharSheet6.xls|20001208144037|54930
+jmochel@devilmountain|CharacterSheets/Kalarina6.xls|20001208144036|46317|65ddd6c7 jmochel@devilmountain|CharacterSheets/Kalarina6.xls|20001208144037|28113
+jmochel@devilmountain|CharacterSheets/KalarinaWeapon.xls|20001208144036|35732|65e0bab2 jmochel@devilmountain|CharacterSheets/KalarinaWeapon.xls|20001208144037|14634
+jmochel@devilmountain|CharacterSheets/Menahan6.xls|20001208144036|13076|65e37d57 jmochel@devilmountain|CharacterSheets/Menahan6.xls|20001208144037|26418
+jmochel@devilmountain|CharacterSheets/MenahanWeapon.xls|20001208144036|19067|65e6a7fd jmochel@devilmountain|CharacterSheets/MenahanWeapon.xls|20001208144037|56535
+jmochel@devilmountain|CharacterSheets/Morag6.xls|20001208144036|33945|65e963e8 jmochel@devilmountain|CharacterSheets/Morag6.xls|20001208144037|42607
+jmochel@devilmountain|CharacterSheets/Mordan6.xls|20001208144036|08044|65ec985c jmochel@devilmountain|CharacterSheets/Mordan6.xls|20001208144037|58289
+jmochel@devilmountain|CharacterSheets/Osumi.xls|20001208144036|32373|65f02247 jmochel@devilmountain|CharacterSheets/Osumi.xls|20001208144037|11794
+jmochel@devilmountain|CharacterSheets/Pelleas.xls|20001208144036|39455|65f34c4e jmochel@devilmountain|CharacterSheets/Pelleas.xls|20001208144037|55174
+jmochel@devilmountain|CharacterSheets/PelleasWeapon.xls|20001208144036|32681|65f63ac7 jmochel@devilmountain|CharacterSheets/PelleasWeapon.xls|20001208144037|48772
+jmochel@devilmountain|CharacterSheets/VB Code.vb.htm|20001208144036|21648|65f921dc jmochel@devilmountain|CharacterSheets/VB Code.vb.htm|20001208144037|04794
+jmochel@devilmountain|Cultures/book1.htm|20001208144036|32831|65fc8190 jmochel@devilmountain|Cultures/book1.htm|20001208144037|14284
+jmochel@devilmountain|Cultures/c100.htm|20001208144037|06926|65fff928 jmochel@devilmountain|Cultures/c100.htm|20001208144038|57931
+jmochel@devilmountain|Cultures/c118.htm|20001208144037|00999|660306e1 jmochel@devilmountain|Cultures/c118.htm|20001208144038|34467
+jmochel@devilmountain|Cultures/c121.htm|20001208144037|63641|6605f254 jmochel@devilmountain|Cultures/c121.htm|20001208144038|57974
+jmochel@devilmountain|Cultures/c133.htm|20001208144037|64296|6609022f jmochel@devilmountain|Cultures/c133.htm|20001208144038|01994
+jmochel@devilmountain|Cultures/c151.htm|20001208144037|57970|660bf56d jmochel@devilmountain|Cultures/c151.htm|20001208144038|52533
+jmochel@devilmountain|Cultures/c160.htm|20001208144037|47444|660ed768 jmochel@devilmountain|Cultures/c160.htm|20001208144038|37161
+jmochel@devilmountain|Cultures/c163.htm|20001208144037|35180|6611bd04 jmochel@devilmountain|Cultures/c163.htm|20001208144038|57477
+jmochel@devilmountain|Cultures/c172.htm|20001208144037|28196|6614a9fa jmochel@devilmountain|Cultures/c172.htm|20001208144038|06773
+jmochel@devilmountain|Cultures/c196.htm|20001208144037|24071|6617a955 jmochel@devilmountain|Cultures/c196.htm|20001208144038|63565
+jmochel@devilmountain|Cultures/c217.htm|20001208144037|17480|661a9b5c jmochel@devilmountain|Cultures/c217.htm|20001208144038|61022
+jmochel@devilmountain|Cultures/c28.htm|20001208144037|12441|661d9aa6 jmochel@devilmountain|Cultures/c28.htm|20001208144038|53142
+jmochel@devilmountain|Cultures/c40.htm|20001208144037|05004|66208a41 jmochel@devilmountain|Cultures/c40.htm|20001208144038|50719
+jmochel@devilmountain|Cultures/c52.htm|20001208144037|33738|66238403 jmochel@devilmountain|Cultures/c52.htm|20001208144038|36655
+jmochel@devilmountain|Cultures/c55.htm|20001208144037|23597|662683c3 jmochel@devilmountain|Cultures/c55.htm|20001208144038|36959
+jmochel@devilmountain|Cultures/c58.htm|20001208144037|25998|662a0ed8 jmochel@devilmountain|Cultures/c58.htm|20001208144038|02587
+jmochel@devilmountain|Cultures/c7.htm|20001208144037|25303|662d23e1 jmochel@devilmountain|Cultures/c7.htm|20001208144038|26086
+jmochel@devilmountain|Cultures/c82.htm|20001208144037|28658|663036b7 jmochel@devilmountain|Cultures/c82.htm|20001208144038|04239
+jmochel@devilmountain|Cultures/Culture.Template.sgm|20001208144037|27966|66335ca3 jmochel@devilmountain|Cultures/Culture.Template.sgm|20001208144038|10256
+jmochel@devilmountain|Cultures/Culture.Template.sgm.$$$|20001208144038|29440|66366e20 jmochel@devilmountain|Cultures/Culture.Template.sgm.$$$|20001208144039|10061
+jmochel@devilmountain|Cultures/DalKan.css|20001208144038|22181|66395d80 jmochel@devilmountain|Cultures/DalKan.css|20001208144039|22455
+jmochel@devilmountain|Cultures/DalKan.rtf|20001208144038|08757|663c3bdf jmochel@devilmountain|Cultures/DalKan.rtf|20001208144039|52804
+jmochel@devilmountain|Cultures/DalKan.sgm|20001208144038|11032|663f5a80 jmochel@devilmountain|Cultures/DalKan.sgm|20001208144039|56689
+jmochel@devilmountain|Cultures/DalKan.sgm.$$$|20001208144038|06491|66425f5c jmochel@devilmountain|Cultures/DalKan.sgm.$$$|20001208144039|55522
+jmochel@devilmountain|Cultures/Rhizak.xml|20001208144038|05574|66459678 jmochel@devilmountain|Cultures/Rhizak.xml|20001208144039|00511
+jmochel@devilmountain|Cultures/x106.htm|20001208144038|34423|664be92d jmochel@devilmountain|Cultures/x106.htm|20001208144039|39202
+jmochel@devilmountain|Cultures/x109.htm|20001208144038|55104|664f7db5 jmochel@devilmountain|Cultures/x109.htm|20001208144039|38592
+jmochel@devilmountain|Cultures/x112.htm|20001208144038|04939|6652b856 jmochel@devilmountain|Cultures/x112.htm|20001208144039|38262
+jmochel@devilmountain|Cultures/x115.htm|20001208144038|18418|66560368 jmochel@devilmountain|Cultures/x115.htm|20001208144039|39165
+jmochel@devilmountain|Cultures/x127.htm|20001208144038|32572|66595846 jmochel@devilmountain|Cultures/x127.htm|20001208144039|43967
+jmochel@devilmountain|Cultures/x130.htm|20001208144038|17005|665cb07a jmochel@devilmountain|Cultures/x130.htm|20001208144039|47362
+jmochel@devilmountain|Cultures/x139.htm|20001208144038|55561|66605bdd jmochel@devilmountain|Cultures/x139.htm|20001208144039|50819
+jmochel@devilmountain|Cultures/x142.htm|20001208144038|12759|6663ce44 jmochel@devilmountain|Cultures/x142.htm|20001208144039|45501
+jmochel@devilmountain|Cultures/x145.htm|20001208144038|02560|666738b1 jmochel@devilmountain|Cultures/x145.htm|20001208144039|45447
+jmochel@devilmountain|Cultures/x148.htm|20001208144038|29690|666ac2aa jmochel@devilmountain|Cultures/x148.htm|20001208144039|43258
+jmochel@devilmountain|Cultures/x157.htm|20001208144039|61392|666e2d30 jmochel@devilmountain|Cultures/x157.htm|20001208144040|41035
+jmochel@devilmountain|Cultures/x16.htm|20001208144039|16782|667184f9 jmochel@devilmountain|Cultures/x16.htm|20001208144040|43787
+jmochel@devilmountain|Cultures/x169.htm|20001208144039|01808|6674f751 jmochel@devilmountain|Cultures/x169.htm|20001208144040|44932
+jmochel@devilmountain|Cultures/x178.htm|20001208144039|26667|66786069 jmochel@devilmountain|Cultures/x178.htm|20001208144040|40646
+jmochel@devilmountain|Cultures/x181.htm|20001208144039|53318|667be929 jmochel@devilmountain|Cultures/x181.htm|20001208144040|41916
+jmochel@devilmountain|Cultures/x184.htm|20001208144039|16520|667f725f jmochel@devilmountain|Cultures/x184.htm|20001208144040|44102
+jmochel@devilmountain|Cultures/x187.htm|20001208144039|14219|668309a0 jmochel@devilmountain|Cultures/x187.htm|20001208144040|44350
+jmochel@devilmountain|Cultures/x19.htm|20001208144039|51049|6686b227 jmochel@devilmountain|Cultures/x19.htm|20001208144040|45655
+jmochel@devilmountain|Cultures/x190.htm|20001208144039|23551|668a661a jmochel@devilmountain|Cultures/x190.htm|20001208144040|45162
+jmochel@devilmountain|Cultures/x193.htm|20001208144039|31559|668e1668 jmochel@devilmountain|Cultures/x193.htm|20001208144040|43821
+jmochel@devilmountain|Cultures/x202.htm|20001208144039|10148|6691db75 jmochel@devilmountain|Cultures/x202.htm|20001208144040|38790
+jmochel@devilmountain|Cultures/x205.htm|20001208144039|19453|6695effa jmochel@devilmountain|Cultures/x205.htm|20001208144040|37949
+jmochel@devilmountain|Cultures/x208.htm|20001208144039|22629|6699c3ae jmochel@devilmountain|Cultures/x208.htm|20001208144040|38675
+jmochel@devilmountain|Cultures/x211.htm|20001208144039|40530|669da101 jmochel@devilmountain|Cultures/x211.htm|20001208144040|38473
+jmochel@devilmountain|Cultures/x214.htm|20001208144039|27551|66a17be3 jmochel@devilmountain|Cultures/x214.htm|20001208144040|39284
+jmochel@devilmountain|Cultures/x22.htm|20001208144040|49053|66a55b7d jmochel@devilmountain|Cultures/x22.htm|20001208144041|44443
+jmochel@devilmountain|Cultures/x223.htm|20001208144040|32672|66a9224e jmochel@devilmountain|Cultures/x223.htm|20001208144041|38773
+jmochel@devilmountain|Cultures/x226.htm|20001208144040|47633|66acfaee jmochel@devilmountain|Cultures/x226.htm|20001208144041|37959
+jmochel@devilmountain|Cultures/x229.htm|20001208144040|31165|66b0e056 jmochel@devilmountain|Cultures/x229.htm|20001208144041|38685
+jmochel@devilmountain|Cultures/x232.htm|20001208144040|53542|66b4ce32 jmochel@devilmountain|Cultures/x232.htm|20001208144041|38483
+jmochel@devilmountain|Cultures/x235.htm|20001208144040|11541|66b8c8c2 jmochel@devilmountain|Cultures/x235.htm|20001208144041|32669
+jmochel@devilmountain|Cultures/x25.htm|20001208144040|06157|66bccc46 jmochel@devilmountain|Cultures/x25.htm|20001208144041|42040
+jmochel@devilmountain|Cultures/x34.htm|20001208144040|33967|66c0e225 jmochel@devilmountain|Cultures/x34.htm|20001208144041|38843
+jmochel@devilmountain|Cultures/x37.htm|20001208144040|02362|66c5063e jmochel@devilmountain|Cultures/x37.htm|20001208144041|37677
+jmochel@devilmountain|Cultures/x46.htm|20001208144040|08792|66c93a27 jmochel@devilmountain|Cultures/x46.htm|20001208144041|36542
+jmochel@devilmountain|Cultures/x49.htm|20001208144040|15032|66cdf548 jmochel@devilmountain|Cultures/x49.htm|20001208144041|39665
+jmochel@devilmountain|Cultures/x64.htm|20001208144040|59154|66d24b3c jmochel@devilmountain|Cultures/x64.htm|20001208144041|38322
+jmochel@devilmountain|Cultures/x67.htm|20001208144040|43245|66d6a894 jmochel@devilmountain|Cultures/x67.htm|20001208144041|38411
+jmochel@devilmountain|Cultures/x70.htm|20001208144041|29145|66daf821 jmochel@devilmountain|Cultures/x70.htm|20001208144042|39573
+jmochel@devilmountain|Cultures/x73.htm|20001208144041|13703|66df3b2d jmochel@devilmountain|Cultures/x73.htm|20001208144042|39221
+jmochel@devilmountain|Cultures/x76.htm|20001208144041|26502|66e38825 jmochel@devilmountain|Cultures/x76.htm|20001208144042|41844
+jmochel@devilmountain|Cultures/x79.htm|20001208144041|06779|66e7e50e jmochel@devilmountain|Cultures/x79.htm|20001208144042|44271
+jmochel@devilmountain|Cultures/x94.htm|20001208144041|60528|66ec5802 jmochel@devilmountain|Cultures/x94.htm|20001208144042|44784
+jmochel@devilmountain|Cultures/x97.htm|20001208144041|51286|66f0c770 jmochel@devilmountain|Cultures/x97.htm|20001208144042|41701
+jmochel@devilmountain|IronAndSilk/082493.TXT|20001208144041|33315|66f60de8 jmochel@devilmountain|IronAndSilk/082493.TXT|20001208144042|40648
+jmochel@devilmountain|IronAndSilk/BTKata.xsl|20001208144041|04848|66f8aee9 jmochel@devilmountain|IronAndSilk/BTKata.xsl|20001208144042|04001
+jmochel@devilmountain|IronAndSilk/MENAHAN|20001208144041|45450|66fb5b8a jmochel@devilmountain|IronAndSilk/MENAHAN|20001208144042|60130
+jmochel@devilmountain|IronAndSilk/MENAHAN.1|20001208144041|27822|66fe267e jmochel@devilmountain|IronAndSilk/MENAHAN.1|20001208144042|38860
+jmochel@devilmountain|IronAndSilk/MENAHAN.LTX|20001208144041|02818|6700ddf0 jmochel@devilmountain|IronAndSilk/MENAHAN.LTX|20001208144042|20160
+jmochel@devilmountain|IronAndSilk/Menahan.tex|20001208144041|30896|6704615d jmochel@devilmountain|IronAndSilk/Menahan.tex|20001208144042|09103
+jmochel@devilmountain|IronAndSilk/MenahanKata.xml|20001208144041|21114|6707514c jmochel@devilmountain|IronAndSilk/MenahanKata.xml|20001208144042|41016
+jmochel@devilmountain|IronAndSilk/MKP.hist.txt|20001208144041|05661|670a1df2 jmochel@devilmountain|IronAndSilk/MKP.hist.txt|20001208144042|14130
+jmochel@devilmountain|IronAndSilk/SOP.TXT|20001208144041|19992|670ce894 jmochel@devilmountain|IronAndSilk/SOP.TXT|20001208144042|19545
+jmochel@devilmountain|Maps/BardicWorld.DC5|20001208144042|09902|670fb704 jmochel@devilmountain|Maps/BardicWorld.DC5|20001208144043|38255
+jmochel@devilmountain|Maps/bardicworld.dxf|20001208144042|12353|6714c3e2 jmochel@devilmountain|Maps/bardicworld.dxf|20001208144043|48885
+jmochel@devilmountain|Maps/bardicworld.eps|20001208144042|29739|671b24fd jmochel@devilmountain|Maps/bardicworld.eps|20001208144043|30451
+jmochel@devilmountain|Maps/bardicworld.pdf|20001208144043|25576|6767cb9f jmochel@devilmountain|Maps/bardicworld.pdf|20001208144044|32046
+jmochel@devilmountain|Maps/EasternLands.jpg|20001208144043|54778|676ac82b jmochel@devilmountain|Maps/EasternLands.jpg|20001208144044|06814
+jmochel@devilmountain|Maps/FullMap.jpg|20001208144043|39489|676d99f8 jmochel@devilmountain|Maps/FullMap.jpg|20001208144044|28983
+jmochel@devilmountain|Maps/WesternLands.jpg|20001208144043|25126|677074f1 jmochel@devilmountain|Maps/WesternLands.jpg|20001208144044|28055
+jmochel@devilmountain|ShapeShifters/DramatisPersonae.txt|20001208144044|11680|678a341d jmochel@devilmountain|ShapeShifters/DramatisPersonae.txt|20001208144045|47211
+jmochel@devilmountain|ShapeShifters/Elves.xml|20001208144044|21065|678cdbbf jmochel@devilmountain|ShapeShifters/Elves.xml|20001208144045|29248
+jmochel@devilmountain|ShapeShifters/Mordanith.tex|20001208144045|26271|67b63f26 jmochel@devilmountain|ShapeShifters/Mordanith.tex|20001208144046|10096
+jmochel@devilmountain|ShapeShifters/MordanithPossessions.tex|20001208144045|06035|67b8f7f6 jmochel@devilmountain|ShapeShifters/MordanithPossessions.tex|20001208144046|55856
+jmochel@devilmountain|ShapeShifters/MordanithSpells.tex|20001208144045|54337|67bbcc6f jmochel@devilmountain|ShapeShifters/MordanithSpells.tex|20001208144046|10714
+jmochel@devilmountain|ShapeShifters/MORPHUS.1|20001208144045|41689|67ce8efe jmochel@devilmountain|ShapeShifters/MORPHUS.1|20001208144046|04705
+jmochel@devilmountain|ShapeShifters/Questions.txt|20001208144045|04002|67d178ba jmochel@devilmountain|ShapeShifters/Questions.txt|20001208144046|56731
+jmochel@devilmountain|ShapeShifters/SHAPE.1|20001208144046|32662|67ea3aaf jmochel@devilmountain|ShapeShifters/SHAPE.1|20001208144047|15109
+jmochel@devilmountain|ShapeShifters/SHAPE.2|20001208144046|33287|67ed5180 jmochel@devilmountain|ShapeShifters/SHAPE.2|20001208144047|08852
+jmochel@devilmountain|ShapeShifters/SHAPE.3|20001208144046|18004|67f01bf4 jmochel@devilmountain|ShapeShifters/SHAPE.3|20001208144047|02733
+jmochel@devilmountain|ShapeShifters/SHIFTER.QNA|20001208144046|58658|67f2dfde jmochel@devilmountain|ShapeShifters/SHIFTER.QNA|20001208144047|25962
+jmochel@devilmountain|ShapeShifters/SpellBatteryDesign.txt|20001208144046|45773|67f5b7b7 jmochel@devilmountain|ShapeShifters/SpellBatteryDesign.txt|20001208144047|01041
+jmochel@devilmountain|ShapeShifters/todo.lst|20001208144046|37092|67f8abc5 jmochel@devilmountain|ShapeShifters/todo.lst|20001208144047|45421
+jmochel@devilmountain|ShapeShifters/Concordance/ElvenMagic.txt|20001208144043|15939|67736512 jmochel@devilmountain|ShapeShifters/Concordance/ElvenMagic.txt|20001208144044|32470
+jmochel@devilmountain|ShapeShifters/Concordance/FEY.LTX|20001208144043|08182|6776606d jmochel@devilmountain|ShapeShifters/Concordance/FEY.LTX|20001208144044|48506
+jmochel@devilmountain|ShapeShifters/Concordance/GLOSS.LTX|20001208144043|32229|67793d71 jmochel@devilmountain|ShapeShifters/Concordance/GLOSS.LTX|20001208144044|42404
+jmochel@devilmountain|ShapeShifters/Concordance/GLOSSARY.html|20001208144044|14473|677e284c jmochel@devilmountain|ShapeShifters/Concordance/GLOSSARY.html|20001208144045|20547
+jmochel@devilmountain|ShapeShifters/Concordance/Glossary.xml|20001208144044|47351|67849ed5 jmochel@devilmountain|ShapeShifters/Concordance/Glossary.xml|20001208144045|20888
+jmochel@devilmountain|ShapeShifters/Concordance/LawsOfMagic.txt|20001208144044|37978|67878b83 jmochel@devilmountain|ShapeShifters/Concordance/LawsOfMagic.txt|20001208144045|61313
+jmochel@devilmountain|ShapeShifters/FarmTeams/CrystalDance.xml|20001208144044|65284|678f9c9a jmochel@devilmountain|ShapeShifters/FarmTeams/CrystalDance.xml|20001208144045|40958
+jmochel@devilmountain|ShapeShifters/FarmTeams/DrivenTeam.xml|20001208144044|41167|67924dad jmochel@devilmountain|ShapeShifters/FarmTeams/DrivenTeam.xml|20001208144045|33164
+jmochel@devilmountain|ShapeShifters/FarmTeams/EyeTeam.xml|20001208144044|19072|679507da jmochel@devilmountain|ShapeShifters/FarmTeams/EyeTeam.xml|20001208144045|17640
+jmochel@devilmountain|ShapeShifters/FarmTeams/NightTeam.xml|20001208144044|08036|6797ec32 jmochel@devilmountain|ShapeShifters/FarmTeams/NightTeam.xml|20001208144045|21701
+jmochel@devilmountain|ShapeShifters/FarmTeams/UnseenTeam.xml|20001208144044|30557|679ad520 jmochel@devilmountain|ShapeShifters/FarmTeams/UnseenTeam.xml|20001208144045|48420
+jmochel@devilmountain|ShapeShifters/History/CHRIS2.LTX|20001208144044|20627|679db539 jmochel@devilmountain|ShapeShifters/History/CHRIS2.LTX|20001208144045|51810
+jmochel@devilmountain|ShapeShifters/History/DIALOGS.LTX|20001208144044|01508|67a08242 jmochel@devilmountain|ShapeShifters/History/DIALOGS.LTX|20001208144045|26859
+jmochel@devilmountain|ShapeShifters/History/HIST.LTX|20001208144044|01946|67a38c26 jmochel@devilmountain|ShapeShifters/History/HIST.LTX|20001208144045|19187
+jmochel@devilmountain|ShapeShifters/History/hist.xml.1|20001208144044|11601|67a6c9f3 jmochel@devilmountain|ShapeShifters/History/hist.xml.1|20001208144045|53370
+jmochel@devilmountain|ShapeShifters/History/histltx2xml.gema|20001208144044|18238|67a9f049 jmochel@devilmountain|ShapeShifters/History/histltx2xml.gema|20001208144045|50989
+jmochel@devilmountain|ShapeShifters/History/history.sgml|20001208144044|15367|67ad0032 jmochel@devilmountain|ShapeShifters/History/history.sgml|20001208144045|51200
+jmochel@devilmountain|ShapeShifters/History/History.xml|20001208144044|33602|67b04930 jmochel@devilmountain|ShapeShifters/History/History.xml|20001208144045|19985
+jmochel@devilmountain|ShapeShifters/History/histxml2xml.gema|20001208144045|08848|67b37359 jmochel@devilmountain|ShapeShifters/History/histxml2xml.gema|20001208144046|33934
+jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.ai|20001208144045|64878|67d47569 jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.ai|20001208144046|04520
+jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.gif|20001208144045|06247|67d831f5 jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.gif|20001208144046|57722
+jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.vsd|20001208144045|23440|67db78cf jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.vsd|20001208144046|04182
+jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.wmf|20001208144045|39683|67dec5f6 jmochel@devilmountain|ShapeShifters/Scenarios/AmbushAtFireMountain/Ambushcade.wmf|20001208144046|13030
+jmochel@devilmountain|ShapeShifters/Scenarios/BattleOfTheWizardKing/TimeHammer.txt|20001208144045|47633|67e1fa81 jmochel@devilmountain|ShapeShifters/Scenarios/BattleOfTheWizardKing/TimeHammer.txt|20001208144046|38536
+jmochel@devilmountain|ShapeShifters/Scenarios/HeartStone Ritual/HeartstoneRitual.txt|20001208144045|09788|67e6f194 jmochel@devilmountain|ShapeShifters/Scenarios/HeartStone Ritual/HeartstoneRitual.txt|20001208144046|58049
+jmochel@devilmountain|Support/BTGlossary.dtd|20001208144046|28022|67fb8eab jmochel@devilmountain|Support/BTGlossary.dtd|20001208144047|54112
+jmochel@devilmountain|Support/BTHistory.dtd|20001208144046|09154|67fe5812 jmochel@devilmountain|Support/BTHistory.dtd|20001208144047|63211
+jmochel@devilmountain|Support/BTHistory2rtf.bat|20001208144046|24376|680112fb jmochel@devilmountain|Support/BTHistory2rtf.bat|20001208144047|26551
+jmochel@devilmountain|Support/BTNPC.dtd|20001208144046|05962|6803e136 jmochel@devilmountain|Support/BTNPC.dtd|20001208144047|54290
+jmochel@devilmountain|Support/BTnpc2html.bat|20001208144046|58253|6806b1aa jmochel@devilmountain|Support/BTnpc2html.bat|20001208144047|30076
+jmochel@devilmountain|Support/BTnpc2rtf.bat|20001208144046|36931|68096fcb jmochel@devilmountain|Support/BTnpc2rtf.bat|20001208144047|26040
+jmochel@devilmountain|Support/catalog|20001208144046|14198|680c226f jmochel@devilmountain|Support/catalog|20001208144047|10246
+jmochel@devilmountain|Support/History.xml.rtf|20001208144046|25608|680ee3dc jmochel@devilmountain|Support/History.xml.rtf|20001208144047|26344
+jmochel@devilmountain|Support/ValidateBTNPC.bat|20001208144046|59563|681abc21 jmochel@devilmountain|Support/ValidateBTNPC.bat|20001208144047|17668
+jmochel@devilmountain|Support/style/BTHistory.dsl|20001208144046|11599|6811af30 jmochel@devilmountain|Support/style/BTHistory.dsl|20001208144047|16262
+jmochel@devilmountain|Support/style/BTnpc.dsl|20001208144046|06820|6814af04 jmochel@devilmountain|Support/style/BTnpc.dsl|20001208144047|40287
+jmochel@devilmountain|Support/style/btnpc.xsl|20001208144046|00973|6817a422 jmochel@devilmountain|Support/style/btnpc.xsl|20001208144047|44052
+E 3
+I 2
+jmochel@devilmountain|BitKeeper/etc/config|20001208143925|18309|56d222ed jmochel@devilmountain|BitKeeper/etc/config|20001208143926|27415
+jmochel@devilmountain|BitKeeper/etc/ignore|20001208143925|31867|56d7055a jmochel@devilmountain|BitKeeper/etc/ignore|20001208143926|01079
+E 2
+I 1
+E 1

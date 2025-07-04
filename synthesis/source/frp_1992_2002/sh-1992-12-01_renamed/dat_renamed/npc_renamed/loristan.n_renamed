@@ -1,0 +1,45 @@
+.Name LORIS'TANIK
+.Title PRIEST OF ODIN			   
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 18:23
+.PEN 15		
+.DEX 17
+.PAG 10		
+.PAW 14
+.MST 18		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 6'1"      
+.WT 200		 
+.AGE 42
+.BeginDesc
+ 10: A BLACK EYE PATCH AND BRILLIANT RED HAIR MAKES LORIS'TANIK      
+VISIBLE IN ANY CROWD. HIS HAIR IS HELD IN A 5' BRAID. THE OTHER EYE IS A DEEP   
+BROWN.
+.EndDesc
+.BeginSkills
+Weapon: MACE				  , 
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,45 @@
+.Name LORTHAN
+.Title								
+.Race H.ELF
+.Culture
+.Aspect 
+.PST 17
+.PEN 12		
+.DEX 10
+.PAG 10		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'3"      
+.WT 120		 
+.AGE 29
+.BeginDesc
+ 17: TALL,BLAC HAIRED, BLAC EYED HUNK
+.EndDesc
+.BeginSkills
+Weapon: LONG SWORD		   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ HAS A VERY NOBLE OUTLOOK
+.EndComment
+.BeginPossess
+ SILVER LONG SWORD AND CHAIN MAIL
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

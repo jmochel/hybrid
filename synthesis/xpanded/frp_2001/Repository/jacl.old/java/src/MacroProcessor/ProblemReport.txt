@@ -1,0 +1,107 @@
+I have a macro processor that I am writing using ANTLR. 
+I had the parser working for simple situations but the grammar 
+was getting Baroque so I refactored the single lexer/parser combination 
+into a simple multi-lexer/parser set that appears to almost work. 
+
+My problem is that I appear to be losing a character in the input:
+
+The base Lexer is the TemplateLexer. It ignores anything that is not the start of a command or macro expansion.
+Commands are delimited by a '.' (Aka COMMANDBEGIN ) in the first column and a newline (COMMENDEND).
+Walking thoriugh the debugger I can see the streamSelector push get executed to bring the commandLexer 
+on-line.
+
+--------------- Template Lexer -----------------------------
+
+class TemplateLexer extends Lexer;
+options
+{
+    k = 4;
+    charVocabulary = '\3'..'\377';
+    importVocab=Common;
+    exportVocab=Template;
+    filter=IGNORE;
+}
+
+COMMANDBEGIN
+	: "."
+	{ 
+		// Only '.' in the first column starts a command.
+
+		if (_Column != 1)
+		{
+			$setType(Token.SKIP);
+
+		}
+
+		// Change over to the command lexer 
+
+	    	System.out.println("Pushing over to the command lexer");
+		Exec.streamSelector.push("commandLexer");
+ 	}
+	;
+
+---------------------------------------------------------------------
+
+The Template Parser behaves as expected. When it sees a COMMANDBEGIN, it creates and 
+executes a CommandParser.
+
+class TemplateParser extends Parser;
+options 
+{
+	importVocab=Template;
+	k = 3;
+}
+
+command
+	: COMMANDBEGIN
+	{
+		CommandParser commandParser = new CommandParser(getInputState());
+		commandParser.command();
+	}
+	COMMANDEND
+	;
+
+----------------------------------------------------------------------------
+
+The Command Lexer appears to begin properly. But at the point where it looks 
+for a 'i' at the beginning of include, it finds only 'n' and throws a invalid alt 
+exception.
+
+------------------------------------- Command Lexer ---------------------------
+
+class CommandLexer extends Lexer;
+options
+{
+    	k = 4;
+    	charVocabulary = '\3'..'\377';
+	importVocab=Common;
+	exportVocab=Command;
+}
+
+// the leading '.' should already have been spotted.
+// so the next character should be the 'i'at the begiining of "include"
+
+INCLUDE
+    options
+    {
+         testLiterals =  true;
+    }
+    : "include"
+    ;
+
+
+COMMANDEND
+	: '\n'
+    {
+    	newline();
+	Exec.streamSelector.pop();
+	}
+    |    '\r' 
+    {
+    	newline();
+	Exec.streamSelector.pop();
+	}
+    ;
+----------------------------------------------------------------------------
+
+

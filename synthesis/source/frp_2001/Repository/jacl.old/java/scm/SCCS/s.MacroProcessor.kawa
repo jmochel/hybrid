@@ -1,0 +1,559 @@
+h12802
+s 00067/00057/00003
+d D 1.11 00/03/01 14:27:11 jmochel 12 11
+c Still trying to track down the reason the command lexer is dropping  a character.
+cC
+cK25033
+e
+s 00054/00025/00006
+d D 1.10 00/02/29 17:09:47 jmochel 11 10
+c Added a bit more code.
+cC
+cK54203
+e
+s 00027/00032/00004
+d D 1.9 00/02/04 09:48:46 jmochel 10 9
+c Grammar looks like it is almost finished but I am running into a problem with the Lexer.
+c If the Lexer uses all protected methods (which ppears to be allowable in the ANTLR docs)
+c then the Lexer acts as if it was given a 0 length file.  
+cC
+cK21204
+e
+s 00034/00033/00002
+d D 1.8 00/02/03 12:21:30 jmochel 9 8
+c Redesign !
+cC
+cK39161
+e
+s 00033/00034/00002
+d D 1.7 00/01/11 15:30:29 jmochel 8 7
+c Updated
+cC
+cK37137
+e
+s 00033/00033/00003
+d D 1.6 00/01/07 14:21:13 jmochel 7 6
+c Rewrote the grammar for ease of access. Having problems debugging. I will try another IDE.
+cC
+cK44099
+e
+s 00034/00047/00002
+d D 1.5 99/12/17 15:02:59 jmochel 6 5
+c Restarting
+cC
+cK42556
+e
+s 00002/00002/00047
+d D 1.4 99/12/07 07:45:59 jmochel 5 4
+c Now recognizes include statements
+cC
+cK21199
+e
+s 00043/00043/00006
+d D 1.3 99/12/07 07:03:34 jmochel 4 3
+c Macro Invocations are now recognized.
+cC
+cK21299
+e
+s 00047/00025/00002
+d D 1.2 99/12/02 17:11:06 jmochel 3 2
+c Now does basic recognition of a variable expansion
+cC
+cK19159
+e
+s 00027/00000/00000
+d D 1.1 99/11/23 13:26:48 jmochel 2 1
+cC
+cK11997
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/23 13:26:44 jmochel 1 0
+c BitKeeper file e:/jacl/java/scm/MacroProcessor.kawa
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK31856
+cPjava/scm/MacroProcessor.kawa
+cR1b41230f5cb68643
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 1
+f x 33
+t
+T
+I 2
+D 3
+M$P     413I<:F%C;%QJ879A7&]U='!U=%P       $    !            
+M        $T4Z7&IA8VQ<:F%V85QO=71P=70      0                  
+E 3
+I 3
+M$P   "E%.EQJ86-L7&IA=F%<<W)C7$UA8W)O4')O8V5S<V]R7$5X96,N:F%V
+D 6
+M82U%.EQJ86-L7&IA=F%<;W5T<'5T7#M$.EQA;G1L<BTR+C8N,%QA;G1L<BYJ
+M87(       $    !                    $T4Z7&IA8VQ<:F%V85QO=71P
+M=70      0                                                  
+M                                   J13I<:F%C;%QJ879A7'-R8UQ-
+D 4
+M86-R;U!R;V-E<W-O<EQ386UP;&4P+F-G     0   "@N+EQS<F-<36%C<F]0
+M<F]C97-S;W)<5&5M<&QA=&5,97AE<BYJ879A 0   "%J86-L+DUA8W)O4')O
+M8V5S<V]R+E1E;7!L871E3&5X97(S !%%.EQJ86-L7&IA=F%<<V-M7       
+M   !                                          $ *D4Z7&IA8VQ<
+M:F%V85QS<F-<36%C<F]0<F]C97-S;W)<4V%M<&QE,"YC9P              
+M 0   /__ P . $-0<F]J96-T1F]L9&5R#P    Y-86-R;U!R;V-E<W-O<A--
+M86-R;U!R;V-E<W-O<BYK87=A      @H"0$  @   /__!0 0 $-0<F]J96-T
+M1FEL94ET96TD+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1,97AE<BYG
+M 0                        !A<CMD '1L<BTR+C8N,%P[9#I<6$U,161I
+M=&]R7 (    #@"<N+EQS<F-<36%C<F]0<F]C97-S;W)<0V]M;6%N9$QE>&5R
+M+FIA=F$                          %@;35\ 6!M-7U@;35]8&TU?6!M-
+M7P    #_____ @    . ,2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD
+M3&5X97)4;VME;E1Y<&5S+FIA=F$                          #(["@ @
+M24=.3U)%(#T@,3,["GT*         @    . )2XN7'-R8UQ-86-R;U!R;V-E
+M<W-O<EQ#;VUM86X"     X E+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA
+M;F1087)S97(N9P$                         :+I)7P              
+M        _____U@;35\"     X H+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O
+M;6UA;F1087)S97(N:F%V80                          #0H):0!#55),
+M62 ](#$R.PT*?0T*           "     X R+BY<<W)C7$UA8W)O4')O8V5S
+M<V]R7$-O;6UA;F1087)S97)4;VME;E1Y<&5S+FIA=F$                 
+M         #1V&@< ^8   "#(&@<     _____U#(&@>0."<  @    . +"XN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD5&]K96Y4>7!E<RYJ879A    
+M                       3                __________\         
+M  (    #@!\N+EQS<F-<36%C<F]0<F]C97-S;W)<17AE8RYJ879A        
+M                   $     /____\/    =!H;!P0         @!H;!P( 
+M   #@" N+EQS<F-<36%C<F]0<F]C97-S;W)<4V%M<&QE,"YC9P$         
+M                K "M  "P +$ L@"S +0 M0"V +< N "Y +H NP "    
+M X E+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E3&5X97(N9P$    !
+M    8 $  & !        4 P         <"P;!W0&\ :H^A( ?"P;!_____\"
+M     X H+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E3&5X97(N:F%V
+M80                          ;G0@1 !-04Y$7T5.1" ](#$T.PT*?0T*
+M %@;35\"     X F+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E4&%R
+M<V5R+F<!     0   -    #0         !,               #_________
+M_P           @    . *2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T
+M95!A<G-E<BYJ879A                          !.1%]% " U.PT*"6EN
+M="!,4$%214X@/2 V.PT*"0(    #@#,N+EQS<F-<36%C<F]0<F]C97-S;W)<
+M5&5M<&QA=&5087)S97)4;VME;E1Y<&5S+FIA=F$                     
+M     %@;35\ 6!M-7U@;35]8&TU?6!M-7VYC92!087)R @    . +2XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T951O:V5N5'EP97,N:F%V80      
+M                                $    !0G&P<     T AG " G&P< 
+M  $ $T4Z7&IA8VQ<:F%V85QO=71P=70        !                    
+E 3
+M                                                            
+D 3
+M       J13I<:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4P
+M+F-G         !%%.EQJ86-L7&IA=F%<<V-M7          !            
+M                              $ *D4Z7&IA8VQ<:F%V85QS<F-<36%C
+M<F]0<F]C97-S;W)<4V%M<&QE,"YC9P               0   /__ P . $-0
+M<F]J96-T1F]L9&5R"0    Y-86-R;U!R;V-E<W-O<A--86-R;U!R;V-E<W-O
+M<BYK87=A     ( .&P<  @   /__!0 0 $-0<F]J96-T1FEL94ET96TD+BY<
+M<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1,97AE<BYG 0              
+M          !A<CMD '1L<BTR+C8N,%P[9#I<6$U,161I=&]R7 (    #@"<N
+M+EQS<F-<36%C<F]0<F]C97-S;W)<0V]M;6%N9$QE>&5R+FIA=F$         
+M                 %@;35\ 6!M-7U@;35]8&TU?6!M-7P    #_____ @  
+M  . ,2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD3&5X97)4;VME;E1Y
+M<&5S+FIA=F$                          #(["@ @24=.3U)%(#T@,3,[
+M"GT*         @    . )2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD
+M4&%R<V5R+F<!                         "/A         /____\%    
+M(N$              @    . 'RXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ-86EN
+M+FIA=F$!                                                    
+M             @    . )2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T
+M94QE>&5R+F<!                         &%N9RX 4&]I;G1E<D5X8V5P
+M=&EO;@T*6V-O;7 "     X H+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L
+M871E3&5X97(N:F%V80$    !    F0(  )D"                        
+M                  H   (    #@"8N+EQS<F-<36%C<F]0<F]C97-S;W)<
+M5&5M<&QA=&5087)S97(N9P$                                     
+&     (2C
+E 3
+I 3
+/                    
+E 4
+I 4
+M86-R;U!R;V-E<W-O<EQ386UP;&4P+F-G&&IA8VPN36%C<F]0<F]C97-S;W(N
+M17AE8P   0   "@N+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5,97AE
+M<BYJ879A 0   "%J86-L+DUA8W)O4')O8V5S<V]R+E1E;7!L871E3&5X97)O
+M !%%.EQJ86-L7&IA=F%<<V-M7          !                        
+M                  $ *D4Z7&IA8VQ<:F%V85QS<F-<36%C<F]0<F]C97-S
+M;W)<4V%M<&QE,"YC9P               0   /__ P . $-0<F]J96-T1F]L
+M9&5R#P    Y-86-R;U!R;V-E<W-O<A--86-R;U!R;V-E<W-O<BYK87=A    
+M  @H"0$  @   /__!0 0 $-0<F]J96-T1FEL94ET96TD+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7$-O;6UA;F1,97AE<BYG 0                        !A
+M<CMD '1L<BTR+C8N,%P[9#I<6$U,161I=&]R7 (    #@"<N+EQS<F-<36%C
+M<F]0<F]C97-S;W)<0V]M;6%N9$QE>&5R+FIA=F$                     
+M     %@;35\ 6!M-7U@;35]8&TU?6!M-7P    #_____ @    . ,2XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD3&5X97)4;VME;E1Y<&5S+FIA=F$ 
+M                         #(["@ @24=.3U)%(#T@,3,["GT*        
+M @    . )2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86X"     X E+BY<
+M<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97(N9P$             
+M            :+I)7P                      _____U@;35\"     X H
+M+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97(N:F%V80      
+M                    #0H):0!#55),62 ](#$R.PT*?0T*           "
+M     X R+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97)4;VME
+M;E1Y<&5S+FIA=F$                          #1V&@< ^8   "#(&@< 
+M    _____U#(&@>0."<  @    . +"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#
+M;VUM86YD5&]K96Y4>7!E<RYJ879A                           3    
+M            __________\           (    #@!\N+EQS<F-<36%C<F]0
+M<F]C97-S;W)<17AE8RYJ879A                           $     /__
+M__\/    =!H;!P0         @!H;!P(    #@" N+EQS<F-<36%C<F]0<F]C
+M97-S;W)<4V%M<&QE,"YC9P$                         K "M  "P +$ 
+ML@"S +0 M0"V +< N "Y +H NP "     X E+BY<<W)C7$UA8W)O4')O8V5S
+D 5
+M<V]R7%1E;7!L871E3&5X97(N9P$    !    R $  ,@!        4 P     
+E 5
+I 5
+M<V]R7%1E;7!L871E3&5X97(N9P$    !                    4 P     
+E 5
+M    <"P;!W0&\ :H^A( ?"P;!_____\"     X H+BY<<W)C7$UA8W)O4')O
+D 5
+M8V5S<V]R7%1E;7!L871E3&5X97(N:F%V80     !                    
+E 5
+I 5
+M8V5S<V]R7%1E;7!L871E3&5X97(N:F%V80                          
+E 5
+M;G0@1 !-04Y$7T5.1" ](#$T.PT*?0T* %@;35\"     X F+BY<<W)C7$UA
+M8W)O4')O8V5S<V]R7%1E;7!L871E4&%R<V5R+F<!                    
+M     !,               #__________P           @    . *2XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T95!A<G-E<BYJ879A            
+M              !.1%]% " U.PT*"6EN="!,4$%214X@/2 V.PT*"0(    #
+M@#,N+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5087)S97)4;VME;E1Y
+M<&5S+FIA=F$                          %@;35\ 6!M-7U@;35]8&TU?
+M6!M-7VYC92!087)R @    . +2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP
+M;&%T951O:V5N5'EP97,N:F%V80                                  
+M    $    !0G&P<     T AG " G&P<   $ $T4Z7&IA8VQ<:F%V85QO=71P
+M=70   $    !                                                
+G                                                    
+E 6
+I 6
+D 7
+M81Y$.EQA;G1L<BTR+C8N,%QA;G1L<BYD96)U9RYJ87(       $    !    
+M                $T4Z7&IA8VQ<:F%V85QO=71P=70      0          
+E 7
+I 7
+D 8
+M83=$.EQA;G1L<BTR+C8N,%QA;G1L<BYD96)U9RYJ87([1#I<86YT;'(M,BXV
+M+C!<86YT;'(N:F%R       !     0                   !-%.EQJ86-L
+M7&IA=F%<;W5T<'5T      $                                     
+M                               !                *44Z7&IA8VQ<
+M:F%V85QS<F-<36%C<F]0<F]C97-S;W)<4V%M<&QE+F-G "!%.EQJ86-L7&IA
+M=F%<<W)C7$UA8W)O4')O8V5S<V]R7  !    *"XN7'-R8UQ-86-R;U!R;V-E
+M<W-O<EQ496UP;&%T94QE>&5R+FIA=F$!    (6IA8VPN36%C<F]0<F]C97-S
+M;W(N5&5M<&QA=&5,97AE<L( $44Z7&IA8VQ<:F%V85QS8VU<          $ 
+M                                         0 I13I<:F%C;%QJ879A
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4N8V<               $   #_
+M_P, #@!#4')O:F5C=$9O;&1E<@D    .36%C<F]0<F]C97-S;W(D13I<:F%C
+M;%QJ879A7'-C;5Q-86-R;U!R;V-E<W-O<BYK87=A             @   /__
+M!0 0 $-0<F]J96-T1FEL94ET96T?+BY<<W)C7$UA8W)O4')O8V5S<V]R7$5X
+M96,N:F%V80                          1TQ)5  @/2 W.PT*?0T* %]8
+M&TU?6!M-7U@;35\"     X ?+BY<<W)C7$UA8W)O4')O8V5S<V]R7%-A;7!L
+M92YC9P$                                                     
+M           "     X @+BY<<W)C7$UA8W)O4')O8V5S<V]R7%-A;7!L93 N
+M8V<                          #@Y+3$ "B J+PT*"B @("!P86-K86=E
+M(&IA8VPN @    . )2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE
+M>&5R+F<!     0   -T"  #= @       &EL92  ;'1I;F<@9G)O;2!G<F%M
+M;6%R(%1E;7!L @    . *"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T
+M94QE>&5R+FIA=F$      0   *<S  "G,P       %@;35\ 6!M-7U@;35]8
+M&TU?6!M-7U@;35]8&TU? @    . )BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ4
+M96UP;&%T95!A<G-E<BYG 0                        #9@0        #_
+M____"          $ 0        (    #@"DN+EQS<F-<36%C<F]0<F]C97-S
+M;W)<5&5M<&QA=&5087)S97(N:F%V80                          6!M-
+M7P!8&TU?6!M-7U@;35]8&TU?           "     X S+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7%1E;7!L871E4&%R<V5R5&]K96Y4>7!E<RYJ879A        
+M                  !8&TU? %@;35]8&TU?6!M-7U@;35\           ( 
+M   #@"TN+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&54;VME;E1Y<&5S
+M+FIA=F$                          /____\       0!        ____
+M_PL   "E@0     ! !-%.EQJ86-L7&IA=F%<;W5T<'5T         0      
+E 7
+M                                                            
+D 7
+M               I13I<:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O<EQ3
+M86UP;&4N8V<    !    *2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T
+M95!A<G-E<BYJ879A @   ")J86-L+DUA8W)O4')O8V5S<V]R+E1E;7!L871E
+M4&%R<V5R/@ B:F%C;"Y-86-R;U!R;V-E<W-O<BY496UP;&%T95!A<G-E<F( 
+M$44Z7&IA8VQ<:F%V85QS8VU<          $                         
+M                 0 I13I<:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O
+M<EQ386UP;&4N8V<               $   #__P, #@!#4')O:F5C=$9O;&1E
+M<@D    .36%C<F]0<F]C97-S;W(D13I<:F%C;%QJ879A7'-C;5Q-86-R;U!R
+M;V-E<W-O<BYK87=A             @   /__!0 0 $-0<F]J96-T1FEL94ET
+M96T?+BY<<W)C7$UA8W)O4')O8V5S<V]R7$5X96,N:F%V80     !    $ $ 
+M ! !        1TQ)5  @/2 W.PT*?0T* %]8&TU?6!M-7U@;35\"     X ?
+M+BY<<W)C7$UA8W)O4')O8V5S<V]R7%-A;7!L92YC9P$                 
+M                                               "     X @+BY<
+M<W)C7$UA8W)O4')O8V5S<V]R7%-A;7!L93 N8V<                     
+M     #@Y+3$ "B J+PT*"B @("!P86-K86=E(&IA8VPN @    . )2XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+F<!                
+M         &EL92  ;'1I;F<@9G)O;2!G<F%M;6%R(%1E;7!L @    . *"XN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+FIA=F$         
+M                 %@;35\ 6!M-7U@;35]8&TU?6!M-7U@;35]8&TU? @  
+M  . )BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T95!A<G-E<BYG 0  
+M                      #9@0        #_____"          $ 0      
+M  (    #@"DN+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5087)S97(N
+M:F%V80     !    ^@<  /H'        6!M-7P!8&TU?6!M-7U@;35]8&TU?
+M           "     X S+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E
+M4&%R<V5R5&]K96Y4>7!E<RYJ879A                          !8&TU?
+M %@;35]8&TU?6!M-7U@;35\           (    #@"TN+EQS<F-<36%C<F]0
+M<F]C97-S;W)<5&5M<&QA=&54;VME;E1Y<&5S+FIA=F$                 
+M         /____\       0!        _____PL   "E@0     ! !-%.EQJ
+M86-L7&IA=F%<;W5T<'5T         0                              
+M                                                            
+,        !4I$2R R
+E 7
+I 7
+>                                !4I$2R R
+E 8
+I 8
+D 9
+M80        $    !                    $T4Z7&IA8VQ<:F%V85QO=71P
+M=70      0                                                  
+M                                   I13I<:F%C;%QJ879A7'-R8UQ-
+M86-R;U!R;V-E<W-O<EQ386UP;&4N8V<8:F%C;"Y-86-R;U!R;V-E<W-O<BY%
+M>&5C   !    *"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R
+M+FIA=F$#    (6IA8VPN36%C<F]0<F]C97-S;W(N5&5M<&QA=&5,97AE<B0!
+M(6IA8VPN36%C<F]0<F]C97-S;W(N5&5M<&QA=&5,97AE<B4 (6IA8VPN36%C
+M<F]0<F]C97-S;W(N5&5M<&QA=&5,97AE<M( $44Z7&IA8VQ<:F%V85QS8VU<
+M       013I<:F%C;%QJ879A7&1O8P !                            
+M         0    $ *44Z7&IA8VQ<:F%V85QS<F-<36%C<F]0<F]C97-S;W)<
+M4V%M<&QE+F-G               !    __\#  X 0U!R;VIE8W1&;VQD97((
+M    #DUA8W)O4')O8V5S<V]R)$4Z7&IA8VQ<:F%V85QS8VU<36%C<F]0<F]C
+M97-S;W(N:V%W80            (   #__P4 $ !#4')O:F5C=$9I;&5)=&5M
+M'RXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ%>&5C+FIA=F$                 
+M                                                 @    . 'RXN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4N8V<!                    
+M                 (4         \$"Z!0           @    . )2XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+F<!                
+M         .09:P  6!M-7_ 9:P!8&TU?6!M-7P    !8&TU? @    . *"XN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+FIA=F$         
+M                 %                                       @  
+M  . ,BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R5&]K96Y4
+M>7!E<RYJ879A                                                
+M                  (    #@"8N+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M
+M<&QA=&5087)S97(N9P$                                     6!M-
+M7^    !1    :+I)7P     "     X I+BY<<W)C7$UA8W)O4')O8V5S<V]R
+M7%1E;7!L871E4&%R<V5R+FIA=F$                                 
+M                                 @    . ,RXN7'-R8UQ-86-R;U!R
+M;V-E<W-O<EQ496UP;&%T95!A<G-E<E1O:V5N5'EP97,N:F%V80          
+M                ,"!K                                      $ 
+M$T4Z7&IA8VQ<:F%V85QO=71P=70   $    !       ! !!%.EQJ86-L7&IA
+M=F%<9&]C                                                    
+B                                      5*1$L@,@  
+E 9
+I 9
+D 10
+M80]$.EQA;G1L<BTR+C<N,%P       $    !                    $T4Z
+M7&IA8VQ<:F%V85QO=71P=70      0                              
+M                                      $                I13I<
+M:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4N8V< ($4Z7&IA
+M8VQ<:F%V85QS<F-<36%C<F]0<F]C97-S;W)<  $    H+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7%1E;7!L871E3&5X97(N:F%V80,    A:F%C;"Y-86-R;U!R
+M;V-E<W-O<BY496UP;&%T94QE>&5R) $A:F%C;"Y-86-R;U!R;V-E<W-O<BY4
+M96UP;&%T94QE>&5R)0 A:F%C;"Y-86-R;U!R;V-E<W-O<BY496UP;&%T94QE
+M>&5RT@ 113I<:F%C;%QJ879A7'-C;5P      !!%.EQJ86-L7&IA=F%<9&]C
+M  $                                    !     0 I13I<:F%C;%QJ
+M879A7'-R8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4N8V<               $ 
+M  #__P, #@!#4')O:F5C=$9O;&1E<@@    .36%C<F]0<F]C97-S;W(D13I<
+M:F%C;%QJ879A7'-C;5Q-86-R;U!R;V-E<W-O<BYK87=A             @  
+M /__!0 0 $-0<F]J96-T1FEL94ET96T?+BY<<W)C7$UA8W)O4')O8V5S<V]R
+M7$5X96,N:F%V80                                              
+M                   "     X ?+BY<<W)C7$UA8W)O4')O8V5S<V]R7%-A
+M;7!L92YC9P$                                     A0        #P
+M0+H%           "     X E+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L
+M871E3&5X97(N9P$                         Y!EK  !8&TU?\!EK %@;
+M35]8&TU?     %@;35\"     X H+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E
+M;7!L871E3&5X97(N:F%V80                          4           
+M                           "     X R+BY<<W)C7$UA8W)O4')O8V5S
+M<V]R7%1E;7!L871E3&5X97)4;VME;E1Y<&5S+FIA=F$                 
+M                                                 @    . )BXN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T95!A<G-E<BYG 0          
+M                          !8&TU?X    %$   !HNDE?      (    #
+M@"DN+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5087)S97(N:F%V80  
+E 10
+I 10
+D 12
+M81-$.EP[1#I<86YT;'(M,BXW+C!<       !     0                  
+M !-%.EQJ86-L7&IA=F%<;W5T<'5T      $                         
+M                                           !                
+D 11
+M"5-A;7!L92YC9P @13I<:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O<EP 
+M     !%%.EQJ86-L7&IA=F%<<V-M7       $$4Z7&IA8VQ<:F%V85QD;V, 
+M 0                                    $    !  E386UP;&4N8V< 
+M              $   #__P, #@!#4')O:F5C=$9O;&1E<@@    .36%C<F]0
+M<F]C97-S;W(D13I<:F%C;%QJ879A7'-C;5Q-86-R;U!R;V-E<W-O<BYK87=A
+M             @   /__!0 0 $-0<F]J96-T1FEL94ET96T?+BY<<W)C7$UA
+M8W)O4')O8V5S<V]R7$5X96,N:F%V80                              
+M                                   "     X ?+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7%-A;7!L92YC9P$                                 
+M    A0        #P0+H%           "     X E+BY<<W)C7$UA8W)O4')O
+M8V5S<V]R7%1E;7!L871E3&5X97(N9P$                         Y!EK
+M  !8&TU?\!EK %@;35]8&TU?     %@;35\"     X H+BY<<W)C7$UA8W)O
+M4')O8V5S<V]R7%1E;7!L871E3&5X97(N:F%V80                      
+M    4                                      "     X R+BY<<W)C
+M7$UA8W)O4')O8V5S<V]R7%1E;7!L871E3&5X97)4;VME;E1Y<&5S+FIA=F$ 
+E 11
+I 11
+M"5-A;7!L92YC9QAJ86-L+DUA8W)O4')O8V5S<V]R+D5X96,@13I<:F%C;%QJ
+M879A7'-R8UQ-86-R;U!R;V-E<W-O<EP !    "DN+EQS<F-<36%C<F]0<F]C
+M97-S;W)<5&5M<&QA=&5087)S97(N:F%V80,    B:F%C;"Y-86-R;U!R;V-E
+M<W-O<BY496UP;&%T95!A<G-E<CX (FIA8VPN36%C<F]0<F]C97-S;W(N5&5M
+M<&QA=&5087)S97(_ ")J86-L+DUA8W)O4')O8V5S<V]R+E1E;7!L871E4&%R
+M<V5R00 G+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1,97AE<BYJ879A
+M!P   "!J86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA;F1,97AE<C$ (&IA8VPN
+M36%C<F]0<F]C97-S;W(N0V]M;6%N9$QE>&5R70 @:F%C;"Y-86-R;U!R;V-E
+M<W-O<BY#;VUM86YD3&5X97)^ "!J86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA
+M;F1,97AE<I  (&IA8VPN36%C<F]0<F]C97-S;W(N0V]M;6%N9$QE>&5RB@ @
+M:F%C;"Y-86-R;U!R;V-E<W-O<BY#;VUM86YD3&5X97*, "!J86-L+DUA8W)O
+M4')O8V5S<V]R+D-O;6UA;F1,97AE<I( *"XN7'-R8UQ-86-R;U!R;V-E<W-O
+M<EQ496UP;&%T94QE>&5R+FIA=F$!    (6IA8VPN36%C<F]0<F]C97-S;W(N
+M5&5M<&QA=&5,97AE<AT!*"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD
+M4&%R<V5R+FIA=F$!    (6IA8VPN36%C<F]0<F]C97-S;W(N0V]M;6%N9%!A
+M<G-E<C, $44Z7&IA8VQ<:F%V85QS8VU<       013I<:F%C;%QJ879A7&1O
+M8P !                                     0    $ "5-A;7!L92YC
+M9P               0   /__ P . $-0<F]J96-T1F]L9&5R#P    Y-86-R
+M;U!R;V-E<W-O<B1%.EQJ86-L7&IA=F%<<V-M7$UA8W)O4')O8V5S<V]R+FMA
+M=V$            "    __\% !  0U!R;VIE8W1&:6QE271E;20N+EQS<F-<
+M36%C<F]0<F]C97-S;W)<0T]M;6%N9$QE>&5R+F<!                    
+M     (      (0    "X6 8                      @    . )RXN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD3&5X97(N:F%V80              
+M            "@               '$   "@ @  T'D7!M!Y%P8"     X E
+M+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97(N9P$         
+M                                                       "    
+M X H+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97(N:F%V80  
+M                        :+I)7P                      "@    $ 
+M   "     X R+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UA;F1087)S97)4
+M;VME;E1Y<&5S+FIA=F$                           0     _____P\ 
+M  "3@0  !         #_____ @    . +"XN7'-R8UQ-86-R;U!R;V-E<W-O
+M<EQ#;VUM86YD5&]K96Y4>7!E<RYJ879A                          #9
+M@0        #_____"          $ 0        (    #@"HN+EQS<F-<36%C
+M<F]0<F]C97-S;W)<0V]M;6]N5&]K96Y4>7!E<RYT>'0!                
+M                                                 @    . 'RXN
+M7'-R8UQ-86-R;U!R;V-E<W-O<EQ%>&5C+FIA=F$!                    
+M                                             @    . 'RXN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ386UP;&4N8V<!                        
+M             (4         \$"Z!0           @    . )2XN7'-R8UQ-
+M86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+F<!                    
+M     .09:P  6!M-7_ 9:P!8&TU?6!M-7P    !8&TU? @    . *"XN7'-R
+M8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T94QE>&5R+FIA=F$             
+M             %                                       @    . 
+M)BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T95!A<G-E<BYG 0      
+M                              !8&TU?X    %$   !HNDE?      ( 
+M   #@"DN+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5087)S97(N:F%V
+M80                                                          
+M       "     X S+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E4&%R
+M<V5R5&]K96Y4>7!E<RYJ879A                                    
+M  !' 0                  D,58!@(    #@"TN+EQS<F-<36%C<F]0<F]C
+M97-S;W)<5&5M<&QA=&54;VME;E1Y<&5S+FIA=F$                     
+M     % )         -#]3P:(!@'"5/<2 -S]3P;_____   ! !-%.EQJ86-L
+M7&IA=F%<;W5T<'5T   !     0       0 013I<:F%C;%QJ879A7&1O8P  
+E 12
+I 12
+M82)$.EP[1#I<86YT;'(M,BXW+C!<86YT;'(N9&5B=6<N:F%R       !    
+M 0                   !-%.EQJ86-L7&IA=F%<;W5T<'5T      $     
+E 12
+E 11
+E 10
+M                                                            
+D 10
+M   "     X S+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E4&%R<V5R
+M5&]K96Y4>7!E<RYJ879A                           P(&L         
+M                             0 313I<:F%C;%QJ879A7&]U='!U=   
+M      $       $ $$4Z7&IA8VQ<:F%V85QD;V,                     
+E 10
+I 10
+D 11
+M     @    . )BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP;&%T95!A<G-E
+M<BYG 0                                    !8&TU?X    %$   !H
+MNDE?      (    #@"DN+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&50
+M87)S97(N:F%V80                                              
+M                   "     X S+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E
+M;7!L871E4&%R<V5R5&]K96Y4>7!E<RYJ879A                        
+M   P(&L                                      0 313I<:F%C;%QJ
+M879A7&]U='!U=         $       $ $$4Z7&IA8VQ<:F%V85QD;V,     
+E 10
+M                                                            
+D 10
+.        !TI$2R Q+C, 
+E 10
+I 10
+:                        !TI$2R Q+C, 
+E 11
+I 11
+D 12
+<                           '2D1+(#$N,P  
+E 12
+I 12
+M   !                "5-A;7!L92YC9QAJ86-L+DUA8W)O4')O8V5S<V]R
+M+D5X96,@13I<:F%C;%QJ879A7'-R8UQ-86-R;U!R;V-E<W-O<EP "    #5$
+M.EQA;G1L<BTR+C<N,%QA;G1L<EQ.;U9I86)L94%L=$9O<D-H87)%>&-E<'1I
+M;VXN:F%V80,    A86YT;'(N3F]6:6%B;&5!;'1&;W)#:&%R17AC97!T:6]N
+M#@ A86YT;'(N3F]6:6%B;&5!;'1&;W)#:&%R17AC97!T:6]N%0 A86YT;'(N
+M3F]6:6%B;&5!;'1&;W)#:&%R17AC97!T:6]N)@ I+BY<<W)C7$UA8W)O4')O
+M8V5S<V]R7%1E;7!L871E4&%R<V5R+FIA=F$#    (FIA8VPN36%C<F]0<F]C
+M97-S;W(N5&5M<&QA=&5087)S97(^ ")J86-L+DUA8W)O4')O8V5S<V]R+E1E
+M;7!L871E4&%R<V5R/P B:F%C;"Y-86-R;U!R;V-E<W-O<BY496UP;&%T95!A
+M<G-E<D$ )RXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD3&5X97(N:F%V
+M80<    @:F%C;"Y-86-R;U!R;V-E<W-O<BY#;VUM86YD3&5X97(Q "!J86-L
+M+DUA8W)O4')O8V5S<V]R+D-O;6UA;F1,97AE<ET (&IA8VPN36%C<F]0<F]C
+M97-S;W(N0V]M;6%N9$QE>&5R?@ @:F%C;"Y-86-R;U!R;V-E<W-O<BY#;VUM
+M86YD3&5X97*0 "!J86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA;F1,97AE<HH 
+M(&IA8VPN36%C<F]0<F]C97-S;W(N0V]M;6%N9$QE>&5RC  @:F%C;"Y-86-R
+M;U!R;V-E<W-O<BY#;VUM86YD3&5X97*2 "@N+EQS<F-<36%C<F]0<F]C97-S
+M;W)<5&5M<&QA=&5,97AE<BYJ879A 0   "%J86-L+DUA8W)O4')O8V5S<V]R
+M+E1E;7!L871E3&5X97(= 2@N+EQS<F-<36%C<F]0<F]C97-S;W)<0V]M;6%N
+M9%!A<G-E<BYJ879A P   "%J86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA;F10
+M87)S97(S "%J86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA;F1087)S97(\ "%J
+M86-L+DUA8W)O4')O8V5S<V]R+D-O;6UA;F1087)S97)  "1$.EQA;G1L<BTR
+M+C<N,%QA;G1L<EQ">71E0G5F9F5R+FIA=F$!    $&%N=&QR+D)Y=&5"=69F
+M97(I "5$.EQA;G1L<BTR+C<N,%QA;G1L<EQ);G!U=$)U9F9E<BYJ879A 0  
+M !%A;G1L<BY);G!U=$)U9F9E<E( )40Z7&%N=&QR+3(N-RXP7&%N=&QR7$-H
+M87)38V%N;F5R+FIA=F$"    $6%N=&QR+D-H87)38V%N;F5R>0 186YT;'(N
+M0VAA<E-C86YN97)Z !%%.EQJ86-L7&IA=F%<<V-M7       $$4Z7&IA8VQ<
+M:F%V85QD;V,  0                                    $    !  E3
+M86UP;&4N8V<               $   #__P, #@!#4')O:F5C=$9O;&1E<@\ 
+M   .36%C<F]0<F]C97-S;W(D13I<:F%C;%QJ879A7'-C;5Q-86-R;U!R;V-E
+M<W-O<BYK87=A             @   /__!0 0 $-0<F]J96-T1FEL94ET96TD
+M+BY<<W)C7$UA8W)O4')O8V5S<V]R7$-/;6UA;F1,97AE<BYG 0          
+M              "      "$     N%@&                      (    #
+M@"<N+EQS<F-<36%C<F]0<F]C97-S;W)<0V]M;6%N9$QE>&5R+FIA=F$     
+M                      H               !Q    H (  -!Y%P;0>1<&
+M @    . )2XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD4&%R<V5R+F<!
+M                                                            
+M     @    . *"XN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD4&%R<V5R
+M+FIA=F$                          &BZ25\                     
+M  H    !     @    . ,BXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ#;VUM86YD
+M4&%R<V5R5&]K96Y4>7!E<RYJ879A                           $    
+M /____\/    DX$   0         _____P(    #@"PN+EQS<F-<36%C<F]0
+M<F]C97-S;W)<0V]M;6%N9%1O:V5N5'EP97,N:F%V80                  
+M        V8$         _____P@         ! $        "     X J+BY<
+M<W)C7$UA8W)O4')O8V5S<V]R7$-O;6UO;E1O:V5N5'EP97,N='AT 0      
+M                                                          ( 
+M   #@!\N+EQS<F-<36%C<F]0<F]C97-S;W)<17AE8RYJ879A 0          
+M                                                      (    #
+M@!\N+EQS<F-<36%C<F]0<F]C97-S;W)<4V%M<&QE+F-G 0              
+M                      "%         /! N@4           (    #@"4N
+M+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5,97AE<BYG 0          
+M              #D&6L  %@;35_P&6L 6!M-7U@;35\     6!M-7P(    #
+M@"@N+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5,97AE<BYJ879A    
+M                      !0                                    
+M  (    #@"8N+EQS<F-<36%C<F]0<F]C97-S;W)<5&5M<&QA=&5087)S97(N
+M9P$                                     6!M-7^    !1    :+I)
+M7P     "     X I+BY<<W)C7$UA8W)O4')O8V5S<V]R7%1E;7!L871E4&%R
+M<V5R+FIA=F$                                                 
+M                 @    . ,RXN7'-R8UQ-86-R;U!R;V-E<W-O<EQ496UP
+M;&%T95!A<G-E<E1O:V5N5'EP97,N:F%V80                          
+M            1P$                  )#%6 8"     X M+BY<<W)C7$UA
+M8W)O4')O8V5S<V]R7%1E;7!L871E5&]K96Y4>7!E<RYJ879A            
+M              !0"0        #0_4\&B 8!PE3W$@#<_4\&_____P   0 3
+M13I<:F%C;%QJ879A7&]U='!U=    0    $       $ $$4Z7&IA8VQ<:F%V
+M85QD;V,                                                     
+C                                    !TI$2R Q+C, 
+E 12
+E 11
+E 10
+E 9
+E 8
+E 7
+E 6
+E 4
+E 3
+ 
+E 2
+I 1
+E 1

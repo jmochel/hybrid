@@ -1,0 +1,45 @@
+.Name Prophet
+.Title Lord of Arms					  
+.Race Hu
+.Culture
+.Aspect Solar
+.PST 31
+.PEN 23		
+.DEX 34
+.PAG 21		
+.PAW 34
+.MST 34		
+.MEN 14
+.PSI 34
+.MAG 14
+.MAW 36
+.HT 5'10"     
+.WT 160		 
+.AGE 
+.BeginDesc
+ HAWK FEATURED MAN WITH BROWN EYES AND BLACK HAIR AT SHOULDER LENGTH.
+DRESSED IN GRAY OR BROWN WOOLEN ROBES CARRYING AN ADAMNATIUM STAFF. APP:16
+.EndDesc
+.BeginSkills
+.EndSkills
+.Locale Ethereal
+.BeginKnownAssoc
+ SIF AND THOR,PTAH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+All attacks stun automatically, and all grievous chances add 20%				
+SYMBOL IS A SOLID CIRCLE WITH A SINGLE STAR IN THE CENTER.
+.EndComment
+.BeginPossess
+ Adamantium Staff Called Staff
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic None
+.BeginSpells

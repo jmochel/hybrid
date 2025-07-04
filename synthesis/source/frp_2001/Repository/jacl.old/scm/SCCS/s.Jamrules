@@ -1,0 +1,78 @@
+h42559
+s 00050/00000/00000
+d D 1.1 99/11/17 12:55:47 jmochel 2 1
+cC
+cK07234
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:55:43 jmochel 1 0
+c BitKeeper file e:/jacl/scm/Jamrules
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45366
+cPscm/Jamrules
+cR2f93d72f5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+# Jamrules
+# A set of JACL project specific defines and such 
+# 
+# $Author $
+# $Date $
+#
+
+# Now switch off of the target os to determine the command line switches.
+
+switch $(TARGETOS)
+{
+
+    case W32 :
+
+        # Set the basic defines and directories
+
+        switch $(COMPILER)
+        {
+            case B5 :
+
+        		HDRS = \\stdlib\\include\\bc5 \\stdlib\\include $(STDHDRS) \\jacl\\h ;
+        		C++FLAGS_DEFINES += RWBC5_INCLUDE=$(STDHDRS) ;
+
+            case M11 :
+
+        		HDRS = $(STDHDRS) \\jacl\\h ;
+        }
+
+		LibDir = \\jacl\\lib ;
+		ObjDir = \\jacl\\obj\\$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+		ExecDir = \\jacl\\bin\\$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+
+
+
+	case UNX : 
+
+	        # Set the basic defines and directories
+
+       		HDRS = $(STDHDRS) /jacl/h ;
+    		LibDir = /jacl/lib ;
+    		ObjDir = /jacl/obj/$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+    		ExecDir = /jacl/bin/$(COMPABBREV)$(TARGETOSABBREV)$(MORPHABBREV) ;
+
+	case * :
+	
+		ECHO Jamrules: Target Operating System is unknown ;
+		EXIT ;
+}
+
+
+E 2
+I 1
+E 1

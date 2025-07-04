@@ -1,0 +1,138 @@
+%!
+%%Dimensions: 0 0 612 792
+%%Title: c:\tex\bin\DVIALW.EXE pg
+%%CreationDate: Thu Dec 26 05:16:57 1991
+%%Creator:  and [TeX82 DVI Translator Version 2.10b for PostScript [App-
+%-le LaserWriter laser printer]
+%%Pages: (atend)
+%%BugHistory: Incorporates Allan Hetzel's 31-Oct-85 DARPA LASER-LOVERS -
+%-PS Version 23.0 X-on/X-off bug workaround
+%%EndComments
+%%EndProlog
+/TeXdict 200 dict def
+TeXdict begin
+/bdf {bind def} def
+/B
+{
+/h exch def
+/w exch def
+gsave
+currentpoint
+newpath
+moveto
+w 1 sub 0 rlineto
+0 h 1 sub rlineto
+w 1 sub neg 0 rlineto
+closepath fill
+grestore
+} bdf
+/BOJ
+{
+72 Resolution div 72 Resolution div scale
+userdict /note known
+{NOTE}
+{LETTER}
+ifelse
+} bdf
+/BOP
+{
+clear
+Mtrx setmatrix
+25 0 translate
+} bdf
+/ch-image {ch-data 0 get} bdf
+/ch-xoff {ch-data 1 get} bdf
+/ch-yoff {ch-data 2 get} bdf
+/ch-width {ch-data 3 get} bdf
+/ch-height {ch-data 4 get} bdf
+/ch-tfmw {ch-data 5 get} bdf
+/CharBuilder
+{
+/ch-code exch def
+/font-dict exch def
+/ch-data font-dict /BitMaps get
+ch-code get def
+ch-data null eq not
+{
+ch-tfmw 0
+ch-xoff neg ch-yoff ch-height sub
+ch-width ch-xoff sub ch-yoff
+setcachedevice
+0 0 SNAP translate
+ch-width ch-height true [ 1 0 0 -1 ch-xoff ch-yoff ]
+{ch-image} imagemask
+} if
+} bdf
+/D
+{
+/ch-code exch def
+/ch-data exch def
+currentfont /BitMaps get ch-code ch-data put
+currentfont /Encoding get ch-code dup 3 string cvs cvn put
+} bdf
+/EOJ
+{
+end
+} bdf
+/EOP
+{
+/#copies exch def
+showpage
+} bdf
+/LANDSCAPE
+{
+letter initmatrix
+72 Resolution div dup scale
+0 3300 translate
+-90 rotate
+0 -750 translate
+Mtrx currentmatrix pop
+} bdf
+/LEGAL
+{
+legal initmatrix
+72 Resolution div dup scale
+0 900 translate
+Mtrx currentmatrix pop
+} bdf
+/LETTER
+{
+letter initmatrix
+72 Resolution div dup scale
+Mtrx currentmatrix pop
+} bdf
+/M
+{
+moveto
+} bdf
+/Mtrx 6 array def
+/NF
+{
+/newname exch def
+newname 7 dict def
+newname load
+begin
+/BitMaps 128 array def
+/BuildChar { CharBuilder } def
+/Encoding 128 array def
+0 1 127 { Encoding exch /.notdef put } for
+/FontBBox [ 0 0 1 1 ] def
+/FontMatrix [ 1 0 0 1 0 0 ] def
+/FontType 3 def
+end
+newname newname load definefont pop
+} bdf() pop
+/NOTE
+{
+note initmatrix
+72 Resolution div dup scale
+Mtrx currentmatrix pop
+} bdf
+/P {show} bdf() pop
+/Q {moveto w h B} bdf() pop
+/R {0 rmoveto show} bdf() pop
+/Resolution 300 def
+/S {moveto show} bdf() pop
+/SF {findfont exch scalefont setfont} bdf() pop
+/SNAP {transform 2 {floor 0.5 add exch} repeat itransform} bdf
+/T {currentpoint ex

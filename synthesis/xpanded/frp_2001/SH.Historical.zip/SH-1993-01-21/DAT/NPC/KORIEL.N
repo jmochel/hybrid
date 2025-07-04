@@ -1,0 +1,49 @@
+.Name KORIEL
+.Title								
+.Race ELF
+.Culture
+.Aspect 
+.PST 8
+.PEN 14		
+.DEX 18
+.PAG 12		
+.PAW 14
+.MST 14		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'1"      
+.WT 112		 
+.AGE 170
+.BeginDesc
+ 16 BLONDE HAIR BLUE EYES GOOD CLOTHING WITH SLIGHTLY CRAZED LOOK	 
+AROUND THE EYES
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ EZRA,FINREN,NILREM,TURA AUR
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ FEAR: HTH COMBAT
+.EndComment
+.BeginPossess
+ "SPELL BOOK OF ITHIZ" +1 RING OF PROT, ELVEN CHAIN,STAFF OF LIGHT  
+ POTIONS: HEALING2, DIMUNITION, ENT DRAUGHT2, SPELLBOOK,GHOST RIDER RINGS2		
+			 SCROLL: SHADOW DOOR,MAJOR CREATION,HALLUCINATORY TERRAIN
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

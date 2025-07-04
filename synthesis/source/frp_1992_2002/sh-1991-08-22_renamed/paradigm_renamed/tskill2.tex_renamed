@@ -1,0 +1,15 @@
+% FILE Physical Condition Skill Modifiers
+% REF 
+\begin{table}[h]
+\caption{Physical Condition Modifiers}
+\centering
+	\begin{tabular}{||l|l||} \hline
+	Situation			& EF Modifier	\\ \hline
+	Out of PFT			& -2 physical	\\
+	Out of PFT			& -1 mental		\\
+	25\% wounded in PBD & -2 Physical	\\
+	25\% Wounded in PBD & -1 Mental		\\
+	50\% Wounded in PBD & -4 Physical	\\
+	50\% Wounded in PBD & -2 Mental		\\ \hline
+	\end{tabular}
+\end{table}

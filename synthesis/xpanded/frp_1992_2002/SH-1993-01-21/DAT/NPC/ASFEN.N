@@ -1,0 +1,47 @@
+.Name ASFEN
+.Title LORD							
+.Race DWARF
+.Culture
+.Aspect 
+.PST 16
+.PEN 15		
+.DEX 17
+.PAG 18		
+.PAW 14
+.MST 13		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 4'2"      
+.WT 79		 
+.AGE ?
+.BeginDesc
+ BROWN HAIR,BROWN EYES AND HANDSOME FOR A DWARF.(ALSO HAS GOOD		 
+MANNERS)
+.EndDesc
+.BeginSkills
+Weapon: FISTS			   , 
+.EndSkills
+.Locale KINGDOM OF YERITH
+.BeginKnownAssoc
+ RULER OF YERITH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends DANNE OF THE FAST HANDS
+.EndFriends
+.BeginComment
+ SUAVE KIND OF GUY
+.EndComment
+.BeginPossess
+ SHEILD OF STEALTH
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

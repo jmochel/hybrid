@@ -1,0 +1,126 @@
+\chapter{Environmental Enhancements, Special Abilities and Limitations}
+
+\section{Outline}
+
+After a character has some points in the four pools associated with 
+character creation ( health, wealth, status, skill) he may choose to 
+use them to buy Enhancements that will add flavour to the character. 
+
+There are always the base enhancements allowed to the character. The
+points in the Skill pool can be used to buy skills at the generation
+cost. The points in the Stat pool can be used to buy stats at the costs
+listed in the stat cost tables.
+
+Enhancements are gains in either background or special abilities that 
+can be paid for with points from one of the pools. There are two main 
+types. There are special abilities or SPABS and there are 
+Environmental Enhancements.  
+
+SPABS are natural aptitudes that are typically permanent and inherent 
+to the character's makeup.
+
+Environmental Enhancements are typically advantages that depend on  the
+character to maintain them. Such as wealth and various components of
+status. 
+
+% Read in the Cost tables 
+\include{tcgen4}
+
+\section{Special Abilities}
+
+SPABS have both Depth and Scope to help govern their cost.
+
+Depth refers to the numeric advantage given by the SPAB in a given 
+area. The scope denotes the number of different areas that the spab 
+may be applicable to. 
+
+In the case of raising a character statistic the scope refers to the 
+number of other stats affected.
+
+A SPAB that involves enhancing a statistic is different from raising the
+statistic. A raised statistic ends up increasing the SB of the character
+in that stat. The enhanced stat SPAB increases the Rank of the character
+for any direct rolls against that stat. Thus an Enhanced Stat SPAB
+affects Saving Throws and Concentration Checks.
+
+\subsection{Enhanced Stats}
+SPABs that involve stats have a cost identical to the cost of raising
+the stat with the following exceptions.
+
+Physical Awareness (PAW) has a scope of 5, Hearing, Feeling, Tasting, 
+Seeing, Smelling. This means that to get a SPAB: Enhanced Physical
+Awareness costs \( 5 \times 2 \) or 10 points. As an example:
+
+\begin{quote}
+Samuel T'ganin, of the Terran Intelligence Unit has an extremely acute 
+sense of hearing. This would be taken as Enhanced Hearing(ie PAW). 
+Thus the cost of getting one level of Enhanced Hearing is 2 points. 
+\end{quote} 
+
+MAW has a scope of one. 
+
+GAW has a scope of 6. 5 PAW and 1 MAW.
+
+\subsection{Ambidextrous}
+\subsection{Eidectic Memory}
+\subsection{Presence}
+\subsection{Lightning Calculator}
+\subsection{Mage Ability ?}
+\subsection{Other SPAB Costs}
+
+Most other SPABs have effects that can be linked to one of the
+statistics. 
+
+\section{Environmental Enhancements}
+
+Environmental Enhancements have both Depth and Scope to help govern 
+their cost. 
+
+\subsection{Wealth}
+
+The first and most commonly used is the wealth advantage. This differs
+from the basic wealth that can be gained by spending the points from the
+wealth pool in that the gain is approximately one third that of a pure
+monetary spend, but the gain so obtained is income that will continue to
+be generated for as long as the PC pays attention to the interests that
+generate the funds. The larger the income the more work involved in
+maintaining it. 
+
+\subsection{Friends and Allies}
+Another important Environmental Enhancement is that of Friends. Friends
+have a depth associated with them dependent on how much they can be
+counted upon. The scope is dependent on how easily the PC can access
+that Friend. 
+
+\begin{tabular}{||l|l|l||} \hline
+	Value	&	Dependability & Scope \\ \hline
+	1		&	10 \% & 10 \%	\\
+	2		&	20 \% & 20 \%	\\
+	3		&	30 \% & 30 \%	\\
+	4		&	40 \% & 40 \%	\\
+	5		&	50 \% & 50 \%	\\
+	6		&	60 \% & 60 \%	\\
+	7		&	70 \% & 70 \%	\\
+	8		&	80 \% & 80 \%	\\
+	9		&	90 \% & 90 \%	\\
+	10		&	100 \% & 100 \%	\\ \hline
+\end{tabular}
+
+\begin{quote}
+Terran Intelligence Operative Samuel T'ganin has the friendship of both
+a wealthy widow and the Free Traders of Asozan. The wealthy widow is
+fond of Samuel and be counted upon for occasional assistance so her cost
+as a friend is Depth 1 \( \times \) Scope 1 or 1. The Free Traders owe a
+debt of honor that some take more seriously than others, but on average
+Samuel can count on their aid about 60\% of the time and the Free
+Traders are a ubiquitous lot ( Available at 60\% of planets that Samuel
+frequents).
+\end{quote} 
+ 
+\subsection{Reputation}
+\subsection{Continued Careers}
+A continued career as  LEO or soldier is a balanced ad and disad situation.
+
+
+
+

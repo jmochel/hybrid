@@ -1,0 +1,65 @@
+.Name Sassen
+.Title The Dark
+.Race Demondim
+.Culture 
+.PST 6
+.PEN 18		
+.DEX 13
+.PAG 15		
+.PAW 14
+.MST 16		
+.MEN 15
+.PSI 18
+.MAG 17
+.MAW 12
+.HT 5'7"
+.WT 150
+.AGE 123
+.BeginDesc
+VERY THIN BUT DENSE WITH BLACK HAIR AND YELLOW EYES SET INTO A BROWN
+SKINNED HEAD.
+.EndDesc
+.BeginSkills
+Weapon:Staff, 3
+Lore:Theology, 7
+Lore:Demonism, 8
+Interpersonal Awareness, 9
+Interrogation, 7
+Perception:Physical Awareness, 10
+Perception:Mental Awareness, 10
+Dodge, 12
+Seduction, 11
+Lovemaking, 12
+.EndSkills
+.Locale TRAVELS WITH GROD'S GROUP
+.BeginKnownAssoc
+LORD GROD,LORD BRIARSON,DALON,AKALABETH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+SASSEN THE DARK IS THE SON OF AN INCUBI AND A HUMAN. HE IS GIFTED WITH 
+PSIONICS AND A STRANGE TWISTY TYPE OF MIND. HE IS LATENTLY BLOOD THIRSTY WHICH  
+IS WHY HE TRAVELS WITH GROD AND COMPANY.  
+His skin acts as elven chain mail. 
+.EndComment
+.BeginPossess
+SCROLL BOOK OF DISAPPEARANCE. 
+RING OF LIGHT MISSILE DETECTION.
+A SILVER RING OF SHIRAL STONE. 
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+Psychic Gate, 19
+Precognition, 13
+Psi Barricade, 11
+Seduction, 8
+Demon Bolts, 14
+.EndSpells
+.EndNPC

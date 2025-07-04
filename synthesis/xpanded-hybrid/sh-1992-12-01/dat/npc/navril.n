@@ -1,0 +1,61 @@
+.Name Navril
+.Title Sargent Commander			 
+.Race Half Orc
+.Culture
+.Aspect Winter
+.PST 26
+.PEN 23		
+.DEX 19
+.PAG 19		
+.PAW 18
+.MST 16
+.MEN 14
+.PSI 03
+.MAG 14
+.MAW 19
+.HT 5'5"      
+.WT 190		 
+.AGE 33
+.BeginDesc
+ Grey Hair. Broken Nose. Right Arm has a slight bend in it. Burn	 
+scars along the left and back of neck.
+.EndDesc
+.BeginSkills
+Weapon: Great Axe			  , 4
+Weapon: Dagger				, 4
+Weapon: Throwing Knife		  , 4
+Weapon: Spear			   , 4
+Weapon: Quarter Staff		 , 4
+Weapon: Kawanga				 , 10
+ Acrobatics			 , 3
+ Military Sci		 , 3
+ Armoured Move		 , 3
+ Stealth			 , 4
+ Running			 , 4
+ Desert Survival	 , 4
+ Tracking			 , 3
+ Kaliphan (S)		 , 6
+ Trade (S)			 , 8
+ Orkan (S)			, 8
+.EndSkills
+.Locale
+.BeginKnownAssoc
+ Black Star Company
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ Steel Kawanga +10%
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

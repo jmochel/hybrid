@@ -1,0 +1,234 @@
+H47850
+s 00007/00001/00049
+d D 1.4 01/07/18 14:35:37 jmochel 5 4
+c Models added
+c Reader now uses table based reading of the file.
+cC
+cK00804
+e
+s 00021/00079/00029
+d D 1.3 01/07/17 09:07:22 jmochel 4 3
+c Checked in Together models
+c Cartesian Coordinate Calculations added and appear to work.
+cC
+cK53099
+e
+s 00004/00004/00104
+d D 1.2 01/07/16 15:56:44 jmochel 3 2
+c Added in libraries.
+c Made many interfaces into classes.
+c File now reads correctly.
+cC
+cK23324
+e
+s 00108/00000/00000
+d D 1.1 01/07/13 18:14:22 jmochel 2 1
+cC
+cF1
+cK23508
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:22 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/models/mushin.tpr
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK64218
+cPmodels/mushin.tpr
+cR47b29745
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+[Project]
+Language=java
+D 4
+Root.0=G:/mushin/src
+Root.0.access=writable
+Root.0.file_types=java_source;java_class
+E 4
+I 4
+Root.0=$TGH$/lib/javax.jar
+Root.0.access=import
+E 4
+Root.0.package_prefix=
+D 4
+Root.1=$PROJECT_DIR$
+Root.1.access=writable
+Root.1.file_types=diagram
+E 4
+I 4
+Root.1=$TGH$/jdk/jre/lib/rt.jar
+Root.1.access=import
+E 4
+Root.1.package_prefix=
+D 4
+Version=3.0
+Root.0.srcControlEnabled=false
+Root.0.srcControlProject=
+Root.1.srcControlEnabled=false
+Root.1.srcControlProject=
+Root.2=G:/mushin/builds/debug/classes
+Root.2.access=import
+Root.2.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+E 4
+I 4
+Root.2=$PROJECT_DIR$
+Root.2.access=writable
+Root.2.file_types=;;java_class;diagram;;
+E 4
+Root.2.package_prefix=
+D 4
+Root.3=$TGH$/jdk/jre/lib/rt.jar
+Root.3.access=import
+E 4
+I 4
+Root.2.srcControlEnabled=false
+Root.2.srcControlProject=
+Version=3.0
+Root.3=G:/mushin/src
+Root.3.access=writable
+Root.3.file_types=java_source;java_class;;;
+E 4
+Root.3.package_prefix=
+I 4
+Root.3.srcControlEnabled=false
+Root.3.srcControlProject=
+E 4
+Root.4=G:/mushin/lib/junit.jar
+Root.4.access=import
+Root.4.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.4.package_prefix=
+debugger.SkipClass.0=,com.sun.*,1
+debugger.SkipClass.1=,java.*,1
+debugger.SkipClass.2=,javax.*,1
+debugger.SkipClass.3=,org.omg.*,1
+debugger.SkipClass.4=,sun.*,1
+debugger.SmartStep=true
+editor.bookmark.0=
+editor.bookmark.1=
+editor.bookmark.2=
+editor.bookmark.3=
+editor.bookmark.4=
+editor.bookmark.5=
+editor.bookmark.6=
+editor.bookmark.7=
+editor.bookmark.8=
+D 3
+Root.21=G:/mushin/lib/antlr.jar
+Root.21.access=import
+Root.21.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.21.package_prefix=
+E 3
+I 3
+D 4
+Root.5=G:/mushin/lib/antlr.jar
+Root.5.access=import
+Root.5.file_types=java_source;java_class;diagram;cpp_source;cpp_header;idl_source
+Root.5.package_prefix=
+E 3
+[lioeditor]
+scheme.java.colors=def
+scheme.java.colors.classic.cchar=0xffff -1 0
+scheme.java.colors.classic.comment=0xc0c0c0 -1 2
+scheme.java.colors.classic.keyword1=0xffffff -1 0
+scheme.java.colors.classic.keyword2=-1 -1 0
+scheme.java.colors.classic.lcomment=0xc0c0c0 -1 2
+scheme.java.colors.classic.naviselect=0xffffff 0x808080 0
+scheme.java.colors.classic.normal=0xffff00 0x80 0
+scheme.java.colors.classic.number=0xff00ff -1 0
+scheme.java.colors.classic.oper=0xff00 -1 0
+scheme.java.colors.classic.select=0x80 0xc0c0c0 0
+scheme.java.colors.classic.string=0xffff -1 0
+scheme.java.colors.classic.userselect=0xffffff 0x808080 0
+scheme.java.colors.def.cchar=0xff -1 0
+scheme.java.colors.def.comment=0xff 0xffffff 0
+scheme.java.colors.def.keyword1=0x0 -1 1
+scheme.java.colors.def.keyword2=0x8080 -1 1
+scheme.java.colors.def.lcomment=0x80 -1 0
+scheme.java.colors.def.naviselect=0xffffff 0x80 0
+scheme.java.colors.def.normal=0x0 0xffffff 0
+scheme.java.colors.def.number=0xff0000 -1 0
+scheme.java.colors.def.oper=-1 -1 0
+scheme.java.colors.def.select=0xffffff 0x0 0
+scheme.java.colors.def.string=0xff -1 0
+scheme.java.colors.def.userselect=0xffffff 0x80 0
+scheme.java.colors.ocean.cchar=0x800080 -1 0
+scheme.java.colors.ocean.comment=0x8080 -1 2
+scheme.java.colors.ocean.keyword1=-1 -1 0
+scheme.java.colors.ocean.keyword2=0xff -1 0
+scheme.java.colors.ocean.lcomment=0x8080 -1 2
+scheme.java.colors.ocean.naviselect=0xffffff 0x808080 0
+scheme.java.colors.ocean.normal=0x0 0xffff 0
+scheme.java.colors.ocean.number=0x808000 -1 0
+scheme.java.colors.ocean.oper=-1 -1 0
+scheme.java.colors.ocean.select=0xffff 0xff 0
+scheme.java.colors.ocean.string=0x800080 -1 0
+scheme.java.colors.ocean.userselect=0xffffff 0x808080 0
+scheme.java.colors.twilight.cchar=0xffff00 -1 0
+scheme.java.colors.twilight.comment=0xff00 -1 2
+scheme.java.colors.twilight.keyword1=0xffff -1 0
+scheme.java.colors.twilight.keyword2=-1 -1 0
+scheme.java.colors.twilight.lcomment=0xff00 -1 2
+scheme.java.colors.twilight.naviselect=0xffffff 0x808080 0
+scheme.java.colors.twilight.normal=0xffffff 0x0 0
+scheme.java.colors.twilight.number=0xff00ff -1 0
+scheme.java.colors.twilight.oper=0xc0c0c0 -1 0
+scheme.java.colors.twilight.select=0x0 0xff 0
+scheme.java.colors.twilight.string=0xffff00 -1 0
+scheme.java.colors.twilight.userselect=0xffffff 0x808080 0
+[model]
+alphaSort=true
+showDiagramContents=false
+showPackagesFirst=true
+[build]
+destination=$PROJECT_DIR$/../builds/debug/classes/
+E 4
+[runtimeargs]
+D 4
+applic_args1=/in=h:\\SHPrograms\\hip_main.dat /out=dump.dmp
+E 4
+I 4
+D 5
+applic_args1=/in=h:\\SHPrograms\\hip_main.dat /out=dump.dat
+E 5
+I 5
+applic_args1=/in=h:\\SHPrograms\\hip_main.dat /out=H:\\SHPrograms\\hipparcos.dat /records=500
+E 5
+E 4
+applic_mainclass1=mushin.frp.astronomy.catalog_readers.HipparcosReader
+D 4
+askbeforerun=false
+E 4
+confname0=<NoName>
+D 4
+confname1=HipparcosFilter
+E 4
+I 4
+confname1=Hipparcos Dump
+E 4
+default=1
+I 4
+[model]
+alphaSort=true
+showDiagramContents=false
+showPackagesFirst=true
+I 5
+[tool]
+g.allMessages=false
+g.filter=default
+g.openMessage=true
+g.showFor.file=false
+g.showFor.mainMenu=true
+E 5
+E 4
+E 2
+I 1
+E 1

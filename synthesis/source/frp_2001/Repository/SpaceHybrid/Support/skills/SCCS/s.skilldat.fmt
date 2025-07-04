@@ -1,0 +1,39 @@
+h49706
+s 00011/00000/00000
+d D 1.1 99/12/02 15:57:41 jmochel 2 1
+cC
+cK10772
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:57:37 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Support/skills/skilldat.fmt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44986
+cPSupport/skills/skilldat.fmt
+cReb4786035cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginSkill 
+.BaseType	
+.Interaction
+.Implementation
+.StatBasis
+.BeginDesc
+.EndDesc
+.BeginDF
+##	DF_Description
+.EndDF
+.EndSkill
+E 2
+I 1
+E 1

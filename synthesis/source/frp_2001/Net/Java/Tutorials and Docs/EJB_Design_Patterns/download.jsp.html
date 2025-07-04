@@ -1,0 +1,514 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+
+<title>the serverside.com - your middleware portal</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+
+body {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+
+.undecorated {  text-decoration: none; }
+
+a:hover {  text-decoration: underline}
+
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt; font-weight: bold}
+
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold}
+
+.leftcolumn { margin-left: 3px}
+
+.nopadding {  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+
+.home {  background-color: #336699}
+
+.discussion {  background-color: #999900}
+
+.patterns {  background-color: #993333}
+
+.reviews {  background-color: #669933}
+
+.resources {  background-color: #CC9900}
+
+h3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold }
+
+
+.solidbg {  background-color: #CC9900}
+.lightbg {  background-color: #FFDD66}
+.ultralightbg {  background-color: #ffffe1}
+
+</style>
+
+</head> 
+
+
+
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0">
+
+
+
+<!--title section - constant across pages	-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr> 
+    <td background="/resources/images/grid.gif" height="100" class="solidbg">
+      <img src="/resources/images/logo.gif" vspace="0" hspace="10" align="absbottom" alt="the serverside.com logo">
+	  </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!-- page menu selection -  constant across pages -->
+<table border="0" cellspacing="0" width="100%" cellpadding="1">
+  <tr valign="middle" align="center"> 
+     <td bgcolor="#336699"><b><a href="/home/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_home.gif" width="40" height="40" align="absmiddle" border="0" name="icon_home" alt="Home">Home</font></a></b></td>
+     <td bgcolor="#660099"><b><a href="/events/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_events.gif" width="40" height="40" align="absmiddle" border="0" name="Enterprise Events" alt="Events">Events</font></a></b></td>
+     <td bgcolor="#999900"><b><a href="/discussion/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_discussion.gif" width="40" height="40" align="absmiddle" border="0" name="icon_discussion" alt="Discussion">Discussions</font></a></b></td>
+     <td bgcolor="#993333"><b><a href="/patterns/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_patterns.gif" width="40" height="40" align="absmiddle" border="0" alt="Patterns">Patterns</font></a></b></td>
+     <td bgcolor="#669933"><b><a href="/reviews/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_reviews.gif" width="40" height="40" align="absmiddle" border="0" alt="Reviews">Reviews</font></a></b></td>
+     <td bgcolor="#CC9900"> <b><a href="/resources/index.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="../images/icon_resources.gif" width="40" height="40" align="absmiddle" border="0" alt="Resources">Resources</font></a></b></td>
+  </tr>
+</table>
+
+
+		
+
+<!-- page body -------------------------------------------------------------------------------------------------
+
+  Body of page is made up of 3 columns. Each column contains a table with two rows, the first
+
+  row is the header, the second row contains the body.														-->
+
+  
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" >
+
+    <tr>
+
+    
+
+    <!-- column one ------------------------------------------------------------------>
+
+	 <td valign="top" width="10%" align="left" width="100" bgcolor="#EEEEEE" > 
+
+
+
+    	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+	        <tr class="solidbg"  > 
+
+  			 <!-- column one header------------------------------------>
+
+	          <td height="30" valign="middle" >
+
+	          		<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">
+
+	          			<b>&nbsp;Menu</b>
+
+   	       		</font>
+
+	          	</td>
+
+	        </tr>
+
+			 <tr>
+
+			 <!-- coloumn one body-------------------------------------->
+
+			 <td align="left" valign="top" > 
+
+
+
+				
+
+				
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%" class="solidbg">
+<tr valign="top"> 
+  <td>
+				<a href="/home/login.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Login</font></a><br>
+				<a href="/home/logout.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Logout</font></a><br>
+		<a href="/home/edituser.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">User Profile</font></a><br>
+				<a href="/home/myThreads.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">My Threads</font></a><br>
+				<a href="/home/signup.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Signup</font></a><br>
+				<a href="/home/partners.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Partners</font></a><br>
+				<a href="/home/about.jsp" class="undecorated"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">About the site</font></a>
+<br>
+<form method="post" action="/cgi-bin/htsearch"  >
+<font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="-3">
+Search TheServerSide
+</font>
+<br>
+<input type="text" name="words" size="12" value="" >
+<input type="submit" value="Go" name="submit" >
+<input type="hidden" name="method" value="All">
+<input type="hidden" name="format" value="Long">
+<input type="hidden" name="sort" value="Score">
+<input type="hidden" name="config" value="htdig">
+<input type="hidden" name="restrict" value="">
+<input type="hidden" name="exclude" value="">
+</form>
+			</td>
+		</tr>
+<!--				        <tr valign="bottom"  align="right"> 
+  <td class="solidbg"><img src="images/menucorner.gif" width="10" height="10"></td>
+</tr>
+-->
+</table>
+<table border="0" cellspacing="0" cellpadding="4" height="100%">
+<tr> 
+	 <td>
+			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">
+			 Website and content is <br>
+				Copyright &copy; 2001 <br>
+				The Middleware Company.<br>
+				All rights reserved.<br>
+			</font>
+		<center>
+		<br>
+		<a href="http://www.middleware-company.com/matrix.shtml?TSSM" class="undecorated" >
+			<img src="/images/matrixbanner9.jpg" border="0" align="absmiddle">
+		</a>
+		<Br>
+		<br>
+		<a href="http://www.middleware-company.com?TSS-leftbar" class="undecorated" >
+			<img src="/images/tmcmoreinfo.gif" border="0" align="absmiddle">
+		</a>
+		<center>
+		<br>
+		<br>
+		<center>
+		<a href="http://www.TheServerSide.com/resources" class="undecorated" >
+			<img src="/images/book-banner.gif" border="0" align="absmiddle">
+		</a>
+		</center>
+</td>
+</tr>
+</table>
+
+
+
+
+			  </td>
+
+			 
+
+			</tr>
+
+    	</table>
+
+    </td>
+
+    <!-- END COLUMN ONE -->
+
+    
+
+        
+
+   <!-- column two ------------------------------------------------------------------>
+
+   <td valign="top" width="*" align="left" > 
+
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+        <tr class="solidbg"> 
+
+  		 <!-- coloumn one header------------------------------------>
+
+            <td height="30" valign="middle">
+
+		   	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+		    		<tr>
+
+		    			<td align="left">
+
+					 		<a href="index.jsp" class="undecorated">
+
+		    					<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">
+
+								<b>&nbsp;Current Review Chapters available for download</b></font>
+
+		    				</a>
+
+		    			</td>
+
+					</tr>
+
+				</table>
+
+          	</td>
+
+        </tr>
+
+		 <tr>
+
+		 <!-- coloumn two body-------------------------------------->
+
+		   <td valign="top" align="left" > 
+
+	 	
+			  <!-- INSERT MAIN PANEL BODY HERE-------------------------------------->
+				
+			  <table cellpadding="10" width="100%">
+			  <tr>
+			  <td>
+	 
+				
+				
+<!-- marker -->
+				
+				
+
+<h2>Chapters from EJB Design Patterns</h2>
+<P><STRONG>Oct 3rd - EJB Strategies, Tips and Idioms</STRONG>. 1st public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-idiomsandstrategies-oct3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 27th - EJB Command Pattern</STRONG>. 1st public review post. 
+<br>Review Deadline: Oct 5.
+                  <BR><A href="/resources/review/ejbpatterns-command-sept27.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 19th - Version Number</STRONG>. 1st public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-versionnumber-sept19.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 9th - Business Delegate</STRONG>. 1st public review post. 
+<br>Review Deadline: Sept 21st.
+                  <BR><A href="/resources/review/ejbpatterns-businessdelegate-sept9.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 3rd - Data Transfer RowSet</STRONG>. 1st public review post. 
+<br>Review Deadline: Sept 21st.
+                  <BR><A href="/resources/review/ejbpatterns-datatransferrowset-sept3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 3rd - Data Transfer HashMap</STRONG>. 1st public review post. 
+<br>Review Deadline: Sept 21st.
+                  <BR><A href="/resources/review/ejbpatterns-datatransferhashmap-sept3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 3rd - JDBC for Reading</STRONG>. Third public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-jdbcforreading-sept3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>Sept 3rd - Generic Attribute Access</STRONG>. Third public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-genericattributeaccess-sept3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG> Sept 3rd - Primary Key Generation Strategies</STRONG>. Second Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-primarykeystrategies-sept3.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>July 19th - Value Objects</STRONG>. Fourth Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-valueobjects-july19.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>July 19th - Value Object Factory</STRONG>. Third Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-ValueObjectFactory-july19.zip">Download a copy for reviewing.</A></P>
+
+
+<P><STRONG>July 18th - EJB Home Factory</STRONG>. First Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-ejbhomefactory-july18.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>July 6th - Dual Persistent Entity Bean</STRONG>. First Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-dualentitybeans-july5.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>July 4th - EJB 2.0 Business Interface</STRONG>. First Public Review Posting.
+                  <BR><A href="/resources/review/ejbpatterns-businessinterface-july4.zip">Download a copy for reviewing.</A></P>
+
+
+
+<P><STRONG>June 25th - Message Facade</STRONG>. Second public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-messagefacade-june25.zip">Download a copy for reviewing.</A></P>
+
+<P><STRONG>June 25th - Session Facade</STRONG>. Third public review post. 
+                  <BR><A href="/resources/review/ejbpatterns-sessionfacade-june25.zip">Download a copy for reviewing.</A></P>
+
+<br>
+<br>
+
+
+
+<h2>Chapters from Mastering EJB II</h2>
+
+		<P><STRONG>April 16th - EJB Overview</STRONG>. By Ed Roman. First public review posting.
+                  <BR><A href="/resources/review/Overview.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>May 2nd - EJB Fundamentals</STRONG>. By Ed Roman. Second public review posting.
+                  <BR><A href="/resources/review/masteringejb-ejbFundamentals-May2.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG> August 4th - Hello World</STRONG>. By Ed Roman. 1st Public Review Posting.
+                  <BR><A href="/resources/review/masteringejb-HelloWorld-aug4.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG>July 9th - Introduction to Entity Beans</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-EntityBeansintro-july9.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG>July 9th - BMP Entity Beans</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-BMPEntityBeans-july9.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>July 13th - CMP Entity Beans</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-CMPEntityBeans-july13.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG> August 15th - BMP and CMP Relationships </STRONG>. By Scott Ambler. 1st Public Review Posting.  
+		<BR><A href="/resources/review/masteringejb-BMPandCMPRelationships-aug15.zip">Download a copy for reviewing.</A></P>
+
+  		<P><STRONG> August 15th - Message Driven Beans</STRONG>. By Tyler Jewell. 
+                  <BR><A href="/resources/review/masteringejb-messagedriven-aug15.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG> August 6th - Container Services</STRONG>. By Ed Roman. 1st Public Review Posting.
+                  <BR><A href="/resources/review/masteringejb-ContainerServices-aug6.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG>July 13th - Transactions</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-transactions-july13.zip">Download a copy for reviewing.</A></P>
+
+		<P><STRONG> August 15th - EJB Best-Practices and Performance Optimizations </STRONG>. By Ed Roman. 1st Public Review Posting.  
+		<BR><A href="/resources/review/masteringejb-EJBBestParactices-aug15.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG> August 10th - Persistence Best Practices</STRONG>. By Ed Roman and Scott Ambler. 1st Public Review Posting.
+                  <BR><A href="/resources/review/masteringejb-persistencebestpractices-aug10.zip">Download a copy for reviewing.</A></P>
+
+  		<P><STRONG>EJBs in Large Scale Systems </STRONG>. By Tyler Jewell.
+                  <BR><A href="/resources/review/masteringejb-largescale.zip">Download a copy.</A></P>
+<P><STRONG>Best Practices for EJB Projects</STRONG>. By Scott Ambler. 
+                  <BR><A href="/resources/review/masteringejb-projectbestpractices.zip">Download a copy.</A></P>
+		<P><STRONG>July 25th - Choosing an EJB Server</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-ejbserver-july25.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>July 25th - RMI-IIOP and JNDI Appendix</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-rmiiiopappendix-july25.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>July 18th - EJB Quick Reference</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-ejbquickreference-july18.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>July 13th - EJB QL</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-ejbql-july13.zip">Download a copy for reviewing.</A></P>
+		<P><STRONG>July 25th - Corba Appendix</STRONG>. By Ed Roman. 1st public review posting.
+                  <BR><A href="/resources/review/masteringejb-corbaappendix-july25.zip">Download a copy for reviewing.</A></P>
+
+
+
+				 											
+			  </td>
+			  </tr>
+			  </table>
+		
+ 		 	 <!-- END MAIN PANEL BODY INSERT ---------------------------------------->
+		  </td>
+		</tr>
+      </table>
+
+    </td>
+    <!-- END COLUMN TWO -->
+   
+
+ <!-- column three ------------------------------------------------------------------>
+   <td valign="top" width="25%" align="left" width="150"  bgcolor="#EEEEEE"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" >
+        <tr class="solidbg"> 
+  	 	 <!-- coloumn three header------------------------------------>
+        <td height="30" valign="middle" align="right" >
+				<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">
+					<b>In other sections</b>
+   				</font>
+   			</td>
+   		 </tr>
+   		 <tr>
+		 <!-- coloumn three body-------------------------------------->
+		   <td valign="top" align="left"> 
+
+	 		  <!-- INSERT column body content here-------------------------------------->
+				      <table width="100%" border="0" cellpadding="4" cellspacing="0">
+
+        <tr > 
+           <td nowrap background="/images/grid_resources.gif" class="lightbg"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
+		  The Books at a Glance</font></b></td>
+        </tr>
+
+        <tr> 
+          <td valign="top">
+<P><a href="/resources/ejb_review.jsp"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>Mastering EJB II</B> </FONT></a>
+<BR><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<i>Mastering EJB</i> was one of the original and most influential EJB books in the industry. Mastering EJB II now returns with two new 
+expert co-authors, updated for EJB 2.0 and improved with advanced topics such as large scale systems design, J2EE project management, complex persistence and more.
+</FONT></P>
+
+<P><a href="/resources/patterns_review.jsp"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>EJB Design Patterns </B> </FONT></a>
+<BR><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+A companion/standalone book to Mastering EJB 2, EJB Design Patterns seeks to solidify and centralize all the cutting edge strategies and design patterns in use today. 
+</FONT></P>
+
+</td>
+</tr>
+
+        <tr > 
+           <td nowrap background="/images/grid_resources.gif" class="lightbg"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
+		  The Authors</font></b></td>
+        </tr>
+        <tr> 
+          <td valign="top">
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B><i>Mastering EJB II</i></B> </FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B><a href="mailto:edro@middleware-company.com" class="undecorated">Ed Roman</a></B> </FONT><BR><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Author of 
+                  original <I>Mastering EJB</I> and CEO of The Middleware 
+                  Company, a server side java training and consulting company. 
+                  </FONT>
+<br><br>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B><a href="mailto:scott.ambler@ronin-intl.com" class="undecorated">Scott Ambler</a></B> </FONT><BR><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">An OO 
+                  guru and President of&nbsp;Ronin International, a software 
+                  consulting company. Scott has authored several OO books 
+                  including&nbsp; <I>Building Object Applications That Work</I>, 
+                  <I>The Elements of Java Style</I>, <I>Process Patterns</I> , 
+                  and more. </FONT>
+<br><br>		  
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><STRONG><a href="mailto:tyler@bea.com" class="undecorated">Tyler Jewell</a></STRONG> </FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+Principal Technology Evangelist at BEA.
+</FONT>
+
+<br><br>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B><i>EJB Design Patterns</i></B> </FONT><BR>
+
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><B><a href="mailto:floyd@middleware-company.com" class="undecorated">Floyd Marinescu</a></B> </FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+Chief Architect of TheServerSide.com. Enterprise Educator at The Middleware Company.
+		</td>
+		</tr>
+
+        <tr > 
+           <td nowrap background="/images/grid_resources.gif" class="lightbg"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
+		  FAQ</font></b></td>
+        </tr>
+        <tr> 
+          <td valign="top">
+
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<B>When will the books be completed?</B> 
+</FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+The publishing date is Fall 2001.<Br>
+</font>
+<br>
+
+
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<B>Will the books be availble in PDF?</B> 
+</FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+The books will be freely downloadable in PDF form once complete.<Br>
+</font>
+<br>
+
+
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<B>How can I help?</B> 
+</FONT><BR>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">
+Download the authors chapters and add your comments directly to the document and email it back to the author.
+Let everyone you know about the book reviewing on TheServerSide.
+</font>
+<br>
+		</td>
+		</tr>
+      </table>
+
+
+		  <!-- END column body content ---------------------------------------->
+		  </td>
+		</tr>
+      </table>
+    </td>
+    <!-- END COLUMN THREE -->
+
+  </tr>
+</table>
+<!-- END PAGE BODY -->
+</body>
+</html>

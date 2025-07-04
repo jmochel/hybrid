@@ -1,0 +1,97 @@
+PNNL NEWSROOM www.pnl.gov/news Pacific Northwest National Laboratory NEWSROOM 
+Skip Navigation
+
+    * News and Media o NEWSROOM o News Releases + Archives o About PNNL o Photo 
+    Library o Expert Resources o PNNL In the News + Archives o Subscribe o 
+    Contact Us o PNNL in the Community o Other Links o XML RSS Feed * Magazines 
+    and Newsletters o Magazine: Breakthroughs o Newsletter: Sharing the 
+    Excitement of Science o DOE Pulse o DOE Research News (EuekAlert) * 
+    Scientific Publications o Publications List
+
+N A V I G A T I O N
+
+Release date: July 10, 2006 Contact: Bill Cannon, (509) 375-3732 Live Wires
+
+A microbiologist discovers our planet is hard-wired with electricity-producing 
+bacteria
+
+REACHING OUT--Scanning electron microscopic images (left column) of how 
+different bacteria can be made to sprout nanowires to pass electrons. The 
+scanning tunneling microscopic images at right of individual nanowires confirm 
+that they are conducting electricity. (A, B: a strain of the photosynthetic 
+Synechocystis; and C, D: a fermenting strain, Pelotomaculum thermopropionicum). 
+(Original high-resolution image.)
+
+RICHLAND, Wash. – When Yuri Gorby discovered that a microbe which transforms 
+toxic metals can sprout tiny electrically conductive wires from its cell 
+membrane, he reasoned this anatomical oddity and its metal-changing physiology 
+must be related.
+
+A colleague who had heard Gorby’s presentation at a scientific meeting later 
+reported that he, too, was able to coax nanowires from another so-called metal-
+reducing bacteria species and further suggested the wires, called pili, could be 
+used to bioengineer electrical devices.
+
+It now turns out that not only are the wires and their ability to alter metal 
+connected—but that many other bacteria, including species involved in 
+fermentation and photosynthesis, can also form wires under a variety of 
+environmental conditions.
+
+“Earth appears to be hard-wired,” said Gorby, staff scientist at the Department 
+of Energy’s Pacific Northwest National Laboratory, who documents the seeming 
+ubiquity of electrically conductive microbial life in the July 10 advance online 
+Proceedings of the National Academy of Sciences.
+
+In a series of experiments, Gorby and colleagues induced nanowires in a variety 
+of bacteria and demonstrated that they were electrically conductive. The 
+bacterial nanowires were as small as 10 nanometers in diameter and formed 
+bundles as wide as 150 nanometers. They grew to be tens of microns to hundreds 
+of microns long.
+
+The common thread involved depriving a microbe of something it needed to shed 
+excess energy in the form of electrons. For example, Shewanella, of interest in 
+environmental cleanup for its ability to hasten the weathering of toxic metals 
+into benign ones, requires oxygen or other electron acceptors for respiration, 
+whereas Synechocystis, a cyanobacterium, combines electrons with carbon dioxide 
+during photosynthesis.
+
+Bereft of these “electron acceptors,” bacterial nanowires “will literally reach 
+out and connect cells from one to another to form an electrically integrated 
+community,” Gorby said.
+
+“The physiological and ecological implications for these interactions are not 
+currently known,” he said, “but the effect is suggestive of a highly organized 
+form of energy distribution among members of the oldest and most sustainable 
+life forms on the planet.”
+
+In one clever twist, Gorby grew pili from mutant strains developed by 
+collaborators that were unable to produce select electron transport components 
+called cytochromes. Sure enough, the nanowires of the mutants were poor 
+conductors.
+
+“These implicate cytochromes as the electrically conductive components of 
+nanowires, although this has yet to be conclusively demonstrated,” Gorby said.
+
+To measure currents as precisely as possible, Gorby and colleagues from the 
+University of Southern California have built a microbial fuel cell laboratory at 
+PNNL. The small bacteria-powered batteries, cultured under electron-acceptor 
+limitations and fueled by lactate or light, produce very little power, as 
+measured by a voltmeter hooked to a laptop computer.
+
+But co-author and PNNL scientist Jeff Mclean, who manages the microbial fuel 
+cell laboratory, said that small changes in fuel cell design and culture 
+conditions have already shown large improvements in the efficiency of the fuel 
+cells. For example, so-called biofilms—a highly interconnected bacterial 
+community—put out much more energy than other configurations. The research was 
+funded by the DOE Office of Science programs Genomics: Genomes to Life and 
+Natural and Accelerated Bioremediation Research in the Office of Biological and 
+Environmental Research.
+
+PNNL is a DOE Office of Science laboratory that solves complex problems in 
+energy, national security, the environment and life sciences by advancing the 
+understanding of physics, chemistry, biology and computation. PNNL employs 4,200 
+staff, has an annual budget of more than $725 million, and has been managed by 
+Ohio-based Battelle since the lab's inception in 1965. Pacific Northwest 
+National Laboratory Department of Energy Office of Science
+
+Security & Privacy Contact: Webmaster Last Updated: July 2006

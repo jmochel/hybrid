@@ -1,0 +1,371 @@
+h48186
+s 00343/00000/00000
+d D 1.1 99/11/17 12:50:41 jmochel 2 1
+cC
+cK08039
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:37 jmochel 1 0
+c BitKeeper file e:/jacl/java/support/tm/BasicUnitTest.java.ct
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45336
+cPjava/support/tm/BasicUnitTest.java.ct
+cR2f93d7c45cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+..  Contains Declaration of <???>
+..
+..  Author Jim Jackl-Mochel
+..  Date 07.07.98
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.7 $
+..  $Date: 1998/08/26 20:23:43 $
+..
+..  ===================================================
+..
+..  Desc 
+..
+..      Generates Unit Test class for a basic java class
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+
+.macro GenUnitTest classname 
+.redirect $(classname)UnitTest.java
+
+/*
+    Contains $(classname)UnitTest
+
+    $$author: Jim Jackl-Mochel $$
+    $$Revision: 1.7 $$
+
+    Copyright (c) 1998 Jim Jackl-Mochel
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+
+    1. Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+
+    3. The name of the author may not be used to endorse or promote products
+       derived from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+    IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+    OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+    IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+    INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+    NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+    THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
+
+// Package Declaration
+
+package jacl.util.<???>;
+
+// Imports
+
+import java.util.Date;
+import jacl.testing.UnitTestException;
+import jacl.util.$(classname);
+
+/**
+    A self contained Unit Test for $(classname)
+
+    <p>This class forms a single executable class for exercising
+    $(classname). Another class $(classname)UnitTestMain actually
+    invokes UnitTest. This simplifies creating automated unit test executors.
+
+    <p><B>ToDo</B>
+    <ul>
+        <li>Check API Naming
+        <li>Check API Types
+        <li>Check API Returns
+        <li>Check API Exceptions
+        <li>Check API Exception Specifications
+        <li>Check Comments
+        <li>Remove unused Comment tags
+    </ul>
+
+    <p><B>Copyright (c) 1998 Jim Jackl-Mochel</B>
+    All rights reserved. See source for license agreement
+
+    <p>This code was originally generated using TM version $(tmvers)
+    <p>This code was last modified on $$Date: 1998/08/26 20:23:43 $$
+
+    @author Jim Jackl-Mochel
+    @author $$Author: jmochel $$
+    @version $$Revision: 1.7 $$
+
+    @see $(classname)
+    @see $(classname)UnitTestMain
+    @see <???>
+    @since JDK 1.1
+*/
+
+public class $(classname)UnitTest
+{
+    /**
+        Void constructor that just initialises
+    */
+
+    public $(classname)UnitTest()
+    {
+    }
+
+    /**
+        Give $(classname) a vigorous shakedown.
+
+        @see $(classname)
+        @see $(classname)UnitTestMain
+        @since JDK 1.1
+    */
+
+    public boolean Exercise()
+    {
+
+        boolean testWasSuccessful = true;
+        Date    currDateTime = new Date();
+
+        try
+        {
+            // Add detailed start up information
+            // Who, what, when, why, and how.
+    
+            System.out.println("$(classname)UnitTest : $$Revision: 1.7 $$");
+            System.out.println("$(classname)UnitTest : Starting Unit Test - " + currDateTime.toString());
+
+            // Initialise the test data
+
+            <???>
+
+            // Create the class using void constructor
+
+            $(classname) classToBeTested = new $(classname)();
+
+            // Exercise the mutators
+
+.foreach field ${fields $(classname)}
+.set eltname $(field)
+.set vareltname ${tolower $(eltname)}
+.set elttype ${typename $(classname) $(field)}
+            $(elttype) aSample$(eltname) = new $(elttype)("");
+.endforeach
+
+
+.foreach field ${fields $(classname)}
+.set eltname $(field)
+.set vareltname ${tolower $(eltname)}
+.set elttype ${typename $(classname) $(field)}
+            classToBeTested.set$(eltname)(aSample$(eltname));
+.endforeach
+		
+            // Exercise the accessors
+
+.foreach field ${fields $(classname)}
+.set eltname $(field)
+.set vareltname ${tolower $(eltname)}
+.set elttype ${typename $(classname) $(field)}
+            $(elttype) aPossible$(eltname);
+.endforeach
+
+.foreach field ${fields $(classname)}
+.set eltname $(field)
+.set vareltname ${tolower $(eltname)}
+.set elttype ${typename $(classname) $(field)}
+            aPossible$(eltname) = classToBeTested.get$(eltname)();
+
+            if ( aPossible$(eltname) != aSample$(eltname))
+            {
+                throw(new jacl.testing.UnitTestException("$(classname)UnitTest : Accessor/Mutator test failed for get/set$(eltname)"));
+            }
+.endforeach
+
+            // Add detailed ending information
+            // Who, what, when, why, and how.
+
+            System.out.println("$(classname)UnitTest : $$Revision: 1.7 $$");
+            System.out.println("$(classname)UnitTest : Ending Unit Test - " + currDateTime.toString());
+
+        }
+        catch (jacl.testing.UnitTestException unitTestError)
+        {
+            System.out.println("$(classname)UnitTest : Unit Test Failed");
+            System.out.println(unitTestError);
+            testWasSuccessful = false;
+        }
+        finally  
+        {
+            // Add detailed ending information
+            // Who, what, when, why, and how.
+
+            System.out.println("ParmProxyUnitTest : $$Revision: 1.7 $$");
+            System.out.println("ParmProxyUnitTest : Ending Unit Test - " + currDateTime.toString());
+        }
+
+        return(testWasSuccessful);
+    }
+}
+.endredirect
+.endmacro
+
+..  ===================================================
+..
+..  Desc 
+..      Generates Unit Test Main for a basic java class
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+
+.macro GenUnitTestMain classname
+.redirect $(classname)UnitTestMain.java
+/**
+    Invokes the Unit Test for $(classname) contained in $(classname)UnitTest
+
+    <p><B>ToDo</B>
+    <ul>
+        <li>Check API Naming
+        <li>Check API Types
+        <li>Check API Returns
+        <li>Check API Exceptions
+        <li>Check API Exception Specifications
+        <li>Check Comments
+        <li>Remove unused Comment tags
+    </ul>
+
+    <p><B>Copyright : This code is in the public domain.</B>
+
+    <p>This code was originally generated using TM version $(tmvers)
+    <p>This code was last modified on $$Date: 1998/08/26 20:23:43 $$
+
+    @author Jim Jackl-Mochel
+    @author $$Author: jmochel $$
+    @version $$Revision: 1.7 $$
+
+    @see $(classname)
+    @see $(classname)UnitTest
+    @see <???>
+    @since JDK 1.1
+
+*/
+
+// Package Declaration
+
+package jacl.util.<???>;
+
+// Imports
+
+import java.util.Date;
+import jacl.util.$(classname)UnitTest;
+
+public class $(classname)UnitTestMain
+{
+
+    /**
+        Give $(classname) a vigorous shakedown.
+
+        @see $(classname)
+        @see $(classname)UnitTest
+        @since JDK 1.1
+
+    */
+
+    public static void main(String[] args)
+    {
+        boolean testWasSuccessful = true;
+        Date                    currDateTime = new Date();
+        $(classname)UnitTest    unitTest = new $(classname)UnitTest();
+    
+        try
+        {
+            // Add detailed start up information
+            // Who, what, when, why, and how.
+
+            System.out.println("$(classname)UnitTestMain : $$Revision: 1.7 $$");
+            System.out.println("$(classname)UnitTestMain : Starting Unit Test - " + currDateTime.toString());
+                
+            // Output: Now exercising $(classname)
+
+            testWasSuccessful = unitTest.Exercise();
+
+            // Report results
+
+            if (!testWasSuccessful)
+            {
+                System.out.println("$(classname)UnitTestMain : Unit test was not successful");
+            }
+            else {
+                System.out.println("$(classname)UnitTestMain : Unit test was successful");
+            }                
+
+            // Output: Unit test for  $(classname) was or wasn't successful.
+
+            // Add detailed ending information
+            // Who, what, when, why, and how.
+
+            System.out.println("$(classname)UnitTestMain : Ending Unit Test - " + currDateTime.toString());
+            System.out.println("$(classname)UnitTestMain : $$Revision: 1.7 $$");
+        }
+        catch (RuntimeException runTimeError)
+        {
+            System.out.println("$(classname)UnitTestMain : Unit test failed due to a RunTimeException");
+            System.out.println(runTimeError);
+            System.out.println("$(classname)UnitTestMain : Ending Unit Test - " + currDateTime.toString());
+            System.out.println("$(classname)UnitTestMain : $$Revision: 1.7 $$");
+        }
+
+        // return the success evalutaion
+
+        if (!testWasSuccessful)
+        {
+            System.exit(1);
+        }
+
+        System.runFinalization();
+        System.gc();
+        System.exit(0);
+    }
+}
+.endredirect
+.endmacro
+
+..
+..  EOF
+..
+E 2
+I 1
+E 1

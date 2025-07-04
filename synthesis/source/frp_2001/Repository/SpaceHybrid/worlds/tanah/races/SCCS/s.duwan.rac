@@ -1,0 +1,57 @@
+h52679
+s 00029/00000/00000
+d D 1.1 99/12/02 16:07:01 jmochel 2 1
+cC
+cK13682
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:06:57 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/duwan.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45042
+cPworlds/tanah/races/duwan.rac
+cReb4787a95cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Duwan}
+
+\section*{Statistics}
+
+\begin{itemize}
+	\item[Culture Name] Duwan, Half-things, Halflings
+	\item[Avg. Height] 3'5"/3'4"
+	\item[Avg. Weight] 50/55
+	\item[Skin Color] Full Range
+	\item[Hair Color] Full Range
+	\item[Eye Color] Full Range
+	\item[Stat Mods] PST -2 PAG +1 DEX +1
+    \item[Inherent Skills] Duwan have full control over the 
+    type of light that their eyes are responsive to. Duwan have rank 0 in 
+    several stealth magics (Avert Sight, Walk Unheard, Blend).
+\end{itemize}
+
+\section*{Description}
+
+Lithe and fast as a weasal is a typical description of the Duwan.
+They are small hard muscled people with (typically) long hair and 
+saintly faces. 
+
+In general they are a rarely understood or trusted race. They are thought to be thieves
+and murderers as well as smugglers, bringers of disease and general 
+agents of chaos. 
+ 
+\section*{Cultures and Sub-groups}
+Duwan
+E 2
+I 1
+E 1

@@ -1,0 +1,66 @@
+h31970
+s 00038/00000/00000
+d D 1.1 99/12/02 16:06:25 jmochel 2 1
+cC
+cK57365
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:06:21 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/hightan.cul
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45038
+cPworlds/tanah/cultures/hightan.cul
+cReb4787b35cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+\chapter*{Hightan}
+
+\section*{Resources}
+
+\section*{Technology}
+
+\section*{Magic}
+
+\section*{Subsistence Patterns}
+
+They raise sheep, goats, and rabbits . They produce whiskey (Process is secret)
+and they raise flax, oats, barley, and buckwheat
+
+\section*{Values and Kinship}
+
+\section*{Language}
+
+\section*{Religion,Myths,and History}
+
+\section*{Tradition}
+
+\section*{Institutions}
+\section*{Clergy}
+\section*{Art, Architecture, and Symbolism}
+
+They play bagpipes.
+
+\section*{Politics}
+\section*{Class Structure}
+
+Tanistry and the clans.
+
+\section*{Judicial Structure}
+
+\section*{Legal Code}
+
+\section*{Military}
+E 2
+I 1
+E 1

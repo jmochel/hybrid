@@ -1,0 +1,301 @@
+From world!news.kei.com!uhog.mit.edu!xn.ll.mit.edu!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:18 1993
+Xref: world rec.games.design:5979
+Newsgroups: rec.games.design
+Path: world!news.kei.com!uhog.mit.edu!xn.ll.mit.edu!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: Addenda 4
+Message-ID: <1993Dec8.200746.2969@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:07:46 GMT
+Lines: 288
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                      Version: December 7, 1993
+              Copyright 1992, 1993 by Steffan O'Sullivan
+           Please read the legal notice following the text.
+
+7  Addenda: Samples and Options (Continued)
+    7.4  Alternate Rules
+          7.41  On-the-Fly Character Creation
+          7.42  Open-Ended Dice
+          7.43  Other Dice Techniques
+          7.44  Offensive/Defensive Combat
+          7.45  Tracking Wounds
+
+
+7.4  Alternate Rules
+--------------------
+
+It is one of FUDGE's basic premises that people have different tastes.
+Here are a collection of alternate rules sections for doing things
+slightly differently.
+
+7.41  Alternate Section 2.4:  Character Creation
+------------------------------------------------
+
+Date: December, 1992
+By: Ed Heil
+
+Instead of creating characters before starting the game, create them
+as the game progresses!
+
+The GM assigns a number of *skill* levels available to a PC during a
+session.  This should be based on how finely the GM defines skills:
+about 10 to 15 for very broad skill-group games, and maybe twice that
+for very fine skill-group games.  These may be traded at the regular
+rate of 3 skill levels = 1 attribute level, or 6 skill levels = 1
+gift.  Faults may also be taken, subject to GM approval.
+
+The players start with most of the character sheets blank - simply
+write out a brief sentence or two describing the character in a
+general way.  ("Jeb is a surly dwarf, a good fighter, who is out to
+make a name for himself as a mean customer - and pick up some loot on
+the way.  He likes to talk tough, and doesn't care much for
+halflings.")
+
+As the character is confronted with challenging situations, the player
+must decide the level of the trait in question.  For example, the PCs
+are confronted with a ruined castle to explore, and all the players
+state their characters are looking for hidden passageways.  At this
+point, each player must set his PC's skill in finding hidden
+passageways (however the GM defines such a trait: Perception
+attribute, or Find Hidden skill, or Architecture skill, etc.).  Those
+who are not yet willing to set such a trait must stop searching: if
+you use a trait, you must define it.  Since setting an initial skill
+at Fair level uses up two skill levels, and setting it at Superb uses
+up five levels, one must carefully weigh spending levels on skills as
+they are used versus saving them for emergency situations.
+
+As usual, attributes are considered Fair unless altered, and most
+skills are considered Poor.  Taking a trait at a level below the
+default adds to your available skill level pool, of course. However,
+you may only define a trait as it is used in a game situation.
+
+Experience points are given out as usual, but EP awarded are reduced
+by any unused skill levels after each session.  That is, if you have
+two levels left after the first session, and the GM awards you three
+EP, you only get one more level for the next session, since you
+already have two levels unused.  EP, in this case, can be used either
+to raise existing skills, as discussed in Section 5.2, Objective
+Character Development, or they can be used to add new skills, as
+discussed in this section, above.  Note that it costs more EPs to
+raise an existing skill than it does to define a previously undefined
+skill in this on-the-fly system.  EP should be slightly higher under
+this system than a regular character creation system, perhaps a range
+of up to 10 per session.
+
+7.42  Alternate Section 4.2:  Rolling the Dice
+----------------------------------------------
+
+Date: January, 1993
+By: Andy Skinner
+
+As a simple variation on any dice technique, allow players who roll a
++4 result to roll again.  If the result is positive, add it in to the
++4 already rolled.  If the result is negative or zero, ignore the
+second roll.  This allows a small chance of results up to +8, which is
+especially nice in truly dire situations!
+
+Only a pitiless GM would balance this by requiring additional rolls to
+see how miserably a person can do on a -4 result, however.
+
+7.43  Alternate Section 4.2:  Rolling the Dice
+----------------------------------------------
+
+Date: November, 1993
+By: Steffan O'Sullivan, with Andy Skinner and others
+
+Here are two different techniques for rolling the dice, for those who
+wish to try something other than the system given in Chapter 4.
+
+1. 2d4
+
+Instead of 2d6, use 2d4.  Any of the three dice methods in the main
+FUDGE rules can be used with 2d4, except that 2d6-7 becomes 2d4-5.
+This method is actually a bit smoother than the listed method, as
+there is no +/-5 result to convert to 0.  Substitute the following
+table if using the 2d4-5 method:
+
+Rolled:    2  |  3  |  4  |  5  |  6  |  7  |  8
+--------------|-----|-----|-----|-----|-----|----
+Result:   -3  | -2  | -1  | +0  | +1  | +2  |  +3
+
+This creates a smaller range of possibilities, which is good in some
+ways, and bad in others.  Characters will tend to do closer to their
+trait levels, which reflects reality better, but can make for a more
+static game.
+
+Using 2d4:
+Chance of achieving +3 or better:   6%.
+Chance of achieving +2 or better:  19%.
+Chance of achieving +1 or better:  38%.
+Chance of achieving  0 or better:  62%.
+Chance of achieving -1 or better:  81%.
+Chance of achieving -2 or better:  94%.
+Chance of achieving -3 or better: 100%.
+
+Four-sided dice are generally poor-rolling dice.  However, at least
+one company, Gamescience, makes eight-sided d4s.  This is a special
+d8, numbered twice from 1 to 4, and it rolls very well.  They are
+available in five different colors - ask your local retailer if
+interested.  (Neither the author nor Wild Mule Games has any
+connection with Gamescience.)
+
+2. 2d5
+
+Gamescience also makes a d5: this is a ten-sided die, numbered 1 to 5
+twice.  They come in many different colors.  Two of these can be used
+instead of 2d6: they return the same range as 2d6 (-4 to +4), without
+the inconvenience of having to convert +/-5 results to a zero result.
+
+Any of the dice techniques can be used with 2d5, except 2d6-7 becomes
+2d5-6.  Substitute the following chart if using 2d5-6:
+
+Rolled:    2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10
+--------------|-----|-----|-----|-----|-----|-----|-----|---
+Result:   -4  | -3  | -2  | -1  | +0  | +1  |  +2 |  +3 | +4
+
+Using 2d5:
+Chance of achieving +4 or better:   4%.
+Chance of achieving +3 or better:  12%.
+Chance of achieving +2 or better:  24%.
+Chance of achieving +1 or better:  40%.
+Chance of achieving  0 or better:  60%.
+Chance of achieving -1 or better:  76%.
+Chance of achieving -2 or better:  88%.
+Chance of achieving -3 or better:  96%.
+Chance of achieving -4 or better: 100%.
+
+7.44  Alternate Section 4.6, Combat
+-----------------------------------
+
+Date: January, 1993
+By: Jay Doane, Andy Skinner, Steffan O'Sullivan
+
+With these alternate rules, melee combat is handled as a series of
+attacks and defenses instead of simultaneous action.  Each combat
+round involves two actions: the fighter with the higher initiative
+attacking while the other defends; then the second combatant attacking
+while the first defends.
+
+(Initiative can be determined with a single d6 die roll.  However, if
+the GM has an Initiative attribute (such as Reflexes) or skill, treat
+gaining initiative as an Opposed Action.  If the GM allows a gift such
+as Combat Reflexes, that grants a +1 to initiative.  Surprise may
+grant a bonus to the roll, or give automatic initiative.  Initiative
+can be rolled once for each battle - the simplest way - or once each
+round.  Or the character who did the best the previous round could
+automatically control the initiative in the next round.)
+
+Each attack is an Opposed Action: the attacker's Offensive skill
+t, etc.) against a defender's
+Defensive skill (Shield, Parry, Dodge, Duck, etc.).  This makes combat
+take longer, but some players feel it gives a character more control
+over his own fate.
+
+Using these rules, Defensive skill is a separate skill that must be
+bought independently of an Offensive skill.  Simply taking Sword at
+Superb implies only *offensive* use of the sword: the character must
+also take Parry with Sword for defensive capability.
+
+Obviously, the GM must tell the players at character creation which
+method she is using - or allow them extra levels on the fly to adjust
+their defensive abilities.  The GM may also allow Parry with Weapon
+Skill to default to Weapon Skill minus two levels: that is, a Great
+Sword skill automatically means a Fair Parry skill.  While some GMs
+might restrict Parry to being no higher than Weapon skill (or even to
+a maximum of one less than Weapon skill), others can imagine a
+defensive specialist who might parry Superbly, but attack Poorly!
+
+The default for animals depends on their type: carnivores will usually
+have a Defense value one level less than their Offense, while this is
+reversed for most prey species.
+
+Note that some weapons, such as an Axe, are poor parrying weapons.
+Such fighters should have decent Shield or Dodge skills.  Each player
+should ask the GM at character creation if a weapon may be used to
+parry, and still be used to attack without penalty in the next turn.
+
+All-out offensive and defensive tactics still work with this system: a
+character simply forfeits his attack for a round if he chooses All-out
+defense.  Likewise, a fighter is at -2 on his defense on his
+opponent's next turn if choosing All-out offense.
+
+7.45  Alternate Section 4.7, Damage and Healing
+-----------------------------------------------
+
+Date: December, 1992
+By: Bernard Hsiung
+
+A very easy way to keep track of wounds is with cards: give a player
+one face-down card when his character is Hurt, and another face-down
+card when his character is Very Hurt.  He gets rid of them when the
+character is healed.  Face-up cards represent fatigue - the character
+is reeling from exhaustion.  He gets rid of those by resting.  (A
+character can get fatigued by anything that fatigues real people:
+physical or mental activity, work, stress, etc.  Note that casting
+spells, using psi powers, etc., might or might not count as fatiguing
+mental activity.)
+
+Each card the character has represents a -1 to traits that would
+logically be affected until the third, which represents
+incapacitation.
+
+The cards may also describe hit location, if desired: a black card is
+the torso, while a red card means an extremity.  The lower the red
+card, the lower the extremity; the higher the red card, the higher the
+wound on the body.
+
+
+[End Addenda]
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

@@ -1,0 +1,127 @@
+.BeginNPC
+.Nomen  Origin Thraxhalican
+.Nomen  Title Arm Leader
+.Species Homo Sapiens:Proximan:Prime
+.Gender Male
+.Culture Proximan:Sajak
+.BeginStats
+.PST 18
+.PEN 17
+.DEX 16
+.PAG 18
+.PAW 16
+.MST 14
+.MEN 15
+.PSI 10
+.MAG 15
+.MAW 15
+.HT 1.7
+.WT 80
+.AGE
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build 
+.Bone
+.Tone
+.Text
+.EndFrame
+
+.BeginHair
+.Length
+.Color
+.Texture
+.Style
+.Curl
+.Ornament
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+.Indom	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+.Histom	Date Origin,Ending,Renewal,Conflict,Ceremony,Transition,Transformation,Meeting,ComingToAwareness	Assoc Secret,Known Text
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+A highly trained and experienced war leader. 
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+

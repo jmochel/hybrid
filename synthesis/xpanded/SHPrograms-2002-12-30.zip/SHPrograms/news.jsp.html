@@ -1,0 +1,784 @@
+
+
+
+
+
+<!-- needed for all those print edition boxes -->
+
+
+
+
+
+
+
+
+
+
+<!--    Start Browser Detection Code -->
+
+
+<!--    End Browser Detection Code -->
+
+<!--Search bean-->
+
+
+
+
+<html>
+<head>
+ <title>New Scientist</title>
+ <!-- to prevent smart tags in IE 6 -->
+<META NAME="MSSmartTagsPreventParsing" content="true">
+
+<!-- Javascript for in /misc/popup.jsp and misc/graphicstemplate.jsp needed by non-cms xml -->
+<SCRIPT LANGUAGE="Javascript">
+<!--
+function displayWindow(url, width, height) {
+	var Win = window.open(url,'_blank','width=' + width +',height=' + height + ',resizable=yes,scrollbars=yes,menubar=yes' );
+}
+//-->
+</SCRIPT>
+
+<!-- Jumping to other parts of the site using the footer select -->
+<SCRIPT LANGUAGE="javascript">
+    <!-- hide from old browsers
+    function changePage(userChoice) {
+
+	    var newPage = userChoice.options[userChoice.selectedIndex].value ;
+	    if (newPage!=" ") {
+		    document.location.href = newPage;
+	    }
+    }
+    // End of javascript -->
+</SCRIPT>
+
+
+ <link rel=stylesheet type="text/css" href="/css/win/ie/ns.css" title ="New Scientist Styles">
+
+</head>
+
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" text ="#000000" vlink="#003366" link="#006699" alink="#FFFFFF">
+
+<!-- page split into 5 columns: 3 content, with spacers inbetween. widths defined by shim row between header & body-->
+<table border="0" cellpadding="0" cellspacing="0" width="760" align="center" bgcolor="#FFFFFF">
+
+	<!-- header -->
+	
+
+<!--
+If the attribute "dartextras" is suppied, the value of the attribute
+is included in the URL sent to DART.
+-->
+<!-- eliminated bgcolor style as browser 3 wasn't doing too well .... -->
+
+<!-- Header: ad banner, spacer, logo, spacer -->
+  <tr valign="middle" bgcolor="#006699">
+   <td colspan="5" align="left">
+	   <table width="760" border="0" cellpadding="5" cellspacing="0">
+		  <tr>
+		   <td align="left">
+				<SCRIPT LANGUAGE="JavaScript">
+				document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/rbi.ns/newsmisc;dcopt=ist;sz=468x60;ord=329011481?" WIDTH="468" HEIGHT="60" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING=no BORDERCOLOR="#000000">');
+				document.write('<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/rbi.ns/newsmisc;dcopt=ist;sz=468x60;abr=!ie;abr=!nn6;ord=329011481?"><\/SCRIPT>');
+				document.write('</IFRAME>');
+				</SCRIPT>
+				<NOSCRIPT>
+				<A HREF="http://ad.doubleclick.net/jump/rbi.ns/newsmisc;dcopt=ist;sz=468x60;abr=!ie4;abr=!ie5;ord=329011481" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/rbi.ns/newsmisc;dcopt=ist;sz=468x60;abr=!ie4;abr=!ie5;ord=329011481" WIDTH="468" HEIGHT="60" BORDER="0" ALT="Click here..."></A>
+				</NOSCRIPT>
+			</td>
+		   <td align="right">
+		   <table border="0" cellpadding="0" cellspacing="0" align="right">
+				  <tr><FORM ACTION="/news/search/dosearch.jsp" method="get">
+				   <td align="right"><img src="/img/hd/search.gif" width="90" height="17" border="0" alt="Search"></td>
+				   <td><input type="text" size="12" name="advsearch" class="headerinput"></td>
+				   <input type="hidden" name="searchtype" value="all">
+				   <td><img src="/img/shim.gif" width="2" height="1" alt="" border="0"></td>
+				   <td><input type="image" src="/img/hd/find.gif" width="47" height="16" border="0" alt="Find" hspace="0"></td></FORM>
+				  </FORM></tr>
+				  <tr><FORM ACTION="/signup/signup.jsp?new=true" method="get">
+					<INPUT TYPE=hidden NAME="new" VALUE="true">
+				   <td><a href="/signup/signup.jsp?new=true"><img src="/img/hd/newsletter.gif" width="90" height="17" border="0" alt="Free newsletter"></a></td>
+				   <td><input type="text" size="12" name="email" value="enter email"  class="headerinput"></td>
+				   <td><img src="/img/shim.gif" width="2" height="1" alt="" border="0"></td>
+				   <td align="left"><input type="image" src="/img/hd/go.gif" width="47" height="16" border="0" alt="Subscribe"hspace="0"></td>
+				  </FORM></tr>
+			   </table>
+		   </td>
+		  </tr>
+	   </table>
+   </td>
+  </tr>
+  <tr bgcolor="#006699">
+   <td colspan="5" valign="bottom" align="right"><img src="/img/hd/nslogo760.gif" align="right" width="760" height="28" vspace="5" hspace="0" border="0" alt="NewScientist.com"></td>
+  </tr>
+  <tr valign="middle" bgcolor="#006699">
+   <td colspan="5"><img src="/img/shim.gif" width="1" height="3" alt="" border="0"></td>
+  </tr>
+
+	<!-- nav bar individual to each section -->
+	  <tr valign="top" bgcolor="#006699">
+   <td colspan="5">
+   <!-- start nav table -->
+	<table width="698" border="0" cellpadding=0 cellspacing=0 align="left">
+	  <tr>
+		<td><img src="/img/shim.gif" width="4" height="10" border="0" alt=""></td>
+		<td><a href="/"><img src="/img/nav/home.gif" width="39" height="10" border="0" alt="NewScientist.com home page"></a></td>
+		<td><a href="/news/"><img src="/img/nav/news_on.gif" width="44" height="10" border="0" alt="Latest science & technology news"></a></td>
+		<td><a href="/hottopics/"><img src="/img/nav/hottopics.gif" width="75" height="10" border="0" alt="Hot topics in science"></a></td>
+		<td><a href="/lastword/"><img src="/img/nav/lastword.gif" width="97" height="10" border="0" alt="Q & A's from everyday science"></a></td>
+		<td><a href="/opinion/"><img src="/img/nav/opinion.gif" width="56" height="10" border="0" alt="Feedback, letters, book reviews, interview"></a></td>
+		<td><a href="/weblinks/"><img src="/img/nav/weblinks.gif" width="67" height="10" border="0" alt="Links to other science sites"></a></td>
+		<td><a href="/inprint/"><img src="/img/nav/printedition.gif" width="88" height="10" border="0" alt="Contents of this week's print edition"></a></td>
+		<td><a href="https://www.newscientist.com/subscribe/subs_home.jsp?source=news"><img src="/img/nav/subscribe.gif" width="72" height="10" border="0" alt="Subscribe to New Scientist magazine"></a></td>
+		<td><a href="http://archive.newscientist.com"><img src="/img/nav/archive.gif" width="59" height="10" border="0" alt="New Scientist magazine archive"></a></td>
+		<td><a href="http://www.newscientistjobs.com"><img src="/img/nav/jobs.gif" width="100" height="10" border="0" alt="Search 1000's of science and technology jobs"></a></td>
+	  </tr>
+	</table>
+	<!-- end nav table -->
+   </td>
+  </tr>
+
+	<!-- table column width fixer -->
+	<!-- not really necc. for this section as such, but allows use of other includes -->
+	  <!-- spacing under nav bar -->
+  <tr valign="top" bgcolor="#006699">
+   <td colspan="5"><img name="rhcol" src="/img/shim.gif" width="1" height="5" border="0" alt=""></td>
+  </tr>
+<!-- end -->
+<!-- spacer row - height: 5 (in lh_body_spacer) -->
+  <tr valign="top">
+   <td><img name="lhcol" src="/img/shim.gif" width="120" height="1" border="0" alt=""></td>
+   <td><img name="lh_body_spacer" src="/img/shim.gif" width="20" height="10" border="0" alt=""></td>
+   <td><img name="mainbody" src="/img/shim.gif" width="400" height="1" border="0" alt=""></td>
+   <td><img name="mainbody_rhcol_spacer" src="/img/shim.gif" width="20" height="1" border="0" alt=""></td>
+   <td><img name="rhcol" src="/img/shim.gif" width="200" height="1" border="0" alt=""></td>
+  </tr>
+<!-- end spacer -->
+
+
+	<!-- main body of page -->
+	  <tr valign="top">
+	   <!-- lhcol -->
+	   <td rowspan="2">
+		<!-- navigation for news section -->
+				<!-- Navigation for news section -->
+		<table border="0" cellpadding="0" cellspacing="0" width="120" align="left" bgcolor="#FFFFFF">
+		  <tr class="newsnav">
+			<td align="center"><img src="/news/img/news.gif" width="119" height="90" border="0" alt="NEWS" hspace="0" vspace="0"></td>
+		  </tr>
+		  <tr>
+			<td align="left"><a href="/news/indexlatest.jsp"><img src="/news/img/nv_allnews.gif" width="120" height="15" border="0" alt="All the latest news" hspace="0" vspace="2"></a></td>
+		  </tr>
+		  <tr>
+			<td align="left"><a href="/conferences/"><img src="/news/img/nv_confnews.gif" width="120" height="15" border="0" alt="Conference News" hspace="0" vspace="2"></a></td>
+		  </tr>
+		  <tr>
+			<td align="left"><a href="/news/search/"><img src="/news/img/nv_srchnews.gif" width="120" height="15" border="0" alt="Search News" hspace="0" vspace="2"></a></td>
+		  </tr>
+		  <tr>
+			<td class="space5">&nbsp;</td>
+		  </tr>
+		  <tr class="newsnav">
+			<td class="space8">&nbsp;</td>
+		  </tr>
+		 </table>
+		 <!-- end nav -->
+
+	   	<br clear="left" class="space8"/>
+	   	<br clear="left" class="space8"/>
+
+		<!-- print magazine info -->
+	   	<!-- Daily News Index lhc -->
+
+
+<table class="shadedbox" align="left" width="120" cellspacing="0" cellpadding="0" border="0">
+<tr class="boxheader">
+<td align="left"><img vspace="0" hspace="0" alt="Top Stories" border="0" height="15" width="120" src="/img/bx/topstories.gif"></td>
+</tr>
+<tr>
+<td class="space5" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="bothmarg">
+<small><a href="/news/news.jsp?id=ns99992225">First quarter of 2002 is "warmest for a millennium"</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992223">Whooping cough strikes back</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992224">Fatal Greek virus identified </a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992207">Military block wind farms over radar fears</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992221">Baby sex ratios linked to latitude</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992219">Nanotubes go flash bang wallop</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992220">"Shrink-wrap" sutures enhance keyhole surgery</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992218">"Personalised" brain atlases will improve diagnoses</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992217">Complete tadpole eyeballs grown in lab</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992215">Hubble tackles paradox of Universe's age</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992216">Second "space tourist" begins voyage</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992205">Sexual desire boosted by breastfeeding odours </a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992214">Alien species colonise on plastic rafts</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992206">Squishy cellphones add a buzz to calls</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992210">Stunning fossil is human's earliest mammal relative</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992213">Potential carcinogen revealed in french fries</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992212">Fatal mystery virus closes Greece's schools</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992211">Bottle-fed babies could pass on obesity risk</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992197">Lab-grown muscle sheets repair damaged hearts</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992204">Firstborn people prone to heart disease</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992202">Rare pig cloned in single cycle</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992203">Antarctic ice break-up devastates plant life</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992201">Antibiotic resistance action could be "too late"</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992200">China's net usage leaps to second in world</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992198">Neanderthal man was "armed and dangerous"</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992196">Cloning discovery may kill ethical objection</a>
+<br clear="left">
+<br clear="left">
+<a href="/news/news.jsp?id=ns99992194">New tool dupes computer defences</a>
+<br clear="left">
+<br clear="left">
+</small>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Daily News Index lhc -->
+
+
+
+
+
+
+	   </td>
+	   <!-- end lhcol -->
+
+	   <!-- spacer --><td rowspan="2">&nbsp;</td>
+
+	   <td>
+		<!-- headline same as rest of news -->
+		<!-- headline common to section -->
+<table width="400" cellpadding="0" border="0" cellspacing="0">
+	<tr>
+		<td valign="bottom"><b class="newssectionstrap">The World's No.1 Science &#038; Technology News Service</td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/img/dots400.gif" width="400" height="5" border="0" alt="" vspace="0"></td>
+   	</tr>
+</table>
+<!-- end headline -->
+		<!-- end headline -->
+<!-- LOAD STORY HERE START-->
+<table align="left" cellspacing="0" border="0" cellpadding="0" width="370">
+<tr>
+<td class="space10" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td class="space5" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<p>
+<b class="newsarthead">Nanotubes go flash bang wallop</b>
+</p>
+</td>
+</tr>
+<tr>
+<td class="space5" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td align="left"><small class="blu">19:00&nbsp;25&nbsp;April&nbsp;02</small></td>
+</tr>
+<tr>
+<td class="space5" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td><small class="blu">NewScientist.com news service</small></td>
+</tr>
+<tr>
+<td class="space10" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+ 
+<P>
+Taking a snapshot of carbon nanotubes using an ordinary camera flash can cause them to emit a loud pop and then suddenly burst into flame. </P>
+
+
+<P>Scientists say this unique explosive phenomenon may lead to new means of manufacturing nanoscale carbon materials and even remote-control devices for small explosive charges.</P>
+
+
+<P>Pulickel Ajayan and his team at Rensselaer Polytechnic Institute, New York, have been at work since one of his students accidentally sparked a tiny explosion by photographing a bundle of single-walled carbon nanotubes. "It was a complete accident," Ajayan told <B>New Scientist</B>.</P>
+
+
+<P>Researchers around the world are exploring the potential that carbon nanotubes could have for a wide range of super-strong materials and nanoscale circuits. Ganapathiraman Ramanath, also at Rensselaer Polytechnic, says that the latest discovery "will serve as a starting point for developing nanotube-based actuators and sensors that rely on remote activation and triggering."</P>
+
+
+<P>
+<br>
+<B class="newscrosshead">Ultra-absorbent</B>
+<br>
+</P>
+
+
+<P>Ajayan says the explosion occurs because the black carbon nanotubes absorb light so efficiently that, when it is converted into heat, the heat cannot dissipate quickly enough across bunched-up tubes. However, only the single-walled variety of nanotubes catch fire. Those with multiple walls do not explode - the researchers are unsure why.</P>
+
+
+<P>
+<A href="/ns_images/9999/99992219A1.MPEG">Video of flashlit nanotube explosion (744kB download)</A>
+</P>
+
+
+<P>The initial popping noise is generated by the heating of the oxygen inside and between the tubes, which causes a shock wave. And when the temperature of carbon reaches between 600&deg;C and 700&deg;C it oxidises sparking combustion.</P>
+
+
+<P>When the researchers tried the experiment in the absence of oxygen they found that the tubes were transformed into different nanoscopic shapes, some reminiscent of cone-shaped "nanohorns".</P>
+
+
+<P>"It's a very nice surprise," says Angel Rubio, an expert in carbon nanotubes at the University of the Basque Country in Spain. "Because it's the only carbon material that exhibits this ignition property."</P>
+
+
+<P>Journal Reference: <I>Science</I> (vol 296, p 705)</P>
+</td>
+</tr>
+<tr>
+<td class="space10" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p class="blu">Will Knight</p>
+</td>
+</tr>
+<tr>
+<td>
+<br clear="left">
+<p>
+				This story is from NewScientist.com's news service - for more exclusive news and expert analysis every week <b><a href="https://www.newscientist.com/subscribe/subs_home.jsp?source=news">subscribe</a></b> to New Scientist print edition.
+			</p>
+</td>
+</tr>
+<tr>
+<td class="space10" align="left">&nbsp;</td>
+</tr>
+</table>
+
+<!-- LOAD STORY HERE END-->
+		<br clear="left"/>
+
+		<table width="241" cellpadding="0" border="0" cellspacing="0" align="left">
+			<tr>
+				<td colspan="2"><img src="/img/shim.gif" width="1" height="5" alt=""></td>
+			</tr>
+			<tr>
+				<td align="left"><a href="/news/print.jsp?id=ns99992219"><img src="/news/img/print.gif" width="120" height="20" alt="Print this article" border="0"></a></td>
+				<td align="right"><a href="/news/emailafriend.jsp?id=ns99992219"><img src="/news/img/email.gif" width="120" height="20" alt="Send to a friend" border="0"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="/img/shim.gif" width="1" height="5" alt=""></td>
+			</tr>
+		</table>
+
+
+		<br clear="left"/>
+						<table width="370" cellpadding="0" border="0" cellspacing="0">
+				<tr>
+					<td colspan="3" align="left" class="space10">&nbsp;</td>
+				</tr>
+				<tr valign="top">
+					<td align="left"><img src="/img/hp/bluearrow.gif" width="13" height="9" border="0" alt=""></td>
+					<td><small>&nbsp;</small></td>
+					<td><small>For what’s in New Scientist magazine this week see <a href="/inprint/" class="redlinks">Print Edition</a></small></td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" class="space5">&nbsp;</td>
+				</tr>
+				<tr valign="top">
+					<td align="left"><img src="/img/hp/bluearrow.gif" width="13" height="9" border="0" alt=""></td>
+					<td><small>&nbsp;</small></td>
+					<td><small>Search the <a href="http://archive.newscientist.com/" class="redlinks">Archive</a> for more stories like this, originally published in the Print Edition</small></td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" class="space5">&nbsp;</td>
+				</tr>
+				<tr valign="top">
+					<td align="left"><img src="/img/hp/bluearrow.gif" width="13" height="9" border="0" alt=""></td>
+					<td><small>&nbsp;</small></td>
+					<td><small><a href="https://www.newscientist.com/subscribe/subs_home.jsp?source=news" class="redlinks">Subscribe</a> to New Scientist Print Edition</small></td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" class="space5">&nbsp;</td>
+				</tr>
+				<tr valign="top">
+					<td align="left"><img src="/img/hp/bluearrow.gif" width="13" height="9" border="0" alt=""></td>
+					<td><small>&nbsp;</small></td>
+					<td><small><a href="/thesite/tscontacts.jsp?recipient=1" class="redlinks">Correspondence</a> about this story should be directed to <a href="mailto:latestnews@newscientist.com" class="blu">latestnews@newscientist.com</a></small></td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" class="space5">&nbsp;</td>
+				</tr>
+				<tr valign="top">
+					<td align="left"><img src="/img/hp/bluearrow.gif" width="13" height="9" border="0" alt=""></td>
+					<td><small>&nbsp;</small></td>
+					<td><small><a href="/signup/signup.jsp" class="redlinks">Sign up for our free newsletter</a></small></td>
+				</tr>
+				<tr>
+					<td colspan="3" valign="top"><img src="/img/dots370.gif" width="370" height="5" border="0" alt="" vspace="20"></td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" class="space10">&nbsp;</td>
+				</tr>
+			</table>
+
+	   </td>
+
+	   <!-- spacer --><td>&nbsp;</td>
+
+	   <!-- rhcol -->
+
+	   <td align="right">
+	   	<!-- subs message -->
+<table border="0" cellpadding="0" cellspacing="0" width="195" align="right">
+  <tr>
+	<td align="right">
+	<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/rbi.ns/substextbox;sz=195x120;ord=329011481?" ></SCRIPT>
+		<NOSCRIPT>
+		<A HREF="http://ad.uk.doubleclick.net/jump/rbi.ns/substextbox;sz=195x120;ord=329011481?" TARGET="_blank">
+		<IMG SRC="http://dev.www.newscientist.com/ads/nssubs/200204_html/nonusa_subsbox.gif" WIDTH="195" HEIGHT="120" BORDER="0" ALT="Click here..."></A>
+		</NOSCRIPT>
+	</td>
+  </tr>
+  <tr>
+	<td class="space5">&nbsp;</td>
+  </tr>
+ </table>
+ <br clear="right">
+	   			<!-- conferences box -->
+		<table border="0" cellpadding="0" cellspacing="0" width="195" align="right" bgcolor="#FFFFFF">
+		  <tr>
+			<td colspan="4" class="space5">&nbsp;</td>
+		  </tr>
+		  <tr bgcolor="#CC0000">
+			<td colspan="4"><a href="/conferences/"><img src="/img/bx/confnews.gif" width="195" height="15" border="0" alt="Online Conference News"></a></td>
+		  </tr>
+		  <tr bgcolor="#CC0000">
+			<td rowspan="11"><img src="/img/shim.gif" width="1" height="1" border="0" alt=""></td>
+			<td><img src="/img/shim.gif" width="15" height="1" border="0" alt=""></td>
+			<td><img src="/img/shim.gif" width="178" height="1" border="0" alt=""></td>
+			<td rowspan="11"><img src="/img/shim.gif" width="1" height="1" border="0" alt=""></td>
+		  </tr>
+		  <tr>
+		   <td colspan="2" class="space5">&nbsp;</td>
+		   </td>
+		  </tr>
+		  <tr>
+			<td class="space5">&nbsp;</td>
+			<td align="left"><p><b><a href="/conferences/" class="textlinks">British Psychological Society</a></b></p></td>
+		  </tr>
+		  <tr>
+		   <td colspan="2" class="space5">&nbsp;</td>
+		   </td>
+		  </tr>
+		  <tr bgcolor="#CC0000">
+			<td colspan="2"><img src="/img/shim.gif" width="1" height="1" border="0" alt=""></td>
+		  </tr>
+		 </table>
+		 <!-- end conferences table -->
+
+	   	<br clear="right" class="space10"/>
+	   	<br clear="right" class="space5"/>
+<!-- LOAD related articles etc here  -->
+<table bgcolor="#FFFFFF" align="right" width="195" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr class="boxheader">
+<td align="left"><img vspace="0" hspace="0" alt="More on this story" border="0" height="15" width="195" src="/img/bx/moreonstory.gif"></td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<p>
+<b class="newscrosshead">Related Stories</b>
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="leftmarg">
+<small><a target="_self" href="/news/news.jsp?id=ns99991893">Nanothermometer takes molecular temperatures</a>
+<br clear="left">7 February 2002</small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="leftmarg">
+<small><a target="_self" href="/news/news.jsp?id=ns99991618">Nanotubes hint at room temperature superconductivity</a>
+<br clear="left">28 November 2001</small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="leftmarg">
+<small><a target="_self" href="/news/news.jsp?id=ns9999184">Carbon nanotubes are spun into threads</a>
+<br clear="left">17 November 2000</small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td class="space8">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<small>For more related stories <br>
+<b>search the print edition <a href="http://archive.newscientist.com">Archive</a></b></small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td class="boxheader"><img alt="" border="0" height="1" width="1" src="/img/shim.gif"></td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<p>
+<b class="newscrosshead">Weblinks</b>
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<small><a target="ns" href="http://www.rpi.edu/dept/materials/">Materials Science and Engineering, Rensselaer Polytechnic Institute</a></small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<small><a target="ns" href="http://dipc.ehu.es/">International Physics Centre, University of the Basque Country</a></small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<div class="leftmarg">
+<small><a target="ns" href="http://www.sciencemag.org/">Science</a></small>
+</div>
+</td>
+</tr>
+<tr>
+<td class="space5">&nbsp;</td>
+</tr>
+<tr>
+<td class="boxheader"><img alt="" border="0" height="1" width="1" src="/img/shim.gif"></td>
+</tr>
+</table>
+
+<!-- LOAD related articles etc here  -->
+	   	<br clear="right" class="space10"/>
+	   	<br clear="right" class="space5"/>
+	   		
+
+		
+	  <?xml version="1.0" encoding="UTF-8"?>
+<table class="shadedbox" align="right" width="195" cellspacing="0" cellpadding="0" border="0"><tr bgcolor="#FFFFFF"><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr class="boxheader"><td align="left"><img vspace="0" hspace="0" alt="Elsewhere today" border="0" height="15" width="195" src="/img/bx/elsewhere.gif"/></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small>All the best science stories from the web</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small><a target="tz" href="http://www.wired.com/news/technology/0,1282,52115,00.html">Hotmail at risk to cookie thieves</a><br clear="left"/>Wired</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small><a target="tz" href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=594&amp;ncid=751&amp;e=8&amp;u=/nm/20020425/hl_nm/bacteria_genes_1">Gene swap turns bacteria into big bad Black Death </a><br clear="left"/>Reuters</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small><a target="tz" href="http://www.guardian.co.uk/Archive/Article/0,4273,4401835,00.html">Britain faced military rule after Russian nuclear-strike</a><br clear="left"/>Guardian Unlimited</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small><a target="tz" href="http://news.ft.com/ft/gx.cgi/ftc?pagename=View&amp;c=Article&amp;cid=FT3QIIBYG0D&amp;live=true&amp;tagid=ZZZINS5VA0C&amp;subheading=middle%20east%20and%20africa">UN says Zimbabwe and neighbours face famine</a><br clear="left"/>Financial Times</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr><tr><td><div class="bothmarg"><small><a target="tz" href="http://www.ens-news.com/ens/apr2002/2002L-04-25-04.html">"Shocking" evidence of Yucca Mountain radioactive waste plan</a><br clear="left"/>Environmental News Network</small></div></td></tr><tr><td><img alt="" border="0" height="5" width="1" src="/img/shim.gif"/></td></tr></table>
+
+	   	<br clear="right" class="space10"/>
+		<a href="http://archive.newscientist.com"><img src="/inprint/img/free2subs.gif" alt="NewScientist Archive: Free to Subscribers" width="195" height="125"border="0" align="right" vspace="5"></a>
+
+	   </td>
+	   <!-- end rhcol -->
+	  </tr>
+
+	  <tr valign="bottom">
+	  	<td colspan="3">
+			<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/rbi.ns/newstail;sz=468x60;ord=329011481?" ></SCRIPT>
+			<NOSCRIPT>
+			<A HREF="http://ad.uk.doubleclick.net/jump/rbi.ns/newstail;sz=468x60;ord=329011481?" TARGET="_blank">
+			<IMG SRC="http://ad.uk.doubleclick.net/ad/rbi.ns/newstail;sz=468x60;ord=329011481" WIDTH="468" HEIGHT="60" BORDER="0" ALT="Click here...">Click here...</A>
+			</NOSCRIPT>
+	  	</td>
+	  </tr>
+
+	<!-- end navigation -->
+	<!-- start navigation and copyright at end of the page -->
+  <tr>
+   <td colspan="5" class="space8">&nbsp;</td>
+  </tr>
+  <tr>
+   <td colspan="5" class="space8">&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td colspan="5" bgcolor="#000000"><img src="/img/shim.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+
+
+  <tr>
+   <td colspan="5" class="space8">&nbsp;</td>
+  </tr>
+  <tr>
+  	<td colspan="5">
+  	<table border="0" cellpadding="0" cellspacing="0" width="760" align="center" bgcolor="#FFFFFF">
+
+  <tr valign="top">
+   <td colspan="4" align="left">
+   <div style="class=leftmarg"><small>
+   <a href="/thesite/tsabout.jsp">About newscientist.com</a>&nbsp;&#149;&nbsp;
+   <a href="https://www.newscientist.com/subscribe/subs_home.jsp?source=footer">Subscribe</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tscontacts.jsp">Contact Us</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tsfaq.jsp">FAQ</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tsmedia.jsp">Media Information</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tsdisclaimer.jsp">Disclaimer</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tstermcon.jsp">Terms and Conditions</a>&nbsp;&#149;&nbsp;<br clear="left">
+   <a href="/thesite/tssitemap.jsp">Site Map</a>&nbsp;&#149;&nbsp;
+   <a href="/thesite/tsprivacy.jsp">Privacy Policy</a>&nbsp;
+   &#169; Copyright Reed Business Information Ltd.</small></div></td>
+   <td align="center" class="selectbox">
+
+
+	<FORM name="footerform">
+
+	<SELECT NAME="Footer" onChange="changePage(this)">
+	<option value="nought">Jump to ..</OPTION>
+
+	<option value="nought">  </OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/">Home</OPTION>
+
+	<OPTION VALUE="http://www.newscientistjobs.com">Jobs</OPTION>
+
+	<OPTION VALUE="https://www.newscientist.com/subscribe/subs_home.jsp?source=footer">Subscribe</OPTION>
+
+	<OPTION VALUE="http://archive.newscientist.com">Archive</OPTION>
+
+	<option value="nought">___________________</OPTION>
+
+	<option value="nought">  </OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/news/">News</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/hottopics/">Hot Topics</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/lastword/">The Last Word</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/opinion/opfeedback.jsp">Feedback</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/opinion/opletters.jsp">Letters</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/opinion/opbooks.jsp">Books</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/opinion/opinterview.jsp">Interviews</OPTION>
+
+	<OPTION VALUE="http://www.newscientist.com/weblinks/">Web Links </OPTION>	</SELECT>
+
+	</FORM>
+	</td>
+   </tr>
+   </table>
+   </td>
+  </tr>
+
+<!-- end navigation and copyright at end of the page-->
+
+
+
+
+</table>
+<!-- Tangozebra.  name=Range Rover, advert_type=tranzition, advert_id=374, site=newscientist_home -->
+<script language="Javascript1.1" type="text/javascript">
+<!--
+var tz_rnd = (Math.random().toString()).substring(2);
+var tz_bit1 = "<scr";var tz_bit2 = "</";
+var tz_tag = tz_bit1 + 'ipt language="javascript1.1" type="text/javascript" src="';
+var tz_file = "http://ad.uk.tangozebra.com/00000374/ad_newscientist_home.js";
+tz_tag += tz_file + '?' + tz_rnd + '">' + tz_bit2 + 'script>';
+document.write(tz_tag);
+//-->
+</script>
+<!-- has to sit outside main table for NS 4.7 Mac -->
+
+
+</body>
+</html>

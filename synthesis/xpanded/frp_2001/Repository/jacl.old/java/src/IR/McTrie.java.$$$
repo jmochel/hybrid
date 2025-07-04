@@ -1,0 +1,728 @@
+/*
+    Copyright (C) 1998-1999 Jim Jackl-Mochel
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy 
+    of this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to use, 
+    copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+    Software, and to permit persons to whom the Software is furnished to do so, 
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in 
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+    IMPLIED, INCLUDING BUT NOT LIMITED TOTHE WARRANTIES OF MERCHANTABILITY, 
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    Except as contained in this notice, the name of the author shall not be used 
+    in advertising or otherwise to promote the sale, use or other dealings in this
+    Software without specific prior written authorization.
+
+    This code was last modified on $Date: 1999/02/12 18:50:49 $
+
+    $author: Jim Jackl-Mochel $
+    $Revision: 1.2 $
+*/
+
+
+
+
+/**
+    McTrie a class for constructing and walking McTries.
+
+    <p>An Indexing data structure similiar in use to a B-tree
+
+    A more generalized form of the McTrie detailed in :
+
+        Multi-character tries for text searching. Cooper and Tharp.
+            Information Processing & Management Vol. 29, No 2. pp 197-207 1993
+
+
+    A McTrie is implemented here as an array of Nodes of the form:
+
+    [s][e][g][T][R]
+
+    where [s][e][g] is 3 or more bytes of the key being searched on.
+    where [T] is the byte indicating that the current set of segments make a full term.
+    where [R] is the byte giving the offset (in nodes) of the next node of the seme level
+
+    If the [T] is true, then the next node will contain the addendum data as provided
+        This will typically contain the offset of the data.
+
+    <p><B>ToDo</B>
+    <ul>
+        <li>Check API Naming
+        <li>Check API Types
+        <li>Check API Returns
+        <li>Check API Exceptions
+        <li>Check API Exception Specifications
+        <li>Check Comments
+        <li>Remove unused Comment tags
+    </ul>
+
+    <p><B>Copyright (C) 1998-1999 Jim Jackl-Mochel. See copyright statement</B>
+
+    <p>This code was last modified on $Date: 1999/02/12 18:50:49 $
+
+    @author Jim Jackl-Mochel
+    @author $Author: jmochel $
+    @version $Revision: 1.2 $
+
+    @see <???>
+    @see <???>
+    @see <???>
+    @since JDK 1.1
+
+    @deprecated <???>
+    @see <???>
+*/
+
+class McTrie
+{
+
+    public McTrie(void)
+    {
+    	_Block = 0;
+	    _RefLvlNdxs = 0;
+        _NewLvlNdxs = 0;
+
+	    SetDefs();
+    }
+
+    // Accessor 
+
+    public int GetBlockSize(void)
+    {
+	    return(_BlockSize);
+    }
+
+    // Mutator
+
+    public void SetBlock(byte[] Block)
+    {
+	    _Block = Block;
+    }
+
+    // Accessor 
+
+    public byte[] GetBlock(void)
+    {
+	    return(_Block);
+    }
+
+    /**
+        Initializes the McTrie to a segment size of segSize
+    */
+    
+    void BeginAdd(int segSize)
+    {
+        // Test to verify that segment size is large enough.
+
+        if (segSize >= McTrie_DefSegSize)
+        {
+            throw new IllegalArgumentException();
+        }
+
+  	    SetDefs(segSize);
+  	    
+	    // Block size stuff
+
+	    _NodeCnt = McTrie_DefNodeCnt;
+	    _BlockSize = _NodeSize * _NodeCnt;
+
+	    if ( _Block == null )
+	    {
+    	    _Block = new byte[_BlockSize];
+	    }
+
+	    if ( _RefLvlNdxs == 0 )
+	    {
+    	    _RefLvlNdxs = new byte[_NodeCnt];
+	    }
+
+	    if ( _NewLvlNdxs == 0 )
+	    {
+    	    _NewLvlNdxs = new byte[_NodeCnt];
+	    }
+
+	    _OldTerm = "";
+
+	    // State and other info
+
+	    _NodesAvail = _NodeCnt;
+
+	    _CurrNodeNdx = 0;
+	    _RefLvl = 0;				// Level of the deepest node in the reference (old) term (1 indexed)
+    }                 
+
+    void BeginAdd()
+    {
+   	    BeginAdd(McTrie_DefSegSize);
+    }                 
+
+    //  Add a term and addendum data
+
+    bool	Add(String newTerm, String addendumData)
+    {
+	    int	 MismatchPos;
+	    int	 MismatchNdx;
+	    int	 MismatchLen;
+	    
+	    int	 SegDiffBegin; // The first segment that is different in the two terms
+	    int	 SegDiffCnt;   // The number of segments that are different in the two terms
+	    
+	    int	 MaxLvl;
+	    int	 MinLvl;
+	    int	 NewLvl;				// Level of the deepest node in the new term (1 indexed)
+	    
+        int   i;             // A random counter
+
+	    byte	 NewTermBfr = new byte[McTrie_DefTermBfrSize];
+
+        // Parameter Checks
+
+        if ( AddendumData.length() != _NodeSize )
+        {
+            throw range_error("McTrie:Addendum Data length needs the same as the Node Size");
+        }
+
+        // Init the locals
+
+	    memset(NewTermBfr, '\0', McTrie_DefTermBfrSize);
+
+	    // Get the difference between the old and new terms.
+
+	    MismatchPos = first_mismatch(_OldTerm.begin(), _OldTerm.end(), NewTerm.begin(), NewTerm.end());
+
+	    // If there is no mismatch, we must already have added this term.
+
+	    if ( MismatchPos == NewTerm.end() )
+	    {
+		    return(true);
+	    }
+
+	    // Fill in the numbers for the difference
+	    // Now, if the mismatch starts in the middle of a segment, this could throw some of the numbers off
+	    // So we reset the mismatch pos to the beginning of the segment.
+
+	    MismatchNdx = MismatchPos - NewTerm.begin();
+	    MismatchLen = distance(MismatchPos, NewTerm.end());
+
+	    // True up the segment indexes appropriately
+
+	    MismatchLen = MismatchLen + (MismatchNdx % _SegSize);
+	    MismatchNdx = MismatchNdx - (MismatchNdx % _SegSize);
+
+	    SegDiffBegin = MismatchNdx/_SegSize;
+	    SegDiffCnt   = MismatchLen/_SegSize + ((MismatchLen % _SegSize) ? 1 : 0);
+
+	    // Check that we have this many empty segments. If not, we fail.
+        // We add one to the SegDiffCnt to allow for the AddendumData
+
+	    if ( (SegDiffCnt + 1) > _NodesAvail )
+	    {
+		    return(false);
+	    }
+
+	    // Init the new level.
+
+	    NewLvl = SegDiffBegin + SegDiffCnt -1;
+
+	    //
+	    //	Add the new nodes to the Block
+	    //
+
+	    // Get the range of new nodes to be added
+
+	    MaxLvl = _MAX(_RefLvl, NewLvl);
+	    MinLvl = _MIN(_RefLvl, NewLvl);
+
+	    // Truncate that range if the new term is shorter than the old term
+
+	    if ( MaxLvl > (SegDiffBegin + SegDiffCnt -1) )
+	    {
+		    MaxLvl = SegDiffBegin + SegDiffCnt -1;
+	    }
+
+	    // Place the segments of the new nodes into the block
+
+	    memcpy(NewTermBfr, NewTerm.c_str(), NewTerm.length());
+
+	    for ( i = SegDiffBegin; i <= MaxLvl; i++ )
+	    {
+		    Node_SetSegment( &(_Block[_CurrNodeNdx * _NodeSize]), (NewTermBfr + (i * _SegSize) ) );
+		    _NewLvlNdxs[i] = _CurrNodeNdx;
+		    _CurrNodeNdx++;
+		    _NodesAvail--;
+	    }
+
+	    // Set the terminator
+
+	    Node_SetTerminated(&(_Block[(_CurrNodeNdx-1) * _NodeSize]), true);
+
+	    // Set the Addendum Data
+
+        Node_SetAddendumData(&(_Block[(_CurrNodeNdx) * _NodeSize]), AddendumData.c_str());
+        _CurrNodeNdx++;
+        _NodesAvail--;
+
+	    // Set the Right attributes
+
+	    for ( i = SegDiffBegin; i <= MaxLvl; i++ )
+	    {
+		    if ( (i <= MinLvl) && (i == SegDiffBegin) )
+		    {
+			    Node_SetRight( &(_Block[(_RefLvlNdxs[i]*_NodeSize)]), (_NewLvlNdxs[i] - _RefLvlNdxs[i]) );
+		    }
+
+		    _RefLvlNdxs[i] = _NewLvlNdxs[i];
+	    }
+
+	    // Clean up any leftover RefLvl values
+
+	    if ( _RefLvl > NewLvl )
+	    {
+		    for ( i = NewLvl+1; i <= _RefLvl; i++ )
+		    {
+			    _RefLvlNdxs[i] = 0;
+		    }
+	    }
+
+	    // Update working variables
+
+	    _RefLvl = NewLvl;
+	    _OldTerm = NewTerm;
+
+        return(true);
+        
+    }
+
+    //  Closeout this block of the McTrie
+
+    public void EndAdd()
+    {
+        for ( size_t i = 0; i <= _RefLvl; i++ )
+        {
+            Node_SetRight( &(_Block[(_RefLvlNdxs[i]*_NodeSize)]), _NodeCnt - _RefLvlNdxs[i]-1);
+        }
+    
+	    _NodesAvail = _NodeCnt;
+	    _CurrNodeNdx = 0;
+    }
+
+    //  Init to the defaults for a segment size of segmentSize
+
+    public void	BeginLookup()
+    {
+        SetDefs();
+    }
+
+    //  Find the exact term specified
+
+    public boolean Lookup(String term, String addendumData)
+    {
+	    int    currNode;		 // Pointer to the current node.
+	    int    currLvl;		 // Level of the current node.
+
+	    byte	lvlAtNdx[256+1];	// Array of Levels associated with a given node (ndx).
+	    byte	nextNdx[256+1];	// Array of indexes associated with a given level.
+
+        byte    termBfr[McTrie_DefTermBfrSize];
+        int     order;
+        boolean   searchIsDone = false;
+        int     termNodeCnt;
+
+	    deque<Byte>	jumpDownLvls;
+
+	    // Initialize
+
+	    memset(lvlAtNdx, '\0', sizeof(lvlAtNdx));
+	    memset(nextNdx, '\0', sizeof(nextNdx));
+        memcpy(termBfr, term.c_str(),  term.size());
+
+        _CurrNodeNdx = 0;
+        currLvl = 0;
+
+        termNodeCnt = GetNodeCnt(term.size());
+
+	    while ( searchIsDone == false )
+	    {
+		    // Where we are
+
+		    currNode = _Block + (_CurrNodeNdx * _NodeSize);
+
+		    //
+		    // Now compare the term
+		    //
+
+		    // Compare the segment
+
+		    order = memcmp( termBfr + (currLvl * _SegSize), Node_GetSegment(currNode), _SegSize);
+
+            if ( order > 0 )
+            {
+                // If the term is less than the stored segment (lexigraphic order) 
+                // we simply go on to the next node.
+
+                _CurrNodeNdx += Node_GetRight(currNode);
+            }
+            else if ( order < 0 )
+            {
+                // If the term is greater than the stored segment (lexigraphic order) 
+                // we have gone to far !
+
+                return(false);
+            }
+            else {
+
+                // The segment and the term are equal so we have all sorts of decisions 
+                // to make.
+
+                // If there is more of the term to find
+
+                if ( termNodeCnt > (currLvl +1) )
+                {
+                    // if there are more terms in the trie
+                    // just go down a level
+
+                    if ( Node_GetRight(currNode) > 1 ) 
+                    {
+                        currLvl++;
+                        _CurrNodeNdx += 1;
+                    }
+                    else {
+
+                        // There is no instance of this term in the trie.
+
+                        return(false);
+                    }
+                }
+                else    // We are at the end of the term to be found.
+                {
+                    if ( Node_GetTerminated(currNode) == true ) 
+                    {
+                        // Populate the addendum
+
+                        _CurrNodeNdx++;
+                        currNode += _NodeSize;
+
+                        addendumData.copy((char*) currNode, sizeof(Byte), _NodeSize);
+                        addendumData.resize(_NodeSize);
+
+                        return(true);
+                    }
+                    else {
+
+                        // There is no instance of this term in the trie.
+
+                        return(false);
+                    }
+
+                }
+            }
+	    }
+
+        return(false);
+    }
+    
+
+    //  Closeout this block of the McTrie
+
+    public void	EndLookup(void)
+    {
+    }
+
+    //  Walk the McTrie and print out the contents of the raw nodes
+
+    public void    WalkAndPrintRawNodes(void)
+    {
+	    Byte*	 CurrNode;		 // Pointer to the current node.
+
+	    // Initialize
+
+	    for ( _CurrNodeNdx = 0; _CurrNodeNdx < _NodeCnt; _CurrNodeNdx++ )
+	    {
+		    // Where we are
+
+		    CurrNode = _Block + (_CurrNodeNdx * _NodeSize);
+
+		    if (Node_GetSegment(CurrNode)[0] == 0)
+		    {
+			    break;
+		    }
+
+		    // Dump the Node Contents
+
+		    fprintf(stdout, "[%i] [", _CurrNodeNdx);
+
+            for ( size_t i = 0; i < _SegSize; i++ )
+            {
+			        if (Node_GetSegment(CurrNode)[i] != 0)
+			        {
+				        fprintf(stdout, "%c", Node_GetSegment(CurrNode)[i]);
+			        }
+                else {
+				        fprintf(stdout, " ");
+                }
+            }
+
+		    fprintf(stdout, "] ");
+
+		    // print out the other node attributes
+
+		    fprintf(stdout, " [%i] ", (unsigned int) Node_GetTerminated(CurrNode));
+		    fprintf(stdout, " [%i] ", (unsigned int) Node_GetRight(CurrNode));
+		    fprintf(stdout, "\n");
+	    }
+    }
+
+    //  Walk the McTrie and print out the terms
+
+    void    WalkAndPrintTerms(void)
+    {
+	    Byte*	currNode;		 // Pointer to the current node.
+	    Byte    currLvl;		 // Level of the current node.
+
+        Byte    termBfr[256 * 3];
+
+
+        typedef short int  Level;
+        typedef pair<Byte, Level>   NdxAndLvl;
+
+        // The NdxAndLvls queue is a sorted queue of the next index at 
+        // which the level is expected to change and what level it will change to.
+
+	    priority_queue<NdxAndLvl, vector<NdxAndLvl>,greater<NdxAndLvl> > 	NdxAndLvls;
+
+	    // Initialize
+
+	    currLvl = 0;
+
+        NdxAndLvls.push(NdxAndLvl(_NodeCnt-1,0));    // This should not be removed by the walking process
+	    NdxAndLvls.push(NdxAndLvl(Node_GetRight(_Block), 0));
+
+        // Walk through the nodes. 
+
+	    for ( _CurrNodeNdx = 0; _CurrNodeNdx < _NodeCnt; _CurrNodeNdx++ )
+	    {
+            // Determine whether or not we should jump down to a different level 
+
+            printf("Top of Loop: _CurrNodeNdx = %d\n", _CurrNodeNdx );
+            printf("Top of Loop: NdxAndLvls.top().first = %d\n", NdxAndLvls.top().first );
+            printf("Top of Loop: NdxAndLvls.top().second = %d\n", NdxAndLvls.top().second );
+
+            while ( (NdxAndLvls.size() > 0) && ( _CurrNodeNdx >= NdxAndLvls.top().first) )
+            {
+                currLvl = NdxAndLvls.top().second;
+                NdxAndLvls.pop();
+
+                printf("Popping off: NdxAndLvls.top().first = %d\n", NdxAndLvls.top().first );
+                printf("Popping off: NdxAndLvls.top().second = %d\n", NdxAndLvls.top().second );
+            }
+
+		    // Where we are
+
+		    currNode = _Block + (_CurrNodeNdx * _NodeSize);
+
+		    //
+		    // Now compose the term
+		    //
+
+		    // Copy the segment into the appropriate level of the term buffer
+
+		    memcpy( termBfr + (currLvl * _SegSize), Node_GetSegment(currNode), _SegSize);
+
+		    // If this node comprises a part of a whole term, print it.
+
+		    if ( Node_GetTerminated(currNode) == true )
+		    {
+                // Print out the term.
+
+			    for ( size_t i = 0; i < ((currLvl+1) * _SegSize); i++ )
+			    {
+				    if ( termBfr[i] != 0 )
+				    {
+					    fprintf(stdout, "%c", termBfr[i]);
+				    }
+			    }
+
+			    fprintf(stdout, " => ");
+		    }
+
+		    // Update the position indicators
+
+		    if ( Node_GetRight(currNode) >= 1 )
+		    {
+			    NdxAndLvls.push(NdxAndLvl(_CurrNodeNdx + Node_GetRight(currNode), currLvl));
+                printf("Adding On: _CurrNodeNdx = %d\n", _CurrNodeNdx );
+                printf("Adding On: NdxAndLvl.first = %d\n", _CurrNodeNdx + Node_GetRight(currNode) );
+                printf("Adding On: NdxAndLvl.second = %d\n", currLvl );
+
+                printf("Adding On: NdxAndLvls.top().first = %d\n", NdxAndLvls.top().first );
+                printf("Adding On: NdxAndLvls.top().second = %d\n", NdxAndLvls.top().second );
+
+                currLvl++;
+    	    }
+		    else // Right == 0
+		    {
+                currLvl++;
+		    }
+
+            // After all this , now print out the addendum data and advance the state
+
+		    if ( Node_GetTerminated(currNode) == true )
+		    {
+                // Print out the Addendum data
+
+                _CurrNodeNdx++;
+                currNode += _NodeSize;
+
+			    for ( size_t i = 0; i < _NodeSize; i++ )
+			    {
+				    fprintf(stdout, "%c", currNode[i]);
+			    }
+
+			    fprintf(stdout, "\n");
+            }
+	    }
+    }
+    
+
+
+    /**
+        Set the McTrie defaults for segment size of segmentSize    
+    */
+    
+
+    public  void    SetDefs(int segSize)
+    {
+        Precondition(segSize >= McTrie_DefSegSize);     // Test to verify that segment size is large enough.
+
+	    // Init Node attribute sizes
+
+	    _SegSize    = segSize;
+	    _OffsetSize = McTrie_DefOffsetSize;
+	    _TerminatorSize = McTrie_DefTerminatorSize;
+	    _RightSize  = McTrie_DefRightSize;
+
+	    _NodeSize = _SegSize + _TerminatorSize + _RightSize;
+    }
+
+
+    // Defaults for the class configuration
+
+    private int  McTrie_DefSegSize = 3;
+    private int  McTrie_DefOffsetSize = 4;
+    private int  McTrie_DefTerminatorSize = 1;
+    private int  McTrie_DefRightSize = 1;
+    private int  McTrie_DefNodeCnt = 256;
+    private int  McTrie_DefTermBfrSize = 1024;
+
+    //
+	// The sizes of all of the node attributes
+    //
+
+    //  Size of a term segment (bytes).
+
+	private int  _SegSize;
+
+    //  Size of a term offset (bytes).
+
+	private int  _OffsetSize;
+
+    //  Size of a term terminator (bytes).
+
+    private int  _TerminatorSize;
+
+    //  Size of a term right ndx offset (bytes).
+
+	private int  _RightSize;
+
+    //  Size of a Node (bytes).
+
+	private int	_NodeSize;
+
+    //  Number of nodes in a block (nodes).
+
+	private int  	_NodeCnt;
+
+    //  Size of the block (bytes).
+
+	private int  	_BlockSize;
+
+    //  The actual block.
+
+	private byte[] 	_Block;
+
+    //
+	// State and other info for walking and making the mctrie
+    //
+
+    //  Index of the current node.
+
+	int	_CurrNodeNdx;
+
+    //  Number of Nodes left to be filled.
+
+	int	_NodesAvail;
+
+    //  Tracks the current index for each active old node.
+
+	byte[]	_RefLvlNdxs;
+
+	//  Level of the deepest node in the reference (old) term (1 indexed).
+
+	int	_RefLvl;
+
+    //  Tracks the current index for each node from a new term.
+
+    byte[]	_NewLvlNdxs;
+
+	//  Old Term.
+
+	String	 _OldTerm;
+};
+
+//
+// A simple algorithm needed by some code somewhere
+//
+
+/*
+template <class ForwardIterator1, class ForwardIterator2>
+ForwardIterator2 first_mismatch(ForwardIterator1 First1, ForwardIterator1 Last1,
+	 ForwardIterator2 First2, ForwardIterator2 Last2)
+{
+	while ( First2 != Last2 && First1 != Last1 && *First2 == *First1 )
+	{
+		++First1;
+		++First2;
+	}
+
+	return(First2);
+}
+*/
+
+//
+// Node manipulation macros
+//
+// These should only be used by the McTrie class itself.
+//
+
+/*
+#define Node_GetSegment(NodeAddr)	(NodeAddr)
+#define Node_GetRight(NodeAddr)	*((NodeAddr) + _SegSize + _TerminatorSize)
+#define Node_GetTerminated(NodeAddr)	(bool) *((NodeAddr) + _SegSize)
+#define Node_GetAddendumData(NodeAddr)	(NodeAddr)
+
+#define Node_SetSegment(NodeAddr, NewSegAddr)	(memcpy( (void*) NodeAddr, (void*) NewSegAddr, _SegSize))
+#define Node_SetRight(NodeAddr, Value)				( ((*((char*)(NodeAddr) + _SegSize + _TerminatorSize))) = Value)
+#define Node_SetTerminated(NodeAddr, Value)		( ((*((char*)(NodeAddr) + _SegSize))) = Value)
+#define Node_SetAddendumData(NodeAddr, AddendumDataAddr)	(memcpy( (void*) NodeAddr, (void*) AddendumDataAddr, _NodeSize))
+
+#define GetNodeCnt(Len)  (Len / _SegSize)  +  ((Len % _SegSize) ? 1 : 0);
+*/
+

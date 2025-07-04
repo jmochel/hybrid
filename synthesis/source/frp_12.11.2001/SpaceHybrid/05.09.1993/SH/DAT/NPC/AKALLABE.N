@@ -1,0 +1,73 @@
+.Name Akallabeth
+.Title "Not There"
+.Race Wood Elf
+.Culture
+.Aspect 
+.PST 13
+.PEN 14     
+.DEX 19
+.PAG 15
+.PAW 16
+.MST 12     
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 16
+.HT 5'6"
+.WT 109
+.AGE 122
+.BeginDesc
+23-- A tall comely wood elf with dark hair, green eyes. Ambidextrous.
+.EndDesc
+.BeginSkills
+Movement, 10
+Movement:Invisible, 10
+Language: Wood Elven, 12
+Language: Cant, 8
+Language: Aroyan, 6
+Language: Trade, 4
+Cultural Lore: Thief, 8
+Cultural Lore: Sylvan, 12
+Cultural Lore: Caithnard, 2
+Weapon: Long Sword, 8
+Weapon: Sling, 8
+Weapon: Dagger, 5
+Florentine: Long Sword and Dagger, 6
+Pick Pockets, 6
+Detect Traps, 4
+Lore: Traps, 4
+Free Climbing, 5
+Lockpicking, 4
+Stealth:General, 8
+Stealth:Visual, 10
+Stealth:Auditory, 8
+Perception:Auditory, 4
+.EndSkills
+.Locale Travelling or Tirith
+.BeginKnownAssoc
+ Grod, Dalon, Koriel, Ezra, Hawkeye, and other priviledged   
+ persons.
+.EndKnownAssoc
+.BeginSecretAssoc
+Many people, poorer than before.  Also, Golden Rat in Cathneard
+.EndSecretAssoc
+.BeginFriends 
+Perachin the Witch in Carola
+.EndFriends
+.BeginComment
+Wants to build a nice mansion with a small casino to rob the other rich
+and improve his chance of material gain.                                        
+Good with the anal Long Sword.                                                  
+Doesn't enjoy physical labor, but will do it when necessary.
+.EndComment
+.BeginPossess
+Mithril Long Sword
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

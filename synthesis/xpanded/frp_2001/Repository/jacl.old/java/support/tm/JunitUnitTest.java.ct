@@ -1,0 +1,2049 @@
+..  Contains Declaration of <???>
+..
+..  Author Jim Jackl-Mochel
+..  Date 11.09.99
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.1 $
+..  $Date: 1999/11/12 19:29:58 $
+..
+..  ===================================================
+..
+..  Desc 
+..
+..      Generates Unit Test class for a basic java class
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+
+.insert Util.java.ct
+
+.macro GenUnitTest classname
+.redirect $(classname)UnitTest.java
+/*
+    @Copyright
+*/
+
+// Package Declaration
+
+package jacl.???;
+
+// Imports
+
+import java.util.*;
+import junit.framework.*;
+
+/**
+    Unit Test Case for $(classname)
+
+    <p>This class forms a detailed test case for $(classname) designed to be 
+    run standalone or by JUnit's TestRunner
+
+    @author Jim Jackl-Mochel
+    @author $$Author: jmochel $$
+
+    @see $(classname)
+*/
+
+public class $(classname)UnitTest extends TestCase
+{
+    //#################################################################
+    //#
+    //#     Standard Unit Test Case support code.
+    //#
+    //#################################################################
+
+    /**
+        Constructor for the test case.
+    */
+    
+    public $(classname)UnitTest(String name)
+    {
+        super(name);
+    }
+
+    /**
+        Main
+
+        <p>To be used for running the unit test without TestRunner
+    */
+
+   	public static void main(String[] args) 
+    {
+		junit.textui.TestRunner.run(suite());
+	}
+
+    /**
+        The test suite
+
+        <p>Returns a test suite that contains all the tests to be run by 
+        the unit test.
+    */
+    
+    public static Test suite()
+    {
+        // Tells the test framework to exercise all methods that
+        // take a void and start with "test"
+
+        return new TestSuite($(classname)UnitTest.class);
+    }
+
+    
+    /**
+        Initializes any test specific code that has to persist from test call to test call.
+    */
+    
+    protected void setUp()
+    {
+    }
+
+    /**
+        Uninitializes any test specific code that has to persist from test call to test call.
+    */
+    
+    protected void tearDown()
+    {
+    }
+
+    //#################################################################
+    //#
+    //#     Tests for Proof of Existence.
+    //#
+    //#     Proof of existence demonstrates that a feature has been 
+    //#     minimally implemented
+    //#
+    //#################################################################
+    
+
+    /**
+        Prove that the classes can be constructed
+
+        <p>Proof of existence demonstrates that a feature has been minimally implemented
+    */
+
+    public void testProofOfExistenceForCtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the void Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test of the String Constructor
+        
+        try 
+        {    
+            String  ctorInput = new String("Test Input");
+
+            test$(classname) = new $(classname)(ctorInput);
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)(String) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)(String) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)(String)", test$(classname));
+
+        }
+
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)(<???>);
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)(<???>) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)(<???>) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)(<???>)", test$(classname));
+
+        }
+
+    }
+    
+    /**
+        Prove that the accessors and mutators "exist"
+
+        <p>Proof of existence demonstrates that a feature has been minimally implemented
+    */
+
+    public void testProofOfExistenceForAccessorsAndMtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+                
+        // Establish the canonical attributes (variables)
+        
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(attrKeyType) $(canonAttrKeyName) = new $(attrKeyType)("");
+        assertNotNull("Unable to construct canonical key attribute $(canonAttrKeyName)", $(canonAttrKeyName));
+
+        $(attrValueType) $(canonAttrValueName) = new $(attrValueType)("");
+        assertNotNull("Unable to construct canonical value attribute $(canonAttrValueName)", $(canonAttrValueName));
+.else
+.. attrName is a Array 
+        int $(canonAttrName)Index = 0;
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.else
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.endforeach
+
+        // Establish the test attributes (variables)
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+        $(attrValueType) $(testAttrValueName) = null;
+.else
+.. attrName is a Array 
+        $(attrType) $(testAttrName) = null;
+.endif
+.else
+        $(attrType) $(testAttrName) = null;
+.endif
+.endforeach
+
+        //
+        // Exercise the mutators
+        //
+
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        test$(classname).add$(attrName)($(attrKeyName),$(attrValueName));
+.else
+.. attrName is a Array 
+
+        test$(classname).add$(attrName)($(canonAttrName)Index,$(canonAttrName));
+.endif
+
+.else
+        test$(classname).set$(attrName)($(canonAttrName));
+.endif
+.endforeach
+
+        //
+        // Exercise the Accessors and verify we get something back.
+        //
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        // Verify the existence of the get$(attrValueName) method
+
+        $(testAttrValueName) = test$(classname).get$(attrValueName)($(canonAttrKeyName));
+        assertNotNull($(testAttrValueName));
+.else
+.. attrName is a Array 
+
+       // Verify the existence of the get$(attrName) method
+
+        $(testAttrName) = test$(classname).get$(attrName)($(canonAttrName)Index);
+        assertNotNull($(testAttrName));
+.endif
+.else
+
+       // Verify the existence of the get$(attrName) method
+
+        $(testAttrName) = test$(classname).get$(attrName)();
+        assertNotNull($(testAttrName));
+.endif
+.endforeach
+
+    }
+
+    /**
+        Prove that the core methods "exist"
+
+        <p>Proof of existence demonstrates that a feature has been minimally implemented
+    */
+
+    public void testProofOfExistenceForCoreMethods()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test toString
+
+        String canonDesc = new String("Test String");
+
+        String desc = test$(classname).toString();
+
+        assertEquals(canonDesc, desc);
+
+        // Test Hash
+
+        int canonHashCode = 0;
+
+        int hashCode = test$(classname).hashCode();
+
+        assertEquals(canonHashCode, hashCode);
+
+        // Test Serialization
+
+        try 
+        {
+            $(classname) loaded$(classname) = null;
+
+            ObjectOutputStream objOut = null;
+            ObjectInputStream  objIn = null;
+            FileOutputStream fileOut = null;
+            FileInputStream  fileIn = null;
+            File             tempFile = null;
+
+            // Create the temp file
+
+            tempFile = File.createTempFile("test$(classname)", "serialized",  new File("."));
+            assertNotNull(tempFile);
+
+            // Open the streams for writing
+
+            fileOut = new FileOutputStream(tempFile);
+            assertNotNull(fileOut);
+
+            objOut = new ObjectOutputStream(fileOut);
+            assertNotNull(objOut);
+
+            // Write the test$(classname)
+
+            objOut.writeObject(test$(classname));
+            objOut.close();
+
+            // Reopen the file for read.
+            
+            fileIn = new FileInputStream(tempFile);
+            assertNotNull(fileIn);
+
+            objIn = new ObjectInputStream(fileIn);
+            assertNotNull(objIn);
+          
+            // Read in the file to the new instance.
+
+            loaded$(classname) = objIn.readObject();
+            objIn.close();
+
+            // Compare the two.
+
+            assertEquals(test$(classname),loaded$(classname));
+
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.ClassNotFoundException classNotFoundError)
+        {
+            fail("threw java.lang.ClassNotFoundException" + classNotFoundError);
+        }
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("", test$(classname));
+
+        }
+    }
+   
+
+    /**
+        Prove that the key behaviors "exist"
+
+        <p>Proof of existence demonstrates that a feature has been minimally implemented
+    */
+
+    public void testProofOfExistenceForKeyBehaviors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Test key behaviour
+
+        <???>
+    }
+
+    //#################################################################
+    //#
+    //#     Tests for Basic Functionality
+    //#
+    //#     Proves that the classes behave as they should under 
+    //#     non-stressful conditions.
+    //#
+    //#################################################################
+
+    /**
+        Prove that the classes construct as they should under non-stressful conditions.
+    */
+
+    public void testBasicFunctionalityOfCtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Validate that the object is valid as far as it is concerned
+
+        assert(test$(classname).isValid());
+    }
+    
+    /**
+        Prove that the accessors and mutators work behave properly under non-stressful conditions.
+    */
+
+    public void testBasicFunctionalityOfAccessorsAndMtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+        
+        // Establish the canonical attributes (variables)
+        
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(attrKeyType) $(canonAttrKeyName) = new $(attrKeyType)("");
+        assertNotNull("Unable to construct canonical key attribute $(canonAttrKeyName)", $(canonAttrKeyName));
+
+        $(attrValueType) $(canonAttrValueName) = new $(attrValueType)("");
+        assertNotNull("Unable to construct canonical value attribute $(canonAttrValueName)", $(canonAttrValueName));
+.else
+.. attrName is a Array 
+        int $(canonAttrName)Index = 0;
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.else
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.endforeach
+
+        // Establish the test attributes (variables)
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+        $(attrValueType) $(testAttrValueName) = null;
+.else
+.. attrName is a Array 
+        $(attrType) $(testAttrName) = null;
+.endif
+.else
+        $(attrType) $(testAttrName) = null;
+.endif
+.endforeach
+
+        //
+        // Exercise the mutators
+        //
+
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        test$(classname).add$(attrName)($(attrKeyName),$(attrValueName));
+.else
+.. attrName is a Array 
+
+        test$(classname).add$(attrName)($(canonAttrName)Index,$(canonAttrName));
+.endif
+
+.else
+        test$(classname).set$(attrName)($(canonAttrName));
+.endif
+.endforeach
+
+        //
+        // Exercise the Accessors and verify we get something back.
+        //
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(testAttrValueName) = test$(classname).get$(attrValueName)($(canonAttrKeyName));
+        assertEquals($(canonAttrValueName), $(testAttrValueName));
+.else
+.. attrName is a Array 
+
+        $(testAttrName) = test$(classname).get$(attrName)($(canonAttrName)Index);
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.else
+
+        $(testAttrName) = test$(classname).get$(attrName)();
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.endforeach
+    }
+    
+    /**
+        Prove that the core methods behave properly under non-stressful conditions.
+    */
+
+    public void testBasicFunctionalityOfCoreMethods()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test toString
+
+        String canonDesc = new String("Test String");
+
+        String desc = test$(classname).toString();
+
+        assertEquals(canonDesc, desc);
+
+        // Test Hash
+
+        int canonHashCode = 0;
+
+        int hashCode = test$(classname).hashCode();
+
+        assertEquals(canonHashCode, hashCode);
+
+        // Test Serialization
+
+        try 
+        {
+            $(classname) loaded$(classname) = null;
+
+            ObjectOutputStream objOut = null;
+            ObjectInputStream  objIn = null;
+            FileOutputStream fileOut = null;
+            FileInputStream  fileIn = null;
+            File             tempFile = null;
+
+            // Create the temp file
+
+            tempFile = File.createTempFile("test$(classname)", "serialized",  new File("."));
+            assertNotNull(tempFile);
+
+            // Open the streams for writing
+
+            fileOut = new FileOutputStream(tempFile);
+            assertNotNull(fileOut);
+
+            objOut = new ObjectOutputStream(fileOut);
+            assertNotNull(objOut);
+
+            // Write the test$(classname)
+
+            objOut.writeObject(test$(classname));
+            objOut.close();
+
+            // Reopen the file for read.
+            
+            fileIn = new FileInputStream(tempFile);
+            assertNotNull(fileIn);
+
+            objIn = new ObjectInputStream(fileIn);
+            assertNotNull(objIn);
+          
+            // Read in the file to the new instance.
+
+            loaded$(classname) = objIn.readObject();
+            objIn.close();
+
+            // Compare the two.
+
+            assertEquals(test$(classname),loaded$(classname));
+
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.ClassNotFoundException classNotFoundError)
+        {
+            fail("threw java.lang.ClassNotFoundException" + classNotFoundError);
+        }
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("", test$(classname));
+
+        }
+
+    }
+    
+    /**
+        Prove that the key behaviours behave properly under non-stressful conditions.
+    */
+
+    public void testBasicFunctionalityOfKeyBehaviors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Test the basic functionality 
+        
+        <???>
+
+    }
+
+    //#################################################################
+    //#
+    //#     Tests for Boundary Functionality
+    //#
+    //#     Boundary tests exercise a feature under conditions that 
+    //#     are at the edge of legal according to the API. Geared 
+    //#     towards finding off-by-one errors, etc.
+    //#
+    //#################################################################
+
+
+    /**
+        Prove that the classes construct as they should with boundary inputs
+
+        <P>Boundary tests exercise a feature under conditions that are at the 
+        edge of legal according to the API. Geared towards finding off-by-one errors, etc.
+    */
+
+    public void testBoundaryFunctionalityOfCtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Validate that the object is valid as far as it is concerned
+
+        assert(test$(classname).isValid());
+    }
+    
+    /**
+        Prove that the accessors and mutators work with boundary inputs
+
+        <P>Boundary tests exercise a feature under conditions that are at the 
+        edge of legal according to the API. Geared towards finding off-by-one errors, etc.
+    */
+
+    public void testBoundaryFunctionalityOfAccessorsAndMtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+        
+        // Establish the canonical attributes (variables)
+        
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(attrKeyType) $(canonAttrKeyName) = new $(attrKeyType)("");
+        assertNotNull("Unable to construct canonical key attribute $(canonAttrKeyName)", $(canonAttrKeyName));
+
+        $(attrValueType) $(canonAttrValueName) = new $(attrValueType)("");
+        assertNotNull("Unable to construct canonical value attribute $(canonAttrValueName)", $(canonAttrValueName));
+.else
+.. attrName is a Array 
+        int $(canonAttrName)Index = 0;
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.else
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.endforeach
+
+        // Establish the test attributes (variables)
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+        $(attrValueType) $(testAttrValueName) = null;
+.else
+.. attrName is a Array 
+        $(attrType) $(testAttrName) = null;
+.endif
+.else
+        $(attrType) $(testAttrName) = null;
+.endif
+.endforeach
+
+        //
+        // Exercise the mutators
+        //
+
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        test$(classname).add$(attrName)($(attrKeyName),$(attrValueName));
+.else
+.. attrName is a Array 
+
+        test$(classname).add$(attrName)($(canonAttrName)Index,$(canonAttrName));
+.endif
+
+.else
+        test$(classname).set$(attrName)($(canonAttrName));
+.endif
+.endforeach
+
+        //
+        // Exercise the Accessors and verify we get something back.
+        //
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(testAttrValueName) = test$(classname).get$(attrValueName)($(canonAttrKeyName));
+        assertEquals($(canonAttrValueName), $(testAttrValueName));
+.else
+.. attrName is a Array 
+
+        $(testAttrName) = test$(classname).get$(attrName)($(canonAttrName)Index);
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.else
+
+        $(testAttrName) = test$(classname).get$(attrName)();
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.endforeach
+    }
+    
+    /**
+        Prove that the core methods work with boundary inputs
+
+        <P>Boundary tests exercise a feature under conditions that are at the 
+        edge of legal according to the API. Geared towards finding off-by-one errors, etc.
+    */
+
+    public void testBoundaryFunctionalityOfCoreMethods()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test toString
+
+        String canonDesc = new String("Test String");
+
+        String desc = test$(classname).toString();
+
+        assertEquals(canonDesc, desc);
+
+        // Test Hash
+
+        int canonHashCode = 0;
+
+        int hashCode = test$(classname).hashCode();
+
+        assertEquals(canonHashCode, hashCode);
+
+        // Test Serialization
+
+        try 
+        {
+            $(classname) loaded$(classname) = null;
+
+            ObjectOutputStream objOut = null;
+            ObjectInputStream  objIn = null;
+            FileOutputStream fileOut = null;
+            FileInputStream  fileIn = null;
+            File             tempFile = null;
+
+            // Create the temp file
+
+            tempFile = File.createTempFile("test$(classname)", "serialized",  new File("."));
+            assertNotNull(tempFile);
+
+            // Open the streams for writing
+
+            fileOut = new FileOutputStream(tempFile);
+            assertNotNull(fileOut);
+
+            objOut = new ObjectOutputStream(fileOut);
+            assertNotNull(objOut);
+
+            // Write the test$(classname)
+
+            objOut.writeObject(test$(classname));
+            objOut.close();
+
+            // Reopen the file for read.
+            
+            fileIn = new FileInputStream(tempFile);
+            assertNotNull(fileIn);
+
+            objIn = new ObjectInputStream(fileIn);
+            assertNotNull(objIn);
+          
+            // Read in the file to the new instance.
+
+            loaded$(classname) = objIn.readObject();
+            objIn.close();
+
+            // Compare the two.
+
+            assertEquals(test$(classname),loaded$(classname));
+
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.ClassNotFoundException classNotFoundError)
+        {
+            fail("threw java.lang.ClassNotFoundException" + classNotFoundError);
+        }
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("", test$(classname));
+
+        }
+    }
+    
+    /**
+        Prove that the key behaviors work with boundary inputs
+
+        <P>Boundary tests exercise a feature under conditions that are at the 
+        edge of legal according to the API. Geared towards finding off-by-one errors, etc.
+    */
+
+    public void testBoundaryFunctionalityOfKeyBehaviors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Test key behaviors
+
+        <???>
+    }
+
+    //#################################################################
+    //#
+    //#     Tests for Beyond Boundary Functionality
+    //#
+    //#     Beyond Boundary tests exercise a feature under conditions 
+    //#     that are beyond the edge of legal according to the API. 
+    //#     Geared towards exercising recovery from error conditions.
+    //#
+    //#################################################################
+
+    /**
+        Prove that the classes construct as they should with beyond boundary inputs
+
+        <P>Beyond Boundary tests exercise a feature under conditions that are beyond the 
+        edge of legal according to the API. Geared towards excercising recovery from error 
+        conditions.
+    */
+
+    public void testBeyondBoundaryFunctionalityOfCtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Validate that the object is valid as far as it is concerned
+
+        assert(test$(classname).isValid());
+    }
+    
+    /**
+        Prove that the accessors and mutators work with beyond boundary inputs
+
+        <P>Beyond Boundary tests exercise a feature under conditions that are beyond the 
+        edge of legal according to the API. Geared towards excercising recovery from error 
+        conditions.
+    */
+    
+    public void testBeyondBoundaryFunctionalityOfAccessorsAndMtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+        
+        // Establish the canonical attributes (variables)
+        
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(attrKeyType) $(canonAttrKeyName) = new $(attrKeyType)("");
+        assertNotNull("Unable to construct canonical key attribute $(canonAttrKeyName)", $(canonAttrKeyName));
+
+        $(attrValueType) $(canonAttrValueName) = new $(attrValueType)("");
+        assertNotNull("Unable to construct canonical value attribute $(canonAttrValueName)", $(canonAttrValueName));
+.else
+.. attrName is a Array 
+        int $(canonAttrName)Index = 0;
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.else
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.endforeach
+
+        // Establish the test attributes (variables)
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+        $(attrValueType) $(testAttrValueName) = null;
+.else
+.. attrName is a Array 
+        $(attrType) $(testAttrName) = null;
+.endif
+.else
+        $(attrType) $(testAttrName) = null;
+.endif
+.endforeach
+
+        //
+        // Exercise the mutators
+        //
+
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        test$(classname).add$(attrName)($(attrKeyName),$(attrValueName));
+.else
+.. attrName is a Array 
+
+        test$(classname).add$(attrName)($(canonAttrName)Index,$(canonAttrName));
+.endif
+
+.else
+        test$(classname).set$(attrName)($(canonAttrName));
+.endif
+.endforeach
+
+        //
+        // Exercise the Accessors and verify we get something back.
+        //
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(testAttrValueName) = test$(classname).get$(attrValueName)($(canonAttrKeyName));
+        assertEquals($(canonAttrValueName), $(testAttrValueName));
+.else
+.. attrName is a Array 
+
+        $(testAttrName) = test$(classname).get$(attrName)($(canonAttrName)Index);
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.else
+
+        $(testAttrName) = test$(classname).get$(attrName)();
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.endforeach
+    }
+    
+    /**
+        Prove that the core methods work with beyond boundary inputs
+
+        <P>Beyond Boundary tests exercise a feature under conditions that are beyond the 
+        edge of legal according to the API. Geared towards excercising recovery from error 
+        conditions.
+    */
+    
+    public void testBeyondBoundaryFunctionalityOfCoreMethods()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test toString
+
+        String canonDesc = new String("Test String");
+
+        String desc = test$(classname).toString();
+
+        assertEquals(canonDesc, desc);
+
+        // Test Hash
+
+        int canonHashCode = 0;
+
+        int hashCode = test$(classname).hashCode();
+
+        assertEquals(canonHashCode, hashCode);
+
+        // Test Serialization
+
+        try 
+        {
+            $(classname) loaded$(classname) = null;
+
+            ObjectOutputStream objOut = null;
+            ObjectInputStream  objIn = null;
+            FileOutputStream fileOut = null;
+            FileInputStream  fileIn = null;
+            File             tempFile = null;
+
+            // Create the temp file
+
+            tempFile = File.createTempFile("test$(classname)", "serialized",  new File("."));
+            assertNotNull(tempFile);
+
+            // Open the streams for writing
+
+            fileOut = new FileOutputStream(tempFile);
+            assertNotNull(fileOut);
+
+            objOut = new ObjectOutputStream(fileOut);
+            assertNotNull(objOut);
+
+            // Write the test$(classname)
+
+            objOut.writeObject(test$(classname));
+            objOut.close();
+
+            // Reopen the file for read.
+            
+            fileIn = new FileInputStream(tempFile);
+            assertNotNull(fileIn);
+
+            objIn = new ObjectInputStream(fileIn);
+            assertNotNull(objIn);
+          
+            // Read in the file to the new instance.
+
+            loaded$(classname) = objIn.readObject();
+            objIn.close();
+
+            // Compare the two.
+
+            assertEquals(test$(classname),loaded$(classname));
+
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.ClassNotFoundException classNotFoundError)
+        {
+            fail("threw java.lang.ClassNotFoundException" + classNotFoundError);
+        }
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("", test$(classname));
+
+        }
+    }
+
+    /**
+        Prove that the key behaviors work with beyond boundary inputs
+
+        <P>Beyond Boundary tests exercise a feature under conditions that are beyond the 
+        edge of legal according to the API. Geared towards exercising recovery from error 
+        conditions.
+    */
+    
+    public void testBeyondBoundaryFunctionalityOfKeyBehaviors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Test key behaviors
+
+        <???>
+    }
+
+    //#################################################################
+    //#
+    //#     Tests for Destructive Functionality
+    //#
+    //#     Destructive conditions include passing in null for objects, 
+    //#     putting the methods under extreme load, etc.
+    //#
+    //#################################################################
+
+    /**
+        Prove that the classes construct as they should under destructive conditions
+        
+        <p>Destructive conditions include passing in null for objects, putting the 
+        methods under extreme load, etc.
+    */
+
+    public void testDestructiveFunctionalityOfCtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Validate that the object is valid as far as it is concerned
+
+        assert(test$(classname).isValid());
+    }
+    
+    /**
+        Prove that the accessors and mutators work under destructive conditions
+       
+        <p>Destructive conditions include passing in null for objects, putting the 
+        methods under extreme load, etc.
+    */
+
+    public void testDestructiveFunctionalityOfAccessorsAndMtors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+        
+        // Establish the canonical attributes (variables)
+        
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(attrKeyType) $(canonAttrKeyName) = new $(attrKeyType)("");
+        assertNotNull("Unable to construct canonical key attribute $(canonAttrKeyName)", $(canonAttrKeyName));
+
+        $(attrValueType) $(canonAttrValueName) = new $(attrValueType)("");
+        assertNotNull("Unable to construct canonical value attribute $(canonAttrValueName)", $(canonAttrValueName));
+.else
+.. attrName is a Array 
+        int $(canonAttrName)Index = 0;
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.else
+        $(attrType) $(canonAttrName) = new $(attrType)("");
+        assertNotNull("Unable to construct canonical attribute $(canonAttrName)", $(canonAttrName));
+.endif
+.endforeach
+
+        // Establish the test attributes (variables)
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+        $(attrValueType) $(testAttrValueName) = null;
+.else
+.. attrName is a Array 
+        $(attrType) $(testAttrName) = null;
+.endif
+.else
+        $(attrType) $(testAttrName) = null;
+.endif
+.endforeach
+
+        //
+        // Exercise the mutators
+        //
+
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        test$(classname).add$(attrName)($(attrKeyName),$(attrValueName));
+.else
+.. attrName is a Array 
+
+        test$(classname).add$(attrName)($(canonAttrName)Index,$(canonAttrName));
+.endif
+
+.else
+        test$(classname).set$(attrName)($(canonAttrName));
+.endif
+.endforeach
+
+        //
+        // Exercise the Accessors and verify we get something back.
+        //
+
+.foreach field ${fields $(classname)}
+.set attrName $(field)
+.set canonAttrName canon$(attrName)
+.set testAttrName test$(attrName)
+.set attrType ${typename $(classname) $(field)}
+.. If it is has a array indicator
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.. Check if it is a MAP
+.if ${== ${call IsMapType $(attrType)} 1}
+.set attrKeyType    ${call GetMapKeyType $(attrType)}
+.set attrKeyName    ${call GetMapKeyName $(attrType)}
+.set canonAttrKeyName   canonKey${call GetMapKeyName $(attrType)}
+.set testAttrKeyName    testKey${call GetMapKeyName $(attrType)}
+.set attrValueType  ${call GetMapValueType $(attrType)}
+.set attrValueName  ${call GetMapValueName $(attrType)}
+.set canonAttrValueName     canonValue${call GetMapValueName $(attrType)}
+.set testAttrValueName      testValue${call GetMapValueName $(attrType)}
+
+        $(testAttrValueName) = test$(classname).get$(attrValueName)($(canonAttrKeyName));
+        assertEquals($(canonAttrValueName), $(testAttrValueName));
+.else
+.. attrName is a Array 
+
+        $(testAttrName) = test$(classname).get$(attrName)($(canonAttrName)Index);
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.else
+
+        $(testAttrName) = test$(classname).get$(attrName)();
+        assertEquals($(canonAttrName), $(testAttrName));
+.endif
+.endforeach
+    }
+
+    
+    /**
+        Prove that the core methods with under destructive conditions
+       
+        <p>Destructive conditions include passing in null for objects, putting the 
+        methods under extreme load, etc.
+    */
+
+    public void testDestructiveFunctionalityOfCoreMethods()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Test of the <???> Constructor
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname)() : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname)() : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)()", test$(classname));
+
+        }
+
+        // Test toString
+
+        String canonDesc = new String("Test String");
+
+        String desc = test$(classname).toString();
+
+        assertEquals(canonDesc, desc);
+
+        // Test Hash
+
+        int canonHashCode = 0;
+
+        int hashCode = test$(classname).hashCode();
+
+        assertEquals(canonHashCode, hashCode);
+
+        // Test Serialization
+
+        try 
+        {
+            $(classname) loaded$(classname) = null;
+
+            ObjectOutputStream objOut = null;
+            ObjectInputStream  objIn = null;
+            FileOutputStream fileOut = null;
+            FileInputStream  fileIn = null;
+            File             tempFile = null;
+
+            // Create the temp file
+
+            tempFile = File.createTempFile("test$(classname)", "serialized",  new File("."));
+            assertNotNull(tempFile);
+
+            // Open the streams for writing
+
+            fileOut = new FileOutputStream(tempFile);
+            assertNotNull(fileOut);
+
+            objOut = new ObjectOutputStream(fileOut);
+            assertNotNull(objOut);
+
+            // Write the test$(classname)
+
+            objOut.writeObject(test$(classname));
+            objOut.close();
+
+            // Reopen the file for read.
+            
+            fileIn = new FileInputStream(tempFile);
+            assertNotNull(fileIn);
+
+            objIn = new ObjectInputStream(fileIn);
+            assertNotNull(objIn);
+          
+            // Read in the file to the new instance.
+
+            loaded$(classname) = objIn.readObject();
+            objIn.close();
+
+            // Compare the two.
+
+            assertEquals(test$(classname),loaded$(classname));
+
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.ClassNotFoundException classNotFoundError)
+        {
+            fail("threw java.lang.ClassNotFoundException" + classNotFoundError);
+        }
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("", test$(classname));
+
+        }
+    }
+
+    /**
+        Prove that the key behaviors work under destructive conditions
+       
+        <p>Destructive conditions include passing in null for objects, putting the 
+        methods under extreme load, etc.
+    */
+
+    public void testDestructiveFunctionalityOfKeyBehaviors()
+    {
+        $(classname) test$(classname) = null;
+        
+        // Create the test$(classname)
+        
+        try 
+        {    
+            test$(classname) = new $(classname)();
+        }
+/*
+        catch(<specificException> <specificError>)
+        {
+            fail("Unable to construct test$(classname) : threw <specificException>" + <specificException>);
+        }
+*/
+        catch(java.lang.RuntimeException runtimeError)
+        {
+            fail("Unable to construct test$(classname) : threw java.lang.RuntimeException" + runtimeError);
+        }
+        finally 
+        {
+            assertNotNull("Unable to construct test$(classname)", test$(classname));
+
+        }
+
+        // Test key behaviors
+
+        <???>
+    }
+}
+.endredirect
+.endmacro
+
+.foreach Class ${classlist}
+.set classname $(Class)
+Status : Generating $(classname)UnitTest
+${call GenUnitTest $(classname) }
+.endforeach
+..
+..  EOF
+..

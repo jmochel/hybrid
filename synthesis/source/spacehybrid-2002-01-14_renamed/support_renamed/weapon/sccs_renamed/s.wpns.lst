@@ -1,0 +1,54 @@
+h50329
+s 00026/00000/00000
+d D 1.1 99/12/02 15:58:09 jmochel 2 1
+cC
+cK12129
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:58:06 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Support/weapon/wpns.lst
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44988
+cPSupport/weapon/wpns.lst
+cReb47863b5cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+ Ball and Chain                     spd:  8 Damage  13
+ Bardiche                           spd: 12 Damage  14
+ Bastard Sword                      spd: 10 Damage  13
+ Battle Axe                         spd:  7 Damage  10
+ Bo                                 spd: 11 Damage  19
+ Bokken                             spd: 11 Damage  20
+ Boomerang                          spd:  7 Damage  18
+ Bullwhip                           spd: 11 Damage  14
+ Cudgel                             spd:  8 Damage  15
+ Francisca                          spd:  7 Damage  10
+ Hatchet                            spd:  6 Damage   9
+ Jo                                 spd:  9 Damage  18
+ Katana                             spd: 11 Damage  15
+ Kukri                              spd:  7 Damage  13
+ Mace                               spd:  6 Damage  11
+ Nunchaku                           spd:  7 Damage  13
+ One Bladed Axe                     spd:  9 Damage  12
+ One Sided Dagger                   spd:  6 Damage   9
+ Pike                               spd: 15 Damage  11
+ QuarterStaff                       spd: 10 Damage  17
+ Saber                              spd:  7 Damage  11
+ Sai                                spd:  7 Damage  13
+ Short Sword                        spd:  7 Damage  11
+ Two Bladed Axe                     spd:  8 Damage  10
+ Two Sided Dagger                   spd:  6 Damage  13
+ Zwiehander                         spd: 11 Damage  12
+E 2
+I 1
+E 1

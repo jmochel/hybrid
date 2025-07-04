@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad Software//DTD HoTMetaL PRO 6.0::19990601::extensions to HTML 4.0//EN" "hmpro6.dtd">
+<HTML> 
+    <HEAD> 
+        <TITLE></TITLE> 
+    </HEAD> 
+    <BODY> 
+        <H1>WebLogic Server 5.1</H1> 
+        <H2>Installation</H2> 
+        <UL> 
+            <LI>Perform the install from the the BEA WebLogic Evaluation CD.</LI> 
+        </UL> 
+        <H2>Configuration</H2> 
+        <UL> 
+            <LI>Copy the <A HREF="WebLogicLicense.xml">WebLogicLicense.xml</A> file to \WebLogic\License\</LI> 
+            <LI> Set environment variables 
+                <UL> 
+                    <LI><B>path=</B>%JAVA_SDK%\bin;%WEBLOGIC%\bin\oci815_8;%WEBLOGIC%\bin</LI> 
+                </UL></LI> 
+        </UL> 
+        <H2>WebLogic Properties</H2> 
+        <P>These describe the changes that we have done to the WebLogic properties file to get it all to work.</P> 
+        <UL> 
+            <LI>Edit any references to WebLogic or JDK directories </LI> 
+            <LI>Add a connection pool 
+                <P><CODE>#  <BR># Add a connection pool <BR># Substitute your development directory for D:\pics
+
+<BR>#<BR>weblogic.jdbc.connectionPool.pics=\
+    url=jdbc:weblogic:oracle,\
+    driver=weblogic.jdbc.oci.Driver,\
+    loginDelaySecs=1,\
+    initialCapacity=4,\
+    maxCapacity=10,\
+    capacityIncrement=2,\
+    allowShrinking=true,\
+    shrinkPeriodMins=15,\
+    refreshMinutes=10,\
+    props=user=pics;password=pics;server=PICS.BEDFORD.FOLIAGE.COM
+
+# <BR># pics is the user name for the Oracle database.   <BR># pics.bedford.foliage.com is the TNS <BR># service name for Oracle.  The Oracle database will require<BR>
+                # you to run
+Net8 config
+<BR># for this to work
+(when the database is first set up)</CODE></P></LI> 
+            <LI>Give people permission to use the database 
+                <P><CODE>weblogic.allow.reserve.weblogic.jdbc.connectionPool.pics=everyone</CODE></P></LI> 
+            <LI>Make it possible to use JDBC to get to the data source</LI> 
+        </UL> 
+        <BLOCKQUOTE> 
+            <P><CODE>	weblogic.jdbc.TXDataSource.weblogic.jdbc.jts.pics=pics</CODE></P></BLOCKQUOTE> 
+        <UL> 
+            <LI>To deploy an EJB 
+                <UL> 
+                    <LI> change the weblogic.ejb.deploy statement 
+                        <P><CODE>#
+<BR># PICS
+<BR>#
+<BR># Substitute your development directory for D:\pics<BR><BR>weblogic.ejb.deploy=\<BR>
+	D:/pics/deployment/nmc2.jar
+
+</CODE></P></LI> 
+                    <LI>Add the EJB to /weblogic/myserver/serverclasses<BR></LI> 
+                </UL></LI> 
+            <LI>Copy any NMC2 html (we don't have any, yet) files to the weblogic/myserver/public_html directory. </LI> 
+        </UL> 
+        <H2>Debugging</H2> 
+        <P>Kawa's web site has a good set of tutorials on debugging EJBs and Servlets in WebLogic
+            <A HREF="http://penguin.tek-tools.com/kawa/docs/tutorial.htm#ejb">http://penguin.tek-tools.com/kawa/docs/tutorial.htm#ejb</A></P> 
+        <H2>Troubleshooting</H2> </BODY>
+</HTML>

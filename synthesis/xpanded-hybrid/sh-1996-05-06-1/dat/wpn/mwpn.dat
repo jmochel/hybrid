@@ -1,0 +1,166 @@
+.Name Fist
+.Type HTH
+.DamageType Crush
+.Length .1
+.Mass .1
+.Symmetry VerySymmetrical
+.MDist VeryUniform
+.Hands 1
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Foot
+.Type HTH
+.DamageType Crush
+.Length 1 
+.Mass  3
+.Symmetry Symmetrical
+.MDist VeryUniform
+.Hands 1
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Truncheon
+.Type Stick
+.DamageType Crush
+.Length .5
+.Mass 1.2
+.Symmetry Symmetrical
+.MDist VeryUniform
+.Hands 1
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Jo
+.Type Stick
+.DamageType Crush
+.Length 1.2
+.Mass .8
+.Symmetry VerySymmetrical
+.MDist VeryUniform
+.Hands 2
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Quarter Staff
+.Type Stick
+.DamageType Crush
+.Length 1.8
+.Mass 1.8
+.Symmetry VerySymmetrical
+.MDist VeryUniform
+.Hands 2
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Bo
+.Type Stick
+.DamageType Crush
+.Length 2.8
+.Mass 1.4
+.Symmetry VerySymmetrical
+.MDist VeryUniform
+.Hands 2
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name One Edge Dagger
+.Type Blade
+.DamageType Cut
+.Length .3
+.Mass .4
+.Symmetry NotSymmetrical
+.MDist NotUniform
+.Hands 1
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name Two Edge Dagger
+.Type Blade
+.DamageType Cut
+.Length .3
+.Mass .4
+.Symmetry Symmetrical
+.MDist NotUniform
+.Hands 1
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+.Name One Edge Short Sword
+.Type Blade
+.DamageType Cut
+.Length 
+.Mass
+.Symmetry (NotSymmetrical, Symmetrical, VerySymmetrical)
+.MDist (NotUniform, Uniform, VeryUniform)
+.Hands (1, 2)
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+
+
+
+
+
+.Name
+.Type (HTH, Stick, Blade, Hafted, Flexible)
+.DamageType (Crush, Cut, Pierce)
+.Length
+.Mass
+.Symmetry (NotSymmetrical, Symmetrical, VerySymmetrical)
+.MDist (NotUniform, Uniform, VeryUniform)
+.Hands (1, 2)
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+

@@ -1,0 +1,682 @@
+documentclass{book}
+
+usepackage{makeidx,multicol}
+usepackage{sh}
+
+% General Parms
+
+hbadness=10000					% do not want underfull box messages
+hfuzz=maxdimen				% no overfull box messages either
+
+topmargin=0in
+textheight=9in					
+textwidth=4.8in				
+headsep=20pt
+marginparsep=.2in
+marginparwidth=2in
+
+raggedbottom
+
+% Title Page
+
+title{Fantasy/Space Hybrid thanks{Copyright 1997}: PSI Docs}
+author{Jim Jackl-Mochel}
+date{today}
+
+begin{document}
+
+
+% The TOC
+
+pagenumbering{roman}
+tableofcontents
+listoftables
+
+% Back to normal
+
+pagenumbering{arabic}
+
+% The introduction
+
+<chapter>
+	<title>Psionics</title>
+
+
+	<sect1>
+		<title>Intro</title>
+
+
+
+This chapter outlines one of the more interesting areas of SF gaming: 
+Pyschic Phenomenom or Psionics. What is to be noted is that no 
+comfortable way could be found to make a truly generic set of psionic 
+abilities. A great deal of the limitations described here are indeed 
+implementation specific and could be changed on GM's whim.
+
+Psionics is the application of mental force to directly affect an entitie's
+surroundings. The stat PSI measures how much power the psionic can access and control
+and skill in disciplines determines how well it can be molded to their will.
+
+	<sect1>
+		<title>Areas of Psionics</title>
+
+
+Psionics are broken down into categories by the general type of
+manipulation that is performed.
+
+	<variablelist>
+
+
+    	<varlistentry>
+			<term>Telepathics</term>
+			<listitem><para>
+
+    The use of the mind to influence other minds at the emotional and concious
+    communication level. This does not go down far enough to effect most bodily
+    processess. Telepathics are generally of low cost, long range, and
+    easy difficulty. Empathy, Surface Read, and Telepathy are typical
+    examples of Telepathic skills.
+
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Telekinetics</term>
+			<listitem><para>
+
+	Telekinetics is the use of the mind to impart kinetic energy to an
+	object. The use of psionics to toss objects around is a telekinetic 
+	action. Telekinetic skills are typically of medium cost, medium
+    difficulty, and short Range. Telekinesis is a Telekinetic skill.
+
+
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Temporokinetics</term>
+			<listitem><para>
+
+	Temporokinetics is the use of the mind to affect the spatial integrity
+	of the surrounding area. Temporokinetic skills are of very high cost,
+    high difficulty, very short duration. Teleportation is a temporokinetic
+    action.
+
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Biokinetics</term>
+			<listitem><para>
+
+	The use of a mind to directly influence a biological system.
+    Biokinetics actions are typically of Med Cost, Medium Diff, and
+    Short Range. Placing oneself in suspended animation is a
+    typical biokinetic feat.
+
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Energetics</term>
+			<listitem><para>
+
+	The use of the mind to directly affect the molecular nature of a
+	material. Energetic actions are typically of  High Cost, Medium Diff,
+    Short Range. Setting fire to paper or dissolving a glue would be 
+	typical actions of an energetic.
+
+	</para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mystokinetics</term>
+			<listitem><para>
+
+    Basically this covers the more mysterious skills that are less subject
+    to mechanistic explanations than the above four categories. 
+    Typically the Mystokinetic actions are of Low Cost, Very High Difficulty,
+    and medium duration.
+    Precognition, Clairsentience, and Object Read are typical
+    Mystokinetic skills.
+
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+	<sect1>
+		<title>Gaining Psionics</title>
+
+
+All entities have the potential for psionics. Most will not have the
+training to use or access psionics. Characters that take the Active
+Psionics enhancement (often part of a racial package ) will have
+recieved concious training or have been raised in a high-psi environment
+and absorbed an instinctual level of usage.
+
+All Psionic Skills are mental disciplines.
+
+	<sect1>
+		<title>Usage of Psionics</title>
+
+
+There are several things of note to be mentioned. The first and foremost
+is that it is always easier to affect inanimate objects with Psionics.
+
+When attempting to affect other entities the percentage chance to succeed
+is lowered by the defending entities MDF. An actively defending individual
+lowers it by 2 * MDF. In addition, there are a number of situations
+(critical misses, instinctively defending opponents) that could cause
+the psionic great pain when attempting to affect a living creature.
+
+	<sect2>
+		<title>Skill Rolls</title>
+
+
+Attempting to use Psionics requires a skill roll just as any other skill.
+The same DF modifiers apply as to any other action. 
+
+	<sect2>
+		<title>Concentration Aids/Checks</title>
+
+
+If the Psionic is disturbed in any way the psionic must make an DF -2 roll
+against that psionic skill in order to continue their concentration. This
+concentration may be made up to three times per pulse. If more than that is
+needed , give it up. Psionics may use special aids in concentrating including: 
+Meditation, Ear Plugs, Drugs etc...
+
+	<sect3>
+		<title>Meditation</title>
+
+
+Meditation allows the psionic to apply [ 2%/rank] for their Meditation skill to their chance
+to perform the discipline. It cuts all non-psi perceptions to  [ 1/2]
+their normal chance.
+
+	<sect3>
+		<title>Foci</title>
+
+
+The use of Foci may be designed into the specific discipline, in which
+case the DF of the discipline will be lower than normal. If it is used
+as a separate aid the focus gives [ 2%/rank] in the focus. 
+
+	<sect2>
+		<title>Mental movement</title>
+
+
+Mental movement governs that distance in M/sec that can be covered by 
+a psionics powers while concentrating. This is subject to the specific
+rules of a given psionic skill. So typically a Telekinetic can move
+objects at a rate equal to their mental movement.
+
+
+	<sect1>
+		<title>description</title>
+
+
+Psionic Disciplines have a series of attributes
+
+	<variablelist>
+
+
+    	<varlistentry>
+			<term>Penetration</term>
+			<listitem><para>
+
+    Describes how well the discipline overcomes resistance. Usually only
+    important for attack or healing disciplines.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Quantitative Effect/QE</term>
+			<listitem><para>
+
+    What the discpiline does in terms of mass moved, healing effect,
+    etc.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Difficulty Factor/DF</term>
+			<listitem><para>
+
+    The difficulty associated with the given discipline.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Energy Cost/EC</term>
+			<listitem><para>
+
+    The amount of mental fatigue used to perform the discipline.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Cast Time/CT</term>
+			<listitem><para>
+
+    The time needed to perform the discipline.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Range/RNG</term>
+			<listitem><para>
+
+    Range of efect (could be 0)
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>AOE</term>
+			<listitem><para>
+
+    Area of effect (could be 0)
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Visibility</term>
+			<listitem><para>
+
+    How easily detected the discipline is.
+
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Integrity</term>
+			<listitem><para>
+
+    How well the discipline will endure without direct concentration.
+    Usually translates to duration.
+
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+	<sect1>
+		<title>Skills Involved</title>
+
+
+There is a Filter Skill for each of the areas of psionics. 
+In addition there is a Perception skill associated with each area.
+
+And finally there a specific skills within each area of psionics.
+
+A Telekinetic must have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Telekinetics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Telekinetic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Telekinesis</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Telekinetic could have the following other skills (as an example)
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Discipline:Levitate</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Biokinetic must have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Biokinetics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Biokinetic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Biokinesis</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Biokinetic may have the following range of skills (as an example):
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Gestalt Lore:My Own Body</term>
+			<listitem><para>
+    Lore absorbed via experience with direct mind manipulation of the
+    given body.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Gestalt Lore:Human</term>
+			<listitem><para>
+    Lore absorbed via experience with direct mind manipulation of the
+    given type of body.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Temporokinetic must have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Temporokinetics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Temporokinetic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Temporokinesis</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Temporokinetic may have the following range of skills (as an example):
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Discipline:Teleportation</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Memorize Location</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Energetic must have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Energetics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Energetic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Energetics (Transform Energy )</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Energetic may have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Knowledge of Energy:Heat or</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Physics E\&M or</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Gestalt Lore:IR</term>
+			<listitem><para>
+    Lore absorbed via experience with direct mind manipulation of the
+    given energy frm.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Telepath must have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Telepathics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Telepathic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Telepathy</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Telepath may have the following range of skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Discipline:Empathy</term>
+			<listitem><para>
+    The ability to sense moods and feelings
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Telempathic Projection</term>
+			<listitem><para>
+    The ability to project moods and feelings onto another entity
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Surface Read</term>
+			<listitem><para>
+    The ability to read surface thoughts.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Telepathic Surface Projection</term>
+			<listitem><para>
+    The ability to insert surface thoughts into another's mind.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Telepathic Read</term>
+			<listitem><para>
+    The ability to read thoughts.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Telepathic Projection</term>
+			<listitem><para>
+    The ability to insert thoughts into another's mind..
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Telepathy</term>
+			<listitem><para>
+    The ability to communicate in coherent thought patterns with another
+    entity.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Mind Meld</term>
+			<listitem><para>
+    The ability to coprocess/share minds with another entity. This
+    includes sharing all of another's senses.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Mystic must have the following Skills
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Mystokinetics(Filter)</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mystokinetic Perception</term>
+			<listitem><para>
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Mystokinetics</term>
+			<listitem><para>
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+A Mystic may have the following Skills
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Discipline:Precognition</term>
+			<listitem><para>
+    The ability to see into the future
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Retrocognition</term>
+			<listitem><para>
+    The ability to see into the past.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Discipline:Object Reading</term>
+			<listitem><para>
+    The ability to see into an object's past.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+Any psionic may typically have these support skills:
+
+	<variablelist>
+
+    	<varlistentry>
+			<term>Stealth(Psionic)</term>
+			<listitem><para>
+    The skill associated with trying to hide that psionics are being
+    used. Ofetn used to hide from another psionic when being
+    searched for. 
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Deception(Psionic)</term>
+			<listitem><para>
+    The skill associated with trying to disguise the psionic action being
+    performed. Often used to disguise one type of action for another.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Focus:Crystal</term>
+			<listitem><para>
+    Skill in using something as a focus for a discipline. See above.
+    </para></listitem></varlistentry>
+	<varlistentry>
+			<term>Meditation</term>
+			<listitem><para>
+    Skill in tuning the rest of the world out in order to better
+    concentrate on what is being done.
+</para></listitem></varlistentry>
+	</variablelist>
+
+
+	<sect1>
+		<title>How it should feel</title>
+
+
+These things should be possible for a Telepath in ideal conditions (at
+rest , meditating, setup, with some sort of focus):
+
+	<sect2>
+		<title>Telepathics</title>
+
+
+Telepaths at a low level should be able to pick someones mind
+pattern out of a crowd in a room, 'path to someone in
+the room if they don't know them, 'path to someone anywhere 
+in the ship if they know them well, and maintain that conversation
+for a few (10-20) minutes. Assuming, of course, a non-hostile partner.
+
+Telepaths at a medium level (10-12) of skill should be 
+able to locate a mind somewhere in a ship, 'path to someone in a 
+ship if they don't know them, 'path to someone anywhere in a town 
+if they know them well, and maintain that conversation for 
+a few minutes.
+
+Telepaths at a high level (20) of skill should be able 
+to locate a mind somewhere in a city (takes time), 'path to someone
+in a town if they don't know them, path to someone in orbit if they know
+know them well.
+
+Range is less of an issue than familiarity and willingness of partner.
+Empathy is the detection of mood and feelings. 
+
+	<sect2>
+		<title>Temporokinetics</title>
+
+
+Temporokinetics at a low level should be able to sense when a teleport 
+has occured in the area, 'port small objects in line of sight or to
+nearby (a few meters) recently memorised locations. At a medium level (10-12) 
+they should be able to teleport themselves to line of sight locations. At 
+high levels (14-18) they should be able to teleport themselves to memorised 
+places beyond line of sight. At rank 20 it should be possible to teleport to 
+and from orbit.
+
+Knowledge of the area targeted is critical to success. It is far more
+difficult to teleport another person than it is for the psionic to teleport
+themself.
+
+	<sect2>
+		<title>Biokinetics</title>
+
+
+Biokinetics at a low level should be able to ease pain, sense what is wrong 
+with themselves or others. At a medium level they should be able to cure shock,
+bring down fever, and anaesthesize people. At a high level you should be able 
+to speed reflexes, increase strength, Suspend animation. 
+
+Knowledge of the body in question is a key factor. Biokinetics often
+have ranks in knowledge of their body and ranks in inner awareness. 
+
+	<sect2>
+		<title>Telekinetics</title>
+
+
+Telekinetics at a low level should be able to move chairs across a room, 
+float cups of coffee. Medium level telekinetics should be able to levitate 
+themselves. High level 'kinetics should be able to do simple flight
+with themselves, block. Master level 'kinetics should be able to 
+do fairly quick flight, and maybe even block punches.
+
+Most characters will need to see the objects being manipulated in order
+to manipulate them.
+
+	<sect2>
+		<title>Energetics</title>
+
+
+Energetics at a low level should be able to heat/cool cups of water,
+keep themselves warm. At a medium level they should be able to ignite
+paper or wood, cause electrical switches to bridge, blow light bulbs.
+High level energetisists should be able to redirect
+spark gaps, protect themselves from UV. Master levels should be able to 
+generate light, protect themselves from radiation.
+
+Knowledge of the type of energy being manipulated is the key factor.
+That knowledge may occur as a abstract model (scientific knowledge), a
+symbolic paradigm (Wiccan elemental worldview) or a pragmatic experience.
+
+	<sect2>
+		<title>Mystokinetics</title>
+
+
+Mystics at a low level should be able to get a general sense of danger.
+Medium level should be able to determine that this person is in 
+danger (if they have met them). High level mystics should be able to 
+predict simple events. Master level mystics should be able to tell 
+you what horse to bet on.
+
+
+Mystokinetic skills are tricky. There are several degrees of freedom
+in any attempt to precog: The accuracy of detail - what happened, The
+accuracy of Presentation - How it looked, and Depth - Background or
+context. This can also be What, When, WHere, Why, How, and Viewpoint.
+
+Different psionic usage cultures have different relationships to the
+mystokinetic degrees of freedom. 
+
+end{document}
+</sect1>
+</chapter>

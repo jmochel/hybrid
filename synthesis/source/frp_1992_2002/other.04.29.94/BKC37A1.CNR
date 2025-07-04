@@ -1,0 +1,392 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210151224.384;
+          10 Dec 91 15:12:56 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210151224.384;
+          10 Dec 91 15:12:37 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04600; Tue, 10 Dec 91 15:14:14 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA17699; Tue, 10 Dec 91 15:00:55 -0500
+Message-Id: <9112102000.AA17699@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 1957; Tue, 10 Dec 91 15:00:59 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 6723;
+ Tue, 10 Dec 91 15:00:56 EST
+Date:         Tue, 10 Dec 1991 14:44:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Attributes / Skills / Comments
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+>From: JW9131A@DRAKE.BITNET
+>        The following is my contribution to what stats could be used
+>in the RPG.  My feeling is why use some neat mystical name for a
+>stat? Just call it what it is.
+
+Well, though the decision hasn't actually been made, I'm assuming we all agree
+that we're doing a FRPG.  Since it's fantasy, I think the proper choice of
+attribute names sets the mood.  When I saw "Passion," I knew that the attribute
+was pointless from a game theory point of view, but it still had a lot of
+appeal, just because it sounded so cool for a FRPG.
+
+Your attribute suggestions are good, but have a few flaws.  It seems like
+netlag is causing a lot of duplication of effort.
+
+
+>Fatigue (FT) is a measure of the length of time that a character
+>can sustain activities requiring a great deal of physical or
+>mental exertion.
+
+Why not use Endurance for this?
+
+
+>Knowledge (KN) is a measure of a person's worldly knowledge and
+>his chance to know something he may have heard previously.
+
+I dislike this stat.  Would it increase every time a character learned a new
+skill?  Would it continually increase during a character's career, and what
+would its upper limit be?  Too many problems; let's leave it out.
+
+
+>Manipulation (MN) is a measure of a character's ability to
+>convince other people to do something that they want them to do.
+
+I much prefer something like Command or Charisma or Leadership.  It is more
+direct and simpler (Basis).
+
+The other stats are good, Jason, but there were some holes that some of the
+other systems filled.
+
+
+
+>From: Dave_Wetzel@VOS.STRATUS.COM
+>
+>     But you can also learn (sometimes a LOT) from your mistakes!!  Failure
+>or success shouldn't garentee increases or decreases in knowledge.  Usually
+>it should increase skill, because even if it isn't perfect, you've learned
+>a way to accomplish the task (or a way not to).
+
+Okay, you can learn from your mistakes.  However, success and failure are the
+most easily measurable occurrences in a RPG, and thus the easiest way to
+facilitate a non-XP character advancement system.
+
+
+>     Dieties by definition should have no stats.  If you accept the concept
+>of a diety, s/he should have 100% control over his sphere/element.  By the
+>same token dieties shouldn't appear (but their followers/supernatural agents/
+>etc can and those should be defined).
+
+By *your* definition.  We, as game designers, must be willing to make room for
+the preferences of a large population of players -- many of whom *do* want to
+get their warriors strong enough to take on Thor.  Sure, _I_ think it's dumb,
+too, but eight years ago I was DMing to players who fought Tiamat.  It was a
+lot of fun, though I cringe when I think about it...
+
+
+>     The reason for classes is that when you are trained to be say, a
+>compter scientist, you learn a certain method of thinking.  Things that fall
+>in line with that methodology are easier to learn than things that don't.
+
+This is probably one of the most important concepts we're going to have to
+cover before we progress too much further.
+
+
+>     I don't think it's wise to limit what a PC can learn, but it is
+>necessary (to be realistic anyway) to make some things HARD to learn based on
+>the PC's fundemental training.  There are two ways to do this (that I can
+>think of):
+>
+>     1) For every skill mark the related skills (as well as pre-reqs of
+>          course) and the skills that are "in opposition".  The opposition
+>          skills must be more expensive and the related ones cheaper.  Skills
+>          that aren't listed as either are not affected.
+
+I don't like oppositions.  Defining which skills are opposed to which other
+skills is a very sticky business, and leaves a lot to opinion.
+
+Also, though the "predisposed mindsets" concept is probably close to the truth,
+even modern psychology has difficulty categorizing people.  Short of including
+concepts from the Myers-Briggs personality test (I'm a IPFJ, I think...), we'd
+better stick to less-"realistic" more-workable systems.
+
+
+>     2) Declare the character to be of a particular class/profession/career
+>          and set the costs of skills on the basis of career.  The choice of
+>          career indicates initial training:  a computer specialist is
+>          assumed to have taken basic math, so advanced math comes easier to
+>          him than if his initial training were in art.
+
+Not necessary, Dave.  Why not a _variation_ of (1)?
+
+I like the idea of prerequisites.  Certain skills require knowledge of other
+skills first.  It's easy to implement and track, and it makes sense.
+
+Example -- A PC would have to have Math 5 before he could take Physics 1.
+
+
+>     I also like difficulty systems.
+>     I recommend however, percentile.  Though it covers a bigger range, it's
+>much easier to deal with.  EVERYONE has an intuitive feel for percentages.
+>If the GM decides there's a 17% chance to accomplish something, which is
+>easier for him to figure out:  what to roll on 1d6, 3d6, d20, or d100?  Plus
+
+Our definitions are different.  You described what I call a linear probability
+system.  In other words, a PC has x chance of doing something, a die is rolled,
+and the results are compared.
+
+My definition of a difficulty level system is like this:
+
+A number is assigned for the difficulty of a task.  The player rolls a die and
+adds applicable skill and attribute numbers.  The result must exceed the
+difficulty in order to succeed.
+
+Difficulty systems are open-ended (non-finite) -- higher numbers can always be
+set for harder tasks.  Also, opposing rolls are possible -- two PCs roll;
+higher result wins (useful for combat!).  And the normal range of numbers used
+in play can be kept small (like 1-30).
+
+Linear probability systems have a lot of disadvantages.  They're closed (1-100
+for percentage systems.  And opposing rolls are not easily implemented.
+
+
+>     I personally see no advantage to calling Stength Muscle.  Other than an
+>irrational hatred for words begining with 'S', what specifically do you have
+>against Strength?
+> [...]
+>     And I'm not about to exclude words that have been used by other game
+>systems!  We'll never get anywhere that way (Roll to hit, dice, skill,
+>intellegence, power, etc)
+
+Well, nothing really.  But that list of attributes included Strength,
+Dexterity, and Constitution (if I remember right).  I'd hate to spend months
+inventing a system only to have some 13-year-old say "You stole the abilities
+from D&D."
+
+I liked "Muscle" because it is very, very precise (Basis).
+
+I think everyone agrees that we should differentiate between Agility and Manual
+Dexterity.
+
+
+>>Speed -- reflex and quickness of muscle
+>
+>     How is this different from Co-ordination's Grace aspect when doing large
+>movements or the eye-hand coordination for fine, detailed movements?
+
+I think grace and speed/reflex are two very different animals.  I don't even
+know how to explain this one; it seems so matter-of-fact to me.
+
+
+>     Where's memory?  As in recolection of aquired fact.  I'd also rather put
+>Reason and Creativity together as Reasoning:  the generation of concepts and
+>inferences.  Sort of the application of facts.  Unless you're thinking of a
+>specific game mechanism to go with Creativity.  Maybe magic requires
+>creativity where as science and engineering require reasoning?  Otherwize I'm
+>missing the point.
+
+I would separate Reason and Creativity to account for personalities like the
+stereotypical Uninventive Mathematician and the Artist-Who-Can't-Add.
+
+Creativity is the base for skills such as Singing, Engineering, and so on.
+Also, the spell system I would like to see would allow players to control the
+effects of their magical powers instead of using limited spell lists.
+Creativity, as well as Reason, should be a part of a caster's abilities.
+
+Still, the two COULD be combined.
+
+Memory is a nice addition, for game-mechanic reasons.  I've seen a lot of games
+combine Memory and Perception, but I don't want to do this (Basis).
+
+
+>>Instinct -- a perceptual "sixth sense" based on minute details picked up
+>>          by the subconscious
+>
+>     I'd rather keep to the general category of Perception than specify a
+>sense here.
+
+I wasn't actually referring to sixth sense ESP powers here.  I meant that the
+subconscious picks up millions of minute details through the normal five senses
+(and the kinetic sense, et al) and can be interpreted as Instinct or
+gut-feeling.  Calling it Perception is no problem, and is even preferrable.
+
+
+>>Personality -- charm, "likeability"
+>
+>     Why not call it Charm?  Or (dare I use a D&D term??) Charisma?
+
+Okay, Charm it is.  Personality isn't specific enough, I suppose, and the
+abbreviation (Per) would interfere with Perception anyway... =)
+
+
+
+
+From: Laird Popkin <laird@THINK.COM>
+
+>The system I use is this: characters must spend one hour per week
+>maintaining each point that each stat has been raised from it's
+>original level.  For skills, my players and I came up with a system,
+>but decided that it wasn't worth tracking this sort of thing.  The
+>system we came up with was to require 15 minutes per character point
+>of each skill in order to maintain that skill, so a character with
+>20 points in skills would need to spend 5 hours every week
+>maintaining those skills.  Of course, any skills used in play are
+>considered "maintained".
+
+Very interesting system!  However, it seems to be a bit unwieldy -- even you
+quit using the system for skills.
+
+I'd suggest making ever player make a roll against every one of his skills at
+the end of each adventure.  The player must FAIL this upkeep roll to keep the
+skill at its present level.  If he rolls SUCCESSFULLY, then this would mean
+that the skill could not be kept up, and it goes down one point.
+
+Just because time is spent _attempting_ to maintain a skill doesn't mean the
+skill doesn't decrease.
+
+Mods could be given to one or two chosen "areas of concentration" so that
+bodybuilder PCs would have bonuses towards upkeep.
+
+My system makes higher skills harder to maintain also.
+
+
+>.But I'd like a game WITHOUT an XP system.  Advancement based on successful use
+>.of skills.
+>
+>That's a nice idea, but the end result seems to be that people end
+>up using skills so that they can raise them rather than doing what
+>the character would naturally would do.
+> [...] It bugs me a bit when game mechanics effect what characters do.
+
+Oh, me too.  But we just insert the following rule:
+ "Every time a skill is rolled with a critical success *in the normal course
+  of play* the GM *may allow* the player to attempt to improve the skill."
+
+That lets the GM say "Uh-uh, bud, none of that garbage," to players who try to
+improve their swordplay skill by swinging at trees.  Also, I'd suggest that
+that kind of "fake" training could _lower_ stats, since bad habits could be
+learned.
+
+
+
+
+>From: Sean A Reith <gusar%UNIWA.UWA.OZ.AU@UUNET.UU.NET>
+>
+>In the system I am/was designing I intended to do this by assigning a
+>percentage score (by a formula or table) to exceptionally high skill
+>levels, and this had to be taken away from all exprience earned (if the
+
+I shy away from XP systems and tables/formulas.  XP are difficult to
+adjudicate.  Tables are annoying and slow play.  Formulas are even worse.
+
+
+> [...] I don't like the idea of too many stats, I for one would not
+>like to see any more stats than this proposal...  I had the misfortune
+>to lose the file I had all my characters in, and had to reconstruct
+>them. [...]
+
+Well, I want to revise that proposal.  It will be a separate post.  I'm
+changing some names (Instinct -> Perception), combining Reasoning +
+Creativity into just Reasoning <weep>, and adding Creativity.
+
+
+>development on)) (don't you love nested brackets?  NO, I'm not a LISP
+>programmer))
+
+Ack!  Erp!
+
+
+>I don't see the point of the suggestions of the gouping of stats, ie:
+>having a body score, which some things are rolled against, and then a
+>further more accurate set, which you use for other rols, if you have all
+>the values, why not always use the most appropriate?  Or is this meant
+>to be personal preferance?  You choose the level of detail for your
+>campaign?  Also the very detailed levels have alot more stats than I
+>personally like... But that's obviously just my personal preferance.
+
+I think you answered your own question.  The concept of Scalability was applied
+to attributes.  Your personal preference may be different than some other
+player's, so you might want a less detailed group of statistics.
+
+However, I maintain that a scalable attribute system is going to be hell on the
+skill system.  We _could_ say "if Health is left out, substitute Endurance
+where needed..."
+
+
+
+
+>From: Dave_Wetzel@VOS.STRATUS.COM
+
+[concerning charts:]
+
+Well, Dave, I agree that we can produce a wonderful system without using too
+many charts and formulas.  I think that charts are cop-outs.  It's a very
+uncreative solution for the problem of "mapping" (math reference, sorry) of
+combat onto skills, and skills onto attributes.
+
+
+>     The second problem is there are far too many skills for it's own good.
+
+In my experiences, I've found that most players LOVE lots of skill choices.
+More skills doesn't make the game more complicated to learn, just more
+complicated to use.  And you don't _have_ to use all the skills.  PC creation
+is my favorite part of playing!
+
+
+>[hero points...]
+
+I vote "yes" for hero points!
+
+
+>[Clerical "spells"]
+>
+>     Ah, yes, another of my pet peeves:  clerical "magic".  Clerics shouldn't
+>get defined spells in my opinion.  Clerics should just pray and depending on
+
+I don't like the idea of spell lists anyway, even for "wizard" magic.  I want
+to define a system for GM-adjudication of spell powers.  In other words, the
+player says I create such-and-such effect with x damage and y size, and the GM
+uses some well-written guidelines and assigns a difficulty (and spell point
+cost, if we use such a system).
+
+The player records the spell in his notes for the next time.  It becomes part
+of his repertoire of spells he has cast before, so it doesn't take as long to
+cast the next time...
+
+As for clerical magic, why treat clerics different from mages?  We just put
+constraints on the domains of effects that they can influence, or make the
+source of their power be different (if a spell point system is used).
+
+Oh, by the way... it's DEITY, not diety.  From Latin "deus/dei" meaning god.
+Just a pet peeve...  =)
+
+Your "faith score" ideas have a lot of merit, but I don't think it's time to
+look into that yet, since it doesn't influence the attribute/skill system.
+
+
+
+
+>From: Tim Harrison <R3TLH@AKRONVM.BITNET>
+>
+>I'm sorry but I'm not about to try to sort through 90 messages right now
+>with exams and everything.  Could someone try to sum up what is going on
+>and send it to me under "RPG: Summary."  I will try to get that list up
+>soon also( of all the GD people).
+
+Um, are you kidding?
+
+I'll try to publish a summary of what *I* personally think we've decided upon,
+and we can all use it as a discussion piece if the list wants.  There's no way
+I could summarize all these messages.  It's been hard enough to just keep up
+myself...!
+
+
+
+____Flatline_______________________________________________________________
+
+Adam   1667d876@ksuvxb.kent.edu  1667d876@kentgold.bitnet    "I'll kill it!
+Dray   adray@mcs.kent.edu        adray@kentvax.bitnet         What is it?"
+___________________________________________________________________________
+                         "Quotes are stupid"
+___________________________________________________________________________

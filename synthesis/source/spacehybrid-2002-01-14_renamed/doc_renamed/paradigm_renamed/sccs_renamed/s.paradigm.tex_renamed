@@ -1,0 +1,142 @@
+h63672
+s 00114/00000/00000
+d D 1.1 99/12/02 15:44:04 jmochel 2 1
+cC
+cK26156
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:44:00 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Doc/Paradigm/PARADIGM.TEX
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44904
+cPDoc/Paradigm/PARADIGM.TEX
+cReb4785285cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\documentclass{book}
+
+\usepackage{makeidx,multicol}
+\usepackage{sh}
+
+% General Parms
+
+\hbadness=10000					% do not want underfull box messages
+\hfuzz=\maxdimen				% no overfull box messages either
+
+\topmargin=0in\begin{center}
+\end{center}
+
+\end{center}
+
+\end{center}
+
+\end{center}
+
+\end{center}
+
+\textheight=9in					
+\textwidth=4.8in				
+\headsep=20pt
+\marginparsep=.2in
+\marginparwidth=2in
+
+\raggedbottom
+
+% Title Page
+
+\title{Fantasy/Space Hybrid \thanks{Copyright 1997}: GMs Notes}
+\author{Jim Jackl-Mochel}
+\date{\today}
+
+\begin{document}
+
+
+% The TOC
+
+\pagenumbering{roman}
+\tableofcontents
+\listoftables
+
+% Back to normal
+
+\pagenumbering{arabic}
+
+% The introduction
+\input{intro}
+
+\input{weapon}
+
+% Include the Armour and Shield Formats
+\input{armor}
+
+% Include Chapter on Psionics
+\input{psi}
+
+% Include Chapter on Ki and Adrenal Moves
+\input{ki}
+
+% Include Chapter on Spell Casting
+\input{spell}
+
+\part{Technology}
+
+% Include the Research Rules
+\input{research}
+
+% Include The Rules on Computers
+\input{computer}
+
+% Include Rules on Robots, Cyborgs, and Androids
+\input{robots}
+
+% Include Rules on Healing and Medical Treatment
+\input{healing}
+
+% Include General Equipment Formats
+\input{ge}
+
+% Include Space Travel Chapter
+\input{space}
+
+% Include Discussions of Stellar Systems
+\input{systems}
+
+% Include Discussions of Lifeforms
+\input{bio}
+
+% Include Culture Delineation Notes
+\input{culture}
+
+% Include Notes on Trade and Commerce
+\input{trade}
+
+% Include The Chapter on Governments
+\input{govt}
+
+% Include the chapter on Cartography
+\input{cartog}
+
+\part{Appendices}
+
+\appendix
+
+% Include the Appendix on Skill Design
+\input{skilldes}
+
+% Include the Appendix on Weapons Design
+\input{wpndes}
+
+\end{document}
+E 2
+I 1
+E 1

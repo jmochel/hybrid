@@ -1,0 +1,751 @@
+
+ษอออออออออออออออออออออออออออ[ Bulletin Listings ]อออออออออออออออออออออออออออออป
+บ                                                                             บ
+บ      System Bulletins may be downloaded: B # # # D from the main prompt.    บ
+บ                                                                             บ
+ฬออออ[ UPI NewsFeed   Sunday - Thursday PM   Special features on Thursday ]อออน
+บ                                                                             บ
+บ     35] Headlines            42] Living            49] Sports News          บ
+บ     36] Books                43] Movies            50] Technology           บ
+บ     37] Business             44] Music             51] The Rest             บ
+บ     38] Comments             45] National          52] Top TV Shows         บ
+บ     39] Entertainment        46] People            53] Videos               บ
+บ     40] Health               47] Press             54] War                  บ
+บ     41] International        48] Special           55] Weather              บ
+บ                                                                             บ
+ฬอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+ศออออออออออออออออออออออออออออออออ[ Channel 1 ]ออออออออออออออออออออออออออออออออผ
+Help, NS, N=Stop, (Enter)=More? 
+(H)elp, (1-60), Bulletin List Command? 
+
+(9 min. left) [Node 50] Channel 1 Command? b
+ษอออออออออออออออออออออออออออ[ Bulletin Listings ]อออออออออออออออออออออออออออออป
+บ                                                                             บ
+บ   1] Channel 1 System/Access Information  11] Microbytes from Bix           บ
+บ   2] User Agreement                       12] BoardWatch Magazine           บ
+บ   3] Channel 1 Membership Information     13] Telecomputing Magazine        บ
+บ   4] Company/Corporate Services Info      14] Hot Files                     บ
+บ   5] * Disks and Tapes by Mail *          15] Top Uploaders                 บ
+บ   6] How to Use Channel 1                 16] Directory Totals Report       บ
+บ   7] How to Read Messages                 17] Node 1 Graphic Stats          บ
+บ   8] How to Download                      18] Info for RelayNet NODEs       บ
+บ   9] How to Use DOORS                     19] Channel 1 Modem and Node Info บ
+บ  10] How to Use Conferences/Echoes        20] Channel 1 Commands Reference  บ
+บ                                                                             บ
+ฬออออออออออออออออออออออออออ[ Ads & Online Shopping ]ออออออออออออออออออออออออออน
+บ  21] Channel 1 Store - Computer Products  28] New features in Pcboard 14.5  บ
+บ  22] Channel 1 - Info about Advertising   29] Expanded User Info            บ
+บ  23] Data Base Accelerator                30] ILink Users Guide             บ
+บ  24] Artmatrix                            31] Ansi Music/Graphics Screen    บ
+บ  25] R e s e r v e d                      32] Interface QA stats            บ
+บ  26] R e s e r v e d                      33] Real-Time NE Weather          บ
+บ  27] R e s e r v e d                      34] System Configuration          บ
+บ                                                                             บ
+ศอออออออออออออออออออออออออออออออ[ Channel 1 ]อออออออออออออออออออออออออออออออออผ
+Help, NS, N=Stop, (Enter)=More? 
+ษอออออออออออออออออออออออออออ[ Bulletin Listings ]อออออออออออออออออออออออออออออป
+บ                                                                             บ
+บ      System Bulletins may be downloaded: B # # # D from the main prompt.    บ
+บ                                                                             บ
+ฬออออ[ UPI NewsFeed   Sunday - Thursday PM   Special features on Thursday ]อออน
+บ                                                                             บ
+บ     35] Headlines            42] Living            49] Sports News          บ
+บ     36] Books                43] Movies            50] Technology           บ
+บ     37] Business             44] Music             51] The Rest             บ
+บ     38] Comments             45] National          52] Top TV Shows         บ
+บ     39] Entertainment        46] People            53] Videos               บ
+บ     40] Health               47] Press             54] War                  บ
+บ     41] International        48] Special           55] Weather              บ
+บ                                                                             บ
+ฬอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+บ                                                                             บ
+ศออออออออออออออออออออออออออออออออ[ Channel 1 ]ออออออออออออออออออออออออออออออออผ
+Help, NS, N=Stop, (Enter)=More? 
+(H)elp, (1-60), Bulletin List Command? 1
+ 
+*  Channel 1 Trial Account and System Information *
+^^^
+   Channel 1 operates on a high speed LAN in full color.
+   We are user supported.  
+   In the spirit of Shareware, we offer *limited* free access 
+   on our public lines to validated callers. 
+   This provides you the opportunity to explore our resources and try us out.  
+
+   Expanded access privileges require Membership.
+   Membership is its own validation, and callers may sign up for a
+   Membership at any time.  Bulletin 3 contains all the information.
+
+   The Bulletins - How to Use Channel 1, How to Read Messages on Channel 1, 
+   How to Download, and Channel 1 Commands Reference - can be read or captured
+   or downloaded.  Together, these 'help' Bulletins are archived
+   in the file Chan1hlp.zip. 
+
+   We encourage you, once you are validated, to explore all the Menus 
+   and system functions which are accessible from the main command menu. 
+
+   Channel 1 operates 24 hours a day except for maintenance 3x a week,
+   usually on Tuesday and Friday mornings, and from midnight to 2 am
+Help, NS, N=Stop, (Enter)=More?    following the last day of each month.
+
+   To get your free trial public line account validated: 
+>> complete the New Caller S ignup questionnaire - S from main prompt,
+>> read/capture this Bulletin,
+>> be validated by postcard.  (We will send).
+   All callers must abide by the terms of the User Agreement, Bulletin #2.
+
+   Starting access time for the validated trial account is 26 minutes daily.
+   Validated callers have access to conferences, email and file transfer
+   facilities, the offline reader DOORs, and other functions including
+   some of the online entertainment in the Games Conference.
+   Download access is contingent on uploading; see below.
+   
+>> Once validated, your free trial account will last 80 days from    
+>>the time of your first log-on.
+
+   Callers who contribute significant good uploads as trial account 
+   holders are welcome to request an extension of free access 
+   <if their overall byte ratio is in the 1/2.5 range> if they are
+   committed to continuing to upload regularly and often, as may
+   software authors and callers who don't download at all and call
+   only occasionally.
+Help, NS, N=Stop, (Enter)=More? ns
+   Serious uploaders will also gradually gain more time on the system.
+   See Table below for details.
+
+Time spent uploading is matched with
+extra time and extra bytes for the uploader for that session.
+   --------------------------------------------------------------------
+
+   To maintain downloading privileges as a trial account holder, 
+   uploading is required:  1 upload for every 4 downloads.  
+   Enter the command V <iew> at the main menu prompt to see
+   the current statistics of YOUR account.
+
+   However some basic files are provided "FREE" to trial account holders 
+   and to Members alike.  First-time callers may access many of these
+   files from the Help/Free Files Conference -- J 5 at the main prompt.
+   
+   These are:   
+   The files list -- CHANNEL1.ZIP, CHAN1DIR.ZIP or CHAN1A/B/C/D/E/F.ZIP 
+   The help files -- CHAN1HLP.ZIP
+   The upload directory -- CHAN1UP.ZIP
+   Recommended communications programs -- BOYAN401/2.ZIP
+TLX312-1/2/3.ZIP
+QM42F#1/2/3/4/5.ZIP
+   Gif viewer -- VPIC<latest version Z Uploads, DIRs 67, 29>.ZIP
+   Zmodem -- DSZxxxx.ZIP <latest version Z Uploads, Dir2>
+   Mail Readers for QMail Door -- EZ133.ZIP   -EZ Reader
+DELUXE2.ZIP -New v.Trial Qmail Reader
+QPATCH.ZIP <old v.QMail adjunct file>
+ROBOxxxx.ZIP
+   Information about RelayNet --  RELAYNET.ZIP
+   Virus checking program recommended for use after unzipping -- SCANV75.ZIP
+or latest   SCANVxx.ZIP
+   Virus curing program in conjunction with Scanvxx-- CLEAN75.ZIP
+or latest  CLEANxx.ZIP
+
+Channel 1 routinely checks all of its system files with the latest
+virus checking programs - and offers all validated callers the
+latest version of SCANVxx.ZIP as a free download <from DOOR 2>,
+to provide you with the capability to check both the software you
+download here when you unZIP it, and the rest of your software.
+All incoming uploads are also filtered through the latest SCANV
+before being posted.
+
+   And another free download is the compress/decompress utility -- PKZ110.EXE  
+and the decompress utility alone -- DEZIP.EXE
+
+   The source code files for the Microsoft Journal are 
+   available  - to all registered callers -
+   regardless of the status of their account.
+   These files are accessed from the Microsoft Conference.  
+   Enter J;6 at the Main Menu prompt to get to the Conference.
+
+   Conference 1 is the Channel 1 Mail Box.
+   First time callers can leave Receiver Only messages here to known
+   Channel 1 callers.  And both validated callers and Members can exchange
+   private files.  Enter J;1 at the main menu command to access.
+   Bulletin 1 in the Mail Box has full details.
+
+A few tips to help you:
+
+ =>The command F ile V iew <exact filename.xxx> allows you to
+   view the contents of a  .ZIP file and to read
+   text or documents portions of it before you download.  
+   This can help you determine if you want the program.
+
+
+ =>Z searches of the files directories for keywords or filenames 
+   Z  <keyword/ or partial string (no wild cards)> from the main board
+   or from ProDoor or ZDoor are now very fast and are well worth
+   doing to find out latest version of a file that is already here, or
+   to ensure that you are not uploading an older version, or
+   simply to find what interests you. 
+   Example:  Z OFFLINE | READER will list all files that have EITHER 
+word in their description.
+Z OFFLINE & READER will list all files that have BOTH   
+words in their description.
+   <Z H> will provide more information on line.
+
+=>T entered at the main menu prompt allows you to select your
+    transfer protocol.  Once you set, or reset, your choice here
+    you will no longer be asked to enter your choice 
+    every time you download.
+
+=>X at the main menu prompt toggles the main menu on/off.
+    Once you are familiar with the main menu commands, use this to
+    save yourself the menu scroll time between each command entry.
+
+   --------------------------------------------------------------  
+
+   Please note that *one* trial account only is allowed per person, 
+   family or computer system.  
+
+   Callers are not to use "aliases" or "handles" for their trial account.
+
+   Inappropriate or duplicate uploads will receive negative credit.
+Please NO COMMERCIAL SOFTWARE EVER.
+     >>  Inappropriate uploads may result in loss of access.  <<
+
+   Uploads must be recent files and not renamed duplicates.
+^^^^^^
+   Uploads that we do not keep will not get credit.
+
+   .ZIP all uploads.  Credit will not be given for .ARC or uncompressed
+   uploads.  The .ZIP utility - PKZ110.EXE is available as a free download.
+
+   Uploaders of quickcash schemes will lose all access.
+   
+   Free access will be denied summarily whenever evidence of disregard 
+   for these rules appears. 
+
+
+   Validated public line callers who have not taken out a Membership 
+   and trial account holders have limits on their downloading privileges,
+   over and above the free downloads described above.
+   They must maintain a ratio of 1 useful upload for every 4 downloads.
+ > The chart below describes the full extent of access times 
+ > and downloading privileges possible without a Membership.
+
+   Remember that when you upload your time/bytes increase for that session.
+
+ษอออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บPublic (Non-Member) Access Timesบ
+ฬอออออออออออออออออออออออออออออออออออออออออออออออออออออน
+บ    Time   Download Ratio    Accessบ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ     39+*Top Uploaderบ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ     35 or 30    *Major Uploaderบ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ     341.1:1Positive Upload Ratio   บ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ     261:4Default Accessบ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ     221:4.1No Downloading Privileges บ
+ศอออออออออออออออออออออออออออออออออออออออออออออออออออออส
+
+Your download ratio is automatically recalculated during
+maintenance - 3x per week.  
+
+
+   Files/programs requiring more time for transfer than default time 
+   will *not* be available to holders of trial accounts.  
+   All callers may order files from our library by mail - on disk or on tape.  
+   See B)ulletin #5 for details.  
+   
+* Some File Directories, some Conferences and some Doors*
+require Membership for access.
+   
+
+   Channel 1 is an active member in three PC conference networks --
+   ILink, Relaynet and Smartnet.  These network have international
+   memberships and echo messages daily among systems.
+   For more information about how to exchange mail between systems
+   consult B ulletin 10.  For comprehensive information relating to
+   RelayNet, download RELAYNET.ZIP.
+
+   Channel 1 is accessible through Connect-USA, Starlink and PCPursuit.
+
+   When you upgrade to a Membership, you have no upload requirement,
+   more daily time, and access to *all* the features on the system.
+   Please read B)ulletin #3 for Membership information and options.
+You may charge your Membership on S)cript #2.  
+   Information about Company Accounts and Services is in B)ulletin #4.
+
+We hope you enjoy your time online at Channel 1,
+and welcome comments from our callers.
+
+Copyright 1988-1991 Channel 1 Communications (R)
+All Rights Reserved
+
+(H)elp, (1-60), Bulletin List Command? 2
+
+*  Channel 1 User Agreement *
+
+Channel One BBS and its operators  shall not be responsible for
+views expressed within  this BBS.  Such views are those of the authors
+and not necessarily those of the system operators.
+
+Files made available on this BBS are supplied  "AS IS" without warranty
+of fitness of any kind.  The entire risk as to the quality and/or performance
+of the programs or files is with you.  Should anything you download from this
+BBS  prove defective, you (and  not the system operator)  assume the entire
+cost of all necessary servicing, repair or correction.  Under no
+circumstances will the operators  of this  BBS  be liable to you for any
+damages resulting from the unsuitability of any files from this BBS, even if
+the operator has been advised that such unsuitability exists.
+
+The sytem managers can read all mail on the system. 
+They may, at their discretion, delete any message, unprotect private 
+messages or protect public messages, or ressucitate messages 
+that a user has deleted. 
+
+All users who enter a name into this system do  hereby consent to be bound
+by the terms contained herein and assume all risks of whatever nature or kind
+Press (Enter) to continue? that may arise through the use hereof.
+(H)elp, (1-60), Bulletin List Command? 3
+ *  Channel 1 Membership Information *  
+
+   Members have extended access, no upload requirement & Mailbox privileges.
+  Memberships are good for time stated or download limit, whichever comes 1st.
+
+1]   One Year  60 minutes per day:  $85    [Private Lines]
+2]   One Year  45 minutes per day:  $72.50 [Private Lines]
+[700 file download limit for both above]   
+  
+3]   6 Months  60 minutes per day:  $50    [Private Lines]
+4]   6 Months  45 minutes per day:  $42.50 [Private Lines]
+[350 file download limit for both above]
+
+5]   Introductory Memberships
+a 3 Months  60 minutes per day:  $30    [Public Lines]
+b 6 Months  30 minutes per day:  $30    [Public Lines]
+[150 file download limit for both above] Introductory
+
+6]   Mini Membership  [100 file download limit]
+2 Months 60 minutes per day:  $25     
+
+7]   Mailbox Membership - economical for the casual caller;
+Mailbox, QMail/MarkMail, and Conference access plus
+Help, NS, N=Stop, (Enter)=More? [100 files download limit]
+One Year 40 minutes per day:  $40     [Public Lines]
+
+     Memberships noted above have Members lines access, which
+maximizes 1200/2400 access.
+
+   The Deposit Door <DOOR 4>, which enables you to store time from 
+     one session to use in another, is available on all Memberships 
+     as are certain Games Doors and Conferences and File Directories.
+   
+   The Mailbox - a holding place for Receiver Only E-Mail and Files -
+     is Conference 1, where full details are posted in Blt #1.
+     E-Mail downloads are FREE downloads throughout the system.
+  
+  Please use S)cript #2 to charge your Membership with Visa/Mastercard or
+  AMEX or send your payment by check to:  Channel 1 Communications
+P.O. Box 338
+Cambridge, MA 02238-0338
+  
+  Information about Company Memberships is in Bulletin #4.
+
+
+  Script #2 will ask these questions:
+Help, NS, N=Stop, (Enter)=More? ns 
+  Card are you using m(Visa or MasterCard or AMEX):
+  Number on Card:
+  Expiration Date:
+  Full Name of Cardbearer:
+  Billing Address (Street, City/State, Zip):
+  Phone: (xxx) xxx-xxxx
+  Level 7 MailBox plus -- One Year    40 minutes/100 downloads: $40 y/n?
+  Level 6 MiniMembership -- 2 months  60 minutes/100 downloads: $25 y/n?
+  Level 5a Introductory -- 3 months   60 minutes/150 downloads: $30 y/n?
+  Level 5b Introductory -- 6 months   30 minutes/150 downloads: $30 y/n?
+  Level 4 -- 6 months  45 minutes:  $42.50 /350 downloads  y/n?
+  Level 3 -- 6 months  60 minutes:  $50    /350 downloads  y/n?
+  Level 2 -- One year  45 minutes:  $72.50 /700 downloads  y/n?
+  Level 1 -- One year  60 minutes:  $85    /700 downloads  y/n?
+  Mail me Dirs 1-96 files list: $7.95 y/n?  Specify 1.2 or 1.44 disks format.
+  Total Amount of Charge:
+  Comments or Special Instructions - 2 lines:
+
+    *Your Membership or renewal will be validated within 24 hours and 
+we will post a confirmation message in the Main Message Area.*
+
+
+(H)elp, (1-60), Bulletin List Command? 4
+ 
+*  Channel 1 Company and Corporate Services Information *  
+
+ Company Memberships allow both extended access and multiple users
+ under a single password.  Memberships are good for time stated 
+ or download limit, whichever comes first.  They allow access to
+ the Deposit Door <DOOR 4> where up to 30 minutes can be stored
+ for a rainy day.  And the use of the Channel 1 E-Mail address in the
+ MailBox conference 1 wholly given over to Receiver/Only Mail 
+ and private File transfers.  All E-Mail transfers <via MarkMail/QMail>
+ on the system do not count against your account.
+
+One Year  90 minutes per day:    $150     [Private Lines]
+[1400 file download limit for above]
+Three Months 90 minutes per day:  $50     [Private Lines]
+[ 350 file download limit for above]   
+  
+ Please use S)cript #3 to charge your Membership with Visa/Mastercard or
+ AMEX or send your payment by check to:  Channel 1 Communications
+P.O. Box 338
+Cambridge, MA 02238-0338
+
+ Channel 1 offers a number of services to companies:  the leasing of 
+Help, NS, N=Stop, (Enter)=More? ns private access lines, renting conferences, library sales and library 
+ up-date services, consulting for setting up bulletin boards, and 
+ advertising both in the main board Bulletins and on the log-off script.  
+ For further information, please inquire to Sysop online or call our 
+ voice line: 617-864-0100.
+
+----------------------------------------------------------------------
+(C) Channel 1 (tm).  1987 through 1991.  All rights reserved.
+
+(H)elp, (1-60), Bulletin List Command? 5
+
+*  Disks and Tapes By Mail (C) *
+
+ For those of you who want to save money on your telephone bills, or
+ for whom time on the system is short, ANY or ALL of the PD/Shareware
+ software available on Channel 1 may be sent to you by mail on 360k disks,
+ 1.2 meg disks, 1.44 meg disks or on tape.
+   
+ Disks
+ -------------------------------
+ Cost is $5.00 per 360k disk, $4.50 each if you order 2 or more disks.
+ Cost is $10.00 per 1.2meg disk, $9.00 each if you order 2 or more.
+ Cost is $11.00 per 1.44meg disk, $10.00 each if you order 2 or more.	
+ There is NO additional shipping or handling charge.
+ Massachusetts residents only add 5% Sales Tax.  
+ Unless you specify otherwise, the programs you select are compressed - 
+ giving you 40-60% more bytes per disk than usual mail order disks.
+ Compare and save!
+
+ For disks, select any programs you want from our file directories. 
+ Access these either by browsing (z)ippy scans save time) on the 
+ network or by downloading the file list (Chan1a/b/c/d/e/f.zip).  
+ Program the diskettes EXACTLY as you want them filled.
+Help, NS, N=Stop, (Enter)=More?  For any order larger than 2 disks, please include the
+ number of the Directory each one is stored in  OR sort your list
+ by Directory number.
+
+ Most of these fine programs are Shareware.  Registering your copies
+ with the authors will entitle you to receive updates and addtional
+ information.
+
+Our disks are warranted against defects in duplication.
+The programs will be .zip'ed unless you request that they not be. 
+
+ 
+ Tapes
+ ----------------------------------
+ We also offer 40 meg and 60 meg tapes
+ to customers who want to purchase WHOLE directories at a time.
+ The total number of files and megabytes contained in each File Directory
+ is given in Bulletin 16 - the Directories Total Report.
+ 
+ Our tapes are written with a Colorado Memory Jumbo 40/60 meg (DC 2000) system
+ using QIC-40 standard format.
+
+ With the exception of the *specials* listed below, the tapes cost $5 per meg,
+Help, NS, N=Stop, (Enter)=More?  pure and simple - no charge for the tape(s) or first class mail in the US,
+ the only exception being orders that total LESS than 20 megs,
+ which incur a $25 charge for the tape.
+
+ We are selling the following 40 meg tapes of selected Channel 1
+ file directories on *special*:
+
+ The C-Language Directory -up to 40 megs- 40 megs in 1/91$99.00
+ Programmer' Tools Directory- up to 40 megs   - 38 megs in 1/91$99.00
+ The Education 1 Directory (A-L)-up to 40 megs- 30 megs in 1/91$99.00
+ The Education 2 Directory (M-Z)-up to 40 megs- 30 megs in 1/91$99.00
+ Animations Directory - VGA required- 31 megs in 1/91$99.00
+ 
+ 
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+ You may charge directly with your Visa/MC or AMEX card. 
+ Fill out S)cript #4, The Disks and Tapes Ordering Form.
+ (If your order is larger than 3 disks or more than 3 tapes, 
+  leave message and for disks, upload or mail your list).
+ In the Script, be prepared to provide your name & mailing address,
+ card # and exp. date if paying by charge, diskette or tape type,
+ your choice of files for each diskette, total number of diskettes
+Help, NS, N=Stop, (Enter)=More?  & total price - or your choice of Directories for your tapes.
+
+ If you are paying by check, fill out S)cript #4 to place your order.
+ Mail check or money order to:
+Channel 1 Communications
+P.O. Box 338
+Cambridge, MA 02238-0338
+Your disks will be mailed upon receipt of check.
+
+Copyright 1989-1991 Channel 1 Communications (R).  All rights reserved.
+
+
+(H)elp, (1-60), Bulletin List Command? 5
+
+*  Disks and Tapes By Mail (C) *
+
+ For those of you who want to save money on your telephone bills, or
+ for whom time on the system is short, ANY or ALL of the PD/Shareware
+ software available on Channel 1 may be sent to you by mail on 360k disks,
+ 1.2 meg disks, 1.44 meg disks or on tape.
+   
+ Disks
+ -------------------------------
+ Cost is $5.00 per 360k disk, $4.50 each if you order 2 or more disks.
+ Cost is $10.00 per 1.2meg disk, $9.00 each if you order 2 or more.
+ Cost is $11.00 per 1.44meg disk, $10.00 each if you order 2 or more.	
+ There is NO additional shipping or handling charge.
+ Massachusetts residents only add 5% Sales Tax.  
+ Unless you specify otherwise, the programs you select are compressed - 
+ giving you 40-60% more bytes per disk than usual mail order disks.
+ Compare and save!
+
+ For disks, select any programs you want from our file directories. 
+ Access these either by browsing (z)ippy scans save time) on the 
+ network or by downloading the file list (Chan1a/b/c/d/e/f.zip).  
+ Program the diskettes EXACTLY as you want them filled.
+Help, NS, N=Stop, (Enter)=More? n
+(H)elp, (1-60), Bulletin List Command? 6
+
+How to Use Channel 1
+--------------------
+
+General Information
+-------------------
+Feel free to explore any of the system's features. Help is available
+online at most prompts (H or ?), as well as in bulletins, tutorials,
+viewable/downloadable files, the Help conference (J:5 at the main 
+command prompt), and in the file CHAN1HLP.ZIP.
+
+
+Timesaving Tips
+---------------
+
+1) Download Channel1.zip or Chan1a,b,c,d,e,f.zip for the filelist;
+Chan1hlp.zip for help with Channel 1.  This includes the PCBoard
+Help files, as well as much other helpful information.
+
+2) If PCBoard (Channel 1's software) is new to you, read or capture
+Bulletins 7-10, -- available in Chan1hlp.zip -- and Pcbhelp.zip,
+the command reference, available in Bulletin 20.
+
+Help, NS, N=Stop, (Enter)=More? ns4) Capture messages & reply off-line; or use the QMail/Markmail doors.
+
+5) Use Zmodem or Y-modem protocol if possible.  Batch transfers.  DB, UB.
+
+6) Use control-S to pause a non-stop display of files
+or messages, & ctrl-K to abort.  Use to abort check for mail!
+
+7) Answer y;q or n q to the graphics prompt to skip the
+welcome screen; add ns to skip the news as well.
+
+8) Use f;v or f v to view the filenames & dates within
+a zip. This may save you from down/uploading
+outdated or duplicate files.  Use Prodoor/Zdoor to read
+text files within zipped files.
+
+9) Use z)ippy to scan the filebase: see below.
+
+10) Capture the File Directory and print it out so you can specify
+directories that you need z)ippy scanned for particular files.
+Chan1hlp.zip has all the menu screens.
+
+11) Use q)uickscan to scan messages: see below.
+
+12) When reading messages, use t)hread (+/-) to skip
+directly to replies.
+
+13) Use PCBoard H)elp and ?.
+
+14) Use x)pert mode to eliminate menu scrolling between
+each command.  Toggle x)pert to return to menu.
+
+16) Use Prodoor or Zdoor mail systems, or better
+yet the Qwikmail Door.  See the Doors themselves and the "How to"
+Bulletins, 6-10.
+
+17) Last, but not least, use an up-to-date version of one of 
+the major Shareware  communications programs:
+TELIX, QMODEM, PROCOMM, or BOYAN.
+The most recent file names of these programs is listed in
+B ulletin #1.  
+Once validated, you may download any of the above "free" -
+these files will not count against your account.
+
+
+Commands Information
+--------------------
+
+     Our message and file base is quite large.  Be selective with scans
+(specify directories when possible) since they can take a long time otherwise.
+
+-----------------------------------------------------------------------------
+Zipfiles: most files on the system are compressed.  You must use a
+program to access them.  Use  PKZ110.EXE, found in directory #1 or Uploads.
+-----------------------------------------------------------------------------
+
+Use DOOR/OPEN to gain access to special functions, such as extended protocols,
+batch transfers, database searches and online games.  Each DOOR has its
+own help; don't hesitate to just explore.
+
+To D ownload, you must have a compatible communications program capable
+of error-corrected file transfers.  D ownload from the main or F iles prompt:
+d;filename.zip;y.  This transfer uses y-modem protocol.
+
+Remember that you can download any file on the Main Board from the
+Main Board Command prompt.  All you need is its exact name.
+Conference specific files have to be downloaded from the Conference
+main prompt.
+
+
+DOORS and OPEN access auxillary programs which serve as extensions or 
+enhancements to PCBoard.  ZDoor and ProDoor, for instance, provide the
+capability of using other protocols, batch transfers, zipfile utility
+functions, and for Prodoor, message base functions.  Feel free to play 
+with the Doors system.  You can't do anything wrong.
+
+E nter messages.  Messages may be written off-line, saved into ASCII files,
+and uploaded into your message (ASCII transfer).  **Do not use TABS in your
+messages.**  Line lengths less than --> 72 <-- characters work best.
+
+F)iles will access the board File Directories: f;1 or f 1 2 ns.
+F)ile V)iew will view the filenames in a ZIP.
+
+Graphics M ode: If your communications program does not support ansi
+graphics, consider using one of the fine pd or shareware comm programs
+available: Qmodem, Boyan, Telix, Procomm or Pibterm.  These and others are
+available on the board. In order to use g)raphics, your program must support
+ansi-bbs graphics, and you must have ansi.sys or it's equivalent installed in
+your config.sys file.  Channel 1 needs to be seen in full color!
+
+Use the H)elp and ? commands; PCBoard H)elp is extensive for all commands and
+can help you learn to use the sytem.
+
+J oin Conferences: System activity is organized into Conferences & specific
+B ulletins, Messages (R ead), & F iles are accessible only in Conferences.
+Some conferences may be "echoed" through daily mail transfers to other sytems
+around the country.  Refer to the system Bulletins for more information.
+Check the F ile directories in each conference, where (w/files) is indicated
+in the main conference menu. A)bandon to exit to the main menu or J;# to
+move from conference to conference.
+
+Q uickscan for message headers: q s or q;3000-.
+
+R)ead messages with the R)ead command.	
+Use R)ead S)ince to read messages since your last call or message entry.  
+Commands may be stacked: r;s or r s.  
+Use the +/- keys to read forward: r;3000+ or backward: r 3000-. Once
+entered only an <enter> is necessary to continue reading.	
+R L to begin reading at the end of the message base.
+
+Use the T)hread command to follow a message chain by subject: t+ or t-.  
+
+Check for Your mail with  Y at the  main command menu:
+At the prompt which follows, select:
+C urrent to get list of all your mail in Main Message base or in the
+  conference you are currently in.
+S ince to get list of all your mail since last reading or message entry.
+A ll to get list of all your mail everywhere on the system.
+Y A S NS (all your mail since last on, for instance, with no breaks in the 
+presentation).  
+R A S Z to capture all your mail and download in to you.
+
+Z ippy is the basic search command for files. 
+Use  Z ippy directly from the main command menu to search for files as
+follows: z single keyword or stacked keywords (| between words), then 
+at the prompt, if possible, to save time, 
+specify the directories you'd like searched.
+
+
+Copyright Channel 1 Communications (tm), 1988-1991.  All rights reserved.
+
+(H)elp, (1-60), Bulletin List Command? 
+
+(7 min. left) [Node 50] Channel 1 Command? m
+F       
+COLOR (Ansi Graphics Mode) OFF ...
+
+(7 min. left) [Node 50] Channel 1 Command? ?
+
+   ---------------------->  Channel 1 Commands Menu  <----------------------
+
+   E-Mail                   Menus                     Files/Transfers
+
+   E nter new message       J conference menu         F ile directories
+   R ead messages           J [#] join conference     F V view archives
+   Y our personal mail      A bandon conferences      D ownload [to you]
+   R Y read all your msgs   B ulletin menu            DB atch download
+   R Y A all conferences    S ign-up questionnaires   U[B] pload [to us]
+   RM reread msg. #         DOOR  gateways to other   N ew files [date]
+   TS text search msgs.     OPEN  system functions    Z ip scan [keyword]
+   Q uick mail scan                                   T ransfer protocols
+   SELECT conferences       Other Basic Commands      TEST an archive
+
+   WHO  see who's online    H use at all prompts      P age length [# lines]
+   CHAT talk online         V iew caller stats        W rite info [password]
+   NEWS reread news         C omment to sysop         I nitial screen
+   X pert [menus on/off]    M color on/off            G oodbye [logoff]
+   
+Menu Letter/Command you need Help with, Jim?  Enter = None? g
+
+(G)oodbye - Function Help
+-------------------------
+
+Subcommands:  NONE
+
+Description:  Disconnects you from the host system.  This command should always
+              be used to log off of the system to insure proper updating of all
+              message pointers, etc.  NEVER just drop carrier by issuing an
+              (Atl+X) (or equivalent) command to your communication's software
+              without first entering the (G) command!
+
+              Some systems also ask that you complete a (S)cript Questionnaire
+              at the time of logoff.
+
+
+(6 min. left) [Node 50] Channel 1 Command? 
+(6 min. left) [Node 50] Channel 1 Command? g
+
+
+
+     ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ
+     ณ >  Best buy! ALR 386/33 with EISA Bus 1 meg exp to 49  $1875  < ณ
+     ณ        > USR Dual Standard - $869       HST 14.4 - $ 599 <      ณ
+     ณ               >  Channel 1 Store - Bulletin 21  <               ณ
+     ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤู
+       Practical Peripherals 9600 V.32/V.42bis external modem - $ 489
+     -------------------------------------------------------------------
+      Low-cost long distance 2400 access to Channel 1 - see Acculink.zip
+     --------------------------------------------------------------------
+                        Over 50 Games in Conference 13!!!
+     ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ
+     ณ               *  Thanks for calling Channel 1  *                ณ
+     ณ                        Call again soon!                         ณ
+     ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤู
+
+
+Minutes Used: 19
+
+Thanks for calling, Jim!
+
+NO CARRIER

@@ -1,0 +1,620 @@
+h12864
+s 00592/00000/00000
+d D 1.1 00/02/04 15:10:59 jmochel 2 1
+cC
+cK40287
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/02/04 15:10:56 jmochel 1 0
+c BitKeeper file g:/BardicTales/Support/style/BTnpc.dsl
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|20000204200134|52760|7093d84f5cb6fcad
+cHdevilmountain.bedford.foliage.com
+cK07841
+cPSupport/style/BTnpc.dsl
+cR84cc63535cb6fcaf
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+<!doctype style-sheet PUBLIC "-//James Clark//DTD DSSSL Style Sheet//EN">
+
+<style-sheet>
+    <style-specification>
+        <style-specification-body>
+
+(define debug
+    (external-procedure "UNREGISTERED::James Clark//Procedure::debug")
+)
+
+
+(define %font-family%   "Comic Sans MS")
+(define %font-name%     "Comic Sans MS")
+(define %header-font%   "Comic Sans MS")
+(define %font-size% 10pt)
+(define %line-spacing-factor% 1.3)
+(define-unit em %font-size%)
+(define-unit pi (/ 1in 6))
+
+(declare-initial-value font-size        %font-size%)
+
+(declare-initial-value font-weight      'medium)
+
+(declare-initial-value font-family-name %font-family%)
+(declare-initial-value font-name %font-name%)
+
+(define (%para%)
+    (make paragraph 
+;        font-family-name: %font-family%
+        font-name:        %font-name%
+        font-size:        %font-size%
+        font-weight:      'medium
+        font-posture:     'upright
+        line-spacing:     (* %font-size% %line-spacing-factor%)
+    	quadding:         'justify
+	)
+)
+
+
+(define %footer-style% 
+    (style
+	    font-size: ( * 0.8  %font-size% )
+	)
+)
+
+(define (header-title)
+    (make sequence 
+        use: %footer-style%
+        (with-mode header-title
+            (process-matching-children "title")
+        )
+    )
+)
+
+(define (footer-page-number)
+    (make sequence 
+        use: %footer-style%
+        (literal "Page ")
+  	    (page-number-sosofo)
+    )
+)
+
+(mode header-title
+    (element (timeline title)
+        (process-children)
+    )
+)
+
+(element characters
+  (make simple-page-sequence
+        font-name: %font-name%
+        page-width:	    8.5in
+        page-height:	11in
+        left-margin: 	3pi
+        right-margin: 	3pi
+        top-margin:	    4pi
+        bottom-margin:	4pi
+        header-margin:	2pi
+        footer-margin:	2pi
+    	quadding: 'start
+	    right-footer: (footer-page-number)
+        right-header: (header-title)
+    	input-whitespace-treatment: 'collapse
+    )
+)
+
+(element ( characters names nomen )
+    (make sequence
+        (make paragraph 
+            font-size: (* 3 %font-size% )
+            line-spacing:     (* (* 3 %font-size% ) %line-spacing-factor%)
+            font-weight: 'bold
+            (process-children)
+        )
+        (make paragraph 
+            (literal (time->string (time) ))
+        )
+    )
+   
+)
+
+(element ( character names)
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+                (literal "Name(s)" )
+        )
+        (process-children)
+    )
+)
+
+(element ( character names nomen )
+    (make paragraph
+        font-size: (* 1.3 %font-size% )
+    )
+)
+
+(element ( character cultures )
+    (make paragraph
+        font-size: (* 1.2 %font-size% )
+    )
+)
+
+(element ( cultures  nomen)
+    (make paragraph
+        font-size: (* 1.0 %font-size% )
+        (literal "Culture:" )
+        (process-children)
+    )
+)
+
+(element ( species  nomen)
+    (let(
+            (sex (attribute-string "gender" (parent  (current-node))))
+        )
+
+        (make paragraph
+            (literal "Species:" )
+            (process-children)
+            (literal "Gender:" )
+            (literal sex)
+        )
+
+    )
+)
+
+(element character 
+    (make paragraph
+        break-before: 'page
+        (literal (attribute-string "status"  (current-node)))
+        (process-children)
+    )
+)
+
+(element ( character stats)
+    (let(
+            (str (attribute-string "strength"  (current-node)))
+            (con (attribute-string "constitution" (current-node)))
+            (dex (attribute-string "dexterity" (current-node)))
+            (agl (attribute-string "agility" (current-node)))
+            (bld (attribute-string "build" (current-node)))
+            (aur (attribute-string "aura" (current-node)))
+            (drv (attribute-string "drive" (current-node)))
+            (dsc (attribute-string "discernment" (current-node)))
+            (int (attribute-string "intelligence"  (current-node)))
+        )
+
+        (make sequence
+            (make paragraph
+                    font-size: (* 1.2 %font-size% )
+                    font-weight: 'bold
+                    (literal "Stats" )
+            )
+            (make paragraph
+                (make sequence
+       
+                    (literal "strength:" )
+                    (literal str )
+                    (literal " " )                    
+                    (literal "constitution:" )
+                    (literal con )
+                    (literal " " )                                        
+                    (literal "dexterity:" )
+                    (literal dex )
+                    (literal " " )                                        
+                    (literal "agility:" )
+                    (literal agl )
+                    (literal " " )                                        
+                    (literal "build:" )
+                    (literal bld )
+                    (literal " " )                                        
+                    (literal "aura:" )
+                    (literal aur )
+                    (literal " " )                                        
+                    (literal "drive:" )
+                    (literal drv )
+                    (literal " " )                                        
+                    (literal "discernment:" )
+                    (literal dsc )
+                    (literal " " )                    
+                    (literal "intelligence:" )
+                    (literal int )
+                 )
+            )                 
+            (make paragraph-break)
+        )
+    )        
+)
+
+(element physical 
+    (make sequence
+        (make paragraph
+            font-size: (* 1.2 %font-size% )
+            font-weight: 'bold
+            (literal "Physical Description" )
+        )
+        (process-children)
+    )    
+)
+
+(element frame
+    (make paragraph
+        font-size: %font-size%
+        (literal "Frame:(" )
+        (literal " build is " )
+        (literal (attribute-string "build" (current-node)))
+        (literal ",bone is " )
+        (literal (attribute-string "bone" (current-node)))
+        (literal ",tone is " )
+        (literal (attribute-string "tone" (current-node)))
+        (literal ") " )
+        (process-children)
+    )
+)
+
+(element hair
+    (make paragraph
+        font-size: %font-size%
+        (literal "Hair:(" )
+        (literal "length is " )
+        (literal (attribute-string "length" (current-node)))
+        (literal ",color is " )
+        (literal (attribute-string "color" (current-node)))
+        (literal ",texture is " )
+        (literal (attribute-string "texture" (current-node)))
+        (literal ",curl is " )
+        (literal (attribute-string "curl" (current-node)))
+        (literal ",style is " )
+        (literal (attribute-string "style" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+
+(element ornamentation
+    (make paragraph
+        font-size: %font-size%
+        (literal "Ornamentation:" )
+        (process-children)
+    )
+)
+
+(element eyes
+    (make paragraph
+        font-size: %font-size%
+        (literal "Eyes:(color is " )
+        (literal (attribute-string "color" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+(element skin
+    (make paragraph
+        font-size: %font-size%
+        (literal "Skin:(" )
+        (literal "color is " )
+        (literal (attribute-string "color" (current-node)))
+        (literal ",surface is " )
+        (literal (attribute-string "texture" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+(element facialhairs
+    (make paragraph
+        font-size: %font-size%
+        (literal "Facialhairs:" )
+        (process-children)
+    )
+)
+
+(element facialhair
+    (make paragraph
+        font-size: %font-size%
+        (literal "(" )
+        (literal (attribute-string "color" (current-node)))
+        (literal " " )
+        (literal (attribute-string "type" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+(element ears
+    (make paragraph
+        font-size: %font-size%
+        (literal "Ears:" )
+        (process-children)
+    )
+)
+
+
+(element nose
+    (make paragraph
+        font-size: %font-size%
+        (literal "Nose:" )
+        (process-children)
+    )
+)
+
+(element teeth
+    (make paragraph
+        font-size: %font-size%
+        (literal "Teeth:" )
+        (process-children)
+    )
+)
+
+(element idmarks
+    (make paragraph
+        font-size: %font-size%
+        (literal "Id Marks:" )
+        (process-children)
+    )
+)
+
+(element mark
+    (make paragraph
+        font-size: %font-size%
+        (literal "(" )
+        (literal (attribute-string "type" (current-node)))
+        (literal ") " )
+        (process-children)
+    )
+)
+
+(element voice
+    (make paragraph
+        font-size: %font-size%
+        (literal "Voice:" )
+        (literal "(" )
+        (literal (attribute-string "volume" (current-node)))
+        (literal " volume " )
+        (literal (attribute-string "type" (current-node)))
+        (literal ") " )
+        (process-children)
+    )
+)
+
+(element clothing
+    (make paragraph
+        font-size: %font-size%
+        (literal "Clothing:" )
+        (literal "(" )
+        (literal (attribute-string "age" (current-node)))
+        (literal " " )
+        (literal (attribute-string "worth" (current-node)))
+        (literal " cost " )
+        (literal (attribute-string "weight" (current-node)))
+        (literal " weight " )
+        (literal ") " )
+        (process-children)
+    )
+)
+
+(element psychological 
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+                (literal "Psychological Description" )
+        )
+        (process-children)
+    )
+)
+
+(element personalkeynote
+    (make paragraph
+        font-size: %font-size%
+        (literal "Personal Keynote:" )
+        (process-children)
+    )
+)
+
+(element socialkeynote
+    (make paragraph
+        font-size: %font-size%
+        (literal "Social Keynote:" )
+        (process-children)
+    )
+)
+
+(element energy
+    (make paragraph
+        font-size: %font-size%
+        (literal "Energy:" )
+        (process-children)
+    )
+)
+
+(element bearing
+    (make paragraph
+        font-size: %font-size%
+        (literal "Bearing:" )
+        (process-children)
+    )
+)
+
+(element mannerisms
+    (make paragraph
+        font-size: %font-size%
+        (literal "Mannerisms:" )
+        (process-children)
+    )
+)
+
+(element humor
+    (make paragraph
+        font-size: %font-size%
+        (literal "Humor:" )
+        (process-children)
+    )
+)
+
+(element senseofself
+    (make paragraph
+        font-size: %font-size%
+        (literal "Sense Of Self:" )
+        (literal (attribute-string "strength" (current-node)))
+        (process-children)
+    )
+)
+
+(element sex
+    (make paragraph
+        font-size: %font-size%
+        (literal "Sex:" )
+        (literal "(" )
+        (literal (attribute-string "appeal" (current-node)))
+        (literal " " )
+        (literal (attribute-string "drive" (current-node)))
+        (literal " " )
+        (literal (attribute-string "orientation" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+(element logicparadigm
+    (make paragraph
+        font-size: %font-size%
+        (literal "Logic Paradigm:" )
+        (process-children)
+    )
+)
+
+(element habits
+    (make paragraph
+        font-size: %font-size%
+        (literal "Habits:" )
+        (process-children)
+    )
+)
+
+(element possessions
+    (make sequence
+        (make paragraph
+            font-size: (* 1.2 %font-size% )
+            font-weight: 'bold
+            (literal "Possessions:" )
+        )
+        (process-children)
+    )
+)
+
+(element possession
+    (make paragraph
+        font-size: %font-size%
+        (literal "(" )
+        (literal (attribute-string "type" (current-node)))
+        (literal ")" )
+        (process-children)
+    )
+)
+
+(element skills
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+            (literal "Skills:" )
+        )
+        (process-children)
+    )
+)
+
+(element skill
+    (make paragraph
+        font-size: %font-size%
+        (literal "Skill:(")
+        (literal (attribute-string "factor" (current-node)))
+        (literal ")")
+        (literal " ")
+        (literal (attribute-string "name" (current-node)))
+        (literal " ")
+        (literal "Rank:")
+        (literal (attribute-string "rank" (current-node)))
+        (process-children)
+    )
+)
+
+(element associations
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+        
+            (literal "Associations:" )
+        )
+        (process-children)
+    )
+)
+
+(element commentary
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+
+            (literal "Commentary:" )
+        )
+        (process-children)
+    )
+)
+
+(element history
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+
+            (literal "History:" )
+        )
+        (process-children)
+    )
+)
+
+(element status
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+        (literal "Status:" )
+        )
+        (process-children)
+    )
+)
+
+(element summary
+    (make sequence
+        (make paragraph
+                font-size: (* 1.2 %font-size% )
+                font-weight: 'bold
+
+            (literal "Summary:" )
+        )
+        (process-children)
+    )
+)
+
+(element para 
+    (%para%)
+)
+
+</style-specification-body>
+</style-specification>
+</style-sheet>
+ 
+E 2
+I 1
+E 1

@@ -1,0 +1,60 @@
+H06289
+s 00030/00000/00000
+d D 1.1 02/01/14 20:17:32 jmochel 2 1
+cC
+cF1
+cK42661
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 02/01/14 20:17:32 jmochel 1 0
+c BitKeeper file g:/workspace/BardicTales/Cultures/Takeda.Sakura.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK50450
+cPCultures/Takeda.Sakura.txt
+cRaf902449
+cV4
+cX0x1b1
+cZ-05:00
+e
+u
+U
+f e 0
+f x 0x1b1
+t
+T
+I 2
+Framing
+Sakura Blossoms
+
+    
+Servant serving drinks and fruit
+
+Takeda Sazen comes in wearing armor at the head of her troops. 
+
+She gestures them in. 
+
+The incense and the temple, the temple framed by four living trees.,
+    the water glades and the heron
+    Ka-mon
+    Spirit of the dead
+
+The prayers
+
+The open courtyard
+
+Takeda is chancy
+    The Thorned Sakura of Takeda
+    Takeda's Necessity
+
+The negotiation
+
+
+Relanian Sword covered in illusion
+    Beheaded by a servant
+    
+    Takeda is Chancy
+E 2
+I 1
+E 1

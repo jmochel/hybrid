@@ -1,0 +1,65 @@
+============================================
+ Miscellaneous Skills
+============================================
+
+	Accounting                                        SB:FCS        Cost:6    DF:-2   
+ Appraisal                                         SB:FCS        Cost:6    DF:-1   
+	Bribery                                           SB:MCA        Cost:4    DF:-1   
+	Business Administration                           SB:FCS        Cost:4    DF:-1   
+	Cartography                                       SB:FCS        Cost:5    DF:-2   
+	Clerical Studies                                  SB:FCS        Cost:4    DF:-1   
+	Confiscation                                      SB:FCS        Cost:4    DF:-1   
+	Cryptograhy			                                    SB:FCS        Cost:7    DF:0    
+	Debate                                            SB:MCA        Cost:4    DF:-1   
+	Diplomacy                                         SB:MCA        Cost:4    DF:-1   
+	Disguise:(Psionic)                                SB:PSI        Cost:5    DF:-2   
+	Disguise:(General)                                SB:MCA+FCS    Cost:4    DF:-1   
+	Disguise:(Verbal)                                 SB:MCA        Cost:4    DF:-1   
+	Disguise:(Visual)                                 SB:MCA        Cost:4    DF:-1   
+	Dry Art                                           SB:FCS        Cost:3    DF:-2   
+	Elocution                                         SB:MCA        Cost:3    DF:-4   
+	Forgery                                           SB:FCS        Cost:4    DF:-1   
+	Gambling                                          SB:MCA        Cost:4    DF:-1   
+	Holography                                        SB:FCS        Cost:4    DF:-1   
+	Hypnotism                                         SB:MCA        Cost:4    DF:0    
+	Impersonation                                     SB:MCA        Cost:4    DF:-1   
+	Infiltration                                      SB:MCA        Cost:4    DF:0    
+	Instrumental Music                                SB:FCS        Cost:3    DF:-2   
+	Interrogation                                     SB:MCA        Cost:4    DF:-1   
+	Investigation                                     SB:MCA        Cost:4    DF:0    
+	Journalism                                        SB:FCS        Cost:4    DF:-1   
+	Language:(Specify)                                SB:FCS        Cost:4    DF:-1   
+	Law:(Business)                                    SB:FCS        Cost:5    DF:-1   
+	Law:(Patent)                                      SB:FCS        Cost:5    DF:-2   
+	Law:(Criminal)                                    SB:FCS        Cost:5    DF:-2   
+	Logic                                             SB:FCS        Cost:3    DF:-4   
+	Mime                                              SB:MCA        Cost:4    DF:-1   
+	Office Technical Systems                          SB:FCS        Cost:5    DF:-1   
+	Philosophical Anthropology                        SB:           Cost:7    DF:0    
+	Philosophy                                        SB:FCS        Cost:3    DF:-4   
+	Pilot/craft                                       SB:FCS        Cost:6    DF:-2   
+	Prevarication	                                    SB:MCA        Cost:4    DF:-1   
+ Presence:(Mental)                                 SB:MAW        Cost:3    DF:-4   
+ Presence:(Physical)                               SB:PAW        Cost:2    DF:0    
+ Presence:(General)                                SB:GAW        Cost:3    DF:-4   
+	Reconnasciance                                    SB:FCS        Cost:4    DF:-1   
+	Sculpture                                         SB:MCA+PDX    Cost:4    DF:-1   
+	Security Devices                                  SB:FCS        Cost:4    DF:0    
+	Singing                                           SB:MCA+FCS    Cost:4    DF:-1   
+	Songwriting                                       SB:FCS        Cost:4    DF:-1   
+	Stealth:(Aural)                                   SB:PAW        Cost:2    DF:0    
+	Stealth:(General)                                 SB:GAW        Cost:2    DF:0    
+	Stealth:(Olfactory)                               SB:PAW        Cost:2    DF:0    
+	Stealth:(Psionic)                                 SB:MAW        Cost:3    DF:-4   
+	Stealth:(Tactile)                                 SB:PAW        Cost:2    DF:0    
+	Stealth:(Visual)                                  SB:PAW        Cost:2    DF:0    
+	Survival:(Environment)                            SB:PAW        Cost:4    DF:0    
+	Tailing                                           SB:GAW        Cost:3    DF:-4   
+	Teaching                                          SB:MST        Cost:4    DF:-1   
+	Theatre                                           SB:GAW        Cost:3    DF:-2   
+	Theft                                             SB:DEX        Cost:4    DF:-1   
+	Theology                                          SB:FCS        Cost:3    DF:-4   
+	Tracking                                          SB:GAW        Cost:4    DF:0    
+	Trading                                           SB:MAG        Cost:4    DF:-1   
+	Vehicle:(Specify Vehicle)                         SB:FCS        Cost:4    DF:0    
+	Writing                                           SB:FCS        Cost:4    DF:-1   

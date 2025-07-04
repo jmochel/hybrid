@@ -1,0 +1,96 @@
+NAME                DIST L-Y     X      Y      Z       Xg     Yg     Zg
+THE ERI Acamar          120     66     64     77 |    -23    -54   -105
+ALP ERI Achernar         73     36     16     61 |     13    -35    -63
+ALP CRU Acrux           220   -102    -11    194 |    110   -190      1
+EPS CMA Adhara          330    -72    282    155 |   -166   -278    -62
+ALP GRU Al Na'ir         91     54    -30     67 |     55     -9    -72
+        Al Wazor        650   -166    560    285 |   -340   -546    -93
+ALP TAU Aldebaran        64     23     57     18 |    -43    -28    -39
+BET PER Algol           100     53     55     64 |    -21    -47    -86
+GAM GEM Alhena           78    -11     74     22 |    -53    -55    -14
+EPS UMA Alioth           49    -27     -6     41 |     27    -41      6
+ETA UMA Alkaid          190   -111    -56    144 |    125   -137     41
+GAM AND Almach          400    257    150    268 |    -18   -140   -374
+ZET ORI Alnitak         400     38    398      8 |   -346   -166   -112
+ALP CEN Alpha Centauri    4     -2     -1      3 |      3     -3      0
+ALP HYA Alphard         200   -154    124     28 |    -84   -153     98
+ALP CRB Alphecca         67    -36    -48     29 |     59    -18     27
+ALP AND Alpheratz       120    106      3     56 |     18      9   -118
+ALP AQL Altair           16      7    -14      2 |     13      8     -5
+        Aludra          270    -83    221    131 |   -124   -238    -30
+ALP PHE Ankaa            76     56      6     51 |     16    -13    -73
+ALP SCO Antares         230    -82   -190    101 |    220    -30     61
+ALP BOO Arcturus         38    -30    -20     12 |     25    -15     24
+        Atria           130    -16    -46    121 |     99    -77    -33
+        Avior           330    -99    138    283 |     23   -322    -71
+        Becrux          500   -252    -50    429 |    268   -421     31
+GAM ORI Bellatrix       230     38    226     24 |   -188   -101    -86
+ALP ORI Betelgeuse      300      9    298     37 |   -243   -157    -81
+ALP CAR Canopus         230    -14    141    181 |    -34   -205    -98
+ALP AUR Capella          46      7     32     33 |    -12    -35    -27
+        Caph             45     24      1     38 |     16    -17    -38
+ALP GEM Castor           47    -15     37     25 |    -19    -43     -5
+ALP CYG Deneb           650    295   -352    460 |    510    -38   -402
+BET LEO Denebola         42    -41      2     10 |      6    -29     30
+BET CET Diphda           57     53     10     18 |     -3      9    -56
+ALP UMA Dubhe           105    -48     13     93 |     37    -98     -4
+BET TAU El Nath         130     18    113     61 |    -70    -87    -65
+GAM DRA Eltanin         150     -2    -94    117 |    139    -45    -34
+EPS PEG Enif            250    203   -140     39 |    127    134   -168
+ALP PSA Fomalhaut        23     19     -6     11 |      9      4    -21
+        Gienah          130   -124     -7     38 |     33    -86     91
+BET CEN Hadar (Agena)   190    -82    -47    165 |    127   -142      5
+ALP ARI Hamal            74     58     35     29 |    -21     -9    -71
+EPS SGR Kaus Australis  160     12   -132     90 |    158     -1	-27
+BET UMI Kochab          120    -24    -22    115 |     77    -88    -28
+ALP PEG Markab          100     94    -24     24 |     27     39    -88
+        Menkalinan       84      1     60     58 |    -24    -70    -39
+ALP CET Menkar          250    177    177     13 |   -159     -3   -193
+        Menkent          56    -39    -23     33 |     39    -33     23
+BET UMA Merak            76    -41     11     63 |     23    -72      4
+DEL ORI Mintaka         600     78    595      0 |   -524   -230   -180
+BET AND Mirach           76     60     18     44 |      1    -11    -75
+ALP PER Mirfak          270    113    136    204 |    -28   -157   -218
+ZET UMA Mizar           190   -102    -38    156 |    115   -149     24
+        Murzim          300    -26    286     88 |   -205   -207    -72
+SIG SGR Nunki           160     32   -140     70 |    154     27    -34
+        Peacock         160     52    -73    133 |    124    -41    -92
+        Phecda           88    -53      2     70 |     36    -79     13
+ALP UMI Polaris         470      7      4    470 |    223   -348   -223
+BET GEM Pollux           33    -13     26     16 |    -15    -30     -1
+ALP CMI Procyon          11     -5     10      1 |     -8     -7      2
+ALP OPH Rasalhague       64     -7    -62     13 |     61     14     12
+ALP LEO Regulus          78    -67     36     16 |    -19    -62     44
+BET ORI Rigel           500    103    484     70 |   -396   -219   -213
+        Sabik            76    -17    -72     20 |     73      9     19
+		Sadr            470    206   -295    302 |    390     10   -263
+KAP ORI Saiph           550     36    542     87 |   -433   -291   -173
+ALF CAS Schedar         230    127     21    191 |     65    -89   -202
+LAM SCO Shaula          200    -21   -158    120 |    198    -29     -7
+ALP CMA Sirius            9     -2      9      2 |     -6     -6     -1
+ALP VIR Spica           190   -175    -66     33 |     86    -81    149
+        Suhail          220   -117    111    150 |    -16   -219     11
+ALP LYR Vega             27      3    -21     17 |     26     -1     -7
+        Zuben'ubi        62    -44    -40     16 |     46    -16     39
+
+ALP AQR Sadalmelik
+BET AQL Alshain
+GAM AQL Tarazed
+EPS BOO	Izar
+ALP CVN Cor Caroli
+ALP CEP Alderamin
+OMI CET Mira
+BET CRU Mimosa
+BET CYG	Albireo
+ALP DRA Thuban
+GAM LEO Algieba
+ALP LEP Arneb
+BET LEP Nihal
+BET PEG Scheat
+GAM PEG Algenib
+ALP SER Unukalhai
+BET TAU Alcyone
+GAM UMA Phad
+DEL UMA Megrez
+80  UMA Alcor
+EPS VIR Vindemiatrix

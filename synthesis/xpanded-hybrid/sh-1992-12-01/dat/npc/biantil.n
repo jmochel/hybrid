@@ -1,0 +1,51 @@
+.Name BIANTIL
+.Title LORD OF CRON					  
+.Race HU
+.Culture
+.Aspect 
+.PST 15
+.PEN 13		
+.DEX 12
+.PAG 13		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT 120		 
+.AGE 64
+.BeginDesc
+ WHITE HAIRED WITH PALE BLUE EYES THIS KINDLY AND SCHOLARLY OLD MAN  
+IS NO MAN'S FOOL. HE IS QUITE CAPABLE OF OUT THINKING/GUESSING HIS FOE WITH     
+UNCANNY ACCURACY.
+.EndDesc
+.BeginSkills
+Weapon: MACE3			   , 
+.EndSkills
+.Locale CRON
+.BeginKnownAssoc
+ LEADER OF CRON
+.EndKnownAssoc
+.BeginSecretAssoc
+ CONSULTANT FOR THE PROTECTERATE
+.EndSecretAssoc
+.BeginFriends MANY
+.EndFriends
+.BeginComment
+ SOME CAMBER INFLUENCE HERE WITH A FLAIR FOR NOT EXPOSING HIMSELF. 'WARE
+UNTO HIM THAT INURES ANY OF BIANTILS PEOPLE !!
+.EndComment
+.BeginPossess
+ CARRIES A PLAIN GOLD BRACELET OF SPYING AND A STONE OF ASSASINATION
+WARDING.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

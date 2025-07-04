@@ -1,0 +1,608 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0057)http://www.wired.com/news/technology/0,1282,37359,00.html -->
+<HTML><HEAD><TITLE>Promising Step in Eye Surgery</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<SCRIPT language=javascript>
+
+//  2000 Millward Brown Interactive. All rights reserved. 
+//Updated June 22, 2000 for Zentropy Study, Wired, Wave 3 (post)
+
+//Need to enter parameters
+var MBIstudyNumber = "s407033_postc";//exclude if present
+var MBIcookieNameWave1 = "MBIs407033";//exclude if present
+var MBIcookieNameWave2 = "ads407033";//exclude if not present
+var MBIsiteName = "wired";
+var MBIsampleRate = "25"; // sampling rate for those who are eligible to take the survey
+var MBIcookExpire = 3; // months valid
+
+var MBImediaID = 0;//default Ntc number
+var MBIsampledUser = 0; // sampled?
+var MBIstudyUrl="http://mass25.mbinteractive.com";//the study URL
+
+MBIstudyUrl=MBIstudyUrl+"/mass/bedemir.dll/";//the study URL
+var MBIcookName = "MBI" + MBIstudyNumber; // cookie name
+var MBIstudyName = MBIstudyNumber;
+// end params
+function setMBICookieDate(obj, expLength){
+month = obj.getMonth() + expLength;
+year = obj.getYear();
+if (year<2000) year += 1900
+while (month > 11){
+month = month - 12;
+year++;
+}
+obj.setYear(year);
+obj.setMonth(month)
+var MBIcookDate = obj.toGMTString();
+return MBIcookDate;
+}
+function getSetMBICookie(MBIcookieName){
+if(document.cookie.length > 0) {
+var search = MBIcookieName + "=";
+var offset = document.cookie.indexOf(search);
+if(offset != -1) {
+offset += search.length;
+end = document.cookie.indexOf(";", offset);
+if(end == -1) end = document.cookie.length;
+MBIcookie=unescape(document.cookie.substring(offset, end));
+return MBIcookie;
+}
+else{
+MBIcookie = "";
+return MBIcookie;
+}
+}
+else{
+MBIcookie = "";
+return MBIcookie;
+}
+}
+function sample(BV) {
+MBIcookie = "";
+getSetMBICookie(MBIcookName);
+if(MBIcookie) return;
+
+MBIcookie = "";
+getSetMBICookie(MBIcookieNameWave1);
+if(MBIcookie) return;
+
+MBIcookie = "";
+MBImediaID = getSetMBICookie(MBIcookieNameWave2);
+if(!MBIcookie) return;//exclude if the cookie is not present
+
+MBIrandval = Math.random() * 100;
+if(MBIrandval < MBIsampleRate) MBIsampledUser = 1;
+if(MBIsampledUser == 0) return;//ZZ: cookie only those who are selected as respondents
+var cookStr=MBIcookName+"="+MBIsampledUser+"; expires=";
+cookStr=cookStr+setMBICookieDate(new Date(),MBIcookExpire);
+cookStr=cookStr+"; path=/";
+document.cookie = cookStr;
+//if(MBIsampledUser == 0) return;//ZZ: cookie all solicited
+MBIwhichWave = Math.ceil(Math.random());
+getSetMBICookie(MBIcookName);
+MBIcookie?MBIcookie=1:MBIcookie=0; 
+var MBIdest=MBIstudyUrl+MBIstudyName+"?Ntookcook=";
+if(BV){
+MBIdest = MBIdest + "2";
+}
+else{
+MBIdest = MBIdest + MBIcookie;
+}
+MBIdest = MBIdest + "&Ssite=" + MBIsiteName + "&Ntc=" + MBImediaID;//added for Zentropy
+var wVls="width=600,height=400,scrollbars=1,resizable=1";
+wVls=wVls+",toolbar=1,location=1,directories=1,status=1";
+window.open(MBIdest,"survey",wVls);
+}
+agt=navigator.userAgent.toLowerCase();
+if (navigator.appVersion.indexOf("MSIE 3.0A") > -1){
+MBIIE30 = 1;
+sample(MBIIE30);
+}
+else if (navigator.appVersion.indexOf("MSIE") > -1){
+sample();
+}
+else if(!(agt.indexOf("mozilla/2") > -1)){
+sample();
+}
+
+</SCRIPT>
+<!-- MetaTags.Story.Begin -->
+<META content="Promising Step in Eye Surgery" name=feature_name>
+<META content="Promising Step in Eye Surgery" name=headline>
+<META 
+content="Scientists have implanted microchips beneath human retinas in patients with retinitis pigmentosa, and are waiting to see if partial or total eyesight can be restored." 
+name=abstract>
+<META content=200006301505 name=pubdate>
+<META content="3:05 p.m.  Jun. 30, 2000 PDT" name=pubdate_fmt>
+<META content=Reuters name=byline><!-- MetaTags.Story.End --><!--MetaTags.Section.Begin-->
+<META content=Technology name=taxonomy>
+<META content="Wired News" name=provider>
+<META content="Wired News" name=source>
+<META content=YES name=tease><!--MetaTags.Section.End-->
+<META content="MSHTML 5.00.2920.0" name=GENERATOR></HEAD>
+<BODY aLink=#666699 bgColor=#ffffff leftMargin=0 link=#006666 text=#000000 
+topMargin=0 vLink=#336600 marginheight="0" marginwidth="0"><!-- THIS IS THE NEW NAV BAR  -->
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD bgColor=#000000><A href="http://www.lycos.com/network/" 
+      target=_top><IMG alt="The Lycos Network" border=0 height=19 
+      src="Promising Step in Eye Surgery_files/lycos_logo2.gif" 
+width=175></A></TD>
+    <TD align=right bgColor=#000000><NOBR><FONT color=#999999 
+      face="verdana, arial, helvetica, sans serif" size=1><A 
+      href="http://www.lycos.com/network/find/" target=_top><FONT color=#ffffff 
+      style="FONT-SIZE: 10px; TEXT-DECORATION: none"><B>Find 
+      it</B></FONT></A>&nbsp;&nbsp;-&nbsp;<A 
+      href="http://www.lycos.com/network/talk/" target=_top><FONT color=#ffffff 
+      style="FONT-SIZE: 10px; TEXT-DECORATION: none"><B>Talk about 
+      it</B></FONT></A>&nbsp;&nbsp;-&nbsp;<A 
+      href="http://www.lycos.com/network/shop/" target=_top><FONT color=#ffffff 
+      style="FONT-SIZE: 10px; TEXT-DECORATION: none"><B>Shop for 
+      it</B></FONT></A> &nbsp;&nbsp;</FONT></NOBR></TD></TR>
+  <TR>
+    <TD bgColor=#999999 colSpan=2><IMG alt=" " height=1 hspace=0 
+      src="Promising Step in Eye Surgery_files/spacer.gif" width=1></TD></TR>
+  <TR>
+    <TD bgColor=#666666 colSpan=2><IMG alt=" " height=1 hspace=0 
+      src="Promising Step in Eye Surgery_files/spacer.gif" width=1></TD></TR>
+  <TR>
+    <TD bgColor=#000000 colSpan=2><IMG alt=" " height=1 hspace=0 
+      src="Promising Step in Eye Surgery_files/spacer.gif" 
+width=1></TD></TR></TBODY></TABLE><!-- END OF NEW NAV BAR  --><!-- preSECTION_ID =  --><!-- postSECTION_ID = 25 -->
+<TABLE border=0 cellPadding=4 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR bgColor=#666666>
+    <TD><IMG alt=" " height=1 hspace=0 
+      src="Promising Step in Eye Surgery_files/spacer.gif" width=80></TD>
+    <TD align=left vAlign=top width="100%"><!-- slot=1 --><IFRAME 
+      frameBorder=0 height=60 marginHeight=0 scrolling=no 
+      src="Promising Step in Eye Surgery_files/topstories;h=news;provider=reuters;sz=468x60;tile=1;pos=1;!category=adult;ord=3519534756.html" 
+      style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+      width=468></IFRAME></TD></TR></TBODY></TABLE><!-- WIRED NEWS header --><!-- CMD_HOST =  --><!-- begin skinny logo nav bar -->
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR bgColor=#000000>
+    <TD><IMG border=0 height=38 
+      src="Promising Step in Eye Surgery_files/nav_story_technology.gif" 
+      useMap=#wn_nav2 width=567></TD></TR><MAP name=wn_nav2><AREA 
+    coords=0,0,260,41 href="http://www.wired.com/news/" shape=RECT><AREA 
+    coords=260,0,360,25 href="http://www.wired.com/news/business/" 
+    shape=RECT><AREA coords=360,0,460,25 
+    href="http://www.wired.com/news/politics/" shape=RECT><AREA 
+    coords=460,0,567,25 href="http://www.wired.com/news/reuters/" 
+    shape=RECT><AREA coords=260,25,360,41 
+    href="http://www.wired.com/news/culture/" shape=RECT><AREA 
+    coords=360,25,460,41 href="http://www.wired.com/news/technology/" 
+    shape=RECT><AREA coords=460,25,567,41 href="http://www.wired.com/news/" 
+    shape=RECT></MAP></TBODY></TABLE><!-- end skinny logo nav bar -->
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR bgColor=#99ff99>
+    <TD align=right bgColor=#ffffff vAlign=center width=89><IMG alt=" " 
+      height=1 hspace=0 src="Promising Step in Eye Surgery_files/spacer.gif" 
+      width=89><BR><FONT color=#000000 face=Verdana,Geneva,sans-serif 
+      size=1><I>LOOK FOR&nbsp;</I> </FONT></TD>
+    <TD align=left vAlign=center width="100%"><!-- begin skinny search form -->
+      <TABLE border=0 cellPadding=2 cellSpacing=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=center>
+            <FORM action=http://r.wired.com/search name=RedirectSearch><INPUT 
+            name=query size=28></TD>
+          <TD vAlign=center><SELECT name=url> <OPTION selected 
+              value=http://search.hotwired.com/search97/s97.vts?Action=FilterSearch&amp;Filter=docs_filter.hts&amp;ResultTemplate=news.hts&amp;Collection=news&amp;QueryMode=Internet&amp;Query=>Wired 
+              News</OPTION> <OPTION 
+              value=http://search.hotwired.com/search97/s97.vts?Action=FilterSearch&amp;Filter=docs_filter.hts&amp;ResultTemplate=magazine.hts&amp;Collection=magazine&amp;QueryMode=Internet&amp;Query=>Wired 
+              Magazine</OPTION> <OPTION 
+              value=http://www.hotbot.com/?SM=MC&amp;DV=0&amp;LG=any&amp;RD=RG&amp;DC=10&amp;DE=2&amp;_v=2&amp;OPs=MDRTP&amp;MT=>HotBot</OPTION></SELECT> 
+            </SELECT></TD>
+          <TD 
+        vAlign=center><INPUT name=Submit22 type=submit value=GO></TD></TR></FORM></TBODY></TABLE><!-- end skinny search form --></TD></TR>
+  <TR bgColor=#99ff99>
+    <TD align=right bgColor=#ffffff vAlign=center width=89><IMG alt=" " 
+      height=1 hspace=0 src="Promising Step in Eye Surgery_files/spacer.gif" 
+      width=89><BR><FONT color=#000000 face=Verdana,Geneva,sans-serif 
+      size=1>&nbsp; </FONT></TD>
+    <TD><FONT color=#000000 face=Verdana,Geneva,sans-serif size=1><FONT 
+      color=#003333 face=Verdana,Geneva,sans-serif size=1><A 
+      href="http://www.wired.com/news/print/0,1294,37359,00.html" 
+      target=_top><FONT color=#003333 face=Verdana,Geneva,sans-serif 
+      size=1>Print this</FONT></A><NOBR> 
+</NOBR></FONT></FONT></TD></TR></TBODY></TABLE><!-- end header --><!-- begin story -->
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD align=left vAlign=top>
+      <P><BR></P><FONT color=#000000 face=Verdana,Arial,Geneva,sans-serif 
+size=2><!-- begin story headlines -->
+      <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD align=left vAlign=top><IMG alt=" " height=21 hspace=0 
+            src="Promising Step in Eye Surgery_files/spacer.gif" 
+width=89><BR></TD>
+          <TD align=left vAlign=top width="100%"><FONT color=#000000 
+            face=Arial,Geneva,sans-serif size=3><B>Promising Step in Eye 
+            Surgery</B> </FONT><BR><FONT color=#000000 
+            face=Verdana,Geneva,sans-serif size=1><B>Reuters</B> </FONT>
+            <P></P>
+            <P><FONT color=#ff0000 face=Verdana,Geneva,sans-serif size=1>3:05 
+            p.m. Jun. 30, 2000 PDT</FONT> </P></TD></TR></TBODY></TABLE><!-- end story headlines --></FONT></TD>
+    <TD align=left vAlign=top width=10>&nbsp;</TD>
+    <TD align=left vAlign=top width="20%"><IMG 
+      src="Promising Step in Eye Surgery_files/reuters.gif"> </TD></TR>
+  <TR>
+    <TD align=left vAlign=top><FONT color=#000000 
+      face=Verdana,Arial,Geneva,sans-serif size=2><!-- begin first para -->
+      <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD align=left vAlign=top><IMG alt=" " height=21 hspace=0 
+            src="Promising Step in Eye Surgery_files/spacer.gif" 
+width=89><BR></TD>
+          <TD align=left vAlign=top width="100%"><FONT color=#000000 
+            face=Verdana,Arial,Geneva,sans-serif size=2>
+            <P>CHICAGO -- Illinois scientists said Friday they have successfully 
+            implanted silicon microchips beneath human retinas for the first 
+            time, a procedure that holds promise for millions of people with 
+            failing eyesight. 
+            <P>Earlier this week, three patients who lost almost all of their 
+            vision from retinitis pigmentosa -- a hereditary condition in which 
+            the retina gradually degenerates -- became the first people to have 
+            an Artificial Silicon Retina implanted. </P>
+            <P><BR></FONT></P></TD></TR></TBODY></TABLE><!-- end first para --></FONT></TD>
+    <TD align=left rowSpan=2 vAlign=top width=9>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD align=left rowSpan=2 vAlign=top width="20%">
+      <TABLE border=0 cellPadding=0 cellSpacing=0>
+        <TBODY>
+        <TR>
+          <TD align=right vAlign=top>
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width=170>
+              <TBODY>
+              <TR>
+                <TD align=left vAlign=top width=170><!-- preSECTION_ID =  --><!-- postSECTION_ID = 3 --><!----adhoc.com toolbar -->
+                  <TABLE border=0 cellPadding=4 cellSpacing=0 width=150>
+                    <TBODY>
+                    <TR>
+                      <TD>
+                        <TABLE border=0 cellPadding=1 cellSpacing=0 width=120>
+                          <TBODY>
+                          <TR bgColor=#ff3333>
+                            <TD>
+                              <TABLE bgColor=#ffffff border=0 cellPadding=4 
+                              cellSpacing=0 width="100%">
+                                <TBODY>
+                                <TR>
+                                <TD><FONT 
+                                face="Verdana, Arial, Helvetica, sans-serif" 
+                                size=2><I>Add Wired News' <A 
+                                href="http://www.athoc.com/wis/activate/default.asp?pid=11267&amp;mktmsg=2"><NOBR>custom 
+                                toolbar</NOBR></A> to your IE 4.0+ 
+                                browser.</I></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!----/adhoc.com toolbar --><!-- begin 120s -->
+                  <TABLE border=0 cellPadding=4 cellSpacing=0 width=150 
+                  valign="top">
+                    <TBODY>
+                    <TR>
+                      <TD><!-- slot=2 --><IFRAME frameBorder=0 height=90 
+                        marginHeight=0 scrolling=no 
+                        src="Promising Step in Eye Surgery_files/technology;h=net;sz=120x90;tile=2;pos=2;!category=adult;ord=3519534756.html" 
+                        style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+                        width=120></IFRAME><BR></TD></TR>
+                    <TR>
+                      <TD><!-- slot=3 --><IFRAME frameBorder=0 height=90 
+                        marginHeight=0 scrolling=no 
+                        src="Promising Step in Eye Surgery_files/technology;h=net;sz=120x90;tile=3;pos=3;!category=adult;ord=3519534756.html" 
+                        style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+                        width=120></IFRAME><BR></TD></TR>
+                    <TR>
+                      <TD><!-- slot=4 --><IFRAME frameBorder=0 height=90 
+                        marginHeight=0 scrolling=no 
+                        src="Promising Step in Eye Surgery_files/technology;h=net;sz=120x90;tile=4;pos=4;!category=adult;ord=3519534756.html" 
+                        style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+                        width=120></IFRAME><BR></TD></TR></TBODY></TABLE><!-- end 120s --><!--BEGIN CORNER STORE-->
+                  <TABLE border=0 cellPadding=2 cellSpacing=0 width=150>
+                    <TBODY>
+                    <TR>
+                      <TD bgColor=#99ff99>
+                        <TABLE border=0 cellPadding=0 cellSpacing=0 
+width="100%">
+                          <TBODY>
+                          <TR>
+                            <TD align=middle bgColor=#99ff99><FONT 
+                              color=#ffffff 
+                              face="Geneva,Verdana,Arial, Helvetica" 
+                              size=1><B>Corner 
+                        Store</B></FONT></TD></TR></TBODY></TABLE>
+                        <TABLE border=0 cellPadding=4 cellSpacing=0 
+width="100%">
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff><!-- slot=5 --><IFRAME 
+                              frameBorder=0 height=95 marginHeight=0 
+                              scrolling=no 
+                              src="Promising Step in Eye Surgery_files/technology;h=net;sz=140x95;tile=5;pos=5;!category=adult;ord=3519534756.html" 
+                              style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+                              width=140></IFRAME></TD></TR>
+                          <TR>
+                            <TD bgColor=#ffffff><FONT color=#003399 
+                              face=Geneva,Verdana size=1>- - - - - - - - 
+                              </FONT><BR><FONT face=Geneva,Verdana size=1><B><A 
+                              href="http://www.wired.com/news/edpolicy.html" 
+                              target=_top>Editorial policy</A> 
+                          </B></FONT></TD></TR></TBODY></TABLE><!--close color edge--></TD></TR></TBODY></TABLE><!-- END CORNER STORE --><BR></TD>
+                <TD><IMG alt=" " height=500 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR>
+              <TR>
+                <TD align=left vAlign=top><IMG alt=" " height=10 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=142></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><IMG alt=" " 
+      height=1 hspace=0 src="Promising Step in Eye Surgery_files/spacer.gif" 
+      width=160></TD></TR>
+  <TR>
+    <TD align=left vAlign=top><FONT color=#000000 
+      face=Verdana,Arial,Geneva,sans-serif size=2><!-- begin body -->
+      <TABLE border=0 cellPadding=0 cellSpacing=0>
+        <TBODY>
+        <TR>
+          <TD align=left vAlign=top><FONT color=#000000 
+            face=Verdana,Arial,Geneva,sans-serif size=2>
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width=175>
+              <TBODY>
+              <TR>
+                <TD align=left vAlign=top><A 
+                  href="http://www.wired.com/news/technology/0,1282,,00.html" 
+                  target=_top><IMG border=0 height=45 
+                  src="Promising Step in Eye Surgery_files/icon_technology.gif" 
+                  width=40></A></TD>
+                <TD align=left vAlign=top><IMG alt=" " height=14 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                  width=150><BR><FONT color=#ff0000 
+                  face="Times, Times New Roman, serif" 
+                  size=3>T&nbsp;E&nbsp;C&nbsp;H&nbsp;N&nbsp;O&nbsp;L&nbsp;O&nbsp;G&nbsp;Y</FONT> 
+                </TD>
+                <TD><IMG alt=" " height=1 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=10></TD></TR>
+              <TR>
+                <TD>&nbsp;</TD>
+                <TD align=left vAlign=top><FONT color=#000000 
+                  face=Verdana,Geneva,sans-serif size=1><I>Today's Headlines</I> 
+                  </FONT><BR><FONT color=#ff0000 face=Verdana,Geneva,sans-serif 
+                  size=1><I><NOBR>4:25 p.m. Jun. 30, 2000 PDT</NOBR></I> 
+                </FONT></TD>
+                <TD><IMG alt=" " height=1 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=10></TD></TR>
+              <TR>
+                <TD>&nbsp;</TD>
+                <TD align=left vAlign=top><IMG alt=" " height=5 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                  width=5><BR><FONT color=#000000 
+                  face=Verdana,Arial,Helvetica,sans-serif size=2><A 
+                  href="http://www.wired.com/news/technology/0,1282,37359,00.html" 
+                  target=_top>Promising Step in Eye Surgery</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37116,00.html" 
+                  target=_top>Biotech: The Internet, With Soul</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37355,00.html" 
+                  target=_top>Airlines Check Laptop Wiring</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37341,00.html" 
+                  target=_top>Gene Map Highlights Legal Issues</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37285,00.html" 
+                  target=_top>IBM's Got A Big, Bad Computer</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37321,00.html" 
+                  target=_top>Giving Amazon the Finger</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37303,00.html" 
+                  target=_top>Cables Bad, Wireless Good</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37293,00.html" 
+                  target=_top>A New Income Source for Geeks</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37304,00.html" 
+                  target=_top>Yahoo, Excite Email Disruptions</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37279,00.html" 
+                  target=_top>Recording DVDs the Write Way</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37289,00.html" 
+                  target=_top>Genome Boosts Cancer Research</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37276,00.html" 
+                  target=_top>These Boots Were Made for Talking</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37296,00.html" 
+                  target=_top>U.K. Clones Transgenic Lambs</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37277,00.html" 
+                  target=_top>Taking Audio to the Streets</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37271,00.html" 
+                  target=_top>Health Care: Genomics' Final Act</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37248,00.html" 
+                  target=_top>Transmeta: Lightweight Contender</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37216,00.html" 
+                  target=_top>Whose Genes Are They, Anyway?</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37266,00.html" 
+                  target=_top>PC Expo: It's All About the Hand</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37118,00.html" 
+                  target=_top>A PC Expo Without the PCs</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37247,00.html" 
+                  target=_top>Big Changes for Small Medicine</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37206,00.html" 
+                  target=_top>Human Genome: Because They Could</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,36886,00.html" 
+                  target=_top>Negotiating Gene Science Ethics</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37219,00.html" 
+                  target=_top>From Genomics to Eugenics?</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37229,00.html" 
+                  target=_top>At Sanger, Science Is Religion</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37217,00.html" 
+                  target=_top>Sizing Up Nanotechnology</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37107,00.html" 
+                  target=_top>Better Living By Application</A><BR><BR><A 
+                  href="http://www.wired.com/news/technology/0,1282,37122,00.html" 
+                  target=_top>Sketch Software Still 
+                  Suspect</A><BR><BR><BR></FONT></TD></TR></TBODY></TABLE></FONT></TD>
+          <TD align=left height=10 vAlign=top width="100%"><FONT color=#000000 
+            face=Verdana,Arial,Geneva,sans-serif size=2>
+            <P>
+            <CENTER>
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD><IMG alt=" " height=10 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR>
+              <TR bgColor=#ff9999>
+                <TD height=1><IMG alt=" " height=1 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR>
+              <TR>
+                <TD><IMG alt=" " height=5 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR></TBODY></TABLE><A 
+            href="http://www.wired.com/news/technology/0,1282,37032,00.html" 
+            target=_top>I Spy With My Super Eye</A><BR><A 
+            href="http://www.wired.com/news/technology/0,1282,19046,00.html" 
+            target=_top>Eye Chip Tracks Movement</A><BR>Check yourself into <A 
+            href="http://www.wired.com/news/medtech/" 
+            target=_top>Med-Tech</A><BR>
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD><IMG alt=" " height=10 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR>
+              <TR bgColor=#ff9999>
+                <TD height=1><IMG alt=" " height=1 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR>
+              <TR>
+                <TD><IMG alt=" " height=5 hspace=0 
+                  src="Promising Step in Eye Surgery_files/spacer.gif" 
+                width=1></TD></TR></TBODY></TABLE></CENTER>
+            <P>Doctors said they will not know for weeks whether the chip has 
+            restored vision because the incisions made to implant the device 
+            must first heal. </P>
+            <P>The patients are wearing shields over their eyes to protect from 
+            light and debris. </P>
+            <P>The 2-1/2-hour operations, performed at the University of 
+            Illinois at Chicago Medical Center and at Central DuPage Hospital in 
+            Winfield, Illinois, were part of a Food and Drug 
+            Administration-approved study to determine whether the chip can be 
+            tolerated. </P>
+            <P>Doctors said initial signs suggest the chip -- smaller than the 
+            head of a pin and about half the thickness of a piece of paper -- 
+            had not been rejected. </P>
+            <P>"We'll have to wait three or four weeks to see how it's 
+            functioning," Dr. Alan Chow, the ophthalmologist who invented the 
+            device with his brother, Vincent Chow, an electrical engineer. 
+            "We're cautiously optimistic." </P>
+            <P>The chip contains about 3,500 microscopic solar cells that 
+            convert light into electrical impulses. It works by replacing 
+            damaged photoreceptors, the so-called light-sensing cells of the 
+            eye. Those cells normally convert light into electrical signals 
+            within the retina. </P>
+            <P>Loss of photoreceptor cells occurs in people with retinitis 
+            pigmentosa and other retinal diseases including macular 
+            degeneration, a condition in which the central area of the retina 
+            degenerates. </P>
+            <P>Macular degeneration and retinitis pigmentosa, the two most 
+            common causes of untreatable blindness in developed countries, 
+            affect at least 30 million people in the world. </P>
+            <P>The chip will not help people with blindness caused by severe 
+            glaucoma or diabetes. </P>
+            <P>The implants require no batteries or wires. They are completely 
+            self-contained since they are powered by light that enters the eye. 
+            </P>
+            <P>Doctors hope the implants will stimulate the retina so patients 
+            develop some vision. </P>
+            <P>"We still don't know how much vision can be restored. It's still 
+            very early," said Alan Chow, president and chief executive of 
+            Wheaton, Illinois, Optobionics, which developed the chip. </P>
+            <P>He said he "tossed and turned" for six hours the night before the 
+            first surgery worrying about what might go wrong. </P>
+            <P>"The thing that surprised us most was how smoothly it went," he 
+            said. </P>
+            <P>The microsurgery starts with three tiny incisions no larger than 
+            the diameter of a needle in the white part of the eye. Through the 
+            incisions, surgeons introduce a vacuuming device that removes the 
+            gel in the middle of the eye and replaces it with saline solution. 
+            </P>
+            <P>Surgeons then make a pinpoint opening in the retina to inject 
+            fluid in order to lift up a portion of the retina from the back of 
+            the eye, creating a pocket to accommodate the chip. </P>
+            <P>The retina is resealed over the chip. Doctors then inject air 
+            into the middle of the eye to force the retina back over the device 
+            and close the incisions. The air bubble is reabsorbed and replaced 
+            by fluids created within the eye within a day or two. </P>
+            <P>"If the implant is tolerated well and is able to successfully 
+            stimulate the retina, it may open up new opportunities for restoring 
+            sight in patients with the end stages of retinitis pigmentosa," said 
+            Dr. Gholam Peyman at the Tulane University Medical Center's 
+            ophthalmology department. </P></FONT>
+            <P>
+            <P><BR><FONT color=#000000 face=Verdana,Geneva,sans-serif 
+            size=1><I>Have a comment on this article? <B><A 
+            href="mailto:newsfeedback@wired.com" target=_top>Send it</A>.</B> 
+            <BR>Printing? Use <B><A 
+            href="http://www.wired.com/news/print/0,1294,37359,00.html" 
+            target=_top>this</A></B> version. </I></FONT></P>
+            <P><BR><FONT color=#000000 face=Verdana,Arial,Geneva,sans-serif 
+            size=2><B><I>Related Wired Links:</I></B> </FONT><BR><IMG alt="" 
+            border=0 height=10 
+            src="Promising Step in Eye Surgery_files/pix155.gif" 
+            width=155><BR><FONT color=#000000 
+            face="Arial, Helvetica, sans-serif" size=2><B><A 
+            href="http://www.wired.com/news/technology/0,1282,37032,00.html" 
+            target=_top>I Spy With My Super Eye</A></B> </FONT><BR><FONT 
+            color=#ff0000 face=Verdana,Geneva,sans-serif size=1>Jun. 17, 
+            2000</FONT> <BR><BR><FONT color=#000000 
+            face="Arial, Helvetica, sans-serif" size=2><B><A 
+            href="http://www.wired.com/news/culture/0,1284,36344,00.html" 
+            target=_top>Docs Bid to Give You a Facelift</A></B> </FONT><BR><FONT 
+            color=#ff0000 face=Verdana,Geneva,sans-serif size=1>May. 19, 
+            2000</FONT> <BR><BR><FONT color=#000000 
+            face="Arial, Helvetica, sans-serif" size=2><B><A 
+            href="http://www.wired.com/news/technology/0,1282,34498,00.html" 
+            target=_top>Scientists' See-Food Diet</A></B> </FONT><BR><FONT 
+            color=#ff0000 face=Verdana,Geneva,sans-serif size=1>Feb. 24, 
+            2000</FONT> <BR><BR></P><!-- FOOTER --><!--
+<br><img src="http://a1112.g.akamai.net/7/1112/492/03312000/static.wired.com/news/images/pix155.gif" height=10 width=155 border=0 usemap="#navstrip.map" alt="">
+<br>
+--><IMG 
+            alt="" border=0 height=17 
+            src="Promising Step in Eye Surgery_files/navstrip_off.gif" 
+            useMap=#navstrip.map width=126><BR><BR>
+            <P><FONT face="Verdana, Arial, Geneva, sans-serif" size=1><A 
+            href="http://www.wired.com/news/feedback.html" 
+            target=_top>Feedback</A> &nbsp;|&nbsp; <A 
+            href="http://hotwired.lycos.com/help/" target=_top>Help</A> 
+            &nbsp;|&nbsp; <A href="http://hotwired.lycos.com/home/digital/" 
+            target=_top>About Us</A> &nbsp;|&nbsp; <A 
+            href="http://hotwired.lycos.com/home/jobs/" target=_top>Jobs</A> 
+            <BR><A href="http://www.wired.com/news/edpolicy.html" 
+            target=_top>Editorial Policy</A> &nbsp;|&nbsp; <A 
+            href="http://www.lycos.com/lycosinc/advertising.html" 
+            target=_top>Advertise</A> &nbsp;|&nbsp; <A 
+            href="http://hotwired.lycos.com/home/digital/privacy/" 
+            target=_top>Privacy Statement</A> &nbsp;|&nbsp; <A 
+            href="http://www.lycos.com/lycosinc/legal.html" target=_top>Terms 
+            and Conditions</A> </FONT></P>
+            <P><FONT face="Verdana, Arial, Geneva" size=1><A 
+            href="http://hotwired.lycos.com/home/copyright.html" 
+            target=_top>Copyright</A> © 2000 Wired Digital Inc., a Lycos Network 
+            site. All rights reserved. </FONT></P><MAP name=navstrip.map><AREA 
+              coords=0,0,14,16 href="http://www.wired.com/news" shape=RECT 
+              target=_top><AREA coords=15,0,31,16 
+              href="http://www.wired.com/news/business/" shape=RECT 
+              target=_top><AREA coords=32,0,48,16 
+              href="http://www.wired.com/news/culture/" shape=RECT 
+              target=_top><AREA coords=49,0,65,16 
+              href="http://www.wired.com/news/technology/" shape=RECT 
+              target=_top><AREA coords=66,0,83,16 
+              href="http://www.wired.com/news/politics/" shape=RECT 
+            target=_top></MAP><BR></TD></TR></TBODY></TABLE><!-- end body --></FONT></TD></TR></TBODY></TABLE><!-- end story --><!-- preSECTION_ID =  --><!-- postSECTION_ID = 25 --><!---tile, position = 1 (dup of top) slot = 7 --->
+<TABLE border=0 cellPadding=4 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR bgColor=#666666>
+    <TD><IMG alt=" " height=1 hspace=0 
+      src="Promising Step in Eye Surgery_files/spacer.gif" width=80></TD>
+    <TD align=left vAlign=top width="100%"><!-- slot=7 --><IFRAME 
+      frameBorder=0 height=60 marginHeight=0 scrolling=no 
+      src="Promising Step in Eye Surgery_files/topstories;h=news;provider=reuters;sz=468x60;tile=1;pos=1;!category=adult;ord=3519534756.html" 
+      style="BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid" 
+      width=468></IFRAME></TD></TR></TBODY></TABLE><!-- preSECTION_ID = 3 --><!-- postSECTION_ID = 3 --><!-- 0 0 0 0 1 1 --></BODY></HTML>

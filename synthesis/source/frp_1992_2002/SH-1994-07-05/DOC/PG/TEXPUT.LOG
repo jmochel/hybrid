@@ -1,0 +1,18 @@
+This is emTeX (tex386), Version 3.141 [3c-beta8] (preloaded format=lplain 94.5.11)  11 MAY 1994 06:32
+**&lplain
+
+*\bye
+! Undefined control sequence.
+<*> \bye
+        
+? x
+ 
+Here is how much of TeX's memory you used:
+ 1 string out of 56962
+ 10 string characters out of 225219
+ 23098 words of memory out of 262143
+ 1987 multiletter control sequences out of 10000
+ 20116 words of font info for 77 fonts, out of 81920 for 254
+ 14 hyphenation exceptions out of 607
+ 3i,0n,1p,9b,7s stack positions out of 300i,100n,60p,5000b,1000s
+No pages of output.

@@ -1,0 +1,201 @@
+h05638
+s 00170/00000/00000
+d D 1.1 00/12/08 09:40:43 jmochel 2 1
+cC
+cF1
+cK32470
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 00/12/08 09:40:43 jmochel 1 0
+c BitKeeper file f:/Repository/BardicTales/ShapeShifters/Concordance/ElvenMagic.txt
+cBjmochel@devilmountain|ChangeSet|20001208143925|39592|56cfc6eb
+cHdevilmountain
+cK15939
+cPShapeShifters/Concordance/ElvenMagic.txt
+cR67736512
+cV3
+cX0x180
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 0x1a1
+t
+T
+I 2
+As part of the elven design their conscious control focuses on the realm of 
+interfaces with magic/magic patterns. The school of Kilnaemen (OK, so I renamed it)
+is not a magic school as such, it is a discipline (composed of a series 
+of skills) centering on controlled interaction of primary magic (sorceries) and
+will with the rest of the patterns that make up the universe.
+
+Typical skills:
+
+Read Pattern
+Lore:Power Patterns
+Lore:Commonality Power Patterns (All the basis wizardry patterns )
+W:Kilnaemen
+S:Push (Sorcery verb for interacting with wizardry power pattern)
+S:Pull (Sorcery verb for interacting with wizardry power pattern)
+
+// All the myriad sorceries 
+
+S:Fire
+S:Water
+S:Summon
+S:Apply
+etc...
+
+Elven magery is mostly a series of sorceries. A Kata. 
+
+At the normal usage level they are similar (if not identical to) human sorcerers.
+Slightly faster , somewhat less sure. 
+
+In using the wizardry power patterns their kata become more complex in that they 
+their kata become a series of interactions with the power pattern in questions with 
+a few other sorcery verbs thrown in while using pattern awareness 
+skill W:Kilnaemen as a florentine and W:(Name of School) as a general skill.
+
+Alex, I would like to run spells as Kata with all of their attendant 
+speed and success differences. They will be faster but harder than 
+human sorceries. By doing that almost no other differences would be 
+required to balance elven magery. The instant attack mods will tend 
+to force elves to stay with simple sorceries most of the time.
+
+Normal sorceries such as fire attack would be 
+
+Kata: Fire Attack
+	S:Fire
+	S:Summon
+	S:Apply
+	
+As a kata.
+
+Whereas a wizardry manipulation would be 
+
+Kata: Abjurational Ward 
+	S:Power
+	(Florentine: Kilnaemen) && S:Ward
+	(Florentine: Kilnaemen) && S:Bind
+	(Florentine: Kilnaemen) && S:Push
+
+More bookkeeping would be required but it would also explain why elves adapt well 
+in mid-crisis (rolling a concentration check during a cast is a jump in a kata) and why 
+they do improv spells all the time. 
+
+It also leads to some fun and games in effect where a normal 
+failure in wizardry would cause just a failure an elven failure 
+could leave the kata two thirds finbished (Fire has been summoned 
+but not applied....).
+
+Some suggested sorcery nouns and verbs (specifically for elves):
+
+(Look familiar ?)
+
+Nouns
+=====================================================================
+The nouns are the common forms of energy or conversations that can be 
+manipulated (common to an elf).
+
+Context - Attributes that can be changed via 
+
+1-4	[X, Y, Z, T] within current context
+5	reality mass of current context
+6	Relationship between 
+
+
+Power			- Abjuration
+Context Generator	- Mind
+Seeming			- Illusion
+Time			- Chronomancy...
+
+Context			- Conjuration
+	Locale Media (~ plane)
+	Locale within Media (~ physical location on plane)	
+
+Conversation		- Divination
+
+Matter			- Matter
+
+Elements
+	Earth
+	Fire
+	Air
+	Water
+	Light 
+	Dark
+	Life
+	Death
+	Nature
+	Decay
+
+Verbs
+=====================================================================
+
+All the verbs involve altering the attributes of something in this reality. 
+
+	Alter Attribute	(with some ungainly cost)
+
+And there are some commonly excercised versions of this:
+
+Detect		Identifying the existence of something. 
+Conceal		Hiding the existence of something
+
+Perceive 	Determining something about an object such as its location or nature.
+Hide 		Blocking the determination of the attributes of an object or occurence.
+
+Summon		Bringing energy to the immediate locale .
+Banish		Returning energy from the immediate locale to its origin.
+
+Create		The generation of an energy from nothing.
+Destroy		The elimination of an energy from existence.
+
+Concentrate	The gathering of energy from the nearby region to a more intense whole.
+Dissapate	The scattering of energy into a more diffuse form.
+
+Transport	Alter locale in the medium by going through the medium.
+Translocate	Alter locale in the medium without going through the medium.
+
+Bind		To tie energy to a reality construct.
+Release		Unbinding (not in the Thamaturgic sense)
+
+Shape		Alter form in the medium
+
+Enhance		To strengthen one attribute (makes it harder to alter)
+
+Damage		To rend or otherwise hurt. 
+Restore
+
+Transmutation	Change one type of power into another.
+
+Anchoring	To prevent translocation.
+Influence
+Control
+
+Connect		Establish relation
+
+How some current sorceries would be expressed
+==============================================
+
+Detect Power		Power, Detect
+Detect Mind		Context Generator, Detect
+See Planes		Context Media, Perceive 
+Identify Power		Power, Perceive
+Identify Item		Matter, Perceive
+Read Aura		Seeming, Perceive
+Foreseeing		Conversation, Perceive
+
+Shape Aura		Seeming, Shape
+Detect Aura		Seeming, Detect
+
+Telepathy		Mind, Connect
+Mind Shield		Mind, Enhance
+Mind Attack		Mind, Damage
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,157 @@
+h45807
+s 00129/00000/00000
+d D 1.1 99/12/02 15:40:20 jmochel 2 1
+cC
+cK05270
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:40:17 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/chastity.npc
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44882
+cPCampaign/Karban/Hell/npc/chastity.npc
+cReb4785e75cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.BeginNPC
+.Nomen  Origin Jamie Aja Chastity
+.Nomen  Use Jamie Aja
+.Species Homo Sapiens:Terran:Prime
+.Gender Female
+.Culture Terran:NorAm Combine:Southron Tier
+.BeginStats
+.PST 12
+.PEN 15
+.DEX 15
+.PAG 16
+.PAW 17
+.MST 16
+.MEN 16
+.PSI 9
+.MAG 18
+.MAW 17
+.HT 
+.WT
+.AGE 27
+.EndStats
+
+.BeginPhysDesc
+.BeginFrame
+.Build 
+.Bone
+.Tone
+.Text
+.EndFrame
+
+.BeginHair
+.Length
+.Color
+.Texture
+.Style
+.Curl
+.Ornament
+.Text
+.EndHair
+
+.BeginSkin
+.Color
+.Texture
+.Ornament
+.Text
+.EndSkin
+
+.BeginFacialHair
+.Beard
+.Mustache
+.Eyebrows
+.Eyelashes
+.Ornament
+.Text
+.EndFacialHair
+
+.BeginEars
+.Ornament
+.Text
+.EndEars
+
+.BeginNose
+.Length
+.Form
+.Ornament
+.Text
+.EndNose
+
+.BeginTeeth
+.Conformation
+.Condition
+.Color
+.Ornament
+.Text
+.EndTeeth
+
+.BeginBearing
+.EndBearing
+
+.IDMark Birthmark,Mole,Wart,Scar Text
+
+.BeginVoice
+.Type Bass,Tenor,Soprano
+.Depth
+.Clarity
+.SpeechHabits
+.Accent 
+.EndVoice
+
+.BeginClothing
+.Worth
+.Weight 
+.Age
+.Ornament
+.ColorMix
+.Text
+.EndClothing
+
+.EndPhysDesc
+
+.BeginPyschDesc
+.EndPyschDesc
+
+.BeginSkills
+Name, rnk
+.EndSkills
+.BeginPossess
+.EndPossess
+.Locale
+.BeginAssoc
+#	Type	Relation Name Modifier Text	
+	Person,Place,Thing,Group	FriendOf,EnemyOf,Member,Owner,OwnedBy	Name	Secret,Known	Text
+.EndAssoc
+.BeginHistory
+#	Date Type Association Modifier Text
+.Histom	228 Origin None Known Birthdate
+.Histom 245 Origin None Known First Newscast
+.Histom	252 Ceremony None Known Given the Cranston Award for VidCast Journalism
+.Histom	255 Transition None Secret Connived field assignment with expeditionary force
+.EndHistory
+.BeginStatus
+.EndStatus
+.BeginComment
+.EndComment
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC
+
+E 2
+I 1
+E 1

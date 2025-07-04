@@ -1,0 +1,67 @@
+h17317
+s 00039/00000/00000
+d D 1.1 99/11/17 12:52:54 jmochel 2 1
+cC
+cK41096
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:52:51 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/testingtools/gauntlet/TestClass.glt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45349
+cPjava/src/testingtools/gauntlet/TestClass.glt
+cR2f93d71f5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+//
+// A Cauntlet Script for java.lang.Byte
+//
+
+class java.lang.Byte
+{
+
+	// 
+	// Constructors with inputs
+	// 	Used to create the object to be tested.
+	// 
+
+	public java.lang.Byte(java.lang.String input)
+	{
+	    input = "0";
+	    input = "1";
+	    input = "255";
+	}
+
+	// Simple method to be tested;
+
+	public static byte parseByte(java.lang.String input) 
+	{
+		input = "1";
+		input = "2";
+		input = "255";
+		input = "0";
+	}
+
+	//
+	// Methods to be excluded.
+	//
+
+	exclude public static byte parseByte(java.lang.String input, int a) 
+	{
+	}
+};
+
+
+E 2
+I 1
+E 1

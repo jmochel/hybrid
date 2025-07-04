@@ -1,0 +1,1295 @@
+From world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!noc.near.net!oz.plymouth.edu!sos Wed Dec 15 12:53:17 1993
+Xref: world rec.games.design:5977
+Newsgroups: rec.games.design
+Path: world!news.kei.com!sol.ctr.columbia.edu!howland.reston.ans.net!noc.near.net!oz.plymouth.edu!sos
+From: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Subject: FUDGE Dec7: Chapter 6
+Message-ID: <1993Dec8.200624.2504@oz.plymouth.edu>
+Reply-To: sos@oz.plymouth.edu (Steffan O'Sullivan)
+Organization: Plymouth State College - Plymouth, N.H.
+Date: Wed, 8 Dec 93 20:06:24 GMT
+Lines: 1282
+
+          FUDGE: Freeform, Universal, Donated Gaming Engine
+                   A Free Role-playing Game (RPG).
+                        By Steffan O'Sullivan
+                      Version: December 7, 1993
+
+Table of Contents
+=================
+
+6  Tips and Examples
+    6.1  GM Tips and Conversion
+    6.2  Character Sheet Example
+    6.3  Character Examples
+          6.31  Fantasy Characters
+          6.32  Historical Characters
+          6.33  Modern Characters
+          6.34  Science Fiction Characters
+          6.35  Miscellaneous Characters
+    6.4  Animal & Creature Examples
+    6.5  Equipment Examples
+
+
+6  Tips and Examples
+====================
+
+6.1  GM Tips and Conversion
+---------------------------
+
+Always remember the main point of the game is to have fun . . .
+
+The GM should translate at least one of her favorite characters into
+FUDGE from whatever system she is used to.  This will give her a good
+idea of what traits to choose, and how many.
+
+Note that FUDGE is incredibly flexible, possibly more so than any
+system you've played before.  Once you've translated a favorite
+character, fiddle with her a bit.  Can you tweak her to be *exactly*
+what you want, possibly in ways your previous system wouldn't allow?
+What if you split that attribute into two or three effects - ah!  See,
+she can be smart in some ways, but dumb in others; knowledgeable of
+some things, ignorant of others.  Hmm - too many attributes?  Make
+some of them gifts, then - that might be easier to deal with.  And so
+on - have fun!
+
+Conversion hints: It is not practical to give guidelines for
+converting every game system to and from FUDGE.  However, two systems
+of trait measurement are in widespread use: a 3-18 scale, and a
+percentile system.  While these are not used uniformly (and there are
+many games that don't use either system), it is still useful to
+discuss translating between such systems and FUDGE.
+
+Standard 3-18 scale traits are converted as follows:
+
+FUDGE Level         3-18 Level
+  Superb              18+
+  Great               16-17
+  Good                13-15
+  Fair                9-12
+  Mediocre            6-8
+  Poor                4-5
+  Terrible            3 or less
+
+Percentile traits are converted roughly as follows:
+
+FUDGE Level         Percentile Level
+  Superb              98-100
+  Great               91-97
+  Good                71-90
+  Fair                31-70
+  Mediocre            11-30
+  Poor                4-10
+  Terrible            1-3
+
+6.2  Character Sheet Example
+----------------------------
+
+A character sheet can be any scrap paper, of course.  However, it's
+handy to include the Trait Level progression and GM starting limits,
+if any, such as 1 Superb skill, 3 Great skills, magic available, etc.
+
+Two sample character sheets are provided: one for Subjective Character
+Creation system and one for the Objective Character Creation system.
+Note that they both include experience points (EPs) needed to raise
+skills in the Objective Character Development system.  This can be
+left off if you don't use EPs, of course.
+
+Sample [delete any note in square brackets, such as this]:
+
+/--------------------------------\  Character Name:
+|               Defaults:   | EP |    Player:
+| +3 Superb                 | 8  |  Date Created:
+| +2 Great                  | 4  |
+| +1 Good                   | 2  |  Unspent EP:
+|  0 Fair ..... Attributes  | 1  |
+| -1 Mediocre               | 1  |  Starting Limits: [such as
+| -2 Poor ..... Most Skills | 1  |   1 Superb Skill, 3 Great,
+| -3 Terrible               | 1  |   no magic, etc.]
+|--------------------------------|
+|   Some Skills and most Gifts   |  Character Story (include
+| have a default of non-existent |      personality):
+|--------------------------------|
+| EP = Raising skills to that    |
+|   level with Experience Points |
+\--------------------------------/
+[The following table can be deleted if you use the recommended dice
+technique:]
+Rolled: |  2 |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11 | 12
+--------|----|-----|-----|-----|-----|-----|-----|-----|-----|----|---
+Result: | +0 | -4  | -3  | -2  | -1  | +0  | +1  | +2  | +3  | +4 | +0
+
+Wound Progression (Write Number of each to match Damage Capacity):
+        Scratch     Hurt     Very Hurt    Incapacitated     Near Death
+                                                                2
+
+Hits:
+----------------------------------------------------------------------
+   Attributes:         |        Gifts:             |        Skills:
+-----------------------|---------------------------|------------------
+                       |                           |
+  [space as needed in each section - the GM can include some before
+   printing, if desired - especially true for Attributes]
+                       |                           |
+Damage Cap:            |---------------------------|
+-----------------------|        Faults:            |
+    Equipment:         |---------------------------|
+-----------------------|                           |
+                       |                           |
+ [Could go on the      |                           |
+  back if space        |---------------------------|
+  is a problem.        |   Supernormal Powers:     |
+  Remember to list     |---------------------------|
+  armor and weapon     |                           |
+  modifiers clearly.]  |       [if needed]         |
+
+[End of sample.  You should be able to get it on a single page.]
+
+For those using the Objective Character Creation system, the following
+character sheet header is more appropriate than the one above:
+
+/----------------------------------\  Character Name:
+|              Att | Sk | VH  | EP |    Player:
+| Superb ....  +3  |  5 |  7  | 8  |  Date Created:
+| Great .....  +2  |  4 |  6  | 4  |
+| Good ......  +1  |  3 |  5  | 2  |  Unspent EP:
+| Fair ......   0  |  2 |  4  | 1  |
+| Mediocre ..  -1  |  1 |  3  | 1  |  Starting Limits: [such as
+| Poor ......  -2  |  0 |  2  | 1  |   1 Superb Skill, 3 Great,
+| Terrible ..  -3  | -1 |  1  | 1  |   no magic, etc.]
+|----------------------------------|
+| Att = Attribute Costs            |  Character Story (include
+| Sk = Average Skill Costs         |      personality):
+| VH = Very Hard Skill Costs       |
+| EP = Raising skills with EPs     |
+|----------------------------------|
+| Trading Traits: 1 gift = 1 fault |
+| 1 gift = 1 to 2 attribute levels |
+| 1 attribute level = 3 skill lvls |
+| 1 supernormal power = 2 gifts    |
+\----------------------------------/
+
+6.3  Character Examples
+-----------------------
+
+The following characters are designed to different GM standards, to
+give some examples of the many possibilities.  Each character example
+includes the GM guidelines used.  All but the last one are made with
+the Objective Character Creation system, though all are compatible
+with the Subjective Character Creation system, of course.  Easy and
+hard skills are denoted as such.  (In the Objective Character Creation
+system, it costs less to get an easy skill at a given level, and more
+for a hard skill.)  Skills that have defaults of non-existent and cost
+one level just to get at Terrible are listed as: Telepathy (VH).
+These are usually skills that control Supernormal Powers.
+
+The numbers in parentheses after trait levels are the Objective level
+costs, and are optional on any given character sheet (but make it easy
+to tally).
+
+Some characters have a separate Damage Capacity attribute; others have
+Damage Capacity represented by some other attribute, such as Health,
+Body, Constitution, Physical, etc.
+
+Most of the gifts and faults were chosen with an eye towards variety,
+for purposes of example.  Of course, if you use these characters, feel
+free to change any of the traits.
+
+6.31  Fantasy Characters
+------------------------
+
+Brogo, Floranna, and Moose have some magic abilities, using the sample
+FUDGE Magic system found in the Addenda.  Brogo is just a dabbler in
+magic, and Moose is only slightly better.  Floranna is a full
+magician, however.
+
+Note that Brogo has lowered four *useful* skills to Terrible to
+balance his skill levels to 50 - he would have 54 levels, otherwise.
+
+6.311  Brogo the Scout, Halfling
+--------------------------------
+
+GM limits: 8 attributes (4 free levels); 50 free skill levels,
+   w/maximum of 1 Superb, 3 Greats; 2 free gifts; magic available.
+   Scale -2, Racial Bonus: Damage Capacity +1, Health +1.
+
+Note: spell-casting is equal to Coolness-2 in this game, with a
+maximum level of Fair - no Spell-casting skill need be bought.  Also,
+Magic Potential isn't limited to a specific effect in this game: Brogo
+can try for any effect, except as limited by his fault.
+
+Attributes:  (4 free levels, 10 levels taken, balanced by 3 faults)
+   Coolness: Good                                      (1)
+   Damage Capacity: Good                               (1)
+   Dexterity: Great                                    (2)
+   Empathy: Good                                       (1)
+   Health: Good  [Halfling Fair]                       (0)
+   Intelligence: Good                                  (1)
+   Perception: Superb                                  (3)
+   Strength: Good, Scale -2                            (1)
+Skills: (50 free levels, 50 taken)
+   Area Knowledge, large area (easy): Good             (2)
+   Bow: Good                                           (3)
+   Climbing: Good                                      (3)
+   Elvish Language (hard): Mediocre                    (2)
+   Evaluate Goods: Fair                                (2)
+   Farming (easy): Fair                                (1)
+   Fellowship: Great                                   (4)
+   Find Secret Passages: Terrible                      (-1)
+   First Aid: Good                                     (3)
+   Haggle: Good                                        (3)
+   Interrogation: Terrible                             (-1)
+   Knowledge of Old Tales: Fair                        (2)
+   Lockpicking: Terrible                               (-1)
+   Mimic Animal Noises (hard): Great                   (4)
+   Move Quietly: Superb                                (5)
+   Orcish Language: Fair                               (2)
+   Pickpocketing: Terrible                             (-1)
+   Riding: Pony: Fair                                  (2)
+   Staff: Good                                         (3)
+   Storytelling: Good                                  (3)
+   Survival: Good                                      (3)
+   Tracking: Good                                      (3)
+   Wildcraft: Great                                    (4)
+Gifts: (2 free gifts, 4 taken, balanced by faults)
+   Absolute Direction
+   Animal Empathy
+   Lucky
+   Night Vision
+Supernormal Powers: (1 taken, balanced by superfault)
+   Magic Potential, one level
+Faults:
+   Can only cast trivial spells
+   Curious
+   Glutton
+   Humanitarian (helps the needy for no pay)
+   Self-defense Pacifist
+   Superfault: Halfling (Scale -2, Racial Bonus to Health)
+
+6.312  Floranna, Elven Magician
+-------------------------------
+
+GM limits: 2 attributes (1 free level); 50 free skill levels,
+   w/maximum of 1 Superb, 3 Greats; 4 free gifts; magic available.
+
+NOTE: this character uses the FUDGE Magic described in Chapter 7, but
+the GM decided to allow a Spell Casting skill greater than Fair - at
+cost of one gift.  However, the GM also required two separate Spell-
+casting skills.  Since one gift = 6 skill levels, it costs 4 levels to
+get Spell Casting on Others at Fair, then 6 more levels to get it at
+Good, the maximum allowed.
+
+Attributes: (1 free level, 1 taken)
+   Material: Mediocre                                  (-1)
+   Spiritual: Great                                    (2)
+Skills: (50 free levels, 32 taken, the rest traded for 3 gifts)
+   Acrobatics/Athletics: Mediocre                      (1)
+   Animal Skills: Good                                 (3)
+   Camaraderie: Mediocre                               (1)
+   Combat Skills: Poor                                 (0)
+   Courtly Ways: Poor                                  (0)
+   Cultural Knowledge: Good                            (3)
+   Doctoring: Great                                    (4)
+   Manipulate People: Poor                             (0)
+   Move Quietly/Gracefully: Fair                       (2)
+   Scientific Knowledge: Mediocre                      (1)
+   Spell Casting on Others (VH): Good                  (10)
+   Spell Casting on Self (VH): Fair                    (4)
+   Thievery: Terrible                                  (-1)
+   Woodland Ways/Nature Lore: Great                    (4)
+Gifts: (4 free gifts, none taken)
+Supernormal Powers: (6 taken, balanced by faults, reduced gifts, and
+         reduced skill levels)
+   Elf: extended lifespan, animals (not monsters) react well to her,
+         Perception = +1 to Material attribute
+   Magic Potential, White Magic, Five levels
+Faults:
+   Absent-Minded
+   Heart of gold - any halfway skillful liar can get sympathy & help
+   Idealist - not grounded in reality
+   Melancholy
+   Zealous behavior - tries to dissuade others from violence
+
+6.313  Moose the Mage, Human Combat Magician
+--------------------------------------------
+
+GM limits: 6 attributes (3 free levels); 30 free skill levels,
+   w/maximum of 1 Superb, 3 Greats; 2 free gifts; magic available.
+
+Note: Moose's Spell-casting skill costs double levels because of his
+   low Intelligence attribute.  It would also take double EP to raise.
+
+Attributes: (3 free levels, 4 levels taken, balanced by a fault)
+   Charisma: Poor                                      (-2)
+   Dexterity: Great                                    (2)
+   Drive: Good                                         (1)
+   Health: Great                                       (2)
+   Intelligence: Mediocre                              (-1)
+   Strength: Great                                     (2)
+Skills: (30 free levels, 36 taken, balanced by a fault)
+   Armory: Good                                        (3)
+   Brawling: Great                                     (4)
+   Breaking and Entering: Terrible                     (-1)
+   Climbing: Fair                                      (2)
+   Crafts: Fair                                        (2)
+   Flirtatious Skills: Terrible                        (-1)
+   Knowledge of Old Tales: Terrible                    (-1)
+   Merchant: Mediocre                                  (1)
+   Riding: Good                                        (3)
+   Shield: Great                                       (4)
+   Singing: Terrible                                   (-1)
+   Spell-Casting (VH): Mediocre                        (6)
+   Stealth: Good                                       (3)
+   Storytelling: Terrible                              (-1)
+   Sword: Superb                                       (5)
+   Tactics: Good                                       (3)
+   Throwing: Great                                     (4)
+   Woodcraft: Mediocre                                 (1)
+Gifts: (2 free gifts, 2 taken)
+   Combat Reflexes
+   Comfortable Wealth (good equipment)
+Supernormal Powers: (2 taken, balanced by faults)
+   Magic Potential, Combat spells, two levels
+Faults:
+   Blunt and tactless - doesn't mince words
+   Fear of the Dark
+   Full of bluff and bluster and machismo to hide inadequacy feelings
+         (he'll never live up to the impossibly heroic image of his
+         father)
+   Quick-Tempered; no patience with fools or knaves
+   Spell-casting skill costs double due to low IQ
+   Vow: Destroy the brigand band that killed his father
+
+6.314  Tarag Half-Ogre
+----------------------
+
+GM limits: 3 attributes (3 free levels); 10 free skill levels,
+   w/maximum of 1 Superb, 2 Greats; 3 free gifts; magic available.
+   Half-Ogre is Scale 3.
+
+Attributes: (3 free levels, 2 taken, 1 traded for 3 skill levels)
+   Body: Good, Scale 3                                 (1)
+   Mind: Mediocre [Half-Ogre Fair]                     (0)
+   Psyche: Good                                        (1)
+Skills: (10 free levels, 13 taken, balanced by low attributes)
+   Animal Skills: Fair                                 (2)
+   Artistic Skills: Terrible                           (-1)
+   Balance Skills: Good                                (3)
+   Medical Skills: Terrible                            (-1)
+   Melee Weapons: Superb                               (5)
+   Merchant Skills: Terrible                           (-1)
+   Outdoor Skills: Good                                (3)
+   Ranged Weapons: Good                                (3)
+   Social Skills: Terrible                             (-1)
+   Technical Skills: Terrible                          (-1)
+   Thief Skills: Terrible                              (-1)
+   Unarmed Combat: Good                                (3)
+Gifts: (3 free gifts, 3 taken)
+   Quick Reflexes
+   Peripheral Vision - no penalty facing two foes at once
+   Tough Hide (-1 to damage)
+Supernormal Powers: (1.5 taken, balanced by faults)
+   Half-Ogre (Body Scale 3, Mind at -1)
+   Anti-Magic Aura - spells cast on her are at -1 (counts as only 1
+         gift because it also interferes with beneficial spells)
+Faults:
+   Goes Berserk if Hurt - liable to attack friends
+   Gullible
+   Poor (not much equipment)
+
+6.32  Historical Fiction Characters
+----------------------------------
+
+6.321  Arian o Gwent, Welsh Archer, 1190
+----------------------------------------
+
+A Norman conqueror murdered Arian's family treacherously - under the
+guise of a flag of truce.  When Arian slew him in vengeance, she was
+outlawed from Wales.  Escaping north, the embittered Arian is about to
+join Robin Hood's outlaw Saxon band and introduce into England a new
+Welsh invention, the longbow . . .
+
+GM limits: 6 attributes (4 free levels); 45 free skill levels,
+   w/maximum of 1 Superb, 2 Great; 2 free gifts; no supernormal powers
+   available; must take 2 faults: Outlaw & Loyal to Companions, which
+   do not count as trading for other traits.
+
+Attributes: (4 free levels, 4 taken)
+   Calmness: Mediocre                                  (-1)
+   Constitution: Fair                                  (0)
+   Dexterity: Great                                    (2)
+   Reasoning: Good                                     (1)
+   Senses: Great                                       (2)
+   Strength: Fair                                      (0)
+Skills: (30 free levels, 36 taken, balanced by 1 fault)
+   Acrobatics: Good                                    (3)
+   Archery: Superb                                     (5)
+   Bowyer: Great                                       (4)
+   Climbing: Good                                      (3)
+   Disguise: Good                                      (3)
+   Dodge: Good                                         (3)
+   Fletcher: Good                                      (3)
+   Move Quietly: Great                                 (4)
+   Riding: Good                                        (3)
+   Tactics: Fair                                       (2)
+   Woodcraft: Good                                     (3)
+Gifts: (2 free gifts, 3 taken, balanced by fault)
+   Literate - in 1190, this is rare enough to be called a gift
+   Attractive
+   +3 Calmness while shooting a bow
+Faults:
+   Outlaw
+   Loyal to Companions
+   Speaks English with a strong Welsh accent
+   Despises Normans - Fair Calmness roll to avoid acting rashly
+
+6.322  Henri le Rouge, Musketeer of King Louis XIII, 1627
+---------------------------------------------------------
+
+GM limits: since this is a cinematic campaign without magical or SF
+   healing, the GM has set higher limits: 9 attributes (8 free
+   levels); 60 free skill levels, w/maximum of 2 Superb, 5 Greats; 3
+   free gifts; no supernormal powers available
+
+Attributes: (8 free levels, 12 taken, balanced by faults)
+   Charm: Great                                        (2)
+   Coolness: Superb                                    (3)
+   Damage Capacity: Great                              (2)
+   Dexterity: Great                                    (2)
+   Health: Good                                        (1)
+   Perception: Fair                                    (0)
+   Strength: Fair                                      (0)
+   Will: Fair                                          (0)
+   Wit: Great                                          (2)
+Skills: (60 free levels, 72 taken, balanced by 2 faults)
+   Acrobatics: Superb                                  (5)
+   Acting: Good                                        (3)
+   Boating: Terrible                                   (-1)
+   Brawling: Good                                      (3)
+   Carousing: Good                                     (3)
+   Climbing: Great                                     (4)
+   Disguise: Good                                      (3)
+   Dodge: Good                                         (3)
+   Engineer: Terrible                                  (-1)
+   Fencing: Superb                                     (5)
+   First Aid: Good                                     (3)
+   Flirting: Good                                      (3)
+   Knowledge of Europe: Mediocre                       (1)
+   Knowledge of France: Good                           (3)
+   Knowledge of Paris: Good                            (3)
+   Knowledge of Planet: Mediocre                       (1)
+   Lockpicking: Terrible                               (-1)
+   Main Gauche: Great                                  (4)
+   Matchlock Musket: Good                              (3)
+   Mechanic: Terrible                                  (-1)
+   Move Quietly: Good                                  (3)
+   Political Knowledge: Fair                           (2)
+   Quick-Draw Sword (easy): Good                       (2)
+   Oratory: Mediocre                                   (1)
+   Repartee: Great                                     (4)
+   Riding: Great                                       (4)
+   Savoir-Faire: Good                                  (3)
+   Shadowing: Fair                                     (2)
+   Swimming: Terrible                                  (-1)
+   Tactics: Good                                       (3)
+   Wheellock Pistol: Good                              (3)
+Gifts: (3 free gifts, 5 taken, balanced by faults)
+   Combat Reflexes
+   Handsome
+   Patron: Captain of Musketeers
+   Rapid Healing
+   Status: Gentleman
+Faults:
+   Code of Honor
+   Compulsive Carouser
+   Disgusted by Non-Gourmet Food
+   Extremely Loyal to Companions
+   Intolerant of Protestants
+   Thin-skinned - quick to take offense
+
+6.323  Scruffy Sanders, Stagecoach Driver, 1870s, Western U.S.A.
+----------------------------------------------------------------
+
+GM limits: 5 attributes (3 free levels); 30 free skill levels,
+   w/maximum of 1 Superb, 2 Great; 2 free gifts; no supernormal powers
+   available; minimum 1 fault that doesn't count for trading.  Scruffy
+   traded his one Superb skill limit for two extra Greats, so he has
+   four Great skills, and no Superb skills.
+
+Attributes: (3 free levels, 3 taken)
+   Agility: Mediocre                                   (-1)
+   Health: Good                                        (1)
+   Perception: Good                                    (1)
+   Savvy: Great                                        (2)
+   Strength: Fair                                      (0)
+Skills: (35 free levels, 53 taken, balanced by 3 faults)
+   Area Knowledge, Western States: Good                (3)
+   Bluffing: Great                                     (4)
+   Brawling: Fair                                      (2)
+   Concertina (Squeezebox): Good                       (3)
+   Dodge: Good                                         (3)
+   First Aid: Good                                     (3)
+   Holds His Liquor: Good                              (3)
+   Hunting: Good                                       (3)
+   Move Quietly: Good                                  (3)
+   Pistols: Fair                                       (2)
+   Riding: Good                                        (3)
+   Shotgun: Great                                      (4)
+   Singing: Good                                       (3)
+   Stagecoach Mechanic: Good                           (3)
+   Tall Tales: Good                                    (3)
+   Teamster: Great                                     (4)
+   Witty Insults: Great                                (4)
+Gifts: (2 free gifts, 2 taken)
+   Never forgets a face
+   Sense of empathy: gets a feel for people
+Faults:
+   Garrulous
+   Addiction to disgusting habit: spitting chewing tobacco
+   Lazy - would "rather talk than do"
+   Getting old, and all that implies . . .
+
+6.33  Modern Characters
+-----------------------
+
+6.331  Dolores Ramirez, Journalist, 1990s
+-----------------------------------------
+
+GM limits: 10 attributes (5 free levels); 50 free skill levels,
+   w/maximum of 1 Superb, 4 Greats; 2 free gifts; limited Psi
+   available.
+
+NOTE: The player forgot a very important skill for Dolores: Research.
+This was realized during a game, and since she would logically have
+the skill, the player petitioned the GM to allow Research to be one of
+the Uncommitted traits.  The GM agreed, and [Research: Good] was added
+to Dolores' character sheet.  Dolores already has 1 Superb and 4 Great
+skills, so this is the best she could start with it.  This does not
+count against starting free levels - Uncommitted traits are extra.
+
+Attributes: (5 free levels, 7 taken, balanced by fault)
+   Appearance: Good                                    (1)
+   Constitution: Good                                  (1)
+   Coolness: Good                                      (1)
+   Damage Capacity: Good                               (1)
+   Dexterity: Fair                                     (0)
+   Intelligence: Great                                 (2)
+   Luck: Good                                          (1)
+   Sanity: Great                                       (2)
+   Strength: Poor                                      (-2)
+   Will: Fair                                          (0)
+Skills: (50 free levels, 56 taken, balanced by fault)
+   Acrobatics: Fair                                    (2)
+   Acting: Great                                       (4)
+   Breaking & Entering: Good                           (3)
+   Climbing: Fair                                      (2)
+   Computer Use: Good                                  (3)
+   Criminology: Mediocre                               (1)
+   Disguise: Great                                     (4)
+   Driving: Good                                       (3)
+   Interviewing: Great                                 (4)
+   Karate (hard): Fair                                 (3)
+   Mexican Cuisine: Mediocre                           (1)
+   Move Quietly: Good                                  (3)
+   Occultism: Good                                     (3)
+   Photography: Good                                   (3)
+   Pistol: Good                                        (3)
+   Shadowing: Great                                    (4)
+   Shady Contacts: Good                                (3)
+   Swimming: Fair                                      (2)
+   Writing: Superb                                     (5)
+Gifts: (2 free Gifts, 4 taken, balanced by faults)
+   Ambidextrous
+   Beautiful speaking voice
+   Danger Sense
+   Never forget a name
+Faults:
+   Overconfident
+   Ambitious
+   Stubborn
+   Vain
+
+6.332  Sherman Foley, homeless person and scanner, modern day
+-------------------------------------------------------------
+
+By: Bernard Hsiung
+
+GM limits: no specified attributes - free levels = 1/2 of number of
+   attributes taken; 50 free skill levels, w/maximum of 1 Superb, 4
+   Greats; 2 free gifts; semi-limited Psi
+
+NOTE: Sherman's player only chose 4 attributes when the GM gave free
+reign.  This means that Sherman has any unlisted attribute the GM
+considers essential at Fair.
+
+Attributes: (4 attributes selected: 2 free levels, 2 taken)
+   Damage Capacity: Mediocre                           (-1)
+   Health: Mediocre                                    (-1)
+   Perception: Great                                   (2)
+   Willpower: Great                                    (2)
+Skills: (50 free levels, 44 taken, 6 used to balance 1 gift)
+   Area Knowledge, inner city (easy): Great            (3)
+   Area Knowledge, Earth: Mediocre                     (1)
+   Begging: Fair                                       (2)
+   Climbing: Terrible                                  (-1)
+   Drinking: Good                                      (3)
+   Driving: Terrible                                   (-1)
+   Forage: Good                                        (3)
+   Knife: Mediocre                                     (1)
+   Knowledge, Phobias (hard): Good                     (4)
+   Meditation: Good                                    (3)
+   Sewing: Mediocre                                    (1)
+   Stealth/Urban: Fair                                 (2)
+   Street Gossip: Good                                 (3)
+   Survival/Urban: Great                               (4)
+   Use Mind Control (VH): Great                        (6)
+   Use Telepathy (VH): Good                            (5)
+   Use Telekinesis (VH): Good                          (5)
+Gifts: (2 free gifts, none taken)
+Supernormal Powers: (3 taken, balanced by faults, reduced gifts, and
+         reduced skills)
+   Mind Control
+   Telepath
+   Telekinetic
+Faults:
+   Use of Psi Requires Immobile Concentration
+   Materially Poor
+   Unlucky
+
+6.333  Dragonfly (James Stoddard), Secret Superhero
+---------------------------------------------------
+
+GM limits: 7 attributes (4 free levels); 50 free skill levels,
+   w/maximum of 2 Superb, 6 Greats; 2 free gifts; 4 free Superpowers
+
+Attributes: (4 free levels, 8 taken, balanced by faults)
+   Damage Capacity: Fair                               (0)
+   Dexterity: Great                                    (2)
+   Health: Good                                        (1)
+   Intelligence: Great                                 (2)
+   Intuition: Great                                    (2)
+   Speed: Good                                         (1)
+   Strength: Fair                                      (0)
+Skills (50 free levels, 56 taken, balanced by fault)
+   Acrobatics: Great                                   (4)
+   Acting: Good                                        (3)
+   Bureaucracy: Fair                                   (2)
+   Computer Use: Great                                 (4)
+   Control Superpower (Electron Flow) (VH): Superb     (7)
+   Control Superpower (Flight) (VH): Good              (5)
+   Criminology: Good                                   (3)
+   Disguise: Good                                      (3)
+   Dodge: Great                                        (4)
+   Driving: Good                                       (3)
+   Electronics Engineering, Computers (hard): Great    (5)
+   Japanese Language: Great                            (4)
+   Judo (hard): Great                                  (5)
+   Singing: Terrible                                   (-1)
+   Stealth: Superb                                     (5)
+Gifts: (2 free gifts, 3 taken, balanced by a fault)
+   Perfect Timing
+   Good Looking
+   Tough Hide (-1 to damage)
+Supernormal Powers: (4 free Superpowers, 4 taken)
+   Control Inanimate Electronic Devices
+   Shrink to 1" (25 mm) for up to an hour, 2 times/day (Scale = -10)
+   Fly, only while 1" (25 mm) high
+   Electrical Surge (Short-out Machines)
+Faults:
+   Ethically unable to use Powers to get out of massive debt
+   Quixotic - always looking for wrongs to right
+   Phobia of animals bigger than a collie
+   Socially awkward (bit of a nerd)
+
+6.34  Science Fiction Characters
+--------------------------------
+
+6.341  Captain Wallop of the Space Patrol
+-----------------------------------------
+
+This character is from a very cinematic Space Opera campaign.
+
+GM limits: 4 attributes (4 free levels); 50 free skill levels,
+   w/maximum of 1 Superb, 3 Greats, 8 Goods; 2 free gifts; one free
+   Supernormal power, subject to GM approval
+
+Attributes (4 free levels, 6 taken, balanced by fault):
+   Body: Good                                          (1)
+   Reason/Mechanical: Great                            (2)
+   Perceive/React: Superb                              (3)
+   Willpower: Fair                                     (0)
+Skills (50 Free levels, 56 taken, balanced by fault)
+   Acrobatics: Good                                    (3)
+   Acting/Disguise: Great                              (4)
+   Barroom Savvy: Good                                 (3)
+   Blaster: Superb                                     (5)
+   Computer Operation: Fair                            (2)
+   Diplomacy: Good                                     (3)
+   Electronics: Good                                   (3)
+   Familiarity with Major Planetary Systems: Good      (3)
+   Gunnery: Great                                      (4)
+   Haggle: Fair                                        (2)
+   Hard Sciences: Fair                                 (2)
+   Mimicry: Mediocre                                   (1)
+   Navigation: Good                                    (3)
+   Pick Up Languages: Fair                             (2)
+   Piloting: Great                                     (4)
+   Repair Scoutship Systems: Good                      (3)
+   Stealth: Great                                      (4)
+   Unarmed Combat: Fair                                (2)
+   Zero-G Maneuvering: Good                            (3)
+Gifts: (2 free gifts, 4 taken, balanced by faults)
+   Handsome
+   Reputation as Hero
+   Never disoriented in zero Gravity
+   Rank of Captain in the Space Patrol
+Supernormal Powers: (1 free Supernormal power, 1 taken)
+   Able to key in on one mind up to a mile (1.5 km) away and follow
+         the trail on Good Situational roll or better every 15
+         minutes.
+Faults:
+   Amorous heartbreaker - love 'em and leave 'em
+   Bravery indistinguishable from foolhardiness
+   Fanatic patriot
+   Must obey senior officers in the Space Patrol
+
+6.342  Seihook - Alien from Aldebaran
+-------------------------------------
+
+The Aldebaranians (their own name for themselves is unpronounceable by
+humans) are a non-humanoid race.  They resemble a collection of
+animated rock and twine, and digest a moss that appears to be slowly
+digesting them.  They can also use any of the "twine" pieces as straws
+to drink fluids - alcohol affects them as it does humans.  While they
+have nothing resembling hands, they have strong psi powers that enable
+them to manipulate their environment, and even travel space.  They are
+friendly with humanity - "interesting auras," they say, "always
+interesting."  In general, they are bewildered by red tape, dislike
+war, value their families above all things, and like comfort, but
+don't seek extreme wealth.  Their Damage Capacity is determined by
+their Size attribute; Perception is determined by Empathy Skill, which
+they say extends to inanimate objects, and refuse to use any other
+word to describe the ability.  Psi powers generally rate raw strength;
+psi skills fine manipulation of that strength.  Aldebaranians are
+hermaphroditic (they exchange "twine" with each other to procreate),
+so Seihook can be considered both male and female.
+
+GM limits: 8 attributes (5 free levels); 40 free skill levels,
+   w/maximum of 1 Superb, 3 Greats; 2 free gifts; Supernormal Powers
+   count as attributes - no extra cost.
+
+Attributes (5 free levels, 7 taken, balanced by fault):
+   Empathy Power: Fair                                 (0)
+   Levitation Power: Good                              (1)
+   Reasoning: Great                                    (2)
+   Reaction: Fair                                      (0)
+   Size: Good (size of 4-year old human)               (1)
+   Telekinesis Power: Great                            (2)
+   Telepathy Power: Good                               (1)
+   Will: Fair                                          (0)
+Skills (40 Free levels, 40 taken)
+   Bar Etiquette: Fair                                 (2)
+   Barter: Great                                       (4)
+   Empathy Skill: Great                                (4)
+   Folklore: Fair                                      (2)
+   Hard Sciences: Mediocre                             (1)
+   History: Fair                                       (2)
+   Knowledge of Alien (incl. Human) Customs: Good      (3)
+   Levitate Other: Fair                                (2)
+   Levitate Self: Superb                               (5)
+   Medical Skills: Good                                (3)
+   Psychology: Great                                   (4)
+   Telekinesis Skill: Good                             (3)
+   Telepathy, Dampen Thoughts: Poor                    (0)
+   Telepathy, Read Thoughts: Fair                      (2)
+   Telepathy, Project Thoughts: Good                   (3)
+Gifts: (2 free gifts, 4 taken, balanced by faults)
+   Can't feel physical pain
+   Animals do his bidding in simple, non-threatening matters on a
+         Great Empathy *Power* roll or better
+   Tolerant of Appearances - Never disgusted by any alien form
+   Wealthy (for an Aldebaranian)
+Faults:
+   Practical Joker (for example, loves to "speak" in bad accents in
+         thought projection)
+   Gossip
+   Coward - fears death
+
+6.343  Screamer (Frederick Grant); Occupation: Decker
+-----------------------------------------------------
+
+Cyberpunk character by: Stephan Szabo
+
+GM limits: 7 attributes (3 free levels); 30 free skill levels,
+   w/maximum of 1 Superb, 4 Greats; 2 free gifts; Cybernetic
+   enhancements count as gifts, not supernormal powers.
+
+Attributes (3 free levels, 5 taken, balanced by fault):
+   Body: Good                                          (1)
+   Charisma: Poor                                      (-2)
+   Intelligence: Superb                                (3)
+   Quickness: Good                                     (1)
+   Reaction: Great                                     (2)
+   Strength: Fair                                      (0)
+   Willpower: Fair                                     (0)
+Skills (30 Free levels, 30 taken)
+   Computer Build/Repair: Great                        (4)
+   Computer Programming: Superb                        (5)
+   Computer Theory: Great                              (4)
+   Cycle: Fair                                         (2)
+   Electronics: Great                                  (4)
+   Firearms: Great                                     (4)
+   Matrix Etiquette: Good                              (3)
+   Street Etiquette: Fair                              (2)
+   Unarmed Combat: Fair                                (2)
+Gifts: (2 free gifts, 6 taken, balanced by faults)
+   Cybernetics, Datajack
+   Cybernetics, Can multitask cognitive processes
+   Cybernetics, Thermographic Vision
+   Cybernetics, Flash Compensation
+   Cybernetics, Telescopic Sight
+   Lucky
+Faults:
+   Bloodlust
+   Doesn't care if he lives or dies
+   Manic/Depressive
+   Multiple Personality
+   Overconfident
+
+6.35  Miscellaneous Characters
+------------------------------
+
+6.351  Fan Yin Wong, Ghost
+--------------------------
+
+Fan Yin is from a campaign where all the PCs are ghosts with low karma
+levels.  She must do a number of good deeds before she can risk being
+reborn again, but her ability to influence the material world is very
+limited.
+
+GM limits: 12 attributes (6 free levels); 25 free skill levels,
+   w/maximum 1 Superb, 2 Great; no free gifts, but 6 Supernormal
+   Powers, with constraint on the number of uses per day; 2
+   personality faults required, do not count for trading purposes.
+
+NOTE: the supernormal powers are described with "uses per day" and
+skill levels.  The default skill level is Poor; it takes one gift to
+raise a supernormal power each level above Poor.
+
+Attributes: (6 free levels, 4 taken, balance taken as 6 skills)
+   Appearance: Great                                   (2)
+   Charisma: Fair                                      (0)
+   Dexterity: Good                                     (1)
+   Fitness: Good                                       (1)
+   Mechanical Aptitude: Poor                           (-2)
+   Mind: Fair                                          (0)
+   Perception: Superb                                  (3)
+   Reflexes: Good                                      (1)
+   Sanity: Mediocre                                    (-1)
+   Strength: Fair                                      (0)
+   Will: Fair                                          (0)
+   Wisdom: Mediocre                                    (-1)
+Skills: (25 free levels, 31 taken, balanced by attribute levels)
+   Accounting: Good                                    (3)
+   Animal Care: Fair                                   (2)
+   Area Knowledge (easy): Good                         (2)
+   Athletics: Poor                                     (0)
+   Bargain: Good                                       (3)
+   Computer Use: Fair                                  (2)
+   Driving: Fair                                       (2)
+   Folklore: Fair                                      (2)
+   Knowledge of Detective Fiction: Great               (4)
+   Lying: Fair                                         (2)
+   Move Quietly: Mediocre (vs. other spirits)          (1)
+   Outdoor Skills: Mediocre                            (2)
+   Sciences: Mediocre                                  (1)
+   Women's Magazine Lore: Superb                       (5)
+Gifts: (0 free gifts, 2 taken, balanced by faults)
+   "Green thumb" - knack for making plants healthy (even as a ghost!)
+   Single-minded - +1 to any lengthy task
+Supernormal Powers: (6 free Supernormal Powers, 5 taken.  1 traded,
+         plus 2 Faults taken, to raise these 4 levels)
+   Pass through Walls (6/day): Fair
+   Screech (temporarily paralyze multiple living people) (3/day):
+         Mediocre
+   Affect Dreams (1/day): Poor
+   Control Vermin (3/day): Poor
+   Read Minds (4/day): Mediocre
+Faults:
+   Fear of spiders (even as a ghost)
+   Worry Wart
+   Waffles - can't make decisions until forced to
+   Obsessed with regrets over missed opportunities
+
+6.352  Cassandra Pine, Vampire Private Investigator
+---------------------------------------------------
+
+Modern vampire character by Deird'Re Brooks
+
+GM limits:  10 Attributes (5 free levels), 60 free skill levels,
+   w/maximum of 1 Superb, 4 Greats, 2 free gifts, 3 free supernatural
+   powers.
+
+Attributes:  (5 free levels, 7 taken, balanced by fault)
+   Appearance: Fair                                    (0)
+   Charisma: Fair                                      (0)
+   Dexterity: Great                                    (2)
+   Humanity: Mediocre                                  (-1)
+   Intelligence: Good                                  (1)
+   Perception & Alertness: Great                       (2)
+   Stamina: Good                                       (1)
+   Strength: Fair (Scale 3)                            (0)
+   Willpower: Good                                     (1)
+   Wits: Good                                          (1)
+Skills (60 free levels, 60 taken)
+   Animal Handling: Mediocre                           (1)
+   Area Knowledge, home city (easy): Good              (2)
+   Athletics: Fair                                     (2)
+   Computer: Fair                                      (2)
+   Control Power: Mind Control (VH): Fair              (4)
+   Control Power: Psychometry (VH): Fair               (4)
+   Dodge: Good                                         (3)
+   Driving: Good                                       (3)
+   Electronic Security: Great                          (4)
+   Firearms: Good                                      (3)
+   Intimidation: Good                                  (3)
+   Investigation: Superb                               (5)
+   Knife: Fair                                         (2)
+   Language: Spanish: Mediocre                         (1)
+   Law & Police Procedure (hard): Fair                 (3)
+   Research: Great                                     (4)
+   Stealth: Good                                       (3)
+   Streetwise: Great                                   (4)
+   Subterfuge: Good                                    (3)
+   Tae Kwon Do (hard): Good                            (4)
+Gifts: (2 free gifts, 2 taken)
+   Contacts in police force
+   Night Vision
+Supernormal Powers: (3 free Powers, 8 taken, balanced by faults)
+   Extraordinary Speed
+   Can change into Mist Form
+   Mind Control
+   Only immobilized by stake through heart
+   Psychometry
+   Regeneration
+   Scale 3 (unobservable)
+   Can change into Wolf Form
+Faults:
+   Burns heal slowly
+   Low financial resources
+   Mind control needs eye contact
+   Must sleep most of the daylight hours
+   Violent when enraged
+   Superfault: Burned by Sun
+   Superfault: Needs blood to live
+   Superfault: Dangerous Secret - she's destroyed if it's revealed
+
+6.353  Chicory, Bunny
+---------------------
+
+Chicory is a character in a game where rabbits are the norm, and
+humans are giant monsters.  The scale is therefore relative to
+rabbits.
+
+GM limits: 6 attributes (3 free levels); 40 free skill levels,
+   w/maximum 1 Superb, 3 Great; 2 gifts, 1 Supernormal Power
+
+Attributes: (3 free levels, 7 taken, balanced by faults)
+   Dexterity: Good                                     (1)
+   Health: Good                                        (1)
+   Perception: Superb                                  (3)
+   Smarts: Great                                       (2)
+   Speed: Good                                         (1)
+   Strength: Mediocre                                  (-1)
+Skills: (40 free levels, 52 taken, balanced by faults)
+   Acrobatics: Terrible                                (-1)
+   Area Knowledge: Good                                (3)
+   Detect Traps: Great                                 (4)
+   Fighting: Good                                      (3)
+   Gambling: Good                                      (3)
+   Herb Lore (hard): Superb                            (6)
+   Knowledge of Burrow Construction: Good              (3)
+   Knowledge of Humans (very hard): Fair               (4)
+   Knowledge of Non-Rabbit Behavior: Good              (3)
+   Language: Bug: (hard) Fair                          (3)
+   Language: Common Bird (hard): Good                  (4)
+   Language: Mouse/Rat (hard): Great                   (5)
+   Mechanical Skills: Terrible                         (-1)
+   Mimic Non-Rabbit Sounds (hard): Fair                (3)
+   Move Quietly: Fair                                  (2)
+   Spring Traps: Fair                                  (2)
+   Storytelling: Fair                                  (2)
+   Tracking: Great                                     (4)
+Gifts: (2 free gifts + 1 Supernormal Power; 4 gifts taken, balanced by
+         not taking a Power.)
+   Unafraid of Loud Noises (unlike most rabbits)
+   Never Forgets a Scent
+   Strong Will
+   Night Vision
+Faults:
+   Nosy
+   Compulsive Gambler
+   Phobia: Canines
+   Jealous of Anyone Getting More Attention
+
+6.354  Squeegee Fizzle, Cartoon Chimp
+-------------------------------------
+
+Squeegee is a time- and space-hopping chimpanzee in a universe without
+physical laws as we know them.  *Real* loose rules on this one, folks!
+There is no death in cartoons: get your characters to a Heal-O-Ray
+machine and they'll be fine.
+
+GM limits: 3 Supernormal Powers allowed, at least 4 faults required;
+   otherwise: no limits - take what you want, and we'll talk about it
+
+Attributes: (no limit; 7 levels taken, anything else at Fair)
+   3-D Agility: Good                                   (1)
+   Cheek: Great                                        (2)
+   Imagination: Superb                                 (3)
+   Nose: Good                                          (1)
+   Notices Things: Great                               (2)
+   Patience: Poor                                      (-2)
+   Resistance to Alien Stuff: Good                     (1)
+   Willpower: Mediocre                                 (-1)
+Skills: (no limit, 37 taken)
+   Acrobatics: Good                                    (3)
+   Area Knowledge of the Known Universe: Good          (3)
+   Tooth-and-Nail Fighting: Good                       (3)
+   Fruit Lore: Superb                                  (5)
+   History: Mediocre                                   (1)
+   Language, Most Alien: Fair                          (2)
+   Make Silly Noises: Superb                           (5)
+   Make the Sound of One Hand Clapping: Fair           (2)
+   Mechanical Skills: Terrible                         (-1)
+   Move Quietly: Great                                 (4)
+   Pilot Space Ship: Mediocre                          (1)
+   Recall of TV SitCom Episodes: Superb                (5)
+   Tell Believable Whoppers: Fair                      (2)
+   Throw Things: Good                                  (3)
+   Zap-O-Stun Gun: Great                               (4)
+Gifts: (no limit, lots taken)
+   Always keeps his cool . . . well, usually
+   Never Forgets a Banana
+   Acrobatics skill is Superb for Swinging; no penalty to other skills
+         while Swinging
+   Doesn't value Sanity highly
+Supernormal Powers:
+   Quadridextrous
+   Never lost in space
+   Can think of a Devastating Comeback (stuns opponent five rounds),
+         on a Good or better die roll
+Faults:
+   Easily Distractible
+   Compulsive Liar
+   Will do anything for a banana
+   Enemy out to get him: Evil Scientist, Dr. Carnage
+
+6.4  Animal & Creature Examples
+-------------------------------
+
+Non-PC animals need not be built using level limits.  Just define what
+traits are essential to the animal, and let it go at that.  The
+Strength Scale refers to Section 3.3, Non-humans.
+
+Lion:
+   Perception: Great
+   Melee Combat: Great
+   Stalking: Great
+   Dodge: Fair
+   Strength: Scale 2 Fair to Great
+   Fault: Lazy
+   Damage Capacity: Fair to Superb
+
+Grizzly Bear:
+   Perception: Good
+   Melee Combat: Good
+   Dodge: Fair
+   Strength: Scale 3 Fair to Great
+   Fault: Berserker
+   Damage Capacity: Fair to Great
+
+Cobra:
+   Perception: Good
+   Melee Combat: Great
+   Dodge: Good
+   Supernormal Power: Poison, +4 damage bonus
+   Fault: Bad temper
+   Damage Capacity: Poor
+
+Skunk:
+   Melee Combat: Poor
+   Ranged Combat: Good, short range
+   Dodge: Poor
+   Supernormal Power: Noxious Fluid: blinds, incapacitates
+   Damage Capacity: Terrible
+
+Giant Spider:
+   Melee Combat: Good
+   Dodge: Poor
+   Supernormal Power: Poison, paralyzes
+   Supernormal Power: Web, (Good Difficulty Level Strength roll to
+        break)
+   Damage Capacity: Good
+
+Griffin:
+   Perception: Great
+   Melee Combat: Great
+   Dodge: Good
+   Supernormal Power: Flight
+   Supernormal Power: Tough Hide (light armor)
+   Strength: Mediocre to Great, Scale 4
+   Damage Capacity: Good to Superb
+
+Dragon (customize to taste):
+   Melee Combat: Good to Great
+   Ranged Combat: Good, short range
+   Dodge: Mediocre
+   Supernormal Power: Fire Breath (+2 damage)
+   Supernormal Power: Flight
+   Supernormal Power: Tough Hide (-1 to -3)
+   Supernormal Power: Charm with Eyes
+   Supernormal Power: Magic Potential (some of them)
+   Fault: Greedy
+   Strength: Scale 3 to Scale 9, Fair to Great
+   Damage Capacity: Fair to Great
+
+6.5  Equipment Examples
+-----------------------
+
+It's possible to define equipment in FUDGE character terms.  This is
+probably unnecessary, but can be done if desired.
+
+Equipment from any technological level, stone age to science fiction,
+can be detailed this way.  A piece of equipment can be defined by as
+many FUDGE traits as are needed: attributes, skills, gifts or faults.
+
+For example, an old, battered sword found in a damp dungeon might
+have:
+
+Attributes:
+   Sharpness: Terrible
+   Durability: Poor
+Fault:
+   Looks Shabby.
+
+Such a weapon is treated as a club for damage, rather than a sword (no
+Sharpness bonus).  The GM might also require a Situational roll every
+few combat rounds: the sword breaks on a Mediocre or worse result from
+parrying or being parried.  And finally, some people will make fun of
+anyone carrying such a shoddy-looking weapon.
+
+When the sword was new, however, it very well could have had:
+
+Attributes:
+   Sharpness: Good
+   Sturdiness: Great
+Gift:
+   Beautifully Made
+
+In that case, it would indeed merit the +1 for Sharpness (perhaps any
+Sharpness level of Mediocre to Good gets the +1 Sharpness bonus, while
+duller blades get no bonus, and better blades might get an
+*additional* +1 bonus).  It also would never break under ordinary
+circumstances, and its appearance probably earns its owner a positive
+reaction from many people.
+
+A bejewelled magic sword found in a dragon's hoard might have:
+
+Attribute:
+   Appearance: Superb (+3 to impress those who value wealth)
+Gift:
+   Troll-slaying (+3 to hit when fighting Trolls; such wounds will
+      never heal)
+Fault:
+   Dedicated Purpose (it tries to control the wielder to hunt trolls!)
+Skill:
+   Dominate Wielder: Fair (Opposed action against a Will attribute)
+
+A different magic sword might have:
+
+Supernormal Power:
+   Flame Creation (+2 damage)
+Skill:
+   Flame Shooting: Great (Range: 3 yards or meters)
+Fault:
+   Flame Creation only works on a Good or better Situational roll
+
+Of course, even if the flaming missile fails, it can still be used as
+a regular sword, so it's not exactly worthless in such cases.
+
+As a final example, consider a science fiction double-seat fighter
+ship:
+
+Attributes:
+   Acceleration: Great
+   Handling: Superb
+   Speed: Good (Scale 15)
+   Size: Fair (Scale 8)
+Skills:
+   Navigation: Good
+   Targeting: Superb
+   Auto-pilot: Fair
+   Food Preparation: Poor
+   Entertainment: Mediocre
+Gifts:
+   Turret-mounted Laser Rifles, above and below
+   Bucket Seats in the bridge
+   Hyperdrive
+   Can be used in an atmosphere or in deep space
+Faults:
+   Non-standard parts (expensive to repair)
+   Unattractive exterior
+   Cramped sleeping quarters
+   Airlock squeaks annoyingly
+
+[End of Chapter Six and FUDGE proper.  The Addenda contain more.]
+
+======================================================================
+
+Legal Notice
+------------
+
+Version: December 7, 1993
+
+FUDGE is copyright 1992, 1993 by Steffan O'Sullivan.  It may be freely
+copied and distributed by any means desired.  This legal notice must
+be included with each copy of FUDGE.  No charge may be made for FUDGE
+beyond a maximum $6 (US) fee for materials and shipping, without
+written permission from the author.  Please note that permission to
+copy only applies to the actual FUDGE rules: any background or
+adventure material included with the rules may *not* be copied unless
+specifically permitted.
+
+A publisher who wishes to include FUDGE in a book of copyrighted
+source material or adventures may do so, provided the following
+conditions are met:
+
+(1) The publisher's copyrighted material must be longer than the
+amount of FUDGE material included.
+(2) This legal notice and at least Chapter 1 of FUDGE (Overview) must
+be included.
+(3) The words in this legal notice and those in Chapter 1 of FUDGE may
+not be changed in any way.
+(4) There can be no extra charge for including FUDGE in the book.
+
+FUDGE was first published in 1992 on the Internet, and was written by
+Steffan O'Sullivan (sos@oz.plymouth.edu) with an extensive amount of
+high-quality input from Andy Skinner.  Other valued contributors
+include Martin Bergendahl, Thomas Brettinger, Robert Bridson, Travis
+Casey, Paul Jason Clegg, Peter F. Delaney, Jay Doane, Ann Dupuis, Paul
+Dupuis, Brian Edmonds, Shawn Garbett, Ed Heil, Richard Hough, Bernard
+Hsiung, John H. Kim, Pete Lindsay, Bruce Onder, Christian Otkjaer,
+Bill Seurer, Larry Smith, Stephan Szabo, John Troyer, Corran Webster,
+and others on rec.games.design on the Internet.
+
+Groo the Wanderer (TM) is a trademark of Sergio Aragones, and use of
+the name in this product does not challenge the trademark status in
+any way.
+
+-- 
+   -Steffan O'Sullivan     |  "You may have noticed that the less I
+                           |   know about a subject the more confi-
+    sos@oz.plymouth.edu    |   dence I have, and the more new light
+                           |   I throw on it"       -Mark Twain
+

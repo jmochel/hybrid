@@ -1,0 +1,36 @@
+H56323
+s 00006/00000/00000
+d D 1.1 01/08/14 17:12:55 jmochel 2 1
+cC
+cF1
+cK19228
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/08/14 17:12:55 jmochel 1 0
+c BitKeeper file g:/TemplateCodeGenerator/TemplateCodeGenerator/src/org/mushin/javadoc/.nbattrs
+cBjmochel@mordanith.ne.mediaone.net|ChangeSet|20010315024621|04493|9033c8cd
+cHdevilmountain.corp.foliage.com
+cK11689
+cPTemplateCodeGenerator/src/org/mushin/javadoc/.nbattrs
+cR993d5d75
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+<?xml version="1.0" encoding="UTF-8" ?>
+<attributes version="1.0">
+   <fileobject name="FauxRootDoc.java">
+      <attr name="class_dependency_com.sun.javadoc.RootDoc" stringvalue="FauxRootDoc"/>
+   </fileobject>
+</attributes>
+E 2
+I 1
+E 1

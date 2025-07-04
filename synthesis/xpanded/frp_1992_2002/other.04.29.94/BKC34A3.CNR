@@ -1,0 +1,89 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210131153.374;
+          10 Dec 91 13:12:14 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210131153.374;
+          10 Dec 91 13:12:05 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04547; Tue, 10 Dec 91 13:13:43 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03790; Tue, 10 Dec 91 12:21:33 -0500
+Message-Id: <9112101721.AA03790@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0792; Tue, 10 Dec 91 12:21:40 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 7275;
+ Tue, 10 Dec 91 12:21:39 EST
+Date:         Tue, 10 Dec 1991 12:18:00 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Dave_Wetzel%VOS.STRATUS.COM@uga.cc.uga.edu
+Subject:      RPG: A few comments
+X-To:         GMAST-L%UTCVM.bitnet@uunet.uu.net
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Re: Sean A Reith <gusar%UNIWA.UWA.OZ.AU@uga.cc.uga.edu>
+
+[Rolemaster being slow]
+
+     From my experience with SpaceMaster (shares the same system as
+RoleMaster I'm told), there are too problems with the system that cause it to
+be slow.  Neither problem is the number of attributes (or the
+current/potential values of each attribute).  The first problem is there is
+FAR too much chart-looking up.  Each time you go to a chart (2-3 times per
+action in combat!) play stops for a few seconds.
+
+     The second problem is there are far too many skills for it's own good.
+It takes hours to decide what skills you want your character to have (and all
+the bizzare interactions including specializing vs generalist and similar
+skill bonuses).
+
+     Overall, I like the system for it's realism, but I wish something could
+be done to make it a bit zippier.
+
+[hero points...]
+
+     I know of two systems that do 'hero points'.  Top Secret (TSR) has luck
+points which you can use to change what just happened.  Torg (WEG) has
+possibility points which let you add to your roll or remove damage (it looked
+worse than it was...).  Both systems give you more points for good play and
+successful adventures sort of like xp.
+
+[Clerical "spells"]
+
+     Ah, yes, another of my pet peeves:  clerical "magic".  Clerics shouldn't
+get defined spells in my opinion.  Clerics should just pray and depending on
+his piety (faith?) his diety may grant the request (or some mutated form of
+it).  I always thought that if the diety (GM) knew that the cleric's request
+was wrong/pointless why would S/He grant it??  The following is sort of what
+I've always wanted to see from a system (off the cuff; not necessarily well
+thought-out):
+
+     Clerics should have a faith skill/score/attribute and whenever they want
+the intervention of their diety, they roll against it (a successful prayer).
+The exact effect should be a mix between what the character states he wants
+in the prayer, how effectively he prayed; and how the GM (diety) feels about
+the request.
+
+     The faith skill could be modified negatively for each request (you've
+been asking for too many favors) or for actions by the cleric that are
+definitely against his diety (the druid carves his initials in a tree --
+actually happened in a game I was running).  The faith skills could be
+positively affected by actions viewed as being in adherance with the tenants
+of the faith (the priest donates all but 1 gp to the poor in keeping with his
+vow of poverty).
+
+     It would work like this:  the cleric sees his friend lying near death
+from grevous wounds.  He prays:  "Please Mighty SO-AND-SO, hear the request
+of your servant.  This noble soul lying near death has ever been a freind to
+the Faith.  Please send your agents to watch over his recovery and carry him
+savely from the Gates of the Nether world." or some such.  The roll is
+successful (a good prayer) and the diety, knowing that his faithful servant
+will soon be in need of this friend cures some-number-N wounds.  The clerics
+faith score is lowerd by an appropriate amount (in proportion to the number
+N).
+
+     This also fixes the flaw I've seen where the cleric cures a party member
+who's been opennly hostile to the cleric's religion (I know, the cleric
+player is wrong for trying to cure the heathen; but I've seen it done).
+Wouldn't the diety say "Not on your Nellie!"?
+
+Dave_Wetzel@vos.stratus.com

@@ -1,0 +1,47 @@
+.Name BARADIN
+.Title LORD							
+.Race DWARF
+.Culture
+.Aspect 
+.PST 15
+.PEN 21		
+.DEX 14
+.PAG 16		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT 4'6"      
+.WT 120		 
+.AGE ?
+.BeginDesc
+ BROWNISH BLACK HAIR AND BEARD WITH A SET OF BLACK EYES
+.EndDesc
+.BeginSkills
+Weapon: AXE					  , 
+.EndSkills
+.Locale DWARVISH UPLANDS
+.BeginKnownAssoc
+ OTHER DWARFS,SON OF BORMER
+.EndKnownAssoc
+.BeginSecretAssoc
+ THE IGA NINJA OF EYODO
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ RULER OF THE DWARVISH UPLANDS
+.EndComment
+.BeginPossess
+ GLAIVE +2,ADAMNATIUM EDGED AXE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

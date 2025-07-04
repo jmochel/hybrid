@@ -1,0 +1,35 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209151317.275;
+          09 Dec 91 15:14:34 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209151317.275;
+          09 Dec 91 15:14:28 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03940; Mon, 9 Dec 91 15:15:07 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA24744; Mon, 9 Dec 91 14:47:35 -0500
+Message-Id: <9112091947.AA24744@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 5833; Mon, 09 Dec 91 14:46:37 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 4235;
+ Mon, 09 Dec 91 14:46:23 EST
+Date:         Mon, 9 Dec 1991 14:38:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Greg Porter <PORTERG%VCUVAX.BITNET@uga.cc.uga.edu>
+Subject:      Re: GD: Attribute System
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Con can be a number of things, all of which could be separate stats:
+
+Short term endurance (sprinting)
+Long tern endurance (hiking)
+Drug tolerance
+Disease tolerance
+Healing rate
+Body size/structural strength/hit points
+
+Is Constitution and Stamina enough, or does it have to be split even further
+to meet your needs.  If you go over about 12 attributes, people will not
+go for the system all that much (too complex).
+
+greg

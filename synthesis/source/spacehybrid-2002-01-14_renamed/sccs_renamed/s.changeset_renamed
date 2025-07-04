@@ -1,0 +1,1070 @@
+h52597
+s 00001/00000/00511
+d D 1.3 99/12/14 13:32:04 jmochel 4 3
+c Just a little more text
+cC
+cK55303
+e
+s 00510/00000/00001
+d D 1.2 99/12/02 16:58:05 jmochel 3 2
+c MontrosesToast.conversation.txt	First scene slightly done.
+c todo.txt	BitKeeper file G:/SpaceHybrid/todo/todo.txt
+c shcat.lst	BitKeeper file G:/SpaceHybrid/todo/shcat.lst
+c weapon.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/weapon.ltx
+c town.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/town.ltx
+c shield.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/shield.ltx
+c race.tex	BitKeeper file G:/SpaceHybrid/worlds/tem/race.tex
+c poison.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/poison.ltx
+c plant.tbl	BitKeeper file G:/SpaceHybrid/worlds/tem/plant.tbl
+c merchant.tbl	BitKeeper file G:/SpaceHybrid/worlds/tem/merchant.tbl
+c inn.ltx 	BitKeeper file G:/SpaceHybrid/worlds/tem/inn.ltx
+c herbal.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/herbal.ltx
+c healing.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/healing.ltx
+c culture.tex	BitKeeper file G:/SpaceHybrid/worlds/tem/culture.tex
+c convert.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/convert.ltx
+c combat.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/combat.ltx
+c cloth.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/cloth.ltx
+c armour.ltx	BitKeeper file G:/SpaceHybrid/worlds/tem/armour.ltx
+c HT&WT.TBL	BitKeeper file G:/SpaceHybrid/worlds/tem/HT&WT.TBL
+c vokan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/vokan.rac
+c trian.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/trian.rac
+c torgan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/torgan.rac
+c tnimban.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tnimban.rac
+c thenaen.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/thenaen.rac
+c tgemma.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tgemma.rac
+c tfrigan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tfrigan.rac
+c tarman.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/tarman.rac
+c sarsin.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/sarsin.rac
+c rupa.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/rupa.rac
+c races.ltx	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/races.ltx
+c merovan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/merovan.rac
+c merovan.ltx	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/merovan.ltx
+c kurrock.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/kurrock.rac
+c kothan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/kothan.rac
+c kalifate.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/kalifate.rac
+c horesh.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/horesh.rac
+c hightan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/hightan.rac
+c hairoch.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/hairoch.rac
+c erlani.txt	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/erlani.txt
+c erlani.tex	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/erlani.tex
+c duwan.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/duwan.rac
+c bitadari.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/bitadari.rac
+c arsae.rac	BitKeeper file G:/SpaceHybrid/worlds/tanah/races/arsae.rac
+c history.tex	BitKeeper file G:/SpaceHybrid/worlds/tanah/history/history.tex
+c vairman.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/vairman.cul
+c torgan.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/torgan.cul
+c thenaen.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/thenaen.cul
+c shan.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/shan.cul
+c kurrock.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/kurrock.cul
+c kalifate.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/kalifate.cul
+c hightan.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/hightan.cul
+c duwan.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/duwan.cul
+c dales.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/dales.cul
+c cultures.ltx	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/cultures.ltx
+c arsae.cul	BitKeeper file G:/SpaceHybrid/worlds/tanah/cultures/arsae.cul
+c wg2.ltx 	BitKeeper file G:/SpaceHybrid/worlds/tanah/wg2.ltx
+c vale.pco	BitKeeper file G:/SpaceHybrid/worlds/tanah/vale.pco
+c ss.tbl  	BitKeeper file G:/SpaceHybrid/worlds/tanah/ss.tbl
+c shan.pco	BitKeeper file G:/SpaceHybrid/worlds/tanah/shan.pco
+c proph.sl	BitKeeper file G:/SpaceHybrid/worlds/tanah/proph.sl
+c ncounter.tbl	BitKeeper file G:/SpaceHybrid/worlds/tanah/ncounter.tbl
+c merchant.tbl	BitKeeper file G:/SpaceHybrid/worlds/tanah/merchant.tbl
+c koran.ltx	BitKeeper file G:/SpaceHybrid/worlds/tanah/koran.ltx
+c colleges.ltx	BitKeeper file G:/SpaceHybrid/worlds/tanah/colleges.ltx
+c npc.dat 	BitKeeper file G:/SpaceHybrid/worlds/ea/dat/npc.dat
+c welfclan.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/welfclan.nr
+c weather.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/weather.tbl
+c weather.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/weather.nr
+c weapon.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/weapon.nr
+c val-tier.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/val-tier.nr
+c town.sl 	BitKeeper file G:/SpaceHybrid/worlds/ea/town.sl
+c town.nr 	BitKeeper file G:/SpaceHybrid/worlds/ea/town.nr
+c tarot.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/tarot.nr
+c suarthin.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/suarthin.nr
+c styles.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/styles.nr
+c strpgear.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/strpgear.nr
+c ss.tbl  	BitKeeper file G:/SpaceHybrid/worlds/ea/ss.tbl
+c skills.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/skills.tbl
+c skills.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/skills.nr
+c skcost.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/skcost.nr
+c shiral  	BitKeeper file G:/SpaceHybrid/worlds/ea/shiral
+c shield.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/shield.nr
+c race.nr 	BitKeeper file G:/SpaceHybrid/worlds/ea/race.nr
+c protect.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/protect.nr
+c powergp.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/powergp.nr
+c poison.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/poison.nr
+c poison.lst	BitKeeper file G:/SpaceHybrid/worlds/ea/poison.lst
+c plant.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/plant.tbl
+c paladin.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/paladin.nr
+c ncounter.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/ncounter.tbl
+c moonsing.ltx	BitKeeper file G:/SpaceHybrid/worlds/ea/moonsing.ltx
+c monast.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/monast.nr
+c mimbre.pco	BitKeeper file G:/SpaceHybrid/worlds/ea/mimbre.pco
+c mimbrate.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/mimbrate.nr
+c merchant.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/merchant.tbl
+c manaspot.lst	BitKeeper file G:/SpaceHybrid/worlds/ea/manaspot.lst
+c mana.nr 	BitKeeper file G:/SpaceHybrid/worlds/ea/mana.nr
+c magic.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/magic.nr
+c magic.ltx	BitKeeper file G:/SpaceHybrid/worlds/ea/magic.ltx
+c leeward.pco	BitKeeper file G:/SpaceHybrid/worlds/ea/leeward.pco
+c lang.nr 	BitKeeper file G:/SpaceHybrid/worlds/ea/lang.nr
+c koriel.pco	BitKeeper file G:/SpaceHybrid/worlds/ea/koriel.pco
+c inn.sl  	BitKeeper file G:/SpaceHybrid/worlds/ea/inn.sl
+c inn.nr  	BitKeeper file G:/SpaceHybrid/worlds/ea/inn.nr
+c herbal.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/herbal.nr
+c heraldry.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/heraldry.nr
+c healing.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/healing.nr
+c header.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/header.nr
+c grayelf.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/grayelf.nr
+c eyodo.ltx	BitKeeper file G:/SpaceHybrid/worlds/ea/eyodo.ltx
+c elf.nr  	BitKeeper file G:/SpaceHybrid/worlds/ea/elf.nr
+c dwfclans	BitKeeper file G:/SpaceHybrid/worlds/ea/dwfclans
+c descript.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/descript.nr
+c descript.ltx	BitKeeper file G:/SpaceHybrid/worlds/ea/descript.ltx
+c deities.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/deities.nr
+c culture.sl	BitKeeper file G:/SpaceHybrid/worlds/ea/culture.sl
+c culture.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/culture.nr
+c convert.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/convert.nr
+c combat.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/combat.nr
+c colleges.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/colleges.nr
+c clerics.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/clerics.nr
+c chrono.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/chrono.nr
+c chargen.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/chargen.nr
+c blkstar.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/blkstar.nr
+c barbar.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/barbar.nr
+c aurioch.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/aurioch.nr
+c assguild.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/assguild.nr
+c assguild.lst	BitKeeper file G:/SpaceHybrid/worlds/ea/assguild.lst
+c armour.nr	BitKeeper file G:/SpaceHybrid/worlds/ea/armour.nr
+c ages.tbl	BitKeeper file G:/SpaceHybrid/worlds/ea/ages.tbl
+c HT&WT.TBL	BitKeeper file G:/SpaceHybrid/worlds/ea/HT&WT.TBL
+c hist2plot.awk	BitKeeper file G:/SpaceHybrid/worlds/confed/spt/hist2plot.awk
+c hist2dkbk.awk	BitKeeper file G:/SpaceHybrid/worlds/confed/spt/hist2dkbk.awk
+c GMHD.sgml.mpc	BitKeeper file G:/SpaceHybrid/worlds/confed/corps/GMHD.sgml.mpc
+c FidelitySolar.sgml	BitKeeper file G:/SpaceHybrid/worlds/confed/corps/FidelitySolar.sgml
+c ProximanLang.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Races/ProximanLang.txt
+c WhoWillGuard.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/WhoWillGuard.conversation.txt
+c Todo.lst	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/Todo.lst
+c TheOrder.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/TheOrder.conversation.txt
+c MontrosesToast.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/MontrosesToast.conversation.txt
+c ContractDeclined.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/ContractDeclined.conversation.txt
+c ButWellBegun.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/ButWellBegun.conversation.txt
+c Business.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/Business.conversation.txt
+c Ancestors.conversation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/Ancestors.conversation.txt
+c AlphaConspiracy.tex	BitKeeper file G:/SpaceHybrid/worlds/confed/Flavor/AlphaConspiracy.tex
+c timeline.xml	BitKeeper file G:/SpaceHybrid/worlds/confed/timeline.xml
+c timeline.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/timeline.txt
+c timeline.sgml	BitKeeper file G:/SpaceHybrid/worlds/confed/timeline.sgml
+c timeline.html	BitKeeper file G:/SpaceHybrid/worlds/confed/timeline.html
+c time.note	BitKeeper file G:/SpaceHybrid/worlds/confed/time.note
+c starships.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/starships.txt
+c shtime.xsl	BitKeeper file G:/SpaceHybrid/worlds/confed/shtime.xsl
+c shtime.dtd	BitKeeper file G:/SpaceHybrid/worlds/confed/shtime.dtd
+c sh.txt  	BitKeeper file G:/SpaceHybrid/worlds/confed/sh.txt
+c race.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/race.txt
+c pkgs.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/pkgs.txt
+c marshall.ltx	BitKeeper file G:/SpaceHybrid/worlds/confed/marshall.ltx
+c ideas.lst	BitKeeper file G:/SpaceHybrid/worlds/confed/ideas.lst
+c hist.xml	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.xml
+c hist.xls	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.xls
+c hist.sgml	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.sgml
+c hist.html	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.html
+c hist.fot	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.fot
+c hist.csv	BitKeeper file G:/SpaceHybrid/worlds/confed/hist.csv
+c culture.sgml	BitKeeper file G:/SpaceHybrid/worlds/confed/culture.sgml
+c confed.xml	BitKeeper file G:/SpaceHybrid/worlds/confed/confed.xml
+c confed.sgml	BitKeeper file G:/SpaceHybrid/worlds/confed/confed.sgml
+c career.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/career.txt
+c SS.TEX  	BitKeeper file G:/SpaceHybrid/worlds/confed/SS.TEX
+c MI.TEX  	BitKeeper file G:/SpaceHybrid/worlds/confed/MI.TEX
+c ArticlesOfConfederation.txt	BitKeeper file G:/SpaceHybrid/worlds/confed/ArticlesOfConfederation.txt
+c town.ltx	BitKeeper file G:/SpaceHybrid/worlds/Templates/town.ltx
+c race.tex	BitKeeper file G:/SpaceHybrid/worlds/Templates/race.tex
+c poison.ltx	BitKeeper file G:/SpaceHybrid/worlds/Templates/poison.ltx
+c plant.tbl	BitKeeper file G:/SpaceHybrid/worlds/Templates/plant.tbl
+c merchant.tbl	BitKeeper file G:/SpaceHybrid/worlds/Templates/merchant.tbl
+c inn.ltx 	BitKeeper file G:/SpaceHybrid/worlds/Templates/inn.ltx
+c herbal.ltx	BitKeeper file G:/SpaceHybrid/worlds/Templates/herbal.ltx
+c healing.ltx	BitKeeper file G:/SpaceHybrid/worlds/Templates/healing.ltx
+c culture.tex	BitKeeper file G:/SpaceHybrid/worlds/Templates/culture.tex
+c cloth.ltx	BitKeeper file G:/SpaceHybrid/worlds/Templates/cloth.ltx
+c HT&WT.TBL	BitKeeper file G:/SpaceHybrid/worlds/Templates/HT&WT.TBL
+c sh.cat  	BitKeeper file G:/SpaceHybrid/Support/sh.cat
+c ZipItUp.bat	BitKeeper file G:/SpaceHybrid/Support/ZipItUp.bat
+c SHTimeline.dtd	BitKeeper file G:/SpaceHybrid/Support/SHTimeline.dtd
+c CleanUp.bat	BitKeeper file G:/SpaceHybrid/Support/CleanUp.bat
+c wpns.lst	BitKeeper file G:/SpaceHybrid/Support/weapon/wpns.lst
+c prjwpn.fmt	BitKeeper file G:/SpaceHybrid/Support/weapon/prjwpn.fmt
+c mwpn2ltx.awk	BitKeeper file G:/SpaceHybrid/Support/weapon/mwpn2ltx.awk
+c mwpn.sed	BitKeeper file G:/SpaceHybrid/Support/weapon/mwpn.sed
+c mwpn.dat	BitKeeper file G:/SpaceHybrid/Support/weapon/mwpn.dat
+c mwpn.1  	BitKeeper file G:/SpaceHybrid/Support/weapon/mwpn.1
+c meleewpn.fmt	BitKeeper file G:/SpaceHybrid/Support/weapon/meleewpn.fmt
+c skilldat2list.awk	BitKeeper file G:/SpaceHybrid/Support/skills/skilldat2list.awk
+c skilldat.fmt	BitKeeper file G:/SpaceHybrid/Support/skills/skilldat.fmt
+c skilldat.example	BitKeeper file G:/SpaceHybrid/Support/skills/skilldat.example
+c genskillcostlist.awk	BitKeeper file G:/SpaceHybrid/Support/skills/genskillcostlist.awk
+c rxnspd.ltx	BitKeeper file G:/SpaceHybrid/Support/reaction/rxnspd.ltx
+c rxnspd.awk	BitKeeper file G:/SpaceHybrid/Support/reaction/rxnspd.awk
+c npc2tex.awk	BitKeeper file G:/SpaceHybrid/Support/npc/npc2tex.awk
+c npc2ltx.awk	BitKeeper file G:/SpaceHybrid/Support/npc/npc2ltx.awk
+c npc.fmt 	BitKeeper file G:/SpaceHybrid/Support/npc/npc.fmt
+c tenogon.nam	BitKeeper file G:/SpaceHybrid/Support/names/tenogon.nam
+c names.1 	BitKeeper file G:/SpaceHybrid/Support/names/names.1
+c names   	BitKeeper file G:/SpaceHybrid/Support/names/names
+c namegen.bat	BitKeeper file G:/SpaceHybrid/Support/names/namegen.bat
+c namegen.awk	BitKeeper file G:/SpaceHybrid/Support/names/namegen.awk
+c mimbre.nam	BitKeeper file G:/SpaceHybrid/Support/names/mimbre.nam
+c koran.nam	BitKeeper file G:/SpaceHybrid/Support/names/koran.nam
+c kevaran.nam	BitKeeper file G:/SpaceHybrid/Support/names/kevaran.nam
+c kalifan.nam	BitKeeper file G:/SpaceHybrid/Support/names/kalifan.nam
+c elven.nam	BitKeeper file G:/SpaceHybrid/Support/names/elven.nam
+c career.fmt	BitKeeper file G:/SpaceHybrid/Support/career/career.fmt
+c career.dat	BitKeeper file G:/SpaceHybrid/Support/career/career.dat
+c tscale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/tscale.cfg
+c template.des	BitKeeper file G:/SpaceHybrid/spells/design/template.des
+c tcomp.cfg	BitKeeper file G:/SpaceHybrid/spells/design/tcomp.cfg
+c target.cfg	BitKeeper file G:/SpaceHybrid/spells/design/target.cfg
+c spelldes.awk	BitKeeper file G:/SpaceHybrid/spells/design/spelldes.awk
+c sp2ltx.awk	BitKeeper file G:/SpaceHybrid/spells/design/sp2ltx.awk
+c singdown.des	BitKeeper file G:/SpaceHybrid/spells/design/singdown.des
+c shout.des	BitKeeper file G:/SpaceHybrid/spells/design/shout.des
+c sd.bat  	BitKeeper file G:/SpaceHybrid/spells/design/sd.bat
+c scale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/scale.cfg
+c rngscale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/rngscale.cfg
+c rebirth.des	BitKeeper file G:/SpaceHybrid/spells/design/rebirth.des
+c nrgtype.cfg	BitKeeper file G:/SpaceHybrid/spells/design/nrgtype.cfg
+c noprey.des	BitKeeper file G:/SpaceHybrid/spells/design/noprey.des
+c nilrem.txt	BitKeeper file G:/SpaceHybrid/spells/design/nilrem.txt
+c nilrem.bat	BitKeeper file G:/SpaceHybrid/spells/design/nilrem.bat
+c moonsing.txt	BitKeeper file G:/SpaceHybrid/spells/design/moonsing.txt
+c moonsing.bat	BitKeeper file G:/SpaceHybrid/spells/design/moonsing.bat
+c laser.des	BitKeeper file G:/SpaceHybrid/spells/design/laser.des
+c kwikdraw.des	BitKeeper file G:/SpaceHybrid/spells/design/kwikdraw.des
+c koreal.txt	BitKeeper file G:/SpaceHybrid/spells/design/koreal.txt
+c koreal.bat	BitKeeper file G:/SpaceHybrid/spells/design/koreal.bat
+c force.des	BitKeeper file G:/SpaceHybrid/spells/design/force.des
+c forbear.des	BitKeeper file G:/SpaceHybrid/spells/design/forbear.des
+c firesum.des	BitKeeper file G:/SpaceHybrid/spells/design/firesum.des
+c firerock.des	BitKeeper file G:/SpaceHybrid/spells/design/firerock.des
+c finren.bat	BitKeeper file G:/SpaceHybrid/spells/design/finren.bat
+c echos.des	BitKeeper file G:/SpaceHybrid/spells/design/echos.des
+c earthper.des	BitKeeper file G:/SpaceHybrid/spells/design/earthper.des
+c durscale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/durscale.cfg
+c ctscale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/ctscale.cfg
+c castcomp.cfg	BitKeeper file G:/SpaceHybrid/spells/design/castcomp.cfg
+c augury.des	BitKeeper file G:/SpaceHybrid/spells/design/augury.des
+c aoescale.cfg	BitKeeper file G:/SpaceHybrid/spells/design/aoescale.cfg
+c action.cfg	BitKeeper file G:/SpaceHybrid/spells/design/action.cfg
+c tscale.cfg	BitKeeper file G:/SpaceHybrid/spells/tscale.cfg
+c template.des	BitKeeper file G:/SpaceHybrid/spells/template.des
+c tcomp.cfg	BitKeeper file G:/SpaceHybrid/spells/tcomp.cfg
+c target.cfg	BitKeeper file G:/SpaceHybrid/spells/target.cfg
+c spelldes.awk	BitKeeper file G:/SpaceHybrid/spells/spelldes.awk
+c sp2ltx.awk	BitKeeper file G:/SpaceHybrid/spells/sp2ltx.awk
+c singdown.des	BitKeeper file G:/SpaceHybrid/spells/singdown.des
+c shout.des	BitKeeper file G:/SpaceHybrid/spells/shout.des
+c sd.bat  	BitKeeper file G:/SpaceHybrid/spells/sd.bat
+c scale.cfg	BitKeeper file G:/SpaceHybrid/spells/scale.cfg
+c rngscale.cfg	BitKeeper file G:/SpaceHybrid/spells/rngscale.cfg
+c rebirth.des	BitKeeper file G:/SpaceHybrid/spells/rebirth.des
+c nrgtype.cfg	BitKeeper file G:/SpaceHybrid/spells/nrgtype.cfg
+c nrgexp.ltx	BitKeeper file G:/SpaceHybrid/spells/nrgexp.ltx
+c noprey.des	BitKeeper file G:/SpaceHybrid/spells/noprey.des
+c nilrem.txt	BitKeeper file G:/SpaceHybrid/spells/nilrem.txt
+c nilrem.bat	BitKeeper file G:/SpaceHybrid/spells/nilrem.bat
+c moonsing.txt	BitKeeper file G:/SpaceHybrid/spells/moonsing.txt
+c moonsing.bat	BitKeeper file G:/SpaceHybrid/spells/moonsing.bat
+c laser.des	BitKeeper file G:/SpaceHybrid/spells/laser.des
+c kwikdraw.des	BitKeeper file G:/SpaceHybrid/spells/kwikdraw.des
+c koreal.txt	BitKeeper file G:/SpaceHybrid/spells/koreal.txt
+c koreal.bat	BitKeeper file G:/SpaceHybrid/spells/koreal.bat
+c force.des	BitKeeper file G:/SpaceHybrid/spells/force.des
+c forbear.des	BitKeeper file G:/SpaceHybrid/spells/forbear.des
+c firesum.des	BitKeeper file G:/SpaceHybrid/spells/firesum.des
+c firerock.des	BitKeeper file G:/SpaceHybrid/spells/firerock.des
+c finren.bat	BitKeeper file G:/SpaceHybrid/spells/finren.bat
+c echos.des	BitKeeper file G:/SpaceHybrid/spells/echos.des
+c earthper.des	BitKeeper file G:/SpaceHybrid/spells/earthper.des
+c durscale.cfg	BitKeeper file G:/SpaceHybrid/spells/durscale.cfg
+c ctscale.cfg	BitKeeper file G:/SpaceHybrid/spells/ctscale.cfg
+c castcomp.cfg	BitKeeper file G:/SpaceHybrid/spells/castcomp.cfg
+c augury.des	BitKeeper file G:/SpaceHybrid/spells/augury.des
+c aoescale.cfg	BitKeeper file G:/SpaceHybrid/spells/aoescale.cfg
+c action.cfg	BitKeeper file G:/SpaceHybrid/spells/action.cfg
+c humansim.txt	BitKeeper file G:/SpaceHybrid/Research/Correspondence/humansim.txt
+c biomech.txt	BitKeeper file G:/SpaceHybrid/Research/Correspondence/biomech.txt
+c wpndes.ltx	BitKeeper file G:/SpaceHybrid/Research/Summaries/wpndes.ltx
+c spmagic.txt	BitKeeper file G:/SpaceHybrid/Research/Summaries/spmagic.txt
+c sleep.oft	BitKeeper file G:/SpaceHybrid/Research/Summaries/sleep.oft
+c rxn.txt 	BitKeeper file G:/SpaceHybrid/Research/Summaries/rxn.txt
+c psi.1   	BitKeeper file G:/SpaceHybrid/Research/Summaries/psi.1
+c pool.1  	BitKeeper file G:/SpaceHybrid/Research/Summaries/pool.1
+c ma.txt  	BitKeeper file G:/SpaceHybrid/Research/Summaries/ma.txt
+c illusion	BitKeeper file G:/SpaceHybrid/Research/Summaries/illusion
+c ill.txt 	BitKeeper file G:/SpaceHybrid/Research/Summaries/ill.txt
+c gdisc.txt	BitKeeper file G:/SpaceHybrid/Research/Summaries/gdisc.txt
+c gdisc.rpy	BitKeeper file G:/SpaceHybrid/Research/Summaries/gdisc.rpy
+c fatigue.txt	BitKeeper file G:/SpaceHybrid/Research/Summaries/fatigue.txt
+c coma.txt	BitKeeper file G:/SpaceHybrid/Research/Summaries/coma.txt
+c SpectralTemp.txt	BitKeeper file G:/SpaceHybrid/Research/Stellar/SpectralTemp.txt
+c SkillListTree.txt	BitKeeper file G:/SpaceHybrid/Research/Skills/SkillListTree.txt
+c SkillListAlpha.txt	BitKeeper file G:/SpaceHybrid/Research/Skills/SkillListAlpha.txt
+c mystsch2.htm	BitKeeper file G:/SpaceHybrid/Research/Shaman/mystsch2.htm
+c mystsch1.htm	BitKeeper file G:/SpaceHybrid/Research/Shaman/mystsch1.htm
+c PlanetFormation.txt	BitKeeper file G:/SpaceHybrid/Research/PlanetFormation/PlanetFormation.txt
+c tkd.dld 	BitKeeper file G:/SpaceHybrid/Research/Biblio/tkd.dld
+c tiger.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/tiger.dld
+c reflex.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/reflex.dld
+c percept.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/percept.dld
+c knife.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/knife.dld
+c karate.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/karate.dld
+c judo.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/judo.dld
+c horse.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/horse.dld
+c gunshot.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/gunshot.dld
+c cheetah.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/cheetah.dld
+c biomech.doc	BitKeeper file G:/SpaceHybrid/Research/Biblio/biomech.doc
+c arrow.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/arrow.dld
+c aikido.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/aikido.dld
+c ExtBallistics.dld	BitKeeper file G:/SpaceHybrid/Research/Biblio/ExtBallistics.dld
+c equations.html	BitKeeper file G:/SpaceHybrid/Research/Ballistics/equations.html
+c ballistics.dld	BitKeeper file G:/SpaceHybrid/Research/Ballistics/ballistics.dld
+c human.his	BitKeeper file G:/SpaceHybrid/Research/human.his
+c ftres.txt	BitKeeper file G:/SpaceHybrid/Research/ftres.txt
+c coma.txt	BitKeeper file G:/SpaceHybrid/Research/coma.txt
+c biomech.txt	BitKeeper file G:/SpaceHybrid/Research/biomech.txt
+c biomech.his	BitKeeper file G:/SpaceHybrid/Research/biomech.his
+c nrgexp.ltx	BitKeeper file G:/SpaceHybrid/Doc/SpellSystem/nrgexp.ltx
+c skills.1	BitKeeper file G:/SpaceHybrid/Doc/Skills/skills.1
+c scienceskills.skilldat.list	BitKeeper file G:/SpaceHybrid/Doc/Skills/scienceskills.skilldat.list
+c scienceskills.skilldat	BitKeeper file G:/SpaceHybrid/Doc/Skills/scienceskills.skilldat
+c psionicskills.skilldat	BitKeeper file G:/SpaceHybrid/Doc/Skills/psionicskills.skilldat
+c physicalskills.skilldat.list	BitKeeper file G:/SpaceHybrid/Doc/Skills/physicalskills.skilldat.list
+c physicalskills.skilldat	BitKeeper file G:/SpaceHybrid/Doc/Skills/physicalskills.skilldat
+c miscskills.skilldat.list	BitKeeper file G:/SpaceHybrid/Doc/Skills/miscskills.skilldat.list
+c miscskills.skilldat	BitKeeper file G:/SpaceHybrid/Doc/Skills/miscskills.skilldat
+c engskills.skilldat.list	BitKeeper file G:/SpaceHybrid/Doc/Skills/engskills.skilldat.list
+c engskills.skilldat	BitKeeper file G:/SpaceHybrid/Doc/Skills/engskills.skilldat
+c tskill9.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill9.tex
+c tskill9.aux	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill9.aux
+c tskill8.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill8.tex
+c tskill8.aux	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill8.aux
+c tskill7.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill7.tex
+c tskill7.aux	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill7.aux
+c tskill6.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill6.tex
+c tskill6.aux	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill6.aux
+c tskill5.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill5.tex
+c tskill4.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill4.tex
+c tskill3.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill3.tex
+c tskill2.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill2.tex
+c tskill11.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill11.tex
+c tskill10.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill10.tex
+c tskill10.aux	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill10.aux
+c tskill1.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tskill1.tex
+c troll2.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/troll2.tex
+c troll1.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/troll1.tex
+c tgpm9.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm9.tex
+c tgpm8.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm8.tex
+c tgpm7.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm7.tex
+c tgpm6.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm6.tex
+c tgpm4.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm4.tex
+c tgpm2.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm2.tex
+c tgpm12.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm12.tex
+c tgpm11.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm11.tex
+c tgpm10.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm10.tex
+c tgpm1.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tgpm1.tex
+c test.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/test.ltx
+c tcgen5.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tcgen5.tex
+c tcgen4.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tcgen4.tex
+c tcgen3.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tcgen3.tex
+c tcgen2.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/tcgen2.tex
+c skills.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/skills.ltx
+c sh.sty  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/sh.sty
+c preface.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/preface.tex
+c pg.txt  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.txt
+c pg.toc  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.toc
+c pg.sgml 	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.sgml
+c pg.ps   	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ps
+c pg.ltx  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ltx
+c pg.losh 	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.losh
+c pg.log  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.log
+c pg.ind  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ind
+c pg.ilg  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.ilg
+c pg.idx  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.idx
+c pg.aux  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/pg.aux
+c npcpc.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/npcpc.tex
+c missing.fnt	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/missing.fnt
+c intro.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/intro.tex
+c gpm.tex 	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/gpm.tex
+c gloss.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/gloss.tex
+c formel.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/formel.tex
+c combopt.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/combopt.ltx
+c combat.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/combat.tex
+c cmbttab.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/cmbttab.ltx
+c chargen.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/chargen.tex
+c chargen.sgml	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/chargen.sgml
+c cg.tex  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/cg.tex
+c cg.ltx  	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/cg.ltx
+c bacndadn	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/bacndadn
+c SKILLS.TEX	BitKeeper file G:/SpaceHybrid/Doc/PlayersGuide/SKILLS.TEX
+c wpndes.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/wpndes.tex
+c weapon.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/weapon.tex
+c trade.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/trade.tex
+c ti.txt  	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/ti.txt
+c systems.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/systems.tex
+c spell.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/spell.tex
+c space.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/space.tex
+c skilldes.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/skilldes.tex
+c sh.sty  	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/sh.sty
+c robots.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/robots.tex
+c research.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/research.tex
+c psi.tex 	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/psi.tex
+c ki.tex  	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/ki.tex
+c intro.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/intro.tex
+c hth.txt 	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/hth.txt
+c healing.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/healing.tex
+c govt.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/govt.tex
+c ge.tex  	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/ge.tex
+c culture.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/culture.tex
+c computer.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/computer.tex
+c cartog.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/cartog.tex
+c bio.tex 	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/bio.tex
+c armor.tex	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/armor.tex
+c PARADIGM.TEX	BitKeeper file G:/SpaceHybrid/Doc/Paradigm/PARADIGM.TEX
+c sleep.oft	BitKeeper file G:/SpaceHybrid/Doc/Design/sleep.oft
+c wpndes.ltx	BitKeeper file G:/SpaceHybrid/Doc/Design/wpndes.ltx
+c design.ltx	BitKeeper file G:/SpaceHybrid/Doc/Design/design.ltx
+c texshell.dsk	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/texshell.dsk
+c tables.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/tables.ltx
+c spellsht.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/spellsht.ltx
+c skillsht.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/skillsht.ltx
+c initsum.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/initsum.ltx
+c gm.tex  	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/gm.tex
+c gm.ltx  	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/gm.ltx
+c dbk2ltx.rep	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/dbk2ltx.rep
+c cmbtsht.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/cmbtsht.ltx
+c charsht.tex	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/charsht.tex
+c aids.sgm	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/aids.sgm
+c aids.ltx	BitKeeper file G:/SpaceHybrid/Doc/PlayingAids/aids.ltx
+c spmagic.txt	BitKeeper file G:/SpaceHybrid/Discussions/spmagic.txt
+c rxn.txt 	BitKeeper file G:/SpaceHybrid/Discussions/rxn.txt
+c psi.1   	BitKeeper file G:/SpaceHybrid/Discussions/psi.1
+c pool.1  	BitKeeper file G:/SpaceHybrid/Discussions/pool.1
+c ma.txt  	BitKeeper file G:/SpaceHybrid/Discussions/ma.txt
+c illusion	BitKeeper file G:/SpaceHybrid/Discussions/illusion
+c ill.txt 	BitKeeper file G:/SpaceHybrid/Discussions/ill.txt
+c gdisc.txt	BitKeeper file G:/SpaceHybrid/Discussions/gdisc.txt
+c gdisc.rpy	BitKeeper file G:/SpaceHybrid/Discussions/gdisc.rpy
+c fatigue.txt	BitKeeper file G:/SpaceHybrid/Discussions/fatigue.txt
+c wpns.lst	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/wpns.lst
+c prjwpn.fmt	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/prjwpn.fmt
+c mwpn2ltx.awk	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/mwpn2ltx.awk
+c mwpn.sed	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/mwpn.sed
+c mwpn.dat	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/mwpn.dat
+c mwpn.1  	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/mwpn.1
+c meleewpn.fmt	BitKeeper file G:/SpaceHybrid/DataTools/Weapon/meleewpn.fmt
+c skilldat2list.awk	BitKeeper file G:/SpaceHybrid/DataTools/Skills/skilldat2list.awk
+c skilldat.fmt	BitKeeper file G:/SpaceHybrid/DataTools/Skills/skilldat.fmt
+c skilldat.example	BitKeeper file G:/SpaceHybrid/DataTools/Skills/skilldat.example
+c genskillcostlist.awk	BitKeeper file G:/SpaceHybrid/DataTools/Skills/genskillcostlist.awk
+c rxnspd.awk	BitKeeper file G:/SpaceHybrid/DataTools/Reaction/rxnspd.awk
+c npc2tex.awk	BitKeeper file G:/SpaceHybrid/DataTools/Npc/npc2tex.awk
+c npc2ltx.awk	BitKeeper file G:/SpaceHybrid/DataTools/Npc/npc2ltx.awk
+c npc.fmt 	BitKeeper file G:/SpaceHybrid/DataTools/Npc/npc.fmt
+c tenogon.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/tenogon.nam
+c names.1 	BitKeeper file G:/SpaceHybrid/DataTools/Names/names.1
+c names   	BitKeeper file G:/SpaceHybrid/DataTools/Names/names
+c namegen.bat	BitKeeper file G:/SpaceHybrid/DataTools/Names/namegen.bat
+c namegen.awk	BitKeeper file G:/SpaceHybrid/DataTools/Names/namegen.awk
+c mimbre.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/mimbre.nam
+c koran.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/koran.nam
+c kevaran.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/kevaran.nam
+c kalifan.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/kalifan.nam
+c elven.nam	BitKeeper file G:/SpaceHybrid/DataTools/Names/elven.nam
+c career.fmt	BitKeeper file G:/SpaceHybrid/DataTools/Career/career.fmt
+c career.dat	BitKeeper file G:/SpaceHybrid/DataTools/Career/career.dat
+c scienceskills.skilldat	BitKeeper file G:/SpaceHybrid/Data/Skills/scienceskills.skilldat
+c psionicskills.skilldat	BitKeeper file G:/SpaceHybrid/Data/Skills/psionicskills.skilldat
+c physicalskills.skilldat	BitKeeper file G:/SpaceHybrid/Data/Skills/physicalskills.skilldat
+c miscskills.skilldat	BitKeeper file G:/SpaceHybrid/Data/Skills/miscskills.skilldat
+c engskills.skilldat	BitKeeper file G:/SpaceHybrid/Data/Skills/engskills.skilldat
+c rejonis.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/rejonis.npc
+c manner.tex	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/manner.tex
+c manner.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/manner.npc
+c manner.ltx	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/manner.ltx
+c halican.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/halican.npc
+c chastity.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/npc/chastity.npc
+c recap.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/recap.txt
+c order3.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/order3.txt
+c order2.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/order2.txt
+c order1.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/order1.txt
+c new.txt 	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/new.txt
+c history.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/history.txt
+c hell.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/hell.txt
+c craft.lst	BitKeeper file G:/SpaceHybrid/Campaign/Karban/Hell/craft.lst
+c wilder.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/wilder.npc
+c portlin.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/portlin.npc
+c markov.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/markov.npc
+c lesk.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/lesk.npc
+c lamport.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/lamport.npc
+c kostas.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/kostas.npc
+c hughes.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/hughes.npc
+c deste.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/deste.npc
+c connolly.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/connolly.npc
+c canoff.npc	BitKeeper file G:/SpaceHybrid/Campaign/Karban/npc/canoff.npc
+c Visions.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/moore/Visions.txt
+c Visions.sgml	BitKeeper file G:/SpaceHybrid/Campaign/Karban/moore/Visions.sgml
+c plots.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/1st/plots.txt
+c karban.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/1st/karban.txt
+c eval.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/1st/eval.txt
+c crew.txt	BitKeeper file G:/SpaceHybrid/Campaign/Karban/1st/crew.txt
+cC
+cK55305
+e
+s 00001/00000/00000
+d D 1.1 99/12/02 15:33:49 jmochel 2 1
+c Initial repository create
+cC
+cK16121
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:31:26 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/ChangeSet
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cC
+cHdevilmountain.bedford.foliage.com
+cK52994
+cPChangeSet
+cRe2968a7f5cb68f67
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 97
+t
+Space Hybrid is a Role Playing Game
+It is an attempt at a universal set of rules for
+all genres.
+T
+I 4
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/MontrosesToast.conversation.txt|19991202210053|45005|eb47864c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/MontrosesToast.conversation.txt|19991214183100|34887
+E 4
+I 3
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/crew.txt|19991202203847|44873|eb4785ff5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/crew.txt|19991202203850|63769
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/eval.txt|19991202203850|44873|eb4785fe5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/eval.txt|19991202203854|16348
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/karban.txt|19991202203854|44873|eb4785fd5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/karban.txt|19991202203857|65092
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/plots.txt|19991202203857|44874|eb4785fc5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/1st/plots.txt|19991202203901|21311
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/moore/Visions.sgml|19991202203901|44874|eb4785fb5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/moore/Visions.sgml|19991202203904|36519
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/moore/Visions.txt|19991202203904|44874|eb4785fa5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/moore/Visions.txt|19991202203908|37130
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/canoff.npc|19991202203908|44875|eb4785f95cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/canoff.npc|19991202203912|00614
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/connolly.npc|19991202203912|44875|eb4785f85cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/connolly.npc|19991202203916|57679
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/deste.npc|19991202203916|44876|eb4785f75cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/deste.npc|19991202203921|63904
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/hughes.npc|19991202203921|44876|eb4785f65cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/hughes.npc|19991202203925|63618
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/kostas.npc|19991202203925|44876|eb4785f55cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/kostas.npc|19991202203928|57923
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/lamport.npc|19991202203928|44877|eb4785f45cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/lamport.npc|19991202203932|61824
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/lesk.npc|19991202203932|44877|eb4785f35cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/lesk.npc|19991202203935|28898
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/markov.npc|19991202203935|44878|eb4785f25cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/markov.npc|19991202203940|59180
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/portlin.npc|19991202203940|44878|eb4785f15cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/portlin.npc|19991202203944|23976
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/wilder.npc|19991202203944|44878|eb4785f05cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/npc/wilder.npc|19991202203947|62125
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/chastity.npc|19991202204017|44882|eb4785e75cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/chastity.npc|19991202204020|05270
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/halican.npc|19991202204020|44882|eb4785e65cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/halican.npc|19991202204024|63473
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.ltx|19991202204024|44882|eb4785e55cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.ltx|19991202204027|04125
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.npc|19991202204028|44883|eb4785e45cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.npc|19991202204031|11808
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.tex|19991202204031|44883|eb4785e35cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/manner.tex|19991202204035|33296
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/rejonis.npc|19991202204035|44883|eb4785e25cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/npc/rejonis.npc|19991202204038|17247
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/craft.lst|19991202203948|44879|eb4785ef5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/craft.lst|19991202203951|27660
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/hell.txt|19991202203951|44879|eb4785ee5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/hell.txt|19991202203955|57127
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/history.txt|19991202203955|44879|eb4785ed5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/history.txt|19991202203959|00437
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/new.txt|19991202203959|44880|eb4785ec5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/new.txt|19991202204002|05946
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order1.txt|19991202204003|44880|eb4785eb5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order1.txt|19991202204006|05655
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order2.txt|19991202204006|44881|eb4785ea5cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order2.txt|19991202204010|27207
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order3.txt|19991202204010|44881|eb4785e95cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/order3.txt|19991202204013|26432
+jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/recap.txt|19991202204013|44881|eb4785e85cb68f68 jmochel@devilmountain.bedford.foliage.com|Campaign/Karban/Hell/recap.txt|19991202204016|27295
+jmochel@devilmountain.bedford.foliage.com|Data/Skills/engskills.skilldat|19991202204038|44884|eb4785e15cb68f68 jmochel@devilmountain.bedford.foliage.com|Data/Skills/engskills.skilldat|19991202204042|43614
+jmochel@devilmountain.bedford.foliage.com|Data/Skills/miscskills.skilldat|19991202204042|44884|eb4785e05cb68f68 jmochel@devilmountain.bedford.foliage.com|Data/Skills/miscskills.skilldat|19991202204046|29558
+jmochel@devilmountain.bedford.foliage.com|Data/Skills/physicalskills.skilldat|19991202204046|44885|eb47851f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Data/Skills/physicalskills.skilldat|19991202204050|12259
+jmochel@devilmountain.bedford.foliage.com|Data/Skills/psionicskills.skilldat|19991202204050|44885|eb47851e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Data/Skills/psionicskills.skilldat|19991202204053|39850
+jmochel@devilmountain.bedford.foliage.com|Data/Skills/scienceskills.skilldat|19991202204053|44885|eb47851d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Data/Skills/scienceskills.skilldat|19991202204057|21174
+jmochel@devilmountain.bedford.foliage.com|DataTools/Career/career.dat|19991202204057|44886|eb47851c5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Career/career.dat|19991202204100|33304
+jmochel@devilmountain.bedford.foliage.com|DataTools/Career/career.fmt|19991202204100|44886|eb47851b5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Career/career.fmt|19991202204104|07769
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/elven.nam|19991202204104|44886|eb47851a5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/elven.nam|19991202204107|44816
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/kalifan.nam|19991202204107|44887|eb4785195cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/kalifan.nam|19991202204111|14272
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/kevaran.nam|19991202204111|44887|eb4785185cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/kevaran.nam|19991202204114|21699
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/koran.nam|19991202204114|44887|eb4785175cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/koran.nam|19991202204118|44975
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/mimbre.nam|19991202204118|44888|eb4785165cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/mimbre.nam|19991202204122|17696
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/namegen.awk|19991202204122|44888|eb4785155cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/namegen.awk|19991202204125|17273
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/namegen.bat|19991202204125|44888|eb4785145cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/namegen.bat|19991202204129|12308
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/names|19991202204129|44889|eb4785135cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/names|19991202204133|25973
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/names.1|19991202204133|44889|eb4785125cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/names.1|19991202204136|20207
+jmochel@devilmountain.bedford.foliage.com|DataTools/Names/tenogon.nam|19991202204136|44890|eb4785115cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Names/tenogon.nam|19991202204140|15830
+jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc.fmt|19991202204140|44890|eb4785105cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc.fmt|19991202204143|61855
+jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc2ltx.awk|19991202204143|44890|eb47850f5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc2ltx.awk|19991202204147|28091
+jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc2tex.awk|19991202204147|44891|eb47850e5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Npc/npc2tex.awk|19991202204150|16153
+jmochel@devilmountain.bedford.foliage.com|DataTools/Reaction/rxnspd.awk|19991202204150|44891|eb47850d5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Reaction/rxnspd.awk|19991202204154|56665
+jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/genskillcostlist.awk|19991202204154|44891|eb47850c5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/genskillcostlist.awk|19991202204157|06091
+jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat.example|19991202204157|44892|eb47850b5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat.example|19991202204201|11843
+jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat.fmt|19991202204201|44892|eb47850a5cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat.fmt|19991202204204|10772
+jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat2list.awk|19991202204204|44892|eb4785095cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Skills/skilldat2list.awk|19991202204208|24611
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/meleewpn.fmt|19991202204208|44893|eb4785085cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/meleewpn.fmt|19991202204211|16766
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.1|19991202204211|44893|eb4785075cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.1|19991202204215|06938
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.dat|19991202204215|44893|eb4785065cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.dat|19991202204218|23804
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.sed|19991202204218|44894|eb4785055cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn.sed|19991202204222|18054
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn2ltx.awk|19991202204222|44894|eb4785045cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/mwpn2ltx.awk|19991202204225|24670
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/prjwpn.fmt|19991202204225|44894|eb4785035cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/prjwpn.fmt|19991202204229|07180
+jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/wpns.lst|19991202204229|44895|eb4785025cb68f68 jmochel@devilmountain.bedford.foliage.com|DataTools/Weapon/wpns.lst|19991202204232|12129
+jmochel@devilmountain.bedford.foliage.com|Discussions/fatigue.txt|19991202204232|44895|eb4785015cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/fatigue.txt|19991202204236|45168
+jmochel@devilmountain.bedford.foliage.com|Discussions/gdisc.rpy|19991202204236|44895|eb4785005cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/gdisc.rpy|19991202204239|18950
+jmochel@devilmountain.bedford.foliage.com|Discussions/gdisc.txt|19991202204239|44896|eb47853f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/gdisc.txt|19991202204243|26377
+jmochel@devilmountain.bedford.foliage.com|Discussions/ill.txt|19991202204243|44896|eb47853e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/ill.txt|19991202204246|19510
+jmochel@devilmountain.bedford.foliage.com|Discussions/illusion|19991202204246|44897|eb47853d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/illusion|19991202204250|54827
+jmochel@devilmountain.bedford.foliage.com|Discussions/ma.txt|19991202204250|44897|eb47853c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/ma.txt|19991202204253|58025
+jmochel@devilmountain.bedford.foliage.com|Discussions/pool.1|19991202204253|44897|eb47853b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/pool.1|19991202204257|47709
+jmochel@devilmountain.bedford.foliage.com|Discussions/psi.1|19991202204257|44898|eb47853a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/psi.1|19991202204300|34501
+jmochel@devilmountain.bedford.foliage.com|Discussions/rxn.txt|19991202204300|44898|eb4785395cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/rxn.txt|19991202204304|56815
+jmochel@devilmountain.bedford.foliage.com|Discussions/spmagic.txt|19991202204304|44898|eb4785385cb68f68 jmochel@devilmountain.bedford.foliage.com|Discussions/spmagic.txt|19991202204307|36133
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/aids.ltx|19991202204307|44899|eb4785375cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/aids.ltx|19991202204311|28940
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/aids.sgm|19991202204311|44899|eb4785365cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/aids.sgm|19991202204314|49167
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/charsht.tex|19991202204314|44899|eb4785355cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/charsht.tex|19991202204318|41937
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/cmbtsht.ltx|19991202204318|44900|eb4785345cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/cmbtsht.ltx|19991202204321|30898
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/dbk2ltx.rep|19991202204321|44900|eb4785335cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/dbk2ltx.rep|19991202204325|34268
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/gm.ltx|19991202204325|44900|eb4785325cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/gm.ltx|19991202204328|16400
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/gm.tex|19991202204328|44901|eb4785315cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/gm.tex|19991202204332|02423
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/initsum.ltx|19991202204332|44901|eb4785305cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/initsum.ltx|19991202204335|57831
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/skillsht.ltx|19991202204335|44901|eb47852f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/skillsht.ltx|19991202204339|04981
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/spellsht.ltx|19991202204339|44902|eb47852e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/spellsht.ltx|19991202204342|44725
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/tables.ltx|19991202204342|44902|eb47852d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/tables.ltx|19991202204346|11014
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/texshell.dsk|19991202204346|44902|eb47852c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayingAids/texshell.dsk|19991202204349|60418
+jmochel@devilmountain.bedford.foliage.com|Doc/Design/design.ltx|19991202204349|44903|eb47852b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Design/design.ltx|19991202204353|45085
+jmochel@devilmountain.bedford.foliage.com|Doc/Design/wpndes.ltx|19991202204353|44903|eb47852a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Design/wpndes.ltx|19991202204356|01670
+jmochel@devilmountain.bedford.foliage.com|Doc/Design/sleep.oft|19991202204356|44904|eb4785295cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Design/sleep.oft|19991202204400|62524
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/PARADIGM.TEX|19991202204400|44904|eb4785285cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/PARADIGM.TEX|19991202204404|26156
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/armor.tex|19991202204404|44904|eb4785275cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/armor.tex|19991202204407|10355
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/bio.tex|19991202204407|44905|eb4785265cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/bio.tex|19991202204411|57543
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/cartog.tex|19991202204411|44905|eb4785255cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/cartog.tex|19991202204414|38318
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/computer.tex|19991202204415|44905|eb4785245cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/computer.tex|19991202204418|60855
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/culture.tex|19991202204418|44906|eb4785235cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/culture.tex|19991202204422|64957
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ge.tex|19991202204422|44906|eb4785225cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ge.tex|19991202204425|57830
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/govt.tex|19991202204425|44906|eb4785215cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/govt.tex|19991202204428|20111
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/healing.tex|19991202204429|44907|eb4785205cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/healing.tex|19991202204432|44602
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/hth.txt|19991202204432|44907|eb47855f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/hth.txt|19991202204436|37408
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/intro.tex|19991202204436|44907|eb47855e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/intro.tex|19991202204439|47788
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ki.tex|19991202204439|44908|eb47855d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ki.tex|19991202204443|34974
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/psi.tex|19991202204443|44908|eb47855c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/psi.tex|19991202204446|60263
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/research.tex|19991202204446|44909|eb47855b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/research.tex|19991202204450|36248
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/robots.tex|19991202204450|44909|eb47855a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/robots.tex|19991202204453|18893
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/sh.sty|19991202204453|44909|eb4785595cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/sh.sty|19991202204457|06374
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/skilldes.tex|19991202204457|44910|eb4785585cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/skilldes.tex|19991202204500|30884
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/space.tex|19991202204500|44910|eb4785575cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/space.tex|19991202204504|65173
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/spell.tex|19991202204504|44910|eb4785565cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/spell.tex|19991202204507|28600
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/systems.tex|19991202204507|44911|eb4785555cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/systems.tex|19991202204511|07022
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ti.txt|19991202204511|44911|eb4785545cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/ti.txt|19991202204514|46334
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/trade.tex|19991202204515|44911|eb4785535cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/trade.tex|19991202204518|15456
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/weapon.tex|19991202204518|44912|eb4785525cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/weapon.tex|19991202204522|21939
+jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/wpndes.tex|19991202204522|44912|eb4785515cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Paradigm/wpndes.tex|19991202204526|61708
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/SKILLS.TEX|19991202204526|44912|eb4785505cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/SKILLS.TEX|19991202204529|20080
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/bacndadn|19991202204529|44913|eb47854f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/bacndadn|19991202204533|39324
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cg.ltx|19991202204533|44913|eb47854e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cg.ltx|19991202204536|51568
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cg.tex|19991202204536|44914|eb47854d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cg.tex|19991202204540|51568
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/chargen.sgml|19991202204540|44914|eb47854c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/chargen.sgml|19991202204543|51862
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/chargen.tex|19991202204543|44914|eb47854b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/chargen.tex|19991202204547|38288
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cmbttab.ltx|19991202204547|44915|eb47854a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/cmbttab.ltx|19991202204550|34079
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/combat.tex|19991202204550|44915|eb4785495cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/combat.tex|19991202204554|23072
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/combopt.ltx|19991202204554|44915|eb4785485cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/combopt.ltx|19991202204557|46230
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/formel.tex|19991202204557|44916|eb4785475cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/formel.tex|19991202204601|08638
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/gloss.tex|19991202204601|44916|eb4785465cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/gloss.tex|19991202204604|54383
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/gpm.tex|19991202204604|44916|eb4785455cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/gpm.tex|19991202204608|01151
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/intro.tex|19991202204608|44917|eb4785445cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/intro.tex|19991202204612|34682
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/missing.fnt|19991202204612|44917|eb4785435cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/missing.fnt|19991202204616|27453
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/npcpc.tex|19991202204616|44917|eb4785425cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/npcpc.tex|19991202204619|15019
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.aux|19991202204619|44918|eb4785415cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.aux|19991202204623|35087
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.idx|19991202204623|44918|eb4785405cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.idx|19991202204627|17525
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ilg|19991202204627|44919|eb47857f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ilg|19991202204630|32342
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ind|19991202204630|44919|eb47857e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ind|19991202204634|51143
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.log|19991202204634|44919|eb47857d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.log|19991202204638|24143
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.losh|19991202204638|44920|eb47857c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.losh|19991202204641|45219
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ltx|19991202204641|44920|eb47857b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ltx|19991202204645|07434
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ps|19991202204645|44920|eb47857a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.ps|19991202204648|61646
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.sgml|19991202204648|44921|eb4785795cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.sgml|19991202204652|07835
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.toc|19991202204652|44921|eb4785785cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.toc|19991202204655|31330
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.txt|19991202204655|44921|eb4785775cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/pg.txt|19991202204659|46429
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/preface.tex|19991202204659|44922|eb4785765cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/preface.tex|19991202204702|03736
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/sh.sty|19991202204702|44922|eb4785755cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/sh.sty|19991202204706|25789
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/skills.ltx|19991202204706|44922|eb4785745cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/skills.ltx|19991202204709|39324
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen2.tex|19991202204710|44923|eb4785735cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen2.tex|19991202204713|05241
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen3.tex|19991202204713|44923|eb4785725cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen3.tex|19991202204717|26082
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen4.tex|19991202204717|44924|eb4785715cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen4.tex|19991202204720|34876
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen5.tex|19991202204720|44924|eb4785705cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tcgen5.tex|19991202204724|26748
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/test.ltx|19991202204724|44924|eb47856f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/test.ltx|19991202204727|08916
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm1.tex|19991202204728|44925|eb47856e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm1.tex|19991202204731|12372
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm10.tex|19991202204731|44925|eb47856d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm10.tex|19991202204735|25420
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm11.tex|19991202204735|44925|eb47856c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm11.tex|19991202204738|16958
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm12.tex|19991202204738|44926|eb47856b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm12.tex|19991202204742|27533
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm2.tex|19991202204742|44926|eb47856a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm2.tex|19991202204745|31652
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm4.tex|19991202204745|44926|eb4785695cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm4.tex|19991202204749|30700
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm6.tex|19991202204749|44927|eb4785685cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm6.tex|19991202204752|33062
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm7.tex|19991202204752|44927|eb4785675cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm7.tex|19991202204756|36137
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm8.tex|19991202204756|44928|eb4785665cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm8.tex|19991202204800|29786
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm9.tex|19991202204800|44928|eb4785655cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tgpm9.tex|19991202204804|21462
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/troll1.tex|19991202204804|44928|eb4785645cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/troll1.tex|19991202204807|33492
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/troll2.tex|19991202204807|44929|eb4785635cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/troll2.tex|19991202204810|34509
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill1.tex|19991202204810|44929|eb4785625cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill1.tex|19991202204814|35392
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill10.aux|19991202204814|44929|eb4785615cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill10.aux|19991202204818|08958
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill10.tex|19991202204818|44930|eb4785605cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill10.tex|19991202204821|07956
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill11.tex|19991202204821|44930|eb47869f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill11.tex|19991202204825|55768
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill2.tex|19991202204825|44930|eb47869e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill2.tex|19991202204828|32369
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill3.tex|19991202204828|44931|eb47869d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill3.tex|19991202204832|32092
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill4.tex|19991202204832|44931|eb47869c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill4.tex|19991202204835|25453
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill5.tex|19991202204835|44931|eb47869b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill5.tex|19991202204839|21792
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill6.aux|19991202204839|44932|eb47869a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill6.aux|19991202204842|10023
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill6.tex|19991202204842|44932|eb4786995cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill6.tex|19991202204846|43628
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill7.aux|19991202204846|44932|eb4786985cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill7.aux|19991202204849|11499
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill7.tex|19991202204849|44933|eb4786975cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill7.tex|19991202204852|63384
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill8.aux|19991202204853|44933|eb4786965cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill8.aux|19991202204856|11137
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill8.tex|19991202204856|44933|eb4786955cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill8.tex|19991202204859|27142
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill9.aux|19991202204900|44934|eb4786945cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill9.aux|19991202204903|10594
+jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill9.tex|19991202204903|44934|eb4786935cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/PlayersGuide/tskill9.tex|19991202204906|32145
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/engskills.skilldat|19991202204906|44935|eb4786925cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/engskills.skilldat|19991202204910|39091
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/engskills.skilldat.list|19991202204910|44935|eb4786915cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/engskills.skilldat.list|19991202204913|18908
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/miscskills.skilldat|19991202204913|44935|eb4786905cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/miscskills.skilldat|19991202204917|48439
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/miscskills.skilldat.list|19991202204917|44936|eb47868f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/miscskills.skilldat.list|19991202204920|00823
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/physicalskills.skilldat|19991202204920|44936|eb47868e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/physicalskills.skilldat|19991202204924|38162
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/physicalskills.skilldat.list|19991202204924|44936|eb47868d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/physicalskills.skilldat.list|19991202204927|20519
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/psionicskills.skilldat|19991202204927|44937|eb47868c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/psionicskills.skilldat|19991202204931|62178
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/scienceskills.skilldat|19991202204931|44937|eb47868b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/scienceskills.skilldat|19991202204934|21174
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/scienceskills.skilldat.list|19991202204934|44937|eb47868a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/scienceskills.skilldat.list|19991202204938|11603
+jmochel@devilmountain.bedford.foliage.com|Doc/Skills/skills.1|19991202204938|44938|eb4786895cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/Skills/skills.1|19991202204941|51563
+jmochel@devilmountain.bedford.foliage.com|Doc/SpellSystem/nrgexp.ltx|19991202204941|44938|eb4786885cb68f68 jmochel@devilmountain.bedford.foliage.com|Doc/SpellSystem/nrgexp.ltx|19991202204945|21688
+jmochel@devilmountain.bedford.foliage.com|Research/Ballistics/ballistics.dld|19991202205002|44940|eb4786825cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Ballistics/ballistics.dld|19991202205006|00772
+jmochel@devilmountain.bedford.foliage.com|Research/Ballistics/equations.html|19991202205006|44940|eb4786815cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Ballistics/equations.html|19991202205009|23189
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/ExtBallistics.dld|19991202205009|44941|eb4786805cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/ExtBallistics.dld|19991202205013|22800
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/aikido.dld|19991202205013|44941|eb4786bf5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/aikido.dld|19991202205016|49963
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/arrow.dld|19991202205016|44942|eb4786be5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/arrow.dld|19991202205020|32489
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/biomech.doc|19991202205020|44942|eb4786bd5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/biomech.doc|19991202205023|46147
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/cheetah.dld|19991202205023|44942|eb4786bc5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/cheetah.dld|19991202205027|49137
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/gunshot.dld|19991202205027|44943|eb4786bb5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/gunshot.dld|19991202205030|41197
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/horse.dld|19991202205030|44943|eb4786ba5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/horse.dld|19991202205034|53514
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/judo.dld|19991202205034|44943|eb4786b95cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/judo.dld|19991202205037|51535
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/karate.dld|19991202205037|44944|eb4786b85cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/karate.dld|19991202205041|30977
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/knife.dld|19991202205041|44944|eb4786b75cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/knife.dld|19991202205044|05429
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/percept.dld|19991202205044|44944|eb4786b65cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/percept.dld|19991202205048|58341
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/reflex.dld|19991202205048|44945|eb4786b55cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/reflex.dld|19991202205051|45653
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/tiger.dld|19991202205051|44945|eb4786b45cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/tiger.dld|19991202205055|14452
+jmochel@devilmountain.bedford.foliage.com|Research/Biblio/tkd.dld|19991202205055|44945|eb4786b35cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Biblio/tkd.dld|19991202205058|14415
+jmochel@devilmountain.bedford.foliage.com|Research/PlanetFormation/PlanetFormation.txt|19991202205058|44946|eb4786b25cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/PlanetFormation/PlanetFormation.txt|19991202205102|35648
+jmochel@devilmountain.bedford.foliage.com|Research/Shaman/mystsch1.htm|19991202205102|44946|eb4786b15cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Shaman/mystsch1.htm|19991202205105|27731
+jmochel@devilmountain.bedford.foliage.com|Research/Shaman/mystsch2.htm|19991202205105|44946|eb4786b05cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Shaman/mystsch2.htm|19991202205109|07240
+jmochel@devilmountain.bedford.foliage.com|Research/Skills/SkillListAlpha.txt|19991202205109|44947|eb4786af5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Skills/SkillListAlpha.txt|19991202205112|64527
+jmochel@devilmountain.bedford.foliage.com|Research/Skills/SkillListTree.txt|19991202205112|44947|eb4786ae5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Skills/SkillListTree.txt|19991202205116|12074
+jmochel@devilmountain.bedford.foliage.com|Research/Stellar/SpectralTemp.txt|19991202205116|44947|eb4786ad5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Stellar/SpectralTemp.txt|19991202205119|55997
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/coma.txt|19991202205119|44948|eb4786ac5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/coma.txt|19991202205123|61331
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/fatigue.txt|19991202205123|44948|eb4786ab5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/fatigue.txt|19991202205126|45168
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/gdisc.rpy|19991202205126|44949|eb4786aa5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/gdisc.rpy|19991202205130|18950
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/gdisc.txt|19991202205130|44949|eb4786a95cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/gdisc.txt|19991202205133|26377
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/ill.txt|19991202205133|44949|eb4786a85cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/ill.txt|19991202205137|19510
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/illusion|19991202205137|44950|eb4786a75cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/illusion|19991202205140|54827
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/ma.txt|19991202205140|44950|eb4786a65cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/ma.txt|19991202205144|58025
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/pool.1|19991202205144|44950|eb4786a55cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/pool.1|19991202205147|47709
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/psi.1|19991202205147|44951|eb4786a45cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/psi.1|19991202205151|34501
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/rxn.txt|19991202205151|44951|eb4786a35cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/rxn.txt|19991202205154|56815
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/sleep.oft|19991202205154|44951|eb4786a25cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/sleep.oft|19991202205158|62524
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/spmagic.txt|19991202205158|44952|eb4786a15cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/spmagic.txt|19991202205201|36133
+jmochel@devilmountain.bedford.foliage.com|Research/Summaries/wpndes.ltx|19991202205201|44952|eb4786a05cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Summaries/wpndes.ltx|19991202205205|01670
+jmochel@devilmountain.bedford.foliage.com|Research/Correspondence/biomech.txt|19991202205205|44952|eb4786df5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Correspondence/biomech.txt|19991202205208|54946
+jmochel@devilmountain.bedford.foliage.com|Research/Correspondence/humansim.txt|19991202205208|44953|eb4786de5cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/Correspondence/humansim.txt|19991202205212|01567
+jmochel@devilmountain.bedford.foliage.com|Research/biomech.his|19991202204945|44938|eb4786875cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/biomech.his|19991202204948|19624
+jmochel@devilmountain.bedford.foliage.com|Research/biomech.txt|19991202204948|44939|eb4786865cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/biomech.txt|19991202204952|54946
+jmochel@devilmountain.bedford.foliage.com|Research/coma.txt|19991202204952|44939|eb4786855cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/coma.txt|19991202204955|61331
+jmochel@devilmountain.bedford.foliage.com|Research/ftres.txt|19991202204955|44939|eb4786845cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/ftres.txt|19991202204959|06008
+jmochel@devilmountain.bedford.foliage.com|Research/human.his|19991202204959|44940|eb4786835cb68f68 jmochel@devilmountain.bedford.foliage.com|Research/human.his|19991202205002|08501
+jmochel@devilmountain.bedford.foliage.com|spells/design/action.cfg|19991202205427|44967|eb4786f95cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/action.cfg|19991202205431|28451
+jmochel@devilmountain.bedford.foliage.com|spells/design/aoescale.cfg|19991202205431|44967|eb4786f85cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/aoescale.cfg|19991202205434|01491
+jmochel@devilmountain.bedford.foliage.com|spells/design/augury.des|19991202205434|44967|eb4786f75cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/augury.des|19991202205438|17483
+jmochel@devilmountain.bedford.foliage.com|spells/design/castcomp.cfg|19991202205438|44968|eb4786f65cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/castcomp.cfg|19991202205441|24690
+jmochel@devilmountain.bedford.foliage.com|spells/design/ctscale.cfg|19991202205441|44968|eb4786f55cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/ctscale.cfg|19991202205445|05175
+jmochel@devilmountain.bedford.foliage.com|spells/design/durscale.cfg|19991202205445|44968|eb4786f45cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/durscale.cfg|19991202205448|07149
+jmochel@devilmountain.bedford.foliage.com|spells/design/earthper.des|19991202205448|44969|eb4786f35cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/earthper.des|19991202205452|13683
+jmochel@devilmountain.bedford.foliage.com|spells/design/echos.des|19991202205452|44969|eb4786f25cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/echos.des|19991202205455|17074
+jmochel@devilmountain.bedford.foliage.com|spells/design/finren.bat|19991202205455|44969|eb4786f15cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/finren.bat|19991202205459|40556
+jmochel@devilmountain.bedford.foliage.com|spells/design/firerock.des|19991202205459|44970|eb4786f05cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/firerock.des|19991202205502|15372
+jmochel@devilmountain.bedford.foliage.com|spells/design/firesum.des|19991202205502|44970|eb4786ef5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/firesum.des|19991202205506|14137
+jmochel@devilmountain.bedford.foliage.com|spells/design/forbear.des|19991202205506|44970|eb4786ee5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/forbear.des|19991202205509|12807
+jmochel@devilmountain.bedford.foliage.com|spells/design/force.des|19991202205509|44971|eb4786ed5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/force.des|19991202205513|13482
+jmochel@devilmountain.bedford.foliage.com|spells/design/koreal.bat|19991202205513|44971|eb4786ec5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/koreal.bat|19991202205516|08175
+jmochel@devilmountain.bedford.foliage.com|spells/design/koreal.txt|19991202205516|44972|eb4786eb5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/koreal.txt|19991202205520|36308
+jmochel@devilmountain.bedford.foliage.com|spells/design/kwikdraw.des|19991202205520|44972|eb4786ea5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/kwikdraw.des|19991202205523|14050
+jmochel@devilmountain.bedford.foliage.com|spells/design/laser.des|19991202205524|44972|eb4786e95cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/laser.des|19991202205527|19742
+jmochel@devilmountain.bedford.foliage.com|spells/design/moonsing.bat|19991202205527|44973|eb4786e85cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/moonsing.bat|19991202205531|40338
+jmochel@devilmountain.bedford.foliage.com|spells/design/moonsing.txt|19991202205531|44973|eb4786e75cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/moonsing.txt|19991202205534|25087
+jmochel@devilmountain.bedford.foliage.com|spells/design/nilrem.bat|19991202205534|44973|eb4786e65cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/nilrem.bat|19991202205538|12574
+jmochel@devilmountain.bedford.foliage.com|spells/design/nilrem.txt|19991202205538|44974|eb4786e55cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/nilrem.txt|19991202205541|57004
+jmochel@devilmountain.bedford.foliage.com|spells/design/noprey.des|19991202205541|44974|eb4786e45cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/noprey.des|19991202205545|12076
+jmochel@devilmountain.bedford.foliage.com|spells/design/nrgtype.cfg|19991202205545|44974|eb4786e35cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/nrgtype.cfg|19991202205548|14150
+jmochel@devilmountain.bedford.foliage.com|spells/design/rebirth.des|19991202205548|44975|eb4786e25cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/rebirth.des|19991202205552|17312
+jmochel@devilmountain.bedford.foliage.com|spells/design/rngscale.cfg|19991202205552|44975|eb4786e15cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/rngscale.cfg|19991202205555|02522
+jmochel@devilmountain.bedford.foliage.com|spells/design/scale.cfg|19991202205555|44975|eb4786e05cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/scale.cfg|19991202205559|09522
+jmochel@devilmountain.bedford.foliage.com|spells/design/sd.bat|19991202205559|44976|eb47861f5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/sd.bat|19991202205602|01891
+jmochel@devilmountain.bedford.foliage.com|spells/design/shout.des|19991202205602|44976|eb47861e5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/shout.des|19991202205606|18234
+jmochel@devilmountain.bedford.foliage.com|spells/design/singdown.des|19991202205606|44976|eb47861d5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/singdown.des|19991202205609|14734
+jmochel@devilmountain.bedford.foliage.com|spells/design/sp2ltx.awk|19991202205609|44977|eb47861c5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/sp2ltx.awk|19991202205613|18043
+jmochel@devilmountain.bedford.foliage.com|spells/design/spelldes.awk|19991202205613|44977|eb47861b5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/spelldes.awk|19991202205616|08101
+jmochel@devilmountain.bedford.foliage.com|spells/design/target.cfg|19991202205616|44978|eb47861a5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/target.cfg|19991202205620|04049
+jmochel@devilmountain.bedford.foliage.com|spells/design/tcomp.cfg|19991202205620|44978|eb4786195cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/tcomp.cfg|19991202205623|05645
+jmochel@devilmountain.bedford.foliage.com|spells/design/template.des|19991202205623|44978|eb4786185cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/template.des|19991202205627|36619
+jmochel@devilmountain.bedford.foliage.com|spells/design/tscale.cfg|19991202205627|44979|eb4786175cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/design/tscale.cfg|19991202205630|02366
+jmochel@devilmountain.bedford.foliage.com|spells/action.cfg|19991202205212|44953|eb4786dd5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/action.cfg|19991202205215|28451
+jmochel@devilmountain.bedford.foliage.com|spells/aoescale.cfg|19991202205216|44953|eb4786dc5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/aoescale.cfg|19991202205219|01491
+jmochel@devilmountain.bedford.foliage.com|spells/augury.des|19991202205219|44954|eb4786db5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/augury.des|19991202205222|17483
+jmochel@devilmountain.bedford.foliage.com|spells/castcomp.cfg|19991202205222|44954|eb4786da5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/castcomp.cfg|19991202205226|24690
+jmochel@devilmountain.bedford.foliage.com|spells/ctscale.cfg|19991202205226|44954|eb4786d95cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/ctscale.cfg|19991202205229|05175
+jmochel@devilmountain.bedford.foliage.com|spells/durscale.cfg|19991202205229|44955|eb4786d85cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/durscale.cfg|19991202205233|07149
+jmochel@devilmountain.bedford.foliage.com|spells/earthper.des|19991202205233|44955|eb4786d75cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/earthper.des|19991202205237|13683
+jmochel@devilmountain.bedford.foliage.com|spells/echos.des|19991202205237|44956|eb4786d65cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/echos.des|19991202205240|17074
+jmochel@devilmountain.bedford.foliage.com|spells/finren.bat|19991202205240|44956|eb4786d55cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/finren.bat|19991202205244|40556
+jmochel@devilmountain.bedford.foliage.com|spells/firerock.des|19991202205244|44956|eb4786d45cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/firerock.des|19991202205248|15372
+jmochel@devilmountain.bedford.foliage.com|spells/firesum.des|19991202205248|44957|eb4786d35cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/firesum.des|19991202205252|14137
+jmochel@devilmountain.bedford.foliage.com|spells/forbear.des|19991202205252|44957|eb4786d25cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/forbear.des|19991202205256|12807
+jmochel@devilmountain.bedford.foliage.com|spells/force.des|19991202205256|44958|eb4786d15cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/force.des|19991202205300|13482
+jmochel@devilmountain.bedford.foliage.com|spells/koreal.bat|19991202205300|44958|eb4786d05cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/koreal.bat|19991202205305|08175
+jmochel@devilmountain.bedford.foliage.com|spells/koreal.txt|19991202205306|44958|eb4786cf5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/koreal.txt|19991202205309|36308
+jmochel@devilmountain.bedford.foliage.com|spells/kwikdraw.des|19991202205309|44959|eb4786ce5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/kwikdraw.des|19991202205313|14050
+jmochel@devilmountain.bedford.foliage.com|spells/laser.des|19991202205313|44959|eb4786cd5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/laser.des|19991202205317|19742
+jmochel@devilmountain.bedford.foliage.com|spells/moonsing.bat|19991202205317|44960|eb4786cc5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/moonsing.bat|19991202205320|40338
+jmochel@devilmountain.bedford.foliage.com|spells/moonsing.txt|19991202205320|44960|eb4786cb5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/moonsing.txt|19991202205324|25087
+jmochel@devilmountain.bedford.foliage.com|spells/nilrem.bat|19991202205324|44960|eb4786ca5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/nilrem.bat|19991202205327|12574
+jmochel@devilmountain.bedford.foliage.com|spells/nilrem.txt|19991202205327|44961|eb4786c95cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/nilrem.txt|19991202205331|57004
+jmochel@devilmountain.bedford.foliage.com|spells/noprey.des|19991202205331|44961|eb4786c85cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/noprey.des|19991202205335|12076
+jmochel@devilmountain.bedford.foliage.com|spells/nrgexp.ltx|19991202205335|44961|eb4786c75cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/nrgexp.ltx|19991202205339|41551
+jmochel@devilmountain.bedford.foliage.com|spells/nrgtype.cfg|19991202205340|44962|eb4786c65cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/nrgtype.cfg|19991202205344|14150
+jmochel@devilmountain.bedford.foliage.com|spells/rebirth.des|19991202205344|44962|eb4786c55cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/rebirth.des|19991202205347|17312
+jmochel@devilmountain.bedford.foliage.com|spells/rngscale.cfg|19991202205347|44963|eb4786c45cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/rngscale.cfg|19991202205351|02522
+jmochel@devilmountain.bedford.foliage.com|spells/scale.cfg|19991202205351|44963|eb4786c35cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/scale.cfg|19991202205355|09522
+jmochel@devilmountain.bedford.foliage.com|spells/sd.bat|19991202205355|44963|eb4786c25cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/sd.bat|19991202205359|01891
+jmochel@devilmountain.bedford.foliage.com|spells/shout.des|19991202205359|44964|eb4786c15cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/shout.des|19991202205403|18234
+jmochel@devilmountain.bedford.foliage.com|spells/singdown.des|19991202205403|44964|eb4786c05cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/singdown.des|19991202205406|14734
+jmochel@devilmountain.bedford.foliage.com|spells/sp2ltx.awk|19991202205406|44964|eb4786ff5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/sp2ltx.awk|19991202205409|18043
+jmochel@devilmountain.bedford.foliage.com|spells/spelldes.awk|19991202205410|44965|eb4786fe5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/spelldes.awk|19991202205413|08101
+jmochel@devilmountain.bedford.foliage.com|spells/target.cfg|19991202205413|44965|eb4786fd5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/target.cfg|19991202205416|04049
+jmochel@devilmountain.bedford.foliage.com|spells/tcomp.cfg|19991202205417|44966|eb4786fc5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/tcomp.cfg|19991202205420|05645
+jmochel@devilmountain.bedford.foliage.com|spells/template.des|19991202205420|44966|eb4786fb5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/template.des|19991202205423|36619
+jmochel@devilmountain.bedford.foliage.com|spells/tscale.cfg|19991202205424|44966|eb4786fa5cb68f68 jmochel@devilmountain.bedford.foliage.com|spells/tscale.cfg|19991202205427|02366
+jmochel@devilmountain.bedford.foliage.com|Support/career/career.dat|19991202205630|44979|eb4786165cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/career/career.dat|19991202205634|33304
+jmochel@devilmountain.bedford.foliage.com|Support/career/career.fmt|19991202205634|44979|eb4786155cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/career/career.fmt|19991202205637|07769
+jmochel@devilmountain.bedford.foliage.com|Support/names/elven.nam|19991202205637|44980|eb4786145cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/elven.nam|19991202205641|44816
+jmochel@devilmountain.bedford.foliage.com|Support/names/kalifan.nam|19991202205641|44980|eb4786135cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/kalifan.nam|19991202205644|14272
+jmochel@devilmountain.bedford.foliage.com|Support/names/kevaran.nam|19991202205644|44980|eb4786125cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/kevaran.nam|19991202205648|21699
+jmochel@devilmountain.bedford.foliage.com|Support/names/koran.nam|19991202205648|44981|eb4786115cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/koran.nam|19991202205651|44975
+jmochel@devilmountain.bedford.foliage.com|Support/names/mimbre.nam|19991202205652|44981|eb4786105cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/mimbre.nam|19991202205655|17696
+jmochel@devilmountain.bedford.foliage.com|Support/names/namegen.awk|19991202205655|44981|eb47860f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/namegen.awk|19991202205659|17273
+jmochel@devilmountain.bedford.foliage.com|Support/names/namegen.bat|19991202205659|44982|eb47860e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/namegen.bat|19991202205702|12308
+jmochel@devilmountain.bedford.foliage.com|Support/names/names|19991202205702|44982|eb47860d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/names|19991202205706|25973
+jmochel@devilmountain.bedford.foliage.com|Support/names/names.1|19991202205706|44982|eb47860c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/names.1|19991202205709|20207
+jmochel@devilmountain.bedford.foliage.com|Support/names/tenogon.nam|19991202205709|44983|eb47860b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/names/tenogon.nam|19991202205713|15830
+jmochel@devilmountain.bedford.foliage.com|Support/npc/npc.fmt|19991202205713|44983|eb47860a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/npc/npc.fmt|19991202205716|61855
+jmochel@devilmountain.bedford.foliage.com|Support/npc/npc2ltx.awk|19991202205716|44984|eb4786095cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/npc/npc2ltx.awk|19991202205720|29682
+jmochel@devilmountain.bedford.foliage.com|Support/npc/npc2tex.awk|19991202205720|44984|eb4786085cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/npc/npc2tex.awk|19991202205723|16153
+jmochel@devilmountain.bedford.foliage.com|Support/reaction/rxnspd.awk|19991202205723|44984|eb4786075cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/reaction/rxnspd.awk|19991202205727|55801
+jmochel@devilmountain.bedford.foliage.com|Support/reaction/rxnspd.ltx|19991202205727|44985|eb4786065cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/reaction/rxnspd.ltx|19991202205730|64191
+jmochel@devilmountain.bedford.foliage.com|Support/skills/genskillcostlist.awk|19991202205730|44985|eb4786055cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/skills/genskillcostlist.awk|19991202205734|06026
+jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat.example|19991202205734|44985|eb4786045cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat.example|19991202205737|11843
+jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat.fmt|19991202205737|44986|eb4786035cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat.fmt|19991202205741|10772
+jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat2list.awk|19991202205741|44986|eb4786025cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/skills/skilldat2list.awk|19991202205744|24611
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/meleewpn.fmt|19991202205745|44986|eb4786015cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/meleewpn.fmt|19991202205748|16766
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.1|19991202205748|44987|eb4786005cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.1|19991202205752|06938
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.dat|19991202205752|44987|eb47863f5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.dat|19991202205755|23804
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.sed|19991202205755|44987|eb47863e5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn.sed|19991202205759|18054
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn2ltx.awk|19991202205759|44988|eb47863d5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/mwpn2ltx.awk|19991202205802|24670
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/prjwpn.fmt|19991202205802|44988|eb47863c5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/prjwpn.fmt|19991202205806|07180
+jmochel@devilmountain.bedford.foliage.com|Support/weapon/wpns.lst|19991202205806|44988|eb47863b5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/weapon/wpns.lst|19991202205809|12129
+jmochel@devilmountain.bedford.foliage.com|Support/CleanUp.bat|19991202205809|44989|eb47863a5cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/CleanUp.bat|19991202205813|04540
+jmochel@devilmountain.bedford.foliage.com|Support/SHTimeline.dtd|19991202205813|44989|eb4786395cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/SHTimeline.dtd|19991202205816|19395
+jmochel@devilmountain.bedford.foliage.com|Support/ZipItUp.bat|19991202205816|44990|eb4786385cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/ZipItUp.bat|19991202205820|12868
+jmochel@devilmountain.bedford.foliage.com|Support/sh.cat|19991202205820|44990|eb4786375cb68f68 jmochel@devilmountain.bedford.foliage.com|Support/sh.cat|19991202205823|06162
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/HT&WT.TBL|19991202205824|44990|eb4786365cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/HT&WT.TBL|19991202205827|39593
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/cloth.ltx|19991202205827|44991|eb4786355cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/cloth.ltx|19991202205831|21776
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/culture.tex|19991202205831|44991|eb4786345cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/culture.tex|19991202205834|45660
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/healing.ltx|19991202205834|44991|eb4786335cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/healing.ltx|19991202205838|21851
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/herbal.ltx|19991202205838|44992|eb4786325cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/herbal.ltx|19991202205841|50520
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/inn.ltx|19991202205841|44992|eb4786315cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/inn.ltx|19991202205845|51625
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/merchant.tbl|19991202205845|44992|eb4786305cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/merchant.tbl|19991202205848|16550
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/plant.tbl|19991202205848|44993|eb47862f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/plant.tbl|19991202205852|15209
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/poison.ltx|19991202205852|44993|eb47862e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/poison.ltx|19991202205855|15978
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/race.tex|19991202205855|44993|eb47862d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/race.tex|19991202205859|26366
+jmochel@devilmountain.bedford.foliage.com|worlds/Templates/town.ltx|19991202205859|44994|eb47862c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/Templates/town.ltx|19991202205902|64273
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/AlphaConspiracy.tex|19991202210034|45003|eb4786515cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/AlphaConspiracy.tex|19991202210038|04491
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Ancestors.conversation.txt|19991202210038|45004|eb4786505cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Ancestors.conversation.txt|19991202210041|61814
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Business.conversation.txt|19991202210042|45004|eb47864f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Business.conversation.txt|19991202210045|63578
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/ButWellBegun.conversation.txt|19991202210045|45004|eb47864e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/ButWellBegun.conversation.txt|19991202210049|03511
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/ContractDeclined.conversation.txt|19991202210049|45005|eb47864d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/ContractDeclined.conversation.txt|19991202210053|30216
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/TheOrder.conversation.txt|19991202210057|45006|eb47864b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/TheOrder.conversation.txt|19991202210100|25980
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Todo.lst|19991202210101|45006|eb47864a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/Todo.lst|19991202210104|15996
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/WhoWillGuard.conversation.txt|19991202210104|45006|eb4786495cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/WhoWillGuard.conversation.txt|19991202210108|10339
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/MontrosesToast.conversation.txt|19991202210053|45005|eb47864c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Flavor/MontrosesToast.conversation.txt|19991202215704|65477
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/Races/ProximanLang.txt|19991202210108|45007|eb4786485cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/Races/ProximanLang.txt|19991202210112|13164
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/corps/FidelitySolar.sgml|19991202210112|45007|eb4786475cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/corps/FidelitySolar.sgml|19991202210115|10319
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/corps/GMHD.sgml.mpc|19991202210115|45007|eb4786465cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/corps/GMHD.sgml.mpc|19991202210119|41840
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/spt/hist2dkbk.awk|19991202210120|45008|eb4786455cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/spt/hist2dkbk.awk|19991202210123|02717
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/spt/hist2plot.awk|19991202210123|45008|eb4786445cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/spt/hist2plot.awk|19991202210127|24560
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/ArticlesOfConfederation.txt|19991202205902|44994|eb47862b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/ArticlesOfConfederation.txt|19991202205906|07882
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/MI.TEX|19991202205906|44994|eb47862a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/MI.TEX|19991202205909|00358
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/SS.TEX|19991202205909|44995|eb4786295cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/SS.TEX|19991202205913|47119
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/career.txt|19991202205913|44995|eb4786285cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/career.txt|19991202205916|30533
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/confed.sgml|19991202205916|44996|eb4786275cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/confed.sgml|19991202205920|48497
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/confed.xml|19991202205920|44996|eb4786265cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/confed.xml|19991202205923|44701
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/culture.sgml|19991202205923|44996|eb4786255cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/culture.sgml|19991202205927|11149
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.csv|19991202205927|44997|eb4786245cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.csv|19991202205930|57344
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.fot|19991202205930|44997|eb4786235cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.fot|19991202205934|42493
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.html|19991202205934|44997|eb4786225cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.html|19991202205937|13194
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.sgml|19991202205938|44998|eb4786215cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.sgml|19991202205941|51184
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.xls|19991202205941|44998|eb4786205cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.xls|19991202205945|00608
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.xml|19991202205945|44998|eb47865f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/hist.xml|19991202205948|46193
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/ideas.lst|19991202205948|44999|eb47865e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/ideas.lst|19991202205951|43954
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/marshall.ltx|19991202205952|44999|eb47865d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/marshall.ltx|19991202205955|15626
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/pkgs.txt|19991202205955|44999|eb47865c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/pkgs.txt|19991202205959|27676
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/race.txt|19991202205959|45000|eb47865b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/race.txt|19991202210002|38327
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/sh.txt|19991202210002|45000|eb47865a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/sh.txt|19991202210006|27708
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/shtime.dtd|19991202210006|45000|eb4786595cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/shtime.dtd|19991202210009|29496
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/shtime.xsl|19991202210009|45001|eb4786585cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/shtime.xsl|19991202210013|09514
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/starships.txt|19991202210013|45001|eb4786575cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/starships.txt|19991202210016|54191
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/time.note|19991202210016|45002|eb4786565cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/time.note|19991202210020|31033
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.html|19991202210020|45002|eb4786555cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.html|19991202210024|11618
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.sgml|19991202210024|45002|eb4786545cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.sgml|19991202210027|13983
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.txt|19991202210027|45003|eb4786535cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.txt|19991202210031|06492
+jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.xml|19991202210031|45003|eb4786525cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/confed/timeline.xml|19991202210034|44717
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/dat/npc.dat|19991202210528|45033|eb4787815cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/dat/npc.dat|19991202210531|56824
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/HT&WT.TBL|19991202210127|45009|eb4786435cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/HT&WT.TBL|19991202210131|39593
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/ages.tbl|19991202210131|45009|eb4786425cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/ages.tbl|19991202210134|49003
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/armour.nr|19991202210134|45009|eb4786415cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/armour.nr|19991202210139|17997
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/assguild.lst|19991202210139|45010|eb4786405cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/assguild.lst|19991202210143|27386
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/assguild.nr|19991202210143|45010|eb47867f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/assguild.nr|19991202210147|07094
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/aurioch.nr|19991202210147|45011|eb47867e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/aurioch.nr|19991202210151|07241
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/barbar.nr|19991202210151|45011|eb47867d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/barbar.nr|19991202210155|10285
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/blkstar.nr|19991202210155|45011|eb47867c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/blkstar.nr|19991202210158|50703
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/chargen.nr|19991202210158|45012|eb47867b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/chargen.nr|19991202210202|06934
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/chrono.nr|19991202210202|45012|eb47867a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/chrono.nr|19991202210206|60510
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/clerics.nr|19991202210206|45013|eb4786795cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/clerics.nr|19991202210210|39604
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/colleges.nr|19991202210210|45013|eb4786785cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/colleges.nr|19991202210214|18645
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/combat.nr|19991202210214|45013|eb4786775cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/combat.nr|19991202210217|54329
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/convert.nr|19991202210217|45014|eb4786765cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/convert.nr|19991202210221|23067
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/culture.nr|19991202210221|45014|eb4786755cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/culture.nr|19991202210225|29016
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/culture.sl|19991202210225|45014|eb4786745cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/culture.sl|19991202210229|28741
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/deities.nr|19991202210229|45015|eb4786735cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/deities.nr|19991202210232|49411
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/descript.ltx|19991202210232|45015|eb4786725cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/descript.ltx|19991202210236|33083
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/descript.nr|19991202210236|45015|eb4786715cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/descript.nr|19991202210239|14799
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/dwfclans|19991202210239|45016|eb4786705cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/dwfclans|19991202210243|58921
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/elf.nr|19991202210243|45016|eb47866f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/elf.nr|19991202210246|09659
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/eyodo.ltx|19991202210246|45017|eb47866e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/eyodo.ltx|19991202210250|29016
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/grayelf.nr|19991202210250|45017|eb47866d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/grayelf.nr|19991202210253|23004
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/header.nr|19991202210253|45017|eb47866c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/header.nr|19991202210257|11288
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/healing.nr|19991202210257|45018|eb47866b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/healing.nr|19991202210300|21851
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/heraldry.nr|19991202210300|45018|eb47866a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/heraldry.nr|19991202210304|27365
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/herbal.nr|19991202210304|45018|eb4786695cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/herbal.nr|19991202210307|50520
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/inn.nr|19991202210307|45019|eb4786685cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/inn.nr|19991202210311|51625
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/inn.sl|19991202210311|45019|eb4786675cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/inn.sl|19991202210314|51171
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/koriel.pco|19991202210314|45019|eb4786665cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/koriel.pco|19991202210318|05438
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/lang.nr|19991202210318|45020|eb4786655cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/lang.nr|19991202210321|51201
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/leeward.pco|19991202210321|45020|eb4786645cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/leeward.pco|19991202210325|62331
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/magic.ltx|19991202210325|45020|eb4786635cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/magic.ltx|19991202210328|59339
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/magic.nr|19991202210328|45021|eb4786625cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/magic.nr|19991202210332|59339
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/mana.nr|19991202210332|45021|eb4786615cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/mana.nr|19991202210335|12530
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/manaspot.lst|19991202210335|45021|eb4786605cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/manaspot.lst|19991202210339|25639
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/merchant.tbl|19991202210339|45022|eb47879f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/merchant.tbl|19991202210342|16550
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/mimbrate.nr|19991202210342|45022|eb47879e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/mimbrate.nr|19991202210346|25058
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/mimbre.pco|19991202210346|45023|eb47879d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/mimbre.pco|19991202210350|11876
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/monast.nr|19991202210350|45023|eb47879c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/monast.nr|19991202210353|42164
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/moonsing.ltx|19991202210354|45023|eb47879b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/moonsing.ltx|19991202210357|00086
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/ncounter.tbl|19991202210357|45024|eb47879a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/ncounter.tbl|19991202210401|55601
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/paladin.nr|19991202210401|45024|eb4787995cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/paladin.nr|19991202210404|13224
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/plant.tbl|19991202210404|45024|eb4787985cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/plant.tbl|19991202210408|15209
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/poison.lst|19991202210408|45025|eb4787975cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/poison.lst|19991202210412|51745
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/poison.nr|19991202210412|45025|eb4787965cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/poison.nr|19991202210415|15978
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/powergp.nr|19991202210415|45025|eb4787955cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/powergp.nr|19991202210419|30995
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/protect.nr|19991202210419|45026|eb4787945cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/protect.nr|19991202210423|42239
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/race.nr|19991202210423|45026|eb4787935cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/race.nr|19991202210426|22755
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/shield.nr|19991202210426|45027|eb4787925cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/shield.nr|19991202210430|44618
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/shiral|19991202210430|45027|eb4787915cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/shiral|19991202210434|48278
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/skcost.nr|19991202210434|45027|eb4787905cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/skcost.nr|19991202210437|32796
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/skills.nr|19991202210437|45028|eb47878f5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/skills.nr|19991202210441|60371
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/skills.tbl|19991202210441|45028|eb47878e5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/skills.tbl|19991202210445|12572
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/ss.tbl|19991202210445|45028|eb47878d5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/ss.tbl|19991202210448|33582
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/strpgear.nr|19991202210448|45029|eb47878c5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/strpgear.nr|19991202210452|10100
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/styles.nr|19991202210452|45029|eb47878b5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/styles.nr|19991202210456|38937
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/suarthin.nr|19991202210456|45029|eb47878a5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/suarthin.nr|19991202210459|49206
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/tarot.nr|19991202210459|45030|eb4787895cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/tarot.nr|19991202210503|03494
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/town.nr|19991202210503|45030|eb4787885cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/town.nr|19991202210506|64273
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/town.sl|19991202210506|45031|eb4787875cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/town.sl|19991202210510|54192
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/val-tier.nr|19991202210510|45031|eb4787865cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/val-tier.nr|19991202210513|25949
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/weapon.nr|19991202210514|45031|eb4787855cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/weapon.nr|19991202210517|44207
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/weather.nr|19991202210517|45032|eb4787845cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/weather.nr|19991202210521|23303
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/weather.tbl|19991202210521|45032|eb4787835cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/weather.tbl|19991202210524|32423
+jmochel@devilmountain.bedford.foliage.com|worlds/ea/welfclan.nr|19991202210524|45032|eb4787825cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/ea/welfclan.nr|19991202210528|06103
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/arsae.cul|19991202210607|45037|eb4787b75cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/arsae.cul|19991202210610|11728
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/cultures.ltx|19991202210610|45037|eb4787b65cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/cultures.ltx|19991202210614|26387
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/dales.cul|19991202210614|45037|eb4787b55cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/dales.cul|19991202210618|37071
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/duwan.cul|19991202210618|45038|eb4787b45cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/duwan.cul|19991202210621|06194
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/hightan.cul|19991202210621|45038|eb4787b35cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/hightan.cul|19991202210625|57365
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/kalifate.cul|19991202210625|45038|eb4787b25cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/kalifate.cul|19991202210628|24832
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/kurrock.cul|19991202210628|45039|eb4787b15cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/kurrock.cul|19991202210632|54876
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/shan.cul|19991202210632|45039|eb4787b05cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/shan.cul|19991202210635|49726
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/thenaen.cul|19991202210636|45039|eb4787af5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/thenaen.cul|19991202210639|13428
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/torgan.cul|19991202210639|45040|eb4787ae5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/torgan.cul|19991202210643|52158
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/vairman.cul|19991202210643|45040|eb4787ad5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/cultures/vairman.cul|19991202210646|24365
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/history/history.tex|19991202210646|45041|eb4787ac5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/history/history.tex|19991202210650|55065
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/arsae.rac|19991202210650|45041|eb4787ab5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/arsae.rac|19991202210654|35816
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/bitadari.rac|19991202210654|45041|eb4787aa5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/bitadari.rac|19991202210657|20914
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/duwan.rac|19991202210657|45042|eb4787a95cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/duwan.rac|19991202210701|13682
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/erlani.tex|19991202210701|45042|eb4787a85cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/erlani.tex|19991202210705|58233
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/erlani.txt|19991202210705|45042|eb4787a75cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/erlani.txt|19991202210708|62354
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/hairoch.rac|19991202210708|45043|eb4787a65cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/hairoch.rac|19991202210712|32239
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/hightan.rac|19991202210712|45043|eb4787a55cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/hightan.rac|19991202210715|31326
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/horesh.rac|19991202210715|45043|eb4787a45cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/horesh.rac|19991202210719|36113
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kalifate.rac|19991202210719|45044|eb4787a35cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kalifate.rac|19991202210723|33501
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kothan.rac|19991202210723|45044|eb4787a25cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kothan.rac|19991202210726|33545
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kurrock.rac|19991202210726|45045|eb4787a15cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/kurrock.rac|19991202210730|30504
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/merovan.ltx|19991202210730|45045|eb4787a05cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/merovan.ltx|19991202210733|63477
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/merovan.rac|19991202210733|45045|eb4787df5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/merovan.rac|19991202210737|31303
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/races.ltx|19991202210737|45046|eb4787de5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/races.ltx|19991202210740|32560
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/rupa.rac|19991202210740|45046|eb4787dd5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/rupa.rac|19991202210744|21403
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/sarsin.rac|19991202210744|45046|eb4787dc5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/sarsin.rac|19991202210747|32101
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tarman.rac|19991202210747|45047|eb4787db5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tarman.rac|19991202210751|30816
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tfrigan.rac|19991202210751|45047|eb4787da5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tfrigan.rac|19991202210754|10475
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tgemma.rac|19991202210754|45047|eb4787d95cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tgemma.rac|19991202210758|18888
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/thenaen.rac|19991202210758|45048|eb4787d85cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/thenaen.rac|19991202210802|31868
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tnimban.rac|19991202210802|45048|eb4787d75cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/tnimban.rac|19991202210805|39301
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/torgan.rac|19991202210805|45048|eb4787d65cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/torgan.rac|19991202210809|05571
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/trian.rac|19991202210809|45049|eb4787d55cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/trian.rac|19991202210812|23195
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/vokan.rac|19991202210812|45049|eb4787d45cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/races/vokan.rac|19991202210816|41939
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/colleges.ltx|19991202210531|45033|eb4787805cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/colleges.ltx|19991202210535|34553
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/koran.ltx|19991202210535|45033|eb4787bf5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/koran.ltx|19991202210538|40581
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/merchant.tbl|19991202210538|45034|eb4787be5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/merchant.tbl|19991202210542|16550
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/ncounter.tbl|19991202210542|45034|eb4787bd5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/ncounter.tbl|19991202210547|55601
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/proph.sl|19991202210547|45035|eb4787bc5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/proph.sl|19991202210551|54335
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/shan.pco|19991202210551|45035|eb4787bb5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/shan.pco|19991202210555|11398
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/ss.tbl|19991202210555|45036|eb4787ba5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/ss.tbl|19991202210600|40537
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/vale.pco|19991202210600|45036|eb4787b95cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/vale.pco|19991202210603|09439
+jmochel@devilmountain.bedford.foliage.com|worlds/tanah/wg2.ltx|19991202210603|45036|eb4787b85cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tanah/wg2.ltx|19991202210607|60642
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/HT&WT.TBL|19991202210816|45049|eb4787d35cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/HT&WT.TBL|19991202210819|39593
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/armour.ltx|19991202210819|45050|eb4787d25cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/armour.ltx|19991202210823|33969
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/cloth.ltx|19991202210823|45050|eb4787d15cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/cloth.ltx|19991202210826|21776
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/combat.ltx|19991202210826|45051|eb4787d05cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/combat.ltx|19991202210830|06783
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/convert.ltx|19991202210830|45051|eb4787cf5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/convert.ltx|19991202210833|23067
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/culture.tex|19991202210833|45051|eb4787ce5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/culture.tex|19991202210837|45660
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/healing.ltx|19991202210837|45052|eb4787cd5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/healing.ltx|19991202210840|21851
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/herbal.ltx|19991202210840|45052|eb4787cc5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/herbal.ltx|19991202210844|50520
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/inn.ltx|19991202210844|45052|eb4787cb5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/inn.ltx|19991202210847|51625
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/merchant.tbl|19991202210847|45053|eb4787ca5cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/merchant.tbl|19991202210851|16550
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/plant.tbl|19991202210851|45053|eb4787c95cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/plant.tbl|19991202210854|15209
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/poison.ltx|19991202210855|45053|eb4787c85cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/poison.ltx|19991202210858|15978
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/race.tex|19991202210858|45054|eb4787c75cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/race.tex|19991202210902|26366
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/shield.ltx|19991202210902|45054|eb4787c65cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/shield.ltx|19991202210905|44618
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/town.ltx|19991202210905|45054|eb4787c55cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/town.ltx|19991202210909|64273
+jmochel@devilmountain.bedford.foliage.com|worlds/tem/weapon.ltx|19991202210909|45055|eb4787c45cb68f68 jmochel@devilmountain.bedford.foliage.com|worlds/tem/weapon.ltx|19991202210912|65481
+jmochel@devilmountain.bedford.foliage.com|todo/shcat.lst|19991202210912|45055|eb4787c35cb68f68 jmochel@devilmountain.bedford.foliage.com|todo/shcat.lst|19991202210916|19470
+jmochel@devilmountain.bedford.foliage.com|todo/todo.txt|19991202210916|45055|eb4787c25cb68f68 jmochel@devilmountain.bedford.foliage.com|todo/todo.txt|19991202210919|56465
+E 3
+I 2
+jmochel@devilmountain.bedford.foliage.com|BitKeeper/etc/config|19991202203338|44842|536f46ff5cb68f67 jmochel@devilmountain.bedford.foliage.com|BitKeeper/etc/config|19991202203342|21598
+E 2
+I 1
+E 1

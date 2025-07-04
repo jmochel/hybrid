@@ -1,0 +1,78 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210111507.352;
+          10 Dec 91 11:15:27 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210111507.352;
+          10 Dec 91 11:15:18 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04467; Tue, 10 Dec 91 11:16:58 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA10549; Tue, 10 Dec 91 10:57:04 -0500
+Message-Id: <9112101557.AA10549@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0162; Tue, 10 Dec 91 10:57:11 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 1261;
+ Tue, 10 Dec 91 10:57:10 EST
+Date:         Mon, 9 Dec 1991 17:17:14 MST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Bill Barney <IDWXB%ASUACAD.BITNET@uga.cc.uga.edu>
+Subject:      RPG: computer generation
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+I haven't been following this thread too closely but I don't think anyone
+has suggested this.  Some of the games currently out there, Harn being a
+perfect example, have the problem of calculated scores and stats and
+defense values and so on.  For those who haven't played Harnmaster, the
+basic idea is: you generate about 10 character attributes randomly.  You
+then go through a process involving a lot of table lookups and calculations,
+but very little actual decision making.  The benefit of all this setup time
+(requires several hours to create one character) is that the Harn game system
+can handle a lot of complexities and yet in itself it is very simple.  All
+the calculations and table lookups have already been done so you don't have
+to do them during the game.  (Compare this to AD&D:  simple set up, but
+"Uh, I need a 15 to hit, but this sword is +2 when fighting creatures larger
+than human size, and I'm a dwarf so the giant has -4 to hit me, and there's
+a Bless spell in effect for 3 more rounds so that's +1..." not actually
+very simple.)
+
+The only drawback in the Harn system is the amount of time needed to create
+or modify a character.  If there were a computer program which could handle
+this (and if anyone knows of one for Harn please tell me!) that difficulty
+would vanish.  Type in your scores, choose some skills from a menu, and
+poof, you have a character.
+
+I think that computer character generators may be a solution to the problem
+of complexity vs. functionality.  Naturally, there are a few problems.
+
+1.  Not all gamers have access to a computer.  I would guess that a very
+    large percentage do have access or could get access, especially since
+    most colleges have computer labs which are generally available to
+    students.  I think within 10 years, provided the economy survives, that
+    there will be very few people who do not have access to a computer of
+    some sort.
+
+2.  Difficulty in modifying the system.  It's hard to add another stat, as
+    most GM's will do at one time or another, or additional specialized
+    skills, if the character generation system is based on a program.
+
+There are probably more problems that I haven't thought of.  (Well like for
+instance who's going to write the thing.)
+
+Obviously it's not a good idea to develop a game which requires a character
+generator.  But it might be good to keep in mind how the availability of a
+computer could improve the game, without the GM's having to do a lot of
+programming.  (Consider the interest in a GURPS character generator a while
+ago.  I would certainly fork over some bucks for a Harn character generator
+if Columbia could make it available.)
+
+-- Bill
+
+Copyright notice:  this is my two cents worth.  If you make a buck off it,
+please send me two cents.
+
+Bill Barney
+-------------------------------------------------------------------------
+Office of Sponsored Projects ASB 206             Arizona State University
+(602) 965-2170                                       Tempe, AZ 85287-1903
+idwxb@asuvm.inre.asu.edu    idwxb@asuacad.bitnet    bill@green.la.asu.edu
+-------------------------------------------------------------------------

@@ -1,0 +1,270 @@
+h24737
+s 00000/00003/00011
+d D 1.8 00/03/01 14:27:12 jmochel 9 8
+c Still trying to track down the reason the command lexer is dropping  a character.
+cC
+cK11621
+e
+s 00003/00000/00011
+d D 1.7 00/02/29 17:09:48 jmochel 8 7
+c Added a bit more code.
+cC
+cK13217
+e
+s 00004/00001/00007
+d D 1.6 00/02/04 09:48:47 jmochel 7 6
+c Grammar looks like it is almost finished but I am running into a problem with the Lexer.
+c If the Lexer uses all protected methods (which ppears to be allowable in the ANTLR docs)
+c then the Lexer acts as if it was given a 0 length file.  
+cC
+cK09348
+e
+s 00002/00002/00006
+d D 1.5 00/02/03 12:21:30 jmochel 6 5
+c Redesign !
+cC
+cK07762
+e
+s 00008/00033/00000
+d D 1.4 00/01/11 15:30:29 jmochel 5 4
+c Updated
+cC
+cK07576
+e
+s 00020/00101/00013
+d D 1.3 00/01/07 14:22:51 jmochel 4 3
+c Rewrote the grammar.
+cC
+cK60705
+e
+s 00004/00001/00110
+d D 1.2 99/12/17 15:04:22 jmochel 3 2
+c Restart
+cC
+cK57306
+e
+s 00111/00000/00000
+d D 1.1 99/11/17 12:54:38 jmochel 2 1
+cC
+cK58825
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:54:35 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/MacroProcessor/Sample.cg
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45359
+cPjava/src/MacroProcessor/Sample.cg
+cR2f93d7025cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+D 3
+.. The include statement
+E 3
+I 3
+D 4
+schmoo
+
+
+
+E 3
+
+.include "The Larch.cg"
+.include Larch.cg
+
+E 4
+D 5
+..
+D 4
+.. Set its location
+E 4
+I 4
+.. Comments
+E 4
+..
+I 4
+    
+.set var1 = "1"
+$var1
+${$var1}
+
+.append var1 = "4" "5" "6"
+$var1
+${$var1}
+E 4
+
+D 4
+.redirect "Sample.txt"
+E 4
+I 4
+For compiling with the Pure C compiler on the Atari ST, you must compile
+and install the packages in the order 'libtmc', 'tm', 'tmc'.  See the
+README files in each of the directories. Note that as of version 1.2,
+the Atari ST version is no longer supported (I have sold my ST).
+E 4
+
+..
+.. Variables
+..
+
+D 4
+.set variable 1 2 3
+$(variable)
+
+.append variable 4 5 6
+$(variable)
+E 4
+I 4
+.set var1 = "1"
+$var1
+${$var1}
+
+.append var1 = "4" "5" "6"
+$var1
+${$var1}
+E 4
+
+For compiling with the Pure C compiler on the Atari ST, you must compile
+and install the packages in the order 'libtmc', 'tm', 'tmc'.  See the
+README files in each of the directories. Note that as of version 1.2,
+the Atari ST version is no longer supported (I have sold my ST).
+E 5
+I 5
+D 7
+.. Comment
+E 7
+I 7
+D 9
+This is a wierdie
+
+E 9
+I 8
+.include "NameOfFile"
+D 9
+
+E 9
+.redirect "Schmoo.out"
+E 8
+
+E 7
+Some Text 1
+D 6
+.set $var "1"
+E 6
+I 6
+.set $var = "1"
+E 6
+Some Text 2  
+D 6
+.set $var2 $var
+E 6
+I 6
+.set $var2 = $var
+E 6
+Some Text 3 
+${$var}
+Some Text 4
+I 7
+.. Comment
+E 7N
+E 5
+D 4
+
+..
+.. Macros
+..
+.macro ExpandItNow var1
+.return $(var1) "AnotherReturnbValue"
+.endmacro
+
+$ExpandItNow("Blown Up")
+
+.endredirect
+
+..
+.. Control loops
+..
+
+.if $equals(var1, var2)
+$(var1)
+.else
+$(var2)
+.endif
+
+For compiling with the Borland C++ compiler under MSDOS/MS-Windows, you must
+compile and install the packages in the order 'libtmc', 'tm', 'tmc'.
+See the README files in each of the directories.
+
+.foreach field in var1 var2 var3 
+$(field)
+.endforeach
+
+.switch $(variable)
+.case   "Text" "Binary"
+.case	"Picture"
+.default
+.endswitch
+
+.while $(variable)
+Echo 
+.endwhile
+
+
+..
+.. Comparison Methods
+..
+
+$eq("text1", "text2")
+$neq("text1", "text2")
+$<("text1", "text2")
+$>("text1", "text2")
+$<=("text1", "text2")
+$>=("text1", "text2")
+
+..
+.. Math
+..
+
+$+(1,2,3,4)
+$-(1,2)
+$*(1,2)
+$/(1,2)
+$%(1,2)
+
+..
+.. Boolean
+..
+
+$and(true,true)
+$not(false)
+$or(true,false,true)
+
+..
+.. List manipulation
+..
+
+$listlen($(variable))
+$listentry($(variable), 1)
+
+..
+.. Exit with a specific error code
+..
+.error "This text goes to the stderr equivalent
+
+..
+.. Exit with a specific error code
+..
+.exit 231
+E 4
+E 2
+I 1
+E 1

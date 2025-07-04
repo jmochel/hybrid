@@ -1,0 +1,75 @@
+	Non Weapon Proficiencies
+	
+	
+	Proficiency				Slots 			Stat Basis
+			
+	Acrobatics				2				Dex
+	Agriculture				1				Int
+	Ancient History			1				Int
+	Animal Handling			1				Wis
+	Animal Training			1				Wis
+	Appraisal				1				Int
+	Armorer					2				(Dex+Int)/2
+	Artistic Ability		1				(Int+Wis)/2
+	Astrology				2				Int
+	Blacksmithing			1				(Str+Dex)/2
+	Bowyer/Fletcher			2				(Dex+Int)/2
+	Brewing					1				Int
+	Carpentry				1				(Str+Dex)/2
+	Charioteering			1				(Str+Dex)/2
+	Ciphering				1				(Int+Wis)/2
+	Cobbling				1				(Str+Dex)/2
+	Cooking					1				(Int+Wis)/2
+	Dancing					1				Dex
+	Direction Sense			1				(Int+Wis)/2
+	Disguise				1				Cha
+	Endurance				1				Con
+	Engineering				2				Int
+	Etiquette				1				(Wis+Cha)/2
+	Fire-Building			1				(Int+Wis)/2
+	Fishing					1				Wis
+	Forgery					1				(Dex+Int)/2
+	Gaming					1				(Dex+Cha)/2
+	Gem Cutting				2				(Dex+Int)/2
+	Heraldry				1				Int
+	Herbalism				1				Int
+	Hunting					1				Int
+	Juggling				1				Dex
+	Language, Read/write	1				Int
+	Language, Spoken		1				Int
+	Leatherworking			1				Dex
+	Local History			1				(Int+Cha)/2
+	Lore, Animal			1				Int
+	Lore, Arcane			1				Wis
+	Lore, Cultural			1				Wis
+	Lore, Priestly*			1				Wis
+	Masonry					1				(Str+Dex)/2
+	Mining					1				(Str+Int)/2
+	Mountaineering			1				Int
+	Musical Instrument		1				(Dex+Int)/2
+	Navigation				1				Int
+	Physiking				2				(Int+Wis)/2
+	Pottery					1				Dex
+	Reading Lips			2				(Int+Wis)/2
+	Religion				1				(Int+Wis)/2
+	Riding, Airborne		1				(Str+Dex)/2
+	Riding, Land			1				Dex
+	Rope Use				1				Dex
+	Running					1				(Str+Dex)/2
+	Running, Marathon		1				(Dex+Con)/2
+	Running, Sprint			1				(Str+Dex)/2
+	Seamanship				2				(Dex+Int)/2
+	Setting Snares			1				Dex
+	Singing					1				Cha
+	Spellcraft				1				Int
+	Stealth					1				Dex
+	Survival				2				(Int+Wis)/2
+	Swimming				1				(Str+Con)/2
+	Tailoring				1				Dex
+	Tightrope Walking		1				Dex
+	Tracking				2				(Int+Wis)/2
+	Tumbling				1				Dex
+	Ventriliquism			1				Int
+	Weaponsmithing			2				(Dex+Int)/2
+	Weather Sense			1				(Int+Wis)/2
+	Weaving					1				(Dex+Int)/2

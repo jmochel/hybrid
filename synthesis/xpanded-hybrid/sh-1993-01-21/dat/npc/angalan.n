@@ -1,0 +1,45 @@
+.Name ANGALAN
+.Title LORD							
+.Race DWARF
+.Culture
+.Aspect 
+.PST 18:80
+.PEN 17		
+.DEX 13
+.PAG 15		
+.PAW 14
+.MST 06		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'        
+.WT 100		 
+.AGE ?
+.BeginDesc
+ ONE YEE AND BLACK HAIR
+.EndDesc
+.BeginSkills
+Weapon: AXE(3)				, 
+.EndSkills
+.Locale KINGDOM OF GARITH
+.BeginKnownAssoc
+ RULER OF GARITH
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ CRAZY DWAAAAHFFFFF
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

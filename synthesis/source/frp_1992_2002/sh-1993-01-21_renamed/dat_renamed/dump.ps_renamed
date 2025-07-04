@@ -1,0 +1,536 @@
+%! a2ps 3.0
+
+/$a2psdict 100 dict def
+$a2psdict begin
+% Initialize page description variables.
+/inch {72 mul} bind def
+/landscape true def
+/twinpage true def
+/sheetheight 11 inch def
+/sheetwidth 8.5 inch def
+/margin 1.2 inch def
+/noborder false def
+/noheader false def
+/headersize 0.22 inch def
+/bodyfontsize 6.8 def
+/lines 73 def
+/columns 85 def
+/date (Oct 12 1992 18:19:49) def
+%!  PostScript Source Code
+%
+%  File: imag:/users/local/a2ps/header.ps
+%  Created: Tue Nov 29 12:14:02 1988 by miguel@imag (Miguel Santana)
+%  Version: 2.0
+%  Description: PostScript prolog for a2ps ascii to PostScript program.
+% 
+%  Edit History:
+%  - Original version by evan@csli (Evan Kirshenbaum).
+%  - Modified by miguel@imag to:
+%    1) Correct an overflow bug when printing page number 10 (operator
+%	cvs).
+%    2) Define two other variables (sheetwidth, sheetheight) describing
+%	the physical page (by default A4 format).
+%    3) Minor changes (reorganization, comments, etc).
+%  - Modified by tullemans@apolloway.prl.philips.nl
+%    1) Correct stack overflows with regard to operators cvs and copy.
+%       The resulting substrings where in some cases not popped off 
+%       the stack, what can result in a stack overflow.
+%    2) Replaced copypage and erasepage by showpage. Page througput
+%       degrades severely (see red book page 140) on our ps-printer
+%       after printing sheet 16 (i.e. page 8) of a file which was 
+%       actually bigger. For this purpose the definitions of startdoc
+%       and startpage are changed.
+%  - Modified by Tim Clark <T.Clark@uk.ac.warwick> to:
+%    1) Print one page per sheet (portrait) as an option.
+%    2) Reduce size of file name heading, if it's too big.
+%    3) Save and restore PostScript state at begining/end. It now uses
+%	conventional %%Page %%Trailer markers.
+%    4) Print one wide page per sheet in landscape mode as an option.
+%  - Modified by miguel@imag.fr to
+%    1) Add new option to print n copies of a file.
+%    2) Add new option to suppress heading printing.
+%    3) Add new option to suppress page surrounding border printing.
+%    4) Add new option to change font size. Number of lines and columns
+%	are now automatically adjusted, depending on font size and
+%	printing mode used.
+%    5) Minor changes (best layout, usage message, etc).
+%
+
+% Copyright (c) 1988, Miguel Santana, miguel@imag.imag.fr
+%
+% Permission is granted to copy and distribute this file in modified
+% or unmodified form, for noncommercial use, provided (a) this copyright
+% notice is preserved, (b) no attempt is made to restrict redistribution
+% of this file, and (c) this file is not distributed as part of any
+% collection whose redistribution is restricted by a compilation copyright.
+%
+
+
+% General macros.
+/xdef {exch def} bind def
+/getfont {exch findfont exch scalefont} bind def
+
+% Page description variables and inch function are defined by a2ps program.
+
+% Character size for differents fonts.
+   landscape
+   { /filenamefontsize 12 def }
+   { /filenamefontsize 16 def }
+ifelse
+/datefontsize filenamefontsize 0.8 mul def
+/headermargin filenamefontsize 0.25 mul def
+/bodymargin bodyfontsize 0.7 mul def
+
+% Font assignment to differents kinds of "objects"
+/filenamefontname /Helvetica-Bold def
+/stdfilenamefont filenamefontname filenamefontsize getfont def
+/datefont /Helvetica datefontsize getfont def
+/bodyfont /Courier bodyfontsize getfont def
+
+% Logical page attributs (a half of a real page or sheet).
+/pagewidth
+   bodyfont setfont (0) stringwidth pop columns mul bodymargin dup add add
+   def
+/pageheight
+   bodyfontsize lines mul bodymargin dup add add headersize add
+   def
+
+% Coordinates for upper corner of a logical page and for sheet number.
+% Coordinates depend on format mode used.
+% In twinpage mode, coordinate x of upper corner is not the same for left
+% and right pages: upperx is an array of two elements, indexed by sheetside.
+/rightmargin margin 3 div def
+/leftmargin margin 2 mul 3 div def
+/topmargin margin twinpage {3} {2} ifelse div def
+landscape
+{  % Landscape format
+   /uppery rightmargin pageheight add bodymargin add def
+   /sheetnumbery sheetwidth leftmargin pageheight add datefontsize add sub def
+   twinpage
+   {  % Two logical pages
+      /upperx [ topmargin			% upperx for left page
+		dup 2 mul pagewidth add		% upperx for right page
+	      ] def
+      /sheetnumberx sheetheight topmargin sub def
+   }
+   {  /upperx [ topmargin dup ] def
+      /sheetnumberx sheetheight topmargin sub datefontsize sub def
+   }
+   ifelse
+}
+{  % Portrait format
+   /uppery topmargin pageheight add def
+   /upperx [ leftmargin dup ] def
+   /sheetnumberx sheetwidth rightmargin sub datefontsize sub def
+   /sheetnumbery
+	 sheetheight 
+	 topmargin pageheight add datefontsize add headermargin add
+      sub
+      def
+
+}
+ifelse
+
+% Strings used to make easy printing numbers
+/pnum 12 string def
+/empty 12 string def
+
+% Other initializations.
+/datewidth date stringwidth pop def
+/filenameroom
+         pagewidth
+	 filenamefontsize 4 mul datewidth add (Page 999) stringwidth pop add
+      sub
+   def
+
+
+% Function startdoc: initializes printer and global variables.
+/startdoc
+    { /sheetside 0 def			% sheet side that contains current page
+      /sheet 1 def			% sheet number
+   } bind def
+
+% Function newfile: init file name and reset page number for each new file.
+/newfile
+    { cleanup
+      /filename xdef
+      /filenamewidth filename stringwidth pop def
+      /filenamefont
+	 filenamewidth filenameroom gt
+	 {
+	       filenamefontname
+	       filenamefontsize filenameroom mul filenamewidth div
+	    getfont
+	 }
+	 {  stdfilenamefont }
+	 ifelse
+	 def
+      /pagenum 1 def
+    } bind def
+
+% Function printpage: Print a physical page.
+/printpage
+    { /sheetside 0 def
+      twinpage
+      {  noborder not
+	    { sheetnumber }
+	 if
+      }
+      {  noheader noborder not and
+	    { sheetnumber }
+	 if
+      }
+      ifelse
+      showpage 
+%      pagesave restore
+      /sheet sheet 1 add def
+    } bind def
+
+% Function cleanup: terminates printing, flushing last page if necessary.
+/cleanup
+    { twinpage sheetside 1 eq and
+         { printpage }
+      if
+    } bind def
+
+%
+% Function startpage: prints page header and page border and initializes
+% printing of the file lines.
+/startpage
+    { sheetside 0 eq
+	{ % /pagesave save def
+	  landscape
+	    { sheetwidth 0 inch translate	% new coordinates system origin
+	      90 rotate				% landscape format
+	    } if
+	} if
+      noborder not { printborder } if
+      noheader not { printheader } if
+	 upperx sheetside get  bodymargin  add
+	    uppery
+	    bodymargin bodyfontsize add  noheader {0} {headersize} ifelse  add
+	 sub
+      moveto
+      bodyfont setfont
+    } bind def
+
+% Function printheader: prints page header.
+/printheader
+    { upperx sheetside get  uppery headersize sub 1 add  moveto
+      datefont setfont
+      gsave
+        datefontsize headermargin rmoveto
+	date show					% date/hour
+      grestore
+      gsave
+	pagenum pnum cvs pop
+	   pagewidth (Page 999) stringwidth pop sub
+	   headermargin
+	rmoveto
+        (Page ) show pnum show				% page number
+      grestore
+      empty pnum copy pop
+      gsave
+        filenamefont setfont
+	      filenameroom filename stringwidth pop sub 2 div datewidth add
+	      bodymargin 2 mul 
+	   add 
+	   headermargin
+	rmoveto
+        filename show						% file name
+      grestore
+    } bind def
+
+% Function printborder: prints border page.
+/printborder 
+    { upperx sheetside get uppery moveto
+      gsave					% print the four sides
+        pagewidth 0 rlineto			% of the square
+        0 pageheight neg rlineto
+        pagewidth neg 0 rlineto
+        closepath stroke
+      grestore
+      noheader not
+         { 0 headersize neg rmoveto pagewidth 0 rlineto stroke }
+      if
+    } bind def
+
+%
+% Function endpage: adds a sheet number to the page (footnote) and prints
+% the formatted page (physical impression). Activated at the end of each
+% source page (lines reached or FF character).
+/endpage
+   { /pagenum pagenum 1 add def
+     twinpage  sheetside 0 eq  and
+        { /sheetside 1 def }
+        { printpage }
+     ifelse
+   } bind def
+
+% Function sheetnumber: prints the sheet number.
+/sheetnumber
+    { sheetnumberx sheetnumbery moveto
+      datefont setfont
+      sheet pnum cvs
+	 dup stringwidth pop (0) stringwidth pop sub neg 0 rmoveto show
+      empty pnum copy pop
+    } bind def
+
+% Function s: print a source line
+/s  { gsave
+        show
+      grestore
+      0 bodyfontsize neg rmoveto
+    } bind def
+%%EndProlog
+
+/docsave save def
+startdoc
+(npc2ltx.awk) newfile
+/sheet 1 def
+%%Page: 1 1
+startpage
+(1     # NPC2LTX.AWK) s
+(2     # File to take NPC datafile and tranlate it to LaTeX file) s
+(3     #) s
+(4     #) s
+(5     ) s
+(6     BEGIN { ) s
+(7         print "\\\\documentstyle[sh,gnuindex,relate]{report}") s
+(8         print "\\\\begin{document}") s
+(9         print "\\\\begin{flushleft}") s
+(10        print "\\\\small") s
+(11    ) s
+(12        count = 0;) s
+(13    }) s
+(14    ) s
+(15    /\\.Name/  { $1 = "";) s
+(16        print "{\\\\Large" $0 "} \\\\\\\\";) s
+(17    }) s
+(18    ) s
+(19    /\\.Title/  { $1 = "";) s
+(20        print "Title:{" $0 "} \\\\\\\\";) s
+(21    }) s
+(22    ) s
+(23    /\\.Race/  { $1 = "";) s
+(24        print "Race:" $0 "\\\\\\\\";) s
+(25    }) s
+(26    ) s
+(27    /\\.Culture/ { $1 = "";) s
+(28        print "Culture:" $0 "\\\\\\\\";) s
+(29    }) s
+(30    ) s
+(31    /\\.PST/     {   PST = $2; }) s
+(32    ) s
+(33    /\\.PEN/     {    PEN = $2; }) s
+(34    ) s
+(35    /\\.DEX/     {    DEX = $2; }) s
+(36    ) s
+(37    /\\.PAG/     {    PAG = $2; }) s
+(38    ) s
+(39    /\\.PAW/     {    PAW = $2; }) s
+(40    ) s
+(41    /\\.MST/     {    MST = $2; }) s
+(42    ) s
+(43    /\\.MEN/     {    MEN = $2; }) s
+(44    ) s
+(45    /\\.PSI/     {    PSI = $2; }) s
+(46    ) s
+(47    /\\.MAG/     {    MAG = $2; }) s
+(48    ) s
+(49    /\\.MAW/     {    MAW = $2; ) s
+(50        # This is the last of the primary stats ) s
+(51        # Print out all of the calculated stats) s
+(52    ) s
+(53        PBD = PST + PEN;) s
+(54        PFT = 2 * PEN + PAG;) s
+(55        PEX = 4 * PEN + PAG;) s
+(56        PMV = \(PST + PAG\)/5;) s
+(57    ) s
+(58        MBD = MST + MEN;) s
+(59        MFT = 2 * MEN + MAG;) s
+(60        MEX = 4 * MEN + MAG;) s
+(61        MMV = \(MST + MAG\)/5;) s
+(62    ) s
+(63        ACC = \(PST+DEX\)/2;) s
+(64        PCA = \(PST+DEX+PAG\)/3;) s
+(65        PDF = \(PAG+DEX\)/2;) s
+(66    ) s
+(67        FCS = \(MST+MAG\)/2;) s
+(68        MCA = \(MST+PSI+MAG\)/3;) s
+(69        MDF = \(MAG+PSI\)/2) s
+(70    ) s
+(71        GAW = \(MAW+PAW\)/2;) s
+(72    ) s
+(73        printf\("PST:%d\\\\ PEN:%d\\\\ DEX:%d\\\\ PAG:%d \\\\\\\\\\n",PST,PEN,DEX,PAG\);) s
+endpage
+startpage
+(74        printf\("MST:%d\\\\ MEN:%d\\\\ PSI:%d\\\\ MAG:%d \\\\\\\\\\n",MST,MEN,PSI,MAG\);) s
+(75        printf\("PBD:%d\\\\ PFT:%d\\\\ PEX:%d\\\\ PMV:%d \\\\\\\\\\n",PBD,PFT,PEX,PMV\);) s
+(76        printf\("MBD:%d\\\\ MFT:%d\\\\ MEX:%d\\\\ MMV:%d \\\\\\\\\\n",MBD,MFT,MEX,MMV\);) s
+(77        printf\("ACC:%d\\\\ PCA:%d\\\\ PDF:%d \\\\\\\\\\n",ACC,PCA,PDF\);) s
+(78        printf\("FCS:%d\\\\ MCA:%d\\\\ MDF:%d \\\\\\\\\\n",FCS,MCA,MDF\);) s
+(79    }) s
+(80    ) s
+(81    /\\.HT/      {   HT = $2; }) s
+(82    ) s
+(83    /\\.WT/      {   WT = $2; }) s
+(84    ) s
+(85    /\\.AGE/     {    AGE = $2; ) s
+(86        printf\("HT:%d\\\\ WT:%d\\\\ AGE:%d\\\\\\\\\\n",HT,WT,AGE\);) s
+(87        print "\\\\vspace{.5cm}";) s
+(88    }) s
+(89    ) s
+(90    /\\.BeginDesc/ { ) s
+(91                    print "{\\\\em Description}\\\\\\\\";) s
+(92                    while \( $1 != ".EndDesc" \) {) s
+(93                            getline;) s
+(94                        if \( $1 == ".EndDesc" \) {) s
+(95                            print "\\\\break";) s
+(96                            break;) s
+(97                        }) s
+(98                        else {                      ) s
+(99                            print $0;) s
+(100                       }) s
+(101                   }) s
+(102   }) s
+(103   ) s
+(104   ) s
+(105   /\\.BeginSkills/ { ) s
+(106                   print "{\\\\em Skills}\\\\break";) s
+(107                   OldFS = FS;) s
+(108                   FS = ",";) s
+(109                   SkillCt = 0;) s
+(110                   while \( $1 != ".EndSkills" \) {) s
+(111                           getline;) s
+(112                       if \( $1 == ".EndSkills" \) {) s
+(113                           break;) s
+(114                       }) s
+(115                       else {                      ) s
+(116                           SkillCt++;) s
+(117                           SkillNames[SkillCt] = $1;) s
+(118                           SkillRanks[SkillCt] = $2;) s
+(119                       }) s
+(120                   }) s
+(121   }) s
+(122   ) s
+(123   /\\.EndSkills/ {) s
+(124       for \( Ct = 1; Ct <= SkillCt; Ct++ \) {) s
+(125           printf\("%s\(r%d\),\\n", SkillNames[Ct], SkillRanks[Ct]\);) s
+(126       }) s
+(127       print "\\\\break";) s
+(128       FS = OldFS;) s
+(129   }) s
+(130   ) s
+(131   /\\.BeginHistory/ { ) s
+(132           print "{\\\\em History}\\\\\\\\";) s
+(133           while \( $1 != ".EndHistory" \) {) s
+(134                       getline;) s
+(135                   if \( $1 == ".EndHistory" \) {) s
+(136                       break;) s
+(137                   }) s
+(138                   else {                          ) s
+(139                       print $0;) s
+(140                   }) s
+(141           }) s
+(142   ) s
+(143   }) s
+(144   ) s
+(145   /\\.EndHistory/ { ; }) s
+(146   ) s
+endpage
+%%Page: 2 2
+startpage
+(147   /\\.BeginStatus/ { ) s
+(148           print "{\\\\em Status}\\\\\\\\";) s
+(149           while \( $1 != ".EndStatus" \) {) s
+(150                       getline;) s
+(151                   if \( $1 == ".EndStatus" \) {) s
+(152                       break;) s
+(153                   }) s
+(154                   else {                          ) s
+(155                       print $0;) s
+(156                   }) s
+(157           }) s
+(158   }) s
+(159   ) s
+(160   /\\.EndStatus/ { ; }) s
+(161   ) s
+(162   /^\\.BeginKnownAssoc/ { ) s
+(163           print "{\\\\em Known Associations}\\\\\\\\";) s
+(164           while \( $1 != ".EndKnownAssoc" \) {) s
+(165                       getline;) s
+(166                   if \( $1 == ".EndKnownAssoc" \) {) s
+(167                       break;) s
+(168                   }) s
+(169                   else {                          ) s
+(170                       print $0;) s
+(171                   }) s
+(172           }) s
+(173   ) s
+(174   ) s
+(175   }) s
+(176   ) s
+(177   /^\\.EndKnownAssoc/ { ; }) s
+(178   ) s
+(179   /^\\.BeginSecretAssoc/ { ) s
+(180           print "{\\\\em Secret Associations}\\\\\\\\";) s
+(181           while \( $1 != ".EndSecretAssoc" \) {) s
+(182                       getline;) s
+(183                   if \( $1 == ".EndSecretAssoc" \) {) s
+(184                       break;) s
+(185                   }) s
+(186                   else {                          ) s
+(187                       print $0;) s
+(188                   }) s
+(189           }) s
+(190   ) s
+(191   ) s
+(192   }) s
+(193   ) s
+(194   /^\\.EndSecretAssoc/ { ; }) s
+(195   ) s
+(196   /^\\.BeginFriends/ { ) s
+(197           print "{\\\\em Friends}\\\\\\\\";) s
+(198           while \( $1 != ".EndFriends" \) {) s
+(199                       getline;) s
+(200                   if \( $1 == ".EndFriends" \) {) s
+(201                       break;) s
+(202                   }) s
+(203                   else {                          ) s
+(204                       print $0;) s
+(205                   }) s
+(206           }) s
+(207   ) s
+(208   ) s
+(209   }) s
+(210   /^\\.EndFriends/ { ; }) s
+(211   ) s
+(212   /^\\.BeginComment/ { ) s
+(213           print "{\\\\em Comment}\\\\\\\\";) s
+(214           while \( $1 != ".EndComment" \) {) s
+(215                       getline;) s
+(216                   if \( $1 == ".EndComment" \) {) s
+(217                       break;) s
+(218                   }) s
+(219                   else {                          ) s
+endpage
+startpage
+(220                       print $0;) s
+(221                   }) s
+(222           }) s
+(223   }) s
+(224   /^\\.EndComment/ { ; }) s
+(225   ) s
+(226   /\\.EndNPC/ { print "\\\\newpage"; }) s
+(227   ) s
+(228   END {) s
+(229       print "\\\\end{flushleft}") s
+(230       print "\\\\end{document}") s
+(231   }) s
+(232   ) s
+endpage
+
+%%Trailer
+cleanup
+docsave restore end

@@ -1,0 +1,51 @@
+Name: Mechanised Infantry Trooper Suit Package
+Skill: Lore: Battle Suit
+Skill: Battle Suit Ops
+Skill: Suit Repair
+Skill: Electronic Ops
+Skill: Mechanical Ops
+Skill: Florentine: Fire-While-Move
+Skill: Weapon: Assault Rifle
+Skill: Weapon: Pistol
+Skill: Weapon: Grenade/Rocket Launcher
+Skill: Jumping
+Skill: Dodge
+Skill: Free Fall
+Skill: Throw
+Skill: Navigation/Orienteering
+Skill: Florentine: MAW-MAW
+Cost:7
+
+Name: Mechanised Infantry Trooper General Package
+Skill: Military HTH
+Skill: Lore:Military Weapons
+Skill: Lore:Military Culture
+Skill: Tactics
+Skill: Survival
+Skill: Combat Medicine
+Skill: Comm Ops
+Skill: Comp Ops
+Cost:4
+
+Name: Mechanised Infantry Trooper Scout Package
+Skill: Stealth (Visual)
+Skill: Stealth (Audible)
+Skill: Stealth (Electronic)
+Skill: ECM Operations
+Skill: Sensor Ops
+Skill: Forward Ops
+Cost: 4
+
+Name: Mechanised Infantry Officer Package
+Skill: Data Retrieval
+Skill: Data Analysis
+Skill: Strategy
+Skill: Leadership
+Skill: Lore: Military Protocol
+Skill: Lore: Military History
+Skill: Lore: Startegic Services Culture
+Cost: 4
+
+
+
+

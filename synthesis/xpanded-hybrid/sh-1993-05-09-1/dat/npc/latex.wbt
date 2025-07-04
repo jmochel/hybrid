@@ -1,0 +1,8 @@
+fname = AskLine("LaTeX","Enter LaTeX file","")
+parms = StrCat("c:\tex\bin\virtex &lplain ",fname,".ltx")
+RunZoom("run386" ,  parms)
+dviname = StrCat(fname,".dvi")
+fex = FileExist(StrCat(DirGet(),dviname))
+RunZoom("dvimswin",dviname)
+
+

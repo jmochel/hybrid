@@ -1,0 +1,65 @@
+h29830
+s 00037/00000/00000
+d D 1.1 99/12/02 15:55:41 jmochel 2 1
+cC
+cK57004
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 15:55:38 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/spells/design/nilrem.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK44974
+cPspells/design/nilrem.txt
+cReb4786e55cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+
+Spell: Augury
+------------------------------------
+Energy Type: Stream
+Energy Cost: 20 MFT
+Casting Difficulty Factor (CDF): 0
+Resistance Difficulty Factor (RDF): 0
+Range: 20 * 1km
+Casting Time: 17 * 30Sec
+Quantitative Effect: 18+1/rnk
+SDP : 4
+
+
+Spell: ForceShield
+------------------------------------
+Energy Type: Force
+Energy Cost: 10 MFT
+Casting Difficulty Factor (CDF): -5
+Resistance Difficulty Factor (RDF): 0
+Range: 1 * 1m
+Duration: 1 * 2Min
+Casting Time: 20 * Pulse
+Quantitative Effect: 20+1/rnk
+SDP : 11
+
+
+Spell: QuickDraw
+------------------------------------
+Energy Type: Power
+Energy Cost: 20 MFT
+Casting Difficulty Factor (CDF): -4
+Resistance Difficulty Factor (RDF): 0
+Duration: 2 * Day
+Casting Time: 46 * Min
+Quantitative Effect: 30+2/rnk
+SDP : -8
+
+E 2
+I 1
+E 1

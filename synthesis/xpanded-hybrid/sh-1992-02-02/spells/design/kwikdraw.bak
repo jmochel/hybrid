@@ -1,0 +1,19 @@
+.Name QuickDraw
+.NRG Power
+.ACT Bind
+.ACT Hold
+.ACT FastActivate
+
+.TARGET Spells
+
+.CCOMP Preparation
+.CCOMP Somatic
+.CCOMP Verbal
+
+.EC 20
+.CDF -4
+.CTSCALE Min
+.DUR 2
+.DURSCALE Day
+.QE 26
+.LINKQE 2

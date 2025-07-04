@@ -1,0 +1,134 @@
+jmochel 976286366: new -Pq BitKeeper/etc/ignore = 0
+jmochel 976286366: sfiles -pC = 0
+jmochel 976286366: cset -q -yInitial repository create - = 0
+jmochel 976286366: sfind -S -sx,c,p = 0
+jmochel 976286394: log http://www.bitkeeper.com/cgi-bin/logit setups@openlogging.org BitKeeper config: Bardic Tales gaming Archive G:/Temp/config2 = 0
+jmochel 976286423: pwd = 0
+jmochel 976286436: sfio -im -q = 0
+jmochel 976286446: ci -1i -q - = 0
+jmochel 976286447: sfiles = 0
+jmochel 976286448: admin -hhhq - = 0
+jmochel 976286448: sfiles -r = 0
+jmochel 976286448: sfind -s,,p -C = 0
+jmochel 976286453: cset -YG:/Temp/bk_commit612 = 0
+jmochel 976286453: _keysort = 0
+jmochel 976286454: cset -r+ = 0
+jmochel 976286454: sccslog - = 0
+jmochel 976286454: sfind -S -sx,c,p = 0
+jmochel 976286455: cset -c -r1.1..1.2 = 0
+jmochel 976286477: log http://www.bitkeeper.com/cgi-bin/logit logging@openlogging.org BitKeeper ChangeSet log: Bardic Tales gaming Archive G:/Temp/commit_log612 = 0
+jmochel 976286542: sfio -o -q - = 0
+jmochel 976286542: sfind = 0
+jmochel 976322750: sfio -o -q - = 0
+jmochel 976322752: sfind = 0
+jmochel 976322765: parent i:/Repository/BardicTales = 0
+jmochel 976368972: cd i:/Repository/BardicTales = 0
+jmochel 976368977: rootkey = 0
+jmochel 976368994: prs -r1.0.. -bhad:KEY:
+ ChangeSet = 0
+jmochel 976369269: sane = 0
+jmochel 976369412: sfind RESYNC = 0
+jmochel 976369458: sfio -omq = 0
+jmochel 976369554: sccscat -h ChangeSet = 0
+jmochel 976369557: _keysort = 0
+!jmochel 1008168248 20010604201538: abort = 0
+!jmochel 1008168514 20010604201538: sfio -o - = 0
+!jmochel 1008168515 20010604201538: sfind = 0
+!jmochel 1008170482 20010604201538: cd l:/Repository/BardicTales = 0
+!jmochel 1008170487 20010604201538: _listkey = 0
+!jmochel 1008170489 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1008170489 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1008170490 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1008170490 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1008170490 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1008170491 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1008170491 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1008170492 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1010665554 20010604201538: cd l:/Repository/BardicTales = 0
+!jmochel 1010665559 20010604201538: _listkey = 0
+!jmochel 1010665561 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1010665561 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1010665562 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1010665562 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1010665563 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1010665563 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1010665564 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1010665564 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011057081 20010604201538: cd l:/Repository/BardicTales = 0
+!jmochel 1011057091 20010604201538: _listkey = 0
+!jmochel 1011057096 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011057097 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1011057098 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1011057100 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1011057101 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1011057102 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1011057103 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1011057105 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011058932 20010604201538: cd l:/Repository/BardicTales = 0
+!jmochel 1011058937 20010604201538: _listkey = 0
+!jmochel 1011058939 20010604201538: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011058940 20010604201538: putenv BK_VERSION=20010604201538 = 0
+!jmochel 1011058940 20010604201538: putenv BK_UTC=20010604201538 = 0
+!jmochel 1011058941 20010604201538: putenv BK_TIME_T=991685738 = 0
+!jmochel 1011058942 20010604201538: putenv _BK_USER=jmochel = 0
+!jmochel 1011058943 20010604201538: putenv _BK_HOST=mordanith. = 0
+!jmochel 1011058943 20010604201538: putenv BK_LEVEL=1 = 0
+!jmochel 1011058944 20010604201538: putenv BK_ROOT=g:/workspace/BardicTales = 0
+!jmochel 1011059191 20010604201538: idcache -q = 0
+!jmochel 1011059622 20010604201538: takepatch -vvv -c = 0
+!jmochel 1011059701 20010604201538: sane = 0
+!jmochel 1011059784 20010604201538: sfind RESYNC = 0
+!jmochel 1011059837 20010604201538: sfio -omq = 0
+!jmochel 1011059838 20010604201538: clean SCCS/s.ChangeSet = 0
+!jmochel 1011060126 20010604201538: sccscat -h ChangeSet = 0
+!jmochel 1011060127 20010604201538: _keysort = 0
+!jmochel 1011060318 20010604201538: sane = 0
+!jmochel 1011060318 20010604201538: check -a - = 4
+!jmochel 1011060319 20010604201538: sfind = 4
+!jmochel 1011060322 20010604201538: clean BitKeeper/etc = 0
+!jmochel 1011060324 20010604201538: clean SCCS/s.ChangeSet = 0
+!jmochel 1011060327 20010604201538: clean Cultures/SCCS/s.Dal-Kon-Riff.txt = 0
+!jmochel 1011060329 20010604201538: clean Cultures/SCCS/s.directions.txt = 0
+!jmochel 1011060332 20010604201538: clean Cultures/SCCS/s.Edit3.txt = 0
+!jmochel 1011060335 20010604201538: clean Cultures/SCCS/s.genji.sgml = 0
+!jmochel 1011060338 20010604201538: clean Cultures/SCCS/s.HISTORY.HTM = 0
+!jmochel 1011060341 20010604201538: clean Cultures/SCCS/s.invnr10.txt = 0
+!jmochel 1011060344 20010604201538: clean Cultures/SCCS/s.jpnft10.txt = 0
+!jmochel 1011060347 20010604201538: clean Cultures/SCCS/s.noto10.txt = 0
+!jmochel 1011060350 20010604201538: clean Cultures/SCCS/s.sofre10.txt = 0
+!jmochel 1011060352 20010604201538: clean Cultures/SCCS/s.Story.cfm.html = 0
+!jmochel 1011060355 20010604201538: clean Cultures/SCCS/s.Takeda.Sakura.txt = 0
+!jmochel 1011060358 20010604201538: clean Cultures/SCCS/s.Takeda.txt = 0
+!jmochel 1011060361 20010604201538: clean Cultures/SCCS/s.utrkj10.txt = 0
+!jmochel 1011060364 20010604201538: clean Cultures/SCCS/s.Vocab2.txt = 0
+!jmochel 1011060366 20010604201538: clean Cultures/SCCS/s.Vocabulary.txt = 0
+!jmochel 1011060369 20010604201538: sfio -im = 0
+!jmochel 1011060376 20010604201538: sccscat -h ChangeSet = 0
+!jmochel 1011060377 20010604201538: _keysort = 0
+!jmochel 1011303782 bk-2.1.3: cd f:/Repository/BardicTales = 0
+!jmochel 1011303786 bk-2.1.3: cd f:/Repository/BardicTales = 0
+!jmochel 1011303808 bk-2.1.3: u-r unlock = 0
+!jmochel 1011303830 bk-2.1.3: cd f:/Repository/BardicTales = 0
+!jmochel 1011303830 bk-2.1.3: _listkey = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303830 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303830 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303830 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303838 bk-2.1.3: cd f:/Repository/BardicTales = 0
+!jmochel 1011303838 bk-2.1.3: _probekey = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_REMOTE_PROTOCOL=1.3 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_VERSION=bk-2.1.3 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_UTC=20011109210700 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_TIME_T=1005340020 = 0
+!jmochel 1011303838 bk-2.1.3: putenv _BK_USER=jmochel = 0
+!jmochel 1011303838 bk-2.1.3: putenv _BK_HOST=devilmountain. = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_LEVEL=1 = 0
+!jmochel 1011303838 bk-2.1.3: putenv BK_ROOT=g:/BardicTales = 0
+!jmochel 1011303838 bk-2.1.3: _keysort = 0
+!jmochel 1011303838 bk-2.1.3: _adler32 = 1
+!jmochel 1011303922 bk-2.1.3: sfio -o -q - = 0
+!jmochel 1011303922 bk-2.1.3: sfind = 0

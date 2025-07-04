@@ -1,0 +1,46 @@
+.nj
+.nf
+.rm 78
+.in 4
+.he //^B Grappling and Pummeling Combat : WORKSHEET ^b//
+
+.wh hex 1B 32 . ; Whole line spacing
+.fr 2 hex 1b 33 12 . ; Halfline spacing
+STRIKING COMBAT                                 
+
+Skill :                  Damage:
+---------------------------------------------------------------------
+
+Natural                  d4 + 1/4 str Concussive
+Attacker takes 1/4 damage unless he is gauntleted. 
+
+Fighter                  d4 + str Concussive
+Monkish                  d6 Real
+
+S.T. vs Concussive is 4d6 vs. Con. Gains back success number up to
+3/4 of what is lost.
+
+K.O. 4d6 vs Con.
+
+
+
+GRAPPLING COMBAT
+---------------------------------------------------------------------
+
+Base Grapple %      =  1/2 * ( STR + DEX )^-att^+ * 5      ______________
+
+Class Modifier  _____ * Level ______   =                 + __________
+
+Armour :_________ DAmage Mod _______  To Grapple Modifier +__________
+
+                                      Total Grapple Chance __________
+                                      
+
+
+Base Grapple Defense %   =  2 * DEX^-def^+                 ______________
+
+Class Modifier  _____ * Level ______   =                 +  _________
+
+Armour :_________ DAmage Mod _______  To Grapple Modifier   _________
+
+                                      Total Grapple Defense _________ 

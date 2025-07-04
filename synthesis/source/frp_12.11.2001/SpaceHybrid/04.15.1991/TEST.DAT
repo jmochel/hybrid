@@ -1,0 +1,12 @@
+.name	Accounting
+.type (TS,U,CT)
+.sb		FCS
+.rb		STD
+.cost	
+.BeginDetail
+The technical study of the tracking of financial transactions
+.EndDetail
+.BeginEF
+7 Balance a set of properly kept books
+.EndEF
+

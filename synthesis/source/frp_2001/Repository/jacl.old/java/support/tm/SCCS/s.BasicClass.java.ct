@@ -1,0 +1,801 @@
+h45885
+s 00773/00000/00000
+d D 1.1 99/11/17 12:50:44 jmochel 2 1
+cC
+cK06393
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:50:41 jmochel 1 0
+c BitKeeper file e:/jacl/java/support/tm/BasicClass.java.ct
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45336
+cPjava/support/tm/BasicClass.java.ct
+cR2f93d7c35cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+..  Contains Basic Class Generation Code for JAVA
+..
+..  Author Jim Jackl-Mochel
+..  Date <???>
+..
+..  Copyright - This code is in the public domain
+..
+..  Revision Information 
+..  ==================== 
+..  $Author: jmochel $
+..  $Revision: 1.14 $
+..  $Date: 1999/01/25 21:38:13 $
+..
+.insert Util.java.ct
+.insert BasicUnitTest.java.ct
+..
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genMemberName classname field
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.set membername _$(field)s
+.else
+.set membername _$(field)
+.endif
+.return $(membername)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genEltName classname field
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.set eltname $(field)s
+.else
+.set eltname $(field)
+.endif
+.return $(eltname)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genSingleEltName classname field
+.set singleeltname $(field)
+.return $(singleeltname)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genEltType classname field
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.set elttype ${typename $(classname) $(field) }[]
+.else
+.set elttype ${typename $(classname) $(field) }
+.endif
+.return $(elttype)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genBaseEltType classname field
+.set baseelttype ${typename $(classname) $(field) }
+.return $(baseelttype)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genVarEltName classname field
+.set eltname $(field)
+.set vareltname ${tolower $(eltname)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+.set vareltname $(vareltname)s
+.endif
+.return $(vareltname)
+.endmacro
+..  ===================================================
+..
+..  Desc 
+..      Generates a correct elementname for use throughout 
+..
+..  Parameters
+..
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro genSingleVarEltName classname field
+.set singlevareltname ${tolower $(field)}
+.return $(singlevareltname)
+.endmacro
+..
+..  ===================================================
+..
+..  Desc 
+..      Generates the basic class 
+..
+..  Parameters
+..
+..      Filename    - Name of the file this code is being generated in
+..      classname   - Name of the class being generated
+..
+..  Notes
+..
+..
+..  ===================================================
+.macro GenClass classname
+.redirect $(classname).java
+/*
+    Copyright (C) 1998-1999 Jim Jackl-Mochel
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy 
+    of this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to use, 
+    copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+    Software, and to permit persons to whom the Software is furnished to do so, 
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in 
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+    IMPLIED, INCLUDING BUT NOT LIMITED TOTHE WARRANTIES OF MERCHANTABILITY, 
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    Except as contained in this notice, the name of the author shall not be used 
+    in advertising or otherwise to promote the sale, use or other dealings in this
+    Software without specific prior written authorization.
+
+    This code was last modified on $$Date: 1999/01/25 21:38:13 $$
+
+    $$author: Jim Jackl-Mochel $$
+    $$Revision: 1.14 $$
+*/
+
+
+package jacl.def;
+
+// Standard Imports
+
+import java.io.Serializable;
+import java.util.Vector;
+
+// Other Imports
+
+// JACL Imports
+
+import jacl.util.hash.PearsonsHash;
+
+// Application Imports
+
+/**
+    <???> // A Short summary
+
+    <p><???> // Notes
+
+    <p><B>ToDo</B>
+    <ul>
+        <li>Check API Naming
+        <li>Check API Types
+        <li>Check API Returns
+        <li>Check API Exceptions
+        <li>Check Comments
+        <li>Remove unused Comment tags
+        <li>Make sure that there is no way to create an object with an invalid state
+        <li>If an instance variable doen't have a natural default, have one passed into the constructor
+        <li>Throw exceptions on bad input.
+        <li>Constructoirs and initializers should only be about initialization
+        <li>Minimize coupling, take as input only data needed by the method.
+    </ul>
+
+    <p><B>Reminders</B>
+    <ul>
+        <li>All arg passing is done by handles:Modify the contents and it effects everbody
+        <li>Aliasing happens automatically during argument passing
+        <li>There are no local objects, only local handles.
+        <li>Handles have scope, obects do not
+        <li>Object lifetime is not an issue in java
+        <li>There is no language suppport to prevent objects from being modified (i.e. const)
+    </ul>
+
+    <p><B>Copyright (c) 1998 Jim Jackl-Mochel</B>
+    All rights reserved. See source for license agreement
+
+    <p>This code was originally generated using TM version $(tmvers)
+    <p>This code was last modified on $$Date: 1999/01/25 21:38:13 $$
+
+    @author Jim Jackl-Mochel
+    @author $$Author: jmochel $$
+    @version $$Revision: 1.14 $$
+
+    @see <???>
+    @see $(classname)UnitTest
+    @since JDK 1.1
+*/
+
+public 
+.if ${isvirtual $(classname)}
+abstract 
+.endif
+class $(classname) 
+.if ${call IsPopulated "${inherits $(classname)}" }
+extends ${inherits $(classname)}
+.endif
+implements Serializable,Cloneable
+{
+..
+..
+.. FUll Parameter Constructor with inheritance
+..
+..
+.if ${call IsSubclass $(classname)}
+    /**
+        Empty Constructor
+
+        @since JDK 1.1
+
+    */
+
+    public $(classname)()
+    {
+	super();
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        // Assumes that array will be managed in accessor/mutator 
+
+        $(membername) = new Vector();
+.endif
+.endforeach
+    }
+
+
+    /**
+        Full Parameter Constructor
+
+.foreach field ${allfields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        @param  $(vareltname)   The array of $(baseelttype) to be <???>
+.else
+        @param  $(vareltname)   The $(elttype) to be <???>
+.endif
+.endforeach
+
+        @since JDK 1.1
+    */
+
+    public $(classname)
+    (
+.foreach field ${allfields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${call IsLastTermInList $(field) "${allfields $(classname)}" }
+         $(elttype) $(vareltname)
+.else
+         $(elttype) $(vareltname),
+.endif
+.endforeach
+    )
+    {
+        super(
+.foreach field ${fields ${inherits $(classname)}}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${call IsLastTermInList $(field) "${fields ${inherits $(classname)}}" }
+         $(vareltname)
+.else
+         $(vareltname),
+.endif
+.endforeach
+    );
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        // Assumes that array will be managed in accessor/mutator 
+
+        $(membername) = new Vector();
+	$(membername).copyInto($(vareltname));
+.else
+        $(membername) = $(vareltname);
+.endif
+.endforeach
+    }
+.else
+    /**
+        Empty Constructor
+
+        @since JDK 1.1
+
+    */
+
+    public $(classname)()
+    {
+.foreach field ${allfields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        // Assumes that array will be managed in accessor/mutator 
+
+        $(membername) = new Vector();
+.endif
+.endforeach
+    }
+
+..
+..
+.. FUll Parameter Constructor w/o inheritance
+..
+..
+    /**
+        Full Parameter Constructor
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+        @param  $(vareltname)   The $(elttype) to be <???>
+.endforeach
+
+        @see <???>
+        @see <???>
+        @since JDK 1.1
+    */
+
+    public $(classname)
+    (
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${call IsLastTermInList $(field) "${fields $(classname)}" }
+         $(elttype) $(vareltname)
+.else
+         $(elttype) $(vareltname),
+.endif
+.endforeach
+    )
+    {
+        this();
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        $(membername).copyInto($(vareltname));
+.else
+        $(membername) = $(vareltname);
+.endif
+.endforeach
+    }
+
+.endif
+
+    /*
+        =========================
+                Accessors
+        =========================
+    */
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+    /**
+        Gets the $(eltname) to be <???>
+
+        <p>The $(eltname) is (<???> - describe its meaning , when it is used).
+
+        @return $(elttype)
+
+        @see    set$(eltname)($(elttype) $(vareltname))
+        @since  JDK 1.1
+    */
+
+    $(elttype) get$(eltname)()
+    {
+.if ${eq ${typelevel $(classname) $(field)} 1}
+
+        // Create the temporary array
+        
+        $(elttype) tempArray = new $(baseelttype)[$(membername).size()];
+        
+        // Populate it.
+        
+        for (int i = 0; i < tempArray.length; i++ )
+        {
+            tempArray[i] = ($(baseelttype)) $(membername).elementAt(i);
+        }
+        
+        // return it
+        
+        return tempArray;
+.else
+        return $(membername);
+.endif
+    }
+
+..
+.. Specialized accessor for getting a single part of a collection
+..
+.if ${eq ${typelevel $(classname) $(field)} 1}
+    /**
+        Gets the $(singleeltname) at the given index to be <???>
+        <p>The $(singleeltname) is (<???> - describe its meaning , when it is used).
+
+        @return $(baseelttype)
+
+        @see    set$(singleeltname)At(int ndx, $(baseelttype) $(singlevareltname))
+        @since  JDK 1.1
+    */
+
+    $(baseelttype) get$(singleeltname)At(int ndx)
+    {
+        return ($(baseelttype)) $(membername).elementAt(ndx);
+    }
+
+    /**
+        Gets the count of $(eltname)
+        <p>The $(eltname) is (<???> - describe its meaning , when it is used).
+
+        @return int count of the number of $(eltname)
+
+        @since  JDK 1.1
+    */
+
+    int get$(singleeltname)Cnt()
+    {
+        return $(membername).size();
+    }
+
+.endif
+.endforeach
+
+    /*
+        =========================
+                Mutators
+        =========================
+    */
+    
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+    /**
+        Sets the $(eltname) to be $(vareltname).
+        <p>The $(eltname) is (<???> - describe its meaning , when it is used).
+
+        @param  $(vareltname)   The <code>$(elttype)</code> to be <???>
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    get$(eltname)()
+        @since  JDK 1.1
+    */
+
+    public void set$(eltname)($(elttype) $(vareltname))
+    {
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        $(membername).removeAllElements();
+        $(membername).copyInto($(vareltname));
+.else
+        $(membername) = $(vareltname);
+.endif
+    }
+
+
+.if ${eq ${typelevel $(classname) $(field)} 1}
+    /**
+        Sets the $(singleeltname) at the given index to be $(singlevareltname).
+        <p>The $(singleeltname) is (<???> - describe its meaning , when it is used).
+
+        @param  $(singlevareltname)   The <code>$(baseelttype)</code> to be <???>
+        @param  ndx             The index or position of the $(singleeltname) to be set
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    get$(singleeltname)At(int ndx)
+        @since  JDK 1.1
+    */
+
+    public void set$(singleeltname)At(int ndx, $(baseelttype) $(singlevareltname))
+    {
+        $(membername).insertElementAt($(singlevareltname), ndx);
+    }
+
+
+    /**
+        Adds $(singlevareltname) to the set of  $(eltname).
+        <p>The $(singleeltname) is (<???> - describe its meaning , when it is used).
+
+        @param  $(singlevareltname)   The <code>$(baseelttype)</code> to be <???>
+        @exception  <???>       (Describe when the exception is thrown).
+
+        @see    get$(singleeltname)At(int ndx)
+        @since  JDK 1.1
+    */
+
+    public void add$(singleeltname)($(baseelttype) $(singlevareltname))
+    {
+        $(membername).addElement($(singlevareltname));
+    }
+
+
+.endif
+
+.endforeach
+
+    /*
+        =====================================
+                java.lang.Object  Overrides
+        =====================================
+    */
+    
+
+    /**
+        Generates hash codes
+
+        @see jacl.util.hash.PearsonsHash
+        @see jacl.lang.Object#hashCode()
+        @since JDK 1.1
+    */
+
+    public int hashCode()
+    {
+        return(PearsonsHash.generateIntRangeHash(toString()));
+    }
+
+    /**
+        Checks for equality
+
+        @see java.lang.Object#equals(Object)
+        @since JDK 1.1
+    */
+
+    public boolean equals(Object object)
+    {
+        if ( super.equals(object) == true )
+        {
+            $(classname)    castObject = ($(classname)) object;
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+            if ( $(membername).equals(castObject.$(membername)) == false )
+            {
+                return(false);
+            }
+
+.endforeach
+         }
+        else {
+            return(false);
+        }
+
+        return(true);
+    }
+
+    /**
+        Generates a string representation of the class
+
+        @see java.lang.Object#toString()
+        @since JDK 1.1
+    */
+
+    public String toString()
+    {
+        StringBuffer    bfr = new StringBuffer(this.getClass().getName());
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+        bfr.append("$(eltname) = " + $(membername) + "\n" );
+.endforeach
+
+        return(bfr.toString());
+    }
+
+    /**
+        Clones this object
+
+        <p><B>Caveat Emptor: This clone currently does a shallow copy</B>
+
+        @see java.lang.Object#clone()
+        @since JDK 1.1
+    */
+
+    public Object clone() throws CloneNotSupportedException
+    {
+        Object object = null;
+
+        object = super.clone();
+        
+        $(classname) castObject = ($(classname)) object;
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+.if ${eq ${typelevel $(classname) $(field)} 1}
+        castObject.$(membername) = (Vector) $(membername).clone();
+        castObject.$(membername) = (Vector) $(membername);
+.else
+        castObject.$(membername) = ($(elttype)) $(membername).clone();
+        castObject.$(membername) = ($(elttype)) $(membername);
+.endif
+.endforeach
+       
+       return(object);
+    }
+
+.foreach field ${fields $(classname)}
+.set eltname ${call genEltName $(classname) $(field)} 
+.set singleeltname ${call genSingleEltName $(classname) $(field)} 
+.set elttype ${call genEltType $(classname) $(field)} 
+.set baseelttype ${call genBaseEltType $(classname) $(field)} 
+.set membername ${call genMemberName $(classname) $(field)}
+.set vareltname ${call genVarEltName $(classname) $(field)}
+.set singlevareltname ${call genSingleVarEltName $(classname) $(field)}
+
+    /**
+        <???>
+    */            
+
+.if ${eq ${typelevel $(classname) $(field)} 1}
+    private Vector  $(membername);
+.else
+    private $(elttype)  $(membername);
+.endif
+    
+.endforeach
+
+}
+.endredirect
+.endmacro
+
+.foreach Class ${classlist}
+.set classname $(Class)
+Status : Generating $(classname)
+${call GenClass $(classname) }
+Status : Generating $(classname)UnitTest
+${call GenUnitTest $(classname) }
+Status : Generating $(classname)UnitTestMain
+${call GenUnitTestMain $(classname) }
+.endforeach
+
+..
+..  EOF
+..
+E 2
+I 1
+E 1

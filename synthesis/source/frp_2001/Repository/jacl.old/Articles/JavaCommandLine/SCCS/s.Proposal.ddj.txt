@@ -1,0 +1,130 @@
+h29975
+s 00102/00000/00000
+d D 1.1 99/11/17 07:26:31 jmochel 2 1
+cC
+cK54468
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 07:26:27 jmochel 1 0
+c BitKeeper file e:/jacl/Articles/JavaCommandLine/Proposal.ddj.txt
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK43391
+cPArticles/JavaCommandLine/Proposal.ddj.txt
+cRa82be5cf5cb6bb7a
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+A Configurable Command Line Parser 
+----------------------------------------
+
+Abstract
+--------
+Java's reflection API provides the programmer with some clean solutions 
+to logically simple problems that may not implement well in languages
+like C++. Most of those problems have to do with run-time configuration 
+or extensibility.
+
+The article presents a set of simple Java classes that provides an 
+configurable command line parser that can adopt different command line
+syntaxes without prior knowledge of the syntax.
+
+In effect the user can chose between 
+
+program /in=schmoo.jpg /verbose=true 
+
+and 
+
+program -in schmoo.jpg -verbose
+
+and even a currently unknown syntax by changing 
+a system property.
+
+Outline
+-------
+
+Goals and requirements
+
+    Simple
+    Separate syntax from semantics
+    Run-time configurable for Syntax
+    Generates usage notes on the fly from the tag/value description.
+
+
+The Design (Key points)
+-----------------------
+    
+    Lexer handles syntax and errors relating to syntax
+
+    Parser handles semantics and errors relating to semantics
+
+    Lexer as a Enumerator
+
+    Parser uses reflection API to instantiate the desired Lexer
+
+    Using the string constructor the Parser can return the correctly instantiated 
+    argument value without knowing anything about its type.
+
+	i.e. /in=shmoo.jpg is described as a java.io.File and asking for the value of "in"
+	returns a File object (or an exception that says it couldn't create it !)
+    
+    When unable to parse the command line the Parser uses the 
+    argument descriptions to generate a usage output.
+
+
+The Implementation
+------------------
+
+    Lexer has one method that breaks the command line arguments down into key/value pairs:
+
+	    public abstract void lex(String[] argValues) throws IllegalArgumentException;
+
+    Parser has:
+
+	A constructor that takes the name of the Lexer class to use (or uses a system property)
+
+	    public Parser(String lexerClassName, boolean exitOnFailure) throws LexerCreationException
+
+	A method for describing the arguments expected on the command line.
+
+	    public void register(ArgSemantic argSemantic) 
+
+		(looks something like this in action:
+			
+			register(new Parser.ArgSemantic("in", "Input file name", "java.io.File", true));
+		)
+
+	And a method to invoke the actual parsing
+    
+	    public void parse(String[] args)
+
+
+
+Other Notes
+-----------
+
+Having implemented similiar schemes in C++ (and even C) I can't 
+put enugh stress on how much cleaner this is for day-to-day work. 
+Using it usually consists of creating a specialised Parser class 
+that describes the arguments in the constructor, add a few 
+accessors for them and go !
+
+Its only real limitation is that to use a class as a parameter 
+return value it must have a constructor that takes a java.lang.String.
+Not really a great sacrifice.
+
+
+Thanks and let me know if you are interested.
+
+Jim JM
+E 2
+I 1
+E 1

@@ -1,0 +1,17 @@
+.Name
+.Type (HTH, Stick, Blade, Hafted, Flexible)
+.DamageType (Crush, Cut, Pierce)
+.Length
+.Mass
+.Symmetry (NotSymmetrical, Symmetrical, VerySymmetrical)
+.MDist (NotUniform, Uniform, VeryUniform)
+.Hands (1, 2)
+.BeginTLB
+.EndTLB
+.BeginDesc
+.EndDesc
+.BeginCmt
+.EndCmt
+.EndWpn
+
+

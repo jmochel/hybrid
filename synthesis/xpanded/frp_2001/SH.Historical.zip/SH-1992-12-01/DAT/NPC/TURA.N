@@ -1,0 +1,46 @@
+.Name TURA AUR
+.Title								
+.Race GRAY ELF
+.Culture
+.Aspect 
+.PST 10
+.PEN 16		
+.DEX 16
+.PAG 18		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 19
+.MAG 14
+.MAW 14
+.HT 6'2"      
+.WT			 
+.AGE ?
+.BeginDesc
+ TALL ARROGANT GRAY ELF
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale IN THE EARTH IN THE MALDEV MAGIC LOSS AREA
+.BeginKnownAssoc
+ HATES CATBHACH THE MAGE AND STRIPGEAR HAMMERWIELDER.
+.EndKnownAssoc
+.BeginSecretAssoc
+ ASSOCIATE OF PROTECTERATE
+.EndSecretAssoc
+.BeginFriends NONE
+.EndFriends
+.BeginComment
+ DIED 1090/RESSURECTED 1138/IMPRISONED 1443
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

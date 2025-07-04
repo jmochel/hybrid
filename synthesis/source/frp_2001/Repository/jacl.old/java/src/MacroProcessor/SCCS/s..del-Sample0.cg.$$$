@@ -1,0 +1,43 @@
+h28752
+s 00000/00000/00008
+d D 1.2 99/11/18 07:17:37 jmochel 3 2
+c Delete: java/src/MacroProcessor/Sample0.cg.$$$
+cC
+cK39344
+cPjava/src/MacroProcessor/.del-Sample0.cg.$$$
+e
+s 00008/00000/00000
+d D 1.1 99/11/17 12:55:04 jmochel 2 1
+cC
+cK42408
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/11/17 12:55:00 jmochel 1 0
+c BitKeeper file e:/jacl/java/src/MacroProcessor/Sample0.cg.$$$
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991117121845|52994|b286d56f5cb6bb79
+cHdevilmountain.bedford.foliage.com
+cK45362
+cPjava/src/MacroProcessor/Sample0.cg.$$$
+cR2f93d73b5cb6ba86
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+.include "test"
+For compiling with the Pure C compiler on the Atari ST, you must compile
+and install the packages in the order 'libtmc', 'tm', 'tmc'.  See the
+README files in each of the directories. Note that as of version 1.2,
+the Atari ST version is no longer supported (I have sold my ST).
+For compiling with the Borland C++ compiler under MSDOS/MS-Windows, you must
+compile and install the packages in the order 'libtmc', 'tm', 'tmc'.
+See the README files in each of the directories.
+E 2
+I 1
+E 1

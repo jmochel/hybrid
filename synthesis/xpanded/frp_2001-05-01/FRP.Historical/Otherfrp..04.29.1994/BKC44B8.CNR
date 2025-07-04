@@ -1,0 +1,40 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210111543.357;
+          10 Dec 91 11:16:01 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210111543.357;
+          10 Dec 91 11:15:53 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04477; Tue, 10 Dec 91 11:17:33 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11234; Tue, 10 Dec 91 10:59:38 -0500
+Message-Id: <9112101559.AA11234@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 0176; Tue, 10 Dec 91 10:59:34 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 1532;
+ Tue, 10 Dec 91 10:59:33 EST
+Date:         Mon, 9 Dec 1991 18:41:49 EST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Laird Popkin <laird%THINK.COM@uga.cc.uga.edu>
+Subject:      Re: Reply to: Game idea theft
+X-Cc:         Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Your message of "Mon,
+              09 Dec 91 14:46:15 EST." <9112091946.AA04926@gandalf.think.com>
+
+Upon further reflection, I realized that the system could scale to
+one level more abstract, where each character has only a single stat
+and rolls against that for everything, like TWERPS.  The most
+abstract version of the character in my example would be:
+
+STAT 11 (roll against for everything)
+
+Converting between this and the next level of abstraction, the STAT
+would be the average of the MENTAL and PHYSICAL ratings.
+
+So, there's a system that scales smoothly from TWERPS to GURPS and
+beyond in terms of describing characters.
+
+Does anyone else want to handle combat?
+
+(C) copyright Laird Popkin, 1991 :^)

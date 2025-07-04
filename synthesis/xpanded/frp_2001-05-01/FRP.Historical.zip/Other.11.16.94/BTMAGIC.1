@@ -1,0 +1,295 @@
+From alexj@juliet.ll.mit.edu Wed Dec 15 16:01:26 1993
+Date: Tue, 16 Nov 93 16:55:36 EST
+From: Alexander Jackl <alexj@juliet.ll.mit.edu>
+To: 70732.1071@CompuServe.COM, 71055.2573@CompuServe.COM, bmckinle@mitre.org,
+    ghodge@nyx.cs.du.edu, hicks@milkwy.enet.dec.com, jaw@tii.com,
+    jcarlucci@mathworks.com, jmochel@world.std.com, markd@ill.ceo.dg.com,
+    morphus@mathworks.com
+Subject: Simplified Spell System
+
+
+The following is an excerpt from the Bardic Tales Revision 6 Chapter on Magic-
+in progress.  Comments are welcome.
+
+You may default to this if you have no or ambiguous spell information from me.
+It is the BASIC level which is the easiest and quickest level of the rule set.
+There are four levels: DESIGN, ADVANCED, STANDARD, and BASIC.  Most of you are
+running in a cross between ADVANCED and STANDARD.  Only an idiot- or JIM and I-
+would run the design level.  
+
+__+__________+
+
+BASIC RULES:	SPELL CASTING
+
+These are the simplified rules for spell casting in Bardic Tales.  They are 
+designed to be rule-of-thumb no-thought applications for quickie spell casting.  
+They can be used by people who don't want to go too crazy with magic or want to 
+do combats in a hurry.  If I have given you costs and data already your 
+current information overrides this information.
+
+ 
+			*** GENERAL INFO ***
+ 
+A general skill can add three percent per rank in the general skill is the spell 
+	is under the umbrella of the general skill.
+Any Spell, Ritual, Rite or Invokation of the same basic type can be used as 
+	a secondary (3% per rank)
+Any other SCF skill even vaguely related can be used as a tertiary (1% per RANK)
+
+MAGE_TRANCE:  Adds 15% plus 3% per RANK in MAGE TRANCE if successful.  Takes
+	50 counts to implement.
+
+SET_UP: Adds 2% per COUNT of set up up to KIF + 10 counts.  (If the casting is 
+	measured in units other than counts the set up must also be measured in 
+	those units.)
+
+MAXIMUM_BONUSES ( _BON_ ): 1 general, 2 Secondaries, 2 tertiaries
+
+MODS:  See Modifier sheet in Appendix A: General Play Data (includes: 
+	fatigue (endurance and exhaustion), wounds (HTK and POW), and 
+	environment (cover for targeting, movement)  Spell casting is run as 
+	missile use.  
+
+SPELL POINTS: 	Spell points are the things that power spells.  Spell points are 
+		generated in basically three ways:
+	1) Use of MENTAL ENDURANCE (MEN).  Ratio is one MEN equals one SPELL 
+		POINT unless declared otherwise.  
+		a) in basic rules return is one MEN per 10 counts.
+			** ALEX NOTE:  In STANDARD rules use of 10 MEN costs one 
+			** mental exhaustion (MEX).  The   formula for maximum MEN 
+			** achievable through (a) above is 
+			** MEN_CURRENT_ACHIEVABLE = MEN_TOTAL - MEX	**
+	
+	2) Use of POWER (POW). Ratio is one POW equals one SPELL POINT unless
+		declared otherwise. 
+
+	3) Use of a POWER source such as a battery, node line, or a feed
+		from a thaumaturge or other source.  This still costs.  The cost
+		is one MEN or POW for every 10 SPELL POINTS used. 
+
+LANGUAGES, RUNES AND SCHOOLS FOR CASTING:
+
+RITUALS, RITES, and INVOKATIONS require a LAnguage skill for the appropriate school
+of magic and a RUne skill in the appropriate school of magic. SOme of them also require 
+a skill in the school itself.  If you do not meet the minimum required levels you must 
+roll under each skill you do not have and if you fail it is a -30 to your cast chance
+for each failure.  See APPENDIX C: MAGIC DATA for the list of the schools of magic.  
+
+For the BAsic RUles there is no overlap between schools and it is sufficient to write:  L:Evocation, R:Evocation, and W: Evocation on one's character sheet.  This will not be mentioned in the components section but applies to all of the of the next three levels.  These are the minimum required levels:  
+	RITUAL:   	W: 0.0, L: 2.0, R: 2.0
+	RITE:	  	W: 3.0, L: 4.0, R: 4.0
+	INVOKATION:	W: 6.0, L: 6.0, R: 6.0
+
+	Then way to resolve it if you don't have the mimimum is: 
+	RANK*10 - (NEEDED_RANK - ACTUAL_RANK)*10 + Level Factor(SCF for W: 
+		and R: but INF for L:)
+
+COMPONENTS: Missing a component is ususally a -30 for each missing component.  Magical 
+		preparation counts as one component, as does each object being prepared.
+
+			*** TYPES OF SPELL CASTING ***
+
+	5 types: Sorcery, Spells, Rites, Rituals, and Invokations
+
+*** SORCERY
+
+SEE SORCERY SHEET in APPENDIX C: MAGIC DATA
+
+In the Sorcery sheet you are given difficulty mods ( _df_ ) for all sorceries.  FOr some 
+you are given costs, area-of-effects and other data.  Information on SOrcery sheets
+overrules this information.
+Sorcery-> MOst basic form of spell casting.
+
+	BASE CAST CHANCE:	RANK*10 + SCF + BON - DF + MODS - MDF(if targetted)
+				     OR  Magical APtitude + RANK*3 + BON - DF + MODS
+	CAST TIME:		10 counts ( up to 30 counts )
+	SPELL POINT COST:	10 SPELL POINTS
+	RANGE:			3*(AURA + RANK) in feet
+	Area of Effect:		One object, person, or 3 feet cubed, or 1 foot^3 per rank
+	SAVES:			Full magic save cancels effects or halves effect
+	COMPONENTS:		None unless specified- act of will sufficient
+
+*** SPELLS
+
+Unless specified based on SORCERY sheet values of closest sorcery times 2... 
+	INCLUDING Difficulty Factor (df)!
+
+	BASE CAST CHANCE:	RANK*10 + SCF + BON - DF + MODS - MDF(if targetted)
+	CAST TIME:		30 counts (up to 1 minute/300 counts)
+	SPELL POINT COST:	20 SPELL POINTS 
+	RANGE:			10*(AURA + RANK) in feet
+	Area of Effect:		One object, person, or 6 feet cubed, or 2 foot^3 per rank
+	SAVES:			Full magic save cancels effects or halves effect
+	COMPONENTS:		Somatic and verbal componments required.  No language 
+				or rune skilled required per say- ranks in spell sufficient.
+				If trying without rank in spell L: <appropriate 
+				school's Casting Language> and R: <appropriate school's 
+				rune set> would have to be rolled against before casting.
+				If normal failure comes off as a sorcery, if crit- can't 
+				cast, because too confused.;-)
+		  
+
+*** RITUALS
+
+
+Unless specified based on SORCERY sheet values of closest sorcery times 4... 
+	INCLUDING Difficulty Factor (df)!
+
+	BASE CAST CHANCE:	RANK*10 + SCF + BON - DF + MODS - MDF(if targetted)
+	CAST TIME:		1 minute (up to 12 hours)
+	SPELL POINT COST:	40 SPELL POINTS 
+	RANGE:			100*(AURA + RANK) in feet
+	Area of Effect:		Rank objects, people, or 12 feet cubed, or 4 foot^3 per rank
+	SAVES:			Full magic save cancels effects or halves effect
+	COMPONENTS:		Somatic and verbal componments required.  Usually a 
+				material component is required as well as a certain level 
+				of magical preparation.	
+
+  
+*** RITES
+
+Unless specified based on SORCERY sheet values of closest sorcery times 8... 
+	INCLUDING Difficulty Factor (df)!
+
+	BASE CAST CHANCE:	RANK*10 + SCF + BON - DF + MODS - MDF(if targetted)
+	CAST TIME:		12 hours (up to 3 days or so)
+	SPELL POINT COST:	120 SPELL POINTS 
+	RANGE:			(AURA + RANK) in miles
+	Area of Effect:		Rank^2 objects, people, or 24 feet cubed, or 8 
+				foot^3 per rank
+	SAVES:			Half magic save cancels effects or halves effect
+	COMPONENTS:		Somatic and verbal componments required.  A prepared
+				material component is almost always required as well as 
+				a certain level of magical preparation.
+
+*** INVOKATION
+
+
+Unless specified based on SORCERY sheet values of closest sorcery times 16... 
+	INCLUDING Difficulty Factor (df)!
+
+	BASE CAST CHANCE:	RANK*10 + SCF + BON - DF + MODS - MDF(if targetted)
+	CAST TIME:		12 hours (up to infinity)
+	SPELL POINT COST:	360 SPELL POINTS and up!
+	RANGE:			10*(AURA + RANK) in miles
+	Area of Effect:		Rank^4 objects, people, or 50 feet cubed, or 10 
+				foot^3 per rank
+	SAVES:			Quarter magic save cancels effects or halves effect
+	COMPONENTS:		Somatic and verbal componments required.  Prepared
+				material components are required as well as 
+				extensive magical preparation.  Unique items, positional
+				and temporal requirements, as well as elaborate staged
+				steps are usually involved.
+
+
+
+SORCERY
+
+SKILL           	MOD   	COST    CAST	RANGE     	DURATION
+                                    	TIME                  
+
+I.  The Sight
+
+DETECT POWER            +15	4 spl	4 cts	4*aura		2*drive
+DETECT MIND         	+5    4 spl 4 cts       3*aura    2*drive
+ELEMENTAL SIGHT       	+0    4 spl     4 cts       2*aura    2*drive
+SEE PLANES      	-10   5 spl   8 cts   na        2*drive
+IDENTIFY( POWER)        -10   8 spl   4 cts   2*aura    2*drive
+IDENTIFY(ITEM)          -40   15 spl    20-rnk      pers        cast time
+READ AURA   		-20   8 spl   10 cts    aura    2*drive
+FORESEEING      	-40   20 spl    1 min     na    4*drive
+
+II. Powers of the Mind
+
+TELEPATHY   		+0      5 spl 10 cts        5*aura      2*drive
+SHIELD                  +0     2+1/3 4 cts       pers  20*drive
+ATTACK         		-5     4+1/2 8 cts       2*aura    na
+READ MIND   		-10   ** 8 spl       10 cts    aura    2*drive
+TRUTH READ      	-30   8 spl   10 cts    aura    2*drive*
+
+
+III.The Conjuring Powers
+
+ASTRAL TRAVEL     	-15     10 spl        10 cts      pers        20*drive
+MIND TRAVEL         	-30       10 spl    20 cts      aura(m)   5*drive
+PLANE SHIFT         	-60       20 spl    40 cts      pers        spec
+
+
+IV.The Elemental Powers
+
+FIRE                    +10   SHAPE(-5)
+AIR            	 	+0    SUMMON
+WATER           	+0    BIND(-30)fire's mod becomes -10 for this
+LIGHT          		 -5    
+LIFE                    -10   SENSE(+0)
+NATURE          	-10   ATTACK(-10)
+DARK                    -15   IMMUNITY(-30)
+EARTH           	-20   COMMUNE(-5)
+DEATH           	-30
+ 
+V. Powers of the Soul
+
+ENCHANT             	+5      5+dsc/2   10 cts    aura/2      spec
+COMMAND             	-5      5+drv/2   4 cts   aura/2    40-drv
+CHARM          		-10   10+dsc    20 cts      aura/2  spec
+POSSESS            	-20   20+drv    10 cts      aura/2  spec
+
+VI.The Magical Powers
+
+SHAPING             	-5
+SHIELD                  -10   6+2/1   8 cts   pers  10*drive
+ATTACK          	-15   8+3/1   16 cts    2*aura      na
+STORING             	-20
+LINKING                 -25
+BINDING                 -30
+
+VII.The Material Powers
+
+MOVEMENT                -5    5+1/5#  12 cts  aura*2  drive
+SHIELD                  -5    4+1/1 6 cts       pers  10*drive
+ATTACK          	-10   6+2/1   12 cts    aura*2      na
+CHANGE SUBSTANCE        -60   50 spl
+ALTER SHAPE         	-30   25 spl
+
+
+notes:
+
+All ranges are in feet except those with (m); these are in miles.
+Most sorceries can be held for multiple durations without rolling again
+        so long as the base cost is paid over again.
+Abbreviated stats refer to the object of the spell not the caster.
+* requires a "read aura" to be going on simultaneously
+** each level of mind after surface(thought, deep, and inner) costs
+         another 10% to penetrate unless it is done one level at a time.
+Astral travellers travel 5* faster than normal,  mind travellers can travel
+        one mile per count or slower.
+Personal ranges can be made into area of effects: by paying total cost
+        for every aura/2 in feet radius; or by paying total cost for every 
+        "aur cubic feet" of wall the caster wishes.
+Mages draw in spell points at SCF/5 per count.  They always have SCF/2
+        around them.
+Achieving a mage trance gives 15% + 3% per rank in meditation.
+Touch adds 10% + 1% per count in contact with a maximum of SCF but
+        never lower than 10%.  "contact time" can include casting time!
+You may set up at 2% per count to a maximum of 20+KIF counts or
+        2*success chance whichever is lower to a minimum of 5%.
+A critical miss occurs at chance +50.  Every 10 points above that adds another 
+        level to the critical miss.
+A general focus is worth +10 or 5 points of POW; a specific focus is 
+        worth +20 or 10 points of POW; a personal focus is worth
+        +30 or 15 points of POW.  A focus takes 5 cts to apply.
+
+
+
+
+That's it!  Any questions?;-)  Sorcery sheet and school list to follow!
+
+	
+
+
+
+
+
+
+			
+

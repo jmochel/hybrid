@@ -1,0 +1,46 @@
+.Name LYRA
+.Title LAND LAW HEIR				  
+.Race 1/2ELF
+.Culture
+.Aspect 
+.PST 10
+.PEN 9		
+.DEX 14
+.PAG 18		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'2"      
+.WT 90		 
+.AGE ?
+.BeginDesc
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale CITY OF CIRCLES
+.BeginKnownAssoc
+ RULER OF HERUN,WIFE OF LERRYS ELHAYN
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends ERASTAMEN (DROW OF THE SILVER LIVES),CLARRISSA
+.EndFriends
+.BeginComment
+ MARRIED LERRYS AS A POLITICAL METHOD OF GETTING A PART TIME LOVER WITH 
+LITTLE INVOLVEMENT IN GOVERNMENT
+.EndComment
+.BeginPossess
+ BOOK OF PREDICTIONS 12 LEFT
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

@@ -1,0 +1,55 @@
+h44790
+s 00027/00000/00000
+d D 1.1 99/12/02 16:08:09 jmochel 2 1
+cC
+cK05571
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 99/12/02 16:08:05 jmochel 1 0
+c BitKeeper file G:/SpaceHybrid/worlds/tanah/races/torgan.rac
+cBjmochel@devilmountain.bedford.foliage.com|ChangeSet|19991202203126|52994|e2968a7f5cb68f67
+cHdevilmountain.bedford.foliage.com
+cK45048
+cPworlds/tanah/races/torgan.rac
+cReb4787d65cb68f68
+cZ-05:00
+c______________________________________________________________________
+e
+u
+U
+f e 0
+f x 33
+t
+T
+I 2
+\chapter*{Torgan}
+
+\section*{Statistics}
+
+\begin{itemize}
+        \item[Race Name] Tairganik
+	\item[Avg. Height] 6'1"/5'11"
+	\item[Avg. Weight] 200/170
+	\item[Skin Color] Olive
+	\item[Hair Color] Black to Dark Brown
+	\item[Eye Color] Light colors
+	\item[Stat Mods] PST +1, PEN +1, PAG +1, PSI -4, MST +1, MAG +1
+	\item[Inherent Skills]
+	Their sight extends somewhat into the IR range which allows
+	them to differentiate between reds much more than most.
+\end{itemize}
+
+\section*{Description}
+
+In general Torgans are a tall ( 6'1" Male and 5'11' Female)
+race of olive skinned individuals. Dark of hair (Black to
+dark brown with rare auburn ) with light eyes and Pronounced
+jawbones and Bicuspids. Eyebrows tend to arch toward the
+edges of the face. Ears are usually elongated and lobeless.
+
+\section*{Cultures}
+Tairganik
+E 2
+I 1
+E 1

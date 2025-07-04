@@ -1,0 +1,47 @@
+.Name ASTRIN
+.Title LAND LAW HEIR				  
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 10
+.PEN 16		
+.DEX 13
+.PAG 14		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 6'8"      
+.WT 250		 
+.AGE ?
+.BeginDesc
+ BLOND HAIR AND GRAY EYES
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale AMORY
+.BeginKnownAssoc
+ RULER OF YMRIS
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends MANY
+.EndFriends
+.BeginComment
+ AN IDEALIST AND A SCHOLAR WITH LITTLE ACTIVE GOVERNING ABILITY BUT		
+QUITE BELOVED OF HIS PEOPLE. NOT STUPID , JUST NAIVE.
+.EndComment
+.BeginPossess
+ STAFF OF WEATHER CONTROL
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

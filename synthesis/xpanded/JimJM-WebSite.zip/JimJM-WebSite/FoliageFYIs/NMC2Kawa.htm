@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad Software//DTD HoTMetaL PRO 6.0::19990601::extensions to HTML 4.0//EN" "hmpro6.dtd">
+<HTML> 
+    <HEAD> 
+        <TITLE></TITLE> 
+    </HEAD> 
+    <BODY> 
+        <H1>Kawa</H1> 
+        <H2>Installation</H2> 
+        <UL> 
+            <LI> Kawa Pro (4.01a) Java IDE <A HREF="file://///Longshot/Installs/Kawa/4.01/kinst401a.exe">kinst401a.exe</A><BR> or
+                download from <A HREF="http://www.tek-tools.com">www.tek-tools.com</A><BR> The key and password information required to register
+                can be found in <A HREF="KawaKeyAndCode.txt">this file</A></LI> 
+            <LI>Kawa Pro (4.1) Upgrade <A HREF="file://///Longshot/Installs/Kawa/4.10a Upgrade/kup41a.exe">kup41a.exe</A></LI> 
+            <LI> JDK1.2.2 Runtime JAR compiled with debug <A
+                HREF="file://///Longshot/Installs/Kawa/4.01/jdk122debug.zip">jdk122debug.zip</A>.</LI> 
+        </UL> 
+        <H2>Configuration</H2> 
+        <UL> 
+            <LI>Setup Kawa directory options to point to the bin directory 
+                <UL> 
+                    <LI>Set the binary directory (Customize | Options ... | Directories | Java Bin Directory ) to the bin directory
+                        of your JDK install (e.g. "E:\jdk1.2.2\bin" )</LI> 
+                    <LI>Set the doc directory (Customize | Options ... | Directories | Java Doc Directory ) to the doc directory of
+                        your JDK install (e.g. "E:\jdk1.2.2\docs" )</LI> 
+                    <LI>(optional) Set the doc directory (Customize | Options ... | Directories | Java Src Directory ) to the src
+                        directory of your JDK install (e.g. "E:\jdk1.2.2\src")</LI> 
+                </UL></LI> 
+        </UL> 
+        <H3><B>NMC2 Custom Parameters</B></H3> 
+        <UL> 
+            <LI> set up Kawa to work with our directory structure by defining the following the environment variables (Customize |
+                Custom Parameters): 
+                <UL> 
+                    <LI> <B>J2EE=</B>E:\j2sdkee1.2\ (Root for J2EE)</LI> 
+                    <LI><B>PICSHO</B><B>ME</B> = The root directory for the NMC2 source tree</LI> 
+                    <LI><B>MSVC_DIR</B>=Visual Studio Root Dir, <B>NOT Visual C++ Root Directory</B>.</LI> 
+                    <LI><B>WEBLOGIC=</B>E:\WebLogic (the Weblogic installation directory)</LI>
+                    <LI><B>SERVLET_CLASSES</B>=e:\weblogic\myserver\servletclasses </LI> 
+                </UL></LI> 
+        </UL> 
+        <H3><B>NMC2 Custom Commands</B></H3> 
+        <UL> 
+            <LI>Copy the custom command files from $\Kawa\cmd directory in the source tree into the kawa\cmd directory. </LI> 
+            <LI>Make those files read/write.</LI> 
+            <LI>From this point on there should be entries in the customize menu for making the Jar files.</LI> 
+        </UL> 
+        <P><B>Visual SourceSafe Integration</B></P> 
+        <UL> 
+            <LI> Set up Kawa to work with SourceSafe by selecting (Tools | Version Control | Setup...) in the Kawa menu.&nbsp; In
+                the dialog that comes up: 
+                <OL> 
+                    <LI> Set SCC Service Provider to "Microsoft Visual SourceSafe".</LI> 
+                    <LI> Select the "Open Project" button.</LI> 
+                    <LI> Check "Open an Existing Project". Select OK.</LI> 
+                </OL> 
+                <P>At this point you should have the Visual SourceSafe login Dialog from which you select the project database and
+                    working folder just as you would if connecting via VSS directly. </P> 
+                <P>There are a number of options on the Kawa dialog to customize behavior. </P> 
+                <P>You can access version control functions either though the Tools menu or by right-clicking in a source window
+                    (version control is the last option on the popup menu). <BR>&nbsp;&nbsp;</P></LI> 
+        </UL> 
+        <P><B>Local Debugging EJBs (Server Side)</B></P> 
+        <P> First, you must install JPDA (Java Platform Debugging Architecture) 1.0 from Sun.
+            <A HREF="file://///Foliage3/J/Java/jpda1_0-win.zip">jpda1_0-win.zip</A> Extract the contents of this archive into the root JDK
+            Directory (e:\jdk1.2.2). </P> 
+        <P>Next open the server side project to be debugged. </P> 
+        <P>Revise the classpath of the server side project to include poolorb.jar (as shown below)</P>
+        <IMG SRC="images/ClassPathForLocalServerDebug.JPG" WIDTH="515" HEIGHT="424" BORDER="0"> 
+        <P>Set the name of the class to be run to weblogic.Server</P> 
+        <P>Set the directory to be run from to be e:\weblogic or equivalent.</P> 
+        <P><IMG SRC="images/ClassNameForLocalServerDebug.JPG" WIDTH="502" HEIGHT="578" BORDER="0"></P> 
+        <P>Set the following options under (Project Interpreter | Options | Advanced | Property values) (you can copy the whole
+            string):</P> 
+        <P> ms64m <BR>mx64m<BR>java.compiler=NONE
+            weblogic.class.path=.\classes;.\license;.\lib\weblogicaux.jar;.\myserver\serverclasses
+            <BR>weblogic.home=.<BR>java.security.manager<BR>java.security.policy=.\weblogic.policy<BR><IMG
+            SRC="images/AdvancedPropertiesForLocalServerDebug.JPG" WIDTH="502" HEIGHT="577" BORDER="0"></P> 
+        <P>Under Customize | Options | Directories | Advanced Paths, enable the check box for "JVMDI Debug".</P> 
+        <P>Simply press F5 and the weblogic server should start up and generate its usual slew of information in the output tab at
+            the bottom of Kawa. Once the EJBs have been deployed, set your breakpoints (I haven't tried doing it before hand) </P> 
+        <P>Then start another version of Kawa and run the client you wish to debug.</P> 
+        <P><B>Local Debugging of EJB Client</B></P> 
+        <P>Debug as you would normally.</P> 
+        <H2>Troubleshooting</H2> </BODY>
+</HTML>

@@ -1,0 +1,43 @@
+.Name NAMEER
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 14
+.PEN 13		
+.DEX 10
+.PAG 15		
+.PAW 14
+.MST 16		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 5'2"      
+.WT 100		 
+.AGE 45
+.BeginDesc
+ 18:
+.EndDesc
+.BeginSkills
+Weapon: SLING			   , 
+.EndSkills
+.Locale TRAVELING
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

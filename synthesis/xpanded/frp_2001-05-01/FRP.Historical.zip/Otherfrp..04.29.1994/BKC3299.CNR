@@ -1,0 +1,53 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210161118.386;
+          10 Dec 91 16:11:45 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210161118.386;
+          10 Dec 91 16:11:32 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04622; Tue, 10 Dec 91 16:13:08 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA21323; Tue, 10 Dec 91 15:13:14 -0500
+Message-Id: <9112102013.AA21323@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2033; Tue, 10 Dec 91 15:13:12 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 7620;
+ Tue, 10 Dec 91 15:13:11 EST
+Date:         Tue, 10 Dec 1991 15:11:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Revised Attributes (Proposed)
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Proposed Attributes (Dualistic Model) -- Adam Dray
+
+
+CATEGORY            PHYSICAL               MENTAL
+-----------------+-----------------------------------------------------
+STRENGTH         |  Muscle (P)             Command (S)
+HEALTH           |  Health (P)             Sanity (M)
+ENDURANCE        |  Endurance (P)          Willpower (M)
+COORDINATION     |  Coordination (P)       Reason (M)
+SPEED	         |  Reflex (P)             Perception (M)
+BEAUTY           |  Appearance (S)         Charm (S)
+GRACE            |  Grace (S)              Empathy (S)
+-----------------+-----------------------------------------------------
+
+Muscle (P)       |  pure physical power
+Health (P)       |  body's ability to repair itself
+Endurance (P)    |  ability to take damage and pain
+Coordination (P) |  hand-eye coordination
+Quickness (P)    |  quickness of muscle (not reaction time!)
+Appearance (S)   |  attractiveness (body, face, etc.)
+Grace (P)        |  efficiency and beauty of motion
+
+Command (S)      |  leadership ability
+Sanity (M)       |  mental stability and capacity
+Willpower (S)    |  strength of character and mental fortitude
+Reason (M)       |  logical and mathematical ability, plus creativity
+Perception (M)   |  instinct, awareness, sharpness of senses
+Charm (S)        |  personality, "likeability"
+Empathy	(S)      |  understanding, ability to pick up others' feelings
+
+(  P Physical     M Mental       S Social  )

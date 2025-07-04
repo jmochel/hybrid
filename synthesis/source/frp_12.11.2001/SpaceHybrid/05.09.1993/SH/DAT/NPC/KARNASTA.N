@@ -1,0 +1,47 @@
+.Name KARN'ASTARI
+.Title LORD REGENT OF CULMAEIA		  
+.Race GREY ELF
+.Culture
+.Aspect 
+.PST 16
+.PEN 13		
+.DEX 14
+.PAG 17		
+.PAW 14
+.MST 10		
+.MEN 14
+.PSI 19
+.MAG 14
+.MAW 14
+.HT 6'4"      
+.WT 205		 
+.AGE 
+.BeginDesc
+ TALL AND VIOLET EYED. SEVERAL SCARS RUN COUNTER POINT TO THE LINES  
+OF AGE AROUND HIS EYES.
+.EndDesc
+.BeginSkills
+Weapon: LONGSWORD			  , 
+.EndSkills
+.Locale CULMAEIA
+.BeginKnownAssoc
+ SON NILREM,FRIEND KOREAL,AQUAINTANCE EZRA
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ +1 LONGSWORD, THE STAFF OF DIFFERENCES: TELEPATHIC & MEGA PROECT	
+IMAGE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

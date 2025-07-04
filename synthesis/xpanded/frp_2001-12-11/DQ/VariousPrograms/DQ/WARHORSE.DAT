@@ -1,0 +1,17 @@
+name      warhorse
+intell    high
+armour    3
+ht        60        72
+wt        1800      2000
+ps        55        60
+md        0         0
+ag        16        19
+tmr       10        10
+en        25        30
+fat       50        60
+wp        9         11
+ma        0         0
+pc        16        18
+pb        9         11
+attack1   45        +7
+attack2   25        +2

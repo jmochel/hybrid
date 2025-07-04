@@ -1,0 +1,36 @@
+H48848
+s 00006/00000/00000
+d D 1.1 01/07/13 18:14:21 jmochel 2 1
+cC
+cF1
+cK16700
+cO-rw-rw-rw-
+e
+s 00000/00000/00000
+d D 1.0 01/07/13 18:14:21 jmochel 1 0
+c BitKeeper file f:/Repository/mushin/docs/Articles/Biography.txt
+cBjmochel@devilmountain.corp.foliage.com|ChangeSet|20010713220415|54911|c62b2c90
+cHdevilmountain.corp.foliage.com
+cK60686
+cPdocs/Articles/Biography.txt
+cR4769a9a3
+cV4
+cX0xb1
+cZ-04:00
+e
+u
+U
+f e 0
+f x 0xb1
+t
+T
+I 2
+A misplaced Chemist working for Foliage
+Software Systems, a very sharp contract house. Currently working on an 
+information retrieval toolkit so I can organize my other hobbies.
+
+
+
+E 2
+I 1
+E 1

@@ -1,0 +1,47 @@
+.Name ALEESH
+.Title PRIESTESS OF SIF				 
+.Race HU
+.Culture
+.Aspect 
+.PST 15
+.PEN 18		
+.DEX 15
+.PAG 15		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 14
+.MAG 14
+.MAW 14
+.HT 5'6"      
+.WT 120		 
+.AGE 32
+.BeginDesc
+ 12: A PALE SKINNED WOMAN WITH SHORT( BOWL CUT) RED HAIR AND GREY	 
+EYES. TENDS TO DRESS IN PRACTICAL, ONLY SLIGHTLY ORNATE WEAR.
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale LEEWARD
+.BeginKnownAssoc
+ PRIESTESS OF THE CHURCH OF LEEWARD
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends KERKA'JAMEN
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+ LONGSWORD: STEEL WITH SILVER INLAY: +2								
+STAFF OF NEGATION: CONTRIBUTES 50% MAGICK RESISTANCE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

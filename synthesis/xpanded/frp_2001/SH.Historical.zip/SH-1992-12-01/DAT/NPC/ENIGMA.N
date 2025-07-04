@@ -1,0 +1,46 @@
+.Name ENIGMA
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 15
+.PEN 17		
+.DEX 16
+.PAG 15		
+.PAW 14
+.MST 18		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'8"      
+.WT 140		 
+.AGE 32
+.BeginDesc
+ BALDING, PALE SKINNED INDIVIDUAL WITH A LONG SCRAGGLY BEARD AND	 
+MISSING HIS FIRST FRONT TEETH. DARK BLUE EYES AND HEAVY WOOLEN ROBE WITH A BELT 
+MADE OF SHARKSKIN COMPLETE THE PICTURE.
+.EndDesc
+.BeginSkills
+Weapon: STAFF			   , 
+.EndSkills
+.Locale TRAVELING
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ A FAIRLY WILD CHARACTER .
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC
