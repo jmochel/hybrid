@@ -1,0 +1,44 @@
+.Name DELI'LAHST(F)
+.Title CLERIC AT LARGE				
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 8
+.PEN 12		
+.DEX 14
+.PAG 10		
+.PAW 14
+.MST 20		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'9"      
+.WT 130		 
+.AGE 38
+.BeginDesc
+ 16 LONG BLONDE HAIR WITH BLUE EYES AND A WINNING SMILE
+.EndDesc
+.BeginSkills
+Weapon: LONGSWORD(5)		, 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ JABATAN THE MONK
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

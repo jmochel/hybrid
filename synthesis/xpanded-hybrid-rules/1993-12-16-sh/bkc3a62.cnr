@@ -1,0 +1,63 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206171252.193;
+          06 Dec 91 17:13:34 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206171252.193;
+          06 Dec 91 17:13:23 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02445; Fri, 6 Dec 91 17:14:39 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA15647; Fri, 6 Dec 91 17:05:22 -0500
+Message-Id: <9112062205.AA15647@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 4027; Fri, 06 Dec 91 17:05:26 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 6891;
+ Fri, 06 Dec 91 17:05:25 EST
+Date:         Fri, 6 Dec 1991 17:03:26 EST
+Reply-To: hades%coos.dartmouth.edu@uga.cc.uga.edu
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Hades <hades%COOS.DARTMOUTH.EDU@uga.cc.uga.edu>
+Subject:      Re: Game Design: Checklist
+X-To:         GMAST-L%UTCVM.bitnet@dartcms1.dartmouth.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <no.id>; from "Jason D Parker" at Dec 6, 91 1:25 pm
+
+-- Jason D Parker writes --
+> This is indeed one of the biggest problems I've run into.  How do you
+> specify quality vs. quantity.  Often game attributes seem to mean both
+> depending on the situation.  The problem is basically this:
+>
+>   [Rock constitution example deleted]
+>
+> Obviously maybe CONS isn't the right attribute to be talking about.  But,
+> what is needed is a way to distingish between quality and quantity.
+
+    Actually constitution is a pretty good stat to deal with because it
+covers so many different aspects of physical makeup. Con is just too
+general a term if you want to deal with this level of detail. Possibly what
+needs to be done is a breakdonw of stats like con into slighly more
+specific categories, and give each of them its own score, and then you can
+see how the overall con of something could be the same value, but have a
+completely different composition depending on the con categories.
+
+> Also the quality of an object's attributes can change in a given situation.
+> Take a Steel Javelin for instance.  If I hold it horizontally and ram it
+> into the head of a Big ORC with a solid metal helm, it might bend or break
+> or push him back.  BUT, if I (as is more likely) thrust it at the head of a
+> Big ORC with a solid metal helm... Well you get the picture.  The quality
+> of an object often really depends on its application *and design*.  This is
+> what GMing is all about of course.  But a well designed system should help
+> out.
+
+    Well, I suppose that you could give the javelin an appropriate rating
+if used like a club, but that is about the only way around this situation.
+Maybe what you could do is give a damage rating for each type of use of a
+weapon: slash, stab, crush, and then use the appropriate damage class for
+the current use of the weapon. If you wanted to get crazy about it you
+could rate each of the weapons attributes based on each of the three damage
+types, and then use that set of stats for the appropriate situation.
+
+--
+-Hades  (Brian V. Hughes)   | "Impossible odds, mentally unbalanced foes,
+ Mac Database Administrator |  cramped quarters for a good punch-up. And
+ Cancer & Leukemia Group B  |  they say Iest has no night life!" - Cerebus
+ Dartmouth Medical School   | -Internet: hades@Coos.Dartmouth.Edu

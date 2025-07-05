@@ -1,0 +1,96 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210171052.393;
+          10 Dec 91 17:11:13 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210171052.393;
+          10 Dec 91 17:11:07 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04659; Tue, 10 Dec 91 17:12:43 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA09231; Tue, 10 Dec 91 16:17:57 -0500
+Message-Id: <9112102117.AA09231@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2682; Tue, 10 Dec 91 16:17:57 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 3172;
+ Tue, 10 Dec 91 16:17:33 EST
+Date:         Tue, 10 Dec 1991 16:15:33 EST
+Reply-To: hades%coos.dartmouth.edu@uga.cc.uga.edu
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Hades <hades%COOS.DARTMOUTH.EDU@uga.cc.uga.edu>
+Subject:      Re: RPG: Revised Attributes (Proposed)
+X-To:         GMAST-L%UTCVM.bitnet@dartcms1.dartmouth.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <no.id>; from "1667D876%KSUVXB.KENT.EDU@DARTCMS1.DARTMOUTH.EDU"
+              at Dec 10, 91 3:11 pm
+
+-- Adam Dray writes --
+>
+> Proposed Attributes (Dualistic Model) -- Adam Dray
+>
+>
+> CATEGORY            PHYSICAL               MENTAL
+> -----------------+-----------------------------------------------------
+> STRENGTH         |  Muscle (P)             Command (S)
+> HEALTH           |  Health (P)             Sanity (M)
+> ENDURANCE        |  Endurance (P)          Willpower (M)
+> COORDINATION     |  Coordination (P)       Reason (M)
+> SPEED	           |  Reflex (P)             Perception (M)
+> BEAUTY           |  Appearance (S)         Charm (S)
+> GRACE            |  Grace (S)              Empathy (S)
+> -----------------+-----------------------------------------------------
+
+    I think that use of the dualistic model as a starting point is okay,
+but it may be time to drop the cateogries becasue they seem redundant, and
+mmay even be confusing. Some people might not ba able to see the
+correlation between mental grace and empathy.
+
+> Muscle (P)       |  pure physical power
+
+    There might be some problems with expressing muscle density/mass and
+muscle tone. If you are trying to represent physical power why not call the
+stat Power and be done with it (Basis)?
+
+> Health (P)       |  body's ability to repair itself
+
+    I'm not sure what I would use, but Health seems a little bland a term
+for me here. I don't have a real problem with it, it's just bland.
+
+> Endurance (P)    |  ability to take damage and pain
+
+    This is also the degree to which you can physically exert yourself.
+
+> Quickness (P)    |  quickness of muscle (not reaction time!)
+
+    Um... Where did this come from, and what happened to reflex?
+
+> Grace (P)        |  efficiency and beauty of motion
+
+    I think that Agility is probably a better name. If you like please leve
+the category name as Grace, but I see physical grace as Agility.
+
+> Sanity (M)       |  mental stability and capacity
+
+    Are you planning on using this mental capacity as memory? It is very
+possible for a person to be insane yet posses a photographic memory. I
+don't see the need to have a stat that deals with the mental stability of
+the character. Capacity I think is very important, but not necessarily
+stability.
+
+> Willpower (S)    |  strength of character and mental fortitude
+
+    You see Willpower as a Social attribute? Then how can it account for
+mental fortitude? I think you have a typo here in your clasification of
+Willpower.
+
+> (  P Physical     M Mental       S Social  )
+
+    I'm not so sure that it is important for there to be a distinction
+for social attributes. Most "social" skills can be learned, and many of the
+social attributes that you have could be seen as either physical attributes
+or mental attributes depending on how they are played. I see them as adding
+to social skills, but not really needing their own classification.
+
+--
+-Hades  (Brian V. Hughes)   | "Impossible odds, mentally unbalanced foes,
+ Mac Database Administrator |  cramped quarters for a good punch-up. And
+ Cancer & Leukemia Group B  |  they say Iest has no night life!" - Cerebus
+ Dartmouth Medical School   | -Internet: hades@Coos.Dartmouth.Edu

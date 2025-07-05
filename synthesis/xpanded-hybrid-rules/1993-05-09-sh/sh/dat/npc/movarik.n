@@ -1,0 +1,46 @@
+.Name MOVARIK
+.Title HIGH HOLY ONE				  
+.Race CENTAUR
+.Culture
+.Aspect 
+.PST 9
+.PEN 15		
+.DEX 11
+.PAG 15		
+.PAW 14
+.MST 19		
+.MEN 14
+.PSI 13
+.MAG 14
+.MAW 14
+.HT			  
+.WT			 
+.AGE 
+.BeginDesc
+ 11
+.EndDesc
+.BeginSkills
+Weapon: WHEELBOW			 , 
+.EndSkills
+.Locale CENTAUR PLAINS
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends MERITH
+.EndFriends
+.BeginComment
+ BOTH A SPIRITUAL LEADER AND A PROTECTOR OF HIS CLANS.					
+HE SPECIALIZES IN HERBALISTIC SKILSS.
+.EndComment
+.BeginPossess
+ ARROWS OF SLAYING: 22 ASSORTED,+3
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

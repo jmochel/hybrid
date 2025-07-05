@@ -1,0 +1,95 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911210191240.402;
+          10 Dec 91 19:13:05 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911210191240.402;
+          10 Dec 91 19:12:56 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04711; Tue, 10 Dec 91 19:14:31 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03976; Tue, 10 Dec 91 17:47:45 -0500
+Message-Id: <9112102247.AA03976@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 3213; Tue, 10 Dec 91 17:47:50 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 8611;
+ Tue, 10 Dec 91 17:47:49 EST
+Date:         Tue, 10 Dec 1991 17:46:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: 1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu
+Subject:      RPG: Task Resolution
+X-To:         GMAST-L%utcvm.BitNet@uga.CC.UGA.EDU
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+From: Hades <hades@COOS.DARTMOUTH.EDU>
+
+>-- Adam Dray writes --
+>> This is what I'd call an inverse difficulty system.
+>
+>    Ok, so this is good. I mean really good. I like the way it takes an old
+>method of resolution and turns things around a little. It might take a
+>little getting used to concept wise. I'm sure that most people could handle
+>rolling under their skill or attirbute score, but the idea of rolling
+>differnet numbers of dice for different levels of difficulty might need
+>some mental adjusting too.
+
+You can thank Daniel Lawrence personally by buying his game, Adventure Quest.
+AQ is original and fresh in a lot of places.  I might be able to dig up an
+address if anyone is interested.  The game sells for less than $20.
+
+Gamers are reknowned for their ability to adjust to new systems.  I was at the
+AQ demos at GenCon, and no one had any trouble understanding the new dice
+system.
+
+
+>    Well, I suppose the only question I have about this so far, is how do
+>we control the increase of skills under this system? Would the player
+>always roll the highest number of dice (6d6) to see if a skill or attribute
+>increased? This is kind of a logical solution, since that is the only way
+>to increase a score beyond 30 to the maximum of 36, but if 36 is no the
+>maximum (still working for the open-ended system) then how do you decide
+>what to roll for skill increase?
+
+Your solution doesn't work.  It'd be harder to go from a 30-31 on 6d6 than from
+a 31-32...
+
+We could use a flat % chance of increasing the ability.  That doesn't allow for
+open-ended rolls, but no PC should EVER have skills anywhere NEAR 100 anyway...
+
+For all practical purposes, short of leaving it completely open-ended for
+application in a super-heroes game, this works.
+
+
+
+>    Just picking a nit here, but the % values that you use are for a skill
+>level of 9 and not 10...
+
+I wrote the program to generate the percentages at home, and ported the results
+to the DEC machine.  When I wrote the accompanying text, I realized that all my
+results were 1 row off (due to a computational mistake), so I fixed them.  Not
+well enough, I guess...
+
+
+NEW MATERIAL CONCERNING THE APPLICATION OF THIS SYSTEM---
+
+For opposing rolls (such as combat) we could let a player CHOOSE how many dice
+he would roll for an attack.  If he fails, his turn is over; he fails.
+
+If he succeeds, the opposing character must make a skill/attribute check using
+the SAME NUMBER OF DICE.  If he succeeds, then the attacker fails.
+
+
+Example: Arm Wrestling
+
+On Player X's turn, X decides to roll 4 dice.  He rolls 3d6 and successfully
+rolls under his Strength attribute, which is very high.
+
+Player Y has a low Strength, but has a moderate Arm Wrestling skill, which is
+added to Strength for this match.
+
+Y must roll less than that total on 4 dice to fend off X's arm-overbearing
+attempt.
+
+On Y's turn, Y chooses how many dice will be rolled...
+
+
+				Adam.

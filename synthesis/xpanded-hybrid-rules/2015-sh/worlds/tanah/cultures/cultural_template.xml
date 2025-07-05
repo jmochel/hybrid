@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.0">
+    <info>
+        <title>The XXXX Culture</title>
+        <subtitle>Some summary name ...</subtitle>
+        <author>
+            <orgname>Jim Mochel</orgname>
+            <address>
+                <city>Bellingham, MA</city>
+                <street>7 Walter Morse Rd</street>
+                <postcode>02019</postcode>
+                <country>USA</country>
+            </address>
+            <email>jim.mochel.per@gmail.com</email>
+        </author>
+    </info>
+    <sect1>
+        <title>Basic Overview</title>
+        <para>Summary description of the culture. </para>
+        <sect2>
+            <title>Setting and Resources</title>
+            <para>The general cultural and resource profile of the culture.These are the kinds of
+                things that others would know about this culture. This includes the natural
+                resources as well as the manufactured resources and other assets such as trained
+                people and so on. Should also include the basics of distribution as well as what
+                kind of trade structures are in place. This includes Static forces (AKA
+                Constraints), those resources that push for the status quo. These may be references
+                to already known external forces or ones that have not yet been mentioned. This
+                includes Dynamic forces, forces out of equilibrium. They force change. These may be
+                references to already known dynamic forces or ones that have not yet been
+                mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>How many and where are they</title>
+            <para>A general discussion of the size of the population and the distribution of the
+                population of this culture. Racial diversity. This includes Static forces (AKA
+                Constraints), those resources that push for the status quo. These may be references
+                to already known external forces or ones that have not yet been mentioned. This
+                includes Dynamic forces, forces out of equilibrium. They force change. These may be
+                references to already known dynamic forces or ones that have not yet been
+                mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>History</title>
+            <para>The general history of the culture. These are the kinds of things that others
+                would know about this culture. This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>Power structures</title>
+            <para>The general power profile of the culture.These are the kinds of things that others
+                would know about this culture. This includes straightforward governance, influence,
+                and organizations. It also includes enemies and alliances. It also includes military
+                structure and capabilities. This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>Social structures</title>
+            <para>The general social profile of the culture.These are the kinds of things that
+                others would know about this culture. This includes the social caste structure as
+                well as the typical customs..This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned. </para>
+        </sect2>
+        <sect2>
+            <title>Technology and magic</title>
+            <para>The general technologiocal and magical profile of the culture.These are the kinds
+                of things that others would know about this culture. This includes Static forces
+                (AKA Constraints), those resources that push for the status quo. These may be
+                references to already known external forces or ones that have not yet been
+                mentioned. This includes Dynamic forces, forces out of equilibrium. They force
+                change. These may be references to already known dynamic forces or ones that have
+                not yet been mentioned..</para>
+        </sect2>
+        <sect2>
+            <title>Communication, Transportation, and Education</title>
+            <para>The general technologiocal and magical profile of the culture.These are the kinds
+                of things that others would know about this culture. This includes the social caste
+                structure as well as the typical customs..This includes Static forces (AKA
+                Constraints), those resources that push for the status quo. These may be references
+                to already known external forces or ones that have not yet been mentioned. This
+                includes Dynamic forces, forces out of equilibrium. They force change. These may be
+                references to already known dynamic forces or ones that have not yet been
+                mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>Beliefs, Religion, Ethics, morals, and mores</title>
+            <para>The general belief structures profile of the culture.These are the kinds of things
+                that others would know about this culture. This includes the social caste structure
+                as well as the typical customs.This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned..</para>
+        </sect2>
+        <sect2>
+            <title>Artistic Expression</title>
+            <para>The general aesthetics profile of the culture.These are the kinds of things that
+                others would know about this culture. This includes Static forces (AKA Constraints),
+                those resources that push for the status quo. These may be references to already
+                known external forces or ones that have not yet been mentioned. This includes
+                Dynamic forces, forces out of equilibrium. They force change. These may be
+                references to already known dynamic forces or ones that have not yet been
+                mentioned.</para>
+        </sect2>
+        <sect2>
+            <title>Leisure and Recreation</title>
+            <para>The general relaztion profile of the culture.These are the kinds of things that
+                others would know about this culture. This includes Static forces (AKA Constraints),
+                those resources that push for the status quo. These may be references to already
+                known external forces or ones that have not yet been mentioned. This includes
+                Dynamic forces, forces out of equilibrium. They force change. These may be
+                references to already known dynamic forces or ones that have not yet been
+                mentioned.T</para>
+        </sect2>
+        <sect2>
+            <title>Organizations</title>
+            <para>The general organizations of the culture.These are the kinds of things that others
+                would know about this culture. This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned. This includes
+                the basics or size, distribution, history, economics and power </para>
+        </sect2>
+        <sect2>
+            <title>Communities</title>
+            <para>The general communities of the culture.These are the kinds of things that others
+                would know about this culture. This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned. This includes
+                the basics or size, distribution, history, economics and power </para>
+        </sect2>
+        <sect2>
+            <title>Optional Family Groups</title>
+            <para>The general communities of the culture.These are the kinds of things that others
+                would know about this culture. This includes Static forces (AKA Constraints), those
+                resources that push for the status quo. These may be references to already known
+                external forces or ones that have not yet been mentioned. This includes Dynamic
+                forces, forces out of equilibrium. They force change. These may be references to
+                already known dynamic forces or ones that have not yet been mentioned. This includes
+                the basics or size, distribution, history, economics and power </para>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Circumstances</title>
+        <sect2>
+            <title>Location and Climate</title>
+            <para/>
+            <sidebar>
+                <simplelist>
+                    <member>What does it look like?</member>
+                    <member>What is the geography?</member>
+                    <member>How accessible is this area?</member>
+                    <member>What natural features mark the borders? </member>
+                    <member>What are the most striking features of landscape, climate, animals, etc. in
+                        this area? </member>
+                    <member>What is the climate?</member>
+                    <member>What are the static forces in action around the Locale?</member>
+                    <member>What are the dynamic forces in action around the Locale?</member>
+                    <member>What are the static forces in action around the Climate?</member>
+                    <member>What are the dynamic forces in action around the Climate?</member>
+                </simplelist>
+            </sidebar>
+        </sect2>
+        <sect2>
+            <title>Flora</title>
+            <para/>
+            <sidebar>
+                <simplelist>
+                    <member>What sorts of food can be grown?</member>
+                    <member>What are the people's main crops?</member>
+                    <member>What flora are especially helpful? Like hemp and flax.</member>
+                    <member>What fruits vegetables can be turned into a liquor and/or drugs or
+                        medicines.</member>
+                    <member>Are there predatory plants?</member>
+                    <member>What are the sources of poisons?</member>
+                    <member>How much of the country is farmland? Forest? Desert? Mountains?
+                        Plains?</member>
+                    <member>What are the primary crops (e.g., potatoes, cotton, tobacco, coffee, rice,
+                        peanuts, wheat, sugarcane, etc.)? </member>
+                    <member>Are any grown mainly for export? </member>
+                    <member>What crops can not be grown here because of the soil, climate, or for other
+                        reasons?</member>
+                    <member>What are the static forces in action around the ... ?</member>
+                    <member>What are the dynamic forces in action around the ... ?</member>
+                </simplelist>
+            </sidebar>
+        </sect2>
+        <sect2>
+            <title>Fauna</title>
+            <para/>
+            <sidebar>
+                <simplelist>
+                    <member>What sorts of food can be hunted, caught?</member>
+                    <member>What animals are especially helpful to your world?</member>
+                    <member>What is a creature that preys on other nuisance creatures?</member>
+                    <member>What are he domesticated animals?</member>
+                    <member>What are the food animals?</member>
+                    <member>Which animals are used in medicine.</member>
+                    <member>What animals are used for poisons.</member>
+                    <member>What wild animals, actual or imaginary, live in this area? </member>
+                    <member>Are any of them potentially useful — e.g., for fur, whale oil, hides,
+                        magical ingredients, hat feathers?</member>
+                    <member>Which animals, actual or imaginary, are commonly domesticated in this area? </member>
+                    <member>Which aren’t here, but are elsewhere? (Example: water buffalo in India vs.
+                        oxen in Europe vs. camels in desert areas.)</member>
+                    <member>If there are imaginary animals (dragons, unicorns, etc.), how do they fit
+                        into the ecology? </member>
+                    <member>What do they eat? How much habitat do they require? </member>
+                    <member>Can they live anywhere, or do they prefer or need specific kinds of climate
+                        or terrain? </member>
+                    <member>Are they intelligent and/or capable of working spells, talking,
+                        etc.?</member>
+                    <member>What are the static forces in action around the ... ?</member>
+                    <member>What are the dynamic forces in action around the ... ?</member>
+                </simplelist>
+            </sidebar>
+        </sect2>
+        <sect2>
+            <title>Natural Resources</title>
+            <para/>
+            <sidebar>
+                <simplelist>
+                    <member>What of are the resources for survival?</member>
+                    <member>Which areas are the most fertile farmland? </member>
+                    <member>Where are mineral resources located?</member>
+                    <member>Which natural resources, if any, have been depleted in which areas over
+                        time?</member>
+                    <member>Which resources (e.g., coal, oil, iron ore, gold, diamonds, limestone, etc.)
+                        are particularly abundant, and in which areas?</member>
+                    <member>Which are scarce?</member>
+                    <member>Are there places where there are rich deposits that haven’t been discovered
+                        yet, or where they haven’t been fully exploited?</member>
+                    <member>What water resources available, and for what uses ?</member>
+                    <member>What are the contested resources?</member>
+                    <member>What are the static forces in action around the ... ?</member>
+                    <member>What are the dynamic forces in action around the ... ?</member>
+                </simplelist>
+            </sidebar>
+        </sect2>
+        <sect2>
+            <title>Magical Resources</title>
+            <para/>
+            <sidebar>
+                <simplelist>
+                    <member>How plentiful is mana ?</member>
+                    <member>What are the static forces in action around the ... ?</member>
+                    <member>What are the dynamic forces in action around the ... ?</member>
+                </simplelist>
+            </sidebar>            
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Language</title>
+        <sidebar>
+            <simplelist>
+                <member>How many languages are there? </member>
+                <member>Which ones are related (e.g., the Romance languages) and why? </member>
+                <member>Which languages borrow words or phrases from other languages? </member>
+                <member>Which is likely to be most widely spoken?</member>
+                <member>Is there a “trade language” that facilitates commerce between countries that
+                    don’t speak the same tongue? </member>
+                <member>Is there a “universal language” spoken by educated or noble persons, as Latin
+                    was in the Middle Ages?</member>
+                <member>What languages are spoken?, </member>
+                <member>How is the language recorded?, </member>
+                <member>is the society literate or illiterate?, </member>
+                <member>Is there a “trade language” that facilitates commerce between countries that
+                    don’t speak the same tongue?</member>
+                <member>Is there a “universal language” spoken by educated or noble persons, as Latin
+                    was in the Middle Ages?</member>
+                <member>Are some or all people bilingual?</member>
+                <member>Is there a common second language many people know?</member>
+                <member>Are there “secret” languages or codes known only by priests, soldiers, wizards,
+                    guild members, etc.?</member>
+                <member>Why were they developed?</member>
+                <member>What are the variations in speech patterns, syntax, and slang from one social
+                    class to another?</member>
+                <member>One occupation to another?</member>
+                <member>One region to another?</member>
+                <member>One race to another?</member>
+                <member>What areas do local slang phrases come out of?</member>
+                <member>(Example: in a fishing town, referring to good luck as “a good catch,” while
+                    people in a farming town refer to it as “an unexpected harvest”.) What kinds of
+                    colorful turns of phrase do people use?</member>
+                <member>What things in this culture would their language have many specific words for
+                    (e.g., Inuit languages that have 14+ words for different kinds of snow)?</member>
+                <member>What do the people in this culture consider important enough to name?</member>
+                <member>What does this say about the way they look at the world?</member>
+                <member>What things would the people of this culture not have a name for, or have one
+                    word that covers numerous variations?</member>
+                <member>What do they consider too unimportant to name?</member>
+                <member>How does this affect the way they see the world?</member>
+                <member>Are there words that must never be spoken except at particular times, in
+                    ceremonies, or under particular circumstances?</member>
+                <member>Are there words that must not be spoken in polite company?</member>
+                <member>Do these words differ from culture to culture or race to race?</member>
+                <member>What will people swear a binding oath by?</member>
+                <member>What do people use as curse words?</member>
+                <member>How many languages are there?</member>
+                <member>Which ones are related (e.g., the Romance languages) and why?</member>
+                <member>Which languages borrow words or phrases from other languages?</member>
+                <member>Which is likely to be most widely spoken?</member>
+                <member>What are the static forces in action around the ... ?</member>
+                <member>What are the dynamic forces in action around the ... ?</member>
+            </simplelist>
+            
+        </sidebar>
+        <sect2>
+            <title>Type and Dialects</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Spoken</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Written</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Usage</title>
+            <para/>
+        </sect2>
+    </sect1>
+    
+    <sect1>
+        <title>History</title>
+        <sidebar>
+            <simplelist>
+                <member>Where did civilization begin?</member>
+                <member>What directions did it spread?</member>
+                <member>How was its development affected by the presence of magic?</member>
+                <member>The presence of non-human races, if any?</member>
+                <member>The actions or direct interventions of the gods?</member>
+                <member>Which peoples/countries/races have traditionally fought, allied, traded, or
+                    been rivals?</member>
+                <member>Where are there still hard feelings about old events?</member>
+                <member>Which peoples/countries/races have been in conflict in the recent
+                    past?</member>
+                <member>Why?</member>
+                <member>When and why was the most recent war?</member>
+                <member>Who won?</member>
+                <member>What are the static forces in action around the ... ?</member>
+                <member>What are the dynamic forces in action around the ... ?</member>
+                
+                <member>Succession of rulers and/or changes in the form of government</member>
+                <member>Invasions, movements of peoples, or dramatic mass migrations</member>
+                <member>Disaster related to plague, fire, disease, famine, pestilence, etc.</member>
+                <member>Victory in war, establishment or expansion of colonies, major changes in
+                    borders, etc.</member>
+                <member>Take note of dates when a natural event reduced or increase the amount of
+                    natural resources (food, water, timber etc.) </member>
+                <member>Take note of dates when a unnatural event change the resources as
+                    well</member>
+                <member>Keep in mind recovering from war takes about a generation without any major
+                    wars.</member>
+                <member>Track specific dates one power shifted in civilizations (through who, death
+                    of a monarch that something) and one of the powershift was smooth.</member>
+                <member>How far back are there records or tales of historical events? </member>
+                <member>How widely known are these stories?</member>
+                <member>Do average people believe old tales, or do they dismiss some that have a
+                    basis in fact (e.g., Troy)?</member>
+                <member>Who are the neighboring countries/peoples and what are they like?</member>
+                <member>Why did people settle in this country in the first place — strategic
+                    location, trade route, water transport, minerals, good farming, etc.? \</member>
+                <member>Have things changed much since, or do they still depend on whatever brought
+                    them in the first place?</member>
+                <member>Who are the rivals or enemies of this country? How close are they
+                    physically? How powerful?</member>
+                <member>Who are the heroes and villains of each country’s history (e.g., Washington
+                    and Lincoln in the U.S.; Henry V in England, etc.)? </member>
+                <member>Why are they heroes/villains and what do this say about the country and the
+                    people who admire them?</member>
+                <member>Which peoples/countries/races have been in conflict in the recent past? Why?
+                    When and why was the most recent war? Who won?</member>
+                <member>Which peoples/countries/races fought, allied, traded, or were traditional
+                    rivals? Where are there still hard feelings about old events?</member>
+                <member>How do the weapons of this country compare with those of surrounding cities
+                    and countries?</member>
+                <member>Have there been recent innovations that may upset the balance of power, or
+                    is everyone more or less equal?</member>
+                <member>How many people are there in this country?</member>
+                <member>How does this compare with world population?</member>
+                <member>What is considered a small town/large town/city in terms of number of
+                    people?</member>
+                <member>How diverse is the population of this country — how many different races
+                    (human or non-human), creeds, etc. normally live in various cities and towns in
+                    this country?</member>
+                <member>In what percentages?</member>
+                <member>How do the weapons of this country compare with those of surrounding cities
+                    and countries?</member>
+                <member>Have there been recent innovations that may upset the balance of power, or
+                    is everyone more or less equal?</member>
+                <member>What are the static forces in action around the ... ?</member>
+                <member>What are the dynamic forces in action around the ... ?</member>
+            </simplelist>
+        </sidebar>
+    </sect1>
+    
+    <sect1>
+        <title>Organizations, Communities, Moeities, Clans, Family Groups and Players</title>
+        <sect2>
+            <title>Organizations</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Communities</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Moeities</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Clans</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Family Groups</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Guilds</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Players</title>
+            <para/>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>Conversations</title>
+
+        <sect2>
+            <title>Weather</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+
+        <sect2>
+            <title>Beliefs</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+            <sidebar>
+                <simplelist>
+                    <member>What are the beliefs of the society concerning life and death?</member>
+                    <member>What is considered good and what is considered evil?</member>
+                    
+                    <member>Who do they worship?</member>
+                    <member>Where do they worship?</member>
+                    <member>Are there any sacrifices?</member>
+                    <member>What role does religion play in their social lives?</member>
+                    <member>How do various religions, if any, view magic?</member>
+                    <member>Do any forbid it?</member>
+                    <member>Why or why not?</member>
+                    <member>Do any require priests/priestesses to be magicians?</member>
+                    <member>Do any forbid it?</member>
+                    
+                    <member>Are there actual gods/godlike beings?</member>
+                    <member>If so, do they take an active role in a) the temples, churches, and
+                        religions that worship them, or b) the lives of everyday people?</member>
+                    <member>Why or why not?</member>
+                    <member>How many gods are there, and is there a hierarchy among them?</member>
+                    <member>Which ones are good or evil, or is this meaningless when speaking of
+                        gods?</member>
+                    
+                    <member>How do various religions view non-believers?</member>
+                    <member>Foreigners?</member>
+                    <member>Non-humans?</member>
+                    <member>Which support the state/ruler/government, and which are interested mainly in
+                        ordinary people?</member>
+                    
+                    <member>Is there tension, rivalry, or outright hostility between any of the actual
+                        gods?</member>
+                    <member>How does this affect church politics?</member>
+                    <member>People’s everyday lives?</member>
+                    
+                    <member>Where does religion fit into this society?</member>
+                    <member>Is there a state church?</member>
+                    <member>Is freedom of religion the norm?</member>
+                    <member>Do people generally think of the temples/churches as parasites or as a
+                        useful part of society?</member>
+                    
+                    <member>Which ethical/moral decisions are considered the province of religion, and
+                        which are not?</member>
+                    <member>Do the gods care how people behave?</member>
+                    <member>Why or why not?</member>
+                    
+                    <member>If there are actual, demonstrable gods, what part does faith play in their
+                        worship?</member>
+                    <member>What are their various rites like, and why?</member>
+                    <member>What offerings are considered good, better, best?</member>
+                    <member>Are people supposed to pick one or more gods to worship and ignore the
+                        others, or does everybody officially worship everyone?</member>
+                    <member>How do people decide whom to worship?</member>
+                    <member>How do they decide which temple to be affiliated with?</member>
+                    
+                    <member>How much of a part do various religions and philosophies play in public and
+                        private life?</member>
+                    <member>Are philosophers and theologians considered ivory-tower academics, or do
+                        they debate in the marketplace, like Socrates?</member>
+                    <member>How much influence do their theories have on the way people actually
+                        behave?</member>
+                    
+                    <member>Are priests and philosophers full-time workers, or do they need day
+                        jobs?</member>
+                    <member>If they are full-time, who supports them — the congregation, a wealthy
+                        patron, the temple’s investment fund, the god they serve?</member>
+                    
+                    <member>Why are the gods interested in people?</member>
+                    <member>Are they like the Greek pantheon (quarrelsome, larger-than-life humans), or
+                        are they transcendent and incomprehensible?</member>
+                    <member>Do the gods have limits to what they can do?</member>
+                    <member>To what they will do?</member>
+                    <member>Can the gods make mistakes?</member>
+                    
+                    <member>How do the various temples and philosophies explain the classic “problem of
+                        evil”?</member>
+                    <member>Do they think bad things are always a just punishment for some
+                        transgression, a character-building exercise, the result of an evil antagonist
+                        (Satan, Loki) or just something the gods can’t prevent?</member>
+                    <member>What were the beliefs of the society concerning life and death</member>
+                    <member>one of the beliefs of the society concerning good and evil and what was
+                        considered good and evil</member>
+                    <member>who do they worship</member>
+                    <member>where do they worship</member>
+                    <member>are there any sacrifices</member>
+                    <member>what role does religion play in their social lives</member>
+                    <member>What are the static forces in action around the ... ?</member>
+                    <member>What are the dynamic forces in action around the ... ?</member>
+                </simplelist>
+            </sidebar>
+        </sect2>
+        
+        <sect2>
+            <title>Ethics, morals, and mores</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Aesthetics</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Play</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Economics</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Magic</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Magic</title>
+            <para>Declarations</para>
+            <para>Questions</para>
+            <para>Constraints</para>
+            <para>Forces</para>
+        </sect2>
+        
+        <sect2>
+            <title>Conversations of specific Organizations</title>
+            <sect3>
+                <title>Organization name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Communities</title>
+            <para>Includes social classes.</para>
+            <sect3>
+                <title>Community name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Moeities</title>
+            <sect3>
+                <title>Moeities name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Clans</title>
+            <sect3>
+                <title>Clans name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Family Groups</title>
+            <sect3>
+                <title> Family Groups name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Guilds</title>
+            <sect3>
+                <title>Guilds name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Players</title>
+            <sect3>
+                <title>Players name...</title>
+                <para>Declarations</para>
+                <para>Questions</para>
+                <para>Constraints</para>
+                <para>Forces</para>
+            </sect3>
+        </sect2>
+    </sect1>
+    
+    <sect1>
+        <title>Structures</title>
+        <sect2>
+            <title>Governance</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Jurisprudence</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Law</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Money</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Econonics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Communication</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Transport</title>
+            <para/>
+        </sect2>        
+        <sect2>
+            <title>Education</title>
+            <para/>
+        </sect2>      
+        <sect2>
+            <title>Magic</title>
+            <para/>
+        </sect2>      
+        <sect2>
+            <title>Social</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Religous</title>
+            <para/>
+        </sect2>      
+    </sect1>
+    
+    <sect1>
+        <title>Expressions</title>
+        <sect2>
+            <title>Beliefs</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Ethics, morals, and mores</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Aesthetics</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Play</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Organizations</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Communities</title>
+            <para>Includes social classes.</para>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Moeities</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Clans</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Family Groups</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Guilds</title>
+            <para/>
+        </sect2>
+        <sect2>
+            <title>Conversations of specific Players</title>
+            <para/>
+        </sect2>
+    </sect1>
+</article>

@@ -1,0 +1,106 @@
+\documentstyle[sh,relate]{book}
+
+% General Parms
+
+\newcommand{}[1]{{#1}\index{#1}}
+
+\hbadness=10000					% do not want underfull box messages
+\hfuzz=\maxdimen				% no overfull box messages either
+
+\topmargin=0in
+\textheight=9in					
+\textwidth=4.8in				
+\headsep=20pt
+\marginparsep=.2in
+\marginparwidth=2in
+
+\raggedbottom
+
+% Title Page
+
+\title{Fantasy/Space Hybrid : GMs Notes}
+\author{Jim Mochel}
+\date{\today}
+
+\begin{document}
+
+
+% The TOC
+
+\pagenumbering{roman}
+\tableofcontents
+\listoftables
+
+% Back to normal
+
+\pagenumbering{arabic}
+
+% The introduction
+\input{intro}
+
+% Notes on character generation
+\input{chargen}
+
+\input{weapon}
+
+% Include the Armour and Shield Formats
+\input{armor}
+
+% Include Chapter on Psionics
+\input{psi}
+
+% Include Chapter on Ki and Adrenal Moves
+\input{ki}
+
+% Include Chapter on Spell Casting
+\input{spell}
+
+\part{Technology}
+
+% Include the Research Rules
+\input{research}
+
+% Include The Rules on Computers
+\input{computer}
+
+% Include Rules on Robots, Cyborgs, and Androids
+\input{robots}
+
+% Include Rules on Healing and Medical Treatment
+\input{healing}
+
+% Include General Equipment Formats
+\input{ge}
+
+% Include Space Travel Chapter
+\input{space}
+
+% Include Discussions of Stellar Systems
+\input{systems}
+
+% Include Discussions of Lifeforms
+\input{bio}
+
+% Include Culture Delineation Notes
+\input{culture}
+
+% Include Notes on Trade and Commerce
+\input{trade}
+
+% Include The Chapter on Governments
+\input{govt}
+
+% Include the chapter on Cartography
+\input{cartog}
+
+\part{Appendices}
+
+\appendix
+
+% Include the Appendix on Skill Design
+\input{skilldes}
+
+% Include the Appendix on Weapons Design
+\input{wpndes}
+
+\end{document}

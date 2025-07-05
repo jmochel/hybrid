@@ -1,0 +1,97 @@
+Designation of Poisons
+I. Name-Path-Type-Onset-Duration-Potency Loss-Damage-Description-Comment
+
+A. Path
+i. lnsinuative(lN) -
+a. lnsinuative poisons are those that require a break in the skin in
+order to enter the blood streal and take action.
+2. Contact(BD) '
+a. Contact poisons are those that can be absorbed through the skin.
+Typically these poisons take longer to enter the system and take
+effect.
+3. lngestive(IE) ’
+a. lngested poisons are those that are taken into the body by food
+or drink. These are the most common and generally the most effective
+effective of all poisons.
+4. Airborne(AP)
+a. Airborne Powder poisons are those rare toxins that are taken into
+the body by being inhaled. There are only a few of these in
+existence. A
+
+
+a. Gas poisons are taken into the body by being inhaled. There are
+only a few of these in existence. Rarely are they carried in
+their natural state. Usually the materials needed to create then
+are carried and combined at the site of deployoent.
+
+B. Special(SPC)
+a. Any of a variety of other paths that are truly out of the
+ordinary.
+
+
+B. Type .
+1. Death Dealing(DD)
+a. Death Dealing poison require the victil to roll a saving throw.
+lf that saving throw is failed then the user will die at the end
+Y of he duration of the poison's effect.
+2. Paralytic(P)
+a. Paralytic poisons require a saving throw versus paralysation. lf
+failed the character will be limited in action until the end of
+the poison's duration
+3. Danage(Dl
+a. Danage doing poisons are the most common. They require a saving
+throw against poison. If the save is failed the character will
+take damage as detailed by the fifth element in the poison
+designation. The damage will be taken once per each basic time element. As an example, if a poison has a duration of 10 rounds
+and a daoage of ld6 then the character takes ld6 of damage per 1 round.
+
+
+Hallucinogenic(H)
+
+Hallucination poisons are uncoeeon but often effective. If a save
+is made then the character is able to ignore the shades his lade
+is throwing up on all sides of hie. lf he fails then his actions
+are slowed to half speed and he gets a minus in coebat equal to
+i/2 the amount he pissed the ST by.
+
+Sleeping (SL)
+Sleep poisons are fairly straight forward. A ST is eade at the
+onset of the poison. If failed the character falls asleep. The
+character is entitled to another ST at halfway through the
+duration.
+
+Special ial(SPCl '
+These are special effect poisons that have non-standard effects
+
+
+Onset time 
+escribed in the Haterials Designation
+
+duration
+escribed in the Haterials Designation
+
+Potency loss
+escribed in the Haterials Designation
+
+Damage 
+first character is the number of diet damage, the second character is the size of the die, and then a modifier
+2d6+2
+
+ll. Insinuative Poisons Coats Per Dose
+
+Dart         8             
+Arrow        4             
+Dagger       2
+Hand Axe     2
+Scinitar     1
+Spear        1
+Pole Are     1 Edge        
+Short Sw     l Edge
+Broadswo     half of an inch
+Bastard 			one half of an edge
+Longsuor     one half of an edge 
+T-sword      one third of an edge 
+             rd    
+                     
+III. Typically raw plant poisons are less effective and eore subject to potency
+loss than poisons prepared fro: the plant.

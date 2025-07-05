@@ -1,0 +1,48 @@
+.Name MAXIMUS
+.Title THAT BASTARD					  
+.Race ?
+.Culture
+.Aspect 
+.PST 5
+.PEN 10		
+.DEX 11
+.PAG 5		
+.PAW 14
+.MST 23		
+.MEN 14
+.PSI 20
+.MAG 14
+.MAW 14
+.HT 5'6"      
+.WT 140		 
+.AGE ?
+.BeginDesc
+ A SHRUNKEN SHRIVELED BALD AND DISORGANIZED LITTLE MAN.
+.EndDesc
+.BeginSkills
+Weapon: NONE				  , 
+.EndSkills
+.Locale OFF PLANE
+.BeginKnownAssoc
+ MANY
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends FEW
+.EndFriends
+.BeginComment
+ PSIONICS																
+500/500 ALL ATTACK ALL DEFENSES													
+ESP,SUSPEND.ANIMATION,HYPNOSIS,DETECT OF MAGIC,LEVITATION,ENERGY				
+CONTROL,DIMENSION WALK.
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

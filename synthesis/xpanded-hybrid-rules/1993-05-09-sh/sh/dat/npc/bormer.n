@@ -1,0 +1,51 @@
+.Name Bormer the Stormer
+.Title High Lord Priest				 
+.Race DWF
+.Culture
+.Aspect 
+.PST 17
+.PEN 20		
+.DEX 12
+.PAG 12		
+.PAW 14
+.MST 17		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 4'2"      
+.WT 120		 
+.AGE 869
+.BeginDesc
+ 12: A pudgy cleric of feeble appearance. Long white hair that hides 
+a large number of battle scars. He has a slight stutter.
+.EndDesc
+.BeginSkills
+Weapon: HAMMER (+1/+3) prof, 
+.EndSkills
+.Locale Annon Barad
+.BeginKnownAssoc
+ High Priest of Moradin
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+He is generally regarded as a joke but some few remember that he is	
+named the stormer for a good reason. He is feeble looking, feeble sounding and  
+very very dangerous.
+.EndComment
+.BeginPossess
+ A small hand hammer that does 6 structural points of damage upon	
+invocation with the phrase: "Sunder". A small magical timepiece accurate to the 
+minute.
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

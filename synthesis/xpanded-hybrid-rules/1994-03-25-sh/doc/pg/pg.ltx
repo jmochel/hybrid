@@ -1,0 +1,65 @@
+% pg.ltx
+% SH Players Guide
+% 12/31/91	JSM	Created
+%
+\documentstyle[sh,stable,relate]{book}
+
+% General Style notes
+
+\newcommand{}[1]{{#1}\index{#1}}
+
+\hbadness=10000					% do not want underfull box messages
+\hfuzz=\maxdimen				% no overfull box messages either
+
+\topmargin=0in
+\textheight=9in					
+\textwidth=4.8in				
+\headsep=20pt
+\marginparsep=.2in
+\marginparwidth=2in
+
+\raggedbottom
+
+% Title Page
+
+\title{Fantasy/Space Hybrid\thanks{Copyright 1988,1989,1990,1991,1992,1993} : Players Guide }
+\author{Jim Mochel}
+\date{12.20.93}
+
+% Begin the Document
+
+\begin{document}
+\setlength{\relateleft}{0in}
+
+% The TOC
+
+\pagenumbering{roman}
+\tableofcontents
+\listoftables
+
+\pagenumbering{arabic}
+
+% Include Introduction Chapter
+\input{intro}
+
+% Chapter on Character Generation
+\input{chargen}
+
+% Include skill notes
+\input{skills}
+
+% Include simplified chapter on play mechanics
+\input{gpm}
+
+% Include Chapter on Combat Mechanics
+\input{combat}
+
+% Include Non-Combat Mechanics
+\input{npcpc}
+
+\begin{theindex}
+	
+\end{theindex}
+
+\end{document}
+

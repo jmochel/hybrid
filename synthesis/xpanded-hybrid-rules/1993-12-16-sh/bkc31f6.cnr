@@ -1,0 +1,50 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911208171031.245;
+          08 Dec 91 17:11:35 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911208171031.245;
+          08 Dec 91 17:11:30 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03472; Sun, 8 Dec 91 17:12:21 EST
+Received: from uga.cc.uga.edu by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA23350; Sun, 8 Dec 91 15:49:25 -0500
+Message-Id: <9112082049.AA23350@relay2.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 9234; Sun, 08 Dec 91 15:44:34 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 6967;
+ Sun, 08 Dec 91 15:44:24 EST
+Date:         Sun, 8 Dec 1991 15:24:33 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: "James 'T. Kirk' Mochel" <JIM%OAK.COM@uga.cc.uga.edu>
+Subject:      re: game design -- having an arbitrator
+X-To:         GMAST-L%UTCVM.BITNET@uga.cc.uga.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+> in the UD project.  They are too time consuming.  I think that a variation
+> of the net-votes is the way to go.  After some time kibitizing around to
+> set down some guidelines (basic concepts, etc) for the game, we should
+> each work on a module -- keeping the rest appraised of out endeavors.  If
+> other members wish to comment on someone elses ongoing work, they can --
+> using the GUIDELINES as the final arbiter of disputes.
+
+Sounds good, Except for the following(1*):
+    Game design is not composed of a series of design tasks easily
+    seperable from one another the way a programming project is.
+    The step you pass over so blithely, creating the basic concepts,
+    is where 90% of your design work will actually be. If it is not,
+    then each change in some portion of the rule system will cause
+    ripples through each other component of the design. Try changing
+    movement rules in any system that does not have a unified design
+    concept such as AD&D(2*) without modifying the combat and spell
+    casting sections ! Besides, I would love to see people agree on
+    the GUIDELINES !
+
+    1*) Keep in mind that I tend to design from the reality
+    standpoint. If you want to ignore reality then internal
+    consistency becomes a lot less important.
+
+   2*) Not knocking AD&D, just acknowledging that AD&D was designed
+   without any overall concern for internal consistency or connections
+   with reality.
+
+Jim M.

@@ -1,0 +1,80 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911211051109.418;
+          11 Dec 91 05:11:33 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911211051109.418;
+          11 Dec 91 05:11:30 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA04955; Wed, 11 Dec 91 05:12:59 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA18131; Wed, 11 Dec 91 00:30:04 -0500
+Message-Id: <9112110530.AA18131@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 4652; Wed, 11 Dec 91 00:30:12 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 2443;
+ Wed, 11 Dec 91 00:30:11 EST
+Date:         Wed, 11 Dec 1991 00:29:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: "Loren J. Miller" <MILLERL%WILMA.WHARTON.UPENN.EDU@uga.cc.uga.edu>
+Subject:      Re: RPG: Attributes
+X-To:         GMAST-L%UTCVM.BITNET@uga.cc.uga.edu
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+As long as you're categorizing character abilities in a sort of chart,
+you might want to look at a chart I made up a while ago and adapted to
+the discussion. There are four groups of abilities, and four classes
+of ability for each group.
+
+Like this...
+
+            Physical   Mental      Social      Spiritual*
+Power       Strength   Ego         Charm       ?
+Accuracy    Dexterity  Perception  Empathy     ?
+Quickness   Agility    Reaction    Contacts    ?
+Toughness   Endurance  Will        Reputation  ?
+
+* I can't think of good individual names for the spiritual stats. Note
+that the Spiritual ability group could also be called Astral, Magical,
+or Psionic, depending on the genre of the game you're playing.
+
+Each ability group would govern skill use in one area of the game. The
+Physical group would govern physical skills and combat, the Mental
+group would govern mental skills and contests, the Social group would
+govern social skills and contests, and the Spiritual group would
+govern magical, psionic, and religious skills and contests. The
+various classes of ability would be used to judge skill use, with the
+Power class determining damage or effect, Accuracy determining
+probability of success, Quickness determining whether you are on the
+offensive or defensive, and Toughness determining how vulnerable you
+are. The resulting array is extremely modular, scalable, and makes it
+very easy to write broadly usable game systems.
+
+One way to determine character abilities would be to have each
+character generate 8 ability scores, 4 for the groups and 4 for the
+classes, and add or multiply them for the inner scores, as it seems
+that they should be correlated.
+
+For instance, I might have a character rolled on D10 with Power 1,
+Accuracy 10, Quickness 9, Toughness 3, Physical 7, Mental 1, Social 1,
+and Spiritual 5. His resulting ability array or matrix would look
+like this (left is added, right is multiplied):
+
+            Physical 7 Mental 1    Social 1    Spiritual 5
+Power 1     8  / 7     2  / 1      2  / 1      6  / 5
+Accuracy 10 17 / 70    11 / 10     11 / 10     15 / 50
+Quickness 9 16 / 63    10 / 9      10 / 9      14 / 45
+Toughness 3 10 / 21    4  / 3      4  / 3      8  / 15
+
+Another possibility would be to roll once for each group and class,
+and once for each cell in the matrix, and then total each cell up with
+the corresponding group and class. This would match the 3Dx method of
+character generation.
+
+Consider this Public Domain (PD) 1991 by Loren J. Miller, All rights
+reversed.
+
+whoah,
++++++++++++++++++++++++23
+Loren Miller                  internet: MILLERL@wharton.upenn.edu
+When I use a word it means just what I choose it to mean--neither
+more nor less.                                   -- Humpty Dumpty

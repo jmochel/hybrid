@@ -1,0 +1,42 @@
+.Name LIANNAN
+.Title								
+.Race HU
+.Culture
+.Aspect 
+.PST 12
+.PEN 11		
+.DEX 15
+.PAG 12		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 18
+.MAG 14
+.MAW 14
+.HT 5'6"      
+.WT 84		 
+.AGE 
+.BeginDesc
+.EndDesc
+.BeginSkills
+Weapon: DAGGERS				 , 
+.EndSkills
+.Locale
+.BeginKnownAssoc
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+.EndComment
+.BeginPossess
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic
+.BeginSpells
+.EndSpells
+.EndNPC

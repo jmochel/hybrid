@@ -1,0 +1,350 @@
+\chapter{General Playing Mechanics}
+
+\section{Introduction}
+
+This chapter discusses various critical pieces of the game system that 
+effect just about every character. They are not specific to either 
+combat or non-combat situations. 
+
+In situations that involve any type of conflict, whether physical, 
+mental or verbal, the decision on who acts first may be 
+critical\footnote{ Note in the design notes that we have intentionally 
+removed first action determination from the Combat section}.
+
+The total model of Space Hybrid centers around an reaction/action sequence.
+The character determines when his reaction will occur and at that time 
+declares his action. The action speed is added to the time of the reaction 
+and the total is when the actual action finishes. Once the action has 
+occurred the character rerolls initiative unless he is acting on a
+preset action. 
+
+\section{Time Scale}
+\INDEX{Time Scale}{Time scale}
+
+Time is typically broken down into the following common units:
+
+% Include Time Scale Table
+\input{tgpm1}
+
+In general the more tense or critical an action is, the smaller the unit
+of time that is used by the GM. 
+
+\section{Perception}
+
+At the point where an action occurs that may require action on the part
+of the player a perception roll is made.
+
+\section{Initiative or Reaction}
+\INDEX{Initiative}{Initiative}
+
+Initiative is broken down into two areas: engaged and unengaged 
+initiative. Unengaged initiative is rolled when the individuals 
+involved are first aware (i.e. Focusing on each other) of each other but or
+when this is the first initiative roll to be made by a character. 
+
+Engaged initiative is rolled at any other time.
+
+\subsection{Unengaged Initiative}
+\INDEX{Unengaged Initiative}{Initiative}
+
+Unengaged Initiative rolls are merely GAW, PAW, or MAW rolls made 
+against the appropriate EF. 
+
+There are, of course, modifiers to this roll as detailed in table 
+~\ref{tab:UnengagedInitiativeMods}
+
+The speed of reaction is given by dividing the SN of the roll by 10.
+This speed is subtracted from 10 and that is how many counts it takes 
+the character to react.
+
+% Initiative Roll Modifiers
+\input{tgpm6}
+
+The concept of suprise as such does not really exist as a seperate 
+state. A character who is suprised is one who was not actively 
+watching who got a poor roll at EF -3. There is a situation associated 
+with poor Unengaged Initiative rolls called Default Actions. See 
+section \ref{sec:DefaultActions}
+
+\subsection{Engaged Initiative}
+\INDEX{Engaged Initiative}{Engaged Initiative}
+
+The most basic engaged initiative is gotten by rolling 2d10 and 
+subtracting the character's speed and his speed for the rank he has 
+in the skill he is using.
+
+\subsubsection{Character Speed}
+\INDEX{Character Speed}{Character Speed}
+
+The characters speed is taken from table~\ref{tab:CharSpeed} on page~\pageref{tab:CharSpeed}
+. In reality, the character has a range of speeds depending on the 
+given modifiers, but most situations will require the speed for EF =
+7.
+
+\input{tgpm5}
+
+\subsubsection{Speed Gains Due to Rank in a Skill}
+
+The character may add \( Rank/3 \) points to their speed when using a
+skill. This may only be done once the character has decided to use a
+given skill. 
+
+\section{Preset Reactions}
+\INDEX{Preset Reactions}{Preset Reactions}
+
+A character may decide to preset a reaction. A preset reaction is 
+attempt to make yourself sensitive to a specific stimuli to the exclusion
+of all other stimuli. The advantage is that it allows an additional EF +2 
+to an unengaged initiative roll. The disadvantage is that it adds EF 
+-3 to any other perception roll. Gunfighters waiting on someone elses 
+draw of a weapon would preset a reaction. 
+
+A character does not have to be actively watching in order to preset 
+a reaction.
+
+A Preset reaction may only be held for MST in the time scale 
+that the players are working in before a cost of 1 MFT must be 
+expended.
+
+An engaged individual gets to roll 1d10 rather than 2d10 for 
+initiative.
+
+\begin{quote}
+Isaac (GAW = 20) expects to be attacked while walking in the alley. 
+He states that he is actively watching for attack and , when he is 
+attacked, he will dodge. When he is attacked he gets to roll 
+initiative.  
+
+Since he is actively watching he gets an EF +2 modifier to his 
+Unengaged Initiative roll in addition to the EF +2 modifier for the preset. His 
+total is \( EF = 7+2+2 = 11\). His awareness is currently a 110\% and
+he rolls a 51. His SN is 59, or a 6 speed. So he reacts in \( 10 - 6
+= 4 \) counts or 4/5 of a second. So at count 4 he can start a dodge.
+\end{quote}
+
+\begin{quote}
+Reginard (PAW = 18) is tucked around a corner in the alley listening 
+for someone to mug. He is using only his hearing and is actively 
+listening. When he hears someone just around the corner he is going 
+to jump around the corner and slash at him with a dagger.
+
+Because he is actively listening he gets EF +2. Because he is 
+concentrating on PAW he gains an additional EF +2. Because he is 
+using a preset he gets an EF +2. The total is \( EF = 7+2+2+2 = 13\).
+His awareness for EF 13 with a SB of 9 is 117\%. 
+
+He rolls a 64. His SN is 53 or 5 speed points. He reacts in \( 10 - 5
+= 5\) counts so he can start his attack 5 counts after he hears a
+noise.
+\end{quote}
+
+\begin{quote}
+Reginard, upon leaping out from the corner starts his attack. The 
+dagger he is using has a speed of 2 so his attack occurs at count \( 
+5 + 2 = 7 \). 
+
+Isaac, upon hearing the noise starts his dodge at count 4, it has a
+speed of 3 counts so he completes his dodge at count 7. 
+
+The attack fails ( we are not showing the attack resolution process 
+here) and both must reroll initiative. Both roll 2d10 and subtract 
+their speed for EF 7. If Reginard continues to use his dagger he will 
+be able to subtract his speed bonus for his rank in dagger. 
+
+\end{quote}
+\section{Actions}
+\INDEX{Actions}{Actions}
+
+Actions normally begin at the count given by the initiative roll. The 
+decision about what action is to be performed, if not already made,  
+must be made at this point. The speed of the action is determined and 
+the character takes this action on a pulse given by Initiative +
+Action Speed.  
+
+\begin{quote}
+Rashid "the Twitch" (GAW=24) is walking past an alley when he notices the 
+altercation in the alley. He is not actively watching (EF -3), so he 
+rolls on the EF= 4 column. So his awareness is \( 4 \times 12 = 48\% 
+\).  Rashid rolls an 80 and thus his initial speed is -32/10 or -3. 
+He starts his reaction \( 10 - -3 = 13 \) counts after hearing the 
+noise. 
+\end{quote}
+
+\section{Speeds of Actions}
+
+Most actions have a speed associated with them. All simple actions 
+, unless otherwise noted, have a standard speed of 5 counts. 
+ 
+% Speeds of Basic Actions
+\input{tgpm7}
+
+\section{Default Actions}\label{sec:DefaultActions}
+
+\section{Speeding up Actions}
+
+Speeding up an action to 1/2 as long, causes the action to have 1/2 the 
+EF. Round to the Worst. At no point can an action take less than 1/3 
+of its base speed.
+
+\section{Drawing a Tool or Weapon}
+
+This most often applies to drawing a weapon but can also apply to 
+other tools.
+
+In general, when a weapon is in hand, all normal weapon speeds apply. 
+
+In order to get a weapon into ones hand it takes \( 2 \times 
+Speed_{weapon} \) in pulses. 
+
+In order to get a weapon in hand faster than \( 2 \times 
+Speed_{weapon} \) requires a fast draw or ready roll against the weapon's 
+skill. A successful ready roll brings the tool or weapon to bear at 
+\( Speed_{weapon} \).  
+
+\begin{quote}
+When count 18 comes around Rashid attempts to fast draw his Isaac 
+starts his dodge on 9, the speed of the dodge is 5 counts so 
+Isaac starts his dodge on 9 and ends it on count 14. 
+\end{quote}
+ 
+
+\section{Resolving an Action}
+Actions usually require only a skill roll to be made. 
+
+\begin{quote}
+Isaac starts his dodge on 9, the speed of the dodge is 5 counts so 
+Isaac starts his dodge on 9 and ends it on count 14. 
+\end{quote}
+
+\section{Multiple Actions}
+
+For each ``Task'' there are a number of actions that can be performed. 
+If the actions involved in the task are simple the GM may choose to
+resolve  them with one roll rather than resolving each individual
+action. This may best  be done when each action is simple ( i.e. EF >=
+6). 
+
+Jogging across the street and leaping a small fence is something suited
+to being a task. Normally though, the GM would not normally even ask
+the character to roll a task roll simply because the actions are all
+very easy. But if the character stands the chance of being exposed to
+someone looking for him then a roll should be made. 
+
+The EF for the ``Task'' Roll is given by \[ EF_{Task} = 5 - ( 1/2
+\times {Number\ of\ Actions }) \]  The Gain Value for task roll is
+excellent success. This is a``Shifted Result'' roll. It is shifted to
+the less severe result. A Normal failure is a success, a Normal
+Critical Failure is a Normal Failure, etc \dots
+
+The experience points gained from a task roll match whatever the
+final roll is. Those points may be distributed among any of the skills used
+in the task.
+
+\section{PFT Cost of Actions}
+
+An individual can use a great deal of energy in performing actions in
+combat or doing other simple tasks. For each period of activity {\em
+when the activity is over} the cost of the character's activity is
+subtracted from the PFT of the character.
+
+\footnote{What are the time interval breakdowns for PFT loss} 
+
+% PFT Loss Numbers for a given activity
+\input{tgpm8}
+
+\section{MFT Cost of Actions}
+
+An individual can use a great deal of energy in performing actions in studying or
+doing other simple tasks. For each period of activity {\em when the 
+activity is over} The cost of the activity is subtracted from the 
+MFT of the character.
+
+% MFT Loss Numbers for a given activity
+\input{tgpm9}
+
+\section{Physical Movement}
+\INDEX{Physical Movement}{Physical Movement}
+
+Each character has a statistic named Physical Movement. This is the character's
+movement in meters/second at a dash. There are a total of five different types
+of movement that a character may utilize. Each type of movement has its own
+movement rate which is derived from the character's movement statistic. 
+Ideally the player will have the full range of movements listed on his 
+character's sheet. 
+
+% Include Movement Types Table
+\input{tgpm2}
+
+\begin{quotation}
+As an example, Joe Daring has a PST of 16 and a PAG of 16. His movement is
+\( {{(16 + 16)} \over 4} = 8 \) . So Joe can Dash at 8 m/sec, run at 4 m/sec, jog
+at 2 m/sec, walk at 1m/sec and crawl at .5 m/sec.
+\end{quotation}
+
+If the movement is being resolved during a time scale of greater than every
+pulse one can get the distance traveled by simply multiplying the movement 
+of the individual times the time spent moving. The time spent accelerating
+is ignored as being negligible.
+
+\begin{quotation}
+Let us say that Joe Daring spends 15 seconds running down a deserted street.
+If he doesn't run out of street he will have covered 4 * 15 = 60 meters. If 
+this seems a bit short, keep in mind that a run is not a full dash. At a full
+dash Joe would have covered twice the distance and would be slowing down pretty 
+drastically due to losing wind.
+\end{quotation}
+
+\subsection{Acceleration}
+\INDEX{Acceleration}{Acceleration}
+
+\marginpar{It is important to remember that the accellaration rules 
+should only be used when the distance travelled by the characters 
+over a {\bf short period} of time is important }
+
+In dealing with movement on a pulse by pulse scale we need to actually
+deal with acceleration. The sequence is quite simple. Whatever the
+final movement  rate is that the character intends to use is considered
+the target movement rate. When the character first starts moving he
+makes an acceleration roll in  order to start moving at the movement
+rate just below the target movement rate. Once the roll is made the
+character is now moving at that lower rate. On his next  initiative the
+character may attempt to accelerate to the target movement. Note  that
+the gain number is the movement rate. If an acceleration roll is failed
+the end result is that the character drops to the next lowest available
+movement  rate. Of course each of these acceleration rolls has its own
+EF modifier.  
+
+% Acceleration Modifiers
+\input{tgpm3}
+
+\begin{quotation}
+Reed Johnson has a movement of Dash 10, Run 5, Jog 2.5, Walk 1.3, Crawl .6
+\end{quotation}
+
+\subsection{Movement Modifiers}
+
+% Targeted Action Movement Modifiers
+\input{tgpm4}
+
+\section{Mental Movement}
+\INDEX{Mental Movement}{Mental Movement}
+This is a measure of the character's speed of mental travel. It is 
+usually only used in Psionics and Computer usage.
+
+\section{Opposing Skill Rolls}
+
+An opposing skill roll in a roll in which the character attempts to 
+undo an action done previously by another character. Typically the SN 
+of the original action is taken as a negative modifier to the current 
+skill roll.
+
+\section{Stealth and Concealment}
+\INDEX{Stealth and Concealment}{Stealth and Concealment}
+
+Opposing Skill Rolls
+
+\section{Deception and Detection}
+\INDEX{Deception and Detection}{Deception and Detection}
+
+Opposing Skill rolls
+

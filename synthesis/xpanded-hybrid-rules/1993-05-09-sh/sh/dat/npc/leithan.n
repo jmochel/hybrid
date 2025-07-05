@@ -1,0 +1,50 @@
+.Name LEITHAN
+.Title SCOUNDREL, LORD OF AKREN	   
+.Race ELF
+.Culture
+.Aspect 
+.PST 7
+.PEN 16		
+.DEX 19
+.PAG 11		
+.PAW 14
+.MST 15		
+.MEN 14
+.PSI 16
+.MAG 14
+.MAW 14
+.HT 5'4"      
+.WT			 
+.AGE 
+.BeginDesc
+ 19
+.EndDesc
+.BeginSkills
+Weapon: DAGGER(+2)		   , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ CHATBHATCH GILMIR
+.EndKnownAssoc
+.BeginSecretAssoc
+ RULER OF AKREN
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+WHILE HE IS A LAND LAW HEIR, LEITHAN IS IN SOMEWAY PREVENTED FROM		
+STAYING IN ANYONE PLACE AT ONE TIME. HE LEAVES HIS COUNTRY TO CARE FOR ITSELF.  
+IT SEEMS SELDOM TO NEED HIS CARE IN ANYCASE. HE LOVES DANGER AND ENOYS STEALING 
+WITH AN IRREVERENCE WHICH BORDERS ON THE OBSCENE.
+.EndComment
+.BeginPossess
+ A MITHRIL LONGSWORD +1,DAGGER +2,ELVEN CHAINMAIL, TARNKAPPE
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

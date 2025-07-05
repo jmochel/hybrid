@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//W3C//DTD MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/mathml2.dtd">
+<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<article xmlns="http://docbook.org/ns/docbook">
+    <title>Character Generation Guide</title>
+    <info>
+        <author>
+            <personname>Jim Mochel</personname>
+        </author>
+        <copyright>
+            <year>1987</year>
+            <year>2011</year>
+        </copyright>
+    </info>
+    <sect1>
+        <title>Character Generation</title>
+        <para>There are several ways to generate characters with no one specific way being better
+            than the other. It comes down to how you like to approach creating something. All of
+            them start with a mental picture of the character or the characters history. That
+            picture can vary from very vague to very specific and detailed. </para>
+        <formalpara>
+            <title>The start with the basic idea and see what happens approach.</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the basic picture of who the character is. It may be
+                            General as a "Big strong fighter" or as specific as "A wizard of the
+                            fire school who uses daggers and is the bastard son of a
+                            noble...".</para>
+                    </listitem>
+                    <listitem>
+                        <para>From that basic idea pick the attributes of the character that you
+                            want to be notable such as strength, wit.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with a statement of the kind of roles they have ( Healer,
+                            Fighter, Wizard, Merchant, Priest, Shaman, Thief, Swindler, Scholar,
+                            Etc.). You're not limited in what you come up with here.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing what kind of communities they
+                            are related to (Comes from a wealthy family, comes from the streets,
+                            Member of a merchant guild , Etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing any special abilities (
+                            Ambidextrous, Picture-perfect memory, perfect pitch, Etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>Come up with some statements describing any notable pieces of their
+                            history (Orphaned, noble born, rebelled against their parents, </para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick a race and a culture.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick Any special skills you want character at</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick a physical description and any notable physical characteristics
+                            (bright red hair, violet days, mismatched eyes etc.)</para>
+                    </listitem>
+                    <listitem>
+                        <para>You can then take that summary to your nearest gaming geek along with
+                            this manual and say "create what I want" or you can call the game master
+                            and say the same thing to them or you can use the sections below to map
+                            your description into a character</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
+        <formalpara>
+            <title>The methodical vision approach</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the picture of who the character is.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick the primary statistics that match that vision And put them into
+                            your character sheet. See <xref linkend="primary-statistics"/>. I would
+                            recommend using the spreadsheet provided.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Write down your starting points for Community, Skill, Wealth points
+                            (10 points for each)</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a race <xref linkend="racial-modifiers"/>. Note any racial
+                            modifiers to statistics</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a culture. Note whatever the cultural skill packages. See <xref
+                                linkend="cultural-packages"/></para>
+                    </listitem>
+                    <listitem>
+                        <para>Select the various gifts, advantages, limitations, and trade-offs
+                                <xref linkend="tradeoffs"/> Note the point costs and/or
+                            benefits.</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
+        <formalpara>
+            <title>The highly optimized rules lawyer approach</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Start with the picture of who the character is.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick all of the major specific roles/class of the character (Fire
+                            Mage, Seer, Fighter, Etc.) TBD XREF</para>
+                    </listitem>
+                    <listitem>
+                        <para>Look at the skills associated with those roles and note what primary
+                            and secondary statistics the skills are based on. See <xref
+                                linkend="primary-statistics"/> and <xref
+                                linkend="calculated-statistics"/>.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Pick the primary statistics that produce the maximum primary and
+                            secondary statistics for that set of skills. See <xref
+                                linkend="primary-statistics"/> And put them into your character
+                            sheet. I would recommend using the spreadsheet. provided.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a race that gives you a boost on those primary and secondary
+                            statistics <xref linkend="racial-modifiers"/> Note any racial modifiers
+                            to statistics</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select a culture to give you a jumpstart on the set of skills you want
+                            as well as giving you skills that are related to the skills you need for
+                            those roles. Having a number of related skills will increase your chance
+                            with whatever skill you're using at the moment. Note whatever the
+                            cultural skill packages are <xref linkend="cultural-packages"/>.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Select the trade-offs <xref linkend="tradeoffs"/>. Note the point
+                            costs and/or benefits.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Go back and fill in on the various statistics, skills etc. </para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </formalpara>
+        <sect2 xml:id="primary-statistics">
+            <title>Primary Statistics</title>
+            <para>Each player has 125 points to distribute among the primary statistics of the
+                player. The primary statistics are the basic attributes of the character. The
+                following List names the statistics and gives you a description of what each
+                statistic represents. It also gives you the abbreviation That will be used for the
+                statistic in the rest of the documentation.</para>
+            <variablelist>
+                <varlistentry>
+                    <term>Physical Strength (PST)</term>
+                    <listitem>
+                        <para>Physical Strength is the overall power of body. This is the
+                            character's raw muscle power and is not tied to some particular set of
+                            limbs. Actions such as lifting are based on Physical Strength.</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Physical Endurance (PEN)</term>
+                    <listitem>
+                        <para>Physical Endurance is the physical resilience and stamina of body.
+                            This is the character's overall endurance and ability to resist hardship
+                            as well as the ability to bounce back from hardship. Actions such as
+                            recovering from being sick are based on Physical Endurance.</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Dexterity (DEX)</term>
+                    <listitem>
+                        <para>Dexterity is the eye and hand coordination and speed of hand
+                            movement.This is specific to the character's hands actions. Actions such
+                            as catching and throwing are based on Dexterity</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Physical Agility (PAG)</term>
+                    <listitem>
+                        <para>Physical Agility is the overall flexibity and responsiveness of
+                            body.This affects the whole body actions of the character. Actions like
+                            Dodging are based on Physical Agility.</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Physical Awareness (PAW)</term>
+                    <listitem>
+                        <para>Physical Awareness is how sensitive the character is to the physical
+                            part of the environment. If you are using any of your physical senses,
+                            you are using Physical Awareness. Actions like watching for a sneak
+                            attack are based on Physical Awareness</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Strength (MST)</term>
+                    <listitem>
+                        <para>Mental Strength is raw mental power. It is the characters overall
+                            computational and reasoning strength. It is also a measure of the
+                            character's strength of will. Using memory is an action based on Mental
+                            Strength.</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Endurance (MEN)</term>
+                    <listitem>
+                        <para>Mental Endurance is resilience and stamina of mind. It is a measure of
+                            the mind's ability to recover from shock or disorientation. Actions like
+                            recovering from some magical or mental attacks are based on Mental
+                            Endurance</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Agility (MAG)</term>
+                    <listitem>
+                        <para>Mental Agility is the overall flexibility and responsiveness of
+                            mind.In another day and age this might be called ``Cunning'',
+                            ``Canniness'', or ``Shrewdness''. Solving puzzles are typical actions
+                            based on Mental Agility</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Energy Access (NRG)</term>
+                    <listitem>
+                        <para>Energy Access is a measure of how easily a character can gain access
+                            to their ``supernatural'' abilities. Action such as casting spells or
+                            using psychic gifts are based on Energy Access.</para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Awareness (MAW)</term>
+                    <listitem>
+                        <para>Mental Awareness is how sensitive the character is to the non-physical
+                            part of the environment.</para>
+                    </listitem>
+                </varlistentry>
+            </variablelist>
+            <para> The typical Human has primary statistics that range from 1 to 30 character With
+                an average of 12. There is no upper limit on statistics.</para>
+        </sect2>
+
+        <sect2 xml:id="calculated-statistics">
+            <title>Calculated Statistics</title>
+            <para>Like the primary statistics, the calculated statistics are evenly broken up into
+                sets of physical and mental statistics. The list below describes the statistics and
+                how they are calculated. Each of these calculated statistics can be modified either
+                by the race that you have chosen or special abilities or just plain purchasing an
+                increase in that stat. For most people the easiest thing to do is to use one of the
+                supplied spreadsheets and let it do the work.</para>
+            <variablelist>
+                <title>Calculated Statistics</title>
+                <varlistentry>
+                    <term>Physical Body (PBD)</term>
+                    <listitem>
+                        <para>Physical Body is the amount of physical damage a character can absorb.
+                            Derived from PST and PEN. When a character is injured it has an impact
+                            on either the Physical Fatigue or the Physical Body.<equation>
+                                <mathphrase>PST+PEN</mathphrase>
+                            </equation>
+                        </para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Physical Fatigue (PFT)</term>
+                    <listitem>
+                        <para>Physical Fatigue is the amount of energy a character can expand,
+                            either in combat or in work. When the characters in combat and is taking
+                            damage it will have an impact either on the Physical Fatigue or the
+                            Physical Body. Derived from PEN and PAG. <equation>
+                                <mathphrase>(2 x PEN)+PAG</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Physical Exhaustion (PEX)</term>
+                    <listitem>
+                        <para> The amount of energy reserve a character can expend as the result of
+                            damage or from work. It is derived from PEN and PAG. <equation>
+                                <mathphrase>(4 x PEN) + PAG</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Physical Movement (PMV)</term>
+                    <listitem>
+                        <para>Physical Moment is a measure of the character's movement rate. Is
+                            derived from PST and PEN and racial modifiers. <equation>
+                                <mathphrase>(PST+PAG)/5 x {Racial Modifier}</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Body (MBD)</term>
+                    <listitem>
+                        <para>Mental Body is the amount of mental damage character can absorb. It is
+                            treated almost identically to Physical Body. It is derived from MEN and
+                            MST. <equation>
+                                <mathphrase>((MST+MEN)</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Mental Fatigue (MFT)</term>
+                    <listitem>
+                        <para>The amount of mental energy a character can expend, either in damage
+                            or in work. Derived from MEN and MAG.<equation>
+                                <mathphrase>(2 x MEN)+MAG</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Mental Exhaustion (MEX)</term>
+                    <listitem>
+                        <para>The amount of mental reserve energy a character can expend, either in
+                            combat or in work. Derived from MEN and MAG. <equation>
+                                <mathphrase>(4 x MEN)+MAG</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Mental Movement (MMV)</term>
+                    <listitem>
+                        <para>A measure of the characters rate of movement in the purely mental
+                            realms of psionics, magery, and computer interfaces. <equation>
+                                <mathphrase> ((MST+MAG)/5) x {Racial Modifier}</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Accuracy (ACC)</term>
+                    <listitem>
+                        <para> A measure of the character's effectiveness with projectile or missile
+                            weapons. Derived from PST and DEX. Could also be called Physical Accuracy.<equation>
+                                <mathphrase> (PST+DEX)/2 </mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Physical Combat Ability (PCA)</term>
+                    <listitem>
+                        <para> A measure of a character's ability to inflict damage in hand-to-hand
+                            and melee combat. Derived from PST, PAG, DEX. <equation>
+                                <mathphrase>(PST+DEX+PAG)/3</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Physical Defense (PDF)</term>
+                    <listitem>
+                        <para> A measure of a character's ability to dodge or evade to avoid taking
+                            damage in hand-to-hand or melee combat. Derived from PAG, DEX. <equation>
+                                <mathphrase>(PAG+DEX)/2</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Focus (FCS)</term>
+                    <listitem>
+                        <para> A measure of the character's effectiveness with focused mental
+                            actions. Derived from MST and MAG. could also be called Mental Accuracy. <equation>
+                                <mathphrase>(MST+MAG)/2</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Mental Combat Ability (MCA)</term>
+                    <listitem>
+                        <para> A measure of a character's ability to inflict damage in Mind to Mind
+                            combat. Derived from MST, MAG, PSI <equation>
+                                <mathphrase>(MST+PSI+MAG)/3</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                    <term>Mental Defense (MDF)</term>
+                    <listitem>
+                        <para> A measure of a character's ability to avoid taking damage in mental
+                            combat or highly stressful situations. Derived from MAG.<equation>
+                                <mathphrase>(MAG+PSI)/2</mathphrase>
+                            </equation></para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Mental Speed</term>
+                    <listitem>
+                        <para>Speed of reaction in mental actions is given by Mental Speed. It is
+                            derived from the Mental Awareness stat using the following table. An
+                            average Mental Speed is 4. <table xml:id="mental-speed-table">
+                                <title>Mental Speed Table</title>
+                                <tgroup cols="2">
+                                    <thead>
+                                        <row>
+                                            <entry>Mental Awareness</entry>
+                                            <entry> Speed </entry>
+                                        </row>
+                                    </thead>
+                                    <tbody>
+                                        <row>
+                                            <entry> 1--2 </entry>
+                                            <entry> 0 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 3--3 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 4--5 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 6--8 </entry>
+                                            <entry> 2 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 9--11 </entry>
+                                            <entry> 3 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 12--15 </entry>
+                                            <entry> 4 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 16--19 </entry>
+                                            <entry> 5 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 20--24 </entry>
+                                            <entry> 6 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 25--29 </entry>
+                                            <entry> 7 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 30--34 </entry>
+                                            <entry> 8 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 35--35 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 36--39 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 40--45 </entry>
+                                            <entry> 10 </entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </para>
+                    </listitem>
+                </varlistentry>
+                <varlistentry>
+                    <term>Physical Speed</term>
+                    <listitem>
+                        <para> Speed of reaction in physical actions is given by Physical Speed. It
+                            is derived from the Physical Awareness stat using The table given below.
+                            An average physical speed is 4. <table xml:id="physical-speed-table">
+                                <title>Physical Speed Table</title>
+                                <tgroup cols="2">
+                                    <thead>
+                                        <row>
+                                            <entry>Physical Awareness</entry>
+                                            <entry> Speed </entry>
+                                        </row>
+                                    </thead>
+                                    <tbody>
+                                        <row>
+                                            <entry> 1--2 </entry>
+                                            <entry> 0 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 3--3 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 4--5 </entry>
+                                            <entry> 1 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 6--8 </entry>
+                                            <entry> 2 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 9--11 </entry>
+                                            <entry> 3 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 12--15 </entry>
+                                            <entry> 4 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 16--19 </entry>
+                                            <entry> 5 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 20--24 </entry>
+                                            <entry> 6 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 25--29 </entry>
+                                            <entry> 7 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 30--34 </entry>
+                                            <entry> 8 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 35--35 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 36--39 </entry>
+                                            <entry> 9 </entry>
+                                        </row>
+                                        <row>
+                                            <entry> 40--45 </entry>
+                                            <entry> 10 </entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </para>
+                    </listitem>
+                </varlistentry>
+            </variablelist>
+            <para> The following table is for reference only. Is expected that most everyone will
+                simply use a supplied spreadsheet. <table>
+                    <title>Summary of Calculated Statistics </title>
+                    <tgroup cols="4">
+                        <thead>
+                            <row>
+                                <entry> Stat </entry>
+                                <entry> Formula </entry>
+                                <entry> Typical Range </entry>
+                                <entry> Human Average </entry>
+                            </row>
+                        </thead>
+                        <tbody>
+
+                            <row>
+                                <entry> PBD </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(PST+PEN)</mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 02-60 </entry>
+                                <entry> 30 </entry>
+                            </row>
+                            <row>
+                                <entry> PEX </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(4 x PEN) + PAG</mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 15-150 </entry>
+                                <entry> 75 </entry>
+                            </row>
+                            <row>
+                                <entry> PFT </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(2 x PEN)+PAG</mathphrase>
+                                    </equation></entry>
+                                <entry> 09-90 </entry>
+                                <entry> 45 </entry>
+                            </row>
+                            <row>
+                                <entry> PMV </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(PAG+PST)/5)</mathphrase>
+                                    </equation></entry>
+                                <entry> 0.4-12 </entry>
+                                <entry> 6 </entry>
+                            </row>
+                            <row>
+                                <entry> MBD </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(MST+MEN)</mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 02-60 </entry>
+                                <entry> 30 </entry>
+                            </row>
+                            <row>
+                                <entry> MEX </entry>
+                                <entry><equation>
+                                        <mathphrase>(4 x MEN) + MAG</mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 20-150 </entry>
+                                <entry> 75 </entry>
+                            </row>
+                            <row>
+                                <entry> MFT </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(2 x MEN) + MAG</mathphrase>
+                                    </equation></entry>
+                                <entry> 09-90 </entry>
+                                <entry> 45 </entry>
+                            </row>
+                            <row>
+                                <entry> MMV </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(MAG+MST)/5</mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 0.4-12 </entry>
+                                <entry> 6 </entry>
+                            </row>
+                            <row>
+                                <entry> ACC </entry>
+                                <entry>
+                                    <equation>
+                                        <mathphrase>(PST+DEX)/2</mathphrase>
+                                    </equation></entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                            <row>
+                                <entry> PCA </entry>
+                                <entry><equation>
+                                        <mathphrase>(PST+DEX+PAG)/3 </mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                            <row>
+                                <entry> PDF </entry>
+                                <entry><equation>
+                                        <mathphrase>(PAG+DEX)/2 </mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                            <row>
+                                <entry> FCS </entry>
+                                <entry><equation>
+                                        <mathphrase>(MST+MAG)/2 </mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                            <row>
+                                <entry> MCA </entry>
+                                <entry><equation>
+                                        <mathphrase>(MST+PSI+MAG)/3 </mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                            <row>
+                                <entry> MDF </entry>
+                                <entry><equation>
+                                        <mathphrase>(MAG+PSI)/2 </mathphrase>
+                                    </equation>
+                                </entry>
+                                <entry> 3-30 </entry>
+                                <entry> 15 </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </para>
+        </sect2>
+
+        <sect2 xml:id="community-skill-wealth-points">
+            <title>Community, Skill, and Wealth points</title>
+            <para>Each character gets gets a set of points in several groupings that they can use to
+                "purchase" Wealth, Community and Skills.</para>
+            <formalpara>
+                <title>Wealth points</title>
+                <para>Each character gets 10 points that they can use to pick the amount of money or
+                    the amount and quality of materials that the character starts with. How much
+                    actual money or material goods those points of wealth by you is dependent upon
+                    the culture you're coming from. In some cultures the characters may not be able
+                    to get a lot of free cash they may have easy access to Well-crafted goods. You
+                    can add to your wealth points by specific Trade-offs See <xref
+                        linkend="tradeoffs"/></para>
+            </formalpara>
+            <formalpara>
+                <title>Community points</title>
+                <para>Each character gets 10 Community points. The Community points are used to
+                    purchase status or reputation within one or more communities. The impact of the
+                    status or reputation and the size of the community all factor into the cost of
+                    that status or reputation. The effect of that status or reputation is dependent
+                    on the culture but it may also be dependent on the community chosen. For example
+                    a character may choose to buy a higher reputation among mages rather than having
+                    a general reputation. You can add to your Community points as a by specific
+                    Trade-offs ( See <xref linkend="tradeoffs"/>) </para>
+            </formalpara>
+            <formalpara>
+                <title>Skill points</title>
+                <para>Each character starts with 100 points that they can use to purchase skills or
+                    bundles of skills.</para>
+            </formalpara>
+        </sect2>
+        <sect2>
+            <title>Selecting a Race</title>
+            <para>There are often modifiers for the primary statistics (As well as the other
+                statistics) for a given race. Some races have gifts or abilities as well as other
+                trade-offs. For the most part the human races have no modifiers to their statistics.
+                Once you've picked a race just ask your friendly neighborhood games master for the
+                description of the race and the racial modifiers. <xref linkend="racial-modifiers"/>
+                Any of the racial modifiers for primary statistics are applied immediately, any
+                racial modifiers for secondary statistics are applied after those secondary
+                statistics have been calculated. </para>
+        </sect2>
+        <sect2>
+            <title>Selecting a culture.</title>
+            <para> Once you have decided on the race, picking the culture is the next logical step.
+                Each culture comes with a standard set of skills that can be bought as a bundle. For
+                example the character knowns the native language of the culture as well as the
+                common history and lore of the culture. The character knows how to behave
+                appropriate to their social class in the culture. Each culture has standard sets of
+                these templates. These templates are detailed in the cultural description. In
+                addition, each culture may have special gifts, particular advantages or
+                disadvantages as well as particular additions to the Skill, Wealth, and Community
+                pools.</para>
+        </sect2>
+        <sect2>
+            <title>Trade-offs</title>
+            <para> This a term for the various quirks of genetics and experience that give the
+                characters a distinct flavor to match the history of the character. For example a
+                character may have a gift that allows them to use magic or a disadvantage such as
+                they are albino. Each trade-off that gives or costs a certain number of points from
+                each of the pools. For example, a character that is Albino gets 15 additional points
+                that they can apply to the Wealth, Community, or Skill pools In exchange for the
+                disadvantage while playing of being sensitive to light. </para>
+        </sect2>
+        <sect2>
+            <title>Gender</title>
+            <para> The player should note whether the character is male or female (if the
+                character's race supports multiple genders). If there are any modifiers to
+                statistics for a specific gender they should be applied. These modifiers will be
+                listed in the racial description. </para>
+        </sect2>
+        <sect2>
+            <title>Other Statistics</title>
+            <para> </para>
+            <sect3>
+                <title>Height (HGT)</title>
+                <para> If the player has no preference regarding the height of the character the
+                    height may be randomly generated using the following formula.<equation>
+                        <mathphrase>Height = {Average Height} + ( {{2d10 - 11} / {10}} x {Height
+                            Variation})</mathphrase>
+                    </equation> The Average Height and Height Variation is given in the racial
+                    template. </para>
+            </sect3>
+            <sect3>
+                <title>Weight (WGT)</title>
+                <para> Expressed in Kilograms. If the player has no preference regarding the weight
+                    of the character the weight may be randomly generated using the following
+                    formula. <equation>
+                        <mathphrase>Weight = {Average Weight} + ( {{2d10 - 11} / {10}} x {Weight
+                            Variation}</mathphrase>
+                    </equation>The Average Weight and Weight Variation is given in the racial
+                    description. </para>
+            </sect3>
+            <sect3>
+                <title>Appearence (APP)</title>
+                <para> A measure of how physically attractive a character is to others of their
+                    race. It ranges (typically) from +5 to -5 and has a default of 0. Characters
+                    that wish to be more or less attractive can buy appearance as an trade
+                    off</para>
+            </sect3>
+
+        </sect2>
+        <sect2 xml:id="cultural-base-packages">
+            <title>What Every Culture has</title>
+            <para>Once you have chosen the culture you get a certain set of skills automatically.
+                The following skills are skills that everyone gets for their culture.</para>
+            <itemizedlist>
+                <listitem>
+                    <para>Culture Lore: (Culture Name) at Rank 20</para>
+                </listitem>
+                <listitem>
+                    <para>Spoken Language: (Language of the Culture) at rank 10</para>
+                </listitem>
+            </itemizedlist>
+            <para> In addition, Each culture has its own package of skills particular to it. Each
+                character gets rank 7 In each of those skills. For example, the Thenean cultural
+                skill package looks like this: <simplelist>
+                    <member>Lore:Ships and Sailing</member>
+                    <member>Lore:Weather</member>
+                    <member>Lore:Magic</member>
+                    <member>Tying Knots</member>
+                    <member>Haggling</member>
+                </simplelist> And every Thenean starts out with the rank 7 in each of those skills
+            </para>
+        </sect2>
+        <sect2>
+            <title>Skill Costs</title>
+            <para> When characters are first generated they can buy single skills using points from
+                the Skill pool. During character generation all skills cost 1 point per rank to
+                purchase. So rank 0 costs 1 point, rank 1 costs 2 points , and so on. In summary
+                single skills cost 1 + Rank in Skill points. </para>
+        </sect2>
+        <sect2>
+            <title>Skill Ranks</title>
+            <para>To get a sense of what the skill ranks Are equivalent to I have a quick and dirty
+                chart. <simplelist>
+                    <member>Rank 0 is familiar with the skill</member>
+                    <member>Rank 1-3 is a Beginner</member>
+                    <member>Rank 4-6 Is an Amateur</member>
+                    <member>Rank 7-10 is a Solid Apprentice</member>
+                    <member>Rank 11-14 is a Journeyman</member>
+                    <member>Rank 15-18 is a Professional or Guild Master</member>
+                    <member>Rank 19-25 is a Expert</member>
+                    <member>Rank 25-23 is a True Master</member>
+                    <member>Rank 26+ is a Mystical Master</member>
+                </simplelist>
+                </para>
+                <para>Someone is familiar with the skill if they have tried it enough that
+                the tools and techniques are known even if the character has no real practice with
+                them. A character is at a Beginner level of skill if they have used the skills
+                enough to be comfortable with all the basic techniques needed even though they may
+                not be consistent in their execution. A character is at an amateur level of skill if
+                they are consistent in executing all the basic skills even though they have no real
+                comfort with any of the advanced techniques. 
+                </para>
+                <para>An apprentice is consistent and  accomplished in executing all the basic skills and is familiar with the advanced
+                techniques and tools. A journeyman is consistent Though not accomplished with the
+                full range of basic and most advanced techniques. A professional is consistent and
+                accomplished in the full range of basic Techniques and advanced techniques used in
+                routine application of the skill. An expert is consistent and accomplished in all
+                the basic and advanced techniques used in routine application of the skill as well
+                as being familiar with techniques and tools needed for less common usage of the
+                skill. 
+                </para>
+                <para>A master is consistent and accomplished in all the techniques used in most
+                applications of the skill. In addition they are familiar with some esoteric
+                techniques needed for bizarre and unusual applications of a skill. An character at a
+                mystical mastery level accomplished in all the techniques used in almost all known
+                applications of the skill. In addition they have a whole series of special
+                techniques and tools they have developed for themselves.</para>
+        </sect2>
+        <sect2 xml:id="statistics-costs">
+            <title>Statistic Costs</title>
+            <para> When characters are being generated you can use points from the skill poll to buy
+                increases in stats. The cost is listed below. <simplelist>
+                    <member>PST 4 </member>
+                    <member>PBD 2 </member>
+                    <member>ACC 2 </member>
+                    <member>PEN 3 </member>
+                    <member>PSE 5 </member>
+                    <member>PCA 3 </member>
+                    <member>DEX 3 </member>
+                    <member>PFT 1 </member>
+                    <member>PDF 2 </member>
+                    <member>PAG 5 </member>
+                    <member>PAW 4</member>
+                    <member>PMV 4 </member>
+                    <member>MST 8 </member>
+                    <member>MBD 2 </member>
+                    <member>FCS 2 </member>
+                    <member>MEN 6 </member>
+                    <member>MSE 5 </member>
+                    <member>MCA 3 </member>
+                    <member>MAG 12</member>
+                    <member>MFT 2 </member>
+                    <member>MDF 2 </member>
+                    <member>PSI 10</member>
+                    <member>MMV 4 </member>
+                    <member>MAW 4</member>
+                    <member>APP 2 </member>
+                </simplelist> During character generation all stats are raised using the costs from
+                list above. So adding 1 point of PST costs 4 points, adding 2 costs 8 points, and so
+                on.</para>
+        </sect2>
+        <sect2 xml:id="skill-packages">
+            <title>Skill Packages</title>
+            <para> What we have discussed up till now has been single skills. Quite often the
+                character will be using a skill package. A skill package is a collection of related
+                skills that have a bundled at a bargain cost. A typical skill package would be : <simplelist>
+                    <member>Evasion</member>
+                    <member>Dodge</member>
+                    <member>Unarmed combat</member>
+                    <member>Stealth</member>
+                    <member>Dagger</member>
+                    <member>Sword</member>
+                </simplelist> And would have a cost such as 4 Skill points. So to get rank 0 in all
+                of the skills in the package would require 4 points. To get rank 1 in all of the
+                skills in the package would require 8 skill points </para>
+        </sect2>
+        <sect2 xml:id="tradeoffs">
+            <title>Tradeoffs</title>
+            <para> After a character has some points in the three pools associated with character
+                creation ( personal, wealth, status) they may choose to use Tradeoffs that will add
+                flavour to the character. There are some Tradeoffs that cost points to buy (Which
+                can come out of any of the pools) that give the character an Advantage of some sort.
+                There are also Tradeoffs that are disadvantages but by taking on that disadvantage
+                you get more points to use for those pools. Some Advantages are built into the
+                character and others require the character to maintain them in some way. For example
+                enhanced hearing or eidetic memory are Built in while something like inherited
+                wealth or reputation may depend on the character to maintain them</para>
+            <formalpara>
+                <title>Ambidexterity</title>
+                <para> Ambidexterity allows the character to use either hand when performing
+                    actions. The character takes no off-hand penalties. Costs 10 Points</para>
+            </formalpara>
+            <formalpara>
+                <title>Eidectic Memory</title>
+                <para> Exact recall (given successful roll against MST) of events. Adds DF +3 to any
+                    memory roll. Costs 12 points</para>
+            </formalpara>
+            <sect3>
+                <title>Photographic Memory</title>
+                <para> Exact recall of (given successful roll against MST) any image or visual
+                    happening. Costs 12 Personal Development points </para>
+            </sect3>
+            <sect3>
+                <title>Lightning Calculator</title>
+                <para>Ability to instantly execute complex arithmetic and mathematical calculations.
+                    Costs 5 points </para>
+            </sect3>
+            <sect3>
+                <title>Active PSI</title>
+                <para>Character has concious knowledge and use (though no training) of their psionic
+                    abilities. Costs 20 Personal Development Points </para>
+            </sect3>
+            <sect3>
+                <title>Mage Ability</title>
+                <para> Character has concious knowledge and use (though no training) of their
+                    magical abilities. Costs 20 Personal Development Points </para>
+            </sect3>
+            <sect3>
+                <title>Ley Walker</title>
+                <para>Character has the ability (though no training) In using Ley lines to travel.
+                    Costs 10 Personal Development Points </para>
+            </sect3>
+            <sect3>
+                <title>Enhanced Statistics</title>
+                <para>An enhance statistic is the idea that the Character Has a enhanced statistic
+                    in some specialized area such as an enhanced sense of smell or Heightened
+                    awareness of demons.. Most of the enhancements that involve heightened stats in
+                    specialised areas have a simple cost equal to 1/2 the purchase cost of the
+                    stats. So someone with a heightened sense of smell would pay one half the cost
+                    of Physical Awareness (PAW) or 1/2 * 4 = 2$ for each additional point of
+                    increase. So someone with a 12 PAW could pay 8 points of ersonal Development and
+                    get a PAW (for smells) of 16. </para>
+            </sect3>
+            <sect3>
+                <title>PSI Gift</title>
+                <para> The heightening of NRG for broad categories of PSI skills such as
+                    Temporokinetics has a cost equal to 3/4 of the NRG stat or 8 points. So someone
+                    with a gift for Temporokinetics would pay 8 points per point of heightened NRG
+                    in that area. The heightening of NRG for specific PSI skills such as
+                    Teleportation has a cost equal to $ 1/2 $ of the NRG stat or 5 points. So
+                    someone with a gift for Teleportation would pay 5 points per point of heightened
+                    NRG in that area. </para>
+            </sect3>
+            <sect3>
+                <title>Mage Gift</title>
+                <para> The heightening of NRG for Some specialized area of spell casting such as
+                    warding. Broad categories of Made skills such as Warding has a cost equal to 3/4
+                    of the NRG stat or 8 points. So someone with a gift for Warding would pay 8
+                    points per point of heightened NRG in that area.</para>
+            </sect3>
+            <sect3>
+                <title>Presence</title>
+                <para> This enhancement reflects other people's innate awareness of the character in
+                    a given area. A person with a high presence is hard to ignore. It is calculated
+                    in just the same way as other enhanced stats. So Enhanced Physical Presence is 2
+                    points per additional effect. Decreased Physical Presence is 2 points per
+                    subtracted effect. Enhanced Mental Presence is 2 points per additional effect.
+                    Decreased Mental Presence is 2 points per subtracted effect. The decreased
+                    presence enhancements are, in effect, stealth enhancements. </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Enhancements that affects groups of people </title>
+            <para>These Enhancements have Have costs that are based both on the number of
+                individuals that are affected as well as how intensely they are affected. Scope is
+                the number of people affected by the enhancement.</para>
+            <table xml:id="scope-table">
+                <title>Number of people affected by enhancements</title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Magnitude</entry>
+                            <entry>Range</entry>
+                            <entry>Cost</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry> 10^0 </entry>
+                            <entry> 1 </entry>
+                            <entry> 1 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^1 </entry>
+                            <entry> 2-10 </entry>
+                            <entry> 2 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^2 </entry>
+                            <entry> 11-100 </entry>
+                            <entry> 4 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^3 </entry>
+                            <entry> 101-1000 </entry>
+                            <entry> 8 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^4 </entry>
+                            <entry> 1001-10000 </entry>
+                            <entry> 16 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^5 </entry>
+                            <entry> 10001-100000 </entry>
+                            <entry> 32 </entry>
+                        </row>
+                        <row>
+                            <entry> 10^6 </entry>
+                            <entry> 100001-1000000 </entry>
+                            <entry> 64 </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <para>Depth is how deeply they are affected by the enhancement.</para>
+
+            <table xml:id="depth-table">
+                <title>How deeply people are affected by enhancements </title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Depth</entry>
+                            <entry>DF</entry>
+                            <entry>Cost</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry> Low </entry>
+                            <entry> 1 </entry>
+                            <entry> 1 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium Low </entry>
+                            <entry> 2 </entry>
+                            <entry> 2 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium </entry>
+                            <entry> 4 </entry>
+                            <entry> 4 </entry>
+                        </row>
+                        <row>
+                            <entry> Medium High </entry>
+                            <entry> 6 </entry>
+                            <entry> 8 </entry>
+                        </row>
+                        <row>
+                            <entry> High </entry>
+                            <entry> 8 </entry>
+                            <entry> 10 </entry>
+                        </row>
+                        <row>
+                            <entry> Very High </entry>
+                            <entry> 12 </entry>
+                            <entry> 20 </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+
+            <para>So for determining the cost of a single friend willing to help you all (Depth =
+                Very High ) the time is simply 1 + 20. The DF describes how willing the person is to
+                help you. So in the example DF = 12 implies +60% to the chance for aid from that
+                person. </para>
+            <sect3>
+                <title>Wealth</title>
+                <para> The first and most commonly used is the wealth advantage. This differs from
+                    the basic wealth that can be gained by spending the points from the wealth pool
+                    in that the gain is approximately one third that of a pure monetary spend, but
+                    the gain so obtained is income that will continue to be generated for as long as
+                    the PC pays attention to the interests that generate the funds. The larger the
+                    income the more work involved in maintaining it. The scale of the income is
+                    derived from scope table. The amount of freedom from managing that income is
+                    given by the depth table </para>
+            </sect3>
+            <sect3>
+                <title>Friends,Allies, and Contacts</title>
+                <para> Another important Enhancement is that of Friends. Number of friends is
+                    derived from scope table. The willingness to help is given by the depth table
+                </para>
+            </sect3>
+            <sect3>
+                <title>Reputation</title>
+                <para> The scale of the reputation is derived from scope table. The amount of
+                    recognition is given by the depth table. </para>
+            </sect3>
+        </sect2>
+        <sect2>
+            <title>Racial Modifiers and Cultural Skill Packages</title>
+            <sect3 xml:id="racial-modifiers">
+                <title>Racial Modifiers</title>
+                <para>Unless otherwise specifically mentioned most races have racial modifiers for
+                    PMV,MMV of 1.0</para>
+                <variablelist>
+                    <varlistentry>
+                        <term>Most Humans</term>
+                        <listitem>
+                            <para>Most human races do not have any racial modifiers. Any exceptions
+                                in the list below.</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kothans</term>
+                        <listitem>
+                            <para>Kothans in general have a PBD +1, MAG -1. Kothan males have a +2
+                                modifier to appearance and Kothan women have PCA +1, ACC +1. </para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Theneans</term>
+                        <listitem>
+                            <para>Theneans have FCS +2, MEN +1, and PBD -2</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Hairochan</term>
+                        <listitem>
+                            <para>Hairochan have PBD +1, MST +1, FCS +1, PMV Modifier of 0.8</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Bitadar(Elves)</term>
+                        <listitem>
+                            <para>There are several forms of elves and each of the forms has
+                                different modifiers. Talk to your GM.</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kurrock/Dwarves</term>
+                        <listitem>
+                            <para>Kurrock have a PST +3, MST +1, PEN +3, PBD +2, PMV 0.4, MMV 0.6,
+                                NRG -2</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Rupa Kechil</term>
+                        <listitem>
+                            <para>All Rupa Kechil have an NRG -3, All the other modifiers are
+                                dependent on the particular creature that the Rupa Kechil changes
+                                into</para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect3>
+            <sect3 xml:id="cultural-packages">
+                <title>Cultural Skill Packages</title>
+                <variablelist>
+                    <varlistentry>
+                        <term>Merovan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Heraldry</member>
+                                    <member>Lore:Chivalry</member>
+                                    <member>Lore:Lord and the Lady</member>
+                                    <member>Haggling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kothans</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Herbs</member>
+                                    <member>Lore:Megafauna</member>
+                                    <member>Lore:TDor and Sif</member>
+                                    <member>Tracking</member>
+                                    <member>Melee:Spear</member>
+                                    <member>First Aid</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Theneans</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Ships and Sailing</member>
+                                    <member>Lore:Weather</member>
+                                    <member>Lore:Magic</member>
+                                    <member>Tying Knots</member>
+                                    <member>Haggling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Hairochan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Meditation</member>
+                                    <member>Lore:Source of All</member>
+                                    <member>Lore:Herbs</member>
+                                    <member>Melee:Staff</member>
+                                    <member>Grounding</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Vairan</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Tracking</member>
+                                    <member>Lore:Megafauna</member>
+                                    <member>Climbing</member>
+                                    <member>Melee:Staff</member>
+                                    <member>Missle:Sling</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kalifane</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Horses</member>
+                                    <member>Lore:Lord and Lady</member>
+                                    <member>Melee:Dagger</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Bitadar(Elves)</term>
+                        <listitem>
+                            <para>Talk with the GM</para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Kurrock/Dwarves</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Stone</member>
+                                    <member>Lore:Mikan</member>
+                                    <member>Lore:Forge</member>
+                                    <member>Lore:Mining</member>
+                                    <member>Melee:Hammer</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                    <varlistentry>
+                        <term>Rupa Kechil</term>
+                        <listitem>
+                            <para><simplelist>
+                                    <member>Lore:Woods</member>
+                                    <member>Lore:Herbs</member>
+                                    <member>Stealth</member>
+                                    <member>Running</member>
+                                    <member>Tracking</member>
+                                </simplelist></para>
+                        </listitem>
+                    </varlistentry>
+                </variablelist>
+            </sect3>
+        </sect2>
+    </sect1>
+</article>

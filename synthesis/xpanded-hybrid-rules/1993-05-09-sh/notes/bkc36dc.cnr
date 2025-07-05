@@ -1,0 +1,84 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206151210.180;
+          06 Dec 91 15:12:45 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206151210.180;
+          06 Dec 91 15:12:40 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02383; Fri, 6 Dec 91 15:13:59 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11637; Fri, 6 Dec 91 14:52:04 -0500
+Message-Id: <9112061952.AA11637@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 2976; Fri, 06 Dec 91 14:52:10 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 8117;
+ Fri, 06 Dec 91 14:52:09 EST
+Date:         Fri, 6 Dec 1991 13:25:57 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Jason D Parker <jason%HERMES.CRAY.COM@uga.cc.uga.edu>
+Subject:      Re: Game Design: Checklist
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <9112061841.AA10567@timbuk.cray.com>; from
+              "1667D876%KSUVXB.KENT.EDU@uga.cc.uga.edu" at Dec 6, 91 1:39 pm
+
+>
+> From: Hades <hades@COOS.DARTMOUTH.EDU>
+>
+> >> 2. Unification
+> >
+> >
+> >    This is another important concept. I also think that it is important
+> >not to have too many different scales, but havin only 1 is very limiting to
+> >the system. Basically I think that it is a bad idea to base everything on
+> >the 1-100 scale and then attemtpt to fit everything to that scale.
+>
+> Nowhere do I insist upon a finite scale.  Actually, I'd prefer to have an
+> open-ended scale.  Or better yet, a relativistic scale.  Say the average human
+> characteristic is locked at 100% and judge from there.  An average human would
+> have a Muscle score of 100, and a stronger person would have higher.  No
+> limits, except those constraints put on the race/character by the designer and
+> GM.
+>
+> But can anyone think of a dice system for resolving relativistically scaled
+> attributes and skills?  =)
+>
+
+This is indeed one of the biggest problems I've run into.  How do you
+specify quality vs. quantity.  Often game attributes seem to mean both
+depending on the situation.  The problem is basically this:
+
+  I have a ROCK with CONS=70  If I have another ROCK (twice as big)
+  Does it have a CONS=140?  Or does CONS really just refer to the ROCK's
+  ability to maintain shape/size - constitution?  IE if I have a ROCK of
+  the same (original) size that is made of better alloys etc, does it have
+  a higher CONS because of its construction?
+
+Obviously maybe CONS isn't the right attribute to be talking about.  But,
+what is needed is a way to distingish between quality and quantity.  Also
+the quality of an object's attributes can change in a given situation.
+Take a Steel Javelin for instance.  If I hold it horizontally and ram it
+into the head of a Big ORC with a solid metal helm, it might bend or break
+or push him back.  BUT, if I (as is more likely) thrust it at the head of
+a Big ORC with a solid metal helm... Well you get the picture.  The quality
+of an object often really depends on its application *and design*.
+This is what GMing is all about of course.  But a well designed system
+should help out.
+
+>
+> Interesting comments, Hades.  Let's try to keep this Design thread going!
+>
+> ____Flatline_______________________________________________________________
+>
+> Adam   1667d876@ksuvxb.kent.edu  1667d876@kentgold.bitnet    "I'll kill it!
+> Dray   adray@mcs.kent.edu        adray@kentvax.bitnet         What is it?"
+> ___________________________________________________________________________
+>                          "Quotes are stupid"
+> ___________________________________________________________________________
+>
+
+Yes, this is very interesting.
+
+-jason
+jason@cray.com
+
+--

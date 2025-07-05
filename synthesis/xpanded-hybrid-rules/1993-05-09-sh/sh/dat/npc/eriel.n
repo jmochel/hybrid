@@ -1,0 +1,48 @@
+.Name ERIEL
+.Title GRANDMOTHER					 
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 17
+.PEN 16		
+.DEX 16
+.PAG 13		
+.PAW 14
+.MST 14		
+.MEN 14
+.PSI 11
+.MAG 14
+.MAW 14
+.HT 5'5"      
+.WT 115		 
+.AGE 41
+.BeginDesc
+ REDDISH BROWN HAIR CUT SHORT IN THE HIGHLAND WAY. WITH BROWN EYES	 
+AND PALE SKIN.
+.EndDesc
+.BeginSkills
+Weapon: DAGGER				, 
+.EndSkills
+.Locale CRON
+.BeginKnownAssoc
+ GRANDMOTHER OF THE CRON ASSASSIN'S GUILD,RULER OF CRON
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends 
+.EndFriends
+.BeginComment
+ NOT VERY OPEN ABOUT HER CAREER CHOICE AND FUNCTIONS WELL W/O HAVING TO 
+USE IT.
+.EndComment
+.BeginPossess
+ A DAGGER OF SOUL STEALING
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

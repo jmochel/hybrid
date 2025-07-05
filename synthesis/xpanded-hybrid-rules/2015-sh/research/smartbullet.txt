@@ -1,0 +1,39 @@
+'Smart bullet' reports back wirelessly
+17:05 28 May 2004 
+NewScientist.com news service 
+Will Knight 
+Related Articles
+Experts fear terrorists are seeking fuel-air bombs
+21 March 2004
+Defusing fertiliser may make bomb-building harder
+19 March 2004
+Bomb-proof flight simulator developed
+22 October 2003
+Search New Scientist
+Contact us
+Web Links
+Mechanical and Engineering Department, University of Florida
+Missiles and Fire Control group, Lockheed Martin
+Jane's group
+ 
+
+A "smart bullet" that can be fired at a target and then wirelessly transmit back useful information has been developed by US researchers.
+
+The projectile, created at the University of Florida in Gainesville, US, is 1.7 centimetres in diameter can be fired at from an ordinary paint-ball gun. The front is coated in an adhesive polymer that sticks it to the target. 
+
+Inside, the elongated projectile holds a sensor, a tiny wireless transmitter and a battery. This enables it to report back its findings to a laptop or handheld computer up to 70 metres away. It can also reusable, because compressed gas within the gun provides the propulsion.
+
+The prototype developed by the researchers was fitted with an accelerometer. To test it, the students fired it at a target which was then shaken to activate the accelerometer and produce data for transmission.
+
+But the US firm Lockheed Martin, which provided funding for the project, is interested in developing a version containing a miniature sensor capable of detecting traces of the explosive TNT. 
+Stand back
+
+"If you had a good chemical sensor on this projectile, you could fire it into the trash, stand back and determine whether it could detect TNT leaking out," says Leslie Kramer, director of engineering for the Lockheed Martin subsidiary Missiles and Fire Control.
+
+Loc Vu-Quoc, one of the university team, says the potential advantage of the system is that "you'd be able to stand far away from the target". He says other researchers are already working on miniaturising TNT detection 
+
+However Colin King, editor of the British defence industry magazine Jane's Explosives Ordinance Disposal says this goal may be unrealistic. "Methods for detecting traces of explosives require a lot of equipment," he told New Scientist. "I can't think of a sensible way it could work."
+
+The smallest explosive vapour detectors currently available are handheld. King also warns that firing a projectile at a potential explosive goes against bomb disposal guidelines.
+
+Nevertheless, King believes the projectile sensor might still be useful. "It sounds like there could be better applications in counter-surveillance," he suggests.

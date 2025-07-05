@@ -1,0 +1,48 @@
+.Name KE'BA'KEN
+.Title THE ARM						  
+.Race DWF
+.Culture
+.Aspect 
+.PST 16
+.PEN 15		
+.DEX 14
+.PAG 11		
+.PAW 14
+.MST 11		
+.MEN 14
+.PSI 10
+.MAG 14
+.MAW 14
+.HT 4'2"      
+.WT 140		 
+.AGE 321
+.BeginDesc
+ 10:SHORT WHITE HAIR AND A HAND MISSING TWO FINGERS(SMALL)
+.EndDesc
+.BeginSkills
+Weapon: HAMMER				, 
+.EndSkills
+.Locale CULMAIEA
+.BeginKnownAssoc
+ IRON HAND SYMPATHIZER
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends NONE
+.EndFriends
+.BeginComment
+ A DEEPLY EMBITTERED DWARF WHO HATE ELVES. QUITE SKILLED AT HIS BLADE	
+WORK.
+.EndComment
+.BeginPossess
+ AN ANVIL OF HIGH STEEL. BLESSED TO MORADIN. AND A METAL GUARD DOG  
+STATUETTE. AC -3 70HP 2ATT 3-12DPA
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

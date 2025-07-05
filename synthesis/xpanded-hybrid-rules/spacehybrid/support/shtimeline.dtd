@@ -1,0 +1,7 @@
+<!DOCTYPE SHTimeline "-//Jim Jackl-Mochel//DTD Space Hybrid Timeline//EN" [
+<!ELEMENT SHTimeline - - (#PCDATA) >
+<!ELEMENT epoch - - (#PCDATA) +(event | title) >
+<!ELEMENT title - - (#PCDATA) >
+<!ELEMENT event - - (#PCDATA) +(date | title) >
+<!ELEMENT date - - (#PCDATA) >
+] >

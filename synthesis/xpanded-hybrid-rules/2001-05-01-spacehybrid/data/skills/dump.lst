@@ -1,0 +1,177 @@
+Accounting                                       	FCS       	6	-2
+Appraisal                                        	FCS       	6	-1
+Bribery                                          	MCA       	4	-1
+Business Administration                          	FCS       	4	-1
+Cartography                                      	FCS       	5	-2
+Clerical Studies                                 	FCS       	4	-1
+Confiscation                                     	FCS       	4	-1
+Culture:(Specific Culture)                       	MST       	3	-4
+"Cryptograhy			                                   "	FCS       	7	0
+Data Analysis                                    	MAG       	3	-4
+Debate                                           	MCA       	4	-1
+Diplomacy                                        	MCA       	4	-1
+Disguise:(General)                               	MCA+FCS   	4	-1
+Disguise:(Verbal)                                	MCA       	4	-1
+Disguise:(Visual)                                	MCA       	4	-1
+Dry Art                                          	FCS       	3	-2
+Elocution                                        	MCA       	3	-4
+Florentine:Mental/Mental                         	MAG+MAW   	3	-4
+Florentine:Mental/Physical                       	MAG+MAW+PAW	3	-4
+Florentine:Physical/Physical                     	PAG+PAW   	3	-4
+Forgery                                          	FCS       	4	-1
+Gambling                                         	MCA       	4	-1
+Holography                                       	FCS       	4	-1
+Hypnotism                                        	MCA       	4	0
+Impersonation                                    	MCA       	4	-1
+Infiltration                                     	MCA       	4	0
+Instrumental Music                               	FCS       	3	-2
+Interrogation                                    	MCA       	4	-1
+Investigation                                    	MCA       	4	0
+Journalism                                       	FCS       	4	-1
+Language:(Specify)                               	FCS       	3	-4
+Law:(Business)                                   	FCS       	5	-1
+Law:(Patent)                                     	FCS       	5	-2
+Law:(Criminal)                                   	FCS       	5	-2
+Logic                                            	FCS       	3	-4
+Lore:(Area of Information)                       	MST       	3	-4
+Mime                                             	MCA       	4	-1
+Office Technical Systems                         	FCS       	5	-1
+Philosophical Anthropology                       	          	7	0
+Philosophy                                       	FCS       	3	-4
+Pilot/craft                                      	FCS       	6	-2
+"Prevarication	                                   "	MCA       	4	-1
+Presence:(Mental)                                	MAW       	3	-4
+Presence:(Physical)                              	PAW       	2	0
+Presence:(General)                               	GAW       	3	-4
+Pressure Suit Ops                                	FCS       	6	-2
+Reconnisciance                                   	FCS       	4	-1
+Sculpture                                        	MCA+PDX   	4	-1
+Security Devices                                 	FCS       	4	0
+Singing                                          	MCA+FCS   	4	-1
+Songwriting                                      	FCS       	4	-1
+Stealth:(Aural)                                  	PAW       	2	0
+Stealth:(General)                                	GAW       	2	0
+Stealth:(Olfactory)                              	PAW       	2	0
+Stealth:(Tactile)                                	PAW       	2	0
+Stealth:(Visual)                                 	PAW       	2	0
+Survival:(Environment)                           	PAW       	4	0
+Tailing                                          	GAW       	3	-4
+Teaching                                         	MST       	4	-1
+Tech Index:(Appropriate Tech Index)              	MST       	3	-4
+Theatre                                          	GAW       	3	-2
+Theft                                            	DEX       	4	-1
+Theology                                         	FCS       	3	-4
+Tracking                                         	GAW       	4	0
+Trading                                          	MAG       	4	-1
+Vehicle:(Specify Vehicle)                        	FCS       	4	0
+Writing                                          	FCS       	4	-1
+Dance:(Type)                                     	PAG       	3	-2
+Movement:(Environment)                           	PAG       	2	0
+Quickdraw Projectile Weapon:(Specify Class of Weapon)	PDX       	3	-1
+Projectile Weapon:(Specify Weapon)               	ACC       	3	-1
+Melee Weapon:(Specify Weapon)                    	PCA       	3	-1
+Dodge                                            	PDF       	2	0
+Disguise:(Psionic)                               	PSI       	4	-5
+Stealth:(Psionic)                                	MAW       	3	-4
+Discipline:(Pick Name)                           	FCS       	3	-4
+Discipline:(Pick Name)                           	          	3	-4
+Telekinetics(Filter)                             	          	3	-4
+Telekinetic Perception                           	          	3	-4
+Telekinesis                                      	          	3	-4
+Discipline:Levitate                              	          	3	-4
+Biokinetics(Filter)                              	          	3	-4
+Biokinetic Perception                            	          	3	-4
+Biokinesis                                       	          	3	-4
+Gestalt Lore:My Own Body                         	          	3	-4
+Temporokinetics(Filter)                          	          	3	-4
+Temporokinetic Perception                        	          	3	-4
+Temporokinesis                                   	          	3	-4
+Discipline:Teleportation                         	          	3	-4
+Memorize Location                                	          	3	-4
+Energetics(Filter)                               	          	3	-4
+Energetic Perception                             	          	3	-4
+Energetics (Transform Energy )                   	          	3	-4
+Knowledge of Energy:Heat or                      	          	3	-4
+Physics E\&M or                                  	          	3	-4
+Gestalt Lore:IR                                  	          	3	-4
+Telepathics(Filter)                              	          	3	-4
+Telepathic Perception                            	          	3	-4
+Telepathy                                        	          	3	-4
+Discipline:Empathy                               	          	3	-4
+Discipline:Telempathic Projection                	          	3	-4
+Discipline:Surface Read                          	          	3	-4
+Discipline:Telepathic Surface Projection         	          	3	-4
+Discipline:Telepathic Read                       	          	3	-4
+Discipline:Telepathic Projection                 	          	3	-4
+Discipline:Telepathy                             	          	3	-4
+Discipline:Mind Meld                             	          	3	-4
+Mystokinetics(Filter)                            	          	3	-4
+Mystokinetic Perception                          	          	3	-4
+Mystokinetics                                    	          	3	-4
+Discipline:Precognition                          	          	3	-4
+Discipline:Retrocognition                        	          	3	-4
+Discipline:Object Reading                        	          	3	-4
+Deception(Psionic)                               	          	3	-4
+Accounting Science                               	FCS       	9	-2
+Archeology                                       	FCS       	7	0
+Astro Physics                                    	FCS       	8	-1
+Biochemistry                                     	FCS       	7	0
+Biology                                          	FCS       	7	0
+"Botany			                                        "	FCS       	7	0
+Chemistry                                        	FCS       	7	0
+"Classical Physics			                             "	FCS       	7	0
+Cognoscology                                     	FCS       	7	0
+"Computer Sci		                                   "	FCS       	7	0
+Cultural Anthropology                            	FCS       	7	0
+"Electrical and Magnetic Field Physics			         "	FCS       	7	0
+"Eco Engineering			                               "	FCS       	6	-1
+"Ecology			                                       "	FCS       	7	0
+"Electrical Engineering		                         "	FCS       	6	-1
+Electrical Operations                            	FCS       	5	-1
+Electrical Tech                                  	FCS       	5	-1
+Field Physics                                    	FCS       	7	0
+Forensic Engineering                             	FCS       	6	-1
+Forensic Tech                                    	FCS       	5	-1
+Forensics                                        	FCS       	7	0
+"Genetic Engineering			                           "	FCS       	6	-1
+Genetic Tech                                     	FCS       	5	-1
+"Genetics		                                       "	FCS       	7	0
+Geology                                          	FCS       	7	0
+History                                          	FCS       	7	0
+Hydroponics Tech                                 	FCS       	5	-1
+"Hyper Atomics	                                   "	FCS       	7	0
+Linguistics Tech                                 	MCA       	5	-1
+"Linguistics	                                     "	FCS       	7	0
+Math Analyst                                     	FCS       	5	-1
+"Mathematics				                                  "	FCS       	7	0
+"Mechanical Engineering		                         "	FCS       	6	-1
+Mechanical Ops                                   	FCS       	5	-1
+Mechanical Tech                                  	FCS       	5	-1
+"Medicine		                                       "	FCS       	6	-1
+Medical Ops                                      	FCS       	5	-1
+Medical Tech                                     	FCS       	5	-1
+"Metallurgy		                                     "	FCS       	7	0
+"Mining Engineering		                             "	FCS       	6	-1
+Mining Ops                                       	FCS       	5	-1
+Mining Tech                                      	FCS       	5	-1
+"Modeling Engineering	                            "	FCS       	6	-1
+Navigation:(Interstellar)                        	FCS       	5	-1
+Navigation:(Intrastellar)                        	FCS       	5	-1
+"Nexialism		                                      "	FCS       	7	0
+Optical Engineering                              	FCS       	6	-1
+Optical Tech                                     	FCS       	5	-1
+"Pharmacognosy	                                   "	FCS       	4	0
+Pharmacology                                     	FCS       	7	0
+Physical Anthropology                            	FCS       	7	0
+"Planetology	                                     "	FCS       	7	0
+"Power Engineering		                              "	FCS       	6	-1
+Power Operations                                 	FCS       	6	-2
+Power Tech                                       	FCS       	5	-1
+"Psi Engineering			                               "	FCS       	6	-1
+Psi Tech                                         	FCS       	5	-1
+"Psychiatry		                                     "	FCS       	7	0
+Psychology                                       	FCS       	7	0
+"Robotics		                                       "	FCS       	7	0
+Robotics Tech                                    	FCS       	5	-1
+"Terraforming		                                   "	FCS       	6	-1
+Zoology                                          	FCS       	7	0

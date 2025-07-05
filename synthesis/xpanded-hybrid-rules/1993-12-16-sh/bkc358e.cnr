@@ -1,0 +1,75 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911211111156.421;
+          11 Dec 91 11:12:28 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911211111156.421;
+          11 Dec 91 11:12:21 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA05094; Wed, 11 Dec 91 11:13:47 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA27121; Wed, 11 Dec 91 09:29:58 -0500
+Message-Id: <9112111429.AA27121@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 6986; Wed, 11 Dec 91 09:30:08 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 8596;
+ Wed, 11 Dec 91 09:30:07 EST
+Date:         Wed, 11 Dec 1991 09:26:00 EDT
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Greg Porter <PORTERG%VCUVAX.BITNET@uga.cc.uga.edu>
+Subject:      RPG: Organization
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+
+Someone made a point about leadership, and it was well put.  Most games have
+been designed by an individual, or a very small group, with a larger circle
+of playtesters who provide *advice*, which may or may not be implemented.
+
+I think it will be difficult to get a net.consensus on virtually *any* aspect
+of this RPG, because there will always be a minority who object to one thing
+or another.  I agree that there have been a number of good ideas presented,
+but just because they are good does not mean they are compatible.  If there
+is not some sort of way to "fix" a certain rule and force people to accept it
+as a net.rule, whether they like it or not, this discussion will never get
+anywhere.
+
+For instance, someone said dice are not important, and that once you have the
+system, any dice you feel like can be implemented.
+
+Hohohoho.....
+
+The choice of dice influences every aspect of the game.  Will you have dice
+rolls against attributes?  Then the attribute range must match the dice type.
+Do you want an inherent bell curve, or a linear dice curve where the skill
+modifiers provide the proper dropoff?  This influences whether you use a d10,
+d6, d20 or d100, or 2d6, 3d6, etc.  Do you want a lot of average rolls, with
+few oddballs?  Then use lots of dice and count on averaging.  Do you want a
+wider range of variability?  Then use less dice.  If you want high numbers
+on dice, do low numbers mean equipment failure (gun jams)?  Then how does the
+number of dice rolled affect this?
+
+Simple considerations like this influence *everything* else, and the same
+arguments can be made on the attributes used, skill system implementation,
+combat, character generation, experience, and so on.
+
+As a designer, I can tell you some priorities, which you have already found
+out:
+
+What are your attributes?
+What is the scale they are based on (a human norm range, for instance)?
+What type of dice will you use?
+
+Until you find a way to decide these and make them *nearly* immutable to
+change, you will continue to play with theory and never get around to
+practice.
+
+I believe I said a lot of this last time around, along with "I told you so".
+
+Don't make me say it again ;);)
+
+Please.
+
+
+Greg Porter
+
+P.S.    Even shared world novels have their background parameters fixed before
+the various authors start writing.  It's the only way to make a group creative
+effort work well.

@@ -1,0 +1,22 @@
+.Name FireRocks
+
+.NRG Fire
+
+.ACT Summon
+.ACT Bind
+.ACT Divine
+.ACT Activate
+.ACT Damage
+
+.CCOMP Material
+.CCOMP Verbal
+.CCOMP ToHitRoll
+
+.EC 10
+.CDF 0
+.RNG Touch
+.CTSCALE Pulse
+.DUR 1
+.DURSCALE 10Min
+.QE 20
+.LINKQE 1 

@@ -1,0 +1,529 @@
+
+Accounting {M:E}
+Accounting {M:F}
+Accupressure {M:F}
+Accupressure {P:D}
+Accupuncture {M:F}
+Accupuncture {P:D}
+Acrobatics {P:D}
+Acrophobia (high places) {E:Ph}
+Acting {E:D}
+Acting {E:F}
+Administration{M:F}
+Advertising{M:F}
+Agoraphobia (open spaces) {E:Ph}
+Agriculture {M:F}
+Agronomy {M:F}
+Aikido [Modern] {P:C}
+Ailurophobia (cats) {E:Ph}
+Aircraft, heavy (747, B-52, etc.) [Modern]{M:F}
+Aircraft, light (Cessna, Sopwith, etc.) [Modern]{M:F}
+Aircraft, medium [Modern]{M:F}
+Alchemy {M:F}
+Alchemy {M:T}
+Medecine: Allergy {M:F}
+Ancient history {M:F}
+Androphobia (men) {E:Ph}
+Animal Biology{M:F}
+Animal handling {P:D}
+Animal handling {P:F}
+Animal husbandry{M:F}
+Animal training {M:F}
+Appraisal {M:F}
+Archaeology {M:F}
+Architecture {M:F}
+Armorer {P:D}
+Arrowsmith {P:D}
+Art appreciation {M:F}
+Art appreciation{S:Dt}
+Artifi cial intelligence {M:F}
+Astraphobia (lightning) {E:Ph}
+Astrogation [Future] {M:F}
+Astrology {M:D}
+Astrology {M:F}
+Astronomy {M:F}
+Astrophysics [Modern] {M:F}
+Badminton [Modern] {P:F}
+Balloon [Modern]{M:F}
+Barber{P:D}
+Bard {S:F}
+Bard{E:D}
+Barrelmaking {P:D}
+Barter {E:D}
+Baseball [Modern] {P:F}
+Basketball {P:F}
+Bathophobia (depths) {E:Ph}
+Bellfounder {P:D}
+Biathlon [Modern] {P:F}
+Bicycling [Modern]{P:D}
+Biochemistry [Modern]{M:F}
+Biophysics [Modern] {M:F}
+Blackjack [Modern]{M:F}
+Blacksmithing {P:D}
+Blowguns {P:C}
+Body shields {P:C}
+Bolas {P:C}
+Bookbinding {M:T}
+Boomerangs {P:C}
+Bowmaking {P:D}
+Bows {P:C}
+Brassworker {P:D}
+Breath Control {P:E}
+Brewing {M:T}
+Bribery {E:D}
+Bricklaying {P:F}
+Bucklers {P:C}
+Calculus [Modern] {M:F}
+Calligraphy {P:D}
+Candlemaking {P:D}
+Cardiovascular Medicine {M:F}
+Cardiovascular surgery{M:F}
+Carpentry {M:T}
+Carpentry {P:D}
+Carrying {P:F}
+Cartography {M:T}
+Cartwright {P:D}
+Cinematography [Modern] {M:F}
+Cinematography{S:Dt}
+Civil law {M:F}
+Claustrophobia (enclosed places) {E:Ph}
+Clerical work {M:F}
+Climatology {M:F}
+Climbing claws {P:C}
+Climbing claws {P:D}
+Climbing {P:D}
+Clinical psychology [Modern] {M:F}
+Clockmaking {M:T}
+Clockmaking {P:D}
+Clothier{P:D}
+Clubs and maces {P:C}
+Cobbling {P:D}
+Combat driving [Modern] {P:D}
+Combat endurance {P:E}
+Combat initiative {M:RT}
+Combat initiative {P:RT}
+Composition {M:F}
+Computer Engineering [Modern] {M:F}
+Computer hacking [Modern] {M:T}
+Computer operation: Windowing systems , by OS (graphical) [Modern] {M:T}
+Computer operation: Text-only systems , by OS (command-line) [Modern] {M:T}
+Computer programming, by language [Modern] {M:T}
+Computer security [Modern] {M:T}
+Conducting {M:F}
+Contortion {P:D}
+Conversation {E:D}
+Conversation {E:E}
+Conversation {E:F}
+Conversation {E:RT}
+Cooking {M:D}
+Cooking {M:F}
+Cooking {P:D}
+Coppersmithing {P:D}
+Corporate law [Modern] {M:F}
+Criminal law {M:F}
+Criminology {M:F}
+Crossbows {P:C}
+Cryptology {M:F}
+Culture studies (specify){M:F}
+Chakrams {P:C}
+Charioteering {P:D}
+Chemistry{M:F}
+Chess{M:F}
+Chiropractic{M:F}
+Dancing {P:D}
+Darts {P:C}
+Debate {E:D}
+Debate {E:E}
+Debate {E:F}
+Decathlon {P:F}
+Demolitions [Modern] {M:T}
+Demolitions [Modern]{P:D}
+Dentistry {M:F}
+Detect lies{S:Dt}
+Detective training {M:D}
+Diplomacy {E:D}
+Diplomacy {E:RT}
+Dirigible [Modern]{M:F}
+Discrete mathematics [Modern] {M:F}
+Disguise {P:D}
+Dodging {P:D}
+Dogsledding {P:F}
+Drafting{M:T}
+Driving: All-terrain vehicle [Modern]{P:D}
+Driving: Hovercraft, water [Modern]{P:D}
+Driving: Hovercraft, land [Future]{P:D}
+Driving: Motorcycle driving [Modern]{P:D}
+Driving: Passenger vehicle driving (cars) [Modern]{P:D}
+Driving: Rail vehicle [Modern]{P:D}
+Driving: Semi truck driving [Modern]{P:D}
+Driving: Small truck driving [Modern]{P:D}
+Driving: Snowmobile [Modern]{P:D}
+Driving: Tracked vehicle [Modern]{P:D}
+Ecology {M:F}
+Economics {M:E}
+Economics {M:F}
+Ecophobia (home) {E:Ph}
+Electrical Engineering [Modern] {M:F}
+Electronics, simple [Modern] {M:T}
+Embroidery {P:D}
+Endocrinology {M:F}
+Energy blade [Future] {P:C}
+Energy haft [Future] {P:C}
+Energy whip [Future] {P:C}
+Engraving {P:D}
+Environmental ethics {M:F}
+Environmental Science {M:F}
+Escape{P:D}
+Ethics {M:F}
+Ethnography {M:F}
+Ethnomusicology {M:F}
+Etiquette {E:D}
+Etiquette {E:F}
+Etiquette {M:F}
+Falconry{P:D}
+Fast draw{P:RT}
+Fast talk{M:RT}
+Feng Shui (Chinese art of house arrangement and decoration) {S:F}
+Fiction {M:D}
+Fiction {S:D}
+Fine hand motor control {P:D}
+Firebuilding {P:D}
+Firefighting{P:D}
+First Aid [Modern] {M:F}
+Fishing {P:D}
+Fletcher {P:D}
+Football, American [Modern] {P:F}
+Forensic Medicine {M:F}
+Forgery {P:D}
+Free fall/Break fall{P:RT}
+Freight carrier {P:F}
+Full moons {P:C}
+Gambling {M:D}
+Game show host{E:D}
+Game theory [Modern] {M:F}
+Gemcutting {P:D}
+General Biology {M:F}
+General education (high school equivalent) {M:F}
+General Practice {M:F}
+General Practice Nurse{M:F}
+Genetics [Modern]{M:F}
+Genre training: 90s pop{M:F}
+Genre training: Big band{M:F}
+Genre training: Blues{M:F}
+Genre training: Opera{M:F}
+Genre training: Ragtime{M:F}
+Genre training: 60s pop{M:F}
+Genre training: Classical (individual periods){M:F}
+Genre training: Country{M:F}
+Genre training: Jazz{M:F}
+Genre training: 80s pop{M:F}
+Genre training: Disco{M:F}
+Geography {M:F}
+Geology {M:F}
+Geometry {M:F}
+Geophysics [Modern] {M:F}
+Gephyrophobia (crossing a bridge) {E:Ph}
+Geriatric Medicine {M:F}
+Geriatric Nurse {M:F}
+Glassblowing{P:D}
+Glider [Modern]{M:F}
+Go {M:F}
+Goldsmithing {P:D}
+Golf [Modern] {P:F}
+Golfing [Modern] {P:D}
+Graphics and presentation packages , by package [Modern] {M:T}
+Grenades {P:C}
+Gunsens {P:C}
+Gymnastics {P:F}
+Gynecology {M:F}
+Gynecology {M:F}
+Gynophobia (women) {E:Ph}
+Hafted weapons {P:C}
+Handball {P:F}
+Hatter {P:D}
+Hearing{S:Dt}
+Helicopter, heavy (military, medical) [Modern]{M:F}
+Helicopter, light (civilian) [Modern]{M:F}
+Hemophobia (blood) {E:Ph}
+Heptathlon {P:F}
+Heraldry {M:F}
+Herbalism {M:F}
+Hiding {P:D}
+Hockey, field [Modern] {P:F}
+Hockey, ice [Modern] {P:F}
+Home electronics{M:F}
+Horticulture {M:F}
+Hunting {P:D}
+Hydrophobia (water) {E:Ph}
+Hypnotism{E:D}
+Ice skaking, figure [Modern] {P:F}
+Ice skating, racing [Modern] {P:F}
+Innkeeping {M:F}
+Interior Design {M:F}
+Interrogation {E:D}
+Interrogation {E:E}
+Interrogation {E:F}
+Interrogation {E:RT}
+Intimidation{E:F}
+Jogging {P:F}
+Journalism {M:D}
+Journalism {S:D}
+Juggling {P:D}
+Kicking {P:C}
+Knives and daggers {P:C}
+Kusarigamas {P:C}
+Kyoketsu-shogis {P:C}
+Lacrosse {P:F}
+Languages{M:F}
+Lariats {P:C}
+Leadership {E:D}
+Leadership {E:E}
+Leadership {E:RT}
+Leatherworking {P:D}
+Library science {M:F}
+Lifting {P:F}
+Linguistics {M:F}
+Lip reading {M:D}
+Lockpicking {P:D}
+Logic {M:F}
+Logic {M:F}
+Lunaphobia (moon) {E:Ph}
+Machine guns {P:C}
+Mainframe operation , by OS [Modern] {M:T}
+Marblework {P:D}
+Martial Arts: Karate {P:C}
+Martial Arts: Jiu-jitsu {P:C}
+Martial Arts: Boxing, Gloved {P:C}
+Martial Arts: Wrestling {P:C}
+Martial Arts: Fencing {P:C}
+Martial Arts: Boxing, Bare-handed {P:C}
+Martial Arts: Kickboxing {P:C}
+Martial Arts: Kung Fu {P:C}
+Martial Arts: Pugilism {P:C}
+Martial Arts: Aikido [modern] {P:C}
+Martial Arts: Savate {P:C}
+Martial Arts: Ninjitsu {P:C}
+Martial Arts: Tai chi {P:C}
+Masonry {P:F}
+Mathematics {M:D}
+Mathematics {M:E}
+Mechanical Engineering {M:F}
+Mechanics [Modern] {M:T}
+Mechanics [Modern] {P:D}
+Medical ethics{M:F}
+Medicine, Western {M:T}
+Medicine, Western {P:D}
+Medicine {M:D}
+Medicine: Trauma {M:F}
+Meditation {S:F}
+Metallurgy {M:D}
+Metaphysics {M:F}
+Meteorology{M:F}
+Microbiology [Modern]{M:F}
+Mimicry {P:D}
+Mining {M:F}
+Mining {P:D}
+Modern physics [Modern] {M:F}
+Mountaineering {P:D}
+Mountaineering {P:F}
+Multivariable Calculus [Modern] {M:F}
+Music history{M:F}
+Music theory {M:F}
+Musical Instrument: Other percussion {P:D}
+Musical Instrument: Other instrument {P:D}
+Musical Instrument: Clarinet, etc. {P:D}
+Musical Instrument: Drums {P:D}
+Musical Instrument: Trumpet, tuba, saxophone, etc. {P:D}
+Musical Instrument: Piano, harpsichord, glass harmonica, etc. {P:D}
+Musical Instrument: Other reed {P:D}
+Musical Instrument: Bassoon, oboe, serpent, etc. {P:D}
+Musical Instrument: Guitar, mandolin, lute, harp, etc. {P:D}
+Musical Instrument: Flute, piccolo, recorder, etc. {P:D}
+Musical Instrument: Other wind/horn {P:D}
+Musical Instrument: Other string {P:D}
+Musical Instrument: Viola, violin, violincello, etc. {P:D}
+Musical Instrument: Trombone {P:D}
+Musophobia (mice) {E:Ph}
+Naturalist{M:F}
+Navigation {M:F}
+Neuroscience [Modern]{M:F}
+Neurosurgery{M:F}
+News anchor{E:D}
+News anchor{E:F}
+Newtonian physics [Modern] {M:F}
+Non-Euclidean geometry [Modern] {M:F}
+Nuclear physics [Modern] {M:F}
+Nunchaku {P:C}
+Nursing {M:D}
+Nursing {M:T}
+Nursing {P:D}
+Nyctophobia (darkness) {E:Ph}
+Obstetric Medicine {M:F}
+Obstetric Nurse {M:F}
+One-handed swords {P:C}
+Opera [Modern] {M:F}
+Operating systems {M:F}
+Ophidiophobia (snakes) {E:Ph}
+Oration {E:D}
+Oration {E:F}
+Painting, non-realist {S:D}
+Painting, realist {P:D}
+Parachuting [Modern] {P:D}
+Paramedic (Emergency Medical Technician) {M:T}
+Paramedic {M:F}
+Paramedic [Modern] {P:D}
+Pediatric Medicine {M:F}
+Pediatric Nurse {M:F}
+Persuasion {E:D}
+Persuasion {E:F}
+Persuasion {E:RT}
+Pharmacology{M:F}
+Philosophy of religion {M:F}
+Philosophy {M:D}
+Philosophy {M:E}
+Photography [Modern] {M:F}
+Photography [Modern] {M:T}
+Photography{S:Dt}
+Physics {M:D}
+Physics {M:E}
+Physiology{M:F}
+Pickpocket {P:D}
+Pistols {P:C}
+Plant Biology (botany){M:F}
+Plumbing {M:F}
+Plumbing {P:D}
+Podiatric Medicine{M:F}
+Poetry {M:D}
+Poetry {S:D}
+Poisons{M:F}
+Poker [Modern]{M:F}
+Polearms {P:C}
+Police training {M:F}
+Politics (academic){M:F}
+Polo [Modern] {P:F}
+Pottery {P:D}
+Programming language theory {M:F}
+Prospecting{M:F}
+Psychiatry [Modern] {M:F}
+Psychology {M:D}
+Psychotherapy [Modern] {M:F}
+Punching {P:C}
+Pyrophobia (fire) {E:Ph}
+Quantum physics [Modern] {M:F}
+Racquetball [Modern] {P:F}
+Ranged energy weapons [Future] {P:C}
+Ranged slug weapons [Future] {P:C}
+Reading and writing {M:T}
+Recent history {M:F}
+Religion {M:F}
+Research techniques{M:F}
+Riding: Air-based (specify) {P:D}
+Riding: Land-based (specify) {P:D}
+Riding: Water-based (specify) {P:D}
+Rifles {P:C}
+Roleplaying games [Modern]{M:F}
+Rollerblading [Modern] {P:F}
+Rollerskating [Modern] {P:F}
+Roping {P:D}
+Rugby [Modern] {P:F}
+Running endurance {P:E}
+Running {P:F}
+SCUBA diving [Modern] {P:F}
+Sculpture {P:D}
+Sculpture {S:D}
+Seamanship {M:T}
+Seamanship: Rowing {P:D}
+Seamanship: Sailing: Triple mast {P:D}
+Seamanship: Sailing: Single mast {P:D}
+Seamanship: Sailing: Double mast {P:D}
+Security systems [Modern] {M:F}
+Seduction {E:D}
+Seismology {M:F}
+Self-defense techniques (from anti-harrassment classes) {P:C}
+Sewing {M:T}
+Shadowing {P:D}
+Shaper blade [Future] {P:C}
+Shaper haft [Future] {P:C}
+Shaper pole [Future] {P:C}
+Shaper whip [Future] {P:C}
+Ship design/Shipbuilding{M:F}
+Shotguns {P:C}
+Shuriken {P:C}
+Silversmithing {P:D}
+Singing {P:D}
+Skiing {P:F}
+Sleight of hand {P:D}
+Slings {P:C}
+Small plane piloting [Modern] {M:T}
+Smell{S:Dt}
+Soccer (football) [Modern] {P:F}
+Social engineering {E:RT}
+Social engineering{E:D}
+Social engineering{E:F}
+Sociology {M:F}
+Solophobia (sun) {E:Ph}
+Space suit [Future] {P:D}
+Spacecraft piloting: Spaceship, small [Future]{M:F}
+Spacecraft piloting: Spaceship, capital [Future]{M:F}
+Spacecraft piloting: NASA vessel [Modern]{M:F}
+Spacecraft piloting: Shuttle [Future]{M:F}
+Spears {P:C}
+Specific regional history {M:F}
+Specific subject history {M:F}
+Speed load{P:RT}
+Sport endurance {P:E}
+Sport initiative{P:RT}
+Sports{P:D}
+Spreadsheets , by package [Modern] {M:T}
+Squash [Modern] {P:F}
+Standard shields {P:C}
+Statistics [Modern] {M:F}
+Stealth {P:D}
+Stonemasonry {P:D}
+Stonemasonry {P:F}
+Submachine guns {P:C}
+Surgical Medicine {M:F}
+Surgical Nurse {M:F}
+Swimming {P:F}
+Sword shields {P:C}
+Tactics{M:F}
+Tailoring {P:D}
+Talk show host{E:D}
+Tanning {P:F}
+Targeting{S:Dt}
+Taste{S:Dt}
+Tax law {M:F}
+Teaching {M:D}
+Tennis {P:F}
+Teratophobia (monsters) {E:Ph}
+Thanatophobia (death) {E:Ph}
+Theology{M:F}
+Throwing {P:F}
+Tiger claws {P:C}
+Tonfa {P:C}
+Torture {S:F}
+Touch{S:Dt}
+Tracking{S:Dt}
+Trading {E:D}
+Trading {E:F}
+Trauma Nurse{M:F}
+Trigonometry {M:F}
+Triskaidekaphobia (the number 13) {E:Ph}
+Two-handed swords {P:C}
+Ultimate Frisbee [Modern] {P:F}
+Ultralight [Modern]{M:F}
+Ventriloquism {P:D}
+Veterinarian {M:F}
+Veterinarian {P:D}
+Vision{S:Dt}
+Volleyball [Modern] {P:F}
+Water polo {P:F}
+Weaponsmithing {M:T}
+Weaving {P:D}
+Whips and flails {P:C}
+Wilderness survival {P:E}
+Wilderness survival {P:F}
+Wilderness Survival {M:F}
+Word processing , by package [Modern] {M:T}
+Zero Gravity Maneuvering [Modern/Future] {P:D}
+Zoology{M:F} 

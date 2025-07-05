@@ -1,0 +1,10 @@
+/^$/d
+/\%/d
+/SHTable/d
+/begin/d
+/hline/d
+/tabular/d
+/caption/d
+/^/s//\<row\>\<entry\>/g
+/\&/s//\<\/entry\>\<entry\>/g
+/\\\\/s//\<\/entry\>\<\/row\>/g

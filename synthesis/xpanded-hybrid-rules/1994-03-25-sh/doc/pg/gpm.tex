@@ -1,0 +1,331 @@
+\chapter{General Playing Mechanics}
+
+This chapter discusses various pieces of the game system that effect 
+every character. These rules are not specific to either combat or 
+non-combat situations.  
+
+The model of tasks and actions in Space Hybrid\ is based on a series of 
+reactions and actions. When a character first enters a scene
+they determine how much they see and understand of the situation {\em 
+perception roll}. Then they determine how quickly they can react {\em 
+initiative roll}. The character will react faster when they know what 
+is going on and slower when they don't. If a character is expecting 
+something to happen they can prepare for that occurrence {\em preset 
+reactions} and speed up their response. 
+
+Once the character has reacted they determine what they will do and then 
+do the action. 
+
+There are a variety of things that can modify the chance of doing an 
+action successfully. The character can mentally prepare for the 
+action {\em set-up} to increase their chances. The action can be sped 
+up by decreasing the chance of success {\em rushing an action}. 
+Actions can be performed simultaneously {\em floretine}. There are 
+additional modifiers for doing something while moving or while tired 
+and so on\dots
+
+\section{Time Scale}
+
+Time is referred to by the units we are used to, Hours, minutes, and seconds 
+and one that is new: Pulses. A {pulse} is 1/10th of a second. Pulses are
+used in combat and other time critical activities.
+
+\section{Perception}
+
+Most of the time a situation is self evident. A character automatically
+knows that there is a bar in the room and how many people are in it.
+But if something could go unnoticed by the character, such as a suprise 
+attack or something hidden, the player should make a {perception roll}. 
+A perception roll is typically SB = PAW, DF=0, with modifiers for 
+how alert the character is trying to be. A perception roll takes
+8 pulses. A {Passive Perception Roll} can be made 
+during any action at 1/4 the success chance of a normal perception roll. A
+passive perception roll takes no time and takes no modifiers for 
+simultaneous actions.
+
+The critical success and failure effects are fairly straight forward. 
+
+\begin{verbatim}
+	Amazing Success - Total Understanding, 300% Detail, +-0% Timing
+	Very Notable Success - Total Identification, 200% Detail, +-5% Timing
+    Notable Success - Total Identification, 150% Detail, +-10% Timing
+	Solid Success - Able to Identify exactly what is happening, 125% Detail, +-25% Timing
+	Success - Basic Identification, 100% Detail, +-50% timing
+	Failure - Vague Identification, 25% Detail, +-75% timing
+	Solid Failure - No real clue, 0 Detail, 0 Timing
+	Notable Failure - Inaccurate Identification, +-125% Detail, +-175% Timing
+	Very Notable Failure - Inaccurate Identification, +-150% Detail, +-200% Timing
+	Amazing Failure - Wildly Inaccurate Identification, +-250% Detail, +-300% Timing
+\end{verbatim}
+
+\begin{verbatim}
+Task: Active Physical Perception  
+DF: 0 
+Time: 8 cts. 
+Skills: General Perception, Combat Perception
+Notes: 
+\end{verbatim}
+
+\begin{verbatim}
+Task: Passive Physical Perception  
+DF: 0 
+Time: 0 cts. 
+Skills: General Perception, Combat Perception
+Notes: Done at 1/4 the normal chance 
+\end{verbatim}
+
+\input{tgpm6}
+
+\section{Initiative}
+
+When a character first becomes involved in a conflict they
+roll a perception roll. Then the PC rolls an {Initiative} roll. The 
+Initiative roll is simply 2D8 added together. There are modifiers 
+
+\[{Initiative} = 2d8 - {Characters\ Speed}\]
+
+If the perception roll is unsuccessful, the character adds a modifier 
+to the roll. 
+
+\[{Initiative} = 2d8 - {Characters\ Speed} + 6\]
+
+All initiative rolls after the first are made using the character's 
+Speed and any speed points.
+
+\[{Initiative} = 2d8 - {Characters\ Speed} - {Speed\ Points}\]
+
+There are, of course, modifiers to the perception roll as detailed in table 
+~\ref{tab:PM}
+
+If the initiative roll is lower than 0 the excess speed goes toward speed points 
+and can be applied to a number of seperate tasks.
+
+\subsection{Speed Gains Due to Rank in a Skill}
+
+The character may add \( Rank/2 \) points to their speed points when using a
+skill. This may only be done once the character has decided to use a
+given skill. 
+
+\subsection{Preset Reactions}
+
+If a character is waiting for a signal or action that triggers his own
+actions then they have ``preset'' an action. A gunfighter waiting for 
+someone else to start drawing their weapon is a preset action. 
+Declaring an action to be preset allows an DF +2 
+to a perception roll. If the perception roll is successful, the 
+character gets to apply their full speed points 
+roll without having . Gunfighters waiting on someone else's  
+draw of a weapon would preset a reaction. 
+
+A Preset reaction may only be held for MST in the time scale 
+that the players are working in before a cost of 1 MFT must be 
+expended.
+
+\section{Actions}
+
+Actions normally begin at the count given by the initiative roll. The 
+must be made at this point. The speed of the action is determined and 
+the character takes this action on a pulse given by Initiative +
+Action Speed.  
+
+\section{Speeds of Actions}
+
+Most actions have a speed associated with them. All simple actions 
+, unless otherwise noted, have a standard speed of 10 counts. 
+ 
+% Speeds of Basic Actions
+\input{tgpm7}
+
+Actions can be performed faster. Speeding up an action lowers the
+chance of success. For each percentage of time units the action is 
+sped up a corresponding percentage is removed from 
+the success chance. Thus an action performed in 1/4 the time has
+1/4 the success chance.
+
+\section{Drawing a Tool or Weapon}
+
+This most often applies to drawing a weapon but can also apply to 
+other tools. In general, when a weapon is in hand, all normal weapon 
+speeds apply. In order to get a weapon into ones hand it takes 
+\( 2 \times Speed_{weapon} \) in pulses. 
+
+In order to get a weapon in hand faster than \( 2 \times 
+Speed_{weapon} \) requires a fast draw or ready roll against the weapon's 
+skill. A successful ready roll brings the tool or weapon to bear at 
+\( Speed_{weapon} \).  
+
+\section{Resolving an Action}
+Actions usually require only a skill roll to be made. 
+
+\subsection{Results}
+
+The end result of a roll is either a numeric value or a simple 
+subjective result. See the table ~\ref{tbl-critsuccess}
+
+\section{Modifiers} 
+
+This section describes the common Difficulty Factors for various 
+situations. All these modifiers are culmulative.
+
+\subsection{Unranked in the Skill}
+
+A character who has training or experience in an action is
+unranked in the required skill. Any character performing an action using 
+a skill they have no rank in has 1/2 the normal base chance. 
+
+\subsection{Set-up}
+
+The term Set-up means to wait and prepare for a given action. Setting Up for
+an action takes as long as it takes to perform the action. The end effect is a
+bonus to the Success Chance of \[ 20\% + 2\%/rank\]. 
+
+\subsection{Florentine}
+
+Performing two actions at the same time is called Florentining.
+
+One of the two actions is the primary action and it recieves a 
+DF -3. The secondary action recieves a DF -6. This is only true 
+if the two actions are both physical or both mental. If one 
+action is a mental action and the other is a physical one the modifiers
+go down to DF -2 and DF -4.
+
+% Include General Modifiers Table
+\input{tskill1.tex}
+
+\subsection{Physically Injured or Tired}
+
+A character that is injured or fatigued has DF modifiers to 
+their actions. Physical fatigue has the greatest effect on physical actions 
+and Mental fatigue has the greatest effect on Mental actions.
+
+\input{tskill2.tex}
+\input{tskill3.tex}
+
+\subsection{Movement} 
+
+When performing an action the character may be affected by 
+his rate of movement. If the character is moving faster than a 
+walk the DF due to movement applys to any physical action they are 
+attempting. ANy mental action they perform is subject to 1/2 
+the listed DFs.
+
+\begin{stable}{Movement Modifiers}{ll}
+	Double Move: jog							  & DF -2 \\
+	Triple Move: Run							  & DF -4 \\
+	Fast move: Dash							 & DF -6\\
+	Vehicular Movement							& DF -10 \\ 
+\end{stable}
+
+\subsection{Environmental Conditions}
+
+This is a catchall area. Characters generally are at their best 
+performance in conditions similiar to the environment in which they 
+were raised. Any drastic modifications from that environment in 
+terms of light, gravity, humidity, etc\dots can lower the character's 
+performance.
+
+\input{tskill4.tex}
+
+\section{Fatigue and Exhaustion}
+
+A character using energy to perform actions draws from two different 
+types of reservoirs: Fatigue and Exhaustion. For physical actions the 
+stats are Physical Fatigue and Physical Exhaustion (PFT and PEX). For mental
+actions the stats are Mental Fatigue and Mental Exhaustion (MFT and MEX).
+
+Fatigue is the quick access pool of energy a character can use.
+Exhaustion is the reserve pool of energy a character can use. 
+
+\subsection{Losing Fatigue}
+
+A character loses fatigue as the result of physical activity or combat. 
+A character that has lost all their fatigue has no modifiers to their actions.
+Fatigue will come back quickly. For each 10 points of fatigue used the character 
+also loses 1 point of exhaustion.
+
+\subsection{Losing Exhaustion}
+A character loses Exhaustion by performing strenous activity or by losing 
+fatigue. There are modifiers for being low in Exhaustion.
+
+\input{tgpm8}
+
+Characters lose MFT and MEX in the same manner.
+
+\input{tgpm9}
+
+\subsection{Restoring Fatigue and Exhaustion}
+
+The restoration of Fatigue is usually very quick. Exhaustion and Fatigue
+restore themselves independently of each other.
+
+\input{tgpm10}
+
+\section{Physical Movement}
+
+Each character has a statistic named Physical Movement. This is the character's
+movement in meters/second at a dash. There are a total of five different types
+of movement that a character may utilize. Each type of movement has its own
+movement rate which is derived from the character's movement statistic. 
+Ideally the player will have the full range of movements listed on his 
+character's sheet. 
+
+\input{tgpm2}
+
+If the movement is being resolved during a time scale of greater than every
+pulse one can get the distance traveled by simply multiplying the movement 
+of the individual times the time spent moving. The time spent accelerating
+is ignored as being negligible.
+
+\begin{quote}
+Let us say that Joe Daring spends 15 seconds running down a deserted street.
+If he doesn't run out of street he will have covered 4 * 15 = 60 meters. If 
+this seems a bit short, keep in mind that a run is not a full dash. At a full
+dash Joe would have covered twice the distance and would be slowing down pretty 
+drastically due to losing wind.
+\end{quote}
+
+\subsection{Acceleration}
+
+\marginpar{It is important to remember that the accelleration rules 
+should only be used when the distance travelled by the characters 
+over a {\bf short period} of time is important }
+
+In dealing with movement on a pulse by pulse scale we need to actually
+deal with acceleration. The sequence is quite simple. Whatever the
+final movement  rate is that the character intends to use is considered
+the target movement rate. When the character first starts moving he
+makes an skill roll in order to start moving at the movement
+rate just below the target movement rate. Once the roll is made the
+character is now moving at that lower rate. On his next  initiative the
+character may attempt to accelerate to the target movement. Note  that
+the gain number is the movement rate. If an acceleration roll is failed
+the end result is that the character drops to the next lowest available
+movement  rate. 
+
+\begin{quotation}
+Reed Johnson has a movement of Dash 10, Run 5, Jog 2.5, Walk 1.3, Crawl .6
+\end{quotation}
+
+\input{tgpm4}
+
+\section{Mental Movement}
+This is a measure of the character's speed of mental travel. It is 
+usually only used in Psionics and Computer usage.
+
+\section{Opposing Skill Rolls}
+
+An opposing skill roll in a roll in which the character attempts to 
+undo an action done previously by another character. Typically the SN 
+of the original action is taken as a negative modifier to the current 
+skill roll.
+
+\section{Stealth and Concealment}
+
+Opposing Skill Rolls
+
+\section{Deception and Detection}
+
+Opposing Skill rolls
+
+
+

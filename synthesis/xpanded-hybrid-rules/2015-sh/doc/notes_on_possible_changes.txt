@@ -1,0 +1,75 @@
+Good morning Alex,
+
+I figured I would start some gaming design discussions because your life and my life are not busy enough already.
+
+So there are several major changes that I have been looking at and mulling over:
+
+1. Simplifying what players have to do in order to determine the percentage
+chance. I want the math to be as simple as possible, but no simpler. I would prefer a table lookup 
+or something like that. 
+
+In an ideal world, the player should be able to add and subtract to create a
+rating or difficulty factor that maps directly to a percentage chance in such a
+way that it is elastic at the high-end (i.e. at the high-end of skill
+complicated maneuvers have much less of an impact on your ability to do things
+than at the low end of skill).
+
+I have attached a document that includes a plot of a function that I think is in
+the ballpark. The function can be massaged once I am clear on the scale of numbers. 
+
+2. Separating out the spiritual from the intellectual in terms of magic systems.
+
+One of the things that has been nagging at me is the mapping shamanism,
+priesthood and paladin-ness to the various mental strength and other properties.
+It really hit the head for me when I realized that I could not model some my
+favorite characters in fiction that were holy but not necessarily mentally
+adept.
+
+I am looking at the following breakdown:
+
+Mental
+
+	Primary stats like (mental strength, mental agility, mental endurance, etc.)
+	Secondary stats like (mental combat ability, etc.)
+
+Physical
+
+	Primary statistics like (physical strength,	physical agility,	physical endurance,	etc.)
+	Secondary stats like (physical combat ability, etc.)
+	
+
+Spiritual
+
+	Primary statistics like 
+	
+		Ki (innate power of spirit)
+		Fastness (how solidly rooted the characters spirit is, kind of like endurance)
+		Virtue (How consistent the character is with their own beliefs)
+		
+	Secondary statistics like
+	
+		Projection (The ability of the character to project Ki externally)
+		Control (The ability to finally control Ki)
+		Sensitivity (the ability to sense spirit in action)
+		
+		Channeling (ability of the character to act as a channel for spirit)
+		Communion (ability of the character act as a vessel or merge point for the spirit of another).
+		
+	
+3. Simplifying how perception/reaction is factored into the game system. Because
+of the recent research into how skill and perceptions interact in the real
+world, I think we can drastically simplify game mechanics without sacrificing
+anything.
+
+I once had some brilliant ideas on this that I forgot to write down. My key
+starting point in all of this is that random chance does nothave as much of an
+impact on who goes first as I used to think. Experience in the type of actions
+and context of those actions has a significantly greater affect. This argues
+that there should be a way to lower or eliminate randomness in determining who
+goes first. 
+
+Whether or not it should be eliminated is a whole other question...
+
+
+4. Dealing with damage types in the scale of damage. Dragon versus mouse that
+sort of thing. Pistol versus helicopter, etc.

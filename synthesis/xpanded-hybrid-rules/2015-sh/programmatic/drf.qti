@@ -1,0 +1,202 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Table1	100	2	12/25/13 9:35 AM
+geometry	0	0	1504	745	active
+header	Difficulty[X]	% Chance[Y]
+ColWidth	128	139	
+<com>
+<col nr="0">
+col("Difficulty")
+</col>
+<col nr="1">
+60 * (atan(0.08*col("Difficulty")) + 0.1)
+</col>
+</com>
+ColType	0;0/4	0;1/0
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	1	11
+1	2	16
+2	3	20
+3	4	25
+4	5	29
+5	6	33
+6	7	37
+7	8	40
+8	9	43
+9	10	46
+10	11	49
+11	12	52
+12	13	54
+13	14	57
+14	15	59
+15	16	60
+16	17	62
+17	18	64
+18	19	65
+19	20	67
+20	21	68
+21	22	69
+22	23	70
+23	24	71
+24	25	72
+25	26	73
+26	27	74
+27	28	75
+28	29	76
+29	30	77
+30	31	77
+31	32	78
+32	33	79
+33	34	79
+34	35	80
+35	36	80
+36	37	81
+37	38	81
+38	39	82
+39	40	82
+40	41	82
+41	42	83
+42	43	83
+43	44	84
+44	45	84
+45	46	84
+46	47	85
+47	48	85
+48	49	85
+49	50	86
+50	51	86
+51	52	86
+52	53	86
+53	54	87
+54	55	87
+55	56	87
+56	57	87
+57	58	88
+58	59	88
+59	60	88
+60	61	88
+61	62	88
+62	63	88
+63	64	89
+64	65	89
+65	66	89
+66	67	89
+67	68	89
+68	69	89
+69	70	90
+70	71	90
+71	72	90
+72	73	90
+73	74	90
+74	75	90
+75	76	90
+76	77	91
+77	78	91
+78	79	91
+79	80	91
+80	81	91
+81	82	91
+82	83	91
+83	84	91
+84	85	91
+85	86	92
+86	87	92
+87	88	92
+88	89	92
+89	90	92
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	12/25/13 9:55 AM
+geometry	479	157	535	469	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	517	406
+<PageGeometry>0.00948767	0.0118765	0.981025	0.964371</PageGeometry>
+PlotTitle	Difficulty vs Chance	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Difficulty	% Chance		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	4	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Difficulty	Table1_% Chance	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	99	1
+scale	0	0	100	0	6	5	0	0
+scale	1	0	100	0	6	5	0	0
+scale	2	0	100	0	6	5	0	0
+scale	3	0	100	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2.5062656641604</x>
+<y>96.655518394649</y>
+<right>27.3182957393484</right>
+<bottom>86.9565217391304</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

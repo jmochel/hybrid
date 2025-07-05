@@ -1,4 +1,5 @@
-\documentstyle[gnuindex]{sh}
+\documentclass{sh}
+
 \raggedbottom
 \makeindex
 \begin{document}

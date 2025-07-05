@@ -1,0 +1,63 @@
+% pg.ltx
+% SH Players Guide
+% 12/31/91	JSM	Created
+% 07.05.94	JSJ-M Modified to LaTeX 2e
+
+\documentclass{book}
+\usepackage{makeidx}
+\usepackage{multicol}
+
+
+% Title Page
+
+\title{Hybrid\thanks{Copyright 1988,1989,1990,1991,1992,1993} : Players Guide }
+\author{Jim Mochel}
+\date{12.20.93}
+
+
+% Begin the Document
+
+\begin{document}
+\maketitle
+
+% The TOC
+
+\pagenumbering{roman}
+\begin{multicols}{2}
+{\small
+\tableofcontents
+}
+\end{multicols}
+
+\listoftables
+
+\pagenumbering{arabic}
+
+% Include Introduction Chapter
+
+\input{intro}
+
+% Chapter on Character Generation
+
+\input{chargen}
+
+% Include skill notes
+
+\input{skills}
+
+% Include simplified chapter on play mechanics
+
+\input{gpm}
+
+% Include Chapter on Combat Mechanics
+
+\input{combat}
+
+% Include Non-Combat Mechanics
+
+\input{npcpc}
+
+\printindex
+
+\end{document}
+

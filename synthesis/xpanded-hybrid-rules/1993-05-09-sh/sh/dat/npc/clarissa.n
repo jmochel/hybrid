@@ -1,0 +1,48 @@
+.Name CLARISSA
+.Title								
+.Race HUMAN
+.Culture
+.Aspect 
+.PST 9
+.PEN 18		
+.DEX 17
+.PAG 13		
+.PAW 14
+.MST 14		
+.MEN 14
+.PSI 15
+.MAG 14
+.MAW 14
+.HT 5'2"      
+.WT 89		 
+.AGE 21
+.BeginDesc
+ 16: A SLIGHT PROPORTIONED BLONDE  WITH GREEN EYES AND A SMALL SCAR  
+ON HER CHEEK
+.EndDesc
+.BeginSkills
+Weapon: DAGGER(2)			  , 
+.EndSkills
+.Locale 
+.BeginKnownAssoc
+ ALDEN THE HALF ORC,PHAEDRUS
+.EndKnownAssoc
+.BeginSecretAssoc
+ HEAD OF THE GOLDEN RAT THIEVES GUILD IN CAITHNARD
+.EndSecretAssoc
+.BeginFriends LEITHAN
+.EndFriends
+.BeginComment
+ AN INTERESTING PERSONALITY.
+.EndComment
+.BeginPossess
+ DAGGER OF RETURNING, LOTS OF POISON
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic 
+.BeginSpells
+.EndSpells
+.EndNPC

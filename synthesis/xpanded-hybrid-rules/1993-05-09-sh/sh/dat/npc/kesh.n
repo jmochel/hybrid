@@ -1,0 +1,60 @@
+.Name Kesh The Survivor
+.Title Seargent					   
+.Race Half Orc
+.Culture
+.Aspect Death
+.PST 26
+.PEN 18		
+.DEX 22
+.PAG 12		
+.PAW 19
+.MST 10		
+.MEN 14
+.PSI 12
+.MAG 14
+.MAW 17
+.HT 5'4"      
+.WT 180		 
+.AGE 23
+.BeginDesc
+ SHORT BLOND HAIR AND BLUE  EYES.									 
+Voice often loses its uncultured forms and becomes more smoothly accented
+.EndDesc
+.BeginSkills
+Weapon: Large Circ Shield  , 7
+Weapon: Two Handed Sai		  , 7
+Weapon: Buckler				 , 4
+ Dodge				 , 4
+ Combat Acrobatics	 , 8
+ Shield Draw		 , 5
+ Battle Talk		 , 0
+ Half Orcan			 , 7
+ Trade				, 6
+.EndSkills
+.Locale TRAVELS WITH ALDEN
+.BeginKnownAssoc
+ ALDEN THE HALF ORC,PHAEDRUS
+.EndKnownAssoc
+.BeginSecretAssoc
+.EndSecretAssoc
+.BeginFriends
+.EndFriends
+.BeginComment
+ A SKILLED DEFENSIVE FIGHTER. ONE OF SIX SURVIVING MEMBERS OF THE		
+GRIMTOOTH CLAN. (MYRIL,DANAR SPIKER,LONGJAW CRACK,STONE EYES,ALDEN,FERILAN)		
+HAS TRAVELLED THE ENTIRE LENGTH OF THE KASAN DESERT. Tracked down Alden because 
+he was given a warning that keeping ALden alive keeps him alive.
+.EndComment
+.BeginPossess
+ +10% Scale MAIL													
++10% Bucklers																	
++20% Shield called "Glonama"
+.EndPossess
+.BeginHistory
+.EndHistory
+.BeginStatus
+.EndStatus
+.SchoolOfMagic None
+.BeginSpells
+.EndSpells
+.EndNPC

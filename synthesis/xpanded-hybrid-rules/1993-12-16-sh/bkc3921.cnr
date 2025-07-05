@@ -1,0 +1,43 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911206171233.190;
+          06 Dec 91 17:13:16 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911206171233.190;
+          06 Dec 91 17:13:04 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA02439; Fri, 6 Dec 91 17:14:20 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA10586; Fri, 6 Dec 91 16:45:47 -0500
+Message-Id: <9112062145.AA10586@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 3960; Fri, 06 Dec 91 16:45:55 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 5916;
+ Fri, 06 Dec 91 16:45:54 EST
+Date:         Fri, 6 Dec 1991 15:11:30 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: FORSCHLE%UKANVM.BITNET@uga.cc.uga.edu
+Subject:      Re: Game Design: Checklist
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  Message of Fri,
+              6 Dec 1991 13:25:57 CST from <jason@HERMES.CRAY.COM>
+
+Jason,
+
+In designing my own game, I've dividen the quality/quantity issue
+this way: CON is an attribute that applies to humans, orcs, rocks,
+locomotives, and so on, and reflects what the being is made out
+of.  Grantite might have a CON of 25, for example, and this is
+entirely qualitative: it might be a pebble or an asteroid made of
+granite, it still has CON 25.  HP (hit points) are entirely
+quantitative, and vary directly according to an object's mass.
+I forget the exact figures, but basically anything 100 kg has, say,
+21 HP, whether it's a steel door or a giant amoeba.  Now there's
+another characteristic called ARM (armor) which also varies by
+material structure, and this varies by type of material (iron,
+play-dough, etc.) and also by how strudily the thing is built:
+an iron bridge will have more ARM than strands of iron wire.
+Actually I think CON also goes down if the structure is flimsy,
+I'll have to check on that.  But HP always reflect mass, and have
+nothing to do with internal toughness.
+
+-scott f

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tanah</title>
+    <sect1>
+        <title>Section1 Title</title>
+        <para>An inline SVG graphic:  <inlinemediaobject>
+            <imageobject>
+                <imagedata>
+                    <svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="3cm" height="3cm"
+                        viewBox="0 0 400 400">
+                        <svg:g style="fill-opacity:0.7; stroke:black; stroke-width:0.1cm;">
+                            <svg:circle cx="6cm" cy="2cm" r="100" style="fill:red;"
+                                transform="translate(0,50)"/>
+                            <svg:circle cx="6cm" cy="2cm" r="100" style="fill:blue;"
+                                transform="translate(70,150)"/>
+                            <svg:circle cx="6cm" cy="2cm" r="100" style="fill:green;"
+                                transform="translate(-70,150)"/>
+                        </svg:g>
+                    </svg:svg>                    
+                </imagedata>
+            </imageobject>
+        </inlinemediaobject>
+        </para>
+    </sect1>
+    <sect1>
+        <title>Locale</title>
+        <para>The primary setting for any culture</para>
+        <simplelist>
+            <member>What does it look like?</member>
+            <member>What is the geography?</member>
+            <member>How accessible is this area?</member>
+            <member>What natural features mark the borders? </member>
+            <member>What are the most striking features of landscape, climate, animals, etc.
+                in thisarea? </member>
+            <member>How will these features affect travel time, communication,
+                etc.?</member>
+            <member>What of are the resources for survival?</member>
+            <member>What kind of clothes and shelter are needed?</member>
+            <member>What kind of food can be so grown, hunted, caught?</member>
+            <member>What kinds of natural phenomenon might influence beliefs?</member>
+            <member>Does the climate allow only survival activities or is there for leisure
+                developments such as art philosophy etc.?</member>
+        </simplelist>
+    </sect1>
+    <sect1>
+        <title>Climate</title>
+        <para/>
+        <simplelist>
+            <member>What is the climate?</member>
+            <member>What kinds of clothes and shelter are needed?</member>
+            <member>Will the climate only allow survival activities or will there be time
+                for leisure developments such as art, philosophy, etc?</member>
+        </simplelist>
+    </sect1>
+    <sect1>
+        <title>Flora</title>
+        <para/>
+        <simplelist>
+            <member>What sorts of food can be grown, hunted, caught?</member>
+            <member>What are the people's main crops?</member>
+            <member>What flora are especially helpful? Like hemp and flax.</member>
+            <member>What are known delicacies.</member>
+            <member>What fruits vegetables can be turned into a liquor and/or drugs or
+                medicines.</member>
+            <member>Are there predatory plants?</member>
+            <member>What are the sources of poisons?</member>
+            <member>How much of the country is farmland? Forest? Desert? Mountains?
+                Plains?</member>
+            <member>What are the primary crops (e.g., potatoes, cotton, tobacco, coffee,
+                rice, peanuts, wheat, sugarcane, etc.)? </member>
+            <member>Are any grown mainly for export? </member>
+            <member>What crops can not be grown here because of the soil, climate, or for
+                other reasons?</member>
+        </simplelist>
+    </sect1>
+    <sect1>
+        <title>Fauna</title>
+        <para/>
+        <simplelist>
+            <member>What animals are especially helpful to your world?</member>
+            <member>What is a creature that preys on other nuisance creatures?</member>
+            <member>What are he domesticated animals?</member>
+            <member>What are the food animals?</member>
+            <member>Whether the food taboos? Hidden or non Hidden rationale?</member>
+            <member>Which animals are used in medicine.</member>
+            <member>What animals are used for poisons.</member>
+            <member>What wild animals, actual or imaginary, live in this area? </member>
+            <member>Are any of them potentially useful — e.g., for fur, whale oil, hides,
+                magical ingredients, hat feathers?</member>
+            <member>Which animals, actual or imaginary, are commonly domesticated in this
+                area? </member>
+            <member>Which aren’t here, but are elsewhere? (Example: water buffalo in India
+                vs. oxen in Europe vs. camels in desert areas.)</member>
+            <member>If there are imaginary animals (dragons, unicorns, etc.), how do they
+                fit into the ecology? </member>
+            <member>What do they eat? How much habitat do they require? </member>
+            <member>Can they live anywhere, or do they prefer or need specific kinds of
+                climate or terrain? </member>
+            <member>Are they intelligent and/or capable of working spells, talking,
+                etc.?</member>
+        </simplelist>
+    </sect1>
+    
+    
+    <sect1>
+        <title>Magical Resources</title>
+        <para/>
+    </sect1>
+    
+    <sect1>
+        <title>Appearance</title>
+        <para/>
+    </sect1>
+    <sect1>
+        <title>Language</title>
+        <subtitle>Subtitle of Section 1</subtitle>
+        <simplelist>
+            <member>How many languages are there? </member>
+            <member>Which ones are related (e.g., the Romance languages) and why? </member>
+            <member>Which languages borrow words or phrases from other languages? </member>
+            <member>Which is likely to be most widely spoken?</member>
+            <member>Is there a “trade language” that facilitates commerce between countries
+                that don’t speak the same tongue? </member>
+            <member>Is there a “universal language” spoken by educated or noble persons, as
+                Latin was in the Middle Ages?</member>
+            <member>What languages are spoken?, </member>
+            <member>How is the language recorded?, </member>
+            <member>How are messages and information passed along?, </member>
+            <member>How is history recorded?,</member>
+            <member>is the society literate or illiterate?, </member>
+            <member>Who provides education?, </member>
+            <member>Who receives education?, </member>
+            <member>What is the "technology" involved in long distance
+                communication?</member>
+            <member>Is there a “trade language” that facilitates commerce between countries
+                that don’t speak the same tongue?</member>
+            <member>Is there a “universal language” spoken by educated or noble persons, as
+                Latin was in the Middle Ages?</member>
+            <member>Are some or all people bilingual?</member>
+            <member>Is there a common second language many people know?</member>
+            <member>Are there “secret” languages or codes known only by priests, soldiers,
+                wizards, guild members, etc.?</member>
+            <member>Why were they developed?</member>
+            <member>What are the variations in speech patterns, syntax, and slang from one
+                social class to another?</member>
+            <member>One occupation to another?</member>
+            <member>One region to another?</member>
+            <member>One race to another?</member>
+            <member>What areas do local slang phrases come out of?</member>
+            <member>(Example: in a fishing town, referring to good luck as “a good catch,”
+                while people in a farming town refer to it as “an unexpected harvest”.) What
+                kinds of colorful turns of phrase do people use?</member>
+            <member>What things in this culture would their language have many specific
+                words for (e.g., Inuit languages that have 14+ words for different kinds of
+                snow)?</member>
+            <member>What do the people in this culture consider important enough to
+                name?</member>
+            <member>What does this say about the way they look at the world?</member>
+            <member>What things would the people of this culture not have a name for, or
+                have one word that covers numerous variations?</member>
+            <member>What do they consider too unimportant to name?</member>
+            <member>How does this affect the way they see the world?</member>
+            <member>Are there words that must never be spoken except at particular times, in
+                ceremonies, or under particular circumstances?</member>
+            <member>Are there words that must not be spoken in polite company?</member>
+            <member>Do these words differ from culture to culture or race to race?</member>
+            <member>What will people swear a binding oath by?</member>
+            <member>What do people use as curse words?</member>
+            <member>How many languages are there?</member>
+            <member>Which ones are related (e.g., the Romance languages) and why?</member>
+            <member>Which languages borrow words or phrases from other languages?</member>
+            <member>Which is likely to be most widely spoken?</member>
+        </simplelist>
+    </sect1>
+    <sect1>
+        <title>Location</title>
+        <para/>
+    </sect1>
+    <sect1>
+        <title>Calendar</title>
+        <para/>
+        <simplelist>
+            <member>Is there a single, generally accepted calendar (including time
+                measurements), or do different countries or peoples or races have different
+                ones?</member>
+            <member/>
+            <member>How is the day divided into smaller time units?</member>
+            <member>What are they (Hour of the Lark, Sunrise Bell, Nones, etc.)?</member>
+            <member>Are the names relevant to anything?</member>
+            <member>Is the length of an hour fixed, or does it vary depending on changes in
+                the length of the day as the seasons change?</member>
+            <member/>
+            <member>What are the names of months, and how many days in each?</member>
+            <member>How many days in a week?</member>
+            <member>Months in a year?</member>
+            <member>Are there leap years?</member>
+            <member>If so, who keeps track?</member>
+            <member/>
+            <member>Which days are general holidays or festival times?</member>
+            <member>What do they celebrate?</member>
+            <member>Are there any that are only celebrated in particular countries, cities,
+                or regions?</member>
+            <member/>
+            <member>What event(s) do people use to date years?</member>
+            <member>Do they use a single event (the creation of the world, the end of the
+                Great War, the invention of atomic power, etc.) or are events dated based on
+                recurring things (the 12th year of Tiberius’ reign, the 301st year of the
+                Han Dynasty)?</member>
+            <member/>
+            <member>How do people tell what time it is?</member>
+            <member>Are there clocks, watches, sundials, etc., or do people have to just
+                listen for bells from the castle or church, or just eyeball the
+                sun?</member>
+            
+            <member>Are there any days that are considered “outside the year,” like Mardi
+                Gras or the Feast of Fools?</member>
+            <member>How are these days customarily observed?</member>
+            <member>How did they originate?</member>
+            
+        </simplelist>
+    </sect1>
+    
+</article>

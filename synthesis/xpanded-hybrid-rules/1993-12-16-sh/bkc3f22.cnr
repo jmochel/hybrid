@@ -1,0 +1,131 @@
+Received: From LARD/MAILQUEUE by accra.oak.com
+          via Charon 3.4 with IPX id 102.911209131320.255;
+          09 Dec 91 13:14:42 -0500
+Received: From oak.com by accra.oak.com
+          via Charon 3.4 with SMTP id 102.911209131320.255;
+          09 Dec 91 13:14:31 +0500
+Received: from uunet.UUCP by oak.com (4.1/SMI-4.1)
+	id AA03870; Mon, 9 Dec 91 13:15:08 EST
+Received: from uga.cc.uga.edu by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA29558; Mon, 9 Dec 91 11:55:07 -0500
+Message-Id: <9112091655.AA29558@relay1.UU.NET>
+Received: from UGA.CC.UGA.EDU by uga.cc.uga.edu (IBM VM SMTP R1.2.2MX) with BSMTP id 4249; Mon, 09 Dec 91 11:55:04 EST
+Received: from UGA.BITNET by UGA.CC.UGA.EDU (Mailer R2.07) with BSMTP id 9493;
+ Mon, 09 Dec 91 11:53:31 EST
+Date:         Mon, 9 Dec 1991 10:29:53 CST
+Reply-To: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+Sender: Gamemasters Interest Group <GMAST-L%UTCVM.BITNET@uga.cc.uga.edu>
+From: Jason D Parker <jason%HERMES.CRAY.COM@uga.cc.uga.edu>
+Subject:      Re: Attributes
+To: Multiple recipients of list GMAST-L <GMAST-L@UTCVM>
+In-Reply-To:  <9112091548.AA02978@timbuk.cray.com>; from
+              "TELLEFSENGW%HIRAMB.BITNET@uga.cc.uga.edu" at Dec 9, 91 10:45 am
+
+Ok GUY!
+
+Good post.  I am here submitting an alternate idea/proposal for contrast.
+I haven't digested yours yet.  But LET THE GAMES BEGIN!
+
+----
+
+Ok.  This proposal centers around a MIND/BODY dualism.  Each character
+attribute has both a MIND value and a BODY value.
+
+For each attribute (both MIND & BODY) There are two values.  One represents
+the current characters ability under ideal conditions one's POTENTIAL, the
+other represents the current ability under the CURRENT situation (IE injury,
+mental fatigue etc.)  Potential can increase during the course of a game
+analogous to experience points.
+
+The attributes I picked are simply the choices I had made in previous years.
+They are subject to negotiation (as is everything).  The numbers are simply
+numbers, as scales we haven't figured out anything yet.
+
+EXAMPLE:
+
+      MIND                  /                BODY
+
+current potential       ATTRIBUTE       current potential
+
+50      75              INTELLIGENCE    55      80
+75      80              STRENGTH        68      70
+68      77              CONSTITUTION    34      57
+10      39              BEAUTY          25      32
+69      69              AGILITY         40      45
+30      30              DEXTERITY       12      26
+4       5               WISDOM          18      29
+
+Couple of comments:
+
+MIND values are meant to represent knowledge or skill about an area/attribute.
+BODY values are meant to represent the physical ability of the body (or brain).
+
+So..
+
+MENTAL INTELLIGENCE: Knowledge of logic/reasoning ability...
+BODILY INTELLIGENCE: Structure of the Brain to reason, memory power etc.
+
+MENTAL STRENGTH: Knowledge of the application of strength and leverage.
+BODY STRENGTH: The body's capacity for power strength etc...
+
+This is just an outline to start a conversation of these ideas.  The hope with
+the current example of its application, is that with a set of attributes
+in both MIND/BODY you can create an refer to any quality a character might
+have by looking a some combination of the attributes given.
+
+In glancing (and I mean glancing) at Guy's post, he has things like Willpower
+and Passion.  These could very well be added to the above example if desired.
+But they could also be infered from given attributes.  Willpower is the
+combination of MENTAL INTELLIGENCE & WISDOM with the BODY INTELLIGENCE & WISDOM
+to carry it out.  Passion could be MENTAL WISDOM & BEAUTY... just thoughts
+but you get the idea.
+
+One final comment.. Things like Willpower & Passion I tend to think of as in
+part of ROLEPLAYING.  That isn't to say I'm against having attributes like
+that, only that with the concept of scalability we might want to get a list
+of SETs of attributes that could be incrementally applied.
+
+Like the first set is:
+
+        STRENGTH        ala TWERPS
+
+second set is:
+
+        STRENGTH
+        AGILITY
+        CONSTITUTION
+
+third set is:
+
+        INTELLIGENCE
+        STRENGTH
+        CONSTITUTION
+        BEAUTY
+        AGILITY
+        DEXTERITY
+        WISDOM
+
+fourth set is:
+
+        WILLPOWER
+        INTELLIGENCE
+        STRENGTH
+        CONSTITUTION
+        BEAUTY
+        AGILITY
+        DEXTERITY
+        WISDOM
+        PASSION
+        SELF
+
+and etc....
+
+These are just examples of the types of sets we could create.  One tool
+that would be very usefull is a tool to convert from one set to another.
+We need our points scaling system to build that tool I think.
+
+-jason
+jason@cray.com
+
+
+--
